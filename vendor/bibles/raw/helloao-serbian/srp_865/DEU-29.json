@@ -1,0 +1,279 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "srp_865",
+    "name": "Ponovljeni Zakon",
+    "commonName": "Ponovljeni Zakon",
+    "title": "Ponovljeni Zakon",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "b000b6651908c9448c65c662cec1fa45977205b236e0922d505241ab679311df",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DEU/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 1
+    },
+    "lastChapterNumber": 34,
+    "lastChapterApiLink": "/api/srp_865/DEU/34.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 34
+    },
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 29,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ovo su rijeèi zavjeta koji zapovjedi Gospod Mojsiju da uèini sa sinovima Izrailjevijem u zemlji Moavskoj, osim zavjeta koji je uèinio s njima na Horivu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I sazva Mojsije sve sinove Izrailjeve i reèe im: vidjeli ste sve što uèini Gospod na vaše oèi u zemlji Misirskoj Faraonu i svijem slugama njegovijem i svoj zemlji njegovoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Kušanja velika, koja vidješe oèi tvoje, one znake i èudesa velika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ali vam ne dade Gospod srca, da razumijete, ni oèiju, da vidite, ni ušiju, da èujete do ovoga dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I vodih vas èetrdeset godina po pustinji; ne ovetšaše haljine vaše na vama, niti obuæa tvoja ovetša na nogama tvojima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Hljeba ne jedoste, ni piste vina i silovita piæa, da biste poznali da sam ja Gospod Bog vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I kad doðoste na ovo mjesto, izide Sion car Esevonski i Og car Vasanski pred nas u boj; i pobismo ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I uzesmo zemlju njihovu, i dadosmo je u našljedstvo plemenu Ruvimovu i plemenu Gadovu i polovini plemena Manasijina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Zato držite rijeèi ovoga zavjeta i tvorite ih, da biste napredovali u svemu što radite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Vi stojite danas svi pred Gospodom Bogom svojim, glavari od plemena vaših, starješine vaše i upravitelji vaši, svi ljudi Izrailjci,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Djeca vaša, žene vaše, i došljak koji je u vašem okolu, i onaj koji ti drva sijeèe, i onaj koji ti vodu nosi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Da pristaneš na zavjet Gospoda Boga svojega i na kletvu njegovu, koju uèini s tobom danas Gospod Bog tvoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Da te danas postavi sebi za narod i da ti on bude Bog, kao što ti je rekao i kao što se zakleo ocima tvojim, Avramu, Isaku i Jakovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I ne s vama samima èinim ovaj zavjet i ovu kletvu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Nego sa svakim koji danas stoji ovdje s nama pred Gospodom Bogom našim, i sa svakim koji nije danas ovdje s nama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer vi znate kako smo živjeli u zemlji Misirskoj, i kako smo prošli kroz narode kroz koje smo prošli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I vidjeli ste gadove njihove i idole njihove od drveta i od kamena, od srebra i od zlata, koji su kod njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Neka ne bude meðu vama èovjeka ni žene ni porodice ni plemena, kojemu bi se srce odvratilo danas od Gospoda Boga našega da ide da služi bogovima onijeh naroda; neka ne bude meðu vama korijena na kom bi rastao otrov ili pelen,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I èuvši rijeèi ove kletve da se ne pohvali u srcu svom govoreæi: biæu miran ako uzidem za onijem što u srcu svom smislim, dodajuæi pijanstvo žeði."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Neæe Gospod oprostiti takome, nego æe se onda raspaliti gnjev Gospodnji i revnost njegova na takoga èovjeka, i pašæe na nj sva kletva koja je napisana u ovoj knjizi, i istrijebiæe Gospod ime njegovo pod nebom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I odluèiæe ga Gospod na zlo od svijeh plemena Izrailjevijeh po svijem kletvama zavjeta napisanoga u knjizi ovoga zakona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Tada æe govoriti potonji naraštaj, sinovi vaši koji nastanu iza vas, i došljak koji doðe iz daleke zemlje, kad vide zla u zemlji ovoj i bolesti, koje æe Gospod pustiti na nju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Zemlju ovu opaljenu sumporom i solju, gdje se ne sije niti što nièe niti na njoj raste kaka biljka, kao gdje je propao Sodom i Gomor, Adama i Sevojim, koje zatr Gospod u gnjevu svojemu i u jarosti svojoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Govoriæe svi narodi: zašto uèini ovo Gospod od ove zemlje? kakva je to žestina velikoga gnjeva?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I odgovaraæe se: jer odustaviše zavjet Gospoda Boga otaca svojih, koji uèini s njima kad ih izvede iz zemlje Misirske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jer idoše i služiše drugim bogovima i poklanjaše im se, bogovima kojih ne znaše i koji im ništa ne dadoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Zato se Gospod razgnjevi na tu zemlju, i pusti na nju sva prokletstva zapisana u ovoj knjizi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I istrijebi ih Gospod Bog iz zemlje njihove u gnjevu i u jarosti i u ljutini velikoj, i izbaci ih u drugu zemlju, kao što se vidi danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Što je tajno ono je Gospoda Boga našega, a javno je naše i sinova naših dovijeka, da bismo izvršivali sve rijeèi ovoga zakona."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DEU/29.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 29
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DEU/30.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 30
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DEU/28.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 28
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

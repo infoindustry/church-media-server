@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 38,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Gospode! nemoj me karati u gnjevu svojem, niti me nakazati u jarosti svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer strijele tvoje ustrijeliše me, i ruka me tvoja tišti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Nema zdrava mjesta na tijelu mojem od gnjeva tvojega; nema mira u kostima mojim od grijeha mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer bezakonja moja izaðoše vrh glave moje, kao teško breme otežaše mi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Usmrdješe se i zagnojiše se rane moje od bezumlja mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Zgrèio sam se i pogurio veoma, vas dan idem sjetan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer sam iznutra pun ognja, i nema zdrava mjesta na tijelu mojem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Iznemogoh i veoma oslabih, rièem od trzanja srca svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Gospode! pred tobom su sve želje moje, i uzdisanje moje nije od tebe sakriveno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Srce moje jako kuca, ostavi me snaga moja, i vid oèiju mojijeh, ni njega mi nema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Drugovi moji i prijatelji moji videæi rane moje otstupiše, daleko stoje bližnji moji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Koji traže dušu moju namještaju zamku, i koji su mi zlu radi, govore o pogibli i po vas dan misle o prijevari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A ja kao gluh ne èujem i kao nijem koji ne otvora usta svojijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ja sam kao èovjek koji ne èuje ili nema u ustima svojim pravdanja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer tebe, Gospode, èekam, ti odgovaraj za mene, Gospode, Bože moj!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer rekoh: da mi se ne svete, i da se ne razmeæu nada mnom, kad se spotakne noga moja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer sam gotov pasti, i tuga je moja svagda sa mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Priznajem krivicu svoju, i tužim radi grijeha svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Neprijatelji moji žive, jaki su, i sila ih ima što me nenavide na pravdi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Koji mi vraæaju zlo za dobro, neprijatelji su mi zato što sam pristao za dobrim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Nemoj me ostaviti, Gospode, Bože moj! nemoj se udaljiti od mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Pohitaj u pomoæ meni, Gospode, spasitelju moj!"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/38.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 38
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/39.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 39
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/37.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 37
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

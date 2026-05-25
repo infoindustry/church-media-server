@@ -1,0 +1,405 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JHN",
+    "translationId": "srp_865",
+    "name": "Jovanu",
+    "commonName": "Jovanu",
+    "title": "Jevanðelje po Jovanu",
+    "order": 43,
+    "numberOfChapters": 21,
+    "sha256": "b0467ac7d5635aaff73b88f7076ca219a8a790ad4b0c4ba876a7716c71658f8f",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JHN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JHN/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 879
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A potom bješe praznik Jevrejski, i iziðe Isus u Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "U Jerusalimu pak kod Ovèijeh vrata ima banja, koja se zove Jevrejski Vitezda, i oko nje pet pokrivenijeh trijemova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "U kojima ležaše mnoštvo bolesnika, slijepijeh, hromijeh, suhijeh, koji èekahu da se zaljulja voda;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer anðeo Gospodnji silažaše u odreðeno vrijeme u banju i muæaše vodu; i koji najprije ulažaše pošto se zamuti voda, ozdravljaše, makar kakva bolest da je na njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A ondje bijaše jedan èovjek koji trideset i osam godina bješe bolestan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Kad vidje Isus ovoga gdje leži, i razumje da je veæ odavno bolestan, reèe mu: hoæeš li da budeš zdrav?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Odgovori mu bolesni: da, Gospode; ali nemam èovjeka da me spusti u banju kad se zamuti voda; a dok ja doðem drugi siðe prije mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Reèe mu Isus: ustani, uzmi odar svoj i hodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I odmah ozdravi èovjek, i uzevši odar svoj hoðaše. A taj dan bješe subota."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Tada govorahu Jevreji onome što ozdravi: danas je subota i ne valja ti odra nositi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A on im odgovori: koji me iscijeli on mi reèe: uzmi odar svoj i hodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A oni ga zapitaše: ko je taj èovjek koji ti reèe: uzmi odar svoj i hodi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A iscijeljeni ne znadijaše ko je; jer se Isus ukloni, jer ljudstva mnogo bješe na mjestu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A potom ga naðe Isus u crkvi i reèe mu: eto si zdrav, više ne griješi, da ti ne bude gore."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A èovjek otide i kaza Jevrejima da je ono Isus koji ga iscijeli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I zato gonjahu Jevreji Isusa, i gledahu da ga ubiju, jer èinjaše to u subotu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A Isus im odgovaraše: otac moj doslije èini, i ja èinim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I zato još više gledahu Jevreji da ga ubiju što ne samo kvaraše subotu nego i ocem svojijem nazivaše Boga i graðaše se jednak Bogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A Isus odgovarajuæi reèe im: zaista, zaista vam kažem: sin ne može ništa èiniti sam od sebe nego što vidi da otac èini; jer što on èini ono i sin èini onako;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer otac sina ljubi, i sve mu pokazuje što sam èini; i pokazaæe mu veæa djela od ovijeh da se vi èudite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer kako što otac podiže mrtve i oživljuje, tako i sin koje hoæe oživljuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer otac ne sudi nikome, nego sav sud dade sinu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Da svi poštuju sina kao što oca poštuju. Ko ne poštuje sina ne poštuje oca koji ga je poslao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Zaista, zaista vam kažem: ko moju rijeè sluša i vjeruje onome koji je mene poslao, ima život vjeèni, i ne dolazi na sud, nego je prešao iz smrti u život."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Zaista, zaista vam kažem: ide èas, i veæ je nastao, kad æe mrtvi èuti glas sina Božijega, i èuvši oživljeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jer kako što otac ima život u sebi, tako dade i sinu da ima život u sebi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I dade mu vlast da i sud èini, jer je sin èovjeèij."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ne divite se ovome, jer ide èas u koji æe svi koji su u grobovima èuti glas sina Božijega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I iziæi æe koji su èinili dobro u vaskrsenije života, a koji su èinili zlo u vaskrsenije suda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ja ne mogu ništa èiniti sam od sebe; kako èujem onako sudim, i sud je moj pravedan; jer ne tražim volje svoje nego volju oca koji me je poslao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ako ja svjedoèim za sebe, svjedoèanstvo moje nije istinito."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ima drugi koji svjedoèi za mene; i znam da je istinito svjedoèanstvo što svjedoèi za mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Vi poslaste k Jovanu, i posvjedoèi vam za istinu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A ja ne primam svjedoèanstva od èovjeka, nego ovo govorim da se vi spasete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "On bješe vidjelo koje goraše i svijetljaše, a vi se htjeste malo vremena radovati njegovu svijetljenju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ali ja imam svjedoèanstvo veæe od Jovanova; jer poslovi koje mi dade otac da ih svršim, ovi poslovi koje ja radim svjedoèe za mene da me otac posla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I otac koji me posla sam svjedoèi za mene. Ni glasa njegova kad èuste ni lica njegova vidjeste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I rijeèi njegove nemate u sebi da stoji; jer vi ne vjerujete onome koga on posla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Pregledajte pisma, jer vi mislite da imate u njima život vjeèni; i ona svjedoèe za mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I neæete da doðete k meni da imate život."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Ja ne primam slave od ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Nego vas poznajem da ljubavi Božije nemate u sebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Ja doðoh u ime oca svojega i ne primate me; ako drugi doðe u ime svoje, njega æete primiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Kako vi možete vjerovati kad primate slavu jedan od drugoga, a slave koja je od jedinoga Boga ne tražite?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Ne mislite da æu vas tužiti ocu; ima koji vas tuži, Mojsije, u koga se vi uzdate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Jer da ste vjerovali Mojsiju tako biste vjerovali i meni; jer on pisa za mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "A kad njegovijem pismima ne vjerujete kako æete vjerovati mojijem rijeèima?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JHN/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JHN/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JHN/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 47
+}

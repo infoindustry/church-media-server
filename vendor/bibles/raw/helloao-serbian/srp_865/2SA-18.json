@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2SA",
+    "translationId": "srp_865",
+    "name": "2. Samuelova",
+    "commonName": "2. Samuelova",
+    "title": "2. Samuelova",
+    "order": 10,
+    "numberOfChapters": 24,
+    "sha256": "e9bcfc863ad7bd2a939eb305126ad735f393202a88f773ac55550249ed219529",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/2SA/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 695
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I prebroji David narod što bijaše s njim, i postavi im tisuænike i stotinike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I predade David treæinu naroda Joavu, i treæinu Avisaju sinu Serujinu bratu Joavovu, i treæinu Itaju Getejinu. Pa onda reèe car narodu: i ja æu iæi s vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ali narod reèe: nemoj ti iæi; jer i da pobjegnemo, neæe mariti za to; ili da nas pola izgine, neæe mariti za to; jer si ti sam kao nas deset tisuæa, zato je bolje da nam iz grada pomažeš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A car im reèe: što vam se èini da je dobro uèiniæu. I car stade kod vrata, i sav narod izlažaše po sto i po tisuæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I zapovjedi car Joavu i Avisaju i Itaju, i reèe: èuvajte mi dijete Avesaloma. I sav narod èu kako car zapovjedi svijem vojvodama za Avesaloma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I tako izide narod u polje pred Izrailja, i zametnu se boj u šumi Jefremovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ondje razbiše narod Izrailjev sluge Davidove, i mnogo izgibe ondje u onaj dan, dvadeset tisuæa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer se boj raširi po svoj zemlji, i više proždrije naroda u onaj dan šuma nego što proždrije maè."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Avesalom se sukobi sa slugama Davidovijem, i Avesalom jahaše na mazgi, i mazga naiðe pod granat veliki hrast, te on zape glavom za hrast i osta viseæi izmeðu neba i zemlje, a mazga ispod njega otrèa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Vidjevši to jedan èovjek javi Joavu, i reèe: gle, vidjeh Avesaloma gdje visi o hrastu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Joav reèe èovjeku koji mu to kaza: gle, vidje, pa zašto ga ne ubi i ne svali ga na zemlju? Ja bih ti dao deset sikala srebra i jedan pojas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A èovjek reèe Joavu: da mi je u rukama izmjereno tisuæu sikala srebra, ne bih digao ruke svoje na sina careva; jer smo èuli kako je car zapovjedio tebi i Avisaju i Itaju govoreæi: èuvajte mi svi dijete Avesaloma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ili da sam uèinio nevjeru na svoju dušu, ništa se ne može od cara zatajiti, i ti bi sam ustao na me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Joav reèe: neæu ja dangubiti s tobom. Pa uzev tri strijele u ruku, zastrijeli ih u srce Avesalomu, jošte živu o hrastu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Potom opkoliše Avesaloma deset momaka, koji nošahu oružje Joavu, i biše ga i ubiše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tada Joav zatrubi u trubu, i narod presta goniti Izrailja, jer Joav ustavi narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I uzeše Avesaloma i baciše u šumi u veliku jamu, i nabacaše na nj vrlo veliku gomilu kamenja; a Izrailjci svi pobjegoše svaki k svome šatoru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Avesalom pak bješe podigao sebi spomenik za života u dolini carskoj; jer govoraše: nemam sina, da se saèuva spomen imenu mojemu. I nazva onaj spomenik svojim imenom, koji se zove mjesto Avesalomovo do današnjega dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tada reèe Ahimas sin Sadokov: da otrèim da odnesem glas caru, da ga je Gospod izbavio iz ruku neprijatelja njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Joav mu reèe: nemoj danas biti glasnik, nego æeš javiti drugi dan; a danas nemoj nositi glasa, jer je sin carev poginuo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Zatijem reèe Joav Husiju: idi, javi caru što si vidio. I pokloni se Husije Joavu, i otrèa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A Ahimas sin Sadokov opet reèe Joavu: što mu drago, da trèim i ja za Husijem. Reèe Joav: što bi trèao, sine, kad nemaš dobra glasa?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Opet reèe: što mu drago, da trèim. Odgovori mu: a ti trèi. I otrèa Ahimas preèim putem, i preteèe Husija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A David sjeðaše meðu dvojim vratima, i stražar izide na krov od vrata, na zid, i podigavši oèi svoje ugleda, a to jedan èovjek trèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Pa povika stražar i javi caru. A car reèe: ako je jedan, glas nosi. I onaj iðaše sve bliže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Potom ugleda stražar drugoga èovjeka gdje trèi. I povika stražar k vrataru i reèe: evo još jedan, trèi sam. A car reèe: i on nosi glas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I reèe stražar: trk prvoga èini mi se kao da je trk Ahimasa sina Sadokova. Reèe car: dobar je èovjek, i ide s dobrijem glasom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Tada povika Ahimas i reèe caru: sretno! I pokloni se caru licem do zemlje, i reèe: da je blagosloven Gospod Bog tvoj, koji predade ljude koji podigoše ruke svoje na cara gospodara mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A car mu reèe: je li zdravo dijete Avesalom? Odgovori Ahimas: vidio sam veliku vrevu, kad Joav posla slugu careva i mene slugu tvojega, ali ne znam šta bješe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A car mu reèe: ukloni se, i stani tamo. I on se ukloni, i stade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Tada, gle, doðe Husije i reèe: glas caru i gospodaru mojemu da te je Gospod izbavio danas iz ruku svijeh koji ustaše na te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A car reèe Husiju: je li zdravo dijete Avesalom? A Husije reèe: neka neprijatelji gospodara mojega cara i koji god ustaju na te zla radi, neka proðu kao to dijete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Tada se car sneveseli, i pope se u gornju klijet nad vratima, i stade plakati, a iduæi govoraše: sine moj Avesalome, sine moj, sine moj Avesalome! kamo da sam ja umro mjesto tebe! Avesalome sine moj, sine moj!"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2SA/18.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 18
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2SA/19.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 19
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2SA/17.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 17
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

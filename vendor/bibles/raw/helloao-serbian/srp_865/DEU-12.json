@@ -1,0 +1,300 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "srp_865",
+    "name": "Ponovljeni Zakon",
+    "commonName": "Ponovljeni Zakon",
+    "title": "Ponovljeni Zakon",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "b000b6651908c9448c65c662cec1fa45977205b236e0922d505241ab679311df",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DEU/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 1
+    },
+    "lastChapterNumber": 34,
+    "lastChapterApiLink": "/api/srp_865/DEU/34.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 34
+    },
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ovo su uredbe i zakoni koje æete držati i tvoriti u zemlji koju ti je Gospod Bog otaca tvojih dao da je naslijediš, dokle ste god živi na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Raskopajte sasvijem sva mjesta u kojima su služili bogovima svojim narodi koje æete naslijediti, po visokim brdima i po humovima i pod svakijem zelenijem drvetom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Oborite oltare njihove i razbijte likove njihove, i lugove njihove popalite ognjem, i rezane bogove njihove izlomite, i istrijebite ime njihovo iz onoga mjesta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ne èinite tako Gospodu Bogu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nego ga tražite u mjestu koje izbere Gospod Bog vaš izmeðu svijeh plemena vaših sebi za stan da ondje namjesti ime svoje, i onamo idite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Onamo nosite žrtve svoje paljenice i druge žrtve svoje i desetke svoje i prinose ruku svojih i zavjete svoje i dragovoljne prinose svoje i prvine od stoke svoje krupne i sitne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I jedite ondje pred Gospodom Bogom svojim, i veselite se vi i porodice vaše svaèim, za što se prihvatite rukom svojom, èim te blagoslovi Gospod Bog tvoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ne èinite kako mi sada ovdje èinimo, što je kome drago."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer još nijeste došli do odmora i našljedstva, koje ti daje Gospod Bog tvoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nego kad prijeðete preko Jordana, i stanete živjeti u zemlji koju vam daje Gospod Bog vaš da je naslijedite, i smiri vas od svijeh neprijatelja vaših unaokolo, te stanete živjeti bez straha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Onda u mjesto koje izbere Gospod Bog vaš da u njemu nastani ime svoje, donosite sve što vam ja zapovijedam, žrtve svoje paljenice i druge žrtve svoje, desetke svoje i prinose ruku svojih i sve što bude najbolje u onome što zavjetujete Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I veselite se pred Gospodom Bogom svojim vi i sinovi vaši i kæeri vaše i sluge vaše i sluškinje vaše, i Levit koji je u mjestu vašem, jer on nema dijela ni našljedstva s vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Èuvaj se da ne prinosiš žrtava svojih paljenica na kom god mjestu, koje ugledaš;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Nego na onom mjestu koje izbere Gospod Bog u jednom od tvojih plemena, ondje prinosi žrtve svoje paljenice, i ondje èini sve što ti zapovijedam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ali æeš moæi klati i jesti meso kako ti duša zaželi u svakom mjestu svojem po blagoslovu Gospoda Boga svojega, koji ti da; èist i neèist može jesti kao srnu i jelena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Samo krvi ne jedite; prolijte je na zemlju kao vodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Neæeš moæi jesti u mjestu svojem desetka od žita svojega ni od vina svojega ni od ulja svojega, ni prvina od stoke svoje krupne i sitne, ni onoga što zavjetuješ; ni prinosa dragovoljnijeh, ni prinosa ruku svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nego to jedi pred Gospodom Bogom svojim na mjestu koje izbere Gospod Bog tvoj, ti i sin tvoj i kæi tvoja i sluga tvoj i sluškinja tvoja, i Levit koji je u mjestu tvom; i veseli se pred Gospodom Bogom svojim svaèim za što se prihvatiš rukom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Èuvaj se da ne ostaviš Levita dok si god živ na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Kad raširi Gospod Bog tvoj meðe tvoje, kao što ti je kazao, ako reèeš: da jedem mesa, kad duša tvoja želi da jede mesa, jedi mesa po svoj želji duše svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ako bi bilo daleko od tebe mjesto koje Gospod Bog tvoj izbere da ondje namjesti ime svoje, zakolji od stoke svoje krupne ili sitne, koju ti da Gospod, kao što sam ti zapovjedio, i jedi u svom mjestu po svoj želji duše svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Kako se jede srna i jelen, onako jedi; i èist i neèist neka jede."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Samo pazi da ne jedeš krvi; jer je krv duša, pa ne jedi duše s mesom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ne jedi je; nego prolij na zemlju kao vodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ne jedi je, da bi dobro bilo tebi i sinovima tvojim nakon tebe, kad èiniš što je ugodno Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ali stvari svoje svete, koje imaš, i što zavjetuješ, uzmi i doði na mjesto koje izbere Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I prinesi žrtve svoje paljenice, meso i krv, na oltaru Gospoda Boga svojega; krv pak od drugih žrtava tvojih neka se prolije na oltar Gospoda Boga tvojega, a meso jedi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Èuvaj i slušaj sve ove rijeèi koje ti ja zapovijedam, da bi dobro bilo tebi i sinovima tvojim nakon tebe dovijeka kad èiniš što je dobro i pravo pred Gospodom Bogom tvojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Kad istrijebi Gospod Bog tvoj ispred tebe narode ka kojima ideš da naslijediš zemlju njihovu, i naslijedivši je kad se nastaniš u zemlji njihovoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Èuvaj se da se ne uhvatiš u zamku pošavši za njima pošto se potru ispred tebe, i da ne potražiš bogova njihovijeh, i reèeš: kako su ovi narodi služili svojim bogovima, tako æu i ja èiniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ne èini tako Gospodu Bogu svojemu; jer oni èiniše svojim bogovima sve što je gadno pred Gospodom i na što on mrzi; jer su i sinove svoje i kæeri svoje sažizali bogovima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Što vam god ja zapovijedam sve držite i tvorite, niti što dodajte k tome ni oduzmite od toga."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DEU/12.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 12
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DEU/13.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 13
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DEU/11.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 11
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 32
+}

@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 27,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U poèetku carovanja Joakima sina Josijina cara Judina doðe ova rijeè Jeremiji od Gospoda govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ovako mi reèe Gospod: naèini sebi sveze i jaram, i metni sebi oko vrata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Potom pošlji ih caru Edomskom i caru Moavskom i caru sinova Amonovijeh i caru Tirskom i caru Sidonskom, po poslanicima koji æe doæi u Jerusalim k Sedekiji caru Judinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I naruèi im neka reku svojim gospodarima: ovako veli Gospod nad vojskama Bog Izrailjev: ovako recite svojim gospodarima:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ja sam stvorio zemlju i ljude i stoku, što je po zemlji, silom svojom velikom i mišicom svojom podignutom; i dajem je kome mi je drago."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I sada ja dadoh sve te zemlje u ruke Navuhodonosoru caru Vavilonskom sluzi svojemu, dadoh mu i zvijerje poljsko da mu služi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I svi æe narodi služiti njemu i sinu njegovu i unuku njegovu dokle doðe vrijeme i njegovoj zemlji, i veliki narodi i silni carevi pokore ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A koji narod ili carstvo ne bi htio služiti Navuhodonosoru caru Vavilonskom, i ne bi htio saviti vrata svojega u jaram cara Vavilonskoga, taki æu narod pohoditi maèem i glaðu i pomorom, govori Gospod, dokle ih ne istrijebim rukom njegovom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ne slušajte dakle proroka svojih ni vraèa svojih ni sanjaèa svojih ni gatara svojih ni bajaèa svojih, koji vam govore i vele: neæete služiti caru Vavilonskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer vam oni laž prorokuju, kako bih vas daleko odveo iz zemlje vaše i izagnao vas da izginete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A narod koji bi savio vrat svoj pod jaram cara Vavilonskoga i služio mu, ostaviæu ga na zemlji njegovoj, govori Gospod, da je radi i stanuje u njoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I Sedekiji caru Judinu rekoh sve ovo govoreæi: savijte vrat svoj pod jaram cara Vavilonskoga i služite njemu i narodu njegovu, pa æete ostati živi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zašto da poginete ti i narod tvoj od maèa i od gladi i od pomora, kako reèe Gospod za narod koji ne bi služio caru Vavilonskom?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ne slušajte dakle što govore proroci koji vam kažu i vele: neæete služiti caru Vavilonskom, jer vam oni prorokuju laž."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer ih ja nijesam poslao, govori Gospod, nego lažno prorokuju u moje ime, kako bih vas prognao da izginete i vi i proroci koji vam prorokuju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I sveštenicima i svemu narodu govorih i rekoh: ovako veli Gospod: ne slušajte što govore vaši proroci koji vam prorokuju govoreæi: evo, posuðe doma Gospodnjega vratiæe se iz Vavilona skoro. Jer vam oni prorokuju laž."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ne slušajte ih; služite caru Vavilonskom, i ostaæete živi; zašto taj grad da opusti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ako li su proroci i ako je rijeè Gospodnja u njih, neka mole Gospoda nad vojskama da sudovi što su ostali u domu Gospodnjem i u domu cara Judina i u Jerusalimu ne otidu u Vavilon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer ovako veli Gospod nad vojskama za stupove i za more i za podnožja i za druge sudove što su ostali u tom gradu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Kojih ne uze Navuhodonosor car Vavilonski kad odvede u ropstvo Jehoniju sina Joakimova cara Judina iz Jerusalima u Vavilon, i sve glavare Judine i Jerusalimske;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer ovako veli Gospod nad vojskama Bog Izrailjev za sudove što ostaše u domu Gospodnjem i u domu cara Judina u Jerusalimu:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "U Vavilon æe se odnijeti i ondje æe biti do dana kad æu ih pohoditi, veli Gospod, kad æu ih donijeti i vratiti na ovo mjesto."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/27.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 27
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/28.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 28
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/26.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 26
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

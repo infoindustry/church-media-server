@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "srp_865",
+    "name": "1. Dnevnika",
+    "commonName": "1. Dnevnika",
+    "title": "1. Dnevnika",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "8ea0acc08b93472f39af29d769974347b255ab628ab40782b4687010563cbf90",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 29,
+    "lastChapterApiLink": "/api/srp_865/1CH/29.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 29
+    },
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 24,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A meðu sinovima Aronovijem ovi su redovi: sinovi Aronovi bjehu Nadav i Avijud, Eleazar i Itamar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ali Nadav i Avijud umriješe prije oca svojega i nemahu djece; zato biše sveštenici Eleazar i Itamar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I razdijeli ih David: Sadoka, koji bijaše od sinova Eleazarovijeh, i Ahimeleha, koji bijaše od sinova Itamarovijeh, po redu njihovu u službi njihovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I naðe se sinova Eleazarovijeh više poglavica nego sinova Itamarovijeh, kad ih razdijeliše: od sinova Eleazarovijeh bijaše poglavica po domovima otaèkim šesnaest, a od sinova Itamarovijeh osam po domovima otaèkim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I biše razdijeljeni ždrijebom i jedan i drugi; jer poglavari u svetinji i poglavari pred Bogom bijahu i od sinova Eleazarovijeh i od sinova Itamarovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I popisa ih Semaja sin Natanailov pisar od plemena Levijeva pred carem i knezovima i Sadokom sveštenikom i Ahimelehom sinom Avijatarovijem i pred poglavarima porodica otaèkih meðu sveštenicima i Levitima, jedan dom otaèki uzevši za Eleazara a jedan za Itamara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I pade prvi ždrijeb na Jojariva, drugi na Jedaju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Treæi na Harima, èetvrti na Seorima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Peti na Malhiju, šesti na Mejamina,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Sedmi na Akosa, osmi na Aviju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Deveti na Isuja, deseti na Sehaniju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jedanaesti na Elijasiva, dvanaesti na Jakima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Trinaesti na Ufu, èetrnaesti na Jesevava,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Petnaesti na Vilgu, šesnaesti na Imira,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Sedamnaesti na Ezira, osamnaesti na Afisisa,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Devetnaesti na Petaju, dvadeseti na Jezekila,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Dvadeset prvi na Jahina, dvadeset drugi na Gamula,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Dvadeset treæi na Delaju, dvadeset èetvrti na Maziju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "To je red njihov za službu njihovu, kojim idu u dom Gospodnji na posao svoj po naredbi Arona oca svojega, kako mu bješe zapovjedio Gospod Bog Izrailjev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A od ostalijeh sinova Levijevih bijaše od sinova Amramovijeh Suvailo; od sinova Suvailovijeh Jedaja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Od Reavije, od sinova Reavijinih poglavar Jesija;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Od sinova Isarovijeh Selomot, od sinova Selomotovijeh Jat;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A od sinova Jerijinih Amarija drugi, Jazilo treæi, Jekameam èetvrti;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Od sinova Uzilovijeh Miha; od sinova Mišinijeh Samir;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Brat Mišin Jesija; od sinova Jesijinih Zaharija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Sinovi Merarijevi: Malije i Musije; od sinova Jazijinih Veno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Sinovi Merarijevi od Jazije: Veno i Soam i Zahur i Ivrije;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Od Malija Eleazar, koji nemaše sinova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Od Kisa, od sinova Kisovijeh: Jerameilo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I od sinova Musijevih Malije i Eder i Jerimot. To bijahu sinovi Levitski po domovima otaca svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I oni bacaše ždrijeb prema braæi svojoj, sinovima Aronovijem, pred Davidom i Sadokom i Ahimelehom i poglavarima domova otaèkih meðu sveštenicima i Levitima, od domova otaèkih svaki poglavar prema bratu svojemu mlaðemu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CH/24.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 24
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CH/25.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 25
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CH/23.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 23
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

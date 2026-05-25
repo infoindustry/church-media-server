@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 33,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Opet mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Sine èovjeèji, govori sinovima naroda svojega, i kaži im: kad pustim na koju zemlju maè, ako narod one zemlje uzme koga izmeðu sebe, i postave ga sebi za stražara,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I on vidjevši maè gdje ide na zemlju zatrubi u trubu, i opomene narod,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ako se ko èuvši trubu ne uzme na um, i maè došavši pogubi ga, krv æe njegova biti na njegovoj glavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer èu glas trubni, i ne uze se na um, krv æe njegova biti na njemu; da se uze na um, saèuvao bi dušu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ako li stražar vidjevši maè gdje ide ne zatrubi u trubu i narod ne bude opomenut, a maè došav pogubi koga izmeðu njih, taj æe poginuti za svoje bezakonje, ali æu krv njegovu iskati iz ruke stražareve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I tebe, sine èovjeèji, tebe postavih stražarem domu Izrailjevu; slušaj dakle rijeè iz mojih usta i opominji ih od mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Kad reèem bezbožniku: bezbožnièe, poginuæeš; a ti ne progovoriš i ne opomeneš bezbožnika da se proðe puta svojega; taj æe bezbožnik poginuti za svoje bezakonje; ali æu krv njegovu iskati iz tvoje ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ako li ti opomeneš bezbožnika da se vrati sa svoga puta, a on se ne vrati sa svoga puta, on æe poginuti za svoje bezakonje, a ti æeš saèuvati dušu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zato ti, sine èovjeèji, reci domu Izrailjevu: vi govorite ovako i kažete: prijestupi naši i grijesi naši na nama su, i s njih propadamo; kako bismo živjeli?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Reci im: tako bio ja živ, govori Gospod Gospod, nije mi milo da umre bezbožnik, nego da se vrati bezbožnik sa svoga puta i bude živ; vratite se, vratite se sa zlijeh putova svojih, jer zašto da mrete, dome Izrailjev?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zato ti, sine èovjeèji, reci sinovima naroda svojega: pravednoga neæe izbaviti pravda njegova kad zgriješi, i bezbožnik neæe propasti sa bezbožnosti svoje kad se vrati od bezbožnosti svoje, kao što pravednik ne može s nje živjeti kad zgriješi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Kad reèem pravedniku da æe doista živjeti, a on se pouzda u pravdu svoju pa uèini nepravdu, od sve pravde njegove ništa se neæe spomenuti, nego æe poginuti s nepravde svoje koju uèini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A kad reèem bezbožniku: doista æeš poginuti, a on se obrati od grijeha svojega i stane èiniti sud i pravdu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I vrati bezbožnik zalog, i vrati što je oteo, i stane hoditi po uredbama životnijem ne èineæi bezakonja, doista æe biti živ, neæe umrijeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Od svijeh grijeha što je zgriješio ništa mu se neæe spomenuti; èinio je sud i pravdu, doista æe živ biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A sinovi naroda tvojega govore: nije prav put Gospodnji; a njihov put nije prav."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Kad se pravednik odvrati od pravde svoje i uèini nepravdu, poginuæe s toga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A kad se bezbožnik odvrati od svoje bezbožnosti i uèini sud i pravdu, on æe živ biti s toga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A vi govorite: nije prav put Gospodnji. Sudiæu vam, dome Izrailjev, svakome po putovima njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A dvanaeste godine robovanja našega, desetoga mjeseca, petoga dana doðe k meni jedan koji uteèe iz Jerusalima, i reèe: uze se grad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A ruka Gospodnja doðe nada me uveèe prije nego doðe onaj što uteèe, i otvori mi usta dokle onaj doðe k meni ujutru; otvoriše mi se usta, te više ne muèah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I doðe mi rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Sine èovjeèji, koji žive u onijem pustolinama u zemlji Izrailjevoj govore i kažu: Avram bijaše jedan, i naslijedi ovu zemlju; a nas je mnogo; nama je data ova zemlja u našljedstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Zato im reci: ovako veli Gospod Gospod: jedete s krvlju, i oèi svoje podižete ka gadnijem bogovima svojim, i krv proljevate, i hoæete da naslijedite zemlju?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Opirete se na maè svoj, èinite gadove, i skvrnite svaki ženu bližnjega svojega, i hoæete da naslijedite zemlju?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ovako im reci: ovako veli Gospod Gospod: tako ja živ bio, koji su u pustolinama, pašæe od maèa; i koji je u polju, zvijerima æu ga dati da ga izjedu; a koji su po gradovima i po peæinama, od pomora æe pomrijeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Tako æu sasvijem opustiti tu zemlju, i nestaæe ponosa sile njezine, i opustjeæe gore Izrailjeve da neæe niko prolaziti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I oni æe poznati da sam ja Gospod kad zemlju sasvijem opustim za sve gadove njihove što èiniše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A o tebi, sine èovjeèji, sinovi naroda tvojega kazuju o tebi uza zidove i na vratima kuænijem, i govore jedan drugomu, svaki bratu svojemu, i vele: hodite i èujte kaka rijeè doðe od Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I dolaze k tebi kao kad se narod skuplja, i narod moj sjeda pred tobom, i sluša rijeèi tvoje, ali ih ne izvršuje; u ustima su im ljupke a srce njihovo ide za svojim lakomstvom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I gle, ti si im kao ljupka pjesma, kao èovjek lijepa glasa i koji dobro svira; slušaju rijeèi tvoje, ali ih ne izvršuju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ali kad to doðe, a evo ide, onda æe poznati da je bio prorok meðu njima."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/33.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 33
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/34.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 34
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/32.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 32
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

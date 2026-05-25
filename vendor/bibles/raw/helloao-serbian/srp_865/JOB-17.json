@@ -1,0 +1,188 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOB",
+    "translationId": "srp_865",
+    "name": "Jov",
+    "commonName": "Jov",
+    "title": "Jov",
+    "order": 18,
+    "numberOfChapters": 42,
+    "sha256": "8862f4cbf1254f76fa7ea0a123da4bc2d61eebd46a2620b1499e0771fad0ee95",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 42,
+    "lastChapterApiLink": "/api/srp_865/JOB/42.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 42
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Duh se moj kvari, dana mojih nestaje; grobovi su moji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kod mene su rugaèi, i oko moje provodi noæi u jadu koji mi zadaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Daj mi ko æe jamèiti kod tebe; ko je taj koji æe se rukovati sa mnom?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer si od njihova srca sakrio razum; zato ih neæeš uzvisiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ko laska prijateljima, njegovijem æe sinovima oèi posahnuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Uèinio je od mene prièu narodima, i postao sam bubnjanje meðu njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Potamnjelo je oko moje od jada, i svi udi moji postaše kao sjen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Zaèudiæe se tome pravi, i bezazleni æe ustati na licemjere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ali æe se pravednik držati svojega puta, i ko je èistijeh ruku veæma æe ojaèati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A vi vratite se svikoliki i hodite; neæu naæi mudra meðu vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Dani moji proðoše, misli moje pokidaše se, što imah u srcu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Od noæi naèiniše dan, i svjetlost je blizu mraka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Da bih se nadao, grob æe mi biti kuæa; u tami æu prostrijeti postelju sebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Grobu vièem: ti si otac moj; crvima: ti si mati moja, ti si sestra moja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I gdje je sada nadanje moje? moje nadanje ko æe vidjeti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "U grob æe siæi, poèinuæe sa mnom u grobu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOB/17.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 17
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOB/18.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 18
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOB/16.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 16
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

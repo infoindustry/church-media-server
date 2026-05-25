@@ -1,0 +1,335 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "srp_865",
+    "name": "Luki",
+    "commonName": "Luki",
+    "title": "Jevanðelje po Luki",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "71d24bae001865beafd9dc8b76f8e93d8f927bd8e33391ea4aebbf53673c6a27",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LUK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/LUK/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A uèenicima reèe: nije moguæe da ne doðu sablazni; ali teško onome s koga dolaze;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Bolje bi mu bilo da mu se vodenièni kamen objesi o vratu, i da ga bace u more, nego da sablazni jednoga od ovijeh malijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Èuvajte se. Ako ti sagriješi brat tvoj, nakaraj ga; pa ako se pokaje, oprosti mu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I ako ti sedam puta na dan sagriješi, i sedam puta na dan doðe k tebi i reèe: kajem se, oprosti mu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I rekoše apostoli Gospodu: dometni nam vjere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A Gospod reèe: kad biste imali vjere koliko zrno gorušièno, i rekli biste ovome dubu: išèupaj se i usadi se u more, i poslušao bi vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Koji pak od vas kad ima slugu koji ore ili èuva stoku pa kad doðe iz polja, reèe mu: hodi brzo i sjedi za trpezu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Nego ne kaže li mu: ugotovi mi da veèeram, i zapregni se te mi služi dok jedem i pijem, pa onda i ti jedi i pij?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Eda li æe on zahvaliti sluzi tome kad svrši što mu se zapovjedi? Ne vjerujem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Tako i vi kad svršite sve što vam je zapovjeðeno, govorite: mi smo zaludne sluge, jer uèinismo što smo bili dužni èiniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I kad iðaše u Jerusalim, on prolažaše izmeðu Samarije i Galileje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I kad ulažaše u jedno selo sretoše ga deset gubavijeh ljudi, koji staše izdaleka,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I podigoše glas govoreæi: Isuse uèitelju! pomiluj nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I vidjevši ih reèe im: idite i pokažite se sveštenicima. I oni iduæi oèistiše se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A jedan od njih vidjevši da se iscijeli povrati se hvaleæi Boga iza glasa,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I pade nièice pred noge njegove, i zahvali mu. I to bješe Samarjanin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A Isus odgovarajuæi reèe: ne iscijeliše li se desetorica? Gdje su dakle devetorica?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Kako se meðu njima koji ne naðe da se vrati da zahvali Bogu, nego sam ovaj tuðin?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I reèe mu: ustani, idi; vjera tvoja pomože ti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A kad ga upitaše fariseji: kad æe doæi carstvo Božije? odgovarajuæi reèe im: carstvo Božije neæe doæi da se vidi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Niti æe se kazati: evo ga ovdje ili ondje; jer gle, carstvo je Božije unutra u vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A uèenicima reèe: doæi æe vrijeme kad æete zaželjeti da vidite jedan dan sina èovjeèijega, i neæete vidjeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I reæi æe vam: evo ovdje je, ili: eno ondje; ali ne izlazite, niti tražite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer kako što munja sine s neba, i zasvijetli se preko svega što je pod nebom, tako æe biti i sin èovjeèij u svoj dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ali mu najprije treba mnogo postradati, i okrivljenu biti od roda ovoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I kako je bilo u vrijeme Nojevo onako æe biti u dane sina èovjeèijega:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jeðahu, pijahu, ženjahu se, udavahu se do onoga dana kad Noje uðe u kovèeg, i doðe potop i pogubi sve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Tako kao što bi u dane Lotove: jeðahu, pijahu, kupovahu, prodavahu, saðahu, zidahu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A u dan kad iziðe Lot iz Sodoma, udari oganj i sumpor iz neba i pogubi sve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Tako æe biti i u onaj dan kad æe se javiti sin èovjeèij."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "U onaj dan koji se desi na krovu a pokuæstvo njegovo u kuæi, neka ne silazi da ga uzme; i koji se desi u polju, tako neka se ne vraæa natrag."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Opominjite se žene Lotove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Koji poðe da saèuva dušu svoju, izgubiæe je; a koji je izgubi, oživljeæe je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Kažem vam: u onu noæ biæe dva na jednome odru, jedan æe se uzeti a drugi æe se ostaviti;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Dvije æe mljeti zajedno, jedna æe se uzeti a druga æe se ostaviti;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Dva æe biti na njivi, jedan æe se uzeti a drugi æe se ostaviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I odgovarajuæi rekoše mu: gdje, Gospode? A on im reèe: gdje je strvina onamo æe se i orlovi skupiti."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LUK/17.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 17
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LUK/18.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 18
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LUK/16.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 16
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 37
+}

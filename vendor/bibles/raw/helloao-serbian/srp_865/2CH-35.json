@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "srp_865",
+    "name": "2. Dnevnika",
+    "commonName": "2. Dnevnika",
+    "title": "2. Dnevnika",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "712160a45a7d7fb40ad6e8f55f27c6bc71cf3a3fca70d89afd22674733ec70a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/2CH/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 35,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I praznova Josija u Jerusalimu pashu Gospodu; i klaše pashu èetrnaestoga dana prvoga mjeseca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I postavi sveštenike u službe njihove, i utvrdi ih da služe u domu Gospodnjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reèe Levitima, koji uèahu vas narod Izrailjev i bijahu posveæeni Gospodu: namjestite sveti kovèeg u domu koji je sazidao Solomun sin Davidov car Izrailjev, ne treba više da ga nosite na ramenima; sada služite Gospodu Bogu svojemu i narodu njegovu Izrailju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I pripravite se po domovima otaca svojih po redovima svojim kako je naredio David car Izrailjev i Solomun sin njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I stojte u svetinji po redovima domova otaèkih braæe svoje, sinova narodnijeh, i po redovima domova otaèkih meðu Levitima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I tako zakoljite pashu, i osveštajte se i pripravite braæu svoju da bi èinili kako je rekao Gospod preko Mojsija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I Josija dade narodu od stoke jaganjaca i jariæa, sve za pashu, svjema koji bijahu ondje, na broj dvije tisuæe i šest stotina, i tri tisuæe goveda, sve od careva blaga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I knezovi njegovi dadoše dragovoljno narodu, sveštenicima i Levitima: Helkija i Zaharija i Jehilo starješine u domu Božijem dadoše sveštenicima za pashu dvije tisuæe i šest stotina jaganjaca i jariæa i tri stotine goveda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Honanija i Semaja i Natanailo braæa njegova, i Asavija i Jeilo i Jozavad, poglavari Levitski dadoše Levitima za pashu pet tisuæa jaganjaca i jariæa, i pet stotina goveda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I kad bi spremljeno za službu, stadoše sveštenici na svoje mjesto i Leviti u redovima svojim po zapovijesti carevoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I klahu pashu, i sveštenici kropljahu krvlju primajuæi iz njihovijeh ruku, a Leviti derahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I odvojiše žrtvu paljenicu da dadu narodu po redovima domova otaèkih da se prinese Gospodu, kako je napisano u knjizi Mojsijevoj. Tako uèiniše i s govedima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I pekoše pashu na ognju po obièaju; a druge posveæene stvari kuhaše u loncima i u kotlovima i u tavama, i razdavaše brzo svemu narodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Potom gotoviše sebi i sveštenicima; jer sveštenici sinovi Aronovi imahu posla oko žrtava paljenica i pretilina do noæi; zato Leviti gotoviše i sebi i sveštenicima sinovima Aronovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I pjevaèi sinovi Asafovi stajahu na svom mjestu po zapovijesti Davidovoj i Asafovoj i Emanovoj i Jedutuna vidioca careva; i vratari na svakim vratima; ne micahu se od službe svoje, nego braæa njihova, ostali Leviti, gotoviše im."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tako bi ureðena sva služba Gospodnja u onaj dan da se proslavi pasha i prinesu žrtve paljenice na oltaru Gospodnjem po zapovijesti cara Josije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I praznovaše sinovi Izrailjevi koji se naðoše ondje pashu u to vrijeme i praznik prijesnijeh hljebova sedam dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I ne bi pasha praznovana kao ova u Izrailju od vremena Samuila proroka, niti koji careva Izrailjevijeh praznova pashu kao što je praznova Josija sa sveštenicima i Levitima i sa svijem Judom i Izrailjem što ga se naðe, i s Jerusalimljanima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Osamnaeste godine carovanja Josijina praznovana bi ta pasha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Poslije svega toga, kad Josija uredi dom, doðe Nehaon car Misirski da bije Harkemis na Efratu, i Josija izide preda nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A on posla k njemu poslanike i poruèi: šta ja imam s tobom, care Judin? ne idem ja danas na tebe, nego na dom koji vojuje na mene, i Bog mi je zapovjedio da pohitam. Proði se Boga koji je sa mnom, da te ne ubije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ali se Josija ne odvrati od njega, nego se preobuèe da se bije s njim, i ne posluša rijeèi Nehaonovijeh iz usta Božjih, nego doðe da se pobije u polju Megidonskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I strijelci ustrijeliše cara Josiju, i car reèe slugama svojim: izvezite me odavde, jer sam ljuto ranjen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I skidoše ga sluge njegove s kola, i metnuše na druga kola koja imaše, i odvezoše ga u Jerusalim; i umrije, i bi pogreben u groblju otaca svojih. I sav Juda i Jerusalim plaka za Josijom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I prorok Jeremija narica za Josijom. I svi pjevaèi i pjevaèice spominjaše u tužbalicama svojim Josiju do današnjega dana, i uvedoše ih u obièaj u Izrailju, i eto napisane su u plaèu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A ostala djela Josijina i milostinje njegove, kako piše u zakonu Gospodnjem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Djela njegova prva i pošljednja, eto zapisana su u knjizi o carevima Izrailjevijem i Judinijem."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CH/35.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 35
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CH/36.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 36
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CH/34.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 34
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

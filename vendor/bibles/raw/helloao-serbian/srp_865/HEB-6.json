@@ -1,0 +1,216 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "HEB",
+    "translationId": "srp_865",
+    "name": "Jevrejima",
+    "commonName": "Jevrejima",
+    "title": "Poslanica Jevrejima",
+    "order": 58,
+    "numberOfChapters": 13,
+    "sha256": "dd0af6a7bfa1e81c89f066ec55bf573f0bd87cd93a901a2b8a825a622650c258",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/HEB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "HEB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 13,
+    "lastChapterApiLink": "/api/srp_865/HEB/13.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "HEB",
+      "chapter": 13
+    },
+    "totalNumberOfVerses": 303
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Zato da ostavimo poèetak Hristove nauke i da se damo na savršenstvo: da ne postavljamo opet temelja pokajanja od mrtvijeh djela, i vjere u Boga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nauke krštenja, i metanja ruku, i vaskrsenija mrtvijeh, i suda vjeènoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I ovo æemo uèiniti ako Bog dopusti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer nije moguæe one koji su jednom prosvijetljeni, i okusili dara nebeskoga, postali zajednièari Duha svetoga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I okusili dobre rijeèi Božije, i sile onoga svijeta, i otpali,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Opet obnoviti na pokajanje, jer sami sebi nanovo raspinju i ruže sina Božijega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer zemlja koja pije dažd što èesto na nju pada, i koja raða povræe dobro onima koji je rade, prima blagoslov od Boga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A koja iznosi trnje i èièak, nepotrebna je i kletve blizu, koja se najposlije sažeže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ali od vas, ljubazni, nadamo se boljemu i što se drži spasenija, ako i govorimo tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer Bog nije nepravedan da zaboravi djelo vaše i trud ljubavi koju pokazaste u ime njegovo, posluživši svetima i služeæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ali želimo da svaki od vas pokaže to isto staranje da se nad održi tvrdo do samoga kraja;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Da ne budete ljenivi, nego da se ugledate na one koji vjerom i trpljenjem dobijaju obeæanja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer kad Bog Avraamu obeæa, ne imajuæi nièim veæijem da se zakune, zakle se sobom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Govoreæi: zaista blagosiljajuæi blagosloviæu te, i umnožavajuæi umnožiæu te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I tako trpeæi dugo, dobi obeæanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer se ljudi veæijem kunu, i svakoj njihovoj svaði svršetak je zakletva za potvrðenje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Zato i Bog kad šæaše našljednicima obeæanja obilnije da pokaže tvrðu savjeta svojega, uèini posrednika kletvu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Da bi u dvjema nepokolebljivijem stvarima, u kojima Bogu nije moguæe slagati, imali jaku utjehu mi koji smo pribjegli da se uhvatimo za nad koji nam je dan,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Koji imamo kao tvrd i pouzdan lenger duše, koji ulazi i za najdalje zavjese,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Gdje Isus uðe naprijed za nas, postavši poglavar sveštenièki dovijeka po redu Melhisedekovu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/HEB/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/HEB/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/HEB/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 20
+}

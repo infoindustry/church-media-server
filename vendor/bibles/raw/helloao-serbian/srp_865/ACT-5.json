@@ -1,0 +1,370 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A jedan èovjek, po imenu Ananija, sa ženom svojom Sapfirom prodade njivu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I sakri od novaca sa znanjem i žene svoje, i donesavši jedan dijel metnu apostolima pred noge."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Petar reèe: Ananija! zašto napuni sotona srce tvoje da slažeš Duhu svetome i sakriješ od novaca što uze za njivu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Kad je bila u tebe ne bješe li tvoja? I kad je prodade ne bješe li u tvojoj vlasti? Zašto si dakle takovu stvar metnuo u srce svoje? Ljudima nijesi slagao nego Bogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A kad èu Ananija rijeèi ove, pade i izdahnu; i uðe veliki strah u sve koji slušahu ovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A momci ušavši uzeše ga i iznesoše te zakopaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kad proðe oko tri sahata, uðe i žena njegova ne znajuæi šta je bilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A Petar joj odgovori: kaži mi jeste li za toliko dali njivu? A ona reèe: da, za toliko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Petar joj reèe: zašto se dogovoriste da iskušate Duha Gospodnjega? Gle, noge onijeh koji tvoga muža zakopaše pred vratima su, i iznijeæe te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I odmah padnu pred nogama njegovijem i izdahnu. A momci ušavši naðoše je mrtvu i iznesoše je i zakopaše kod muža njezina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I uðe veliki strah u svu crkvu i u sve koji èuše ovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A rukama apostolskima uèiniše se mnogi znaci i èudesa meðu ljudima; i bijahu svi jednodušno u trijemu Solomunovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A od ostalijeh niko ne smijaše pristupiti k njima; nego ih hvaljaše narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A sve više pristajahu oni koji vjerovahu Gospoda, mnoštvo ljudi i žena,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tako da i po ulicama iznošahu bolesnike i metahu na posteljama i na nosilima, da bi kad proðe Petar barem sjenka njegova osjenila koga od njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A dolažahu mnogi i iz okolnijeh gradova u Jerusalim, i donošahu bolesnike i koje muèahu neèisti duhovi; i svi ozdravljahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ali ustade poglavar sveštenièki i svi koji bijahu s njim, od jeresi sadukejske, i napuniše se zavisti,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I digoše ruke svoje na apostole, i metnuše ih u opšti zatvor."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A anðeo Gospodnji otvori noæu vrata tamnièka, i izvedavši ih reèe:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Idite i stanite u crkvi te govorite narodu sve rijeèi ovoga života."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A kad oni èuše, uðoše ujutru u crkvu, i uèahu. A kad doðe poglavar sveštenièki i koji bijahu s njim, sazvaše sabor i sve starješine od sinova Izrailjevijeh, i poslaše u tamnicu da ih dovedu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A kad sluge otidoše, ne naðoše ih u tamnici; onda se vratiše i javiše im"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Govoreæi: tamnicu naðosmo zakljuèanu sa svakom tvrðom i èuvare gdje stoje pred vratima; ali kad otvorismo, unutra nijednoga ne naðosmo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A kad èuše ove rijeèi poglavar sveštenièki i vojvoda crkveni i ostali glavari sveštenièki, ne mogahu im se naèuditi šta bi to sad bilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A neko doðe i javi im govoreæi: eno oni ljudi što ih baciste u tamnicu, stoje u crkvi i uèe narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Tada otide vojvoda s momcima i dovede ih ne na silu: jer se bojahu naroda da ih ne pobije kamenjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A kad ih dovedoše, postaviše ih pred sabor, i zapita ih poglavar sveštenièki govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ne zaprijetismo li vam oštro da ne uèite u ovo ime? i gle, napuniste Jerusalim svojom naukom, i hoæete da bacite na nas krv ovoga èovjeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A Petar i apostoli odgovarajuæi rekoše: veæma se treba Bogu pokoravati negoli ljudima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Bog otaca našijeh podiže Isusa, kojega vi ubiste objesivši na drvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ovoga Bog desnicom svojom uzvisi za poglavara i spasa, da da Izrailju pokajanje i oproštenje grijeha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I mi smo njegovi svjedoci ovijeh rijeèi i Duh sveti kojega Bog dade onima koji se njemu pokoravaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A kad oni èuše vrlo se rasrdiše, i mišljahu da ih pobiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ali onda ustade u skupštini jedan farisej, po imenu Gamaliilo, zakonik, poštovan od svega naroda, i zapovjedi da apostoli malo iziðu napolje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Pa reèe njima: ljudi Izrailjci! gledajte dobro za ove ljude šta æete èiniti;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Jer prije ovijeh dana usta Tevda, govoreæi da je on nešto, za kojijem pristade ljudi na broj oko èetiri stotine; on bi ubijen, i svi koji ga slušahu raziðoše se i propadoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Potom usta Juda Galilejac, u dane prijepisa, i odvuèe dosta ljudi za sobom; i on pogibe, i svi koji ga slušahu razasuše se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I sad vam kažem: proðite se ovijeh ljudi i ostavite ih; jer ako bude od ljudi ovaj savjet ili ovo djelo, pokvariæe se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Ako li je od Boga, ne možete ga pokvariti, da se kako ne naðete kao bogoborci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Onda ga poslušaše, i dozvavši apostole izbiše ih, i zaprijetiše im da ne govore u ime Isusovo, i otpustiše ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A oni onda otidoše od sabora radujuæi se što se udostojiše primiti sramotu za ime Gospoda Isusa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A svaki dan u crkvi i po kuæama ne prestajahu uèiti i propovijedati jevanðelje o Isusu Hristu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 42
+}

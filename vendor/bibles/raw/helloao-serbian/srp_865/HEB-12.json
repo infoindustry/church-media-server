@@ -1,0 +1,279 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "HEB",
+    "translationId": "srp_865",
+    "name": "Jevrejima",
+    "commonName": "Jevrejima",
+    "title": "Poslanica Jevrejima",
+    "order": 58,
+    "numberOfChapters": 13,
+    "sha256": "dd0af6a7bfa1e81c89f066ec55bf573f0bd87cd93a901a2b8a825a622650c258",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/HEB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "HEB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 13,
+    "lastChapterApiLink": "/api/srp_865/HEB/13.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "HEB",
+      "chapter": 13
+    },
+    "totalNumberOfVerses": 303
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Zato dakle i mi imajuæi oko sebe toliku gomilu svjedoka, da odbacimo svako breme i grijeh koji je za nas prionuo, i s trpljenjem da trèimo u bitku koja nam je odreðena,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Gledajuæi na naèelnika vjere i svršitelja Isusa, koji mjesto odreðene sebi radosti pretrplje krst, ne mareæi za sramotu, i sjede s desne strane prijestola Božijega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Pomislite dakle na onoga koji je takovo protivljenje protiv sebe od grješnika podnio, da ne oslabe duše vaše i da vam ne dotuži."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer još do krvi ne doðoste boreæi se protiv grijeha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I zaboraviste utjehu koju vam govori, kao sinovima: sine moj! ne puštaj u nemar karanja Gospodnja, niti gubi volje kad te on pokara;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer koga ljubi Gospod onoga i kara; a bije svakoga sina kojega prima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ako trpite karanje, kao sinovima pokazuje vam se Bog: jer koji je sin kojega otac ne kara?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ako li ste bez karanja, u kojemu svi dijel dobiše, daklem ste kopilad, a ne sinovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ako su nam dakle tjelesni ocevi naši karaèi, i bojimo ih se, kako da ne slušamo oca duhova, da živimo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer oni za malo dana, kako im ugodno bješe, karahu nas; a ovaj na korist, da dobijemo dijel od njegove svetinje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer svako karanje kad biva ne èini se da je radost, nego žalost; ali poslije daæe miran rod pravde onima koji su nauèeni njime."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zato oslabljene ruke i oslabljena koljena ispravite,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I staze poravnite nogama svojima, da ne svrne što je hromo, nego još da se iscijeli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Mir imajte i svetinju sa svima; bez ovoga niko neæe vidjeti Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Gledajte da ko ne ostane bez blagodati Božije: da ne uzraste kakav korijen grèine, i ne uèini pakost, i tijem da se mnogi ne opogane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Da ne bude ko kurvar ili opoganjen, kao Isav, koji je za jedno jelo dao prvorodstvo svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer znate da je i potom, kad šæaše da primi blagoslov, odbaèen; jer pokajanje ne naðe mjesta, ako ga i sa suzama tražaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer ne pristupiste ka gori koja se može opipati, i ognju razgorjelom, oblaku, i pomrèini, i oluji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I trubnom glasu, i glasu rijeèi, kojega se odrekoše oni koji èuše, da ne èuju više rijeèi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer ne mogahu da podnesu ono što se zapovijedaše: ako se i zvijer dotakne do gore, biæe kamenjem ubijena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I tako strašno bješe ono što se vidje da Mojsije reèe: uplašio sam se i drkæem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Nego pristupiste k Sionskoj gori, i ka gradu Boga živoga, Jerusalimu nebeskome, i mnogijem hiljadama anðela,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "K saboru i crkvi prvorodnijeh koji su napisani na nebesima, i Bogu, sudiji sviju, i duhovima savršenijeh pravednika,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I k Isusu, posredniku zavjeta novoga, i krvi kropljenja, koja bolje govori negoli Aveljeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ali gledajte da se ne odreèete onoga koji govori; jer kad oni ne utekoše koji se odrekoše onoga koji prorokovaše na zemlji, akamoli mi koji se odrièemo nebeskoga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Kojega glas potrese onda zemlju, a sad obeæa govoreæi: još jednom ja æu potresti ne samo zemlju nego i nebo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A što veli: još jednom, pokazuje da æe se ukinuti ono što se pomièe, kao stvoreno, da ostane ono što se ne pomièe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Zato, primajuæi carstvo nepokolebano, da imamo blagodat kojom služimo za ugodnost Bogu, s poštovanjem i sa strahom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Jer je Bog naš oganj koji spaljuje."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/HEB/12.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 12
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/HEB/13.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 13
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/HEB/11.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 11
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

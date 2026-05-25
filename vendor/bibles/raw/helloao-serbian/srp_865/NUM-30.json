@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "srp_865",
+    "name": "Brojevi",
+    "commonName": "Brojevi",
+    "title": "Brojevi",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "5dc73b8a174fd63cb58a0932611fd5816a865be2dae8658fc6051a7a529e9415",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NUM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/NUM/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 30,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I kaza Mojsije sinovima Izrailjevijem sve što zapovjedi Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I reèe Mojsije knezovima od plemena sinova Izrailjevijeh govoreæi: ovo je zapovjedio Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Kad koji èovjek uèini zavjet Gospodu, ili se zakune vezavši se dušom svojom, neka ne pogazi rijeèi svoje, nego neka uèini sve što izaðe iz usta njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A kad žena uèini zavjet Gospodu ili se veže u mladosti svojoj, dokle je u kuæi oca svojega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I èuje otac njezin za zavjet njezin ili kako se vezala dušom svojom, pa joj otac ne reèe ništa, onda da su tvrdi svi zavjeti njezini, i sve èim je vezala dušu svoju da je tvrdo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ako li otac njezin poreèe to onaj dan kad èuje, zavjeti njezini i èim je god vezala dušu svoju, ništa da nije tvrdo; i Gospod æe joj oprostiti, jer otac njezin poreèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ako li se uda pa ima na sebi zavjet ili izreèe što na usta svoja èim bi se vezala,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A muž njezin èuvši ne reèe joj ništa onaj dan kad èuje, onda da su tvrdi zavjeti njezini, i tvrdo da je sve èim je vezala dušu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ako li muž njezin kad èuje onaj dan poreèe, ukida se zavjet koji je bio na njoj ili što je izrekla na usta svoja te se vezala; i Gospod æe joj oprostiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A zavjet koji uèini udovica ili puštenica, i sve èim veže dušu svoju, da joj je tvrdo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ali ako bude u kuæi muža svojega uèinila zavjet i za što vezala dušu svoju zakletvom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I muž njezin èuvši oæuti i ne poreèe, tada da su tvrdi svi zavjeti njezini, i da je tvrdo sve za što je vezala dušu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ako li to poreèe muž njezin onaj dan kad èuje, svaki zavjet koji bi izašao iz usta njezinijeh i sve èim bi vezala dušu svoju da nije tvrdo; muž je njezin porekao, i Gospod æe joj oprostiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Svaki zavjet i sve za što bi se vezala zakletvom da muèi dušu svoju, muž njezin potvrðuje i ukida."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ako bi muž njezin od dana do dana æutao, onda potvrðuje sve zavjete njezine i sve za što bi se vezala; potvrðuje, jer joj ne poreèe u onaj dan kad èu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ako li poreèe pošto èuje, sam æe nositi grijeh njezin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ovo su naredbe, koje zapovjedi Gospod Mojsiju za muža i ženu, za oca i kæer u mladosti njezinoj, dokle je u kuæi oca svojega."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NUM/30.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 30
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NUM/31.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 31
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NUM/29.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 29
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

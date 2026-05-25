@@ -1,0 +1,342 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOB",
+    "translationId": "srp_865",
+    "name": "Jov",
+    "commonName": "Jov",
+    "title": "Jov",
+    "order": 18,
+    "numberOfChapters": 42,
+    "sha256": "8862f4cbf1254f76fa7ea0a123da4bc2d61eebd46a2620b1499e0771fad0ee95",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 42,
+    "lastChapterApiLink": "/api/srp_865/JOB/42.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 42
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 38,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada odgovori Gospod Jovu iz vihora i reèe:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ko je to što zamraèuje savjet rijeèima nerazumno?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Opaši se sada kao èovjek; ja æu te pitati, a ti mi kazuj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Gdje si ti bio kad ja osnivah zemlju? kaži, ako si razuman."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ko joj je odredio mjere? znaš li? ili ko je rastegao uže preko nje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Na èem su podnožja njezina uglavljena? ili ko joj je metnuo kamen ugaoni?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Kad pjevahu zajedno zvijezde jutrnje i svi sinovi Božji klikovahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ili ko je zatvorio more vratima kad kao iz utrobe izide?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Kad ga odjeh oblakom i povih tamom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Kad postavih za nj uredbu svoju i metnuh mu prijevornice i vrata;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I rekoh: dovde æeš dolaziti, a dalje neæeš, i tu æe se ustavljati ponositi valovi tvoji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jesi li svoga vijeka zapovjedio jutru, pokazao zori mjesto njezino,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Da se uhvati zemlji za krajeve, i da se rastjeraju s nje bezbožnici,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Da se ona promijeni kao blato peèatno, a oni da stoje kao haljina,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Da se oduzme bezbožnicima svjetlost njihova i ruka podignuta da se slomi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jesi li dolazio do dubina morskih? i po dnu propasti jesi li hodio?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jesu li ti se otvorila vrata smrtna, i vrata sjena smrtnoga jesi li vidio?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jesi li sagledao širinu zemaljsku? kaži, ako znaš sve to."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Koje je put k stanu svjetlosti? i gdje je mjesto tami,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Da bi je uzeo i odveo do meðe njezine, i znao staze k domu njezinu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Znaš ti; jer si se onda rodio, i broj je dana tvojih velik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jesi li ulazio u riznice šnježne? ili riznice gradne jesi li vidio,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Koje èuvam za vrijeme nevolje, za dan boja i rata?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Kojim se putem dijeli svjetlost i ustoka se razilazi po zemlji?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ko je razdijelio jazove povodnju i put svjetlici gromovnoj?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Da bi išao dažd na zemlju gdje nema nikoga, i na pustinju gdje nema èovjeka,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Da napoji pusta i nerodna mjesta, i uèini da raste trava zelena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ima li dažd oca? ili ko je rodio kaplje rosne?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Iz èije je utrobe izašao led, i ko je rodio slanu nebesku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Da se vode skrivaju i postaju kao kamen i krajevi propasti srastaju?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Možeš li svezati miline vlašiæima? ili svezu štapima razdriješiti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Možeš li izvesti južne zvijezde na vrijeme? ili kola sa zvijezdama njihovijem hoæeš li voditi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Znaš li red nebeski? možeš li ti ureðivati vladu njegovu na zemlji?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Možeš li dignuti glas svoj do oblaka da bi te mnoštvo vode pokrilo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Možeš li pustiti munje da idu, i da ti reku: evo nas?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ko je metnuo èovjeku u srce mudrost? ili ko je dao duši razum?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Ko æe izbrojiti oblake mudrošæu, i mjehove nebeske ko æe izliti,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Da se raskvašen prah zgusne i grude da se slijepe?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOB/38.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 38
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOB/39.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 39
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOB/37.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 37
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 38
+}

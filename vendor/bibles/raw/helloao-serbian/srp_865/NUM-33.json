@@ -1,0 +1,468 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "srp_865",
+    "name": "Brojevi",
+    "commonName": "Brojevi",
+    "title": "Brojevi",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "5dc73b8a174fd63cb58a0932611fd5816a865be2dae8658fc6051a7a529e9415",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NUM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/NUM/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 33,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ovo su putovi sinova Izrailjevijeh kad izaðoše iz zemlje Misirske u èetama svojim pod upravom Mojsijevom i Aronovom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I Mojsije popisa kako izidoše i gdje stajaše po zapovijesti Gospodnjoj; i ovo su putovi njihovi kako putovaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Poðoše iz Ramese prvoga mjeseca petnaesti dan, sjutradan poslije pashe, i izidoše sinovi Izrailjevi rukom podignutom pred oèima svijeh Misiraca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A Misirci pogrebavahu prvence koje pobi Gospod meðu njima, kad i na bogovima njihovijem izvrši Gospod sudove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I otišavši sinovi Izrailjevi iz Ramese stadoše u oko u Sohotu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A iz Sohota otišavši stadoše u oko u Etamu, koji je nakraj pustinje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A iz Etama otišavši saviše k Irotu, koji je prema Velsefonu, i stadoše u oko pred Magdalom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A od Irota otišavši prijeðoše preko mora u pustinju, i išavši tri dana preko pustinje Etama stadoše u oko u Meri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A iz Mere otišavši doðoše u Elim, gdje bijaše dvanaest studenaca i sedamdeset palmovijeh drveta, i ondje stadoše u oko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A iz Elima otišavši stadoše u oko kod Crvenoga Mora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I otišavši od Crvenoga Mora stadoše u oko u pustinji Sinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A iz pustinje Sina otišavši stadoše u oko u Rafaku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A iz Rafaka otišavši stadoše u oko u Elusu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A iz Elusa otišavši stadoše u oko u Rafidinu, gdje nemaše narod vode da pije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A iz Rafidina otišavši stadoše u oko u pustinji Sinajskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A iz pustinje Sinajske otišavši stadoše u oko u Kivrot-Atavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A iz Kivrot-Atave otišavši stadoše u oko u Asirotu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A iz Asirota otišavši stadoše u oko u Ratamu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A iz Ratama otišavši stadoše u oko u Remnon-Faresu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A iz Remnon-Faresa otišavši stadoše u oko u Lemvonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A iz Lemvona otišavši stadoše u oko u Resanu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A iz Resana otišavši stadoše u oko u Makelatu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A iz Makelata otišavši stadoše u oko kod gore Safera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A od gore Safera otišavši stadoše u oko u Haradu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A iz Harada otišavši stadoše u oko u Makidotu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A iz Makidota otišavši stadoše u oko u Katatu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A iz Katata otišavši stadoše u oko u Taratu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A iz Tarata otišavši stadoše u oko u Meteku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A iz Meteka otišavši stadoše u oko u Aselmonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A iz Aselmona otišavši stadoše u oko u Mosirotu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A iz Mosirota otišavši stadoše u oko u Vanakanu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A iz Vanakana otišavši stadoše u oko u planini Gadadu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A iz planine Gadada otišavši stadoše u oko u Etevati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A iz Etevate otišavši stadoše u oko u Evronu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A iz Evrona otišavši stadoše u oko u Gesion-Gaveru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A iz Gesion-Gavera otišavši stadoše u oko u pustinji Sinu, a to je Kadis."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A iz Kadisa otišavši stadoše u oko kod gore Ora na meði zemlje Edomske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I izide Aron sveštenik na goru Or po zapovjesti Gospodnjoj, i umrije ondje èetrdesete godine po izlasku sinova Izrailjevijeh iz zemlje Misirske, prvi dan petoga mjeseca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A Aronu bješe sto i dvadeset i tri godine kad umrije na gori Oru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Tada èu Hananej car Aradski, koji življaše na jugu u zemlji Hananskoj, da idu sinovi Izrailjevi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Potom otišavši od gore Ora stadoše u oko u Selmonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A iz Selmona otišavši stadoše u oko u Finonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "A iz Finona otišavši stadoše u oko u Ovotu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "A iz Ovota otišavši stadoše u oko na humovima Avarimskim na meði Moavskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "A od tijeh humova otišavši stadoše u oko u Devon-Gadu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "A iz Devon-Gada otišavši stadoše u oko u Gelmon-Devlataimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "A iz Gelmon-Devlataima otišavši stadoše u oko u planinama Avarimskim prema Navavu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "A iz planina Avarimskih otišavši stadoše u oko u polju Moavskom na Jordanu prema Jerihonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "I stajahu u okolu kraj Jordana od Esimota do Vel-Satima u polju Moavskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "I reèe Gospod Mojsiju u polju Moavskom na Jordanu prema Jerihonu govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Kaži sinovima Izrailjevijem i reci im: kad prijeðete preko Jordana u zemlju Hanansku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Otjerajte od sebe sve koji žive u onoj zemlji, i potrite sve slike njihove rezane, i sve slike njihove livene potrite, i sve visine njihove oborite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "A kad ih istjerate iz zemlje, naselite se u njoj; jer sam vama dao onu zemlju da je vaša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "I razdijelite je u našljedstvo ždrijebom na porodice svoje; kojih ima više, njima veæe našljedstvo podajte; a kojih ima manje, njima podajte manje našljedstvo; koje mjesto kome ždrijebom dopadne, ono neka mu bude; na plemena otaca svojih razdijelite našljedstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "Ako li ne otjerate od sebe onijeh koji žive u onoj zemlji, onda æe oni koje ostavite biti trnje oèima vašima i ostani vašim bokovima, i pakostiæe vam u zemlji u kojoj æete živjeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "I što sam mislio uèiniti njima, uèiniæu vama."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NUM/33.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 33
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NUM/34.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 34
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NUM/32.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 32
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 56
+}

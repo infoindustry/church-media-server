@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 39,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Josifa odvedoše u Misir; i Petefrije dvoranin Faraonov, zapovjednik stražarski, èovjek Misirac, kupi ga od Ismailjaca, koji ga odvedoše onamo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I Gospod bješe s Josifom, te bi sreæan, i življaše u kuæi gospodara svojega Misirca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I gospodar njegov vidje da je Gospod s njim i da sve što radi Gospod vodi u napredak u ruci njegovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I Josif steèe milost u njega, i dvoraše ga; a najposlije postavi ga nad cijelijem domom svojim, i što god imaše njemu dade u ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A kad ga postavi nad domom svojim i nad svijem što imaše, od tada Gospod blagoslovi dom toga Misirca radi Josifa; i blagoslov Gospodnji bješe na svemu što imaše u kuæi i u polju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I ostavi u Josifovijem rukama sve što imaše, i ne razbiraše ni za što osim jela koje jeðaše. A Josif bijaše lijepa stasa i lijepa lica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I dogodi se poslije, te se žena gospodara njegova zagleda u Josifa, i reèe: lezi sa mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A on ne htje, nego reèe ženi gospodara svojega: eto gospodar moj ne razbira ni za što što je u kuæi, nego što god ima dade meni u ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ni sam nije veæi od mene u ovoj kuæi, i ništa ne krije od mene osim tebe, jer si mu žena; pa kako bih uèinio tako grdno zlo i Bogu zgriješio?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I ona govoraše take rijeèi Josifu svaki dan, ali je ne posluša da legne s njom ni da se bavi kod nje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A jedan dan kad doðe Josif u kuæu da radi svoj posao, a ne bješe nikoga od domašnjih u kuæi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ona ga uhvati za haljinu govoreæi: lezi sa mnom. Ali on ostaviv joj u rukama haljinu svoju pobježe i otide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A kad ona vidje gdje joj ostavi u rukama haljinu svoju i pobježe,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Viknu èeljad svoju, i reèe im govoreæi: gledajte, doveo nam je èovjeka Jevrejina da nas sramoti; doðe k meni da legne sa mnom, a ja povikah iza glasa;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A on kad èu gdje vièem, ostavi haljinu svoju kod mene i pobježe i otide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I ona ostavi haljinu njegovu kod sebe dok mu gospodar doðe kuæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A tada mu reèe ovako govoreæi: sluga Jevrejin, kojega si nam doveo, doðe k meni da me osramoti;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A ja povikah iza glasa, te on ostaviv haljinu svoju kod mene pobježe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A kad gospodar njegov èu rijeèi žene svoje gdje mu reèe: to mi je uèinio sluga tvoj, razgnjevi se vrlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I gospodar Josifov uhvati ga, i baci ga u tamnicu, gdje ležahu sužnji carski; i bi ondje u tamnici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ali Gospod bješe s Josifom i raširi milost svoju nad njim i uèini te omilje tamnièaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I povjeri tamnièar Josifu sve sužnje u tamnici, i što je god trebalo ondje èiniti on ureðivaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I tamnièar ne nadgledaše ništa što bješe u Josifovoj ruci, jer Gospod bješe s njim; i što god èinjaše, Gospod voðaše u napredak."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/39.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 39
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/40.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 40
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/38.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 38
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

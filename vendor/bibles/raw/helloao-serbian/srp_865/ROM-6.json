@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ROM",
+    "translationId": "srp_865",
+    "name": "Rimljanima",
+    "commonName": "Rimljanima",
+    "title": "Poslanica Rimljanima",
+    "order": 45,
+    "numberOfChapters": 16,
+    "sha256": "1fe4947b687992778ed830174635b188e37a5a7f483de9affcbbb4c949cc6571",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ROM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/ROM/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 433
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Šta æemo dakle reæi? Hoæemo li ostati u grijehu da se blagodat umnoži? Bože saèuvaj!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer koji umrijesmo grijehu kako æemo još življeti u njemu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ili ne znate da svi koji se krstismo u Isusa Hrista, u smrt njegovu krstismo se?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tako se s njim pogrebosmo krštenjem u smrt da kao što usta Hristos iz mrtvijeh slavom oèinom, tako i mi u novom životu da hodimo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer kad smo jednaki s njim jednakom smræu, biæemo i vaskrsenijem;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Znajuæi ovo da se stari naš èovjek razape s njime, da bi se tijelo grješno pokvarilo, da više ne bismo služili grijehu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer koji umrije oprosti se od grijeha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A ako umrijesmo s Hristom, vjerujemo da æemo i življeti s njim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Znajuæi da Hristos usta iz mrtvijeh, veæ više ne umire; smrt više neæe obladati njime."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer što umrije, grijehu umrije jedanput; a što živi, Bogu živi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tako i vi dakle držite sebe da ste mrtvi grijehu a živi Bogu u Hristu Isusu Gospodu našemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Da ne caruje dakle grijeh u vašemu smrtnom tijelu, da ga slušate u slastima njegovijem;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Niti dajite udova svojijeh grijehu za oružje nepravde; nego dajite sebe Bogu, kao koji ste živi iz mrtvijeh, i ude svoje Bogu za oružje pravde."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer grijeh neæe vama obladati, jer nijeste pod zakonom nego pod blagodaæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Šta dakle? Hoæemo li griješiti kad nijesmo pod zakonom nego pod blagodaæu? Bože saèuvaj!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ne znate li da kome dajete sebe za sluge u poslušanje, sluge ste onoga koga slušate, ili grijeha za smrt, ili poslušanja za pravdu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Hvala dakle Bogu što bivši robovi grijehu poslušaste od srca tu nauku kojoj se i predadoste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Oprostivši se pak od grijeha postaste sluge pravdi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Kao èovjek govorim, za slabost vašega tijela. Jer kao što dadoste ude svoje za robove neèistoti i bezakonju na bezakonje, tako sad dajite ude svoje za sluge pravdi na posveæenje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer kad bijaste robovi grijehu, prosti bijaste od pravde."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Kakav dakle onda imadoste plod za koji se sad stidite? Jer je onoga kraj smrt."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A sad oprostivši se od grijeha, i postavši sluge Božije, imate plod svoj na posveæenje, a kraj život vjeèni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer je plata za grijeh smrt, a dar Božij je život vjeèni u Hristu Isusu Gospodu našemu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ROM/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ROM/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ROM/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

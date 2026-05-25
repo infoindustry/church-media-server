@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "srp_865",
+    "name": "Ponovljeni Zakon",
+    "commonName": "Ponovljeni Zakon",
+    "title": "Ponovljeni Zakon",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "b000b6651908c9448c65c662cec1fa45977205b236e0922d505241ab679311df",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DEU/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 1
+    },
+    "lastChapterNumber": 34,
+    "lastChapterApiLink": "/api/srp_865/DEU/34.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 34
+    },
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I Mojsije sazva sav narod Izrailjev, i reèe im: èuj Izrailju uredbe i zakone, koje æu danas kazati da èujete, da ih nauèite i držite ih i tvorite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Gospod Bog naš uèini s nama zavjet na Horivu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Nije s ocima našim uèinio taj zavjet, nego s nama, koji smo danas tu svi živi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Licem k licu govorio vam je Gospod na ovoj gori isred ognja;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ja tada stajah izmeðu Gospoda i vas, da vam javim rijeèi Gospodnje, jer vas bješe strah od ognja i ne izidoste na goru; i reèe:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ja sam Gospod Bog tvoj, koji sam te izveo iz zemlje Misirske, iz doma ropskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nemoj imati bogova drugih do mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ne gradi sebi lika rezanoga, niti kakve slike od tvari koje su gore na nebu ili koje su dolje na zemlji ili koje su u vodi ispod zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nemoj im se klanjati niti im služiti, jer sam ja Gospod Bog tvoj, Bog revnitelj, koji na sinovima pohodim bezakonja otaca njihovijeh do treæega i do èetvrtoga koljena, onijeh koji mrze na me,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A èinim milost na tisuæama onijeh koji me ljube i èuvaju zapovijesti moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ne uzimaj uzalud imena Gospoda Boga svojega, jer neæe pred Gospodom biti prav ko uzme ime njegovo uzalud."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Drži dan od odmora i svetkuj ga, kao što ti je zapovjedio Gospod Bog tvoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Šest dana radi, i svršuj sve poslove svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A sedmi je dan odmor Gospodu Bogu tvojemu; nemoj raditi nikakoga posla ni ti ni sin tvoj ni kæi tvoja ni sluga tvoj ni sluškinja tvoja, ni vo tvoj ni magarac tvoj, niti koje živinèe tvoje, ni došljak koji je kod tebe, da bi se odmorio sluga tvoj i sluškinja tvoja kao i ti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I pamti da si bio rob u zemlji Misirskoj, i Gospod Bog tvoj izvede te odande rukom krjepkom i mišicom podignutom. Zato ti je Gospod Bog tvoj zapovjedio da svetkuješ dan od odmora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Poštuj oca svojega i mater svoju, kao što ti je zapovjedio Gospod Bog tvoj, da bi se produljili dani tvoji i da bi ti dobro bilo na zemlji, koju ti daje Gospod Bog tvoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ne ubij."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ne èini preljube."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ne kradi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ne svjedoèi lažno na bližnjega svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ne poželi žene bližnjega svojega, ne poželi kuæe bližnjega svojega, ni njive njegove, ni sluge njegova, ni sluškinje njegove, ni vola njegova, ni magarca njegova, niti išta što je bližnjega tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Te rijeèi izgovori Gospod svemu zboru vašemu na gori isred ognja, oblaka i mraka, glasom velikim, i ništa više, nego ih napisa na dvije ploèe kamene koje mi dade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A vi kad èuste glas isred tame, jer gora ognjem goraše, pristupiste k meni, svi glavari od plemena vaših i starješine vaše,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I rekoste: gle, pokaza nam Gospod Bog naš slavu i velièinu svoju, i èusmo glas njegov isred ognja; danas vidjesmo gdje Bog govori s èovjekom, i èovjek osta živ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Pa sada zašto da pomremo? jer æe nas spaliti onaj oganj veliki; ako jošte èujemo glas Gospoda Boga svojega, pomrijeæemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jer koje je tijelo èulo glas Boga živoga gdje govori isred ognja, kao mi, i ostalo živo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Idi ti, i saslušaj sve što æe kazati Gospod Bog naš, pa onda ti kaži nama što ti god reèe Gospod Bog naš, a mi æemo slušati i tvoriti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I Gospod èu glas od rijeèi vaših kad vi govoraste, i reèe mi Gospod: èuh glas od rijeèi toga naroda, koje rekoše tebi; što rekoše dobro rekoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "O, kad bi im bilo srce svagda tako da me se boje i drže sve zapovijesti moje svagda, da bi dobro bilo njima i sinovima njihovijem dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Idi, reci im: vratite se u šatore svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A ti stani ovdje kod mene, i kazaæu ti sve zapovijesti i uredbe i zakone, koje æeš ih nauèiti da tvore u zemlji koju im dajem u našljedstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Gledajte dakle da èinite kako vam je zapovjedio Gospod Bog vaš, ne svræite ni nadesno ni nalijevo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Cijelijem putem, koji vam je zapovjedio Gospod Bog vaš, idite, da biste živi bili i da bi vam dobro bilo, i da bi vam se produljili dani u zemlji koju æete naslijediti."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DEU/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DEU/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DEU/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

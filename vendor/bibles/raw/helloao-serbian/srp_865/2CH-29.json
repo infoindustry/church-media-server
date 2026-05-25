@@ -1,0 +1,328 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "srp_865",
+    "name": "2. Dnevnika",
+    "commonName": "2. Dnevnika",
+    "title": "2. Dnevnika",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "712160a45a7d7fb40ad6e8f55f27c6bc71cf3a3fca70d89afd22674733ec70a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/2CH/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 29,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Jezekiji bješe dvadeset i pet godina kad poèe carovati, i carova dvadeset i devet godina u Jerusalimu. Materi mu bješe ime Avija, kæi Zaharijina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I èinjaše što je pravo pred Gospodom sasvijem kako je èinio David otac njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Prve godine svojega carovanja, prvoga mjeseca, otvori vrata na domu Gospodnjem, i opravi ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I sazva sveštenike i Levite, i sabra ih na istoènu ulicu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I reèe im: èujte me, Leviti, osveštajte se sada i osvetite dom Gospoda Boga otaca svojih, i iznesite neèistotu iz svetinje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer sagriješiše oci naši i èiniše što je zlo pred Gospodom Bogom našim, i ostaviše ga; i odvratiše lice svoje od šatora Gospodnjega i okrenuše mu leða;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I zatvoriše vrata od trijema, i pogasiše žiške, i kadom ne kadiše, niti žrtava paljenica prinosiše u svetinji Bogu Izrailjevu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Zato se razgnjevi Gospod na Judu i na Jerusalim, te ih dade da se potucaju, i da budu èudo i potsmijeh, kako vidite svojim oèima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer eto padoše oci naši od maèa, i sinovi naši i kæeri naše i žene naše zarobiše se zato."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Sada dakle naumio sam zadati vjeru Gospodu Bogu Izrailjevu, da bi se odvratila od nas žestina gnjeva njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Sinovi moji, ne oklijevajte više, jer je vas izabrao Gospod da stojite pred njim i služite mu, i da mu budete sluge i da mu kadite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada ustaše Leviti Mat sin Amasajev i Joilo sin Azarijin od sinova Katovijeh; a od sinova Merarijevih Kis sin Avdijev i Azarija sin Jaleleilov; i od sinova Girsonovijeh Joah sin Zimin i Eden sin Joahov;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I od sinova Elisafanovijeh Simrije i Jeilo, i od sinova Asafovijeh Zaharija i Matanija;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I od sinova Amonovijeh Jeilo i Simej, i od sinova Jedutunovijeh Semaja i Ozilo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I skupiše braæu svoju, i osveštavši se doðoše, kako bješe zapovjedio car po rijeèi Gospodnjoj, da oèiste dom Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I ušavši sveštenici u dom Gospodnji da ga oèiste, iznosiše svu neèistotu što naðoše u crkvi Gospodnjoj u trijem doma Gospodnjega; a Leviti kupiše i iznosiše napolje na potok Kedron."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A poèeše osveæivati prvoga dana prvoga mjeseca; a osmoga dana toga mjeseca uðoše u trijem Gospodnji, i osveæivaše dom Gospodnji osam dana, i šesnaestoga dana prvoga mjeseca svršiše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Potom doðoše k caru Jezekiji i rekoše: oèistismo sav dom Gospodnji i oltar za žrtve paljenice i sve sudove njegove i sto za postavljanje i sve sudove njegove,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I sve sudove koje bješe bacio car Ahaz dokle carovaše griješeæi, i spremismo i osvetismo, i eno ih pred oltarom Gospodnjim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Potom car Jezekija usta rano, i sazva upravitelje gradske, i otide u dom Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I dovede sedam junaca i sedam ovnova i sedam jaganjaca i sedam jaraca za grijeh, za carstvo i za svetinju i za Judu; i reèe sinovima Aronovijem sveštenicima da prinesu na oltaru Gospodnjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Tada zaklaše goveda, i sveštenici uzevši krv njihovu pokropiše oltar; zaklaše i ovnove, i krvlju njihovom pokropiše oltar; i zaklaše jaganjce i krvlju njihovom pokropiše oltar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Potom dovedoše jarce za grijeh pred cara i pred zbor, i oni metnuše ruke svoje na njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I zaklaše ih sveštenici, i oèistiše krvlju njihovom oltar na oèišæenje svemu Izrailju, jer car zapovjedi da se za sav narod Izrailjev prinese žrtva paljenica i žrtva za grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I postavi Levite u domu Gospodnjem s kimvalima i psaltirima i guslama, kako bješe zapovjedio David i Gad vidjelac carev i Natan prorok; jer od Gospoda bješe zapovijest preko proroka njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I tako stajahu Leviti sa spravama Davidovijem a sveštenici s trubama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Tada zapovjedi Jezekija da prinesu žrtvu paljenicu na oltaru. I kad se poèe žrtva paljenica, poèe se pjesma Gospodnja uz trube i sprave Davida cara Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I sav se zbor klanjaše, i pjevaèi pjevahu i trubaèi trubljahu, i to sve dokle se ne svrši žrtva paljenica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A kad svršiše žrtvu, car i svi koji bijahu s njim padoše i pokloniše se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Potom reèe car i knezovi Levitima da hvale Gospoda rijeèima Davidovijem i Asafa vidioca; i hvališe s velikim veseljem, i savivši se pokloniše se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Tada Jezekija progovori i reèe: sada posvetiste ruke svoje Gospodu, pristupite i donesite prinose i žrtve zahvalne u dom Gospodnji. I donese sav zbor prinose i žrtve zahvalne, i ko god bješe voljna srca žrtve paljenice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I na broj bješe žrtava paljenica što donese zbor, sedamdeset volova, sto ovnova, dvjesta jaganjaca, sve za žrtvu paljenicu Gospodu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A drugih stvari posveæenijeh bješe šest stotina volova i tri tisuæe ovaca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ali malo bijaše sveštenika, te ne mogahu drijeti svijeh žrtava paljenica; zato im pomagahu braæa njihova Leviti, dokle se ne svrši posao i dokle se ne osveštaše drugi sveštenici; jer Leviti bijahu radiji osveštati se nego sveštenici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I bijaše vrlo mnogo žrtava paljenica s pretilinom od žrtava zahvalnijeh i naljeva na žrtve paljenice. Tako bi povraæena služba u domu Gospodnjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I radovaše se Jezekija i sav narod, što Bog upravi narod, jer ovo bi naglo."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CH/29.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 29
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CH/30.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 30
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CH/28.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 28
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 36
+}

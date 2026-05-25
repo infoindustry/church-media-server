@@ -1,0 +1,174 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EST",
+    "translationId": "srp_865",
+    "name": "Jestira",
+    "commonName": "Jestira",
+    "title": "Jestira",
+    "order": 17,
+    "numberOfChapters": 10,
+    "sha256": "e4f6efd7a0ac2ec68174fc976318ab40b76a1d521c247f2da3227c800670b4a9",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EST/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EST",
+      "chapter": 1
+    },
+    "lastChapterNumber": 10,
+    "lastChapterApiLink": "/api/srp_865/EST/10.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EST",
+      "chapter": 10
+    },
+    "totalNumberOfVerses": 167
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Onu noæ ne mogaše car spavati, i zapovjedi te mu donesoše knjigu od znamenitijeh dogaðaja, dnevnike, te je èitaše caru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I naðe se zapisano kako je Mardohej prokazao za Vihtana i Teresa, dva dvoranina, koji èuvahu stražu na pragu, da gledaju da dignu ruke na cara Asvira."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Tada reèe car: kaka je èast i kako je dobro uèinjeno Mardoheju za to? A momci carevi, sluge njegove, rekoše: nije mu uèinjeno ništa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A car reèe: ko je u trijemu? A Aman bješe došao u spoljašnji trijem dvora careva da kaže caru da se objesi Mardohej na vješala koja mu je pripravio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A momci carevi rekoše mu: gle, Aman stoji u trijemu. A car reèe: neka doðe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I Aman doðe, a car mu reèe: šta treba uèiniti èovjeku kojega car hoæe da proslavi? A Aman reèe u sebi: koga bi car htio proslaviti ako ne mene?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I reèe Aman caru: koga car hoæe da proslavi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Treba donijeti carsko odijelo koje car nosi, i dovesti konja na kom car jaše, i metnuti mu na glavu vijenac carski;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I odijelo i konja treba dati kome izmeðu najveæih knezova carevijeh da obuku èovjeka onoga kojega car hoæe da proslavi, pa da ga provedu na konju po ulicama gradskim i vièu pred njim: ovako biva èovjeku koga car hoæe da proslavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Tada reèe car Amanu: brže uzmi odijelo i konja kao što reèe, i uèini tako Mardoheju, Judejcu koji sjedi na vratima carevijem; nemoj izostaviti ništa što si rekao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I uze Aman odijelo i konja, i obuèe Mardoheja i provede ga na konju po ulicama gradskim vièuæi pred njim: ovako biva èovjeku koga car hoæe da proslavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Potom se vrati Mardohej na vrata careva, a Aman brže otide kuæi svojoj žalostan i pokrivene glave."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I pripovjedi Aman Seresi ženi svojoj i svijem prijateljima svojim sve što mu se dogodi. Tada mu rekoše mudarci njegovi i Seresa žena njegova: kad je od Judejskoga sjemena Mardohej pred kojim si poèeo padati, neæeš mu odoljeti, nego æeš pasti pred njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I dok oni još govorahu s njim, doðoše dvorani carevi i brže odvedoše Amana na objed koji zgotovi Jestira."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EST/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EST",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EST/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EST",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EST/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EST",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 14
+}

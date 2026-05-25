@@ -1,0 +1,188 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MIC",
+    "translationId": "srp_865",
+    "name": "Mihej",
+    "commonName": "Mihej",
+    "title": "Mihej",
+    "order": 33,
+    "numberOfChapters": 7,
+    "sha256": "1dfa85f7e9da3eddf6409061eb84b76e832c4df0a95545ecbfebbcb0fafba227",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MIC/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MIC",
+      "chapter": 1
+    },
+    "lastChapterNumber": 7,
+    "lastChapterApiLink": "/api/srp_865/MIC/7.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MIC",
+      "chapter": 7
+    },
+    "totalNumberOfVerses": 105
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Rijeè Gospodnja koja doðe Miheju Moreseæaninu za vremena Joatama, Ahaza i Jezekije, careva Judinijeh, što vidje za Samariju i za Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Èujte, svi narodi, slušaj, zemljo i što je na njoj, i Gospod Bog da vam je svjedok, Gospod iz svete crkve svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer, gle, Gospod izlazi iz mjesta svojega, i siæi æe, i hodiæe po visinama zemaljskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I gore æe se rastopiti pred njim, i doline æe se rasjesti, kao vosak od ognja i kao voda što teèe niz strmen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Sve je to za zloèinstvo Jakovljevo i za grijehe doma Izrailjeva. Koje je zloèinstvo Jakovljevo? nije li Samarija? koje su visine Judine? nije li Jerusalim?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Zato æu uèiniti od Samarije gomilu u polju da se sade vinogradi, i pobacaæu kamenje njezino u dolinu i otkriæu joj temelje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I svi rezani likovi njezini razbiæe se, i svi æe se darovi njezini sažeæi ognjem, i sve æu idole njezine potrti, jer od plate kurvarske nakupi, i opet æe biti plata kurvarska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Zato æu plakati i ridati; hodiæu svuèen i go; plakaæu kao zmajevi i tužiæu kao sove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer joj se rane ne mogu iscijeliti, doðoše do Jude, dopriješe do vrata mojega naroda, do Jerusalima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ne javljajte u Gatu, ne plaèite; u Vit-Afri valjaj se po prahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Izidi, stanovnice Safirska, s golom sramotom; stanovnica Sananska neæe izaæi; žalost Vet-ezilska neæe vam dati stanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer stanovnica Marotska tuži za svojim dobrom. Jer siðe zlo od Gospoda do vrata Jerusalimskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Upregni brze konje u kola, stanovnice Lahiska, koja si poèetak grijehu kæeri Sionskoj, jer se u tebi naðoše zloèinstva Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Zato pošlji dare Moresetu Gatskom; domovi Ahsivski prevariæe careve Izrailjeve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Još æu ti dovesti našljednika, stanovnice Mariska; doæi æe do Odolama, slave Izrailjeve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Naèini se æelava i ostrizi se za milom djecom svojom; raširi æelu svoju kao orao, jer se vode od tebe u ropstvo."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MIC/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MIC",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MIC/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MIC",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JON/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JON",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

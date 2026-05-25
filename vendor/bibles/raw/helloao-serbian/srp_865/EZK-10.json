@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Potom vidjeh, i gle, na nebu koje bijaše nad glavama heruvimima pokaza se nad njima kao kamen safir na oèi kao prijesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I progovori èovjeku obuèenom u platno, i reèe: uði meðu toèkove pod heruvimima, i uzmi pune pregršti žeravice izmeðu heruvima i razaspi na grad. I uðe na moje oèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A heruvimi stajahu s desne strane doma kad uðe èovjek, i oblak napuni unutrašnji trijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I slava Gospodnja podiže se s heruvima na prag od doma, i napuni se dom oblaka, a trijem se napuni svjetlosti slave Gospodnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I lupa krila u heruvima èujaše se do spoljašnjega trijema kao glas Boga svemoguæega kad govori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I kad zapovjedi èovjeku obuèenome u platno govoreæi: uzmi ognja izmeðu toèkova izmeðu heruvima; on uðe i stade kod toèkova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I jedan heruvim pruži ruku svoju izmeðu heruvima k ognju koji bijaše meðu heruvimima, i uze i metnu u pregršti obuèenome u platno, i on primi i izide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A viðaše se u heruvima kao ruka èovjeèija pod krilima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I vidjeh, i gle, èetiri toèka kod heruvima, po jedan toèak kod jednoga heruvima, i toèkovi bijahu na oèi kao kamen hrisolit."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I na oèi bijahu sva èetiri toèka jednaka, i kao da je toèak u toèku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Kad iðahu, iðahu sva èetiri, svaki na svoju stranu, i iduæi ne skretahu, nego kuda gledaše glava onamo iðahu i iduæi ne skretahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A sve im tijelo i leða i ruke i krila i toèkovi, sva èetiri toèka njihova, bijahu puna oèiju svuda unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A toèkovi se zvahu kako èuh: kola."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A èetiri lica imaše svaka životinja: jedno lice heruvimsko, drugo lice èovjeèije i treæe lice lavovo i èetvrto lice orlovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I podigoše se heruvimi u vis; to bijahu iste životinje koje vidjeh na rijeci Hevaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A kad iðahu heruvimi, iðahu i toèkovi uz njih, i kad heruvimi mahahu krilima svojim da se podignu od zemlje, toèkovi se ne odmicahu od njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Kad se oni ustavljahu, ustavljahu se i toèkovi; a kad se oni podizahu, podizahu se i toèkovi; jer bijaše duh životinjski u njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I slava Gospodnja otide iznad praga od doma, i stade nad heruvime."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I heruvimi mahnuvši krilima podigoše se od zemlje preda mnom polazeæi, i toèkovi prema njima; i stadoše na istoènijem vratima doma Gospodnjega, i slava Boga Izrailjeva bijaše ozgo nad njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "To bijahu iste životinje koje vidjeh pod Bogom Izrailjevijem na rijeci Hevaru, i poznah da su heruvimi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Svaka imaše èetiri lica i èetiri krila, i kao ruka èovjeèija bješe im pod krilima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I lica im bijahu ista koja vidjeh na rijeci Hevaru; oblièja bijahu ista, isti bijahu; svaki iðaše pravo naprema se."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/10.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 10
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/11.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 11
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/9.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 9
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

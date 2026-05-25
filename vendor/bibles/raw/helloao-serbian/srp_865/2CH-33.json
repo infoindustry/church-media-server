@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "srp_865",
+    "name": "2. Dnevnika",
+    "commonName": "2. Dnevnika",
+    "title": "2. Dnevnika",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "712160a45a7d7fb40ad6e8f55f27c6bc71cf3a3fca70d89afd22674733ec70a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/2CH/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 33,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Dvanaest godina bješe Manasiji kad poèe carovati, i carova pedeset i pet godina u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A èinjaše što je zlo pred Gospodom po gadnijem djelima onijeh naroda koje odagna Gospod ispred sinova Izrailjevijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer opet pogradi visine, koje bješe raskopao Jezekija otac njegov, i podiže oltare Valima, i naèini lugove, i klanjaše se svoj vojsci nebeskoj i služaše joj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Naèini oltare i u domu Gospodnjem, za koji bješe rekao Gospod: u Jerusalimu æe biti ime moje dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Naèini oltare svoj vojsci nebeskoj u dva trijema doma Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I provodi sinove svoje kroz oganj u dolini sina Enomova, i gledaše na vremena i gataše i vraèaše, i uredi one što se dogovaraju s duhovima i vraèare, i èinjaše vrlo mnogo što je zlo pred Gospodom gnjeveæi ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I postavi lik rezan koji naèini u domu Božijem, za koji bješe rekao Bog Davidu i Solomunu sinu njegovu: u ovom domu i u Jerusalimu, koji izabrah izmeðu svijeh plemena Izrailjevijeh, namjestiæu ime svoje dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I neæu više krenuti noge sinovima Izrailjevijem iz zemlje koju sam odredio ocima vašim, ako samo uzdrže i ustvore sve što sam im zapovjedio preko Mojsija, sav zakon i uredbe i sudove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ali Manasija zavede Judu i Jerusalim, te èiniše gore nego narodi koje istrijebi Gospod ispred sinova Izrailjevijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I Gospod govoraše Manasiji i narodu njegovu, ali ne htješe slušati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zato dovede Gospod na njih glavare od vojske cara Asirskoga, i uhvatiše Manasiju u trnju, i svezavši ga u dvoje verige mjedene odvedoše ga u Vavilon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I kad bijaše u nevolji, moljaše se Gospodu Bogu svojemu, i ponizi se veoma pred Bogom otaca svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I moleæi se umoli mu se, te usliši molitvu njegovu i povrati ga u Jerusalim na carstvo njegovo. Tada pozna Manasija da je Gospod Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A poslije toga ozida zid iza grada Davidova sa zapada Gionu, od samoga potoka pa do ribljih vrata i oko Ofila, i izvede ga vrlo visoko; i postavi vojvode po svijem tvrdijem gradovima Judinijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I iznese iz doma Gospodnjega bogove tuðe i lik i sve oltare koje bješe naèinio na gori doma Gospodnjega i u Jerusalimu, i baci iza grada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Pa opravi oltar Gospodnji i prinese na njemu žrtve zahvalne i u slavu, i zapovjedi Judejcima da služe Gospodu Bogu Izrailjevu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ali narod još prinošaše žrtve na visinama, ali samo Gospodu Bogu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A ostala djela Manasijina i molitva njegova Bogu njegovu i rijeèi koje mu govoriše vidioci u ime Gospoda Boga Izrailjeva, to je sve u knjizi o carevima Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A molitva njegova i kako se umolio, i svi grijesi njegovi i prijestupi, i mjesta gdje je pogradio visine i podigao lugove i likove rezane prije nego se ponizi, to je sve zapisano u knjigama proroèkim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I poèinu Manasija kod otaca svojih, i pogreboše ga u domu njegovu. A na njegovo se mjesto zacari Amon sin njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Dvadeset i dvije godine imaše Amon kad poèe carovati, i carova dvije godine u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I èinjaše što je zlo pred Gospodom kao što je èinio Manasija otac mu; jer svijem likovima rezanijem, koje naèini Manasija otac njegov, prinošaše Amon žrtve i služaše im."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ali se ne ponizi pred Gospodom, kao što se ponizi Manasija otac njegov; nego isti Amon još više griješaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I pobuniše se na nj sluge njegove, i ubiše ga u kuæi njegovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Tada pobi narod zemaljski sve koji se bijahu pobunili na cara Amona, i zacari narod zemaljski Josiju sina njegova na njegovo mjesto."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CH/33.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 33
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CH/34.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 34
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CH/32.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 32
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

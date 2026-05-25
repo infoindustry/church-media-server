@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tako se dovrši nebo i zemlja i sva vojska njihova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I svrši Bog do sedmoga dana djela svoja, koja uèini; i poèinu u sedmi dan od svijeh djela svojih, koja uèini;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I blagoslovi Bog sedmi dan, i posveti ga, jer u taj dan poèinu od svijeh djela svojih, koja uèini;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "To je postanje neba i zemlje, kad postaše, kad Gospod Bog stvori zemlju i nebo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I svaku biljku poljsku, dokle je još ne bješe na zemlji, i svaku travku poljsku, dokle još ne nicaše; jer Gospod Bog još ne pusti dažda na zemlju, niti bješe èovjeka da radi zemlju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ali se podizaše para sa zemlje da natapa svu zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A stvori Gospod Bog èovjeka od praha zemaljskoga, i dunu mu u nos duh životni; i posta èovjek duša živa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I nasadi Gospod Bog vrt u Edemu na istoku; i ondje namjesti èovjeka, kojega stvori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I uèini Gospod Bog, te nikoše iz zemlje svakojaka drveta lijepa za gledanje i dobra za jelo, i drvo od života usred vrta i drvo od znanja dobra i zla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A voda tecijaše iz Edema natapajuæi vrt, i odande se dijeljaše u èetiri rijeke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jednoj je ime Fison, ona teèe oko cijele zemlje Evilske, a ondje ima zlata,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I zlato je one zemlje vrlo dobro; ondje ima i bdela i dragoga kamena oniha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A drugoj je rijeci ime Geon, ona teèe oko cijele zemlje Huske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A treæoj je rijeci ime Hidekel, ona teèe k Asirskoj. A èetvrta je rijeka Efrat."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I uzevši Gospod Bog èovjeka namjesti ga u vrtu Edemskom, da ga radi i da ga èuva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I zaprijeti Gospod Bog èovjeku govoreæi: jedi slobodno sa svakoga drveta u vrtu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ali s drveta od znanja dobra i zla, s njega ne jedi; jer u koji dan okusiš s njega, umrijeæeš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I reèe Gospod Bog: nije dobro da je èovjek sam; da mu naèinim druga prema njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer Gospod Bog stvori od zemlje sve zvijeri poljske i sve ptice nebeske, i dovede k Adamu da vidi kako æe koju nazvati, pa kako Adam nazove koju životinju onako da joj bude ime;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I Adam nadjede ime svakom živinèetu i svakoj ptici nebeskoj i svakoj zvijeri poljskoj; ali se ne naðe Adamu drug prema njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I Gospod Bog pusti tvrd san na Adama, te zaspa; pa mu uze jedno rebro, i mjesto popuni mesom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I Gospod Bog stvori ženu od rebra, koje uze Adamu, i dovede je k Adamu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A Adam reèe: sada eto kost od mojih kosti, i tijelo od mojega tijela. Neka joj bude ime èovjeèica, jer je uzeta od èovjeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Zato æe ostaviti èovjek oca svojega i mater svoju, i prilijepiæe se k ženi svojoj, i biæe dvoje jedno tijelo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A bjehu oboje goli, Adam i žena mu, i ne bješe ih sramota."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

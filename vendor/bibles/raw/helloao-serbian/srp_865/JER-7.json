@@ -1,0 +1,314 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Rijeè koja doðe Jeremiji od Gospoda govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Stani na vratima doma Gospodnjega, i oglasi ondje ovu rijeè, i reci: èujte rijeè Gospodnju, svi Judejci, koji ulazite na ova vrata da se poklonite Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ovako govori Gospod nad vojskama, Bog Izrailjev: popravite svoje putove i djela svoja, pa æu uèiniti da stanujete na ovom mjestu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ne uzdajte se u lažne rijeèi govoreæi: crkva Gospodnja, crkva Gospodnja, crkva Gospodnja ovo je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nego doista popravite svoje putove i djela svoja, i sudite pravo izmeðu èovjeka i bližnjega njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Inostrancu, siroti i udovici ne èinite krivo, i krvi prave ne proljevajte na ovom mjestu, i ne idite za drugim bogovima na svoje zlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tada æu uèiniti da stanujete od vijeka do vijeka na ovom mjestu, u zemlji koju sam dao ocima vašim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Eto, vi se uzdate u rijeèi lažne, koje ne pomažu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Kradete, ubijate i èinite preljubu, kunete se krivo, i kadite Valima, i idete za drugim bogovima, kojih ne znate;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Pa onda dohodite i stajete preda mnom u ovom domu, koji se zove mojim imenom, i govorite: izbavismo se, da èinite sve ove gadove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Je li ovaj dom, koji se zove mojim imenom, u vašim oèima peæina hajduèka? Gle, i ja vidim, veli Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nego idite sada na moje mjesto, koje je bilo u Silomu, gdje namjestih ime svoje ispoèetka, i vidite što sam mu uèinio za zloæu naroda svojega Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zato sada, što èinite sva ona djela, veli Gospod, i što vam govorim zarana jednako, a vi ne slušate, i kad vas zovem, a vi se ne odzivate,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Zato æu uèiniti tomu domu, koji se zove mojim imenom, u koji se vi uzdate, i ovomu mjestu, koje dadoh vama i ocima vašim, kao što sam uèinio Silomu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I odbaciæu vas od lica svojega, kao što sam odbacio svu braæu vašu, sve sjeme Jefremovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ti se dakle ne moli za taj narod, i ne podiži vike ni molbe za njih, i ne govori mi za njih; jer te neæu uslišiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Zar ne vidiš šta èine po gradovima Judinijem i po ulicama Jerusalimskim?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Sinovi kupe drva, a ocevi lože oganj, i žene mijese tijesto, da peku kolaèe carici nebeskoj, i da ljevaju naljeve drugim bogovima, da bi mene dražili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Mene li draže? govori Gospod; eda li ne sebe, na sramotu licu svojemu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Zato ovako govori Gospod Gospod: gle, gnjev moj i jarost moja izliæe se na ovo mjesto, na ljude i na stoku i na drveta poljska i na rod zemaljski, i raspaliæe se, i neæe se ugasiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ovako veli Gospod nad vojskama Bog Izrailjev: žrtve svoje paljenice sastavite sa prinosima svojim, i jedite meso."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer ne govorih ocima vašim, niti im zapovjedih, kad ih izvedoh iz zemlje Misirske, za žrtve paljenice ni za prinose."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Nego im ovo zapovjedih govoreæi: slušajte glas moj i biæu vam Bog i vi æete mi biti narod, i idite svijem putovima koje vam zapovjedih, da bi vam dobro bilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ali ne poslušaše, niti uha svojega prignuše, nego idoše po savjetima i mislima zloga srca svojega, i otidoše natrag a ne naprijed."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Otkad iziðoše oci vaši iz zemlje Misiriske do danas, slah k vama sve sluge svoje proroke svaki dan zarana i bez prestanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ali ne poslušaše me, niti uha svojega prignuše, nego bijahu tvrdovrati i èiniše gore nego oci njihovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Govoriæeš im sve ove rijeèi, ali te neæe poslušati; i zvaæeš ih, ali ti se neæe odazvati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Zato im reci: ovo je narod koji ne sluša glasa Gospoda Boga svojega, niti prima nauke; propade vjera i nesta je iz usta njihovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ostrizi kosu svoju i baci je, i zaridaj iza glasa na visokim mjestima, jer odbaci Gospod i ostavi rod, na koji se razgnjevi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Jer sinovi Judini uèiniše što je zlo preda mnom, govori Gospod, metnuše gadove svoje u dom koji se zove mojim imenom, da bi ga oskvrnili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I sagradiše visine Tofetu, koji je u dolini sina Enomova, da sažižu sinove svoje i kæeri svoje ognjem, što nijesam zapovjedio niti mi je došlo na um."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Zato evo, idu dani, veli Gospod, kad se više neæe zvati Tofet ni dolina sina Enomova, nego dolina krvna, i pogrebavaæe se u Tofetu, jer neæe biti mjesta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I mrtva æe tjelesa naroda ovoga biti hrana pticama nebeskim i zvijerju zemaljskom, i neæe biti nikoga da ih plaši."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I uèiniæu, te æe iz gradova Judinijeh i s ulica Jerusalimskih nestati glasa radosna i glasa vesela, glasa ženikova i glasa nevjestina; jer æe zemlja opustjeti."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 34
+}

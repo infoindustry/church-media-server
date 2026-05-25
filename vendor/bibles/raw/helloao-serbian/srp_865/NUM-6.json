@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "srp_865",
+    "name": "Brojevi",
+    "commonName": "Brojevi",
+    "title": "Brojevi",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "5dc73b8a174fd63cb58a0932611fd5816a865be2dae8658fc6051a7a529e9415",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NUM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/NUM/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Reci sinovima Izrailjevijem, i kaži im: kad èovjek ili žena uèini zavjet nazirejski, da bude nazirej Gospodu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Neka se uzdržava od vina i silovita piæa, i neka ne pije octa vinskoga ni octa od silovita piæa niti kakvoga piæa od grožða i neka ne jede grožða ni novoga ni suhoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Dokle god traje njegovo nazirejstvo neka ne jede ništa od vinove loze, ni zrna ni ljuske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Dokle traje njegovo nazirejstvo, neka mu britva ne prijeðe preko glave; dokle se ne navrše dani za koje se uèinio nazirej Gospodu, neka bude svet i neka ostavlja kosu na glavi svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Dokle traju dani za koje se uèinio nazirej Gospodu, neka ne pristupa k mrtvacu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ni za ocem svojim ni za materom svojom ni za bratom svojim ni za sestrom svojom, neka se za njima ne skvrni kad umru; jer je nazirejstvo Boga njegova na glavi njegovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Dokle god traje nazirejstvo njegovo, svet je Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ako li bi ko umro do njega na preèac, te bi oskvrnio nazirejstvo glave njegove, neka obrije glavu svoju u dan èišæenja svojega, sedmi dan neka je obrije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A osmi dan neka donese dvije grlice ili dva golubiæa svešteniku na vrata šatora od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I sveštenik neka zgotovi od jednoga žrtvu za grijeh a od drugoga žrtvu paljenicu, i neka ga oèisti od onoga što je zgriješio kod mrtvaca; tako æe posvetiti glavu njegovu u taj dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I neka odijeli Gospodu dane nazirejstva svojega, i donese jagnje od godine za krivicu; a preðašnji dani propadaju, jer mu se oskvrnilo nazirejstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A ovo je zakon za nazireje: kad se navrše dani nazirejstvu njegovu, neka doðe na vrata šatora od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I neka donese za žrtvu Gospodu jagnje muško od godine zdravo za žrtvu paljenicu, i jagnje žensko od godine zdravo za grijeh, i ovna zdrava za žrtvu zahvalnu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I kotaricu hljebova prijesnijeh, kolaèa od bijeloga brašna zamiješenijeh s uljem, i pogaèa prijesnijeh namazanijeh uljem, s darom njihovijem i s naljevom njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A to æe sveštenik prinijeti pred Gospodom i uèiniti žrtvu za grijeh njegov i žrtvu njegovu paljenicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A ovna æe prinijeti na žrtvu zahvalnu Gospodu s kotaricom prijesnijeh hljebova; prinijeæe sveštenik i dar njegov i naljev njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Tada nazirej neka obrije glavu svojega nazirejstva na vratima šatora od sastanka; i uzev kosu nazirejstva svojega neka je metne u oganj koji je pod žrtvom zahvalnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I sveštenik neka uzme pleæe kuhano od ovna i jedan kolaè prijesan iz kotarice i jednu pogaèu prijesnu, i neka metne na ruke nazireju, pošto obrije nazirejstvo svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I sveštenik neka obræe te stvari na žrtvu obrtanu pred Gospodom; to je svetinja, koja pripada svešteniku osim grudi obrtanih i pleæa podignutoga; a poslije toga nazirej može piti vina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "To je zakon za nazireja koji se zavjetuje, i to je prinos njegov Gospodu za nazirejstvo njegovo, osim onoga što bi više mogao uèiniti; kakav mu bude zavjet kojim se zavjetuje, tako neka uèini osim zakona svojega nazirejstva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Reci Aronu i sinovima njegovijem i kaži: ovako blagosiljajte sinove Izrailjeve govoreæi im:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Da te blagoslovi Gospod i da te èuva!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Da te obasja Gospod licem svojim i bude ti milostiv!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Da Gospod obrati lice svoje k tebi i dade ti mir!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I neka prizivlju ime moje na sinove Izrailjeve, i ja æu ih blagosloviti."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NUM/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NUM/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NUM/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

@@ -1,0 +1,160 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 60,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Bože, rasrdio si se na nas, rasuo si nas, gnjevio si se; povrati nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Zatresao si zemlju, i razvalio si je; stegni rasjeline njezine, jer se njiha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Dao si narodu svojemu da pozna ljutu nevolju, napojio si nas vina od kojega se zanesosmo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Podigni zastavu za one koji te se boje, da uteku od luka,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Da se izbave mili tvoji. Pomozi desnicom svojom i usliši me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Bog reèe u svetinji svojoj: veseliæu se, razdijeliæu Sihem, i dolinu Sokot razmjeriæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Moj je Galad, moj je Manasija, Jefrem je krjepost glave moje, Juda skiptar moj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Moav èaša moja, iz koje se umivam, na Edoma pružiæu obuæu svoju. Pjevaj mi, Filistejska zemljo!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ko æe me odvesti u tvrdi grad? Ko æe me otpratiti do Edoma?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zar neæeš ti, Bože, koji si nas odbacio, i ne ideš, Bože, s vojskom našom?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Daj nam pomoæ u tjeskobi. A obrana je èovjeèija uzalud."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Bogom smo jaki; on gazi neprijatelje naše."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/60.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 60
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/61.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 61
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/59.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 59
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 12
+}

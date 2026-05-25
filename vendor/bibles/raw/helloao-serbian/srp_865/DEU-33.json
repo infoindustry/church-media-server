@@ -1,0 +1,279 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "srp_865",
+    "name": "Ponovljeni Zakon",
+    "commonName": "Ponovljeni Zakon",
+    "title": "Ponovljeni Zakon",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "b000b6651908c9448c65c662cec1fa45977205b236e0922d505241ab679311df",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DEU/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 1
+    },
+    "lastChapterNumber": 34,
+    "lastChapterApiLink": "/api/srp_865/DEU/34.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 34
+    },
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 33,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A ovo je blagoslov kojim blagoslovi Mojsije èovjek Božji sinove Izrailjeve pred smrt svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I reèe: Gospod izide sa Sinaja, i pokaza im se sa Sira; zasja s gore Faranske, i doðe s mnoštvom tisuæa svetaca, a u desnici mu zakon ognjeni za njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Doista ljubi narode; svi su sveti njegovi u ruci tvojoj; i oni se slegoše k nogama tvojim da prime rijeèi tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Mojsije nam dade zakon, našljedstvo zboru Jakovljevu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer bijaše car u Izrailju, kad se sabirahu knezovi narodni, plemena Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Da živi Ruvim i ne umre, a ljudi njegovijeh da bude malo!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A za Judu reèe: usliši Gospode glas Judin, i dovedi ga opet k narodu njegovu; ruke njegove neka vojuju za nj, a ti mu pomaži protiv neprijatelja njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I za Levija reèe: tvoj Tumim i tvoj Urim neka budu u èovjeka tvojega svetoga, kojega si okušao u Masi i s kojim si se prepirao na vodi Merivi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Koji reèe ocu svojemu i materi svojoj: ne gledam na vas; koji ne poznaje braæe svoje i za sinove svoje ne zna; jer drže rijeèi tvoje, i zavjet tvoj èuvaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Oni uèe uredbama tvojim Jakova i zakonu tvojemu Izrailja, i meæu kad pod nozdrve tvoje i žrtvu što se sažiže na oltar tvoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Blagoslovi, Gospode, vojsku njegovu, i neka ti milo bude djelo ruku njegovijeh; polomi bedre onima koji ustaju na nj i koji mrze na nj, da ne ustanu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Za Venijamina reèe: mili Gospodu nastavaæe bez straha s njim; zaklanjaæe ga svaki dan, i meðu pleæima njegovijem nastavaæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I za Josifa reèe: blagoslovena je zemlja njegova od Gospoda blagom s neba, rosom, i iz dubine ozdo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I blagom koje dolazi od sunca, i blagom koje dolazi od mjeseca,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I blagom starijeh brda i blagom vjeènijeh humova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I blagom na zemlji i obiljem njezinijem, i milošæu onoga koji stoji u kupini. Neka to doðe na glavu Josifu i na tjeme odvojenome izmeðu braæe svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Krasota je njegova kao u prvenca teleta, i rogovi njegovi kao rogovi u jednoroga; njima æe bosti narode sve do kraja zemlje; to je mnoštvo tisuæa Jefremovijeh i tisuæe Manasijine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A za Zavulona reèe: veseli se Zavulone izlaskom svojim, i Isahare šatorima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Narode æe sazvati na goru, ondje æe prinijeti žrtve pravedne; jer æe obilje morsko sisati i sakriveno blago u pijesku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A za Gada reèe: blagosloven je koji širi Gada; on nastava kao lav, i kida ruku i glavu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Izabra sebi prvo, jer ondje dobi dio od onoga koji dade zakon; zato æe iæi s knezovima narodnijem, i izvršivati pravdu Gospodnju i sudove njegove s Izrailjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A za Dana reèe: Dan je laviæ, koji æe iskakati iz Vasana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I za Neftalima reèe: Neftalime, siti milosti i puni blagoslova Gospodnjega, zapad i jug uzmi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I za Asira reèe: Asir æe biti blagosloven mimo druge sinove, biæe mio braæi svojoj, zamakaæe u ulje nogu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Gvožðe i mjed biæe pod obuæom tvojom; i dokle traju dani tvoji trajaæe snaga tvoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Izrailju! niko nije kao Bog, koji ide po nebu tebi u pomoæ, i u velièanstvu svojem na oblacima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Zaklon je Bog vjeèni i pod mišicom vjeènom; on æe odagnati ispred tebe neprijatelje tvoje, i reæi æe: zatri!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Da bi nastavao Izrailj sam bezbrižno, izvor Jakovljev, u zemlji obilnoj žitom i vinom; i nebo æe njegovo kropiti rosom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Blago tebi, Izrailju! ko je kao ti, narod kojega je saèuvao Gospod, štit pomoæi tvoje, i maè slave tvoje? Neprijatelji æe se tvoji poniziti, a ti æeš gaziti visine njihove."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DEU/33.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 33
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DEU/34.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 34
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DEU/32.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 32
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

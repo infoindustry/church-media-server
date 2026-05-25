@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOB",
+    "translationId": "srp_865",
+    "name": "Jov",
+    "commonName": "Jov",
+    "title": "Jov",
+    "order": 18,
+    "numberOfChapters": 42,
+    "sha256": "8862f4cbf1254f76fa7ea0a123da4bc2d61eebd46a2620b1499e0771fad0ee95",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 42,
+    "lastChapterApiLink": "/api/srp_865/JOB/42.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 42
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada odgovori Vildad Sušanin i reèe:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Dokle æeš tako govoriti? i rijeèi usta tvojih dokle æe biti kao silan vjetar?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Eda li Bog krivo sudi? ili svemoguæi izvræe pravdu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Što su sinovi tvoji zgriješili njemu, zato ih je dao bezakonju njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A ti da potražiš Boga i pomoliš se svemoguæemu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ako si èist i prav, zaista æe se prenuti za te i èestit æe uèiniti pravedan stan tvoj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I poèetak æe tvoj biti malen, a pošljedak æe ti biti vrlo velik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer pitaj preðašnji naraštaj, i nastani da razbereš od otaca njihovijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer smo mi juèerašnji, i ne znamo ništa, jer su naši dani na zemlji sjen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Neæe li te oni nauèiti? neæe li ti kazati i iz srca svojega iznijeti rijeèi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nièe li sita bez vlage? raste li rogoz bez vode?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Dok se još zeleni, dok se ne pokosi, suši se prije svake trave."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Take su staze svijeh koji zaboravljaju Boga, i nadanje licemjerovo propada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Njegovo se nadanje podlama i uzdanje je njegovo kuæa paukova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Nasloni se na kuæu svoju, ali ona ne stoji tvrdo; uhvati se za nju, ali se ona ne može održati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Zeleni se na suncu, i uvrh vrta njegova pružaju se ogranci njegovi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Žile njegove zapleæu se kod izvora, i na mjestu kamenitu širi se;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ali kad se išèupa iz mjesta svojega, ono ga se odrièe: nijesam te vidjelo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Eto, to je radost od njegova puta; a iz praha nièe drugi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Gle, Bog ne odbacuje dobroga, ali ne prihvata za ruku zlikovca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Još æe napuniti usta tvoja smijeha i usne tvoje popijevanja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Nenavidnici tvoji obuæi æe se u sramotu, i šatora bezbožnièkoga neæe biti."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOB/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOB/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOB/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

@@ -1,0 +1,209 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "srp_865",
+    "name": "2. Dnevnika",
+    "commonName": "2. Dnevnika",
+    "title": "2. Dnevnika",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "712160a45a7d7fb40ad6e8f55f27c6bc71cf3a3fca70d89afd22674733ec70a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/2CH/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada duh Božji doðe na Azariju sina Odidova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Te otide pred Asu i reèe mu: èujte me, Aso i sve pleme Judino i Venijaminovo; Gospod je s vama, jer ste vi s njim; i ako ga ustražite, naæi æete ga; ako li ga ostavite, i on æe vas ostaviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Dugo je Izrailj bez pravoga Boga i bez sveštenika uèitelja, i bez zakona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A da su se u nevolji svojoj obratili ka Gospodu Bogu Izrailjevu i tražili ga, našli bi ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ali u ovo vrijeme ne može se na miru odlaziti ni dolaziti; jer je nemir velik meðu svijem stanovnicima zemaljskim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I potiru narodi jedan drugi, i gradovi jedan drugi, jer ih Bog smete svakojakim nevoljama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zato vi budite hrabri i nemojte da vam klonu ruke, jer ima plata za vaš trud."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A kad èu Asa te rijeèi i proroštvo proroka Odida, ohrabri se, i istrijebi gadne bogove iz sve zemlje Judine i Venijaminove i iz gradova koje bješe uzeo u gori Jefremovoj, i ponovi oltar Gospodnji koji bijaše pred trijemom Gospodnjim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Potom sazva sve pleme Judino i Venijaminovo i došljake koji bijahu kod njih od Jefrema i Manasije i Simeuna, jer ih mnogo prebježe k njemu iz naroda Izrailjeva kad vidješe da je Gospod Bog njegov s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I skupiše se u Jerusalim treæega mjeseca petnaeste godine carovanja Asina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I u onaj dan prinesoše Gospodu žrtve od plijena koji dognaše, sedam stotina volova i sedam tisuæa ovaca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I uhvatiše vjeru da traže Gospoda Boga otaca svojih svijem srcem svojim i svom dušom svojom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A ko god ne bi tražio Gospoda Boga Izrailjeva, da se pogubi, bio mali ili veliki, èovjek ili žena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I zakleše se Gospodu glasom velikim i uz klikovanje i uz trube i rogove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I radovaše se sav narod Judin radi te zakletve, jer iz svega srca svojega zakleše se, i od sve volje svoje tražiše ga i naðoše ga; i Gospod im dade mir otsvuda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jošte i Mahu mater svoju svrže Asa s vlasti, jer bješe naèinila u lugu idola; i Asa obali idola njezina i izlomi ga i sažeže na potoku Kedronu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ali visine ne biše oborene u Izrailju, ali srce Asino bješe pravo svega vijeka njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I unese u dom Božji što bješe posvetio otac njegov i što bješe sam posvetio, srebro i zlato i sudove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I ne bi rata do trideset pete godine carovanja Asina."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CH/15.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 15
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CH/16.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 16
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CH/14.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 14
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 19
+}

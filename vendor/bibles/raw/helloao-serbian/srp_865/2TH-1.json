@@ -1,0 +1,160 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2TH",
+    "translationId": "srp_865",
+    "name": "2 Solunjanima",
+    "commonName": "2 Solunjanima",
+    "title": "2. Solunjanima Poslanica",
+    "order": 53,
+    "numberOfChapters": 3,
+    "sha256": "49841a50c5430b219c773dd698244827ae439bac8998ccf3a8457995e9fc19fd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2TH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2TH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 3,
+    "lastChapterApiLink": "/api/srp_865/2TH/3.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2TH",
+      "chapter": 3
+    },
+    "totalNumberOfVerses": 47
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Od Pavla i Silvana i Timotija crkvi Solunskoj u Bogu ocu našemu i Gospodu Isusu Hristu:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Blagodat vam i mir od Boga oca našega i Gospoda Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Dužni smo svagda zahvaljivati Bogu za vas, braæo, kao što treba; jer raste vrlo vjera vaša, i množi se ljubav svakoga vas meðu vama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tako da se mi sami hvalimo vama crkvama Božijima, vašijem trpljenjem i vjerom u svima vašijem gonjenjima i nevoljama koje podnosite,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Za znak pravednoga suda Božijega da se udostojite carstva Božijega, za koje i stradate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer je pravedno u Boga da vrati muke onima koji vas muèe;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A vama koje muèe pokoj s nama kad se pokaže Gospod Isus s neba s anðelima sile svoje"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "U ognju plamenome, koji æe dati osvetu onima koji ne poznaju Boga i ne slušaju jevanðelja Gospoda našega Isusa Hrista;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Koji æe primiti muku, pogibao vjeènu od lica Gospodnjega i od slave njegove,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Kad doðe da se proslavi u svetima svojima, i divan da bude u svima koji ga vjerovaše; jer se primi svjedoèanstvo naše meðu vama u onaj dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zato se i molimo svagda za vas da vas udostoji Bog naš zvanja, i ispuni svaku radost dobrote i djelo vjere u sili;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Da se proslavi ime Gospoda našega Isusa Hrista u vama i vi u njemu, po blagodati Boga našega i Gospoda Isusa Hrista."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2TH/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2TH",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2TH/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2TH",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1TH/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1TH",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 12
+}

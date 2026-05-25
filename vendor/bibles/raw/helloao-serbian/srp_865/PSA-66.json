@@ -1,0 +1,216 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 66,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Poklikni Bogu, sva zemljo!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Zapjevajte slavu imenu njegovu, dajte mu hvalu i slavu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Recite Bogu: kako si strašan u djelima svojim! radi velike sile tvoje laskaju ti neprijatelji tvoji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Sva zemlja nek se pokloni tebi i poje tebi, neka poje imenu tvojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Hodite i vidite djela Boga strašnoga u djelima svojim nad sinovima ljudskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "On je pretvorio more u suhotu, preko rijeke prijeðosmo nogama; ondje smo se veselili o njemu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Vlada silom svojom uvijek, oèi njegove gledaju na narode. Buntovnici, da se nijeste podigli!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Blagosiljajte, narodi, Boga našega, i glasite hvalu njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "On je darovao duši našoj život, i nije dao da poklizne noga naša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ti si nas okušao, Bože, pretopio si nas, kao srebro što se pretapa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Uveo si nas u mrežu, metnuo si breme na leða naša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Dao si nas u jaram èovjeku, uðosmo u oganj i u vodu; ali si nas izveo na odmor."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Uæi æu u dom tvoj sa žrtvama što se sažižu, izvršiæu ti zavjete svoje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Koje rekoše usta moja, i kaza jezik moj u tjeskobi mojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Žrtve paljenice pretile æu ti prinijeti s dimom od pretiline ovnujske, prinijeæu ti teoce s jariæima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Hodite, èujte svi koji se bojite Boga, ja æu vam kazati šta je uèinio duši mojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "K njemu zavikah ustima svojim, i jezikom svojim proslavih ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Da sam vidio u srcu svom bezakonje, ne bi me uslišio Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ali Bog usliši, primi glas moljenja mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Blagosloven Bog, koji ne odvrže molitve moje i ne ostavi me bez milosti svoje!"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/66.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 66
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/67.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 67
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/65.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 65
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 20
+}

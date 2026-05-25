@@ -1,0 +1,321 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "srp_865",
+    "name": "Mateju",
+    "commonName": "Mateju",
+    "title": "Jevanðelje po Mateju",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "2282cb47d4ecce5bfb50178a05f4b87b8f4e94d2e2954aa2bd38500539980051",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/MAT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U taj èas pristupiše uèenici k Isusu govoreæi: ko je dakle najveæi u carstvu nebeskome?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I dozva Isus dijete, i postavi ga meðu njih,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reèe im: zaista vam kažem, ako se ne povratite i ne budete kao djeca, neæete uæi u carstvo nebesko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Koji se dakle ponizi kao dijete ovo, onaj je najveæi u carstvu nebeskome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I koji primi takovo dijete u ime moje, mene prima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A koji sablazni jednoga od ovijeh malijeh koji vjeruju mene, bolje bi mu bilo da se objesi kamen vodenièni o vratu njegovu, i da potone u dubinu morsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Teško svijetu od sablazni! jer je potrebno da doðu sablazni; ali teško onom èovjeku kroz koga dolazi sablazan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ako li te ruka tvoja ili noga tvoja sablažnjava, otsijeci je i baci od sebe: bolje ti je uæi u život hromu ili kljastu, negoli s dvije ruke i dvije noge da te bace u oganj vjeèni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I ako te oko tvoje sablažnjava, izvadi ga i baci od sebe: bolje ti je s jednijem okom u život uæi, nego s dva oka da te bace u pakao ognjeni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Gledajte da ne prezrete jednoga od malijeh ovijeh; jer vam kažem da anðeli njihovi na nebesima jednako gledaju lice oca mojega nebeskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer sin èovjeèij doðe da iznaðe i spase izgubljeno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Što vam se èini? Kad ima jedan èovjek sto ovaca pa zaðe jedna od njih, ne ostavi li on devedeset i devet u planini, i ide da traži onu što je zašla?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I ako se dogodi da je naðe, zaista vam kažem da se njoj više raduje nego onima devedeset i devet što nijesu zašle."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Tako nije volja oca vašega nebeskoga da pogine jedan od ovijeh malijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ako li ti sagriješi brat tvoj, idi i pokaraj ga meðu sobom i njim samijem; ako te posluša, dobio si brata svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ako li te ne posluša, uzmi sa sobom još jednoga ili dvojicu da sve rijeèi ostanu na ustima dva ili tri svjedoka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ako li njih ne posluša, kaži crkvi; a ako li ne posluša ni crkve, da ti bude kao neznabožac i carinik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer vam kažem zaista: što god svežete na zemlji biæe svezano na nebu, i što god razdriješite na zemlji biæe razdriješeno na nebu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Još vam kažem zaista: ako se dva od vas slože na zemlji u èemu mu drago, za što se uzmole, daæe im otac moj koji je na nebesima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer gdje su dva ili tri sabrani u ime moje ondje sam ja meðu njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tada pristupi k njemu Petar i reèe: Gospode! koliko puta ako mi sagriješi brat moj da mu oprostim? do sedam puta?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Reèe njemu Isus: ne velim ti do sedam puta, nego do sedam puta sedamdeset."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Zato je carstvo nebesko kao èovjek car koji namisli da se proraèuni sa svojijem slugama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I kad se poèe raèuniti, dovedoše mu jednoga dužnika od deset hiljada talanata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I buduæi da nemaše èim platiti, zapovjedi gospodar njegov da ga prodadu, i ženu njegovu i djecu, i sve što ima; i da mu se plati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "No sluga taj pade i klanjaše mu se govoreæi: gospodaru! prièekaj me, i sve æu ti platiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A gospodaru se sažali za tijem slugom, pusti ga i dug oprosti mu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A kad iziðe sluga taj, naðe jednoga od svojijeh drugara koji mu je dužan sto groša, i uhvativši ga davljaše govoreæi: daj mi što si dužan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Pade drugar njegov pred noge njegove i moljaše ga govoreæi: prièekaj me, i sve æu ti platiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A on ne htje, nego ga odvede i baci u tamnicu dok ne plati duga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Vidjevši pak drugari njegovi taj dogaðaj žao im bi vrlo, i otišavši kazaše gospodaru svojemu sav dogaðaj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Tada ga dozva gospodar njegov, i reèe mu: zli slugo! sav dug onaj oprostih tebi, jer si me molio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Nije li trebalo da se i ti smiluješ na svog drugara, kao i ja na te što se smilovah?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I razgnjevi se gospodar njegov, i predade ga muèiteljima dok ne plati sav dug svoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Tako æe i otac moj nebeski uèiniti vama, ako ne oprostite svaki bratu svojemu od srca svojijeh."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAT/18.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 18
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/19.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 19
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAT/17.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 17
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

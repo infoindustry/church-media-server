@@ -1,0 +1,202 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAL",
+    "translationId": "srp_865",
+    "name": "Malahija",
+    "commonName": "Malahija",
+    "title": "Malahija",
+    "order": 39,
+    "numberOfChapters": 4,
+    "sha256": "e9a67c69d6ba2b8b07dfe52fbd04efbc5fc4e1d9f203b5dcec3491895344c38e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAL/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAL",
+      "chapter": 1
+    },
+    "lastChapterNumber": 4,
+    "lastChapterApiLink": "/api/srp_865/MAL/4.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAL",
+      "chapter": 4
+    },
+    "totalNumberOfVerses": 55
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Evo, ja æu poslati anðela svojega, koji æe pripraviti put preda mnom, i iznenada æe doæi u crkvu svoju Gospod, kojega vi tražite, i anðeo zavjetni, kojega vi želite, evo doæi æe, veli Gospod nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ali ko æe podnijeti dan dolaska njegova? i ko æe se održati kad se pokaže? jer je on kao oganj livèev i kao milo bjeljarsko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I sješæe kao onaj koji lije i èisti srebro, i oèistiæe sinove Levijeve, i pretopiæe ih kao zlato i srebro, i oni æe prinositi Gospodu prinose u pravdi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I ugodan æe biti Gospodu prinos Judin i Jerusalimski kao u staro vrijeme i kao preðašnjih godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I doæi æu k vama na sud, i biæu brz svjedok protiv vraèara i protiv preljuboèinaca, i protiv onijeh koji se kunu krivo i protiv onijeh koji zakidaju najam najamniku, i udovici i siroti i došljaku krivo èine i ne boje se mene, veli Gospod nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer ja Gospod ne mijenjam se; zato vi, sinovi Jakovljevi, ne izgiboste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Od vremena otaca svojih otstupiste od uredaba mojih i ne držaste ih. Vratite se k meni, i ja æu se vratiti k vama, veli Gospod nad vojskama. Ali velite: u èem bismo se vratili?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Eda li æe èovjek zakidati Boga? a vi mene zakidate; i govorite: u èem te zakidamo? u desetku i u prinosu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Prokleti ste, jer me zakidate, vi, sav narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Donesite sve desetke u spreme da bude hrane u mojoj kuæi, i okušajte me u tom, veli Gospod nad vojskama, hoæu li vam otvoriti ustave nebeske i izliti blagoslov na vas da vam bude dosta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I zaprijetiæu vas radi proždrljivcu, te vam neæe kvariti roda zemaljskoga, i vinova loza u polju neæe vam biti nerodna, veli Gospod nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I zvaæe vas blaženim svi narodi, jer æete biti zemlja mila, veli Gospod nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Žestoke bjehu vaše rijeèi na me, veli Gospod; a vi velite: šta govorismo na tebe?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Rekoste: zaludu je služiti Bogu, i kaka æe biti korist da držimo što je naredio da se drži, i da hodimo žalosni pred Gospodom nad vojskama?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zato hvalimo ponosite da su sreæni; napreduju koji èine bezakonje, i koji iskušavaju Boga, izbavljaju se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tada koji se boje Gospoda govoriše jedan drugome, i pogleda Gospod, i èu, i napisa se knjiga za spomen pred njim za one koji se boje Gospoda i misle o imenu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ti æe mi biti blago, veli Gospod nad vojskama, u onaj dan kad ja uèinim, i biæu im milostiv kao što je otac milostiv svome sinu koji mu služi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Tada æete se obratiti i vidjeæete razliku izmeðu pravednika i bezbožnika, izmeðu onoga koji služi Bogu i onoga koji mu ne služi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAL/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAL",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAL/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAL",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAL/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAL",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

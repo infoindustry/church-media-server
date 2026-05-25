@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "srp_865",
+    "name": "Mateju",
+    "commonName": "Mateju",
+    "title": "Jevanðelje po Mateju",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "2282cb47d4ecce5bfb50178a05f4b87b8f4e94d2e2954aa2bd38500539980051",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/MAT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U ono pak doba doðe Jovan krstitelj, i uèaše u pustinji Judejskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I govoraše: pokajte se, jer se približi carstvo nebesko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer je to onaj za koga je govorio prorok Isaija gdje kaže: glas onoga što vièe u pustinji: pripravite put Gospodu, i poravnite staze njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A Jovan imaše haljinu od dlake kamilje i pojas kožan oko sebe; a hrana njegova bijaše skakavci i med divlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tada izlažaše k njemu Jerusalim i sva Judeja, i sva okolina Jordanska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I on ih kršæavaše u Jordanu, i ispovijedahu grijehe svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kad vidje Jovan) mnoge fariseje i sadukeje gdje idu da ih krsti, reèe im: porodi aspidini! ko kaza vama da bježite od gnjeva koji ide?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Rodite dakle rod dostojan pokajanja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I ne mislite i ne govorite u sebi: imamo oca Avraama; jer vam kažem da može Bog i od kamenja ovoga podignuti djecu Avraamu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Veæ i sjekira kod korijena drvetu stoji; svako dakle drvo koje ne raða dobra roda, sijeèe se i u oganj se baca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ja dakle kršæavam vas vodom za pokajanje; a onaj što ide za mnom, jaèi je od mene; ja nijesam dostojan njemu obuæe ponijeti; on æe vas krstiti Duhom svetijem i ognjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Njemu je lopata u ruci njegovoj, pa æe otrijebiti gumno svoje, i skupiæe pšenicu svoju u žitnicu, a pljevu æe sažeæi ognjem vjeènijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada doðe Isus iz Galileje na Jordan k Jovanu da se krsti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Jovan branjaše mu govoreæi: ti treba mene da krstiš, a ti li dolaziš k meni?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Isus odgovori i reèe mu: ostavi sad, jer tako nam treba ispuniti svaku pravdu. Tada Jovan ostavi ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I krstivši se Isus iziðe odmah iz vode; i gle, otvoriše mu se nebesa, i vidje Duha Božijega gdje silazi kao golub i doðe na njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I gle, glas s neba koji govori: ovo je sin moj ljubazni koji je po mojoj volji."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAT/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAT/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

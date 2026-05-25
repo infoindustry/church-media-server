@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DAN",
+    "translationId": "srp_865",
+    "name": "Danilo",
+    "commonName": "Danilo",
+    "title": "Danilo",
+    "order": 27,
+    "numberOfChapters": 12,
+    "sha256": "a7cfcf76b959e48ff3096b5f1336feefdd92c2ade2010b0cbd670ebbe8f652f0",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DAN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DAN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 12,
+    "lastChapterApiLink": "/api/srp_865/DAN/12.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DAN",
+      "chapter": 12
+    },
+    "totalNumberOfVerses": 357
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Prve godine Darija sina Asvirova od plemena Midskoga, koji se zacari nad carstvom Haldejskim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Prve godine njegova carovanja ja Danilo razumjeh iz knjiga broj godina, koje bješe rekao Gospod Jeremiji proroku da æe se navršiti razvalinama Jerusalimskim, sedamdeset godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I okretoh lice svoje ka Gospodu Bogu tražeæi ga molitvom i molbama s postom i s kostrijeti i pepelom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I pomolih se Gospodu Bogu svojemu i ispovijedajuæi se rekoh: o Gospode, Bože veliki i strašni, koji držiš zavjet i milost onima koji te ljube i drže zapovijesti tvoje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Zgriješismo i zlo èinismo i bismo bezbožni, i odmetnusmo se i otstupismo od zapovijesti tvojih i od zakona tvojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I ne slušasmo sluga tvojih proroka, koji govorahu u tvoje ime carevima našim, knezovima našim i ocima našim i svemu narodu zemaljskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "U tebe je, Gospode, pravda a u nas sram na licu, kako je danas, u Judejaca i u Jerusalimljana i u svijeh Izrailjaca, koji su blizu i koji su daleko po svijem zemljama kuda si ih razagnao za grijehe njihove, kojima ti griješiše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Gospode, u nas je sram na licu, u careva naših, u knezova naših i u otaca naših, jer ti zgriješismo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "U Gospoda je Boga našega milost i praštanje, jer se odmetnusmo od njega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I ne slušasmo glasa Gospoda Boga svojega da hodimo po zakonima njegovijem, koje nam je dao preko sluga svojih proroka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I sav Izrailj prestupi zakon tvoj, i otstupi da ne sluša glasa tvojega; zato se izli na nas prokletstvo i zakletva napisana u zakonu Mojsija sluge Božijega, jer mu zgriješismo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I on potvrdi rijeèi svoje koje je govorio za nas i za sudije naše, koje su nam sudile, pustivši na nas zlo veliko, da tako ne bi pod svijem nebom kako bi u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Kako je pisano u zakonu Mojsijevu, sve to zlo doðe na nas, i opet se ne molismo Gospodu Bogu svojemu da bismo se vratili od bezakonja svojega i pazili na istinu tvoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I Gospod nasta oko zla i navede ga na nas; jer je pravedan Gospod Bog naš u svijem djelima svojim koja èini, jer ne slušasmo glasa njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ali sada, Gospode Bože naš, koji si izveo narod svoj iz zemlje Misirske rukom krjepkom, i stekao si sebi ime, kako je danas, zgriješismo, bezbožni bismo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Gospode, po svoj pravdi tvojoj neka se odvrati gnjev tvoj i jarost tvoja od grada tvojega Jerusalima, svete gore tvoje; jer sa grijeha naših i s bezakonja otaca naših Jerusalim i tvoj narod posta rug u svijeh koji su oko nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Sada dakle poslušaj, Bože naš, molitvu sluge svojega i molbe njegove, i obasjaj licem svojim opustjelu svetinju svoju, Gospoda radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Bože moj, prigni uho svoje, i èuj; otvori oèi svoje, i vidi pustoš našu i grad, na koji je prizvano ime tvoje, jer ne pravde svoje radi nego radi velike milosti tvoje padamo pred tobom moleæi se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Gospode, usliši, Gospode, oprosti, Gospode, pazi i uèini, ne èasi, sebe radi, Bože moj, jer je tvoje ime prizvano na ovaj grad i na tvoj narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A dok ja još govorah i moljah se i ispovijedah grijeh svoj i grijeh naroda svojega Izrailja, i padah moleæi se pred Gospodom Bogom svojim za svetu goru Boga svojega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Dok još govorah moleæi se, onaj èovjek Gavrilo, kojega vidjeh prije u utvari, doletje brzo i dotaèe me se o veèernjoj žrtvi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I nauèi me i govori sa mnom i reèe: Danilo, sada izidoh da te urazumim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "U poèetku molitve tvoje izide rijeè, i ja doðoh da ti kažem, jer si mio; zato slušaj rijeè, i razumij utvaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Sedamdeset je nedjelja odreðeno tvome narodu i tvome gradu svetom da se svrši prijestup i da nestane grijeha i da se oèisti bezakonje i da se dovede vjeèna pravda, i da se zapeèati utvara i proroštvo, i da se pomaže sveti nad svetima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Zato znaj i razumij: otkad izide rijeè da se Jerusalim opet sazida do pomazanika vojvode biæe sedam nedjelja, i šezdeset i dvije nedjelje da se opet pograde ulice i zidovi, i to u teško vrijeme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A poslije te šezdeset i dvije nedjelje pogubljen æe biti pomazanik i ništa mu neæe ostati; narod æe vojvodin doæi i razoriti grad i svetinju; i kraj æe mu biti s potopom, i odreðeno æe pustošenje biti do svršetka rata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I utvrdiæe zavjet s mnogima za nedjelju dana, a u polovinu nedjelje ukinuæe žrtvu i prinos; i krilima mrskim, koja pustoše, do svršetka odreðenoga izliæe se na pustoš."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DAN/9.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 9
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DAN/10.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 10
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DAN/8.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 8
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

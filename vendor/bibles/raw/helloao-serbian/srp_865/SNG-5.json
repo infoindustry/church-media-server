@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "SNG",
+    "translationId": "srp_865",
+    "name": "Pesma nad pesmama",
+    "commonName": "Pesma nad pesmama",
+    "title": "Pesma nad pesmama",
+    "order": 22,
+    "numberOfChapters": 8,
+    "sha256": "af3cfd2e645cad0b116a0f29d9f60ede5ded39d17d4e952244af1a28d2d49ea2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/SNG/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "SNG",
+      "chapter": 1
+    },
+    "lastChapterNumber": 8,
+    "lastChapterApiLink": "/api/srp_865/SNG/8.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "SNG",
+      "chapter": 8
+    },
+    "totalNumberOfVerses": 117
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Doðoh u vrt svoj, sestro moja nevjesto, berem smirnu svoju i mirise svoje, jedem sat svoj i med svoj, pijem vino svoje i mlijeko svoje; jedite, prijatelji, pijte, i opijte se, mili moji!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ja spavam, a srce je moje budno; eto glasa dragoga mojega, koji kuca: otvori mi, sestro moja, draga moja, golubice moja, bezazlena moja; jer je glava moja puna rose i kosa moja noænijeh kapi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Svukla sam haljinu svoju, kako æu je obuæi? oprala sam noge svoje, kako æu ih kaljati?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Dragi moj promoli ruku svoju kroz rupu, a što je u meni ustrepta od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ja ustah da otvorim dragome svojemu, a s ruku mojih prokapa smirna, i niz prste moje poteèe smirna na držak od brave."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Otvorih dragomu svome, ali dragoga mojega ne bješe, otide. Bijah izvan sebe kad on progovori. Tražih ga, ali ga ne naðoh; vikah ga, ali mi se ne odazva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Naðoše me stražari, koji obilaze po gradu, biše me, raniše me, uzeše prijevjes moj s mene stražari po zidovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Zaklinjem vas, kæeri Jerusalimske, ako naðete dragoga mojega, šta æete mu kazati? Da sam bolna od ljubavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Što je tvoj dragi bolji od drugih dragih, o najljepša meðu ženama? što je tvoj dragi bolji od drugih dragih, te nas tako zaklinješ?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Dragi je moj bio i rumen, zastavnik izmeðu deset tisuæa;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Glava mu je najbolje zlato, kosa mu je kudrava, crna kao gavran;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Oèi su mu kao u goluba na potocima vodenijem, mlijekom umivene, i stoje u obilju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Obrazi su mu kao lijehe mirisnoga bilja, kao cvijeæe mirisno; usne su mu kao ljiljan, s njih kaplje smirna žitka;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Na rukama su mu zlatni prsteni, na kojima su ukovani virili; trbuh mu je kao svijetla slonova kost obložena safirima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Gnjati su mu kao stupovi od mramora, uglavljeni na zlatnom podnožju; stas mu je Livan, krasan kao kedri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Usta su mu slatka i sav je ljubak. Taki je moj dragi, taki je moj mili, kæeri Jerusalimske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Kuda otide dragi tvoj, najljepša meðu ženama? kuda zamaèe dragi tvoj, da ga tražimo s tobom?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/SNG/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "SNG",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/SNG/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "SNG",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/SNG/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "SNG",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

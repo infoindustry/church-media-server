@@ -1,0 +1,209 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "srp_865",
+    "name": "Ponovljeni Zakon",
+    "commonName": "Ponovljeni Zakon",
+    "title": "Ponovljeni Zakon",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "b000b6651908c9448c65c662cec1fa45977205b236e0922d505241ab679311df",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DEU/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 1
+    },
+    "lastChapterNumber": 34,
+    "lastChapterApiLink": "/api/srp_865/DEU/34.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 34
+    },
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 26,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad uðeš u zemlju koju ti daje Gospod Bog tvoj u našljedstvo, i naslijediš je i naseliš se u njoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Uzmi prvina od svakoga voæa one zemlje, koje æeš prinositi od zemlje svoje koju ti Gospod Bog tvoj daje, i metnuvši u kotaricu idi na mjesto koje Gospod Bog tvoj izabere da ondje nastani ime svoje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I došavši k svešteniku koji bude onda reci mu: priznajem danas pred Gospodom Bogom tvojim da sam ušao u zemlju za koju se Gospod Bog zakleo ocima našim da æe nam je dati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A sveštenik neka uzme kotaricu iz tvoje ruke i metne je pred oltarom Gospoda Boga tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tada progovori i reci pred Gospodom Bogom svojim: otac moj bijaše siromah Sirin i siðe u Misir s malo èeljadi, i bi ondje došljak, pa posta narod velik i silan i obilan na broju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ali Misirci stadoše zlo postupati s nama, muèiše nas i udaraše na nas teške poslove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I mi zavapismo ka Gospodu Bogu otaca svojih, i Gospod èu glas naš, i pogleda na muku našu, na trud naš i na nevolju našu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I izvede nas Gospod iz Misira rukom krjepkom i mišicom podignutom, i strahotom velikom i znacima i èudesima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I dovede nas na ovo mjesto, i dade nam zemlju ovu, zemlju u kojoj teèe mlijeko i med."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zato sad evo donesoh prvine od roda ove zemlje koju si mi dao, Gospode. I ostavi ih pred Gospodom Bogom svojim, i pokloni se pred Gospodom Bogom svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I veseli se svakim dobrom koje ti da Gospod Bog tvoj i domu tvojemu, ti i Levit i došljak koji je kod tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A kad daš sve desetke od dohodaka svojih treæe godine, koje je godina desetka, i daš Levitu, došljaku, siroti i udovici da jedu u mjestima tvojim i nasite se,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Onda reci pred Gospodom Bogom svojim: iznesoh iz doma svojega što je sveto, i dadoh Levitu i došljaku, siroti i udovici sasvijem po zapovijesti koju si mi zapovjedio; ne prestupih zapovijesti tvojih niti zaboravih;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ne jedoh od toga u žalosti svojoj, niti uzeh od toga na potrebu neèistu, niti dadoh od toga na mrtvaca; slušah Gospoda Boga svojega, uèinih sve kako si mi zapovjedio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Pogledaj iz svetoga stana svojega s neba, i blagoslovi narod svoj Izrailja i zemlju koju si nam dao kao što si se zakleo ocima našim, zemlju u kojoj teèe mlijeko i med."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Danas ti Gospod Bog tvoj zapovijeda da izvršuješ ove uredbe i ove zakone. Pazi dakle i izvršuj ih od svega srca svojega i od sve duše svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Danas si se zarekao Gospodu da æe ti biti Bog i da æeš iæi putovima njegovijem i držati uredbe njegove, i zapovijesti njegove i zakone njegove, i da æeš slušati glas njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A Gospod se tebi danas zarekao da æeš mu biti narod osobit, kao što ti je govorio, da bi držao sve zapovijesti njegove;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I da æe te podignuti nad sve narode, koje je stvorio hvalom, imenom i slavom, da budeš narod svet Gospodu Bogu svojemu, kao što ti je govorio."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DEU/26.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 26
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DEU/27.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 27
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DEU/25.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 25
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 19
+}

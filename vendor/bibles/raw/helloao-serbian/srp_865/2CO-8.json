@@ -1,0 +1,244 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CO",
+    "translationId": "srp_865",
+    "name": "2 Korinæanima",
+    "commonName": "2 Korinæanima",
+    "title": "2. Korinæanima Poslanica",
+    "order": 47,
+    "numberOfChapters": 13,
+    "sha256": "20ab07753b2c73bb7bdc0574326c0b6fe24b2223ed2a3ffc8ec06c7f3f7c18a8",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 13,
+    "lastChapterApiLink": "/api/srp_865/2CO/13.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CO",
+      "chapter": 13
+    },
+    "totalNumberOfVerses": 255
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Dajemo vam pak na znanje, braæo, blagodat Božiju koja je dana u crkvama Maæedonskima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Da u mnogome kušanju nevolja suvišak radosti njihove i puko siromaštvo njihovo izobilova u bogatstvu prostote njihove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer po moguæstvu njihovu ja sam svjedok) i preko moguæstva dobrovoljni bijahu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I s mnogijem moljenjem moliše nas da primimo blagodat i zajednicu službe k svetima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I ne kao što se nadasmo nego najprije sebe predaše Gospodu i nama, po volji Božijoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Da mi umolismo Tita da kao što je poèeo onako i svrši i meðu vama blagodat ovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A vi kako ste u svemu izobilni, u vjeri, i u rijeèi, i u razumu, i u svakom staranju, i u ljubavi svojoj k nama, da i u ovoj blagodati izobilujete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ne govorim po zapovijesti, nego kad se drugi staraju, i vašu ljubav kušam je li istinita."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer znate blagodat Gospoda našega Isusa Hrista da, bogat buduæi, vas radi osiromaši, da se vi njegovijem siromaštvom obogatite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I svjet dajem u tom; jer je ovo na korist vama, koji ne samo èiniti nego i htjeti poèeste još od lanjske godine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A sad dovršite to i èiniti, da kao što bi dobra volja htjeti tako da bude i uèiniti, od toga što imate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer ako ima ko dobru volju, mio je po onome što ima, a ne po onome što nema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer se ne želi da drugima bude radost a vama žalost, nego jednako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Da u sadašnje vrijeme vaš suvišak bude za njihov nedostatak, da i njihov suvišak bude za vaš nedostatak; da bude jednakost,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Kao što je pisano: ko je mnogo skupio, nije mu preteklo; i ko je malo skupio, nije mu nedostalo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A hvala Bogu, koji je dao takovo staranje za vas u srce Titovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer primi moljenje; a buduæi da se tako vrlo stara, svojevoljno otide k vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Poslasmo pak s njim i brata, kojega je pohvala u jevanðelju po svijem crkvama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A ne samo to, nego je i izabran od crkava da ide s nama u ovu blagodat u kojoj mi služimo za samoga Gospoda slavu i vašu dobru volju:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Èuvajuæi se toga da nas ko ne pokudi za ovo obilje u kome mi služimo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I promišljajuæi za dobro ne samo pred Bogom nego i pred ljudima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A poslasmo s njima i brata svojega, kojega mnogo puta poznasmo u mnogijem stvarima da je ustalac, a sad mnogo veæi zbog velikoga nadanja na vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A za Tita, on je moj drug i pomagaè meðu vama; a za braæu našu, oni su poslanici crkveni i slava Hristova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Pokažite dakle na njima svjedoèanstvo svoje ljubavi i naše hvale vama i pred crkvama."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CO/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CO",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CO/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CO",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CO/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CO",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 24
+}

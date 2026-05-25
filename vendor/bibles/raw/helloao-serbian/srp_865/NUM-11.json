@@ -1,0 +1,321 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "srp_865",
+    "name": "Brojevi",
+    "commonName": "Brojevi",
+    "title": "Brojevi",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "5dc73b8a174fd63cb58a0932611fd5816a865be2dae8658fc6051a7a529e9415",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NUM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/NUM/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Poslije stade se tužiti narod da mu je teško; a to ne bi po volji Gospodu; i kad Gospod èu, razgnjevi se; i raspali se na njih oganj Gospodnji, i sažeže krajnje u okolu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Tada zavapi narod k Mojsiju, a Mojsije se pomoli Gospodu, i ugasi se oganj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I prozva se ono mjesto Tavera, jer se raspali na njih oganj Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A svjetina što bijaše meðu njima, bješe vrlo lakoma, te i sinovi Izrailjevi stadoše plakati govoreæi: ko æe nas nahraniti mesa?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Opomenusmo se riba što jeðasmo u Misiru zabadava, i krastavaca i dinja i luka crnoga i bijeloga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A sada posahnu duša naša, nema ništa osim mane pred oèima našima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A mana bješe kao sjeme korijandrovo, a boja mu bješe kao boja u bdela."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I izlažaše narod, te kupljahu, i meljahu na žrvnjima ili tucahu u stupama, i kuhahu u kotlu, ili miješahu pogaèe; a kus joj bijaše kao kus od novoga ulja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I kad padaše rosa po okolu noæu, padaše s njom i mana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I èu Mojsije gdje narod plaèe u porodicama svojim, svaki na vratima od šatora svojega; i Gospod se razgnjevi vrlo, i Mojsiju bi teško."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Pa reèe Mojsije Gospodu: zašto uèini tako zlo sluzi svojemu? i zašto ne naðoh milosti pred tobom, nego metnu na me teret svega naroda ovoga?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Eda li ja zaèeh sav ovaj narod? eda li ga ja rodih, kad mi kažeš: iznesi ga u naruèju svojem, kao što nosi dojilja dijete, u onu zemlju za koju si se zakleo ocima njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Otkuda meni mesa da dam svemu ovom narodu? jer plaèu preda mnom govoreæi: daj nam mesa da jedemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ne mogu ja sam nositi svega naroda ovoga, jer je teško za mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ako æeš tako èiniti sa mnom, ubij me bolje, ako sam našao milost pred tobom, da ne gledam zla svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Gospod reèe Mojsiju: saberi mi sedamdeset ljudi izmeðu starješina Izrailjevijeh, koje znaš da su starješine narodu i upravitelji njegovi, i dovedi ih k šatoru od sastanka, neka ondje stanu s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tada æu siæi i govoriti ondje s tobom, i uzeæu od duha koji je na tebi i metnuæu na njih, da nose s tobom teret narodni i da ne nosiš ti sam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A narodu reci: pripravite se za sjutra da jedete mesa, jer plakaste da Gospod èu, i rekoste: ko æe nas nahraniti mesa? jer nam dobro bijaše u Misiru. Daæe vam dakle Gospod mesa i ješæete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Neæete jesti jedan dan, ni dva dana, ni pet dana, ni deset dana, ni dvadeset dana;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Nego cio mjesec dana, dokle vam na nos ne udari i ne ogadi vam se, zato što odbaciste Gospoda koji je meðu vama i plakaste pred njim govoreæi: zašto izidosmo iz Misira?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A Mojsije reèe: šest stotina tisuæa pješaka ima naroda, u kojem sam, pa ti kažeš: daæu im mesa da jedu cio mjesec dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Eda li æe im se poklati ovce i goveda da im dostane? ili æe im se pokupiti sve ribe morske da im bude dosta?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A Gospod reèe Mojsiju: zar ruka Gospodnja neæe biti dovoljna? Vidjeæeš hoæe li biti što ti rekoh ili neæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I Mojsije izide i reèe narodu rijeèi Gospodnje; i sabra sedamdeset ljudi izmeðu starješina narodnijeh, i postavi ih oko šatora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I Gospod siðe u oblaku, i govori k njemu, i uzevši od duha koji bješe na njemu metnu na onijeh sedamdeset ljudi starješina; i kad duh doðe na njih, prorokovahu, ali više nikad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A dva èovjeka ostaše u okolu, jednom bješe ime Eldad, a drugom Modad, na koje doðe duh, jer i oni bijahu zapisani ali ne doðoše k šatoru, i stadoše prorokovati u okolu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I dotrèa momak, te javi Mojsiju govoreæi: Eldad i Modad prorokuju u okolu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A Isus sin Navin, sluga Mojsijev, jedan od momaka njegovijeh, reèe govoreæi: Mojsije gospodaru moj, zabrani im."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A Mojsije mu odgovori: zar zavidiš mene radi? kamo da sav narod Gospodnji postanu proroci i da Gospod pusti duh svoj na njih!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Potom se vrati Mojsije u oko sa starješinama Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Tada se podiže vjetar od Gospoda, i potjera od mora prepelice, i razasu ih po okolu, na dan hoda odovuda i na dan hoda odonuda oko okola, na dva lakta od zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I ustavši narod vas onaj dan i svu noæ i vas drugi dan kupljaše prepelice: i ko nakupi najmanje nakupi deset gomora; i povješaše ih sebi redom oko okola."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ali meso još im bijaše u zubima, jošte ga ne pojedoše, a Gospod se razgnjevi na narod, i udari Gospod narod pomorom vrlo velikim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I prozva se ono mjesto Kivrot-Atava jer ondje ukopaše narod koji se bješe polakomio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I poðe narod od Kivrot-Atave u Asirot, i stadoše u Asirotu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NUM/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NUM/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NUM/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

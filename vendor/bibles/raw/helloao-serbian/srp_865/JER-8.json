@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U to vrijeme, govori Gospod, izvadiæe se iz grobova kosti careva Judinijeh i kosti knezova njegovijeh i kosti sveštenièke i kosti proroèke, i kosti stanovnika Jerusalimskih;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I razmetnuæe se prema suncu i mjesecu i svoj vojsci nebeskoj, koje ljubiše i kojima služiše i za kojima idoše i koje tražiše i kojima se klanjaše; neæe se pokupiti ni pogrepsti, nego æe biti gnoj po zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I voljeæe smrt nego život sav ostatak što ih ostane od ovoga roda zloga, što ih ostane po svijem mjestima kuda ih raždenem, govori Gospod nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Još im reci: ovako veli Gospod: ko padne, ne ustaje li? ko zaðe, ne vraæa li se?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Zašto je zašao taj narod Jerusalimski zasvagda? Drže se prijevare, neæe da se obrate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Pazio sam i slušao, ne govore pravo, nema nikoga da se kaje za zlo svoje, da reèe: što uèinih? Svaki je okrenuo svojim trkom, kao konj kad nagne u boj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I roda pod nebom zna svoje vrijeme, grlica i ždrao i lasta paze na vrijeme kad dolaze; a narod moj ne zna suda Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Kako govorite: mudri smo, i zakon je Gospodnji u nas? Doista, gle, laž uèini lažljiva pisaljka književnièka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Mudarci se osramotiše, uplašiše se i uhvatiše se; eto, odbaciše rijeè Gospodnju, pa kaka im je mudrost?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zato æu dati žene njihove drugima, njive njihove onima koji æe ih naslijediti, jer od maloga do velikoga svi se dadoše na lakomstvo, i proroci i sveštenici, svi su varalice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer lijeèe rane kæeri naroda mojega ovlaš govoreæi: mir, mir; a mira nema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Eda li se postidješe što èiniše gad? Niti se postidješe niti znaju za stid; zato æe popadati meðu onima koji padaju; kad ih pohodim, popadaæe, veli Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Sasvijem æu ih istrijebiti, govori Gospod, nema grozda na lozi, ni smokve na drvetu, i lišæe je opalo; i što sam im dao uzeæe im se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Što stojimo? skupite se i uðimo u tvrde gradove, i ondje muèimo; jer nas je Gospod Bog naš umuèkao napojivši nas žuèi, jer zgriješismo Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Èekasmo mir, ali nema dobra; i vrijeme da ozdravimo, a gle, strah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Od Dana èu se frkanje konja njegovijeh, od rzanja pastuha njegovijeh sva se zemlja zatrese, doðoše i pojedoše zemlju i sve što bješe u njoj, gradove i koji življahu u njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer, evo, ja æu pustiti na vas zmije, aspide, od kojih nema bajanja, te æe vas ujedati, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Okrijepio bih se u žalosti, ali je srce u meni iznemoglo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Eto vike kæeri naroda mojega iz daljne zemlje: zar Gospod nije u Sionu? car njegov zar nije u njemu? Zašto me razgnjeviše svojim likovima rezanijem, tuðim taštinama?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Žetva je prošla, ljeto minulo, a mi se ne izbavismo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Satrven sam što je kæi naroda mojega satrvena, u žalosti sam, èudo osvoji me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Nema li balsama u Galadu? nema li ondje ljekara? zašto se dakle ne iscijeli kæi naroda mojega?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

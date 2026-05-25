@@ -1,0 +1,517 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 16,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Opet mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Sine èovjeèji, pokaži Jerusalimu gadove njegove,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reci: ovako veli Gospod Gospod Jerusalimu: postanjem i rodom ti si iz zemlje Hananske; otac ti bješe Amorejac a mati Hetejka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A o roðenju tvom, kad si se rodila, nije ti pupak odrezan i nijesi okupana vodom da bi bila èista, niti si solju natrvena ni pelenama povita."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Oko te ne požali da ti uèini što od toga i da ti se smiluje; nego ti bi baèena u polje, jer bijaše mrska duša tvoja onoga dana kad si se rodila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I iduæi mimo tebe i vidjevši te gdje se valjaš u svojoj krvi, rekoh ti: da si živa u svojoj krvi! i opet ti rekoh: da si živa u svojoj krvi!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I uèinih da rasteš na tisuæe kao trava u polju; i ti naraste i posta velika i doðe do najveæe ljepote; dojke ti napupiše, i dlake te probiše; ali ti bijaše gola naga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I iduæi mimo tebe pogledah te, i gle, godine ti bijahu godine za ljubljenje; i raširih skut svoj na te, i pokrih golotinju tvoju, i zakleh ti se i uèinih vjeru s tobom, govori Gospod Gospod, i ti posta moja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I okupah te vodom, i sprah s tebe krv tvoju, i pomazah te uljem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I obukoh ti vezenu haljinu, i obuh ti crevlje od jazavca, i opasah te tankim platnom i zastrijeh te svilom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I nakitih te nakitom, i metnuh ti narukvice na ruke i grivnu oko vrata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I grivnu oko èela metnuh ti, i oboce u uši, slavan vijenac na glavu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I ti bijaše okiæena zlatom i srebrom, i odijelo ti bijaše od tankoga platna i od svile i vezeno, jeðaše bijelo brašno i med i ulje, i bijaše vrlo lijepa, i prispje do carstva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I razide se glas o tebi po narodima radi ljepote tvoje, jer bješe savršena krasotom mojom, koju metnuh na te, govori Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ali se ti osloni na ljepotu svoju, i prokurva se s glasa svojega, te si prosipala kurvarstvo svoje svakome koji prolažaše, i bivala si njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I uzevši od haljina svojih naèinila si šarene visine, i kurvala si se na njima, kako nigda nije bilo niti æe biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I uzevši krasni nakit svoj od moga zlata i od moga srebra što ti dadoh, naèinila si sebi muške likove, i kurvala si se s njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I uzevši vezene haljine svoje zaodjela si ih, i ulje moje i kad moj stavila si pred njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I hljeb moj, koji ti dadoh, bijelo brašno i ulje i med, èim te hranjah, postavila si pred njih za miris ugodni. Tako je bilo, govori Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I uzimala si sinove svoje i kæeri svoje koje si rodila, i njih si im prinosila da se spale. Malo li bješe kurvarstva tvojega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Te si i sinove moje klala i davala si ih da im se provedu kroz oganj?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I uza sve gadove svoje i kurvarstva svoja nijesi se opominjala dana mladosti svoje kad si bila gola i naga i valjala se u krvi svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I poslije sve zloæe svoje, teško, teško tebi! govori Gospod Gospod,)"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Sagradila si sebi kuæu kurvarsku, i naèinila si sebi visine na svakoj ulici,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Na svakoj rasputici naèinila si sebi visinu, i nagrdila si svoju ljepotu, i razmetala si noge svoje svakome koji prolažaše, i umnožila si kurvarstvo svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Kurvala si se sa sinovima Misirskim, susjedima svojim velika tijela, i umnožila si kurvarstvo svoje da bi me razgnjevila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Zato, gle, digoh ruku svoju na te i umalih obrok tvoj, i dadoh te na volju nenavidnicima tvojima, kæerima Filistejskim, koje bješe stid od sramotnoga puta tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Kurvala si se sa sinovima Asirskim, jer se ne mogaše nasititi; kurvala si se s njima, i opet se nijesi nasitila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I umnožila si kurvarstvo svoje u zemlji Hananskoj dori do Haldejske, i ni tako se nijesi nasitila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Kako je iznemoglo srce tvoje, govori Gospod Gospod, kad èiniš sve što èini najgora kurva,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Kad si gradila kurvarsku kuæu na svakoj rasputici i èinila visinu na svakoj ulici! A ni kao kurva nijesi, jer nijesi marila za platu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Nego kao žena preljuboèinica, koja mjesto muža svoga prima druge."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Svijem kurvama daje se plata, a ti si davala platu svijem milosnicima svojim i darivala si ih da dolaze k tebi sa svijeh strana da se kurvaju s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I tako je u tebe naopako prema ženama u tvom kurvarstvu: jer niko ne ide za tobom da se kurva, i ti daješ platu, a ne daje se tebi plata; to je naopako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Zato, kurvo, èuj rijeè Gospodnju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ovako veli Gospod Gospod: što se otrov tvoj prosu, i što se u kurvanju tvom otkrivala golotinja tvoja tvojim milosnicima i svijem gadnijem idolima tvojim, i za krv sinova tvojih, koje si im dala,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Zato, evo, ja æu skupiti sve milosnike tvoje, s kojima si se milovala, i sve koje si ljubila, i sve na koje si mrzila, skupiæu ih sve oko tebe, i otkriæu im golotinju tvoju da vide svu golotinju tvoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I sudiæu ti kako se sudi onima koje èine preljubu i onima koje krv proljevaju, i daæu te na smrt gnjevu i revnosti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I predaæu te u njihove ruke, te æe razoriti tvoju kuæu kurvarsku i raskopati visine tvoje, i svuæi æe haljine s tebe, i uzeæe ti krasni nakit i ostaviæe te golu nagu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I dovešæe na te ljudstvo, te æe te zasuti kamenjem, i izbošæe te maèevima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I popaliæe kuæe tvoje ognjem, i izvršiæe na tebi sud pred mnogim ženama, i uèiniæu te æeš se okaniti kurvanja i neæeš više davati plate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I namiriæu gnjev svoj nad tobom, i revnost æe se moja ukloniti od tebe, i umiriæu se, i neæu se više gnjeviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Zato što se nijesi opominjala dana mladosti svoje, nego si me dražila svijem tijem, zato, evo, i ja æu obratiti put tvoj na tvoju glavu, govori Gospod Gospod, te neæeš èiniti grdila niti kakvih gadova svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Gle, ko god govori prièe, govoriæe o tebi prièu, i reæi æe: kaka mati, taka joj kæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Ti si kæi matere svoje, koja se odmetnula muža svojega i djece svoje, i sestra si sestara svojih, koje se odmetnuše muževa svojih i djece svoje, mati vam je Hetejka a otac Amorejac."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "A starija ti je sestra Samarija s kæerima svojim, koja ti sjedi s lijeve strane, a mlaða ti je sestra koja ti sjedi s desne strane Sodom sa kæerima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "A ti ni njihovijem putem nijesi hodila, niti si èinila po njihovijem gadovima, kao da ti to bješe malo, nego si bila gora od njih na svijem putovima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Tako ja živ bio, govori Gospod Gospod, sestra tvoja Sodom i kæeri njezine nijesu èinile kako si èinila ti i tvoje kæeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Evo, ovo bješe bezakonje sestre tvoje Sodoma: u ponosu, u izobilju hljeba i bezbrižnom miru bješe ona i kæeri njezine, a ne pomagahu siromahu i ubogome;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Nego se ponašahu i èinjahu gadove preda mnom, zato ih zatrh kad vidjeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Samarija nije zgriješila ni pola koliko ti, jer si poèinila gadova svojih više nego one, te si opravdala sestre svoje svijem gadovima svojim koje si uèinila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "I ti dakle, koja si sudila sestrama svojim, nosi sramotu svoju za grijehe svoje, kojima si postala grða od njih; one su pravednije od tebe; i ti se dakle stidi i nosi sramotu, kad si opravdala sestre svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Ako dovedeš natrag njihovo roblje, roblje Sodomsko i kæeri njezinijeh, i roblje Samarijsko i kæeri njezinijeh, dovešæu i tvoje roblje iz ropstva meðu njima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "Da nosiš sramotu svoju i da se stidiš za sve što si èinila, i da im budeš utjeha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "Ako se sestre tvoje, Sodom i kæeri njezine povrate kao što su bile, i ako se Samarija i kæeri njezine povrate kao što su bile, povratiæeš se i ti i kæeri tvoje kao što ste bile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "Jer usta tvoja ne pominjaše Sodoma sestre tvoje u vrijeme oholosti tvoje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "Prije nego se otkri zloæa tvoja kao u vrijeme sramote od kæeri Sirskih i od svijeh što su oko njih, kæeri Filistejskih, koje te sramoæahu sa svijeh strana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "Nosi nevaljalstvo svoje i gadove svoje, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 59,
+        "content": [
+          "Jer ovako veli Gospod Gospod: uèiniæu ti kako si ti uèinila prezrevši zakletvu i prestupivši zavjet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 60,
+        "content": [
+          "Ali æu se ja opomenuti zavjeta svojega koji sam uèinio s tobom u vrijeme mladosti tvoje, i utvrdiæu ti vjeèan zavjet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 61,
+        "content": [
+          "Tada æeš se opomenuti putova svojih i postidjeæeš se kad primiš sestre svoje starije od sebe i mlaðe, koje æu ti dati za kæeri, ali ne po tvom zavjetu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 62,
+        "content": [
+          "I ja æu utvrditi svoj zavjet s tobom, i poznaæeš da sam ja Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 63,
+        "content": [
+          "Da se opomeneš i postidiš i da ne otvoriš više usta od sramote, kad ti oprostim sve što si uèinila, govori Gospod Gospod."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/16.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 16
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/17.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 17
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/15.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 15
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 63
+}

@@ -1,0 +1,244 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 21,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Još reèe Gospod Mojsiju: kaži sveštenicima sinovima Aronovijem, i reci im: za mrtvacem da se ne skvrni ni jedan u narodu svojem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Osim za rodom svojim po krvi, za materom svojom ili za ocem svojim ili za sinom svojim ili za kæerju svojom ili za bratom svojim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ili za roðenom sestrom svojom, djevojkom, koja nije imala muža; za njom se može oskvrniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ako je oženjen, da se ne oskvrni za ženom svojom u narodu svojem uèinivši se neèist."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Da se ne naèine æelavi èupajuæi kosu s glave svoje i da ne briju brade svoje, niti se režu po tijelu svojem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Neka budu sveti Bogu svojemu, i neka ne skvrne imena Boga svojega, jer prinose žrtve ognjene Gospodnje, hljeb Boga svojega, zato neka su sveti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Neka se ne žene ženom kurvom ili silovanom; ni puštenicom neka se ne žene; jer su sveti Bogu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I tebi neka je svaki svet, jer prinosi hljeb Boga tvojega; svet neka ti je, jer sam ja svet, Gospod, koji vas posveæujem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A kæi sveštenièka koja se oskvrni kurvajuæi se, skvrni oca svojega, ognjem neka se spali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A sveštenik najviši izmeðu braæe svoje, kojemu se na glavu izlilo ulje pomazanja i koji je posveæen da se oblaèi u svete haljine, neka ne otkriva glave svoje, i haljina svojih neka ne razdire."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I k mrtvacu nijednom neka ne ide, ni za ocem svojim ni za materom svojom da se ne oskvrni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I iz svetinje neka ne izlazi, da ne bi oskvrnio svetinju Boga svojega, jer je na njemu vijenac, ulje pomazanja Boga njegova; ja sam Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "On neka se ženi djevojkom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Udovicom ni puštenicom ni silovanom ni kurvom da se ne ženi; nego djevojkom iz naroda svojega neka se oženi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I neka ne skvrni sjemena svojega u narodu svojem, jer sam ja Gospod, koji ga posveæujem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Opet reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Kaži Aronu i reci: u koga bi iz sjemena tvojega od koljena do koljena bila mana na tijelu, onaj neka ne pristupa da prinosi hljeb Boga svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer niko na kome bi bila mana ne valja da pristupa, ni slijep, ni hrom, ni u koga bi bio koji ud preveæ mali ili preveæ veliki,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ni u koga je slomljena noga ili ruka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ni grbav, ni drljav, ni ko ima bionu na oku, ni šugav, ni lišajiv, ni prosut."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "U koga bi god iz sjemena Arona sveštenika bila kaka mana na tijelu, neka ne pristupa da prinosi žrtve ognjene Gospodu; mana je na njemu; da ne pristupa da prinosi hljeb Boga svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ali hljeb Boga svojega od stvari presvetih i od stvari svetih neka jede;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ali za zavjes neka ne ulazi; k oltaru neka se ne približuje, jer je mana na njemu, pa neka ne skvrni svetinje moje, jer sam ja Gospod koji ih posveæujem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I Mojsije kaza to Aronu i sinovima njegovijem i svijem sinovima Izrailjevim."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/21.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 21
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/22.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 22
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/20.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 20
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 24
+}

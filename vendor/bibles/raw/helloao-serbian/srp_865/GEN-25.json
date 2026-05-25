@@ -1,0 +1,314 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 25,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Avram uze drugu ženu, po imenu Heturu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I ona mu rodi Zomrana i Joksana i Madana i Madijama i Jesvoka i Soijena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Joksan rodi Savana i Dedana. A Dedanovi sinovi biše Asurim i Latusim i Laomim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A sinovi Madijamovi: Efar i Afir i Enoh i Avida i Eldaga. Svi bjehu djeca Heturina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A Avram dade sve što imaše Isaku;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A sinovima svojih inoèa dade Avram dare, i opravi ih od Isaka sina svojega još za života svojega na istok, u istoèni kraj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I vijeka Avramova što poživje bješe sto i sedamdeset i pet godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I onemoæav umrije Avram u dobroj starosti, sit života, i bi pribran k rodu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I pogreboše ga Isak i Ismailo u peæini Makpelskoj na njivi Efrona sina Sara Hetejina, koja je prema Mamriji;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Na njivi koju kupi Avram od sinova Hetovijeh, ondje je pogreben Avram sa Sarom ženom svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I po smrti Avramovoj blagoslovi Bog Isaka sina njegova; a Isak življaše kod studenca živoga koji me vidi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A ovo je pleme Ismaila sina Avramova, kojega rodi Avramu Agara Misirka robinja Sarina,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I ovo su imena sinova Ismailovijeh, kako se zvahu u plemenima svojim; prvenac Ismailov Navajot, pa Kidar i Navdeilo i Masam,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I Masma i Duma i Masa,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I Hadar i Teman i Jetur i Nafes i Kedma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "To su sinovi Ismailovi, i to su im imena po selima i gradovima njihovijem, dvanaest knezova nad svojim narodima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A godine su vijeka Ismailova sto i trideset i sedam godina. Poslije onemoæav umrije, i bi pribran k rodu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I življahu od Evilata do Sura prema Misiru, kako se ide u Asiriju; i dopade mu prema svoj braæi svojoj da živi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A ovo je pleme Isaka sina Avramova: Avram rodi Isaka;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Isaku bješe èetrdeset godina kad se oženi Revekom, kæerju Vatuila Sirina iz Mesopotamije, sestrom Lavana Sirina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I Isak se moljaše Gospodu za ženu svoju, jer bješe nerotkinja; i umoli Gospoda, te zatrudnje Reveka žena njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ali udarahu jedno o drugo djeca u utrobi njezinoj, te reèe: ako je tako, našto sam? I otide da pita Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A Gospod joj reèe: dva su plemena u utrobi tvojoj, i dva æe naroda izaæi iz tebe; i jedan æe narod biti jaèi od drugoga naroda, i veæi æe služiti manjemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I kad doðe vrijeme da rodi, a to blizanci u utrobi njezinoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I prvi izaðe crven, sav kao runo rutav; i nadješe mu ime Isav."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A poslije izaðe brat mu, držeæi rukom za petu Isava; i nadješe mu ime Jakov. A bješe Isaku šezdeset godina, kad ih rodi Reveka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I djeca odrastoše, i Isav posta lovac i ratar, a Jakov bješe èovjek krotak i bavljaše se u šatorima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I Isak milovaše Isava, jer rado jeðaše lova njegova; a Reveka milovaše Jakova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Jednom Jakov skuha jelo, a Isav doðe iz polja umoran."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I reèe Isav Jakovu: daj mi da jedem toga jela crvenoga, jer sam umoran. Otuda se prozva Edom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A Jakov mu reèe: prodaj mi danas prvenaštvo svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A Isav odgovori: evo, hoæu da umrem, pa što æe mi prvenaštvo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A Jakov reèe: zakuni mi se danas. I on mu se zakle; tako prodade svoje prvenaštvo Jakovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I Jakov dade Isavu hljeba i skuhanoga leæa, i on se najede i napi, pa usta i otide. Tako Isav nije mario za prvenaštvo svoje."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/25.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 25
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/26.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 26
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/24.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 24
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 34
+}

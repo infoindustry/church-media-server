@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "COL",
+    "translationId": "srp_865",
+    "name": "Kološanima",
+    "commonName": "Kološanima",
+    "title": "Poslanica Kološanima",
+    "order": 51,
+    "numberOfChapters": 4,
+    "sha256": "9a00e67aebeccbb529b4e441bfdf2d92992a1373bd5ee9df1ae3d3b1f9da23dc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/COL/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "COL",
+      "chapter": 1
+    },
+    "lastChapterNumber": 4,
+    "lastChapterApiLink": "/api/srp_865/COL/4.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "COL",
+      "chapter": 4
+    },
+    "totalNumberOfVerses": 95
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ako dakle vaskrsnuste s Hristom, tražite ono što je gore gdje Hristos sjedi s desne strane Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Mislite o onome što je gore a ne što je na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer umrijeste, i vaš je život sakriven s Hristom u Bogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A kad se javi Hristos, život vaš, onda æete se i vi s njime javiti u slavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Pomorite dakle ude svoje koji su na zemlji: kurvarstvo, neèistotu, slast, zlu želju i lakomstvo, koje je idolopoklonstvo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Za koje ide gnjev Božij na sinove protivljenja;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "U kojima i vi negda hoðaste kad življaste meðu njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A sad odbacite i vi to sve: gnjev, ljutinu, pakost, huljenje, sramotne rijeèi iz usta svojijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ne lažite jedan na drugoga; svucite staroga èovjeka s djelima njegovijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I obucite novoga, koji se obnavlja za poznanje, po oblièju onoga koji ga je sazdao:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Gdje nema Grka ni Jevrejina, obrezanja ni neobrezanja, divljaka ni Skita, roba ni slobodnjaka, nego sve i u svemu Hristos."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Obucite se dakle kao izbrani Božiji, sveti i ljubazni, u srdaènu milost, dobrotu, poniznost, krotost, i trpljenje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Snoseæi jedan drugoga, i opraštajuæi jedan drugome ako ima ko tužbu na koga: kao što je i Hristos vama oprostio tako i vi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A svrh svega toga obucite se u ljubav, koja je sveza savršenstva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I mir Božij da vlada u srcima vašima, na koji ste i pozvani u jednom tijelu, i zahvalni budite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Rijeè Hristova da se bogato useli meðu vas, u svakoj premudrosti uèeæi i svjetujuæi sami sebe sa psalmima i pojanjem i pjesmama duhovnijem, u blagodati pjevajuæi u srcima svojima Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I sve što god èinite rijeèju ili djelom, sve èinite u ime Gospoda Isusa Hrista hvaleæi Boga i oca kroza nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Žene! slušajte svoje muževe kao što treba u Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Muževi! ljubite žene svoje i ne srdite se na njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Djeco! slušajte roditelje svoje u svaèemu; jer je ovo ugodno Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ocevi! ne razdražujte djece svoje, da ne gube volje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Sluge! slušajte u svemu svoje tjelesne gospodare, ne samo pred oèima radeæi kao da ljudima ugaðate, nego u prostoti srca, bojeæi se Boga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I sve šta god èinite, od srca èinite kao Gospodu a ne kao ljudima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Znajuæi da æete od Gospoda primiti platu našljedstva; jer Gospodu Hristu služite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A koji skrivi primiæe što je skrivio: i nema gledanja ko je ko."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/COL/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "COL",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/COL/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "COL",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/COL/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "COL",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

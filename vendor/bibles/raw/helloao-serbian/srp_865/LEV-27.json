@@ -1,0 +1,314 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 27,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kaži sinovima Izrailjevim, i reci im: kad ko zavjetuje dušu svoju Gospodu, ti ga ucijeni:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A ovako æeš cijeniti: muško od dvadeset godina do šezdeset cijeniæeš pedeset sikala srebra, po siklu svetom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ako bude žensko, cijeniæeš trideset sikala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ako je od pet do dvadeset godina, cijeniæeš muško dvadeset sikala a žensko deset sikala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ako je od jednoga mjeseca do pet godina, cijeniæeš muško pet sikala srebra, a žensko æeš cijeniti tri sikla srebra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ako li bude od šezdeset godina i više, ako je muško, cijeniæeš petnaest sikala, a žensko deset sikala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ako je siromah da ne može platiti cijene, onda neka doðe k svešteniku da ga ucijeni sveštenik, i prema onome što može dati koji se zavjetovao, neka ga sveštenik ucijeni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ako bi zavjetovao živinèe od onijeh što se prinose Gospodu, što god da Gospodu, sveto je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Da ga ne promijeni ni dade drugo za ono, ni dobro za rðavo, ni rðavo za dobro; ako li bi kako promijenio živinèe, onda æe biti sveto i ono i drugo koje je dao za ono."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ako li bi zavjetovao živinèe neèisto od onijeh što se ne prinose Gospodu, neka se dovede živinèe pred sveštenika;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I neka ga precijeni sveštenik, bilo dobro ili rðavo; i kako ga precijeni sveštenik, tako da bude."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ako bi ga htio otkupiti, neka na cijenu tvoju dometne još peti dio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Kad bi ko zavjetovao kuæu svoju, da je sveta Gospodu, neka je precijeni sveštenik, bila dobra ili rðava; kako je precijeni sveštenik, tako da bude."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ako bi onaj koji zavjetuje htio otkupiti kuæu svoju, neka na cijenu tvoju dometne još peti dio, pa neka je njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ako bi ko zavjetovao Gospodu dio njive svoje, cijeniæeš je prema usjevu: gomer jeèma gdje se posije, cijeniæeš pedeset sikala srebra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ako bi od oprosne godine zavjetovao njivu svoju, neka ostane po tvojoj cijeni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ako li poslije oprosne godine zavjetuje njivu svoju, tada neka mu sveštenik proraèuna novce prema broju godina koje ostaju do oprosne godine, i neka se odbije od tvoje cijene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I ako bi htio otkupiti njivu svoju onaj ko je zavjetuje, neka dometne na cijenu tvoju još peti dio, i neka bude njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ali ako ne otkupi njive, i njiva se proda drugome, ne može se više otkupiti;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Nego æe ona njiva, kad se oprosti oprosne godine, biti sveta Gospodu, kao njiva zavjetovana, sveštenikova neka bude."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ako li bi ko zavjetovao Gospodu njivu kupljenu, koja nije dostojanje njegovo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Sveštenik neka mu proraèuna cijenu do godine oprosne, i neka u onaj dan da tu cijenu da bude stvar sveta Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A godine oprosne da se vrati njiva onome od koga je kupljena, èije je dostojanje ona njiva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A svaka cijena tvoja neka bude na sikle svete, a u siklu ima dvadeset novaca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ali prvina od stoke, koje su Gospodnje, niko da ne zavjetuje, bilo goveèe ili sitna stoka, jer je Gospodnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ako li bi bilo od životinja neèistijeh, onda neka otkupi po tvojoj cijeni dometnuv peti dio ozgo; ako li se otkupi, neka se proda po tvojoj cijeni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ali ni jedna stvar zavjetovana, što ko zavjetuje Gospodu od èega mu drago što ima, od ljudi ili od stoke ili od njive svoje, da se ne prodaje ni otkupljuje; svaka stvar zavjetovana svetinja je nad svetinjama Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Živinèe zavjetovano, koje èovjek zavjetuje, da se ne otkupljuje, nego da se ubije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I svaki desetak zemaljski od usjeva zemaljskoga i od voæa, Gospodnji je, svetinja je Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ali ko bi htio otkupiti što desetka svojega, neka na cijenu dometne još peti dio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I desetak od goveda i od sitne stoke, koje doðe pod štap pastirski deseto, da je sveto Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Da se ne bira dobro ni rðavo, ni da se mijenja; ako li bi se kakogod promijenilo, onda neka bude i ono i drugo promijenjeno sveta stvar, i da se ne otkupi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ovo su zapovjesti koje zapovjedi Gospod Mojsiju za sinove Izrailjeve na gori Sinajskoj."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/27.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 27
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NUM/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/26.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 26
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 34
+}

@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 24,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Zapovjedi sinovima Izrailjevim neka ti donesu ulja maslinova èista, cijeðena, za vidjelo, da žišci gore vazda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Pred zavjesom svjedoèanstva u šatoru od sastanka Aron æe ih namještati da gore od veèera do jutra pred Gospodom vazda zakonom vjeènim od koljena do koljena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Na svijetnjak èisti namještaæe žiške pred Gospodom vazda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I uzmi bijeloga brašna, i ispeci dvanaest kolaèa, svaki kolaè da bude od dvije desetine efe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I postavi ih u dva reda, po šest u jedan red, na èistom stolu pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I na svaki red metni kada èistoga, da bude za svaki hljeb spomen, žrtva ognjena Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Svake subote neka ih postavlja sveštenik pred Gospodom vazda uzimajuæi od sinova Izrailjevih zakonom vjeènim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I biæe Aronovi i sinova njegovijeh, koji æe jesti na mjestu svetom, jer im je svetinja nad svetinjama od ognjenijeh žrtava Gospodnjih zakonom vjeènim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A izaðe sin jedne Izrailjke, kojemu je otac bio Misirac, meðu sinove Izrailjeve, i svadi se u okolu sin žene Izrailjke s nekim Izrailjcem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I psujuæi sin žene Izrailjke pohuli ime Božije, te ga dovedoše k Mojsiju; a mati mu bješe po imenu Salomita, kæi Davrijina, od plemena Danova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I metnuše ga u zatvor dokle im se kaže šta æe èiniti s njim po rijeèi Gospodnjoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Gospod reèe Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Izvedi toga psovaèa napolje iz okola, i neka svi koji su èuli metnu ruke svoje na glavu njegovu, i neka ga sav narod zaspe kamenjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A sinovima Izrailjevim kaži i reci: ko bi god pohulio Boga svojega, nosiæe grijeh svoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ko bi ružio ime Gospodnje, da se pogubi, sav narod da ga zaspe kamenjem; i došljak i domorodac koji bi ružio ime Gospodnje, da se pogubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I ko ubije èovjeka, da se pogubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A ko ubije živinèe, neka vrati drugo, živinèe za živinèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I ko rani bližnjega svojega, kako uèini tako da mu bude:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ulom za ulom, oko za oko, zub za zub; kako ošteti tijelo èovjeku, onako da mu se uèini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ko ubije živinèe, da vrati drugo; ali ko ubije èovjeka, da se pogubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Zakon da vam je jedan, došljaku da bude kao i roðenom u zemlji. Jer sam ja Gospod Bog vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I Mojsije kaza sinovima Izrailjevim, a oni izvedoše psovaèa napolje iz okola, i zasuše ga kamenjem; i uèiniše sinovi Izrailjevi kako Gospod zapovjedi Mojsiju."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/24.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 24
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/25.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 25
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/23.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 23
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

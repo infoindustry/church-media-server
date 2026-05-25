@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 22,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada David otide odande i uteèe u peæinu Odolamsku. A kad to èuše braæa njegova i sav dom oca njegova, doðoše onamo k njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I skupiše se oko njega koji god bijahu u nevolji i koji bijahu zaduženi i koji god bijahu tužna srca; i on im posta poglavica; i bješe ih s njim oko èetiri stotine ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I odande otide David u Mispu Moavsku, i reèe caru Moavskom: dopusti da se otac moj i mati moja sklone kod vas dokle vidim šta æe Bog uèiniti sa mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I izvede ih pred cara Moavskoga, i ostaše kod njega za sve vrijeme dokle David bješe u onom gradu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ali prorok Gad reèe Davidu: nemoj ostati u tom gradu, idi i vrati se u zemlju Judinu. I David otide i doðe u šumu Aret."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A Saul èu da se pojavio David i ljudi što bijahu s njim. Tada Saul sjeðaše u Gavaji pod šumom u Rami, s kopljem u ruci, a sve sluge njegove stajahu pred njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I reèe Saul slugama svojim koje stajahu pred njim: èujte sinovi Venijaminovi; hoæe li vama svjema sin Jesejev dati njive i vinograde? hoæe li sve vas uèiniti tisuænicima i stotinicima?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Te ste se svi složili na me, i nema nikoga da mi javi da se moj sin složio sa sinom Jesejevijem, i nema nikoga meðu vama da mari za me i da mi javi da je sin moj podigao slugu mojega na me da mi zasjeda, kao što se danas vidi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tada odgovori Doik Idumejac, koji stajaše sa slugama Saulovijem, i reèe: vidio sam sina Jesejeva gdje doðe u Nov k Ahimelehu sinu Ahitovovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "On pita za nj Gospoda, i dade mu brašnjenice: i maè Golijata Filistejina dade mu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tada car posla da dovedu Ahimeleha sina Ahitovova sveštenika i sav dom oca njegova, sveštenike, koji bijahu u Novu. I doðoše svi k caru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada reèe Saul: èuj sada sine Ahitovov. A on odgovori: evo me, gospodaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Saul mu reèe: zašto ste se složili na me ti i sin Jesejev, te si mu dao hljeba i maè, i pitao si Boga za nj, da bi ustao na me da mi zasjeda, kao što se vidi danas?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Ahimeleh odgovori caru i reèe: a ko je izmeðu svijeh sluga tvojih kao David, vjeran, i zet carev i poslušan tebi i poštovan u kuæi tvojoj?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Eda li sam sad prvi put pitao Gospoda za nj? Saèuvaj Bože! neka car ne bijedi takim èim sluge svojega niti koga u domu oca mojega; jer nije znao sluga tvoj od svega toga ništa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ali car reèe: poginuæeš, Ahimeleše! i ti i sav dom oca tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tada car reèe slugama koje stajahu pred njim: okrenite se i pogubite sveštenike Gospodnje, jer je i njihova ruka s Davidom, i znajuæi da je pobjegao ne javiše mi. Ali sluge careve ne htješe podignuti ruke svoje da ulože na sveštenike Gospodnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Tada car reèe Doiku: okreni se ti, te uloži na sveštenike. I okrenuvši se Doik Idumejac uloži na sveštenike, i pobi ih onaj dan osamdeset i pet, koji nošahu opleæak laneni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I u Novu, gradu sveštenièkom, isijeèe oštrijem maèem i ljude i žene i djecu i koja sisahu, i volove, i magarce i sitnu stoku oštrijem maèem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ali uteèe jedan sin Ahimeleha sina Ahitovova, po imenu Avijatar, i pobježe k Davidu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I Avijatar javi Davidu da je Saul pobio sveštenike Gospodnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A David reèe Avijataru: znao sam onoga dana kad je bio ondje Doik Idumejac da æe zacijelo kazati Saulu; ja sam kriv za sve duše doma oca tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ostani kod mene, ne boj se; jer ko traži moju dušu, tražiæe i tvoju; kod mene æeš biti saèuvan."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/22.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 22
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/23.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 23
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/21.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 21
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

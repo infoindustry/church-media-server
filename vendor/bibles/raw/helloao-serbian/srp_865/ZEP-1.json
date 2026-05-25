@@ -1,0 +1,202 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ZEP",
+    "translationId": "srp_865",
+    "name": "Sofonija",
+    "commonName": "Sofonija",
+    "title": "Sofonija",
+    "order": 36,
+    "numberOfChapters": 3,
+    "sha256": "9fe93641ae8656d3b18d3fa95dfd1268ff549fd1d4d4f0ea0ac5649505d05d42",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ZEP/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ZEP",
+      "chapter": 1
+    },
+    "lastChapterNumber": 3,
+    "lastChapterApiLink": "/api/srp_865/ZEP/3.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ZEP",
+      "chapter": 3
+    },
+    "totalNumberOfVerses": 53
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Rijeè Gospodnja koja doðe Sofoniji sinu Husija sina Godolije sina Amarije sina Jezekijina, za vremena Josije sina Amonova, cara Judina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Sve æu uzeti sa zemlje, govori Gospod;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Uzeæu ljude i stoku, uzeæu ptice nebeske i ribe morske i sablazni s bezbožnicima, i istrijebiæu ljude sa zemlje, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer æu mahnuti rukom svojom na Judu i na sve stanovnike Jerusalimske, i istrijebiæu iz mjesta ovoga ostatak Valov i ime sveštenika idolskih s drugim sveštenicima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I one koji se klanjaju na krovovima vojsci nebeskoj i koji se klanjaju i kunu se Gospodom i koji se kunu Melhomom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I one koji se odvraæaju od Gospoda i koji ne traže Gospoda niti pitaju za nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Muèi pred Gospodom Gospodom, jer je blizu dan Gospodnji, jer je Gospod prigotovio žrtvu i pozvao svoje zvanice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I u dan žrtve Gospodnje pohodiæu knezove i carske sinove i sve koji nose tuðinsko odijelo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I pohodiæu u taj dan sve koji skaèu preko praga, koji pune kuæu gospodara svojih grabežem i prijevarom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I u taj æe dan, veli Gospod, biti vika od ribljih vrata, i jauk s druge strane, i polom velik s humova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ridajte koji živite u Maktesu, jer izgibe sav narod trgovaèki, istrijebiše se svi koji nose srebro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I u to æu vrijeme razgledati Jerusalim sa žišcima, i pohodiæu ljude koji leže na svojoj droždini, koji govore u srcu svom: Gospod ne èini ni dobro ni zlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I blago æe se njihovo razgrabiti i kuæe njihove opustošiti; grade kuæe, ali neæe sjedjeti u njima; i sade vinograde, ali neæe piti vina iz njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Blizu je veliki dan Gospodnji, blizu je i ide vrlo brzo; glas æe biti dana Gospodnjega, gorko æe tada vikati junak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Taj je dan dan, kada æe biti gnjev, dan, kada æe biti tuga i muka, dan, kada æe biti pustošenje i zatiranje, dan, kada æe biti mrak i tama, dan, kada æe biti oblak i magla,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Dan, kada æe biti trubljenje i pokliè na tvrde gradove i na visoke uglove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I pritijesniæu ljude, te æe iæi kao slijepi, jer zgriješiše Gospodu; i krv æe se njihova prosuti kao prah i tjelesa njihova kao gnoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ni srebro njihovo ni zlato njihovo neæe ih moæi izbaviti u dan gnjeva Gospodnjega; i svu æe zemlju proždrijeti oganj revnosti njegove; jer æe brzo uèiniti kraj svjema stanovnicima zemaljskim."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ZEP/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEP",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ZEP/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEP",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/HAB/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "HAB",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

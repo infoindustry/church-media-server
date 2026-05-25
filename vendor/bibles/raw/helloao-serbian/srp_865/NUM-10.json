@@ -1,0 +1,328 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "srp_865",
+    "name": "Brojevi",
+    "commonName": "Brojevi",
+    "title": "Brojevi",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "5dc73b8a174fd63cb58a0932611fd5816a865be2dae8658fc6051a7a529e9415",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NUM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/NUM/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Naèini sebi dvije trube od srebra, kovane da budu; njima æeš sazivati zbor i zapovijedati da polazi vojska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Kad obje zatrube, tada neka se skuplja k tebi sav zbor na vrata šatora od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A kad jedna zatrubi, tada neka se skupljaju k tebi knezovi, glavari od tisuæa Izrailjevijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A kad zatrubite potresajuæi, tada neka se kreæe oko koji leži prema istoku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A kad zatrubite drugi put potresajuæi, onda neka se kreæe oko koji je prema jugu; potresajuæi neka se trubi kad treba da poðu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kad sazivate zbor, trubite, ali ne potresajuæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A neka trube u trube sinovi Aronovi sveštenici; to da vam je uredba vjeèna od koljena do koljena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I kad poðete na vojsku u zemlji svojoj na neprijatelja koji udari na vas, trubite u trube potresajuæi; i Gospod Bog vaš opomenuæe vas se, i saèuvaæete se od neprijatelja svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Tako i u dan veselja svojega i na praznike svoje i poèetke mjeseca svojih trubite u trube prinoseæi žrtve svoje paljenice i žrtve svoje zahvalne, i biæe vam spomen pred Bogom vašim. Ja sam Gospod Bog vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I u dvadeseti dan drugoga mjeseca druge godine podiže se oblak iznad šatora od svjedoèanstva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I poðoše sinovi Izrailjevi svojim redom iz pustinje Sinajske, i ustavi se oblak u pustinji Faranskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tako poðoše prvi put, kao što Gospod zapovjedi preko Mojsija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I poðe naprijed zastava vojske sinova Judinijeh u èetama svojim; i nad vojskom njihovom bješe Nason sin Aminadavov;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A nad vojskom plemena sinova Isaharovijeh Natanailo sin Sogarov;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A nad vojskom plemena sinova Zavulonovijeh Elijav sin Helonov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I složiše šator, pa poðoše sinovi Girsonovi i sinovi Merarijevi noseæi šator."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Potom poðe zastava vojske sinova Ruvimovijeh u èetama svojim, a nad njihovom vojskom bješe Elisur sin Sedijurov,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A nad vojskom plemena sinova Simeunovijeh Salamilo sin Surisadajev,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A nad vojskom plemena sinova Gadovijeh Elisaf sin Raguilov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I poðoše sinovi Katovi noseæi svetinju, da bi oni podigli šator dokle ovi doðu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Potom poðe zastava vojske sinova Jefremovijeh u èetama svojim, a nad vojskom njihovom bješe Elisama sin Emijudov,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A nad vojskom plemena sinova Manasijinih Gamalilo sin Fadasurov,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A nad vojskom plemena sinova Venijaminovih Avidan sin Gadeonijev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Najposlije poðe zastava vojske sinova Danovijeh u èetama svojim, zadnja vojska, i nad vojskom njihovom bješe Ahijezer sin Amisadajev,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A nad vojskom plemena sinova Asirovijeh Fagailo sin Ehranov,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A nad vojskom plemena sinova Neftalimovijeh Ahirej sin Enanov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Tijem redom poðoše sinovi Izrailjevi u èetama svojim, i tako iðahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A Mojsije reèe Jovavu sinu Raguilovu Madijaninu, tastu svojemu: idemo na mjesto za koje reèe Gospod: vama æu ga dati. Hajde s nama, i dobro æemo ti uèiniti, jer je Gospod obeæao Izrailju mnogo dobra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A on mu reèe: neæu iæi, nego idem u svoju zemlju i u rod svoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A Mojsije reèe: nemoj nas ostaviti, jer znaš mjesta u pustinji gdje bismo mogli stajati, pa nam budi voð."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I ako poðeš s nama, kad doðe dobro koje æe nam uèiniti Gospod, uèiniæemo ti dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I tako poðoše od gore Gospodnje, i iðahu tri dana, i kovèeg zavjeta Gospodnjega iðaše pred njima tri dana tražeæi mjesto gdje bi poèinuli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I oblak Gospodnji bješe nad njima svaki dan kad polažahu s mjesta, gdje bijahu u okolu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I kad polažaše kovèeg, govoraše Mojsije: ustani Gospode, i neka se razaspu neprijatelji tvoji, i neka bježe ispred tebe koji mrze na te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A kad se ustavljaše, govoraše: uvrati se, Gospode, k mnoštvu tisuæa Izrailjevijeh."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NUM/10.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 10
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NUM/11.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 11
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NUM/9.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 9
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 36
+}

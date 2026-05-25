@@ -1,0 +1,244 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 31,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U tebe se, Gospode, uzdam; nemoj me ostaviti pod sramotom dovijeka, po pravdi svojoj izbavi me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Prigni k meni uho svoje, pohitaj, pomozi mi. Budi mi kameni grad, tvrda ograda, gdje bih se spasao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer si ti kamena gora moja i ograda moja, imena svojega radi vodi me i upravljaj mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Izvadi me iz mreže, koju mi tajno zamjestiše; jer si ti krjepost moja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "U tvoju ruku predajem duh svoj; izbavljao si me, Gospode, Bože istini!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nenavidim one koji poštuju propadljive idole; ja se u Gospoda uzdam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Radovaæu se i veseliti se o milosti tvojoj, kad pogledaš na moju muku, poznaš tugu duše moje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ne daš me u ruku neprijatelju, postaviš noge moje na prostranom mjestu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Smiluj se na me, Gospode; jer me je tuga, od jada iznemože oko moje, duša moja i srce moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Išèilje u žalosti život moj, i godine moje u uzdisanju; oslabi od muke krjepost moja, i kosti moje sasahnuše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Od množine neprijatelja svojih postadoh potsmijeh i susjedima svojim, i strašilo znancima svojim; koji me vide na ulici, bježe od mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zaboravljen sam kao mrtav, nema me u srcima; ja sam kao razbijen sud."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer slušam grdnju od mnogih, otsvuda strah, kad se dogovaraju na me, misle išèupati dušu moju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A ja se, Gospode, u tebe uzdam i velim: ti si Bog moj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "U tvojoj su ruci dani moji; otmi me iz ruku neprijatelja mojijeh, i od onijeh, koji me gone."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Pokaži svijetlo lice svoje sluzi svojemu; spasi me milošæu svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Gospode! nemoj me ostaviti pod sramotom; jer tebe prizivljem. Nek se posrame bezbožnici, neka zamuknu i padnu u pakao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Neka onijeme usta lažljiva, koja govore na pravednika obijesno, oholo i s porugom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Kako je mnogo u tebe dobra, koje èuvaš za one koji te se boje, i koje daješ onima koji se u te uzdaju pred sinovima èovjeèijim!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Sakrivaš ih pod krov lica svojega od buna ljudskih; sklanjaš ih pod sjen od svadljivijeh jezika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Da je blagosloven Gospod, što mi pokaza divnu milost kao da me uvede u tvrd grad!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ja rekoh u smetnji svojoj: odbaèen sam od oèiju tvojijeh; ali ti èu molitveni glas moj, kad te prizvah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ljubite Gospoda svi sveti njegovi; Gospod drži vjeru; i uvršeno vraæa onima koji postupaju oholo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Budite slobodni, i neka bude jako srce vaše, svi koji se u Gospoda uzdate."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/31.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 31
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/32.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 32
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/30.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 30
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 24
+}

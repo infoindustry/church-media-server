@@ -1,0 +1,167 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 27,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada æe Gospod pokarati maèem svojim ljutijem i velikim i jakim levijatana, prugu zmiju, i levijatana, krivuljastu zmiju, i ubiæe zmaja koji je u moru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Tada pjevajte o vinogradu koji raða crvenijem vinom:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ja Gospod èuvam ga, u svako doba zaljevaæu ga; dan noæ èuvaæu ga da ga ko ne ošteti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Nema gnjeva u mene; ko æe staviti u boj nasuprot meni èkalj i trnje? ja æu pogaziti i spaliti sve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ili neka se uhvati za silu moju da uèini mir sa mnom; uèiniæe mir sa mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jednom æe se ukorijeniti Jakov, procvjetaæe i uzrasti Izrailj, i napuniæe vasiljenu plodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Je li ga udario onako kako je udario one koji njega udaraše? je li ga ubio onako kako su ubijeni oni koje je ubio?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "S mjerom ga je karao, kad ga je odbacio, kad ga je odnio silnijem vjetrom svojim istoènijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Zato æe se tijem oèistiti bezakonje Jakovljevo i to æe biti sva korist što æe se uzeti grijeh njegov kad sve kamenje oltarno razmetne kao razdrobljeno kreèno kamenje i ne bude više gajeva ni sunèanijeh likova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer æe tvrdi grad opustjeti i biæe stan ostavljen i zanemaren kao pustinja; ondje æe pasti tele i ondje æe lijegati, i poješæe mu grane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Kad se posuše grane, polomiæe se; žene æe dolaziti i ložiti ih na oganj. Jer je narod nerazuman; zato ga neæe žaliti koji ga je stvorio, i koji ga je sazdao neæe se smilovati na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "U to æe vrijeme Gospod ovijati od obale rijeke do potoka Misirskoga, a vi, sinovi Izrailjevi, sabraæete se jedan po jedan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I tada æe se zatrubiti u veliku trubu, i koji se bjehu izgubili u zemlji Asirskoj i koji bijahu zagnani u zemlju Misirsku, doæi æe i klanjaæe se Gospodu na svetoj gori u Jerusalimu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/27.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 27
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/28.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 28
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/26.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 26
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 13
+}

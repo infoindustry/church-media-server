@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOB",
+    "translationId": "srp_865",
+    "name": "Jov",
+    "commonName": "Jov",
+    "title": "Jov",
+    "order": 18,
+    "numberOfChapters": 42,
+    "sha256": "8862f4cbf1254f76fa7ea0a123da4bc2d61eebd46a2620b1499e0771fad0ee95",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 42,
+    "lastChapterApiLink": "/api/srp_865/JOB/42.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 42
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Dodijao je duši mojoj život moj; pustiæu od sebe tužnjavu svoju, govoriæu u jadu duše svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Reæi æu Bogu: nemoj me osuditi; kaži mi zašto se preš sa mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Je li ti milo da èiniš silu, da odbacuješ djelo ruku svojih i savjet bezbožnièki obasjavaš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jesu li u tebe oèi tjelesne? vidiš li kao što vidi èovjek?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jesu li dani tvoji kao dani èovjeèji, i godine tvoje kao vijek ljudski,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Te istražuješ moje bezakonje i za grijeh moj razbiraš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ti znaš da nijesam kriv, i nema nikoga ko bi izbavio iz tvoje ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tvoje su me ruke stvorile i naèinile, i ti me otsvuda potireš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Opomeni se da si me kao od kala naèinio, i opet æeš me u prah obratiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nijesi li me kao mlijeko slio i kao sir usirio me?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Navukao si na me kožu i meso, i kostima i žilama spleo si me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Životom i milošæu darivao si me; i staranje tvoje èuvalo je duh moj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I sakrio si to u srcu svojem; ali znam da je u tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ako sam zgriješio, opazio si me, i nijesi me oprostio bezakonja mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ako sam skrivio, teško meni! ako li sam prav, ne mogu podignuti glave, pun sramote i videæi muku svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I ako se podigne, goniš me kao lav, i opet èiniš èudesa na meni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ponavljaš svjedoèanstva svoja protiv mene, i umnožavaš gnjev svoj na me; vojske jedna za drugom izlaze na me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Zašto si me izvadio iz utrobe? o da umrijeh! da me ni oko ne vidje!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Bio bih kao da nigda nijesam bio; iz utrobe u grob bio bih odnesen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Nije li malo dana mojih? prestani dakle i okani me se da se malo oporavim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Prije nego otidem odakle se neæu vratiti, u zemlju tamnu i u sjen smrtni,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "U zemlju tamnu kao mrak i u sjen smrtni, gdje nema promjene i gdje je vidjelo kao tama."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOB/10.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 10
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOB/11.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 11
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOB/9.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 9
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

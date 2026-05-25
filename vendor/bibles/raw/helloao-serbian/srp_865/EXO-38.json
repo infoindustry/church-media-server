@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 38,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I naèini od drveta sitima oltar za žrtve paljenice u dužinu od pet lakata, i u širinu od pet lakata, èetvorouglast visok tri lakta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I naèini mu na èetiri ugla njegova rogove; iz njega izlažahu rogovi, i okova ga u mjed."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I naèini sve posuðe za oltar, lonce i lopatice i kotliæe i viljuške i kliješta; sve mu posuðe naèini od mjedi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I naèini oltaru rešetku kao mrežu od mjedi ispod oltara unaokolo oda dna do sredine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I sali èetiri bioèuga za èetiri ugla rešetke mjedene, da se kroz njih provuku poluge."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A poluge naèini od drveta sitima, i okova ih u mjed."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I provuèe poluge kroz bioèuge s obje strane oltara, da se može nositi, od dasaka naèini ga šuplja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I naèini umivaonicu mjedenu i podnožje joj mjedeno od ogledala koja donošahu gomilama žene dolazeæi na vrata šatoru od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I naèini trijem na južnoj strani, i zavjese trijemu od tankoga platna uzvedenoga od sto lakata,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I dvadeset stupova za njih i dvadeset stopica pod njih od mjedi, a kuke na stupove i prijevornice od srebra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tako i na sjevernoj strani zavjese od sto lakata, dvadeset stupova za njih i dvadeset stopica pod njih od mjedi; a kuke na stupove i prijevornice njihove od srebra;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A na zapadnoj strani zavjese od pedeset lakata, deset stupova za njih i deset stopica njihovijeh od mjedi, kuke na stupove i pojasove njihove od srebra;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A na prednjoj strani prema istoku zavjese od pedeset lakata;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "S jedne strane zavjese od petnaest lakata, tri stupa za njih i tri stopice pod njih;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A s druge strane, do vrata od trijema i otuda i odovuda, zavjese od petnaest lakata, tri stupa za njih i tri stopice pod njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Svi zavjesi na trijemu unaokolo bjehu od tankoga platna uzvedenoga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A stopice pod stupovima od mjedi, kuke na stupovima i pojasovi na njima od srebra; i vrhovi im bijahu srebrni; svi stupovi u trijemu bijahu opasani srebrom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A zavjes na vratima od trijema bijaše od porfire i od skerleta i od crvca i od tankoga platna uzvedenoga, vezen, u dužinu od dvadeset lakata a u visinu po širini pet lakata, kao i drugi zavjesi u trijemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I èetiri stupa za nj, i èetiri stopice pod njih od mjedi, èepovi na njima od srebra i vrhovi im i pojasovi od srebra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A sve kolje šatoru i trijemu unaokolo bijaše od mjedi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Te su stvari prebrojene za šator, šator od svjedoèanstva, koje je prebrojio po zapovijesti Mojsijevoj Itamar sin Arona sveštenika za službu Levitsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A Veseleilo sin Urije sina Orova od plemena Judina naèini sve to što zapovjedi Gospod Mojsiju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I s njim Elijav sin Ahisamahov od plemena Danova, drvodjelja i vješt tkati i vesti po porfiri, po skerletu, po crvcu i po tankom platnu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A svega zlata što otide na ovo djelo, na sve djelo za svetinju, koje zlato bješe priloženo, svega ga bješe dvadeset i devet talanata, sedam stotina i trideset sikala, po svetom siklu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A srebra što doðe od zbora, sto talanata, i tisuæa sedam stotina i sedamdeset i pet sikala, po svetom siklu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Po sikla od glave, po siklu svetom, od svakoga koji uðe u broj, od dvadeset godina i više, od šest stotina i tri tisuæe i pet stotina i pedeset."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Od sto talanata srebra sališe se stopice za svetinju i stopice za zavjes; sto stopica od sto talanata, talanat na stopicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A od tisuæu i sedam stotina i sedamdeset i pet sikala naèini kuke na stupove, i okova im vrhove i opasa ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A mjedi priložene bijaše sedamdeset talanata, i dvije tisuæe i èetiri stotine sikala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I od toga naèini stopice na vratima šatora od sastanka, i mjedeni oltar i rešetku mjedenu za nj, i sve sprave za oltar,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I stopice u trijemu unaokolo, i stopice na vratima od trijema, i sve kolje za šator i sve kolje za trijem unaokolo."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/38.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 38
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/39.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 39
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/37.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 37
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

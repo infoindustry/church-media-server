@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOB",
+    "translationId": "srp_865",
+    "name": "Jov",
+    "commonName": "Jov",
+    "title": "Jov",
+    "order": 18,
+    "numberOfChapters": 42,
+    "sha256": "8862f4cbf1254f76fa7ea0a123da4bc2d61eebd46a2620b1499e0771fad0ee95",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 42,
+    "lastChapterApiLink": "/api/srp_865/JOB/42.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 42
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada odgovori Elifas Temanac i reèe:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ako ti progovorimo, da ti neæe biti dosadno? ali ko bi se mogao uzdržati da ne govori?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Gle, uèio si mnoge, i ruke iznemogle krijepio si;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Rijeèi su tvoje podizale onoga koji padaše, i utvrðivao si koljena koja klecahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A sada kad doðe na tebe, klonuo si; kad se tebe dotaèe, smeo si se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nije li pobožnost tvoja bila uzdanje tvoje? i dobrota putova tvojih nadanje tvoje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Opomeni se, ko je prav poginuo, i gdje su pravedni istrijebljeni?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Kako sam ja vidio, koji oru muku i siju nevolju, to i žanju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Od dihanja Božijega ginu, i od daha nozdara njegovijeh nestaje ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Rika lavu, i glas ljutom lavu i zubi laviæima satiru se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Lav gine nemajuæi lova, i laviæi rasipaju se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Još doðe tajno do mene rijeè, i uho moje doèu je malo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "U mislima o noænijem utvarama, kad tvrd san pada na ljude,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Strah poduze me i drhat, od kojega ustreptaše sve kosti moje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I duh proðe ispred mene, i dlake na tijelu mojem nakostriješiše se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Stade, ali mu ne poznah lica; prilika bijaše pred oèima mojima, i muèeæi èuh glas:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Eda li je èovjek pravedniji od Boga? eda li je èovjek èistiji od tvorca svojega?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Gle, slugama svojim ne vjeruje, i u anðela svojih nalazi nedostataka;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Akamoli u onijeh koji stoje u kuæama zemljanijem, kojima je temelj na prahu i satiru se brže nego moljac."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Od jutra do veèera satru se, i nestane ih navijek da niko i ne opazi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Slava njihova ne prolazi li s njima? Umiru, ali ne u mudrosti."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOB/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOB/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOB/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

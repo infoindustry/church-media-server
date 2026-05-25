@@ -1,0 +1,356 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 31,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U to vrijeme, govori Gospod, ja æu biti Bog svijem porodicama Izrailjevijem, i oni æe mi biti narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ovako veli Gospod: narod što osta od maèa naðe milost u pustinji, kad iðah da dam odmor Izrailju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Odavna mi se javljaše Gospod. Ljubim te ljubavlju vjeènom, zato ti jednako èinim milost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Opet æu te sazidati, i biæeš sazidana, djevojko Izrailjeva, opet æeš se veseliti bubnjima svojim, i izlaziæeš sa zborom igraèkim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Opet æeš saditi vinograde na brdima Samarijskim, sadiæe vinogradari i ješæe rod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer æe doæi dan kad æe vikati èuvari na gori Jefremovoj: ustanite, da idemo na Sion, ka Gospodu Bogu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer ovako veli Gospod: pjevajte veselo radi Jakova, i podvikujte radi glave narodima; javljajte, hvalite i govorite: spasi, Gospode, narod svoj, ostatak Izrailjev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Evo, ja æu ih dovesti iz zemlje sjeverne, i sabraæu ih s krajeva zemaljskih, i slijepa i hroma, i trudnu i porodilju, sve zajedno, zbor veliki vratiæe se ovamo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Iæi æe plaèuæi, i s molitvama æu ih dovesti natrag; vodiæu ih pokraj potoka pravijem putem, na kom se neæe spoticati; jer sam otac Izrailju, i Jefrem je prvenac moj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Èujte, narodi, rijeè Gospodnju, i javljajte po dalekim ostrvima i recite: koji rasije Izrailja, skupiæe ga, i èuvaæe ga kao pastir stado svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer iskupi Gospod Jakova, i izbavi ga iz ruku jaèega od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I doæi æe i pjevaæe na visini Sionskoj, i steæi æe se k dobru Gospodnjem, k žitu, k vinu i k ulju, k jaganjcima i teocima; i duša æe im biti kao vrt zaliven, i neæe više tužiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada æe se veseliti djevojka u kolu, i momci i starci zajedno, i promijeniæu žalost njihovu na radost, i utješiæu ih, i razveseliæu ih po žalosti njihovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I napitaæu sveštenicima dušu pretilinom, i narod æe se moj nasititi dobra mojega, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ovako veli Gospod: glas u Rami èu se, naricanje i plaè veliki; Rahilja plaèe za djecom svojom, neæe da se utješi za djecom svojom, jer ih nema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ovako veli Gospod: ustavi glas svoj od plaèa i oèi svoje od suza, jer ima plata djelu tvojemu, govori Gospod, i oni æe se vratiti iz zemlje neprijateljske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I imaš nada za pošljedak, govori Gospod, da æe se vratiti sinovi tvoji na meðe svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Èujem doista Jefrema gdje tuži: pokarao si me, te sam pokaran kao june neuko; obrati me da se obratim, jer si ti Gospod Bog moj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer pošto se obratih, pokajah se; i pošto se nauèih, udarih se po bedru; jer se posramih i stidim se što nosim sramotu mladosti svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Nije li mi Jefrem mio sin? nije li dijete predrago? Otkad govorih protiv njega, jednako ga se opominjem; zato je srce moje ustreptalo njega radi, doista æu se smilovati na nj, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Podigni znake, nanesi gomile kamenja, zapamti put kojim si išla; vrati se, djevojko Izrailjeva, vrati se u gradove svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Dokle æeš lutati, kæeri odmetnice! jer je Gospod uèinio nešto novo na zemlji: žena æe opkoliti èovjeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ovako veli Gospod nad vojskama, Bog Izrailjev: još æu ovu rijeè govoriti u zemlji Judinoj i u gradovima njegovijem kad natrag dovedem roblje njihovo: Gospod da te blagoslovi, stane pravde, sveta goro!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer æe se naseliti u njoj Juda, i svi gradovi njegovi, i ratari i koji idu za stadom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Jer æu napojiti umornu dušu, i nasititi svaku klonulu dušu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Utom se probudih i pogledah, i san mi bješe sladak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Evo idu dani, govori Gospod, kad æu zasijati dom Izrailjev i dom Judin sjemenom èovjeèijim i sjemenom od stoke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I kao što sam pazio na njih da ih istrijebljujem i razvaljujem, i kvarim i zatirem i muèim, tako æu paziti na njih da ih sazidam i posadim, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "U te dane neæe se više govoriti: oci jedoše kiselo grožðe, a sinovima trnu zubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Nego æe svaki za svoj grijeh poginuti; ko god jede kiselo grožðe, tome æe zubi trnuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Evo, idu dani, govori Gospod, kad æu uèiniti s domom Izrailjevijem i s domom Judinijem nov zavjet,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ne kao onaj zavjet koji uèinih s ocima njihovijem, kad ih uzeh za ruku da ih izvedem iz zemlje Misirske, jer onaj zavjet moj oni pokvariše, a ja im bijah muž, govori Gospod;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Nego ovo je zavjet što æu uèiniti s domom Izrailjevijem poslije ovijeh dana, govori Gospod: metnuæu zavjet svoj u njih, i na srcu njihovu napisaæu ga, i biæu im Bog i oni æe mi biti narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I neæe više uèiti prijatelj prijatelja ni brat brata govoreæi: poznajte Gospoda; jer æe me znati svi od maloga do velikoga, govori Gospod; jer æu im oprostiti bezakonja njihova, i grijeha njihovijeh neæu više pominjati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ovako veli Gospod, koji daje sunce da svijetli danju, i uredbe mjesecu i zvijezdama da svijetle noæu, koji raskida more i buèe vali njegovi, kojemu je ime Gospod nad vojskama:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ako tijeh uredaba nestane ispred mene, govori Gospod, i sjeme æe Izrailjevo prestati biti narod preda mnom navijek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Ovako veli Gospod: ako se može izmjeriti nebo gore i izvidjeti temelji zemaljski dolje, tada æu i ja odbaciti sve sjeme Izrailjevo za sve što su uèinili, veli Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Evo idu dani, govori Gospod, u koje æe se sazidati Gospodu ovaj grad od kule Ananeilove do vrata na uglu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I još æe dalje otiæi uže mjeraèko do huma Gariva i obrnuæe se na Goat."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I sva dolina od mrtvijeh tjelesa i pepela, i sva polja dori do potoka Kedrona, do ugla konjskih vrata k istoku, biæe svetinja Gospodu; neæe se razvaliti ni potrti dovijeka."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/31.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 31
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/32.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 32
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/30.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 30
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 40
+}

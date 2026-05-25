@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOB",
+    "translationId": "srp_865",
+    "name": "Jov",
+    "commonName": "Jov",
+    "title": "Jov",
+    "order": 18,
+    "numberOfChapters": 42,
+    "sha256": "8862f4cbf1254f76fa7ea0a123da4bc2d61eebd46a2620b1499e0771fad0ee95",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 42,
+    "lastChapterApiLink": "/api/srp_865/JOB/42.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 42
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 40,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Gospod opet odgovarajuæi Jovu iz vihora reèe:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Opaši se sada kao èovjek; ja æu te pitati, a ti mi kazuj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Hoæeš li ti uništiti moj sud? hoæeš li mene osuditi da bi sebe opravdao?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Je li u tebe mišica kao u Boga? grmiš li glasom kao on?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Okiti se sada èašæu i velièanstvom, u slavu i krasotu obuci se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Prospi jarost gnjeva svojega, i pogledaj sve ponosite, i obori ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Pogledaj sve ponosite, i ponizi ih, i potri bezbožnike na mjestu njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Zatrpaj ih sve u prah, i poveži im lice na skrivenu mjestu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tada æu te i ja hvaliti da te èuva desnica tvoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A gle, slon, kojega sam stvorio s tobom, jede travu kao vo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Gle, snaga mu je u bedrima njegovijem, i sila mu je u pupku trbuha njegova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Diže rep svoj kao kedar, žile od jaja njegovijeh spletene su kao grane;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Kosti su mu kao cijevi mjedene, zglavci kao poluge gvozdene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "On je prvo izmeðu djela Božijih, tvorac njegov dao mu je maè."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Gore nose mu piæu, i sve zvijerje poljsko igra se ondje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "U hladu liježe, u gustoj trsci i glibu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Granata drveta zaklanjaju ga sjenom svojim, i opkoljavaju ga vrbe na potocima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Gle, ustavlja rijeku da ne teèe, uzda se da æe ispiti Jordan gubicom svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Hoæe li ga ko uhvatiti na oèi njegove? zamku mu provuæi kroz nos?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Hoæeš li udicom izvuæi krokodila ili užem podvezati mu jezik?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Hoæeš li mu provuæi situ kroz nos? ili mu šiljkom provrtjeti èeljusti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Hoæe li te mnogo moliti, ili æe ti laskati?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Hoæe li uèiniti vjeru s tobom da ga uzmeš da ti bude sluga dovijeka?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Hoæeš li se igrati s njim kao sa pticom, ili æeš ga vezati djevojkama svojim?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Hoæe li se njim èastiti drugovi? razdijeliti ga meðu trgovce?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Hoæeš li mu napuniti kožu šiljcima i glavu ostvama?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Digni na nj ruku svoju; neæeš više pominjati boja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Gle, zaludu je nadati mu se; kad ga samo ugleda èovjek, ne pada li?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOB/40.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 40
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOB/41.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 41
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOB/39.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 39
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

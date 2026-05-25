@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ZEC",
+    "translationId": "srp_865",
+    "name": "Zaharija",
+    "commonName": "Zaharija",
+    "title": "Zaharija",
+    "order": 38,
+    "numberOfChapters": 14,
+    "sha256": "8d31bf129645529bbf86e696983cf67d27bb2c635d0ea09244c13074734b3eef",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ZEC/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ZEC",
+      "chapter": 1
+    },
+    "lastChapterNumber": 14,
+    "lastChapterApiLink": "/api/srp_865/ZEC/14.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ZEC",
+      "chapter": 14
+    },
+    "totalNumberOfVerses": 211
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Osmoga mjeseca druge godine Darijeve, doðe rijeè Gospodnja proroku Zahariji sinu Varahije sina Idova govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Gospod se vrlo razgnjevi na oce vaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Zato im reci: ovako veli Gospod nad vojskama: vratite se k meni, govori Gospod nad vojskama, i ja æu se vratiti k vama, veli Gospod nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ne budite kao oci vaši, kojima vikahu preðašnji proroci govoreæi: ovako veli Gospod nad vojskama: vratite se sa zlijeh putova svojih i od zlijeh djela svojih; ali ne poslušaše niti paziše na me, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Oci vaši gdje su? i ti proroci žive li dovijeka?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ali rijeèi moje i uredbe moje koje zapovijedah slugama svojim prorocima ne stigoše li oce vaše? te se oni obratiše i rekoše: kako Gospod nad vojskama bješe namislio uèiniti nam prema putovima našim i po djelima našim, tako nam uèini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Dvadeset èetvrtoga dana jedanaestoga mjeseca, a to je mjesec Savat, druge godine Darijeve, doðe rijeè Gospodnja proroku Zahariji sinu Varahije sina Idova govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Vidjeh noæu, a to èovjek jahaše na konju riðu, i stajaše meðu mirtama koje bijahu u dolu, a za njim bijahu konji riði, šareni i bijeli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I rekoh: što je ovo, gospodaru moj? A anðeo koji govoraše sa mnom reèe mi: ja æu ti pokazati što je ovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Tada èovjek koji stajaše meðu mirtama progovori i reèe: ovo su koje posla Gospod da oblaze zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I oni progovoriše anðelu Gospodnjemu koji stajaše meðu mirtama, i rekoše: mi obidosmo zemlju, i gle, sva zemlja poèiva i mirna je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada anðeo Gospodnji odgovori i reèe: Gospode nad vojskama, kad æeš se veæ smilovati Jerusalimu i gradovima Judinijem, na koje se gnjeviš veæ sedamdeset godina?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Gospod odgovori anðelu koji govoraše sa mnom, dobrijem rijeèima, milijem rijeèima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I reèe mi anðeo koji govoraše sa mnom: vièi i reci: ovako veli Gospod nad vojskama: revnujem za Jerusalim i za Sion veoma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I gnjevim se silno na narode bezbrižne, jer se malo razgnjevih a oni pomogoše na zlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Zato ovako veli Gospod: obratih se k Jerusalimu milošæu, dom æe se moj opet sazidati u njemu, govori Gospod nad vojskama, i uže æe se zategnuti preko Jerusalima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Još vièi i reci: ovako veli Gospod nad vojskama: opet æe gradovi moji obilovati dobrom, i Gospod æe opet utješiti Sion i opet æe izabrati Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Tada podigoh oèi svoje i vidjeh, i gle, èetiri roga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I rekoh anðelu koji govoraše sa mnom: što je to? A on mi reèe: to su rogovi koji razmetnuše Judu, Izrailja i Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Potom pokaza mi Gospod èetiri kovaèa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I rekoh: šta su ti došli da rade? A on odgovori i reèe: ono su rogovi koji razmetnuše Judu da niko ne podiže glave; a ovi doðoše da ih uplaše, da odbiju rogove narodima, koji podigoše rog na zemlju Judinu da je razmetnu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ZEC/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEC",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ZEC/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEC",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/HAG/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "HAG",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

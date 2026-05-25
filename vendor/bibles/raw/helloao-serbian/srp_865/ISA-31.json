@@ -1,0 +1,139 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 31,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Teško onima koji idu u Misir za pomoæ, koji se oslanjaju na konje, i uzdaju se u kola što ih je mnogo, i u konjike što ih je veliko mnoštvo, a ne gledaju na sveca Izrailjeva i ne traže Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ali je i on mudar, i navuæi æe zlo, i neæe poreæi svoje rijeèi, nego æe ustati na dom nevaljalijeh ljudi i na one koji pomažu onima koji èine bezakonje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Misirci su ljudi a ne Bog, i konji su njihovi tijelo a ne duh; i zato æe Gospod mahnuti rukom svojom, te æe pasti pomagaè, pašæe i onaj kome pomaže, i svi æe zajedno poginuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer ovako mi reèe Gospod: kao što lav i laviæ rièe nad lovom svojim, i ako se i svièe na nj mnoštvo pastira, on se ne plaši od vike njihove niti se pokorava na buku njihovu, tako æe Gospod nad vojskama siæi da vojuje za goru Sionsku i za hum njezin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Kao ptice krilima Gospod æe nad vojskama zaklanjati Jerusalim, i zaklanjajuæi izbaviæe, i oblazeæi saèuvaæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Vratite se k njemu, od kojega se sasvijem odvrgoste, sinovi Izrailjevi!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer æe u onaj dan svaki odbaciti idole svoje srebrne, i zlatne svoje idole, koje vam ruke vaše naèiniše na grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I Asirac æe pasti od maèa ne èovjeèijega, i maè ne èovjeèji poješæe ga, i bježaæe ispred maèa, i mladiæi æe njegovi plaæati danak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I stijena æe njegova proæi od straha, i knezovi æe se njegovi prepasti od zastave, veli Gospod, èiji je oganj na Sionu i peæ u Jerusalimu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/31.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 31
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/32.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 32
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/30.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 30
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 9
+}

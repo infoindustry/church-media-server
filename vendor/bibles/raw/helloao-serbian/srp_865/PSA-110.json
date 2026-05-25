@@ -1,0 +1,125 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 110,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Reèe Gospod Gospodu mojemu: sjedi meni s desne strane, dok položim neprijatelje tvoje za podnožje nogama tvojima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Skiptar sile daje ti Gospod sa Siona: vladaj sred neprijatelja svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "U dan rata tvojega narod je tvoj gotov u svetoj krasoti. Kao rosa zori iz utrobe, taka je u tebe mladost tvoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Gospod se zakleo, i neæe se pokajati: ti si sveštenik dovijeka po redu Melhisedekovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Gospod je tebi s desne strane. Pobiæe u dan gnjeva svojega careve;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Sudiæe narodima, napuniæe zemlju trupova; satræe glavu na zemlji širokoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Iz potoka æe na putu piti, i zato æe podignuti glavu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/110.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 110
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/111.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 111
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/109.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 109
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 7
+}

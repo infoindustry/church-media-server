@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "HOS",
+    "translationId": "srp_865",
+    "name": "Osija",
+    "commonName": "Osija",
+    "title": "Osija",
+    "order": 28,
+    "numberOfChapters": 14,
+    "sha256": "96d12d7fd5b03440b12eac517f4221cde10131b17f936108cfd90e4f14b267e3",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/HOS/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "HOS",
+      "chapter": 1
+    },
+    "lastChapterNumber": 14,
+    "lastChapterApiLink": "/api/srp_865/HOS/14.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "HOS",
+      "chapter": 14
+    },
+    "totalNumberOfVerses": 197
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Recite braæi svojoj: narode moj; i sestrama svojim: pomilovana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Prite se s materom svojom, prite se, jer mi nije žena, niti sam joj ja muž; neka odbaci kurvarstva svoja od lica svojega, i preljube svoje od dojaka svojih,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Da je ne bih svukao golu i uèinio je kaka je bila onaj dan kad se rodila, i da je ne bih postavio da bude kao pustinja i obratio je da bude kao zemlja zasušena, i umorio je žeðu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I neæu se smilovati na djecu njezinu, jer su kopilad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer se mati njihova kurva, sramoti se roditeljka njihova; jer govori: iæi æu za milosnicima svojim koji mi daju hljeb moj i vodu moju, vunu moju i lan moj, ulje moje i piæe moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Zato evo ja æu joj zagraditi put trnjem i zazidaæu zidom da ne naðe staza svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I trèaæe za svojim milosnicima, ali ih neæe stignuti; i tražiæe ih, ali ih neæe naæi; pa æe reæi: idem da se vratim k prvomu mužu svojemu, jer mi bješe bolje onda nego sada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer ona ne zna da sam joj ja davao žito i vino i ulje, i umnožavao joj srebro i zlato, od kojega naèiniše Vala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Zato æu uzeti natrag žito svoje, kad bude vrijeme, i vino svoje, kad bude vrijeme, i uzeæu vunu svoju i lan svoj, kojim bi pokrivala golotinju svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I otkriæu rugobu njezinu pred milosnicima njezinijem, i niko je neæe izbaviti iz moje ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I ukinuæu svaku radost njezinu, svetkovine njezine, mladine njezine i subote njezine i sve praznike njezine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I potræu èokote njezine i smokve, za koje govori: plata su mi, što mi dadoše milosnici moji; i obratiæu ih u šumu da ih jede zvijerje poljsko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I pohodiæu na njoj dane Valimske, u koje im je kadila i kitila se obocima i grivnama, i išla za svojim milosnicima, i mene zaboravila, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ali evo, ja æu je primamiti i odvešæu je u pustinju, i govoriæu s njom lijepo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I daæu joj vinograde njezine od toga mjesta, i dolinu Ahor za vrata nadanju, i ondje æe pjevati kao za mladosti svoje i kao kad je išla iz Misira."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I tada æeš me, govori Gospod, zvati: mužu moj; a neæeš me više zvati: Vale moj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer æu ukloniti iz usta njezinijeh imena Vala; i neæe im se više pominjati imena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I tada æu im uèiniti zavjet sa zvijerjem poljskim i sa pticama nebeskim i s bubinama zemaljskim; i polomiæu luk i maè i rat da ih nestane u zemlji, i uèiniæu da leže bez straha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I zaruèiæu te sebi dovijeka, zaruèiæu te sebi pravdom i sudom i milošæu i milosrðem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I zaruèiæu te sebi vjerom, i poznaæeš Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I tada æu se odazvati, govori Gospod, odazvaæu se nebesima, a ona æe se odazvati zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A zemlja æe se odazvati žitu i vinu i ulju, a to æe se odazvati Jezraelu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I posijaæu je sebi na zemlji, i smilovaæu se na Loruhamu, i reæi æu Loamiji: ti si moj narod, i on æe reæi: Bože moj!"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/HOS/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "HOS",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/HOS/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "HOS",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/HOS/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "HOS",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

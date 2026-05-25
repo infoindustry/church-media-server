@@ -1,0 +1,440 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "srp_865",
+    "name": "Ponovljeni Zakon",
+    "commonName": "Ponovljeni Zakon",
+    "title": "Ponovljeni Zakon",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "b000b6651908c9448c65c662cec1fa45977205b236e0922d505241ab679311df",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DEU/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 1
+    },
+    "lastChapterNumber": 34,
+    "lastChapterApiLink": "/api/srp_865/DEU/34.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 34
+    },
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 32,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Slušaj, nebo, govoriæu; i zemlja neka èuje govor usta mojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Neka se spusti kao dažd nauka moja, i neka padne kao rosa govor moj, kao sitan dažd na mladu travu i kao krupan dažd na odraslu travu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer æu javljati ime Gospodnje; velièajte Boga našega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Djelo je te stijene savršeno, jer su svi putovi njegovi pravda; Bog je vjeran, bez nepravde; pravedan je i istinit."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Oni se pokvariše prema njemu; njihovo nevaljalstvo nije nevaljalstvo sinova njegovijeh; to je rod zao i pokvaren."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tako li vraæate Gospodu, narode ludi i bezumni? nije li on otac tvoj, koji te je zadobio? on te je naèinio i stvorio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Opomeni se negdašnjih dana, pogledajte godine svakoga vijeka; pitaj oca svojega i on æe ti javiti, starije svoje i kazaæe ti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Kad višnji razdade našljedstvo narodima, kad razdijeli sinove Adamove, postavi meðe narodima po broju sinova Izrailjevih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer je dio Gospodnji narod njegov, Jakov je uže našljedstva njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Naðe ga u zemlji pustoj, na mjestu strašnu gdje buèi pustoš; vodi ga unaokolo, uèi ga i èuva kao zjenicu oka svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Kao što orao izmamljuje orliæe svoje, diže se nad ptiæima svojim, širi krila svoja, uzima ih i nosi na krilima svojim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tako ga Gospod voðaše, i s njim ne bješe tuðega boga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Voðaše ga na visine zemaljske da jede rod poljski, i davaše mu da sisa med iz stijene i ulje iz tvrdoga kamena,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Maslo od krava i mlijeko od ovaca s pretilinom od jaganjaca i ovnova Vasanskih i jaraca, sa srcem zrna pšeniènih; i pio si vino, krv od grožða."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ali se Izrailj ugoji, pa se stade ritati; utio si, udebljao i zasalio; pa ostavi Boga koji ga je stvorio, i prezre stijenu spasenja svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Na revnost razdražiše ga tuðim bogovima, gadovima razgnjeviše ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Prinosiše žrtve ðavolima, ne Bogu, bogovima, kojih nijesu znali, novim, koji iz bliza doðoše, kojih se nijesu strašili oci vaši."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Stijenu koja te je rodila zaboravio si; zaboravio si Boga stvoritelja svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Kad to vidje Gospod, razgnjevi se na sinove svoje i na kæeri svoje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I reèe: sakriæu od njih lice svoje, vidjeæu kakav æe im biti pošljedak, jer su rod pokvaren, sinovi u kojima nema vjere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Oni me razdražiše na revnost onijem što nije Bog, razgnjeviše svojim taštinama; i ja æu njih razdražiti na revnost onijem koji nije narod, narodom ludijem razljutiæu ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer se oganj razgorio u gnjevu mojem, i gorjeæe do najdubljega pakla; spaliæe zemlju i rod njezin, i popaliæe temelje brdima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Zgrnuæu na njih zla, strijele svoje pobacaæu na njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Glad æe ih cijediti, vruæice i ljuti pomori proždiraæe ih; i zube zvjerske poslaæu na njih i jed zmija zemaljskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Spolja æe ih ubijati maè, a po klijetima strah, i momka i djevojku, dijete na sisi i sijeda èovjeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Rekao bih: rasijaæu ih po svijem uglovima zemaljskim, uèiniæu da nestane spomena njihova izmeðu ljudi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Da mi nije do mržnje neprijateljeve, da se ne bi neprijatelji njihovi ponijeli i rekli: ruka se naša uzvisila, a nije Gospod uèinio sve ovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Jer su narod koji propada sa svojih namjera, i nema u njih razuma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Kamo da su pametni, da razumiju ovo, i gledaju na pošljedak svoj!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Kako bi jedan gonio tisuæu a dvojica tjerala deset tisuæa, da ih nije stijena njihova prodala i Gospod ih predao?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Jer stijena njihova nije kao naša stijena; neprijatelji naši neka budu sudije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Jer je èokot njihov od èokota Sodomskoga i iz polja Gomorskoga; grožðe je njihovo grožðe otrovno, puca su mu gorka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Vino je njihovo otrov zmajevski, i ljuti jed aspidin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Nije li to sakriveno kod mene, zapeèaæeno u riznicama mojim?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Moja je osveta i plata, u svoje vrijeme popuznuæe noga njihova, jer je blizu dan propasti njihove, i ide brzo što æe ih zadesiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Sudiæe Gospod narodu svojemu, i žao æe mu biti sluga njegovijeh, kad vidi da je prošla snaga i da nema ništa ni od uhvaæenoga ni od ostavljenoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I reæi æe: gdje su bogovi njihovi? stijena u koju se uzdaše?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Koji salo od žrtava njegovijeh jedoše i piše vino od naljeva njihovijeh. Neka ustanu i pomogu vam, i neka vam budu zaklon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Vidite sada da sam ja, ja sam, i da nema Boga osim mene. Ja ubijam i oživljujem, ranim i iscjeljujem, i nema nikoga ko bi izbavio iz moje ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Jer podižem k nebu ruku svoju i kažem: ja sam živ dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Ako naoštrim sjajni maè svoj i uzmem u ruku sud, uèiniæu osvetu na neprijateljima svojim i vratiæu onima koji mrze na me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Opojiæu strijele svoje krvlju, i maè æe se moj najesti mesa, krvlju isjeèenijeh i zarobljenijeh, kad poènem osvetu na neprijateljima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Veselite se narodi s narodom njegovijem, jer æe pokajati krv sluga svojih, i osvetiæe se neprijateljima svojim, i oèistiæe zemlju svoju i narod svoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "I doðe Mojsije i izgovori sve rijeèi pjesme ove narodu, on i Isus sin Navin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "A kad izgovori Mojsije sve rijeèi ove svemu Izrailju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Reèe im: privijte srce svoje k svijem rijeèima koje vam ja danas zasvjedoèavam, i kazujte ih sinovima svojim da bi držali sve rijeèi ovoga zakona i tvorili ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Jer nije prazna rijeè da za nju ne marite, nego je život vaš; i tom æete rijeèju produljiti dane svoje na zemlji, u koju idete preko Jordana da je naslijedite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "U isti dan reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Izidi na ovu goru Avarimsku, na goru Navav, koja je u zemlji Moavskoj prema Jerihonu, i vidi zemlju Hanansku koju dajem sinovima Izrailjevijem u državu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "I umri na gori na koju izideš, i priberi s k rodu svojemu, kao što je umro Aron brat tvoj na gori Oru i pribrao se k rodu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Jer mi zgriješiste meðu sinovima Izrailjevijem na vodi od svaðe u Kadisu, u pustinji Sinu, što me ne proslaviste meðu sinovima Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Pred sobom æeš vidjeti zemlju, ali neæeš u nju uæi, u zemlju koju dajem sinovima Izrailjevijem."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DEU/32.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 32
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DEU/33.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 33
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DEU/31.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 31
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 52
+}

@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JAS",
+    "translationId": "srp_865",
+    "name": "Jakovljeva",
+    "commonName": "Jakovljeva",
+    "title": "Jakovljeva Poslanica",
+    "order": 59,
+    "numberOfChapters": 5,
+    "sha256": "21cfe09caf879d1b1a5ca12e171596d98f31cbc473e755a3e126b31a640fb831",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JAS/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JAS",
+      "chapter": 1
+    },
+    "lastChapterNumber": 5,
+    "lastChapterApiLink": "/api/srp_865/JAS/5.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JAS",
+      "chapter": 5
+    },
+    "totalNumberOfVerses": 108
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Od Jakova, Boga i Gospoda Isusa Hrista sluge, svima dvanaest koljena rasijanijem po svijetu pozdravlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Svaku radost imajte, braæo moja, kad padate u razliène napasti,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Znajuæi da kušanje vaše vjere gradi trpljenje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A trpljenje neka djelo dovršuje, da budete savršeni i cijeli bez ikake mane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ako li kome od vas nedostaje premudrosti, neka ište u Boga koji daje svakome bez razlike i ne kori nikoga, i daæe mu se;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ali neka ište s vjerom, ne sumnjajuæi ništa; jer koji se sumnja on je kao morski valovi, koje vjetrovi podižu i razmeæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer takovi èovjek neka ne misli da æe primiti što od Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Koji dvoumi nepostojan je u svima putovima svojijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A poniženi brat neka se hvali visinom svojom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A bogati svojom poniznošæu; jer æe proæi kao cvijet travni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer sunce ogrija s vruæinom, i osuši travu, i cvijet njezin otpade, i krasota lica njezina pogibe; tako æe i bogati u hoðenju svojemu uvenuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Blago èovjeku koji pretrpi napast; jer kad bude kušan primiæe vijenac života, koji Bog obreèe onima koji ga ljube."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nijedan kad se kuša da ne govori: Bog me kuša; jer se Bog ne može zlom iskušati, i on ne kuša nikoga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Nego svakoga kuša njegova slast, koja ga vuèe i mami."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tada zatrudnjevši slast raða grijeh; a grijeh uèinjen raða smrt."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ne varajte se, ljubazna braæo moja!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Svaki dobri dar i svaki poklon savršeni odozgo je, dolazi od oca svjetlosti, u kojega nema promjenjivanja ni mijenjanja vidjela i mraka;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer nas dragovoljno porodi rijeèju istine, da budemo novina od njegova stvorenja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Zato, ljubazna braæo moja, neka bude svaki èovjek brz èuti a spor govoriti i spor srditi se;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer srdnja èovjeèija ne èini pravde Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Zato odbacite svaku neèistotu i suvišak zlobe, i s krotošæu primite usaðenu rijeè koja može spasti duše vaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Budite pak tvorci rijeèi, a ne samo slušaèi, varajuæi sami sebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer ako ko sluša rijeè a ne tvori, on je kao èovjek koji gleda lice tijela svojega u ogledalu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer se ogleda pa otide, i odmah zaboravi kakav bješe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ali koji providi u savršeni zakon slobode i ostane u njemu, i ne bude zaboravni slušaè, nego tvorac djela, onaj æe biti blažen u djelu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ako koji od vas misli da vjeruje, i ne zauzdava jezika svojega, nego vara srce svoje, njegova je vjera uzalud."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jer vjera èista i bez mane pred Bogom i ocem jest ova: obilaziti sirote i udovice u njihovijem nevoljama, i držati sebe neopoganjena od svijeta."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JAS/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JAS",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JAS/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JAS",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/HEB/13.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 13
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

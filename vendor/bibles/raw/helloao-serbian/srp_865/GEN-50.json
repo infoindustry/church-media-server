@@ -1,0 +1,258 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 50,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada Josif pade na lice ocu svojemu, i plaka nad njim cjelujuæi ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I zapovjedi Josif slugama svojim ljekarima da mirisima pomažu oca njegova; i ljekari pomazaše mirisima Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I navrši mu se èetrdeset dana, jer toliko dana treba onijem koje pomažu mirisima; i plakaše za njim Misirci sedamdeset dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A kad proðoše žalosni dani, reèe Josif domašnjima Faraonovijem govoreæi: ako sam našao milost pred vama, govorite Faraonu i recite:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Otac me je moj zakleo govoreæi: evo, ja æu skoro umrijeti; u grobu mojem, koji iskopah u zemlji Hananskoj, ondje me pogrebi. Pa sada da idem da pogrebem oca svojega, a poslije æu opet doæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A Faraon mu reèe: idi, pogrebi oca svojega kako te je zakleo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I otide Josif da pogrebe oca svojega; i s njim poðoše sve sluge Faraonove, starješine od doma njegova i sve starješine od zemlje Misirske,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I sav dom Josifov i braæa njegova i dom oca njegova; samo djecu svoju i ovce svoje i goveda svoja ostaviše u zemlji Gesemskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A poðe s njim i kola i konjika toliko da bješe vojska vrlo velika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A kad doðoše na gumno Atadovo, koje je s onu stranu Jordana, plakaše ondje mnogo i vrlo tužno; i Josif uèini žalost za ocem svojim za sedam dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A ljudi iz one zemlje, Hananejci, kad vidješe plaè na gumnu Atadovu, rekoše: u velikoj su žalosti Misirci. Zato prozvaše ono mjesto s onu stranu Jordana žalost Misirska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I uèiniše mu sinovi njegovi kako im bješe zapovjedio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Odnesoše ga sinovi njegovi u zemlju Hanansku, i pogreboše ga u peæini na njivi Makpelskoj, koju kupi Avram da ima svoj grob u Efrona Hetejina prema Mamriji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I pogrebavši oca svojega vrati se Josif u Misir i braæa njegova i svi koji bijahu izašli s njim da pogrebu oca njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A braæa Josifova videæi gdje im otac umrije, rekoše: može biti da se Josif srdi na nas, pa æe nam se osvetiti za sve zlo što mu uèinismo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Zato poruèiše Josifu: otac tvoj zapovjedi na smrti i reèe:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ovako kažite Josifu: molim te, oprosti braæi svojoj bezakonje i grijeh, što ti pakostiše; sada oprosti bezakonje slugama Boga oca tvojega. A Josif zaplaka se kad mu to rekoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Poslije doðoše i braæa njegova i padoše pred njim i rekoše: evo smo sluge tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A Josif im reèe: ne bojte se, zar sam ja mjesto Boga?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Vi ste mislili zlo po me, ali je Bog mislio dobro, da uèini što se danas zbiva, da se saèuva u životu mnogi narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ne bojte se dakle; ja æu hraniti vas i vašu djecu. Tako ih utješi i oslobodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Tako življaše Josif u Misiru s domom oca svojega, i poživje sto i deset godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I vidje Josif sinove Jefremove do treæega koljena; i sinovi Mahira sina Manasijina rodiše se i odrastoše na koljenima Josifovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I reèe Josif braæi svojoj: ja æu skoro umrijeti; ali æe vas zacijelo Bog pohoditi, i izvešæe vas iz ove zemlje u zemlju za koju se zakleo Avramu, Isaku i Jakovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I zakle Josif sinove Izrailjeve i reèe: zaista æe vas pohoditi Bog; a vi onda odnesite kosti moje odavde."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Potom umrije Josif, a bješe mu sto i deset godina; i pomazavši ga mirisima metnuše ga u kovèeg u Misiru."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/50.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 50
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/49.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 49
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 26
+}

@@ -1,0 +1,349 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "srp_865",
+    "name": "Mateju",
+    "commonName": "Mateju",
+    "title": "Jevanðelje po Mateju",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "2282cb47d4ecce5bfb50178a05f4b87b8f4e94d2e2954aa2bd38500539980051",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/MAT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada pristupiše k Isusu književnici i fariseji od Jerusalima govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Zašto uèenici tvoji prestupaju obièaje starijeh? Jer ne umivaju ruku svojijeh kad hljeb jedu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A on odgovarajuæi reèe im: zašto i vi prestupate zapovijest Božiju za obièaje svoje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer Bog zapovijeda govoreæi: poštuj oca i mater; i koji opsuje oca ili mater smræu da umre."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A vi kažete: ako koji reèe ocu ili materi: prilog je èim bih ti ja mogao pomoæi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Može i da ne poštuje oca svojega ili matere. I ukidoste zapovijest Božiju za obièaje svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Licemjeri! dobro je za vas prorokovao Isaija govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ovi ljudi približavaju se k meni ustima svojijem, i usnama poštuju me; a srce njihovo daleko stoji od mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "No zaludu me poštuju uèeæi naukama i zapovijestima ljudskima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I dozvavši ljude, reèe im: slušajte i razumijte."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ne pogani èovjeka što ulazi u usta; nego što izlazi iz usta ono pogani èovjeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada pristupiše uèenici njegovi i rekoše mu: znaš li da fariseji èuvši tu rijeè sablazniše se?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A on odgovarajuæi reèe: svako drvo koje nije usadio otac moj nebeski, iskorijeniæe se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ostavite ih: oni su slijepi voði slijepcima; a slijepac slijepca ako vodi, oba æe u jamu pasti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Petar odgovarajuæi reèe mu: kaži nam prièu ovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Isus reèe: eda li ste i vi još nerazumni?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Zar još ne znate da sve što ulazi u usta u trbuh ide, i izbacuje se napolje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A što izlazi iz usta od srca izlazi, i ono pogani èovjeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer od srca izlaze zle misli, ubistva, preljube, kurvarstva, kraðe, lažna svjedoèanstva, hule na Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I ovo je što pogani èovjeka, a neumivenijem rukama jesti ne pogani èovjeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I izišavši odande Isus otide u krajeve Tirske i Sidonske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I gle, žena Hananejka iziðe iz onijeh krajeva, i povika k njemu govoreæi: pomiluj me Gospode sine Davidov! moju kæer vrlo muèi ðavo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A on joj ne odgovori ni rijeèi. I pristupivši uèenici njegovi moljahu ga govoreæi: otpusti je, kako vièe za nama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A on odgovarajuæi reèe: ja sam poslan samo k izgubljenijem ovcama doma Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A ona pristupivši pokloni mu se govoreæi: Gospode pomozi mi!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A on odgovarajuæi reèe: nije dobro uzeti od djece hljeb i baciti psima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A ona reèe: da, Gospode, ali i psi jedu od mrva što padaju s trpeze njihovijeh gospodara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Tada odgovori Isus, i reèe joj: o ženo! velika je vjera tvoja; neka ti bude kako hoæeš. I ozdravi kæi njezina od onoga èasa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I otišavši Isus odande, doðe k moru Galilejskom, i popevši se na goru, sjede ondje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I pristupiše k njemu ljudi mnogi koji imahu sa sobom hromijeh, slijepijeh, nijemijeh, uzetijeh i drugijeh mnogijeh, i položiše ih k nogama Isusovijem, i iscijeli ih,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Tako da se narod divljaše, videæi nijeme gdje govore, uzete zdrave, hrome gdje idu, i slijepe gdje gledaju; i hvališe Boga Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A Isus dozvavši uèenike svoje reèe: žao mi je ovoga naroda, jer veæ tri dana stoje kod mene i nemaju šta jesti; a nijesam ih rad otpustiti gladne da ne oslabe na putu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I rekoše mu uèenici njegovi: otkuda nam u pustinji toliki hljeb da se nasiti toliki narod?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I reèe im Isus: koliko hljebova imate? A oni rekoše: sedam, i malo ribice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I zapovjedi narodu da posjedaju po zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I uzevši onijeh sedam hljebova i ribe, i davši hvalu, prelomi, i dade uèenicima svojijem, a uèenici narodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I jedoše svi, i nasitiše se; i nakupiše komada što preteèe sedam kotarica punijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A onijeh što su jeli bijaše èetiri hiljade ljudi, osim žena i djece."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I otpustivši narod uðe u laðu, i doðe u okoline Magdalske."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAT/15.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 15
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/16.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 16
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAT/14.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 14
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 39
+}

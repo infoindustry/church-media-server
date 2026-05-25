@@ -1,0 +1,300 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "srp_865",
+    "name": "1. Dnevnika",
+    "commonName": "1. Dnevnika",
+    "title": "1. Dnevnika",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "8ea0acc08b93472f39af29d769974347b255ab628ab40782b4687010563cbf90",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 29,
+    "lastChapterApiLink": "/api/srp_865/1CH/29.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 29
+    },
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 23,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I tako David star i sit života postavi Solomuna sina svojega carem nad Izrailjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I sabra sve knezove Izrailjeve i sveštenike i Levite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I biše izbrojeni Leviti od trideset godina i više, i bješe ih na broj s glave na glavu trideset i osam tisuæa ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Izmeðu njih bijaše dvadeset i èetiri tisuæe odreðenijeh na posao u domu Gospodnjem, a šest tisuæa upravitelja i sudija;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A èetiri tisuæe vratara i èetiri tisuæe koji hvaljahu Gospoda uz oruða koja naèini za hvalu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I razdijeli ih David u redove po sinovima Levijevim, Girsonu, Katu i Merariju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Od Girsona bijahu: Ladan i Simej;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Sinovi Ladanovi: poglavar Jehilo i Zetam i Joilo, trojica;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Sinovi Simejevi: Selomit i Azilo i Haran, trojica. To su poglavari otaèkih porodica Ladanovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A sinovi Simejevi: Jat, Zina i Jeus i Verija, ta su èetvorica sinovi Simejevi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Jat bijaše poglavar, a Ziza drugi; a Jeus i Verija nemahu mnogo djece, zato se brojahu u jedan dom otaèki."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Sinovi Katovi: Amram, Isar, Hevron i Ozilo, èetvorica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Sinovi Amramovi: Aron i Mojsije. Ali Aron bi odvojen da osveæuje svetinju nad svetinjama, on i sinovi njegovi dovijeka, da kade pred Gospodom, da mu služe i da blagosiljaju u ime njegovo dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A sinovi Mojsija èovjeka Božijega broje se u pleme Levijevo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Sinovi Mojsijevi: Girsom i Elijezer."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Sinovi Girsomovi: Sevuilo poglavar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A sinovi Elijezerovi: Reavija poglavar. A nemaše Elijezer više sinova, nego se sinovi Reavijini umnožiše veoma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Sinovi Isarovi: Selomit poglavar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Sinovi Hevronovi: Jerija prvi, Amarija drugi, Jazilo treæi, i Jekameam èetvrti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Sinovi Ozilovi: Miha prvi i Jesija drugi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Sinovi Merarijevi: Malije i Musije. Sinovi Malijevi: Eleazar i Kis."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A Eleazar umrije i ne imaše sinova nego samo kæeri, i njima se oženiše sinovi Kisovi, braæa njihova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Sinovi Musijevi: Malije i Eder i Jeremot, trojica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "To su sinovi Levijevi po otaèkim domovima svojim, poglavari domova otaèkih, koji biše izbrojeni po broju imena s glave na glavu, koji raðahu posao za službu u domu Gospodnjem, od dvadeset godina i više."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Jer David reèe: mir dade Gospod Bog Izrailjev narodu svojemu, i nastavaæe u Jerusalimu dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I Leviti neæe više nositi šatora i posuða njegova za službu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jer po pošljednjoj naredbi Davidovoj biše izbrojeni sinovi Levijevi od dvadeset godina i više;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Jer odreðeni bijahu da pomažu sinovima Aronovijem u službi u domu Gospodnjem u trijemovima i u klijetima, i da èiste sve svete stvari i da rade oko službe u domu Gospodnjem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I oko hljebova postavljenijeh, i oko bijeloga brašna za dar i oko kolaèa prijesnijeh i oko tavica, i oko svega što se prži, i oko svake mjere,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I da stoje jutrom i hvale i slave Gospoda, i tako veèerom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I kad se god prinose žrtve paljenice Gospodu, u subote, i na mladine i praznike, u broju po redu svom svagda pred Gospodom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I da rade što treba raditi u šatoru od sastanka i u svetinji, i za sinove Aronove, braæu svoju, u službi u domu Gospodnjem."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CH/23.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 23
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CH/24.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 24
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CH/22.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 22
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 32
+}

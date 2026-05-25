@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "REV",
+    "translationId": "srp_865",
+    "name": "Apokalipsa",
+    "commonName": "Apokalipsa",
+    "title": "Otkrivenje Jovanovo — Apokalipsa",
+    "order": 66,
+    "numberOfChapters": 22,
+    "sha256": "03ca27b48572b751a11a8d2525edcfa3d35a43f752bf5506e16685bb264b5230",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/REV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 22,
+    "lastChapterApiLink": "/api/srp_865/REV/22.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 22
+    },
+    "totalNumberOfVerses": 404
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I anðelu Sardske crkve napiši: tako govori onaj što ima sedam Duhova Božijih, i sedam zvijezda: znam tvoja djela, da imaš ime da si živ, a mrtav si."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Straži, i utvrðuj ostale koji hoæe da pomru; jer ne naðoh tvojijeh djela savršenijeh pred Bogom svojijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Opominji se dakle, kako si primio i kako si èuo, i drži i pokaj se. Ako li ne uzastražiš, doæi æu na tebe kao lupež, i neæeš èuti u koji æu èas doæi na tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ali imaš malo imena i u Sardu, koji ne opoganiše svojijeh haljina, i hodiæe sa mnom u bijelima, jer su dostojni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Koji pobijedi on æe se obuæi u haljine bijele, i neæu izbrisati imena njegova iz knjige života, i priznaæu ime njegovo pred ocem svojijem i pred anðelima njegovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ko ima uho neka èuje šta govori Duh crkvama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I anðelu Filadelfijske crkve napiši: tako govori sveti istiniti, koji ima kljuè Davidov, koji otvori i niko ne zatvori, koji zatvori i niko ne otvori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Znam tvoja djela; gle, dadoh pred tobom vrata otvorena, i niko ih ne može zatvoriti; jer imaš malo sile, i držao si moju rijeè, i nijesi se odrekao imena mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Evo dajem one iz zbornice sotonine koji govore da su Jevreji a nijesu, nego lažu; evo æu ih uèiniti da doðu i da se poklone pred nogama tvojima, i da poznadu da te ja ljubim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer si održao rijeè trpljenja mojega, i ja æu tebe saèuvati od èasa iskušenja, koji æe doæi na sav vasioni svijet da iskuša one koji žive na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Evo æu doæi brzo: drži što imaš, da niko ne uzme vijenca tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Koji pobijedi uèiniæu ga stub u crkvi Boga svojega, i više neæe iziæi napolje; i napisaæu na njemu ime Boga svojega, i ime novoga Jerusalima, grada Boga mojega, koji silazi s neba od Boga mojega, i ime moje novo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ko ima uho neka èuje šta govori Duh crkvama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I anðelu Laodikijske crkve napiši: tako govori Amin, svjedok vjerni i istiniti, poèetak stvorenja Božijega:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Znam tvoja djela da nijesi ni studen ni vruæ. O da si studen ili vruæ!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tako, buduæi mlak, i nijesi ni studen ni vruæ, izbljuvaæu te iz usta svojijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer govoriš: bogat sam, i obogatio sam se, i ništa ne potrebujem; a ne znaš da si ti nesreæan, i nevoljan, i siromah, i slijep, i go."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Svjetujem te da kupiš u mene zlata žeženoga u ognju, da se obogatiš; i bijele haljine, da se obuèeš, i da se ne pokaže sramota golotinje tvoje; i masti oèinjom pomaži oèi svoje da vidiš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ja koje god ljubim one i karam i pouèavam; postaraj se dakle, i pokaj se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Evo stojim na vratima i kucam: ako ko èuje glas moj i otvori vrata, uæi æu k njemu i veèeraæu s njime, i on sa mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Koji pobijedi daæu mu da sjede sa mnom na prijestolu mojemu, kao i ja što pobijedih i sjedoh s ocem svojijem na prijestolu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ko ima uho neka èuje šta govori Duh crkvama."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/REV/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/REV/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/REV/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

@@ -1,0 +1,286 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOB",
+    "translationId": "srp_865",
+    "name": "Jov",
+    "commonName": "Jov",
+    "title": "Jov",
+    "order": 18,
+    "numberOfChapters": 42,
+    "sha256": "8862f4cbf1254f76fa7ea0a123da4bc2d61eebd46a2620b1499e0771fad0ee95",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 42,
+    "lastChapterApiLink": "/api/srp_865/JOB/42.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 42
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 22,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Elifas Temanac odgovori i reèe:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Može li Bogu biti èovjek koristan? Sam je sebi koristan èovjek mudar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Je li svemoguæemu radost, ako si pravedan? ili mu je dobit, ako hodiš bez mane?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Hoæe li te karati i iæi na sud s tobom zato što te se boji?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nije li zloæa tvoja velika? i nepravdama tvojim ima li kraja?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer si uzimao zalog od braæe svoje ni za što, i svlaèio si haljine s golijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Umornoga nijesi napojio vode, i gladnome nijesi dao hljeba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Zemlja je bila èovjeka silnoga, i ugledni je sjedio u njoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Udovice si otpuštao prazne, i mišice sirotama potirao si."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zato su oko tebe zamke, i straši te strah iznenada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I mrak je oko tebe da ne vidiš, i povodanj pokriva te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nije li Bog na visini nebeskoj? pogledaj gore zvijezde, kako su visoko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ali ti kažeš: šta zna Bog? eda li æe kroz tamu suditi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Oblaci ga zaklanjaju, te ne vidi; hoda po krugu nebeskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jesi li zapazio stari put kojim su išli nepravednici,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Koji se iskorijeniše prije vremena i voda se razli po temelju njihovu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Govorahu Bogu: idi od nas. Šta bi im uèinio svemoguæi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A on im je napunio kuæe dobra. Ali namjera bezbožnièka daleko je od mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Vidjeæe pravednici i radovaæe se, i bezazleni potsmijevaæe im se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Da, još nije uništeno dobro naše, a ostatak je njihov proždro oganj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Složi se s njim i pomiri se; tako æe ti biti dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Primi iz usta njegovijeh zakon, i složi rijeèi njegove u srcu svom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ako se vratiš k svemoguæemu, opet æeš se nazidati, ako udaljiš od šatora svojih bezakonje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Tada æeš metati po prahu zlato i Ofirsko zlato po kamenju iz potoka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I svemoguæi biæe ti zlato i srebro i sila tvoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jer æeš se tada radovati o Gospodu, i podignuæeš k Bogu lice svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Moliæeš mu se, i uslišiæe te, i zavjete svoje izvršiæeš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Što god naumiš, izlaziæe ti; i na putovima tvojim svijetliæe vidjelo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Kad drugi budu poniženi, reæi æeš: da se podignu; i Bog æe izbaviti onoga ko je oborenijeh oèiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Izbaviæe i onoga koji nije bez krivice; izbaviæe se èistotom ruku tvojih."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOB/22.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 22
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOB/23.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 23
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOB/21.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 21
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 30
+}

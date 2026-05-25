@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Rijeè koja doðe u utvari Isaiji sinu Amosovu za Judu i za Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Biæe u potonja vremena gora doma Gospodnjega utvrðena uvrh gora i uzvišena iznad humova, i stjecaæe se k njoj svi narodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I iæi æe mnogi narodi govoreæi: hodite da idemo na goru Gospodnju, u dom Boga Jakovljeva, i uèiæe nas svojim putovima, i hodiæemo stazama njegovijem; jer æe iz Siona izaæi zakon, i rijeè Gospodnja iz Jerusalima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I sudiæe meðu narodima, i karaæe mnoge narode, te æe raskovati maèeve svoje na raonike, i koplja svoja na srpove, neæe dizati maèa narod na narod, niti æe se više uèiti boju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Dome Jakovljev, hodi da idemo po svjetlosti Gospodnjoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ali si ostavio svoj narod, dom Jakovljev, jer su puni zala istoènijeh i gataju kao Filisteji, i mili su im sinovi tuðinski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I zemlja je njihova puna srebra i zlata, i blagu njihovu nema kraja; zemlja je njihova puna konja, i kolima njihovijem nema kraja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Puna je zemlja njihova i idola; djelu ruku svojih klanjaju se, što naèiniše prsti njihovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I klanjaju se prosti ljudi, i savijaju se glavni ljudi; nemoj im oprostiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Uði u stijenu, i sakrij se u prah od straha Gospodnjega i od slave velièanstva njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ponosite oèi èovjeèije poniziæe se, i visina ljudska ugnuæe se, a Gospod æe sam biti uzvišen u onaj dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer æe doæi dan Gospoda nad vojskama na sve ohole i ponosite i na svakoga koji se podiže, te æe biti poniženi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I na sve kedre Livanske velike i visoke i na sve hrastove Vasanske,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I na sve gore visoke i na sve humove izdignute,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I na svaku kulu visoku i na svaki zid tvrdi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I na sve laðe Tarsiske i na sve likove mile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tada æe se ponositost ljudska ugnuti i visina se ljudska poniziti, i Gospod æe sam biti uzvišen u onaj dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I idola æe nestati sasvijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I ljudi æe iæi u peæine kamene i u rupe zemaljske od straha Gospodnjega i od slave velièanstva njegova, kad ustane da potre zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Tada æe baciti èovjek idole svoje srebrne i idole svoje zlatne, koje naèini sebi da im se klanja, krticama i slijepijem mišima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ulazeæi u rasjeline kamene i u peæine kamene od straha Gospodnjega i od slave velièanstva njegova, kad ustane da potre zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Proðite se èovjeka, kojemu je dah u nosu; jer šta vrijedi?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

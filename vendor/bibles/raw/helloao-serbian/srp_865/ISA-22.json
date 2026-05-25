@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 22,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Breme dolini viðenja. Što ti je te si sva izašla na krovove?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Grade puni vike i vreve, grade veseli! tvoji pobijeni nijesu pobijeni maèem niti pogiboše u boju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Glavari tvoji uzmakoše svikoliki, povezaše ih strijelci; što se god naðe tvojih, svi su povezani, ako i pobjegoše daleko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Zato rekoh: proðite me se, da plaèem gorko; ne trudite se da me tješite za pogiblju kæeri naroda mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer je ovo dan muke i potiranja i smetnje od Gospoda, Gospoda nad vojskama, u dolini viðenja; obaliæe zid, i vika æe biti do gore."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I Elam uze tul, s kolima ljudi i s konjicima, i Kir istaèe štit."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I krasne doline tvoje napuniše se kola, i konjici se namjestiše pred vratima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I odastrije se zastiraè Judin; i pogledao si u to vrijeme na oružje u kuæi šumskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I vidjeste da je mnogo proloma na gradu Davidovu, i sabraste vodu u donjem jezeru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I izbrojiste kuæe Jerusalimske, i razvaliste kuæe da utvrdite zid."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I naèiniste jaz meðu dva zida za vodu iz staroga jezera; ali ne pogledaste na onoga koji je to uèinio i ne obazreste se na onoga koji je to odavna spremio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I zva vas Gospod nad vojskama u onaj dan da plaèete i ridate i da skubete kose i pripašete kostrijet;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A gle, radost i veselje, ubijaju goveda, kolju ovce, jedu meso i piju vino govoreæi: jedimo i pijmo, jer æemo sjutra umrijeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ali Gospod nad vojskama javi mi: neæe vam se oprostiti ovo bezakonje do smrti, veli Gospod, Gospod nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ovako veli Gospod, Gospod nad vojskama: idi k onomu riznièaru, k Somni, upravitelju dvorskom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I reci mu: šta æeš ti tu? i ko ti je tu? te si tu istesao sebi grob? istesao si sebi grob na visoku mjestu i spremio si sebi stan u kamenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Evo, èovjeèe, Gospod æe te baciti daleko i zatrpaæe te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Zavitlaæe te i hititi kao loptu u zemlju prostranu; ondje æeš umrijeti i ondje æe biti kola slave tvoje, sramoto domu gospodara svojega;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I svræi æu te s mjesta tvojega, i istjeraæu te iz službe tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I u to vrijeme pozvaæu slugu svojega Elijakima sina Helkijina;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I obuæi æu mu tvoju haljinu, i tvojim æu ga pojasom opasati, i tvoju æu mu vlast dati u ruku, i biæe otac Jerusalimljanima i domu Judinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I metnuæu mu kljuè od doma Davidova na rame: kad on otvori, neæe niko zatvoriti, i kad on zatvori, neæe niko otvoriti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I kao klin uglaviæu ga na tvrdu mjestu, i biæe prijesto slave domu oca svojega;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I o njemu æe se vješati sva slava doma oca njegova, sinova i unuka, svakojaki sudovi, i najmanji, i èaše i mjehovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "U to vrijeme, veli Gospod nad vojskama, pomjeriæe se klin uglavljeni na tvrdom mjestu, i izvadiæe se i pašæe, i teža što je na njemu propašæe; jer Gospod reèe."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/22.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 22
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/23.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 23
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/21.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 21
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 38,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Sefatija sin Matanov i Godolija sin Pashorov i Juhal sin Selemijin i Pashor sin Malhijin èuše rijeèi koje govori Jeremija svemu narodu rekavši:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ovako veli Gospod: ko ostane u tom gradu, poginuæe od maèa, od gladi ili od pomora; a ko otide ka Haldejcima, ostaæe živ, i duša æe mu njegova biti mjesto plijena, i biæe živ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ovako veli Gospod: doista æe taj grad biti predan u ruke vojsci cara Vavilonskoga, i uzeæe ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I rekoše knezovi caru: da se pogubi taj èovjek, jer on oslabljava ruke vojnicima koji ostaše u ovom gradu, i ruke svemu narodu govoreæi im take rijeèi, jer taj èovjek ne traži dobra ovom narodu nego zlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A car Sedekija reèe: eto, u vašim je rukama; jer car ne može ništa suprot vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tada uzeše Jeremiju i baciše ga u jamu Malhije sina Amelehova, koja bijaše u trijemu od tamnice, i spustiše Jeremiju o užima; a u jami ne bješe vode, nego glib, i Jeremija se uvali u glib."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ali kad èu Avdemeleh Etiopljanin, dvoranin, koji bijaše u dvoru carevu, da su metnuli Jeremiju u onu jamu, a car sjeðaše na vratima Venijaminovijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Izide Avdemeleh iz dvora careva i reèe caru govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Care gospodaru moj, zlo uèiniše ti ljudi u svemu što uèiniše Jeremiji proroku bacivši ga u jamu, jer bi i ondje gdje je bio od gladi umro, jer nema više hljeba u gradu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zato car zapovjedi Avdemelehu Etiopljaninu govoreæi: uzmi odavde trideset ljudi i izvadi Jeremiju proroka iz jame dok nije umro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tada uze Avdemeleh ljude, i doðe u dom carev pod riznicu, i uze odande iznošenijeh haljina i starijeh rita, i spusti ih Jeremiji u jamu o užima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I reèe Avdemeleh Etiopljanin Jeremiji: podmetni te stare haljine i rite pod pazuha ispod uža. I uèini Jeremija tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I izvukoše Jeremiju na užima i izvadiše ga iz jame; i osta Jeremija u trijemu od tamnice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Potom car Sedekija posla po Jeremiju proroka, te ga dovedoše preda nj u treæi ulazak koji bijaše u domu Gospodnjem; i reèe car Jeremiji: zapitaæu te nešto, nemoj mi zatajiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Jeremija reèe Sedekiji: da ti kažem, neæeš li me pogubiti? a da te svjetujem, neæeš me poslušati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tada se car Sedekija zakle Jeremiji nasamo govoreæi: tako da je živ Gospod, koji nam je stvorio ovu dušu, neæu te pogubiti niti æu te dati u ruke ljudima koji traže dušu tvoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tada Jeremija reèe Sedekiji: ovako veli Gospod Bog nad vojskama, Bog Izrailjev: ako otideš ka knezovima cara Vavilonskoga, živa æe ostati duša tvoja, i grad ovaj neæe izgorjeti ognjem, i tako æeš ostati u životu ti i dom tvoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ako li ne otideš ka knezovima cara Vavilonskoga, ovaj æe grad biti predan u ruke Haldejcima, koji æe ga spaliti ognjem, i ti neæeš uteæi iz ruku njihovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A car Sedekija reèe Jeremiji: ja se bojim Judejaca koji su prebjegli ka Haldejcima, da me ne predadu u njihove ruke, te æe mi se narugati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Jeremija reèe: neæe te predati; poslušaj glas Gospodnji, koji ti ja govorim, i dobro æe ti biti i živa æe biti tvoja duša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ako li neæeš da izideš, ovo je što mi pokaza Gospod:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Gle, sve žene koje su ostale u domu cara Judina, odvešæe se ka knezovima cara Vavilonskoga, i one æe reæi: nagovoriše te i prevariše te prijatelji tvoji; noge ti se uvališe u glib, a oni se povukoše natrag."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Sve žene tvoje i sinovi tvoji odvešæe se Haldejcima, i ti neæeš uteæi iz ruku njihovijeh; nego æeš dopasti u ruke caru Vavilonskom, i ovaj æe grad izgorjeti ognjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Tada reèe Sedekija Jeremiji: niko da ne dozna za te rijeèi, da ne pogineš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ako li knezovi èuvši da sam govorio s tobom doðu k tebi i reku ti: kaži nam šta si govorio caru, nemoj tajiti od nas, pa te neæemo pogubiti, i šta je car tebi govorio?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Reci im: ja pripadoh k caru moleæi se da me ne pošlje natrag u dom Jonatanov da umrem ondje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I doðoše svi knezovi k Jeremiji i pitaše ga; a on im odgovori sasvijem kako mu zapovjedi car. I okaniše ga se, jer ne doznaše ništa od toga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A Jeremija osta u trijemu od tamnice do dana kad uzeše Jerusalim; i on bijaše ondje kad uzeše Jerusalim."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/38.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 38
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/39.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 39
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/37.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 37
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

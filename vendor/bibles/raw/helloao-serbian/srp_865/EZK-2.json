@@ -1,0 +1,146 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I reèe mi: sine èovjeèji, ustani na noge da govorim s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I uðe u me duh kad mi progovori, i postavi me na noge, i slušah onoga koji mi govoraše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reèe mi: sine èovjeèji, ja te šaljem k sinovima Izrailjevijem, k narodima odmetnièkim, koji se odmetnuše mene; oni i oci njihovi biše mi nevjerni do ovoga dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "K sinovima tvrda obraza i uporna srca šaljem te ja, pa im reci: tako veli Gospod;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I poslušali ili ne poslušali, jer su dom odmetnièki, neka znaju da je prorok bio meðu njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I ti, sine èovjeèji, ne boj ih se niti se boj njihovijeh rijeèi, što su ti uporni i kao trnje i živiš meðu skorpijama; ne boj se njihovijeh rijeèi i ne plaši se od njih, što su dom odmetnièki."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nego im kaži rijeèi moje, poslušali ili ne poslušali, jer su odmetnici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ali ti, sine èovjeèji, slušaj što æu ti kazati, ne budi nepokoran kao taj dom nepokorni; otvori usta, i pojedi što æu ti dati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I pogledah, a to ruka pružena k meni, i gle, u njoj savijena knjiga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I razvi je preda mnom, i bješe ispisana iznutra i spolja, i bješe u njoj napisan plaè i naricanje i jaoh."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 10
+}

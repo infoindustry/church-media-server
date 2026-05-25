@@ -1,0 +1,314 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Teško onima koji postavljaju zakone nepravedne i koji pišu nepravdu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Da odbiju od suda uboge, i da otimaju pravicu siromasima naroda mojega, da bi im plijen bile udovice i sirote grabež."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A što æete èiniti u dan pohoðenja i pogibli koja æe doæi izdaleka? kome æete pribjeæi za pomoæ? gdje li æete ostaviti slavu svoju?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Da se ne bi unizila meðu roblje i meðu pobijene pala? Kod svega toga neæe se odvratiti gnjev njegov, nego æe ruka njegova još biti podignuta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Teško Asiru, šibi gnjeva mojega, ako i jest palica u ruci njegovoj moja jarost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Na narod licemjerni poslaæu ga, i zapovjediæu mu za narod na koji se gnjevim, da plijeni i otima, i da ga izgazi kao blato na ulicama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ali on neæe tako misliti i srce njegovo neæe tako suditi, nego mu je u srcu da zatre i istrijebi mnoge narode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer æe reæi: knezovi moji nijesu li svi carevi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nije li Halan kao Harhemis? nije li Emat kao Arfad? nije li Samarija kao Damasak?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Kako je ruka moja našla carstva lažnijeh bogova, kojih likovi bijahu jaèi od Jerusalimskih i Samarijskih,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Neæu li uèiniti Jerusalimu i njegovijem lažnijem bogovima onako kako sam uèinio Samariji i njezinijem lažnijem bogovima?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ali kad svrši Gospod sve djelo svoje na gori Sionskoj i u Jerusalimu, tada æu obiæi plod ohologa srca cara Asirskoga i slavu ponositijeh oèiju njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer reèe: krjepošæu ruke svoje uèinih i mudrošæu svojom, jer sam razuman; i premjestih meðe narodima i blago njihovo zaplijenih i kao junak oborih stanovnike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I ruka moja naðe kao gnijezdo bogatstvo u naroda, i kako se kupe jajca ostavljena tako pokupih svu zemlju, i ne bi nikoga da makne krilom ili da otvori usta i pisne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Hoæe li se sjekira velièati nad onijem koji njom sijeèe? hoæe li se pila razmetati nad onijem koji njom radi? kao da bi prut mahao onijem koji ga digne, kao da bi se hvalio štap da nije od drveta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Zato æe Gospod, Gospod nad vojskama, pustiti na pretile njegove mršu, i slavu æe njegovu potpaliti da gori kao oganj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer æe vidjelo Izrailjevo biti oganj, i svetac æe njegov biti plamen, i upaliæe i sažeæi trnje njegovo i èkalj njegov u jedan dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I krasotu šume njegove i njive njegove, od duše do tijela, uništiæe, i biæe kao bjegunac kad iznemogne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I što ostane drveta šume njegove, biæe malo, da bi ih dijete moglo popisati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I u to vrijeme ostatak Izrailjev i koji se izbave u domu Jakovljevu neæe se više oslanjati na onoga ko ih bije, nego æe se oslanjati na Gospoda sveca Izrailjeva istinom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ostatak æe se obratiti, ostatak Jakovljev, k Bogu silnome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer ako bude naroda tvojega, Izrailju, kao pijeska morskoga, ostatak æe se njegov obratiti. Pogibao je odreðena, razliæe se pravda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer æe Gospod, Gospod nad vojskama, izvršiti pogibao odreðenu u svoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Zato ovako veli Gospod, Gospod nad vojskama: ne boj se Asirca, narode moj, koji nastavaš na gori Sionu; prutom æe te udariti i štap svoj podignuæe na te kao u Misiru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Jer još malo, i gnjev æe prestati; tada æe se jarost moja obratiti na njihovu pogibao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jer æe podignuti na nj Gospod nad vojskama biè, te æe biti kao rasap Madijanski kod kamena Oriva i kao štap njegov na moru, i podignuæe ga kao u Misiru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I tada æe se skinuti breme njegovo s ramena tvojega i jaram njegov s vrata tvojega, i izlomiæe se jaram od pomazanja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Doðe u Ajat, proðe u Migron, u Mihmasu rasprti prtljag svoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Poðoše klancem, u Gavaji zanoæiše, prepade se Rama, Gavaja Saulova pobježe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Vièi iza glasa, kæeri Galimova; nek se èuje u Lais, jadni Anatote!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Madmina pobježe, stanovnici Gevimski utekoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Još jedan dan, pa æe stajati u Novu, mahnuæe rukom svojom na goru kæeri Sionske, na hum Jerusalimski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Gle, Gospod, Gospod nad vojskama, okresaæe silom grane; što je visoko posjeæi æe, i što je uzdignuto sniziæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I gustu æe šumu isjeæi sjekirom, i Livan æe pasti od silnoga."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/10.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 10
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/11.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 11
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/9.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 9
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 34
+}

@@ -1,0 +1,447 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "srp_865",
+    "name": "Luki",
+    "commonName": "Luki",
+    "title": "Jevanðelje po Luki",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "71d24bae001865beafd9dc8b76f8e93d8f927bd8e33391ea4aebbf53673c6a27",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LUK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/LUK/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 24,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A u prvi dan nedjeljni doðoše vrlo rano na grob, i donesoše mirise što pripraviše, i neke druge žene s njima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ali naðoše kamen odvaljen od groba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I ušavši ne naðoše tijela Gospoda Isusa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I kad se one èuðahu tome, gle, dva èovjeka staše pred njima u sjajnijem haljinama;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A kad se one uplašiše i oboriše lica k zemlji, rekoše im: što tražite živoga meðu mrtvima?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nije ovdje; nego ustade; opomenite se kako vam kaza kad bješe još u Galileji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Govoreæi da sin èovjeèij treba da se preda u ruke ljudi grješnika i da se razapne i treæi dan da ustane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I opomenuše se rijeèi njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I vrativši se od groba javiše sve ovo jedanaestorici i svima ostalijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A to bijaše Magdalina Marija i Jovana i Marija Jakovljeva i ostale s njima koje kazaše ovo apostolima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I njima se uèiniše njihove rijeèi kao laž, i ne vjerovaše im."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A Petar ustavši otrèa ka grobu, i natkuèivši se vidje same haljine gdje leže, i otide èudeæi se u sebi šta bi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I gle, dvojica od njih iðahu u onaj dan u selo koje bijaše daleko od Jerusalima šeset potrkališta i zvaše se Emaus."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A oni govorahu meðu sobom o svima ovijem dogaðajima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I kad se oni razgovarahu i zapitivahu jedan drugoga, i Isus približi se, i iðaše s njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A oèi im se držahu da ga ne poznaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A on im reèe: kakav je to razgovor koji imate meðu sobom iduæi, i što ste neveseli?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A jedan po imenu Kleopa, odgovarajuæi reèe mu: zar si ti jedan od crkvara u Jerusalimu koji nijesi èuo šta je u njemu bilo ovijeh dana?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I reèe im: šta? A oni mu rekoše: za Isusa Nazareæanina, koji bješe prorok, silan u djelu i u rijeèi pred Bogom i pred svijem narodom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Kako ga predadoše glavari sveštenièki i knezovi naši te se osudi na smrt, i razapeše ga?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A mi se nadasmo da je on onaj koji æe izbaviti Izrailja; ali svrh svega toga ovo je danas treæi dan kako to bi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A uplašiše nas i žene neke od našijeh koje su bile rano na grobu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I ne našavši tijela njegova doðoše govoreæi da su im se anðeli javili koji su kazali da je on živ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I idoše jedni od našijeh na grob, i naðoše tako kao što i žene kazaše, ali njega ne vidješe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I on im reèe: o bezumni i sporoga srca za vjerovanje svega što govoriše proroci!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Nije li to trebalo da Hristos pretrpi i da uðe u slavu svoju?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I poèevši od Mojsija i od sviju proroka kazivaše im što je za njega u svemu pismu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I približiše se k selu u koje iðahu, i on èinjaše se da hoæe dalje da ide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I oni ga ustavljahu govoreæi: ostani s nama, jer je dan nagao, i blizu je noæ. I uðe s njima da noæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I kad sjeðaše s njima za trpezom, uze hljeb i blagoslovivši prelomi ga i dade im."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Tada se njima otvoriše oèi i poznaše ga. I njega nestade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I oni govorahu jedan drugome: ne goraše li naše srce u nama kad nam govoraše putem i kad nam kazivaše pismo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I ustavši onaj èas, vratiše se u Jerusalim, i naðoše u skupu jedanaestoricu i koji bijahu s njima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Koji govorahu: zaista ustade Gospod, i javi se Simonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I oni kazaše što bi na putu, i kako ga poznaše kad prelomi hljeb."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A kad oni ovo govorahu, i sam Isus stade meðu njima, i reèe im: mir vam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A oni se uplašiše, i poplašeni buduæi, mišljahu da vide duha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I reèe im: šta se plašite? I zašto takove misli ulaze u srca vaša?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Vidite ruke moje i noge moje: ja sam glavom; opipajte me i vidite; jer duh tijela i kostiju nema kao što vidite da ja imam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I ovo rekavši pokaza im ruke i noge."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A dok oni još ne vjerovahu od radosti i èuðahu se reèe im: imate li ovdje što za jelo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A oni mu daše komad ribe peèene, i meda u satu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I uzevši izjede pred njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "I reèe im: ovo su rijeèi koje sam vam govorio još dok sam bio s vama, da sve treba da se svrši što je za mene napisano u zakonu Mojsijevu i u prorocima i u psalmima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Tada im otvori um da razumiju pismo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "I reèe im: tako je pisano, i tako je trebalo da Hristos postrada i da ustane iz mrtvijeh treæi dan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "I da se propovijeda pokajanje u ime njegovo i oproštenje grijeha po svijem narodima poèevši od Jerusalima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "A vi ste svjedoci ovome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "I gle, ja æu poslati obeæanje oca svojega na vas; a vi sjedite u gradu Jerusalimskome dok se ne obuèete u silu s visine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "I izvede ih napolje do Vitanije, i podignuvši ruke svoje blagoslovi ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "I kad ih blagosiljaše, otstupi od njih, i uznošaše se na nebo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "I oni mu se pokloniše, i vratiše se u Jerusalim s velikom radošæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "I bijahu jednako u crkvi hvaleæi i blagosiljajuæi Boga. Amin."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LUK/24.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 24
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JHN/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LUK/23.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 23
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 53
+}

@@ -1,0 +1,314 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 52,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Dvadeset i jedna godina bijaše Sedekiji kad poèe carovati, i carova jedanaest godina u Jerusalimu. Materi mu bješe ime Amutala kæi Jeremijina, iz Livne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "On èinjaše što je zlo pred Gospodom sasvijem kako je èinio Joakim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer od gnjeva Gospodnjega zbi se Jerusalimu i Judi, te ih odbaci ispred sebe. A Sedekija se odmetnu od cara Vavilonskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I tako devete godine njegova carovanja, desetoga dana doðe Navuhodonosor car Vavilonski sa svom vojskom svojom na Jerusalim; i stadoše u oko pod njim, i naèiniše opkope oko njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I grad bi opkoljen do jedanaeste godine carovanja Sedekijina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I devetoga dana èetvrtoga mjeseca nasta velika glad u gradu, te narod zemaljski nemaše hljeba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tada grad bi provaljen, i vojnici svi pobjegoše i izidoše iz grada noæu na vrata izmeðu dva zida uz vrt carev, a Haldejci bijahu svuda oko grada; i otidoše putem k pustinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ali vojska Haldejska potjera cara, i stigoše Sedekiju u polju Jerihonskom, a sva vojska što bijaše s njim razbježe se od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I uhvatiše cara i odvedoše ga k caru Vavilonskom u Rivlu u zemlji Ematskoj; i ondje mu sudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I pokla car Vavilonski sinove Sedekijine na njegove oèi, i sve knezove Judine pokla u Rivli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I Sedekiji iskopa oèi, i svezav ga u dvoje verige mjedene odvede ga car Vavilonski u Vavilon i metnu ga u tamnicu, gdje osta do smrti svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A desetoga dana petoga mjeseca godine devetnaeste carovanja Navuhodonosora cara Vavilonskoga doðe u Jerusalim Nevuzardan zapovjednik stražarski, koji služaše caru Vavilonskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I popali dom Gospodnji i dom carski i sve domove u Jerusalimu; sve velike kuæe popali ognjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I sve zidove Jerusalimske unaokolo razvali sva vojska Haldejska što bijaše sa zapovjednikom stražarskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A narod siromašni i ostatak naroda što osta u gradu, i prebjege što prebjegoše k caru Vavilonskom, i ostali prosti narod, odvede Nevuzardan zapovjednik stražarski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Samo od siromašnoga naroda u zemlji ostavi Nevuzardan zapovjednik stražarski koji æe biti vinogradari i ratari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I stupove mjedene što bijahu u domu Gospodnjem, i podnožja i more mjedeno koje bijaše u domu Gospodnjem, izlomiše Haldejci, i mjed od njih odnesoše u Vavilon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I lonce i lopate i viljuške i kotliæe i kadionice i sve sudove mjedene kojima služahu, uzeše,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I umivaonice i kliješta s kotliæima i loncima i svijetnjacima i kadionicama i èašama, što god bijaše zlatno i što god bijaše srebrno, uze zapovjednik stražarski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Dva stupa, jedno more, i dvanaest volova mjedenijeh što bijahu pod podnožjima, što naèini car Solomun za dom Gospodnji, ne bješe mjere mjedi od svijeh tijeh sudova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A stupovi bijahu svaki od osamnaest lakata u visinu, a unaokolo od dvanaest lakata, a èetiri prsta bješe svaki debeo i šupalj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I ozgo na njemu bijaše oglavlje mjedeno, i oglavlje bješe visoko pet lakata, i pletenica i šipci oko oglavlja, sve od mjedi; taki bijaše i drugi stup sa šipcima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I bijaše devedeset i šest šipaka sa svake strane; svega šipaka na pletenici unaokolo bijaše sto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Uze zapovjednik stražarski i Seraju prvoga sveštenika i Sofoniju drugoga sveštenika, i tri vratara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A iz grada uze jednoga dvoranina, koji bijaše nad vojnicima, i sedam ljudi koji stajahu pred carem, koji se naðoše u gradu, i prvoga pisara vojnièkoga, koji popisivaše narod po zemlji u vojsku, i šezdeset ljudi iz naroda zemaljskoga, koji se naðoše u gradu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Uze ih Nevuzardan zapovjednik stražarski i odvede k caru Vavilonskom u Rivlu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A car ih Vavilonski pobi i pogubi u Rivli u zemlji Ematskoj. Tako bi preseljen Juda iz zemlje svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ovo je narod što ga preseli Navuhodonosor: sedme godine tri tisuæe i dvadeset i tri Judejca;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Godine osamnaeste Navuhodonosorove preseli iz Jerusalima osam stotina i trideset i dvije duše;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Godine dvadeset treæe Navuhodonosorove preseli Nevuzardan zapovjednik stražarski Judejaca sedam stotina i èetrdeset i pet duša; svega èetiri tisuæe i šest stotina duša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A trideset sedme godine otkako se zarobi Joahin car Judin, dvanaestoga mjeseca, dvadeset petoga dana, Evil-Merodah car Vavilonski iste godine zacariv se izvadi iz tamnice Joahina cara Judina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I lijepo govori s njim, i namjesti mu prijesto više prijestola drugih careva koji bijahu kod njega u Vavilonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I promijeni mu haljine tamnièke, i on jeðaše svagda s njim svega vijeka svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I hrana mu se jednako davaše od cara Vavilonskoga svaki dan svega vijeka njegova do smrti njegove."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/52.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 52
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LAM/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LAM",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/51.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 51
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 34
+}

@@ -1,0 +1,398 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1KI",
+    "translationId": "srp_865",
+    "name": "1. Kraljevima",
+    "commonName": "1. Kraljevima",
+    "title": "1. Kraljevima",
+    "order": 11,
+    "numberOfChapters": 22,
+    "sha256": "876ee89adf3ca9c88149d73fc7a5fe2947fa3921a637898e9d808d4c90bad1b4",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1KI/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1KI",
+      "chapter": 1
+    },
+    "lastChapterNumber": 22,
+    "lastChapterApiLink": "/api/srp_865/1KI/22.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1KI",
+      "chapter": 22
+    },
+    "totalNumberOfVerses": 817
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Poslije mnogo vremena, treæe godine, doðe rijeè Gospodnja Iliji govoreæi: idi, pokaži se Ahavu, i pustiæu dažd na zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I otide Ilija da se pokaže Ahavu, a bijaše velika glad u Samariji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I Ahav dozva Avdiju, koji bijaše upravitelj dvora njegova; a Avdija se bojaše Gospoda veoma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer kad Jezavelja ubijaše proroke Gospodnje, uze Avdija sto proroka, i sakri ih, po pedeset u jednu peæinu, i hrani ih hljebom i vodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I reèe Ahav Avdiji: poði po zemlji na izvore i na potoke, eda bismo našli trave da saèuvamo u životu konje i mazge, da nam ne izgine stoka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I podijeliše meðu se zemlju kuda æe iæi; Ahav otide jednijem putem sam, a Avdija otide drugim putem sam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kad Avdija bijaše na putu, gle, srete ga Ilija; i on ga pozna, i pade nièice, i reèe: jesi li ti, gospodaru moj Ilija?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A on mu reèe: ja sam; idi, kaži gospodaru svojemu: evo Ilije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A on reèe: šta sam zgriješio, da slugu svojega predaš u ruke Ahavu da me pogubi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Tako da je živ Gospod Bog tvoj, nema naroda ni carstva kuda nije slao gospodar moj da te traže: i rekoše: nema ga. A on zakle carstva i narode da te ne mogu da naðu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A ti sada kažeš: idi, kaži gospodaru svojemu: evo Ilije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A kad ja otidem od tebe, duh æe te Gospodnji odnijeti, a ja neæu znati kuda; pa da otidem i prokažem Ahavu, a on da te ne naðe, ubiæe me; a sluga se tvoj boji Gospoda od mladosti svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nije li kazano gospodaru mojemu šta sam uèinio kad Jezavelja ubijaše proroke Gospodnje? kako sakrih stotinu proroka Gospodnjih, po pedeset u jednu peæinu, i hranih ih hljebom i vodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A ti sada kažeš: idi, kaži gospodaru svojemu: evo Ilije. Ubiæe me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Ilija reèe: tako da je živ Gospod nad vojskama, pred kojim stojim, danas æu mu se pokazati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tada otide Avdija pred Ahava, i kaza mu; i Ahav otide pred Iliju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A kad vidje Ahav Iliju, reèe mu Ahav: jesi li ti onaj što nesreæu donosiš na Izrailja?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A on reèe: ne donosim ja nesreæe na Izrailja, nego ti i dom oca tvojega ostavivši zapovijesti Gospodnje i pristavši za Valima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nego sada pošlji i saberi k meni svega Izrailja na goru Karmilsku, i èetiri stotine i pedeset proroka Valovijeh i èetiri stotine proroka iz luga, koji jedu za stolom Jezaveljinim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I posla Ahav k svijem sinovima Izrailjevijem, i sabra one proroke na goru Karmilsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tada pristupi Ilija ka svemu narodu i reèe: dokle æete hramati na obje strane? Ako je Gospod Bog, idite za njim; ako li je Val, idite za njim. Ali narod ne odgovori mu ni rijeèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A Ilija reèe narodu: ja sam sam ostao prorok Gospodnji; a proroka Valovijeh ima èetiri stotine i pedeset."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Dajte nam dva junca, i neka oni izberu sebi jednoga, i neka ga isijeku na komade i metnu na drva, ali ognja da ne podmeæu; a ja æu prigotoviti drugoga junca, i metnuæu ga na drva, ali ognja neæu podmetati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Tada prizovite ime svojih bogova, a ja æu prizvati ime Gospodnje, pa koji se Bog odzove ognjem onaj neka je Bog. I sav narod odgovori i reèe: dobro reèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Potom reèe Ilija prorocima Valovijem: izaberite sebi jednoga junca i prigotovite ga prvo, jer je vas više; i prizovite ime bogova svojih, ali ognja ne podmeæite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I uzeše junca, kojega im dade, i prigotoviše, i stadoše prizivati ime Valovo od jutra do podne govoreæi: Vale, usliši nas! Ali ni kaka glasa ni koga da odgovori. I skakahu oko oltara, koji naèiniše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A kad bi u podne, stade im se rugati Ilija govoreæi: vièite veæma; jer je on bog! valjada se nešto zamislio, ili je u poslu, ili na putu, ili može biti spava, da se probudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A oni stadoše vikati iza glasa, i parati se nožima i šilima po svom obièaju, dokle ih krv ne obli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A kad proðe podne, stadoše prorokovati dokle doðe vrijeme da se prinese dar; ali ni kaka glasa ni koga da odgovori, ni koga da èuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Tada reèe Ilija svemu narodu: pristupite k meni. I pristupi k njemu sav narod. Tada on opravi oltar Gospodnji koji bješe razvaljen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I uze Ilija dvanaest kamena prema broju plemena sinova Jakova, kojemu doðe rijeè Gospodnja govoreæi: Izrailj æe ti biti ime."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I naèini od toga kamenja oltar u ime Gospodnje, i oko oltara iskopa opkop širok da bi se mogle posijati dvije mjere žita."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I namjesti drva, i junca isjeèena na komade metnu na drva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I reèe: napunite èetiri vijedra vode, i izlijte na žrtvu i na drva. Pa opet reèe: uèinite još jednom. I uèiniše još jednom. Pa opet reèe: uèinite i treæom. I uèiniše treæom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Te voda poteèe oko oltara, i napuni se opkop vode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A kad bi vrijeme da se prinese žrtva, pristupi Ilija prorok i reèe: Gospode Bože Avramov, Isakov i Izrailjev, neka danas poznadu da si ti Bog u Izrailju i ja da sam tvoj sluga, i da sam po tvojoj rijeèi uèinio sve ovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Usliši me, Gospode, usliši me, da bi poznao ovaj narod da si ti Gospode Bog, kad opet obratiš srca njihova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Tada pade oganj Gospodnji i spali žrtvu paljenicu i drva i kamen i prah, i vodu u opkopu popi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A narod kad to vidje sav popada nièice, i rekoše: Gospod je Bog, Gospod je Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Tada im reèe Ilija: pohvatajte te proroke Valove da nijedan ne uteèe. I pohvataše ih, i Ilija ih odvede na potok Kison, i pokla ih ondje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I reèe Ilija Ahavu: idi, jedi i pij, jer uji veliki dažd."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I otide Ahav da jede i pije; a Ilija se pope na vrh Karmila, i saže se k zemlji i metnu lice svoje meðu koljena svoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "A momku svojemu reèe: idi, pogledaj put mora. A on otišav pogleda, pa reèe: nema ništa. I reèe mu: idi opet sedam puta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "A kad bi sedmi put, reèe: eno, mali oblak kao dlan èovjeèji diže se od mora. Tada reèe: idi, reci Ahavu: preži i idi, da te ne uhvati dažd."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Utom se zamraèi nebo od oblaka i vjetra, i udari velik dažd. A Ahav sjedavši na kola otide u Jezrael."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "A ruka Gospodnja doðe nad Iliju, i on opasavši se otrèa pred Ahavom dokle doðe u Jezrael."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1KI/18.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1KI",
+    "chapter": 18
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1KI/19.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1KI",
+    "chapter": 19
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1KI/17.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1KI",
+    "chapter": 17
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 46
+}

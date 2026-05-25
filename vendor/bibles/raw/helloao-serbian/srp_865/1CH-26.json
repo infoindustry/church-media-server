@@ -1,0 +1,300 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "srp_865",
+    "name": "1. Dnevnika",
+    "commonName": "1. Dnevnika",
+    "title": "1. Dnevnika",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "8ea0acc08b93472f39af29d769974347b255ab628ab40782b4687010563cbf90",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 29,
+    "lastChapterApiLink": "/api/srp_865/1CH/29.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 29
+    },
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 26,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A redovi vratarski bijahu: od sinova Korejevih bijaše Meselemija sin Korejev izmeðu sinova Asafovijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A sinovi Meselemijini: Zaharija prvenac, Jediailo drugi, Zevadija treæi, Jatnilo èetvrti,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Elam peti, Joanan šesti, Elioinaj sedmi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I Ovid-Edomovi sinovi: Semaja prvenac, Jozavad drugi, Joah treæi i Sahar èetvrti i Natanailo peti,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Amilo šesti, Isahar sedmi, Feultaj osmi; jer ga blagoslovi Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I Semaji sinu njegovu rodiše se sinovi, koji starješovahu u domu oca svojega, jer bijahu dobri junaci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Sinovi Semajini: Gotnije i Rafailo i Ovid i Elzavad braæa njegova, hrabri ljudi, Eliuj i Semahija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Svi ovi bijahu od sinova Ovid-Edomovijeh, i oni i sinovi njihovi i braæa njihova, svi hrabri ljudi, krjepki za službu, bijaše ih šezdeset i dva od Ovid-Edoma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Meselemijinih sinova i braæe, hrabrijeh ljudi, bijaše osamnaest."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Osini sinovi, od sinova Merarijevih: Simrije poglavar, premda ne bješe prvenac, ali ga otac postavi poglavarem;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Helkija drugi, Tevalija treæi, Zaharija èetvrti; svijeh sinova i braæe Osine bijaše trinaest."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Od njih bijahu redovi vratarski po poglavarima da èuvaju stražu naizmjence s braæom svojom služeæi u domu Gospodnjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer metaše ždrijeb za maloga kao i za velikoga po domovima svojih otaca, za svaka vrata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I pade ždrijeb na istok Selimiji; a Zahariji sinu njegovu, mudromu savjetniku, kad baciše ždrijeb, pade mu ždrijeb na sjever;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Ovid-Edomu na jug, a sinovima njegovijem na riznicu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Sufimu i Osi na zapad s vratima Salehetskim na putu koji ide gore; straža bješe prema straži:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "S istoka šest Levita; sa sjevera èetiri na dan; s juga na dan èetiri; a kod riznice po dva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Na Parvaru sa zapada èetiri na putu, dva kod Parvara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "To su redovi vratarski meðu sinovima Korejevim i sinovima Merarijevim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I ovi još bijahu Leviti: Ahija nad blagom doma Božijega, nad blagom od posveæenijeh stvari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Od sinova Ladanovijeh izmeðu sinova Girsonovijeh od Ladana, izmeðu glavara domova otaèkih od Ladana sina Girsonova bijaše Jehilo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Sinovi Jehilovi: Zetam i Joilo brat mu bijahu nad blagom doma Gospodnjega;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Od sinova Amramovijeh, Isarovijeh, Hevronovijeh, Ozilovijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Bijaše Sevuilo sin Girsona sina Mojsijeva starješina nad blagom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A braæa njegova od Elijezera: Reavija sin mu, a njegov sin Jesaija, a njegov sin Joram, a njegov sin Zihrije, a njegov sin Selomit;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ovaj Selomit i braæa njegova bijahu nad svijem blagom od posveæenijeh stvari, koje posveti car David i poglavari domova otaèkih i tisuænici i stotinici i vojvode;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Od ratova i od plijena posvetiše da se opravi dom Gospodnji;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I što god bješe posvetio Samuilo vidjelac i Saul sin Kisov i Avenir sin Nirov i Joav sin Serujin; ko god posveæivaše, davaše u ruke Selomitu i braæi njegovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Od sinova Isarovijeh: Henanija i sinovi njegovi bijahu nad spoljašnjim poslovima u Izrailju, upravitelji i sudije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Od sinova Hevronovijeh Asavija i braæa njegova, tisuæa i sedam stotina hrabrijeh ljudi, bijahu nad Izrailjem s ovu stranu Jordana na istoku za svaki posao Gospodnji i za službu carsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Izmeðu sinova Hevronovijeh bijaše Jerija poglavar sinovima Hevronovijem po porodicama njihovijem i domovima otaèkim. Èetrdesete godine carovanja Davidova potražiše ih i naðoše meðu njima hrabrijeh junaka u Jaziru Galadskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I braæe njegove, hrabrijeh ljudi, bijaše dvije tisuæe i sedam stotina glavara u domovima otaèkim; i postavi ih car David nad sinovima Ruvimovijem i Gadovijem i polovinom plemena Manasijina za sve poslove Božije i carske."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CH/26.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 26
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CH/27.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 27
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CH/25.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 25
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 32
+}

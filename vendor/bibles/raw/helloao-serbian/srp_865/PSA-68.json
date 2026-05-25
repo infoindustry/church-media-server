@@ -1,0 +1,321 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 68,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ustaæe Bog, i rasuæe se neprijatelji njegovi, i pobjeæi æe od lica njegova koji mrze na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ti æeš ih razagnati kao dim što se razgoni; kao što se vosak topi od ognja, tako æe bezbožnici izginuti od lica Božijega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A pravednici æe se veseliti, radovaæe se pred Bogom, i slaviti u radosti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Pojte Bogu, popijevajte imenu njegovu; ravnite put onome što ide preko pustinje; Gospod mu je ime, radujte mu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Otac je sirotama i sudija udovicama Bog u svetome stanu svom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Bog samcima daje zadrugu, sužnje izvodi na mjesta obilna, a nepokorni žive gdje je suša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Bože! kad si išao pred narodom svojim, kad si išao preko pustinje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Zemlja se tresijaše, i nebo se rastapaše od lica Božijega, i ovaj Sinaj od lica Boga, Boga Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Blagodatni si dažd izlivao, Bože, i kad iznemagaše dostojanje tvoje, ti si ga krijepio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Stado tvoje življaše ondje; po dobroti svojoj, Bože, ti si gotovio hranu jadnome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Gospod daje rijeè; glasnika veliko je mnoštvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Carevi nad vojskama bježe, bježe, a koja sjedi doma, dijeli plijen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Smirivši se u svojim krajevima, vi ste kao golubica, kojoj su krila posrebrena a perje joj se zlatni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Kad je svemoguæi rasipao careve na ovoj zemlji, ona se blistaše kao snijeg na Selmonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Gora je Vasanska gora Božija; gora je Vasanska gora humovita."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Zašto gledate zavidljivo, gore humovite? Evo gora, na kojoj omilje Bogu živjeti, i na kojoj æe Gospod živjeti dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Kola Božijih ima sila, tisuæe tisuæa. Meðu njima je Gospod, Sinaj u svetinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ti si izašao na visinu, doveo si roblje, primio darove za ljude, a i za one koji se protive da ovdje nastavaš, Gospode Bože!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Blagosloven Gospod svaki dan! Ako nas ko pretovara, Bog nam pomaže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ovaj je Bog naš Bog spasitelj, u vlasti su Gospodu vrata smrtna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Gospod satire glavu neprijateljima svojim i vlasato tjeme onoga koji ostaje u bezakonju svojem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Reèe Gospod: od Vasana æu dovesti, dovešæu iz dubine morske,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Da ti ogrezne noga u krvi neprijateljskoj i jezik pasa tvojih da je liže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Vidješe kako ideš, Bože, kako sveto ide Bog moj, car moj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Naprijed iðahu pjevaèi, za njima sviraèi sred djevojaka s bubnjima:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "“Na saboru blagosiljajte Gospoda Boga, koji ste iz izvora Izrailjeva!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ondje mladi Venijamin, starješina njihov; knezovi Judini, vladaoci njihovi; knezovi Zavulonovi, knezovi Neftalimovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Bog tvoj darovao ti je silu. Utvrdi, Bože, ovo što si uèinio za nas!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "U crkvi tvojoj, u Jerusalimu, carevi æe prinositi dare."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ukroti zvijer u ritu, kod volova s teocima naroda, da bi popadali pred tobom sa šipkama srebra; raspi narode koji žele bojeve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Doæi æe vlastela iz Misira, Etiopija æe pružiti ruke svoje k Bogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Carstva zemaljska, pojte Bogu, popijevajte Gospodu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Koji sjedi na nebesima nebesa iskonskih. Evo grmi glasom jakim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Dajte slavu Bogu; velièanstvo je njegovo nad Izrailjem i sila njegova na oblacima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Divan si, Bože, u svetinji svojoj! Bog Izrailjev daje silu i krjepost narodu. Blagosloven Bog!"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/68.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 68
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/69.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 69
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/67.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 67
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

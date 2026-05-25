@@ -1,0 +1,188 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 40,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Rijeè koja doðe Jeremiji od Gospoda kad ga Nevuzardan zapovjednik stražarski pusti iz Rame uzevši ga pošto bješe okovan u verige meðu svijem robljem Jerusalimskim i Judinijem, koje se voðaše u Vavilon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I uzevši zapovjednik stražarski Jeremiju reèe mu: Gospod Bog tvoj izreèe ovo zlo za ovo mjesto;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I nanese i uèini kako reèe, jer zgriješiste Gospodu i ne slušaste glasa njegova, zato vas snaðe ovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ali sada, evo, ja te opraštam danas veriga što su ti na ruku; ako ti je volja poæi sa mnom u Vavilon, hodi, ja æu se brinuti za te; ako li ti nije volja poæi sa mnom u Vavilon, a ti nemoj; evo, sva ti je zemlja otvorena, idi kuda god hoæeš i kuda ti je drago."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ili kad se on još ne vraæa, otidi k njemu, Godoliji sinu Ahikama sina Safanova, kojega je postavio car Vavilonski nad gradovima Judinijem, i ostani s njim meðu narodom, ili idi kuda ti je drago. I dade mu zapovjednik stražarski brašnjenice i dar, i otpusti ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I tako doðe Jeremija ka Godoliji sinu Ahikamovu u Mispu, i osta s njim u narodu, koji još osta u zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A sve vojvode što bjehu u polju i ljudi njihovi kad èuše da je car Vavilonski postavio Godoliju sina Ahikamova nad zemljom, i da je na njemu ostavio ljude i žene i djecu izmeðu siromašnoga naroda u zemlji, koji ne bi odveden u Vavilon,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Doðoše u Mispu ka Godoliji Ismailo sin Netanijin i Joanan i Jonatan sinovi Karijini, i Seraja sin Tanumetov, i sinovi Jofije Netofaæanina, i Jezanija sin nekoga Mahaæanina, oni i ljudi njihovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I zakle se Godolija sin Ahikama sina Safanova njima i ljudima njihovijem govoreæi: ne bojte se službe Haldejcima; ostanite u zemlji, i služite caru Vavilonskom, i dobro æe vam biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A ja evo æu stajati u Mispi da doèekujem Haldejce koji æe dolaziti k nama; a vi berite vinograde i voæe i ulje, i ostavljajte u sudove svoje, i stojte u gradovima svojim koje držite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tako i svi Judejci, koji bijahu meðu Moavcima i sinovima Amonovijem i Edomcima i po svijem zemljama, èuvši da je car Vavilonski ostavio ostatak u Judeji i postavio nad njima Godoliju sina Ahikama sina Safanova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Vratiše se svi Judejci iz svijeh mjesta kuda bijahu razagnani, i doðoše u zemlju Judinu ka Godoliji u Mispu, i nabraše vina i voæa vrlo mnogo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Joanan sin Karijin i sve vojvode što bjehu u polju doðoše ka Godoliji u Mispu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I rekoše mu: znaš li da je Valis car sinova Amonovijeh poslao Ismaila sina Netanijina da te ubije? Ali im ne povjerova Godolija sin Ahikamov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tada Joanan sin Karijin reèe Godoliji nasamo u Mispi govoreæi: idem da ubijem Ismaila sina Netanijina, niko neæe doznati. Zašto da te ubije i da se rasiju svi Judejci koji su se skupili oko tebe i da propadne ostatak Judin?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ali Godolija sin Ahikamov reèe Joananu sinu Karijinu: nemoj to èiniti, jer nije istina što kažeš za Ismaila."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/40.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 40
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/41.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 41
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/39.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 39
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

@@ -1,0 +1,202 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "REV",
+    "translationId": "srp_865",
+    "name": "Apokalipsa",
+    "commonName": "Apokalipsa",
+    "title": "Otkrivenje Jovanovo — Apokalipsa",
+    "order": 66,
+    "numberOfChapters": 22,
+    "sha256": "03ca27b48572b751a11a8d2525edcfa3d35a43f752bf5506e16685bb264b5230",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/REV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 22,
+    "lastChapterApiLink": "/api/srp_865/REV/22.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 22
+    },
+    "totalNumberOfVerses": 404
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I doðe jedan od sedam anðela koji imahu sedam èaša, i govori sa mnom govoreæi mi: hodi da ti pokažem sud kurve velike, koja sjedi na vodama mnogima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "S kojom se kurvaše carevi zemaljski, i koji žive na zemlji opiše se vinom kurvarstva njezina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I uvede me duh u pusto mjesto; i vidjeh ženu gdje sjedi na zvijeri crvenoj koja bješe puna imena hulnijeh i imaše sedam glava i deset rogova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I žena bješe obuèena u porfiru i skerlet i nakiæena zlatom i kamenjem dragijem i biserom, i imaše èašu u ruci svojoj punu mrzosti i poganštine kurvarstva svojega;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I na èelu njezinu napisano ime: tajna, Vavilon veliki, mati kurvama i mrzostima zemaljskima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I vidjeh ženu pijanu od krvi svetijeh i od krvi svjedoka Isusovijeh; i zaèudih se èudom velikijem kad je vidjeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I reèe mi anðeo: šta se èudiš? Ja æu ti kazati tajnu ove žene, i zvijeri što je nosi i ima sedam glava i deset rogova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Zvijer, koju si vidio bješe i nije, i iziæi æe iz bezdana i otiæi æe u propast; i udiviæe se koji žive na zemlji, kojima imena napisana nijesu u knjigu života od postanja svijeta, kad vide zvijer, koja bješe, i nije, i doæi æe opet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ovdje je um, koji ima mudrost. Sedam glava, to su sedam gora na kojima žena sjedi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I jesu sedam careva. Pet je njih palo, i jedan jest, a drugi još nije došao; i kad doðe za malo æe ostati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I zvijer koja bješe i nije, i ona je osmi, i jest od sedmorice i u propast ide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I deset rogova, koje si vidio, to su deset careva, koji carstva još ne primiše, nego æe oblast kao carevi na jedno vrijeme primiti sa zvijeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ovi jednu volju imaju, i silu i oblast svoju daæe zvijeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ovi æe se pobiti s jagnjetom, i jagnje æe ih pobijediti, jer je gospodar nad gospodarima i car nad carevima; i koji su s njim, jesu pozvani i izbrani i vjerni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I reèe mi: vode, što si vidio, gdje sjedi kurva, ono su ljudi i narodi, i plemena i jezici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I deset rogova, što si vidio na zvijeri, oni æe omrznuti na kurvu, i opustošiæe je i ogoluzniti, i meso njezino poješæe i sažeæi æe je ognjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer je Bog dao u srca njihova da uèine volju njegovu, i da uèine volju jednu, i da dadu carstvo svoje zvijeri, dok se svrše rijeèi Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I žena, koju si vidio, jest grad veliki, koji ima carstvo nad carevima zemaljskima."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/REV/17.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 17
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/REV/18.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 18
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/REV/16.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 16
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

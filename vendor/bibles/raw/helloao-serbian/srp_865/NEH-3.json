@@ -1,0 +1,300 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NEH",
+    "translationId": "srp_865",
+    "name": "Nehemija",
+    "commonName": "Nehemija",
+    "title": "Nehemija",
+    "order": 16,
+    "numberOfChapters": 13,
+    "sha256": "b3e002d188e97ff8412d809ae23924019a35a6f9ea4afc2d33f820ac54e43f1c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NEH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NEH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 13,
+    "lastChapterApiLink": "/api/srp_865/NEH/13.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NEH",
+      "chapter": 13
+    },
+    "totalNumberOfVerses": 406
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I usta Elijasiv poglavar sveštenièki i braæa njegova sveštenici i zidaše vrata ovèija, i osvetiše ih i metnuše im krila, i osvetiše ih do kule Meje, do kule Ananeilove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A do njega zidaše Jerihonjani, a do njih zida Zahur sin Imrijev;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A vrata riblja zidaše sinovi Asenajini, oni ih pobrvnaše i metnuše krila i brave i prijevornice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A do njih opravlja Merimot sin Urije sina Akosova; a do njih opravlja Mesulam sin Varahije sina Mesizaveilova; a do njih opravlja Sadok sin Vanin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A do njih opravljaše Tekojani, ali poglavice njihove ne saviše vrata svojega na službu Gospodu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A stara vrata opravlja Jodaj sin Fasejin i Mesulam sin Vesodijin, oni ih pobrvnaše i metnuše krila i brave i prijevornice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A do njih opravljaše Melatija Gavaonjanin i Jadon Meronjanin, ljudi iz Gavaona i iz Mispe do stolice kneza s ove strane rijeke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Do njih opravlja Uzilo sin Arahijin zlatar; a do njega opravlja Ananija sin apotekarski. I ostaviše Jerusalim do širokoga zida."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A do njih opravlja Refaja sin Orov poglavar nad polovinom kraja Jerusalimskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A do njih opravlja Jedaja sin Arumafov prema svojoj kuæi, a do njega opravlja Hatus sin Asavnijin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Toliko opravlja Malhija sin Harimov i Asuv sin Fat-Moavov i kulu kod peæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A do njega opravlja Salum sin Loisov, poglavar nad polovinom kraja Jerusalimskoga sa kæerima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Vrata dolinska opravlja Anun sa stanovnicima Zanojskim; oni ih sagradiše i metnuše krila i brave i prijevornice, i tisuæu lakata zida do gnojnijeh vrata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A gnojna vrata opravlja Malhija sin Rihavov poglavar nad krajem Vet-Keremskim, on ih sagradi i metnu krila i brave i prijevornice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A vrata izvorska opravlja Salum sin Hol-Ozin, poglavar nad krajem u Mispi, on ih sagradi i pokri i metnu im krila i brave i prijevornice; i zid kod banje Siloamske od vrta careva do basamaka koji slaze iz grada Davidova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Za njim opravlja Nemija sin Azvukov poglavar nad polovinom kraja Vet-Surskoga do prema grobovima Davidovijem i do jezera naèinjenoga i do kuæe junaèke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Za njim opravljaše Leviti, Reum sin Vanijev, a do njega opravlja Asavija poglavar nad polovinom kraja Keilskoga sa svojim krajem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Za njim opravljaše braæa njihova, Vavaj sin Inadadov poglavar nad polovinom kraja Keilskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A do njega opravlja Eser sin Isusov poglavar od Mispe toliko prema mjestu kuda se ide k riznici na uglu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Za njim razgorjevši se Varuh sin Zavajev opravlja toliko od ugla do vrata od kuæe Elijasiva poglavara sveštenièkoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Za njim opravlja Merimot sin Urije sina Akosova toliko od vrata kuæe Elijasivove do kraja kuæe Elijasivove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A za njim opravljaše sveštenici koji življahu u ravnici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Za njima opravlja Venijamin i Asuv prema svojim kuæama; a za njima opravlja Azarija sin Masije sina Ananijina uz svoju kuæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Za njim opravlja Vinuj sin Inadadov toliko od kuæe Azarijine do savitka i do ugla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Falal sin Uzajev opravlja prema savitku i prema kuli koja se izdiže iz gornjega doma careva kod trijema tamnièkoga; za njim Fedaja sin Farosov;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I Netineji koji življahu u Ofilu, do prema vratima vodenijem na istok i kuli visokoj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Za njima opravljaše Tekojani toliko prema velikoj kuli visokoj do zida Ofilskoga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Od vrata konjskih opravljaše sveštenici svaki prema svojoj kuæi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Za njima opravlja Sadok sin Imirov prema svojoj kuæi; a za njim opravlja Semaja sin Sehanijin èuvar vrata istoènijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Za njim opravlja Ananija sin Selemijin i Anun šesti sin Salafov, toliko; za njima opravlja Mesulam sin Varahijin prema svojoj klijeti;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Za njim opravlja Malhija sin zlatarev do kuæe Netinejske i trgovaèke prema vratima Mifkadskim do uzbrdice na uglu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A izmeðu uzbrdice na uglu i ovèjih vrata opravljaše zlatari i trgovci."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NEH/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NEH",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NEH/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NEH",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NEH/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NEH",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 32
+}

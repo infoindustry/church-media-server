@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 42,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Potom doðoše sve vojvode i Joanan sin Karijin i Jezanija sin Osajin, i sav narod, malo i veliko,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I rekoše Jeremiji proroku: pusti preda se našu molbu, i pomoli se za nas Gospodu Bogu svojemu, za sav ovaj ostatak, jer nas je ostalo malo od mnogih, kao što nas oèi tvoje vide,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Da bi nam pokazao Gospod Bog tvoj put kojim æemo iæi i šta æemo raditi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A Jeremija prorok reèe im: poslušaæu; evo, pomoliæu se Gospodu Bogu vašemu po vašim rijeèima, i što vam odgovori Gospod kazaæu vam, neæu vam zatajiti ni rijeèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A oni rekoše Jeremiji: Gospod neka nam je svjedok istinit i vjeran da æemo èiniti sve što ti Gospod Bog tvoj zapovjedi za nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Bilo dobro ili zlo, poslušaæemo rijeè Gospoda Boga svojega ka kojemu te šaljemo, da bi nam dobro bilo kad poslušamo glas Gospoda Boga svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A poslije deset dana doðe rijeè Gospodnja Jeremiji;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Te sazva Joanana sina Karijina i sve vojvode što bijahu s njim, i sav narod, malo i veliko,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I reèe im: ovako veli Gospod Bog Izrailjev, ka kojemu me poslaste da iznesem preda nj molbu vašu:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ako ostanete u ovoj zemlji, sazidaæu vas, i neæu vas razoriti, i nasadiæu vas i neæu vas istrijebiti; jer mi je žao sa zla koje sam vam uèinio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ne bojte se cara Vavilonskoga, kojega se bojite; ne bojte ga se, govori Gospod, jer sam ja s vama da vas saèuvam i da vas izbavim iz njegove ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I uèiniæu vam milost da se smiluje na vas, i vrati vas u zemlju vašu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ako li reèete: neæemo da ostanemo u toj zemlji, ne slušajuæi glasa Gospoda Boga svojega"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Govoreæi: ne, nego idemo u zemlju Misirsku, da ne vidimo rata i glasa trubnoga ne èujemo i ne budemo gladni hljeba, i ondje æemo se naseliti,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Onda èujte rijeè Gospodnju, koji ste ostali od Jude; ovako veli Gospod nad vojskama Bog Izrailjev: ako vi okrenete lice svoje da idete u Misir i otidete da se naselite ondje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ondje æe vas u zemlji Misirskoj stignuti maè kojega se bojite, i glad, radi koje se brinete, goniæe vas ondje u Misiru i ondje æete pomrijeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I svi ljudi koji su okrenuli lice svoje da idu u Misir da se ondje nasele, izginuæe od maèa i od gladi i od pomora, i nijedan ih neæe ostati niti æe koji uteæi od zla koje æu pustiti na njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer ovako veli Gospod nad vojskama Bog Izrailjev: kao što se gnjev moj i jarost moja izli na stanovnike Jerusalimske, tako æe se izliti gnjev moj na vas, ako otidete u Misir, i biæete uklin i èudo i kletva i rug, i neæete više vidjeti ovoga mjesta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Gospod vam govori, ostanci Judini! ne idite u Misir. Znajte da vam ja svjedoèim danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer varaste duše svoje kad me poslaste ka Gospodu Bogu svojemu rekavši: pomoli se za nas Gospodu Bogu našemu, i kako reèe Gospod Bog naš, javi nam i uèiniæemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A kad vam javih danas, neæete da poslušate glasa Gospoda Boga svojega niti išta što mi zapovjedi za vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Znajte dakle da æete izginuti od maèa i od gladi i od pomora na mjestu kuda ste radi otiæi da se stanite."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/42.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 42
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/43.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 43
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/41.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 41
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

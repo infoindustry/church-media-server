@@ -1,0 +1,328 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Uzmi Arona i sinove njegove s njim i odijelo i ulje pomazanja i tele za žrtvu radi grijeha i dva ovna i kotaricu prijesnijeh hljebova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I saberi sav zbor pred vrata šatoru od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I uèini Mojsije kako mu zapovjedi Gospod, i sabra se zbor pred vrata šatoru od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I reèe Mojsije zboru: ovo je zapovjedio Gospod da se uèini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I dovede Mojsije Arona i sinove njegove, i opra ih vodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I obuèe mu košulju, i opasa ga pojasom, i ogrnu ga plaštem, i metnu mu svrh njega opleæak, i steže oko njega pojas od opleæka, i opasa ga njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I metnu na nj naprsnik, a na naprsnik metnu Urim i Tumim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Još mu metnu kapu na glavu, i na kapu metnu sprijed ploèu zlatnu, krunu svetu, kao što zapovjedi Gospod Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I uze Mojsije ulje pomazanja, i pomaza šator i sve stvari u njemu, i osveti ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I pokropi njim oltar sedam puta, i pomaza oltar i sve sprave njegove, i umivaonicu i podnožje njezino, da se osveti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I izli ulja pomazanja na glavu Aronu, i pomaza ga da se osveti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I dovede Mojsije sinove Aronove, i obuèe im košulje, i opasa ih pojasom, i veza im kapice na glave, kao što mu bješe zapovjedio Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I dovede tele za grijeh, i Aron i sinovi njegovi metnuše ruke svoje na glavu teletu za grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I zakla ga Mojsije, i uzevši krvi njegove pomaza rogove oltaru unaokolo prstom svojim, i oèisti oltar, a ostalu krv izli na podnožje oltaru, i osveti ga da se na njemu èini oèišæenje od grijeha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I uze sve salo što je na crijevima, i mrežicu s jetre, i oba bubrega, i salo oko njih, i zapali Mojsije na oltaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A tele s kožom i s mesom i balegom spali ognjem iza okola, kao što bješe Gospod zapovjedio Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I dovede ovna za žrtvu paljenicu, i Aron i sinovi njegovi metnuše ruke svoje na glavu ovnu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I zakla ga Mojsije, i pokropi krvlju njegovom oltar ozgo unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I isjekavši ovna na dijelove zapali Mojsije glavu i dijelove i salo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A crijeva i noge opra vodom, i tako spali Mojsije svega ovna na oltaru; i bi žrtva paljenica za ugodni miris, žrtva ognjena Gospodu, kao što bješe Gospod zapovjedio Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I dovede drugoga ovna, ovna za posveæenje; i Aron i sinovi njegovi metnuše ruke svoje na glavu ovnu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I zaklavši ga Mojsije uze krvi njegove, i pomaza njom kraj desnoga uha Aronu i palac desne ruke njegove i palac desne noge njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I dovede Mojsije sinove Aronove, pa i njima pomaza istom krvlju kraj desnoga uha i palac desne ruke i palac desne noge; a ostalu krv izli Mojsije po oltaru unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Potom uze salo i rep i sve salo što je na crijevima, i mrežicu s jetre, i oba bubrega, i salo oko njih, i pleæe desno,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A iz kotarice u kojoj stajahu prijesni hljebovi pred Gospodom uze jedan kolaè prijesan, i jedan kolaè hljeba s uljem i jednu pogaèu, i metnu na salo i na pleæe desno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I metnu to sve Aronu u ruke, i sinovima njegovijem u ruke, i obrnu tamo i amo za žrtvu obrtanu pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Poslije uzevši to iz ruku njihovijeh Mojsije zapali na oltaru svrh žrtve paljenice; to je posveæenje na ugodni miris, žrtva ognjena Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I uze Mojsije grudi, i obrnu ih tamo i amo za žrtvu obrtanu pred Gospodom; i od ovna posvetnoga dopade Mojsiju dio, kao što bješe Gospod zapovjedio Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I uze Mojsije ulja za pomazanje i krvi koja bješe na oltaru, i pokropi Arona i haljine njegove, i sinove njegove i haljine njihove s njim; i tako posveti Arona i haljine njegove, i sinove njegove i haljine njihove s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Potom reèe Mojsije Aronu i sinovima njegovijem: kuhajte to meso na vratima šatora od sastanka, i ondje ga jedite i hljeb posvetni što je u kotarici, kao što sam zapovjedio rekavši: Aron i sinovi njegovi neka jedu to."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A što ostane mesa ili hljeba, ognjem sažezite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I ne izlazite s vrata šatora od sastanka sedam dana, dokle se ne navrše dani posveæenja vašega, jer æete se sedam dana posveæivati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Kako je bilo danas, tako je Gospod zapovjedio da se èini, da biste se oèistili od grijeha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Zato na vratima šatora od sastanka ostanite danju i noæu za sedam dana, i izvršite što je Gospod zapovjedio da izvršite, da ne pomrete, jer mi je tako zapovjeðeno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I Aron i sinovi njegovi uèiniše sve što bješe Gospod zapovjedio preko Mojsija."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 36
+}

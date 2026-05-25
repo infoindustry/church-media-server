@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "SNG",
+    "translationId": "srp_865",
+    "name": "Pesma nad pesmama",
+    "commonName": "Pesma nad pesmama",
+    "title": "Pesma nad pesmama",
+    "order": 22,
+    "numberOfChapters": 8,
+    "sha256": "af3cfd2e645cad0b116a0f29d9f60ede5ded39d17d4e952244af1a28d2d49ea2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/SNG/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "SNG",
+      "chapter": 1
+    },
+    "lastChapterNumber": 8,
+    "lastChapterApiLink": "/api/srp_865/SNG/8.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "SNG",
+      "chapter": 8
+    },
+    "totalNumberOfVerses": 117
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Solomunova pjesma nad pjesmama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Da me hoæe poljubiti poljupcem usta svojih! Jer je tvoja ljubav bolja od vina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mirisom su tvoja ulja prekrasna; ime ti je ulje razlito; zato te ljube djevojke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Vuci me, za tobom æemo trèati; uvede me car u ložnicu svoju; radovaæemo se i veseliæemo se tobom, spominjaæemo ljubav tvoju više nego vino; pravi ljube te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Crna sam, ali lijepa, kæeri Jerusalimske, kao šatori Kidarski, kao zavjesi Solomunovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ne gledajte me što sam crna, jer me je sunce opalilo; sinovi matere moje rasrdivši se na me postaviše me da èuvam vinograde, i ne èuvah svojega vinograda, koji ja imam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Kaži mi ti, kojega ljubi duša moja, gdje paseš, gdje planduješ? jer zašto bih lutala meðu stadima drugova tvojih?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ako ne znaš, najljepša izmeðu žena, poði tragom za stadom, i pasi jariæe svoje pokraj stanova pastirskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ti si mi, draga moja, kao konji u kolima Faraonovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Obrazi su tvoji okiæeni grivnama, i grlo tvoje nizovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Naèiniæemo ti zlatne grivne sa šarama srebrnijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Dok je car za stolom, narad moj pušta svoj miris."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Dragi mi je moj kita smirne, koja meðu dojkama mojim poèiva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Dragi mi je moj grozd kiprov iz vinograda Engadskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Lijepa ti si, draga moja, lijepa ti si! oèi su ti kao u golubice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Lijep ti si, dragi moj, i ljubak! i postelja naša zeleni se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Grede su nam u kuæama kedrove, daske su nam jelove."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/SNG/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "SNG",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/SNG/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "SNG",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ECC/12.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 12
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

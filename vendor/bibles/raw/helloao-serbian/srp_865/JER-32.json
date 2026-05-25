@@ -1,0 +1,384 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 32,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Rijeè koja doðe Jeremiji od Gospoda desete godine Sedekije cara Judina, koje je osamnaesta godina Navuhodonosorova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A tada vojska cara Vavilonskoga bijaše opkolila Jerusalim, i prorok Jeremija bijaše zatvoren u trijemu od tamnice, koja bijaše u dvoru cara Judina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer ga zatvori Sedekija car Judin govoreæi: zašto prorokuješ govoreæi: ovako veli Gospod: evo, ja æu predati taj grad u ruke caru Vavilonskom i uzeæe ga?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I Sedekija car Judin neæe uteæi iz ruku Haldejskih, nego æe zacijelo biti predan u ruke caru Vavilonskom, i usta æe ovoga govoriti s ustima onoga, oèi æe se ovoga vidjeti s oèima onoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I odvešæe Sedekiju u Vavilon, te æe ostati ondje dokle ga ne pohodim, govori Gospod; ako se bijete s Haldejcima, neæete biti sreæni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Reèe dakle Jeremija: doðe mi rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Evo, Anameilo sin Saluma strica tvojega ide k tebi da ti kaže: kupi njivu moju što je u Anatotu, jer ti imaš po srodstvu pravo da je kupiš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I doðe k meni Anameilo sin strica mojega po rijeèi Gospodnjoj u trijem od tamnice, i reèe mi: hajde kupi moju njivu što je u Anatotu u zemlji Venijaminovoj, jer tebi pripada po našljedstvu i ti imaš pravo otkupiti je; kupi. I razumjeh da je rijeè Gospodnja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I kupih od Anameila sina strica svojega tu njivu koja je u Anatotu, i izmjerih mu novce, sedamnaest sikala srebra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I napisah knjigu, i zapeèatih, i uzeh svjedoke izmjeriv novce na mjeru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I uzeh knjigu o kupovini zapeèaæenu po zakonu i uredbama, i otvorenu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I dadoh knjigu o kupovini Varuhu sinu Nirije sina Masijina pred Anameilom bratuèedom svojim i pred svjedocima koji se potpisaše na knjizi o kupovini i pred svijem Judejcima koji sjeðahu u trijemu od tamnice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I zapovjedih Varuhu pred njima govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ovako veli Gospod nad vojskama Bog Izrailjev: uzmi ovu knjigu, knjigu o kupovini, zapeèaæenu i ovu knjigu otvorenu, i metni ih u zemljan sud da ostanu dugo vremena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer ovako veli Gospod nad vojskama Bog Izrailjev: još æe se kupovati kuæe i njive i vinogradi u ovoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I davši knjigu o kupovini Varuhu sinu Nirijinu, pomolih se Gospodu govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ah, Gospode Gospode! eto, ti si stvorio nebo i zemlju silom svojom velikom i mišicom svojom podignutom; ništa nije tebi teško."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Èiniš milost na tisuæama, i vraæaš za bezakonje otaèko u njedra sinovima njihovijem nakon njih; Bože veliki, silni, kojemu je ime Gospod nad vojskama;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Veliki u namjerama i silni u djelima; jer su oèi tvoje otvorene na sve putove ljudske da daš svakome prema putovima njegovijem i prema plodu djela njegovijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Koji si èinio znake i èudesa do danas u zemlji Misirskoj i u Izrailju i meðu svijem ljudima, i stekao si sebi ime kako je danas;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer si izveo narod svoj Izrailja iz zemlje Misirske znacima i èudesima i rukom krjepkom i mišicom podignutom i strahotom velikom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I dao si im ovu zemlju, za koju se zakle ocima njihovijem da æeš im je dati, zemlju gdje teèe mlijeko i med."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ali ušavši u nju i naslijedivši je ne poslušaše glasa tvojega, i po tvom zakonu ne hodiše, i što si im god zapovjedio da èine, ne èiniše, zato si uèinio te ih snaðe sve ovo zlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Evo, opkopi doðoše do grada da ga uzmu; i od maèa i gladi i pomora grad æe se dati u ruke Haldejcima koji ga biju; i što si god rekao, zbiva se, eto vidiš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A ti mi veliš, Gospode, Gospode: kupi tu njivu za novce i uzmi svjedoke, a grad se predaje u ruke Haldejcima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Tada doðe rijeè Gospodnja Jeremiji govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Gle, ja sam Gospod Bog svakoga tijela, eda li je meni što teško?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Zato ovako veli Gospod: evo ja dajem taj grad u ruke Haldejcima i u ruke Navuhodonosoru caru Vavilonskom da ga uzme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I Haldejci koji biju taj grad uæi æe u nj, i upaliæe ognjem taj grad i spaliæe ga i kuæe gdje na krovovima kadiše Valu i ljevaše naljeve bogovima drugim da bi me razgnjevili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Jer sinovi Izrailjevi i sinovi Judini èiniše od djetinjstva svojega samo što je zlo preda mnom, i sinovi Izrailjevi samo me gnjeviše djelima ruku svojih, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Jer taj grad bješe mi na gnjev i na srdnju otkad ga sazidaše do danas da bih ga odbacio ispred sebe,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Za sve zlo sinova Izrailjevijeh i sinova Judinijeh što èiniše gnjeveæi me, oni, carevi njihovi, knezovi njihovi, sveštenici njihovi i proroci njihovi, Judejci i Jerusalimljani."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I okrenuše mi leða a ne lice; i kad ih uèah zarana jednako, ne poslušaše da bi primili nauku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Nego metnuše svoje gadove u dom koji se zove mojim imenom i oskvrniše ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I sagradiše visine Valu što su u dolini sina Enomova da vode sinove svoje i kæeri svoje Molohu, što im ja ne zapovjedih niti mi doðe na um, da bi èinili taj gad, i tako Judu navodili na grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ali zato opet ovako veli Gospod Bog Izrailjev za taj grad za koji velite da æe se dati u ruke caru Vavilonskom od maèa i gladi i pomora:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Evo, ja æu ih sabrati iz svijeh zemalja u koje ih razagnah u gnjevu svom i u jarosti svojoj i u velikoj ljutini, i dovešæu ih opet na ovo mjesto i uèiniti da nastavaju bez straha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I biæe mi narod i ja æu im biti Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I daæu im jedno srce i jedan put da bi me se bojali vazda na dobro svoje i sinova svojih nakon njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I uèiniæu s njima zavjet vjeèan da se neæu odvratiti od njih èineæi im dobro, i daæu im strah svoj u srce da ne otstupe od mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I radovaæu im se èineæi im dobro i zasadiæu ih u ovoj zemlji tvrdo svijem srcem svojim i svom dušom svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Jer ovako veli Gospod: kao što sam doveo na taj narod sve ovo zlo veliko, tako æu dovesti na njih sve dobro koje im obrièem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Tada æe se kupovati njive u ovoj zemlji, za koju vi kažete da je pusta i da nema u njoj ni živinèeta i da je dana u ruke Haldejcima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Kupovaæe njive za novce, i pisaæe knjige i peèatiti i uzimati svjedoke u zemlji Venijaminovoj i po okolini Jerusalimskoj i u gradovima Judinijem i u gradovima po gorama i u gradovima po ravnici i u gradovima južnijem, jer æu povratiti roblje njihovo, govori Gospod."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/32.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 32
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/33.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 33
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/31.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 31
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 44
+}

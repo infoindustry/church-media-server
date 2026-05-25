@@ -1,0 +1,146 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ZEC",
+    "translationId": "srp_865",
+    "name": "Zaharija",
+    "commonName": "Zaharija",
+    "title": "Zaharija",
+    "order": 38,
+    "numberOfChapters": 14,
+    "sha256": "8d31bf129645529bbf86e696983cf67d27bb2c635d0ea09244c13074734b3eef",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ZEC/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ZEC",
+      "chapter": 1
+    },
+    "lastChapterNumber": 14,
+    "lastChapterApiLink": "/api/srp_865/ZEC/14.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ZEC",
+      "chapter": 14
+    },
+    "totalNumberOfVerses": 211
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Poslije mi pokaza Isusa poglavara sveštenièkoga, koji stajaše pred anðelom Gospodnjim, i Sotonu, koji mu stajaše s desne strane da ga pre."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A Gospod reèe Sotoni: Gospod da te ukori, Sotono, Gospod da te ukori, koji izabra Jerusalim. Nije li on glavnja istrgnuta iz ognja?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Isus bijaše obuèen u haljine prljave, i stajaše pred anðelom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A on progovori i reèe onima koji stajahu pred njim: skinite s njega te prljave haljine. I reèe mu: vidi, uzeh s tebe bezakonje tvoje, i obukoh ti nove haljine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I rekoh: neka mu metnu èistu kapu na glavu. I metnuše mu èistu kapu na glavu, i obukoše mu haljine; a anðeo Gospodnji stajaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I anðeo Gospodnji zasvjedoèi Isusu govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ovako veli Gospod nad vojskama: ako uzideš mojim putovima, i ako uzdržiš što sam naredio da se drži, tada æeš ti suditi domu mojemu i èuvaæeš trijemove moje, i daæu ti da hodiš meðu ovima što stoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Èuj, Isuse poglavaru sveštenièki, ti i drugovi tvoji što sjede pred tobom, jer su ti ljudi èudo; evo, ja æu dovesti slugu svojega, klicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer gle, kamen koji metnuh pred Isusa, na tom je jednom kamenu sedam oèiju; gle, ja æu ga otesati, govori Gospod nad vojskama, i uzeæu bezakonje te zemlje u jedan dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "U taj dan, govori Gospod nad vojskama, zvaæete svaki bližnjega svojega pod vinovu lozu i pod smokvu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ZEC/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEC",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ZEC/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEC",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ZEC/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEC",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 10
+}

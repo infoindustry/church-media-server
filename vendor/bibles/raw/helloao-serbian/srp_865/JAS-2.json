@@ -1,0 +1,258 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JAS",
+    "translationId": "srp_865",
+    "name": "Jakovljeva",
+    "commonName": "Jakovljeva",
+    "title": "Jakovljeva Poslanica",
+    "order": 59,
+    "numberOfChapters": 5,
+    "sha256": "21cfe09caf879d1b1a5ca12e171596d98f31cbc473e755a3e126b31a640fb831",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JAS/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JAS",
+      "chapter": 1
+    },
+    "lastChapterNumber": 5,
+    "lastChapterApiLink": "/api/srp_865/JAS/5.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JAS",
+      "chapter": 5
+    },
+    "totalNumberOfVerses": 108
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Braæo moja! u vjeri Gospoda našega slavnoga Isusa Hrista ne gledajte ko je ko;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer ako doðe u crkvu vašu èovjek sa zlatnijem prstenom i u svijetloj haljini, a doðe i siromah u rðavoj haljini,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I pogledate na onoga u svijetloj haljini, i reèete mu: ti sjedi ovdje lijepo, a siromahu reèete: ti stani tamo, ili sjedi ovdje niže podnožja mojega;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I ne rasudiste u sebi, nego biste sudije zlijeh pomisli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Èujte, ljubazna braæo moja, ne izabra li Bog siromahe ovoga svijeta da budu bogati vjerom, i našljednici carstva koje obreèe onima koji njega ljube?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A vi osramotiste siromaha. Nijesu li to bogati koji vas muèe i vuku vas na sudove?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ne hule li oni na dobro ime vaše kojijem ste se nazvali?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ako dakle zakon carski izvršujete po pismu: ljubi bližnjega kao samoga sebe, dobro èinite;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ako li gledate ko je ko, grijeh èinite, i biæete pokarani od zakona kao prestupnici;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer koji sav zakon održi a sagriješi u jednome, kriv je za sve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer onaj koji je rekao: ne èini preljube, rekao je i: ne ubij. Ako dakle ne uèiniš preljube a ubiješ, postao si prestupnik zakona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tako govorite i tako tvorite kao oni koji æe zakonom slobode biti suðeni;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer æe onome biti sud bez milosti koji ne èini milosti; i hvali se milost na sudu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Kakva je korist, braæo moja, ako ko reèe da ima vjeru a djela nema? Zar ga može vjera spasti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ako, na priliku, brat ili sestra goli budu, ili nemaju šta da jedu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I reèe im koji od vas: idite s mirom, grijte se, i nasitite se, a ne da im potrebe tjelesne, šta pomaže?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tako i vjera ako nema djela, mrtva je po sebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "No može ko reæi: ti imaš vjeru, a ja imam djela. Pokaži mi vjeru svoju bez djela svojijeh, a ja æu tebi pokazati vjeru svoju iz djela svojijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ti vjeruješ da je jedan Bog; dobro èiniš; i ðavoli vjeruju, i drkæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ali hoæeš li razumjeti, o èovjeèe sujetni! da je vjera bez djela mrtva?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Avraam otac naš ne opravda li se djelima kad prinese Isaka sina svojega na oltar?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Vidiš li da vjera pomože djelima njegovijem, i kroz djela savrši se vjera?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I izvrši se pismo koje govori: Avraam vjerova Bogu, i primi mu se u pravdu, i prijatelj Božij nazva se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Vidite li dakle da se djelima pravda èovjek, a ne samom vjerom?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A tako i Raav kurva ne opravda li se djelima kad primi uhode, i izvede ih drugijem putem?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jer kao što je tijelo bez duha mrtvo, tako je i vjera bez dobrijeh djela mrtva."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JAS/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JAS",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JAS/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JAS",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JAS/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JAS",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 26
+}

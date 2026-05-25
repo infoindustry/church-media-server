@@ -1,0 +1,573 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JHN",
+    "translationId": "srp_865",
+    "name": "Jovanu",
+    "commonName": "Jovanu",
+    "title": "Jevanðelje po Jovanu",
+    "order": 43,
+    "numberOfChapters": 21,
+    "sha256": "b0467ac7d5635aaff73b88f7076ca219a8a790ad4b0c4ba876a7716c71658f8f",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JHN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JHN/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 879
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Potom otide Isus preko mora Galilejskoga kod Tiverijade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I za njim iðaše mnoštvo naroda, jer viðahu èudesa njegova koja èinjaše na bolesnicima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Isus iziðe na goru, i ondje sjeðaše s uèenicima svojijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A bijaše blizu pasha praznik Jevrejski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Podignuvši dakle Isus oèi, i vidjevši da mnoštvo naroda ide k njemu, reèe Filipu: gdje æemo kupiti hljeba da ovi jedu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A ovo govoraše kušajuæi ga, jer sam znadijaše šta æe èiniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Odgovori mu Filip: dvjesta groša hljeba nije dosta da svakome od njih po malo dopadne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Reèe mu jedan od uèenika njegovijeh, Andrija, brat Simona Petra:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ovdje ima jedno momèe koje ima pet hljebova jeèmenijeh i dvije ribe; ali šta je to na toliki svijet!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Isus reèe: posadite ljude. A bješe trave mnogo na onome mjestu. Posadi se dakle ljudi na broj oko pet hiljada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Isus uzevši one hljebove, i davši hvalu, dade uèenicima, a uèenici onima koji bijahu posaðeni; tako i od riba koliko htješe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I kad se nasitiše, reèe uèenicima svojijem: skupite komade što pretekoše da ništa ne propadne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I skupiše, i napuniše dvanaest kotarica komada od pet hljebova jeèmenijeh što preteèe iza onijeh što su jeli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A ljudi vidjevši èudo koje uèini Isus govorahu: ovo je zaista onaj prorok koji treba da doðe na svijet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A kad razumje Isus da hoæe da doðu da ga uhvate i da ga uèine carem, otide opet u goru sam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A kad bi uveèe siðoše uèenici njegovi na more,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I uðoše u laðu, i poðoše preko mora u Kapernaum. I veæ se bijaše smrklo, a Isus ne bješe došao k njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A more se podizaše od velikoga vjetra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Vozivši pak oko dvadeset i pet ili trideset potrkališta ugledaše Isusa gdje ide po moru i došao blizu do laðe, i uplašiše se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A on im reèe: ja sam; ne bojte se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Onda ga s radošæu uzeše u laðu; i odmah laða bi na zemlji u koju iðahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Sjutradan pak narod koji stajaše preko mora kad vidje da laðe druge ne bješe ondje osim one jedne što u nju uðoše uèenici njegovi, i da ne uðe Isus s uèenicima svojijem u laðu nego sami uèenici njegovi otidoše,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A druge laðe iz Tiverijade doðoše blizu onog mjesta gdje jedoše hljeb kad Gospod dade hvalu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Kad vidje narod da Isusa ne bješe ondje ni uèenika njegovijeh, uðoše i oni u laðe, i doðoše u Kapernaum da traže Isusa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I našavši ga preko mora rekoše mu: Ravi! kad si došao ovamo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Isus im odgovori i reèe: zaista, zaista vam kažem: ne tražite me što èudesa vidjeste, nego što jedoste hljeba i nasitiste se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Starajte se ne za jelo koje prolazi, nego za jelo koje ostaje za vjeèni život, koje æe vam dati sin èovjeèij, jer ovoga potvrdi otac Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A oni mu rekoše: šta æemo èiniti da radimo djela Božija?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Odgovori Isus i reèe im: ovo je djelo Božije da vjerujete onoga koga on posla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A oni mu rekoše: kakav dakle ti pokazuješ znak da vidimo i da vjerujemo? šta radiš ti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ocevi naši jedoše manu u pustinji, kao što je napisano: hljeb s neba dade im da jedu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Tada im reèe Isus: zaista, zaista vam kažem: Mojsije ne dade vama hljeba s neba, nego vam otac moj daje hljeb istiniti s neba;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Jer je hljeb Božij onaj koji silazi s neba i daje život svijetu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Tada mu rekoše: Gospode! daj nam svagda taj hljeb."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A Isus im reèe: ja sam hljeb života: koji meni dolazi neæe ogladnjeti, i koji mene vjeruje neæe nikad ožednjeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Nego vam kazah da me i vidjeste i ne vjerujete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Sve što meni daje otac k meni æe doæi; i koji dolazi k meni neæu ga istjerati napolje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Jer siðoh s neba ne da èinim volju svoju, nego volju oca koji me posla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A ovo je volja oca koji me posla da od onoga što mi dade ništa ne izgubim, nego da ga vaskrsnem u pošljednji dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A ovo je volja onoga koji me posla da svaki koji vidi sina i vjeruje ga ima život vjeèni; i ja æu ga vaskrsnuti u pošljednji dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Tada vikahu Jevreji na njega što reèe: ja sam hljeb koji siðe s neba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I govorahu: nije li ovo Isus sin Josifov kojemu mi znamo oca i mater? kako dakle on govori: ja siðoh s neba?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Onda Isus odgovori i reèe im: ne vièite meðu sobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Niko ne može doæi k meni ako ga ne dovuèe otac koji me posla; i ja æu ga vaskrsnuti u pošljednji dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "U prorocima stoji napisano: i biæe svi nauèeni od Boga. Svaki koji èuje od oca i nauèi, doæi æe k meni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Ne da je ko vidio oca osim onoga koji je od Boga: on vidje oca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Zaista, zaista vam kažem: koji vjeruje mene ima život vjeèni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Ja sam hljeb života."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Ocevi vaši jedoše manu u pustinji, i pomriješe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Ovo je hljeb koji silazi s neba: da koji od njega jede ne umre."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Ja sam hljeb živi koji siðe s neba; koji jede od ovoga hljeba življeæe vavijek; i hljeb koji æu ja dati tijelo je moje, koje æu dati za život svijeta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "A Jevreji se prepirahu meðu sobom govoreæi: kako može ovaj dati nama tijelo svoje da jedemo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "A Isus im reèe: zaista, zaista vam kažem: ako ne jedete tijela sina èovjeèijega i ne pijete krvi njegove, neæete imati života u sebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "Koji jede moje tijelo i pije moju krv ima život vjeèni, i ja æu ga vaskrsnuti u pošljednji dan:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "Jer je tijelo moje pravo jelo i krv moja pravo piæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "Koji jede moje tijelo i pije moju krv stoji u meni i ja u njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "Kao što me posla živi otac, i ja živim oca radi; i koji jede mene i on æe življeti mene radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "Ovo je hljeb koji siðe s neba: ne kao što vaši ocevi jedoše manu, i pomriješe; koji jede hljeb ovaj življeæe vavijek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 59,
+        "content": [
+          "Ovo reèe u zbornici kad uèaše u Kapernaumu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 60,
+        "content": [
+          "Tada mnogi od uèenika njegovijeh koji slušahu rekoše: ovo je tvrda besjeda! ko je može slušati?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 61,
+        "content": [
+          "A Isus znajuæi u sebi da uèenici njegovi vièu na to, reèe im: zar vas ovo sablažnjava?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 62,
+        "content": [
+          "A kad vidite sina èovjeèijega da odlazi gore gdje je prije bio?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 63,
+        "content": [
+          "Duh je ono što oživljava; tijelo ne pomaže ništa. Rijeèi koje vam ja rekoh duh su i život su."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 64,
+        "content": [
+          "Ali imaju neki meðu vama koji ne vjeruju. Jer znadijaše Isus od poèetka koji su što ne vjeruju, i ko æe ga izdati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 65,
+        "content": [
+          "I reèe: zato vam rekoh da niko ne može doæi k meni ako mu ne bude dano od oca mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 66,
+        "content": [
+          "Od tada mnogi od uèenika njegovijeh otidoše natrag, i više ne iðahu s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 67,
+        "content": [
+          "A Isus reèe dvanaestorici: da neæete i vi otiæi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 68,
+        "content": [
+          "Tada mu odgovori Simon Petar: Gospode! kome æemo iæi? Ti imaš rijeèi vjeènoga života."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 69,
+        "content": [
+          "I mi vjerovasmo i poznasmo da si ti Hristos, sin Boga živoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 70,
+        "content": [
+          "Isus im odgovori: ne izbrah li ja vas dvanaestoricu, i jedan je od vas ðavo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 71,
+        "content": [
+          "A govoraše za Judu Simonova Iskariota, jer ga on šæaše izdati, i bijaše jedan od dvanaestorice."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JHN/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JHN/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JHN/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 71
+}

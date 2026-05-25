@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "srp_865",
+    "name": "2. Dnevnika",
+    "commonName": "2. Dnevnika",
+    "title": "2. Dnevnika",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "712160a45a7d7fb40ad6e8f55f27c6bc71cf3a3fca70d89afd22674733ec70a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/2CH/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I Solomun sin Davidov utvrdi se u carstvu svom, i Gospod Bog njegov bješe s njim, i uzvisi ga veoma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I Solomun reèe svemu Izrailju, tisuænicima i stotinicima i sudijama i svijem knezovima svega Izrailja, glavarima domova otaèkih,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Te otidoše, Solomun i sav zbor s njim, na visinu koja bijaše u Gavaonu; jer ondje bijaše šator od sastanka Božijega, koji naèini Mojsije sluga Gospodnji u pustinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A kovèeg Božji bješe prenio David iz Kirijat-Jarima na mjesto koje mu spremi David; jer mu razape šator u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I oltar mjedeni koji naèini Veseleilo, sin Urija sina Orova, bijaše ondje pred šatorom Gospodnjim. I potraži ga Solomun i sav zbor."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I prinese Solomun ondje pred Gospodom na oltaru mjedenom, koji bijaše pred šatorom od sastanka, prinese na njemu tisuæu žrtava paljenica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Onu noæ javi se Bog Solomunu i reèe mu: išti šta hoæeš da ti dam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A Solomun reèe Bogu: ti si uèinio veliku milost Davidu ocu mojemu i postavio si mene carem na njegovo mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Neka dakle, Gospode Bože, bude tvrda rijeè tvoja, koju si rekao Davidu ocu mojemu, jer si me postavio carem nad narodom kojega ima mnogo kao praha na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zato daj mi mudrost i znanje da polazim pred narodom ovijem i dolazim, jer ko može suditi narodu tvojemu tako velikomu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tada reèe Bog Solomunu: što ti je to u srcu, a ne išteš bogatstva, blaga ni slave, ni duša nenavidnika svojih, niti išteš duga života, nego išteš mudrosti i znanja da možeš suditi narodu mojemu, nad kojim te postavih carem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mudrost i znanje daje ti se; a daæu ti i bogatstva i slave, kakove nijesu imali carevi prije tebe niti æe poslije tebe imati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I vrati se Solomun s visine koja bijaše u Gavaonu ispred šatora od sastanka u Jerusalim, i carovaše nad Izrailjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I nakupi Solomun kola i konjika, i imaše tisuæu i èetiri stotine kola i dvanaest tisuæa konjika, koje namjesti po gradovima gdje mu bijahu kola i kod sebe u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I uèini car te bijaše u Jerusalimu srebra i zlata kao kamena, a kedrovijeh drva kao divljih smokava koje rastu po polju, tako mnogo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I dovoðahu Solomunu konje iz Misira i svakojaki trg, jer trgovci carevi uzimahu svakojaki trg za cijenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I odlažahu, te dogonjahu iz Misira kola po šest stotina sikala srebra, a konje po sto pedeset; i tako svi carevi Hetejski i carevi Sirski preko njih dobivahu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CH/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CH/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CH/29.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 29
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

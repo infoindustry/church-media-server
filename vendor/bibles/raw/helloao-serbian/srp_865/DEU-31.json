@@ -1,0 +1,286 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "srp_865",
+    "name": "Ponovljeni Zakon",
+    "commonName": "Ponovljeni Zakon",
+    "title": "Ponovljeni Zakon",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "b000b6651908c9448c65c662cec1fa45977205b236e0922d505241ab679311df",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DEU/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 1
+    },
+    "lastChapterNumber": 34,
+    "lastChapterApiLink": "/api/srp_865/DEU/34.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 34
+    },
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 31,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Potom doðe Mojsije i kaza ove rijeèi svemu Izrailju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I reèe im: meni ima danas sto i dvadeset godina, ne mogu više odlaziti ni dolaziti; a i Gospod mi je rekao: neæeš prijeæi preko toga Jordana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Gospod æe Bog tvoj iæi pred tobom, i istrijebiæe one narode ispred tebe, i ti æeš ih naslijediti; Isus æe iæi pred tobom, kao što je kazao Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I uèiniæe Gospod s njima kako je uèinio sa Sionom i Ogom carevima Amorejskim i sa zemljom njihovom, te ih je istrijebio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Zato kad vam ih preda Gospod uèinite im sasvijem onako kako sam vam zapovjedio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Budite slobodni i hrabri, i ne bojte se i ne plašite se od njih; jer Gospod Bog tvoj ide s tobom, neæe otstupiti od tebe, niti æe te ostaviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Potom dozva Mojsije Isusa, i reèe mu pred svijem Izrailjem: budi slobodan i hrabar; jer æeš ti uæi s ovijem narodom u zemlju za koju se zakleo Gospod ocima njihovijem da æe im je dati, i ti æeš im je razdijeliti u našljedstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer Gospod koji ide pred tobom biæe s tobom, neæe otstupiti od tebe, niti æe te ostaviti, ne boj se i ne plaši se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I Mojsije napisa ovaj zakon, i dade ga sveštenicima, sinovima Levijevim, koji nošahu kovèeg zavjeta Gospodnjega, i svijem starješinama Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I zapovjedi im Mojsije govoreæi: svake sedme godine, u odreðeno vrijeme godine oprosne, na praznik sjenica,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Kad doðe sav Izrailj i stane pred Gospoda Boga svojega na mjestu koje izbere, èitaj ovaj zakon pred svijem Izrailjem da èuju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Sabravši narod, ljude i žene i djecu i došljake, koji budu u mjestima tvojim, da èuju i uèe i da se boje Gospoda Boga vašega, i drže i tvore sve rijeèi ovoga zakona;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I sinovi njihovi, koji još ne znaju, neka èuju i uèe bojati se Gospoda Boga vašega, dokle ste god živi na zemlji u koju idete preko Jordana da je naslijedite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Gospod reèe Mojsiju: evo, približi se vrijeme da umreš. Dozovi Isusa i stanite obojica u šatoru od sastanka, da mu dam zapovijesti. I otide Mojsije i Isus, i stadoše u šatoru od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I javi se Gospod u šatoru u stupu od oblaka, i stajaše stup od oblaka nad vratima od šatora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I reèe Gospod Mojsiju: evo, ti æeš poèinuti s ocima svojim; a narod ovaj ustavši èiniæe preljubu za tuðim bogovima one zemlje u koju ide, i ostaviæe me i pokvariæe zavjet moj, koji uèinih s njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I onda æe se raspaliti moj gnjev na njih, i ostaviæu ih, i sakriæu lice svoje od njih; oni æe se proždrijeti, i snaæi æe ih zla mnoga i nevolje; i onda æe reæi: da me ne snaðoše ova zla zato što Bog moj nije posred mene?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A ja æu onda sasvijem sakriti lice svoje za sva zla koja uèiniše obrativši se k drugim bogovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Zato sad napišite sebi ovu pjesmu, i nauèi je sinove Izrailjeve; metni im je u usta da mi ta pjesma bude svjedok na sinove Izrailjeve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer æu ga odvesti u zemlju za koju sam se zakleo ocima njegovijem, u kojoj teèe mlijeko i med; ondje æe jesti i nasitiæe se i ugojiæe se, pa æe se onda obratiti k drugim bogovima i njima æe služiti, a za mene neæe mariti, i pokvariæe zavjet moj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A kad ga snaðu zla mnoga i nevolje, onda æe ta pjesma svjedoèiti na njih; jer se neæe zaboraviti niti æe je nestati iz usta sjemena njihova. Jer znam misli njihove i što æe još danas èiniti, prije nego ih uvedem u zemlju za koju sam se zakleo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I napisa Mojsije tu pjesmu onaj dan, i nauèi sinove Izrailjeve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I Gospod dade zapovijesti Isusu sinu Navinu govoreæi: budi slobodan i hrabar, jer æeš ti uvesti sinove Izrailjeve u zemlju za koju sam im se zakleo, i ja æu biti s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I kad napisa Mojsije rijeèi ovoga zakona u knjigu, sve do kraja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Zapovjedi Mojsije Levitima, koji nošahu kovèeg zavjeta Gospodnjega, govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Uzmite ovu knjigu zakona, i metnite je pokraj kovèega zavjeta Gospoda Boga svojega, da bude ondje svjedok na vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jer znam nepokornost tvoju i tvrdi vrat tvoj. Eto, dokle sam još živ s vama, do danas, bijaste nepokorni Gospodu; akamoli kad ja umrem?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Skupite k meni sve starješine od plemena svojih i upravitelje svoje da im kažem da èuju ove rijeèi, i da im zasvjedoèim nebom i zemljom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Jer znam da æete se po smrti mojoj pokvariti, i zaæi s puta koji vam zapovjedih; i zato æe vas zadesiti ovo zlo najposlije, kad stanete èiniti što je zlo pred Gospodom gnjeveæi ga djelom ruku svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I izgovori Mojsije da èuje sav zbor Izrailjev rijeèi ove pjesme do kraja:"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DEU/31.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 31
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DEU/32.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 32
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DEU/30.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 30
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 30
+}

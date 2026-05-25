@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 59,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Izbavi me od neprijatelja mojih, Bože moj, i od onijeh, što ustaju na me, zakloni me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Izbavi me od onijeh koji èine bezakonje, i od krvopija saèuvaj me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Evo zlo namišljaju duši mojoj, skupljaju se na me silni, bez krivice moje i bez grijeha mojega, Gospode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Bez krivice moje stjeèu se i oružaju se; ustani za mene, i gledaj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ti, Gospode, Bože nad vojskama, Bože Izrailjev, probudi se, obiði sve ove narode, nemoj požaliti odmetnika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nek se vrate uveèe, laju kao psi, i idu oko grada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Evo ruže jezikom svojim, maè im je u ustima, jer, vele, ko æe èuti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ali ti æeš se, Gospode, smijati njima i posramiti sve ove narode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Oni su jaki, ali ja na tebe pogledam, jer si ti Bog èuvar moj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Bog, koji me miluje, ide preda mnom, Bog mi daje bez straha da gledam neprijatelje svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nemoj ih pobiti, da ne bi zaboravio narod moj; raspi ih silom svojom i obori ih, Gospode, branièu naš,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Za grijeh usta njihovijeh, za rijeèi jezika njihova; nek se uhvate u oholosti svojoj za kletvu i laž koju su govorili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Raspi u gnjevu, raspi, da ih nema; i neka poznadu da Bog vlada nad Jakovom i do krajeva zemaljskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Nek se vrate uveèe, laju kao psi, i idu oko grada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Neka tumaraju tražeæi hrane, i ne nasitivši se neka noæi provode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A ja æu pjevati silu tvoju, rano ujutru glasiti milost tvoju; jer si mi bio obrana i utoèište u dan nevolje moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Silo moja! tebi æu pjevati, jer si ti Bog èuvar moj, Bog koji me miluje."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/59.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 59
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/60.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 60
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/58.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 58
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

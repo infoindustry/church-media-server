@@ -1,0 +1,167 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 46,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Pade Vil, izvali se Nevo; likovi njihovi metnuše se na životinju i na stoku; što nosite, teško je, i umoriæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Izvališe se, padoše svi, ne mogoše izbaviti tovara, nego i sami otidoše u ropstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Slušajte me, dome Jakovljev i svi koji ste ostali od doma Izrailjeva, koje nosim od utrobe, koje držim od roðenja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I do starosti vaše ja æu biti isti, i ja æu vas nositi do sijeda vijeka; ja sam stvorio i ja æu nositi, ja æu vas nositi i izbaviæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "S kim æete me izjednaèiti i isporediti? koga æete mi uzeti za priliku da bi bio kao ja?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Prosipaju zlato iz toboca i mjere srebro na mjerila, plaæaju zlataru da naèini od njega boga, pred kojim padaju i klanjaju se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Meæu ga na rame i nose ga, i postavljaju ga na mjesto njegovo, te stoji i ne mièe se s mjesta svojega; ako ga ko zove, ne odziva se niti ga izbavlja iz nevolje njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Pamtite to, i pokažite se da ste ljudi, uzmite na um, prestupnici!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Pamtite što je bilo od starine; jer sam ja Bog, i nema drugoga Boga, i niko nije kao ja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Koji od poèetka javljam kraj i izdaleka što još nije bilo; koji kažem: namjera moja stoji i uèiniæu sve što mi je volja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zovem s istoka pticu i iz daljne zemlje èovjeka koji æe izvršiti što sam naumio. Rekoh i dovešæu to, naumih i uèiniæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Slušajte me, koji ste uporna srca, koji ste daleko od pravde."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Približih pravdu svoju, nije daleko, i spasenje moje neæe odocniti, jer æu u Sionu postaviti spasenje, u Izrailju slavu svoju."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/46.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 46
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/47.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 47
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/45.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 45
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 13
+}

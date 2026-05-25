@@ -1,0 +1,321 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "srp_865",
+    "name": "Luki",
+    "commonName": "Luki",
+    "title": "Jevanðelje po Luki",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "71d24bae001865beafd9dc8b76f8e93d8f927bd8e33391ea4aebbf53673c6a27",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LUK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/LUK/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 14,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I dogodi mu se da doðe u subotu u kuæu jednoga kneza farisejskoga da jede hljeb; i oni motrahu na njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I gle, bješe pred njim nekakav èovjek na kome bješe debela bolest."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I odgovarajuæi Isus reèe zakonicima i farisejima govoreæi: je li slobodno u subotu iscjeljivati?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A oni oæutješe. I dohvativši ga se iscijeli ga i otpusti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I odgovarajuæi reèe im: koji od vas ne bi svojega magarca ili vola da mu padne u bunar odmah izvadio u dan subotni?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I ne mogoše mu odgovoriti na to."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A gostima kaza prièu, kad opazi kako izbirahu zaèelja, i reèe im:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Kad te ko pozove na svadbu, ne sjedaj u zaèelje, da ne bude meðu gostima ko stariji od tebe;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I da ne bi došao onaj koji je pozvao tebe i njega, i rekao ti: podaj mjesto ovome: i onda æeš sa stidom sjesti na niže mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nego kad te ko pozove, došavši sjedi na pošljednje mjesto, da ti reèe kad doðe onaj koji te pozva: prijatelju! pomakni se više; tada æe tebi biti èast pred onima koji sjede s tobom za trpezom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer svaki koji se podiže, poniziæe se; a koji se ponižuje, podignuæe se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A i onome što ih je pozvao reèe: kad daješ objed ili veèeru, ne zovi prijatelja svojijeh, ni braæe svoje, ni roðaka svojijeh, ni susjeda bogatijeh, da ne bi i oni tebe kad pozvali i vratili ti;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nego kad èiniš gozbu, zovi siromahe, kljaste, hrome, slijepe;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I blago æe ti biti što ti oni ne mogu vratiti; nego æe ti se vratiti o vaskrseniju pravednijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A kad èu to neki od onijeh što sjeðahu s njim za trpezom reèe mu: blago onome koji jede hljeba u carstvu Božijemu!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A on mu reèe: jedan èovjek zgotovi veliku veèeru, i pozva mnoge;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I kad bi vrijeme veèeri, posla slugu svojega da kaže zvanima: hajdete, jer je veæ sve gotovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I poèeše se izgovarati svi redom; prvi mu reèe: kupih njivu, i valja mi iæi da je vidim; molim te izgovori me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I drugi reèe: kupih pet jarmova volova, i idem da ih ogledam; molim te, izgovori me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I treæi reèe: oženih se, i zato ne mogu doæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I došavši sluga taj kaza ovo gospodaru svome. Tada se rasrdi domaæin i reèe sluzi svome: idi brzo na raskršæa i ulice gradske, i dovedi amo siromahe, i kljaste, i bogaljaste, i slijepe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I reèe sluga: gospodaru, uèinio sam kako si zapovjedio, i još mjesta ima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I reèe gospodar sluzi: iziði na putove i meðu ograde, te natjeraj da doðu da mi se napuni kuæa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer vam kažem da nijedan od onijeh zvanijeh ljudi neæe okusiti moje veèere. Jer je mnogo zvanijeh, ali je malo izbranijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Iðaše pak s njim mnoštvo naroda, i obazrevši se reèe im:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ako ko doðe k meni a ne mrzi na svojega oca, i na mater, i na ženu, i na djecu, i na braæu, i na sestre i na samu dušu svoju, ne može biti moj uèenik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I ko ne nosi krsta svojega i za mnom ne ide, ne može biti moj uèenik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I koji od vas kad hoæe da zida kulu ne sjede najprije i ne proraèuni šta æe ga stati, da vidi ima li da može dovršiti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Da ne bi, kad postavi temelj i ne uzmože dovršiti, svi koji gledaju stali mu se rugati"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Govoreæi: ovaj èovjek poèe zidati, i ne može da dovrši."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ili koji car kad poðe s vojskom da se pobije s drugijem carem ne sjede najprije i ne drži vijeæu može li s deset hiljada sresti onoga što ide na njega sa dvadeset hiljada?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ako li ne može, a on pošlje poslanike dok je onaj još daleko i moli da se pomire."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Tako dakle svaki od vas koji se ne odreèe svega što ima ne može biti moj uèenik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "So je dobra, ali ako so obljutavi, èim æe se osoliti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Niti je potrebna u zemlju ni u gnoj; nego je prospu napolje. Ko ima uši da èuje neka èuje."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LUK/14.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 14
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LUK/15.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 15
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LUK/13.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 13
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

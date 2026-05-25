@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Posveti mi svakoga prvenca, što god otvora matericu u sinova Izrailjevijeh, i od ljudi i od stoke; jer je moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I Mojsije reèe narodu: pamtite ovaj dan, u koji izidoste iz Misira, iz doma ropskoga, jer vas rukom krjepkom izvede Gospod odande; neka se dakle ne jede ništa s kvascem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Danas izlazite, mjeseca Aviva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Pa kad te Gospod uvede u zemlju Hananejsku i Hetejsku i Amorejsku i Jevejsku i Jevusejsku, za koju se zakleo ocima tvojim da æe ti je dati, zemlju u kojoj teèe mlijeko i med, tada da služiš službu ovu ovoga mjeseca;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Sedam dana jedi hljebove prijesne, a sedmi dan neka je praznik Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Hljebovi prijesni da se jedu sedam dana, i da se ne vidi u tebe ništa s kvascem, niti da se vidi u tebe kvasac u cijelom kraju tvom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I kazaæeš sinu svojemu u taj dan govoreæi: ovo je za ono što mi je uèinio Gospod kad sam izlazio iz Misira."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I neka ti bude kao znak na ruci tvojoj i kao spomen pred oèima tvojima, da ti zakon Gospodnji bude u ustima; jer te je rukom krjepkom izveo Gospod iz Misira."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zato vrši zakon ovaj na vrijeme, od godine do godine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I kad te uvede Gospod u zemlju Hananejsku, kao što se zakleo tebi i tvojim ocima, i da ti je,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Odvajaæeš Gospodu što god otvora matericu, i od stoke tvoje što god otvora matericu, što je muško, da bude Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A svako magare prvenèe otkupi jagnjetom ili jaretom; ako li ga ne bi otkupio, slomi mu vrat. Ali svakoga prvenca èovjeèijega izmeðu sinova svojih otkupi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A kad te zapita sin tvoj unapredak govoreæi: šta je to? reci mu: rukom krjepkom izvede nas Gospod iz Misira, iz doma ropskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer kad otvrdnu Faraon, te nas ne htje pustiti, pobi Gospod sve prvence u zemlji Misirskoj od prvenca èovjeèijega do prvenca od stoke; zato prinosim Gospodu sve muško što otvora matericu, a svakoga prvenca sinova svojih otkupljujem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I to neka ti je kao znak na ruci i kao poèeonik meðu oèima tvojima, da nas je rukom krjepkom izveo Gospod iz Misira."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A kad Faraon pusti narod, ne odvede ih Bog putem k zemlji Filistejskoj, ako i bješe kraæi, jer Bog reèe: da se ne pokaje narod kad vidi rat, i ne vrati se u Misir."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nego Bog zavede narod putem preko pustinje na Crvenom Moru. A vojnièkim redom izidoše sinovi Izrailjevi iz zemlje Misirske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I Mojsije uze kosti Josifove sa sobom; jer bješe zakleo sinove Izrailjeve rekavši: zaista æe vas pohoditi Bog, a tada iznesite kosti moje odavde sa sobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Tako otišavši iz Sohota stadoše u oko u Etamu, nakraj pustinje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A Gospod iðaše pred njima danju u stupu od oblaka vodeæi ih putem, a noæu u stupu od ognja svijetleæi im, da bi putovali danju i noæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I ne uklanjaše ispred naroda stupa od oblaka danju ni stupa od ognja noæu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/13.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 13
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/14.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 14
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/12.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 12
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

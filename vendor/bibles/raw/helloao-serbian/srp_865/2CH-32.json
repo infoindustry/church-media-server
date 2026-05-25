@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "srp_865",
+    "name": "2. Dnevnika",
+    "commonName": "2. Dnevnika",
+    "title": "2. Dnevnika",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "712160a45a7d7fb40ad6e8f55f27c6bc71cf3a3fca70d89afd22674733ec70a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/2CH/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 32,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Poslije tijeh stvari i pošto se one utvrdiše, doðe Senahirim car Asirski, i uðe u zemlju Judinu, i opkoli tvrde gradove, i mišljaše ih osvojiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A kad vidje Jezekija gdje doðe Senahirim i gdje se okrenu da udari na Jerusalim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Uèini vijeæe s knezovima svojim i s junacima svojim da zaroni izvore vodene, koji bijahu iza grada, i pomogoše mu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer se sabra mnoštvo naroda, te zaroniše sve izvore i potok koji teèe posred zemlje govoreæi: zašto kad doðu carevi Asirski da naðu toliko vode?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I ohrabri se, te ozida vas zid oboreni, i podiže kule, i spolja ozida još jedan zid; i utvrdi Milon u gradu Davidovu, i naèini mnogo oružja i štitova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I postavi vojvode nad narodom, i sabra ih k sebi na ulicu kod vrata gradskih, i govori im ljubazno i reèe:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Budite slobodni i hrabri, ne bojte se i ne plašite se cara Asirskoga ni svega mnoštva što je s njim, jer je s nama veæi nego s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "S njim je mišica tjelesna a s nama je Gospod Bog naš da nam pomože i da bije naše bojeve. I narod se osloni na rijeèi Jezekije cara Judina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Potom Senahirim car Asirski dok bješe na Lahisu sa svom silom svojom, posla sluge svoje u Jerusalim k Jezekiji caru Judinu i ka svemu narodu Judinu koji bijaše u Jerusalimu, i poruèi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ovako veli Senahirim car Asirski: u što se uzdate, te stojite u Jerusalimu zatvoreni?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ne nagovara li vas Jezekija da vas pomori glaðu i žeðu govoreæi: Gospod Bog naš izbaviæe nas iz ruku cara Asirskoga?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nije li taj Jezekija oborio visine njegove i oltare njegove, i zapovjedio Judi i Jerusalimljanima govoreæi: klanjajte se samo pred jednijem oltarom i na njemu kadite?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Eda li ne znate šta sam uèinio ja i moji stari od svijeh naroda na zemlji? jesu li bogovi naroda zemaljskih mogli izbaviti zemlju svoju iz mojih ruku?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Koji je izmeðu svijeh bogova onijeh naroda koje zatrše oci moji, mogao izbaviti svoj narod iz mojih ruku, da bi mogao vaš bog vas izbaviti iz moje ruke?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Nemojte dakle da vas vara Jezekija i da vas tako nagovara, i ne vjerujte mu; jer nijedan bog nijednoga naroda ili carstva nije mogao izbaviti naroda svojega iz mojih ruku ni iz ruku mojih otaca, akamoli æe vaši bogovi izbaviti vas iz mojih ruku?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I još više govoriše sluge njegove na Gospoda Boga i na Jezekiju slugu njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A i knjigu napisa ružeæi Gospoda Boga Izrailjeva i govoreæi na nj rijeèima: kao što bogovi naroda zemaljskih nijesu izbavili svojega naroda iz mojih ruku, tako neæe ni Bog Jezekijin izbaviti naroda svojega iz mojih ruku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I vikahu iza glasa Judejski narodu Jerusalimskom koji bijaše na zidu da ih uplaše i smetu da bi uzeli grad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I govorahu o Bogu Jerusalimskom kao o bogovima naroda zemaljskih, koji su djelo ruku èovjeèijih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Tada se pomoli toga radi car Jezekija i prorok Isaija sin Amosov, i vapiše k nebu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I posla Gospod anðela, koji pobi sve junake i vojvode i knezove u vojsci cara Asirskoga, te se vrati sa sramotom u svoju zemlju. I kad uðe u kuæu svojega boga, ubiše ga ondje maèem koji izidoše od bedara njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Tako saèuva Gospod Jezekiju i narod Jerusalimski od ruku Senahirima cara Asirskoga i od ruku svijeh drugih, i èuva ih na sve strane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I mnogi donošahu dare Gospodu u Jerusalim i zaklade Jezekiji caru Judinu; i od tada se uzvisi pred svijem narodima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "U to vrijeme razbolje se Jezekija na smrt, i pomoli se Gospodu, koji mu progovori i uèini mu èudo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ali Jezekija ne postupi prema dobru koje mu se uèini, jer se ponese srce njegovo; zato se podiže na nj gnjev i na Judu i na Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ali se ponizi Jezekija zato što se bješe ponijelo srce njegovo, i on i Jerusalimljani, te ne doðe na njih gnjev Gospodnji za života Jezekijina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A imaše Jezekija vrlo veliko blago i slavu; i naèini sebi riznice za srebro i zlato i za drago kamenje i za mirise i za štitove i za svakojake zaklade,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I staje za dohode od žita i od vina i od ulja, i staje za svakojaku stoku, i torove za ovce."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I gradove sazida sebi, i imaše mnogo stoke, i ovaca i goveda, jer mu Bog dade veoma veliko blago."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Isti Jezekija zagati gornji izvor vode Giona, i pravo je svede dolje na zapadnu stranu grada Davidova; i bijaše sreæan Jezekija u svakom poslu svom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Samo kad doðoše poslanici knezova Vavilonskih, koji poslaše k njemu da raspitaju za èudo koje bi u zemlji, ostavi ga Bog da bi ga iskušao da bi se znalo sve što mu je u srcu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A ostala djela Jezekijina i milosti njegove, eto, to je zapisano u utvari proroka Isaije sina Amosova i u knjizi o carevima Judinijem i Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I poèinu Jezekija kod otaca svojih, i pogreboše ga više grobova sinova Davidovijeh; i uèiniše mu na smrti èast svi Judejci i Jerusalimljani. A na njegovo se mjesto zacari Manasija sin njegov."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CH/32.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 32
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CH/33.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 33
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CH/31.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 31
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EST",
+    "translationId": "srp_865",
+    "name": "Jestira",
+    "commonName": "Jestira",
+    "title": "Jestira",
+    "order": 17,
+    "numberOfChapters": 10,
+    "sha256": "e4f6efd7a0ac2ec68174fc976318ab40b76a1d521c247f2da3227c800670b4a9",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EST/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EST",
+      "chapter": 1
+    },
+    "lastChapterNumber": 10,
+    "lastChapterApiLink": "/api/srp_865/EST/10.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EST",
+      "chapter": 10
+    },
+    "totalNumberOfVerses": 167
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Istoga dana dade car Asvir carici Jestiri kuæu Amana neprijatelja Judejskoga. A Mardohej izide pred cara, jer Jestira kaza šta joj je on;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I car snimiv prsten svoj, koji bješe uzeo od Amana, dade ga Mardoheju; a Jestira postavi Mardoheja nad kuæom Amanovom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Potom Jestira opet govori caru i padnuvši pred noge njegove i plaèuæi moljaše ga da ukloni zloæu Amana Agageja i misao njegovu koju bješe smislio na Judejce."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tada car pruži zlatnu palicu prema Jestiri, i Jestira usta i stade pred carem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I reèe: ako je ugodno caru i ako sam našla milost pred njim, i ako je pravo pred carem i ako sam mu mila, neka se piše da se poreku knjige u kojima je misao Amana sina Amedatina, Agageja, koje je raspisao da se istrijebe Judejci što su po svijem zemljama carevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer kako bih mogla gledati zlo koje bi zadesilo moj narod? i kako bih mogla gledati da se potre rod moj?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A car Asvir reèe carici Jestiri i Mardoheju Judejcu: eto, dao sam kuæu Amanovu Jestiri a njega su objesili na vješala zato što šæaše dignuti ruku svoju na Judejce."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Vi dakle pišite za Judejce kako vam je drago u ime carevo i zapeèatite prstenom carevijem; jer što se piše u ime carevo i zapeèati prstenom carevijem ne može se poreæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I dozvaše pisare careve u isto vrijeme, treæega mjeseca, koje je mjesec Sivan, dvadeset treæega dana, i pisa se sve, kako zapovjedi Mardohej, Judejcima i namjesnicima i knezovima i upraviteljima po zemljama, od Indije do Etiopije, sto i dvadeset i sedam zemalja, u svaku zemlju njezinijem pismom i svakom narodu njegovijem jezikom, i Judejcima njihovijem pismom i njihovijem jezikom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A napisa u ime cara Asvira i zapeèati prstenom carevijem, i razasla knjige po glasnicima koji jahahu na brzijem konjma i na mladijem mazgama:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Da je car dopustio Judejcima što su u kome god gradu da se skupe i brane život svoj, da potru i pobiju i istrijebe svaku vojsku kojega mu drago naroda i zemlje, koji bi udarili na njih, i djecu njihovu i žene njihove, a imanje njihovo da razgrabe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "U isti dan po svijem zemljama cara Asvira, trinaestoga dana mjeseca dvanaestoga, koje je mjesec Adar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "U knjigama se govoraše da se oglasi zapovijest po svijem zemljama i da se objavi svijem narodima da Judejci budu gotovi za onaj dan da se osvete svojim neprijateljima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Glasnici koji jahahu na brzijem konjma i mazgama otidoše brzo i hitno po zapovijesti carevoj; i zapovijest bi oglašena u Susanu carskom gradu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Mardohej otide od cara u carskom odijelu ljubièastom i bijelom i pod zlatnijem vijencem velikim i u plaštu od tankoga platna i skerleta, i grad Susan radovaše se i veseljaše se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Judejcima doðe svjetlost i veselje i radost i slava."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I u svakoj zemlji i u svakom gradu, gdje god doðe zapovijest careva i naredba njegova, bješe radost i veselje meðu Judejcima, gozba i blagi dani, i mnogi iz naroda zemaljskih postajahu Judejci, jer ih popade strah od Jevreja."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EST/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EST",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EST/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EST",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EST/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EST",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

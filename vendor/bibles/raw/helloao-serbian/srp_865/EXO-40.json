@@ -1,0 +1,342 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 40,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I Gospod reèe Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Prvi dan prvoga mjeseca podigni šator, šator od sastanka,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I metni ondje kovèeg od svjedoèanstva, i zakloni ga zavjesom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I unesi sto, i uredi što treba urediti na njemu; unesi i svijetnjak, i zapali žiške na njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I namjesti zlatni oltar kadioni pred kovèegom od svjedoèanstva; i objesi zavjes na vratima od šatora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I metni oltar za žrtvu paljenicu pred vrata šatoru, šatoru od sastanka,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I metni umivaonicu izmeðu šatora od sastanka i oltara, i u nju nalij vode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I podigni trijem unaokolo, i metni zavjes na vrata od trijema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I uzmi ulje pomazanja, i pomaži šator i sve što je u njemu, i osveti ga i sve sprave njegove, i biæe svet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Pomaži i oltar za žrtvu paljenicu i sve sprave njegove, te æeš osvetiti oltar, i oltar æe biti svetinja nad svetinjom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Pomaži i umivaonicu i podnožje njezino, i osveti je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I kaži Aronu i sinovima njegovijem da pristupe na vrata šatora od sastanka, i umij ih vodom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I obuci Arona u svete haljine i pomaži ga i osveštaj ga, da mi vrši službu sveštenièku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I sinovima njegovijem zapovjedi neka pristupe, i obuci im košulje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I pomaži ih, kao što pomažeš oca njihova, da mi vrše službu sveštenièku; i pomazanje njihovo biæe im za vjeèno sveštenstvo od koljena do koljena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I uèini Mojsije sve, kako mu zapovjedi Gospod tako uèini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I podiže se šator druge godine prvoga mjeseca prvi dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I Mojsije podiže šator, i podmetnu mu stopice, i namjesti daske, i povuèe prijevornice, i ispravi stupove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Pa razape naslon nad šator, i metnu pokrivaè na naslon ozgo, kao što bješe zapovjedio Gospod Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I uzev svjedoèanstvo metnu ga u kovèeg, i provuèe poluge na kovèegu, i metnu zaklopac ozgo na kovèeg."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I unese kovèeg u šator, i objesi zavjes, te zakloni kovèeg sa svjedoèanstvom, kao što bješe zapovjedio Gospod Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I namjesti sto u šatoru od sastanka na sjevernu stranu šatora pred zavjesom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I postavi na njemu hljeb pred Gospodom kao što bješe zapovjedio Gospod Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I namjesti svijetnjak u šatoru od sastanka, prema stolu na južnu stranu šatora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I zapali žiške na njemu pred Gospodom, kao što bješe zapovjedio Gospod Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I namjesti oltar zlatni u šatoru od svjedoèanstva pred zavjesom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I pokadi na njemu kadom mirisnijem, kao što bješe zapovjedio Gospod Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I objesi zavjes na vrata od šatora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I oltar za žrtvu paljenicu namjesti na vrata od šatora, šatora od sastanka, i prinese na njemu žrtvu paljenicu, i dar, kao što bješe zapovjedio Gospod Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I metnu umivaonicu izmeðu šatora od sastanka i oltara, i nali u nju vode za umivanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I praše iz nje ruke i noge svoje Mojsije i Aron i sinovi njegovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Kad ulažahu u šator od svjedoèanstva i kad pristupahu k oltaru, umivahu se najprije, kao što bješe zapovjedio Gospod Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I podiže trijem oko šatora i oltara, i metnu zavjes na vrata trijemu. Tako svrši Mojsije posao taj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Tada oblak pokri šator od sastanka, i napuni se šator slave Gospodnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I ne mogaše Mojsije uæi u šator od sastanka, jer bješe na njemu oblak, i slave Gospodnje bješe pun šator."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A kad se podizaše oblak sa šatora, tada polažahu sinovi Izrailjevi, dokle god putovahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A kad se ne podizaše oblak, onda ni oni ne polažahu do dana kad se podiže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Jer oblak Gospodnji bješe na šatoru danju, a noæu oganj bješe na njemu pred oèima svega doma Izrailjeva, dokle god putovahu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/40.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 40
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/39.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 39
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 38
+}

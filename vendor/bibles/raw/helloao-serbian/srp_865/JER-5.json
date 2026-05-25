@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Proðite po ulicama Jerusalimskim, i vidite sada i razberite i potražite po ulicama njegovijem, hoæete li naæi èovjeka, ima li ko da èini što je pravo i da traži istinu, pa æu oprostiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ako i govore: tako da je živ Gospod! opet se krivo kunu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Gospode! ne gledaju li oèi tvoje na istinu! Biješ ih, ali ih ne boli; satireš ih, ali neæe da prime nauke, tvrðe im je lice od kamena, neæe da se obrate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I ja rekoh: siromasi su, ludo rade, jer ne znaju puta Gospodnjega, zakona Boga svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Idem k vlastelima, i njima æu govoriti, jer oni znaju put Gospodnji, zakon Boga svojega; ali i oni izlomiše jaram, pokidaše sveze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Zato æe ih pobiti lav iz šume, vuk æe ih veèernji potrti, ris æe vrebati kod gradova njihovijeh, ko god izide iz njih biæe rastrgnut, jer je mnogo grijeha njihovijeh i silni su odmeti njihovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Kako æu ti oprostiti to? Sinovi tvoji ostaviše mene, i kunu se onima koji nijesu bogovi. Kako ih nasitih, stadoše èiniti preljubu, i u kuæu kurvinu stjeèu se gomilom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jutrom su kad ustaju kao tovni konji, svaki rže za ženom bližnjega svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Zato li neæu pohoditi? veli Gospod, i duša moja neæe li se osvetiti takom narodu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Izidite mu na zidove i razvalite, ali nemojte sasvijem zatrti, skinite mu prijevornice, jer nijesu Gospodnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer me sasvijem iznevjeri dom Izrailjev i dom Judin, veli Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Udariše u bah Gospodu i rekoše: nije tako, neæe nas zlo zadesiti, i neæemo vidjeti maèa ni gladi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A ti proroci otiæi æe u vjetar, i rijeèi nema u njima, njima æe biti tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Zato ovako veli Gospod Gospod nad vojskama: kad tako govorite, evo ja æu uèiniti da rijeèi moje u ustima tvojim budu kao oganj, a ovaj narod drva, te æe ih spaliti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Gle, ja æu dovesti na vas narod iz daleka, dome Izrailjev, veli Gospod, narod jak, narod star, narod kojem jezika neæeš znati niti æeš razumjeti što govori;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Kojemu je tul kao grob otvoren, svi su jaki."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I poješæe ljetinu tvoju i hljeb tvoj, što sinovi tvoji i kæeri tvoje šæahu jesti, poješæe ovce tvoje i goveda tvoja, poješæe vinovu lozu tvoju i smokve tvoje, i maèem æe zatrti tvrde gradove tvoje u koje se uzdaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ali ni tada, veli Gospod, neæu vas sasvijem zatrti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer kad reèete: zašto nam èini Gospod Bog naš sve ovo? tada im reci: kako ostaviste mene i služiste tuðim bogovima u zemlji svojoj, tako æete služiti tuðincima u zemlji koja nije vaša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Javite ovo u domu Jakovljevu, i oglasite u Judi, govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Èujte ovo, ludi i bezumni narode, koji imate oèi a ne vidite, koji imate uši a ne èujete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Mene li se neæete bojati? veli Gospod; od mene li neæete drktati? koji postavih pijesak moru za meðu vjeènom naredbom, i neæe prijeæi preko nje; ako mu i ustaju vali, neæe nadjaèati, ako i buèe, neæe je prijeæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ali je u naroda ovoga srce uporno i nepokorno; otstupiše i otidoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Niti rekoše u srcu svom: bojmo se Gospoda Boga svojega, koji nam daje dažd rani i pozni na vrijeme, i èuva nam nedjelje odreðene za žetvu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Bezakonja vaša odvraæaju to, i grijesi vaši odbijaju dobro od vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jer se nalaze u narodu mom bezbožnici, koji vrebaju kao ptièari kad se pritaje, meæu zamke da hvataju ljude."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Kao krletka puna ptica tako su kuæe njihove pune prijevare; zato postaše veliki i obogatiše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ugojiše se, sjaju se, mimoilaze zlo, ne èine pravde ni siroèetu, i opet im je dobro, i ne daju pravice ubogima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Zato li neæu pohoditi? veli Gospod, i duša moja neæe li se osvetiti takvom narodu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Èudo i strahota biva u zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Proroci prorokuju lažno, i sveštenici gospoduju preko njih, i narodu je mojemu to milo. A šta æete raditi na pošljedak?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

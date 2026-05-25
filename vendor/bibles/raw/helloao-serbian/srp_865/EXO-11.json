@@ -1,0 +1,146 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Gospod reèe Mojsiju: još æu jedno zlo pustiti na Faraona i na Misir, pa æe vas onda pustiti; pustiæe sasvijem, i još æe vas tjerati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A sada kaži narodu neka svaki èovjek ište u susjeda svojega i svaka žena u susjede svoje nakita srebrnijeh i nakita zlatnijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I Gospod uèini te narod naðe ljubav u Misiraca; i sam Mojsije bješe vrlo velik èovjek u zemlji Misirskoj kod sluga Faraonovijeh i kod naroda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I reèe Mojsije: ovako veli Gospod: oko ponoæi proæi æu kroz Misir,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I pomrijeæe svi prvenci u zemlji Misirskoj, od prvenca Faraonova, koji šæaše sjedjeti na prijestolu njegovu, do prvenca sluškinje za žrvnjem, i od stoke što je god prvenac."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I biæe vika velika po svoj zemlji Misirskoj, kakve još nije bilo niti æe je kad biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kod sinova Izrailjevijeh nigdje neæe ni pas jezikom svojim maæi ni meðu ljudima ni meðu stokom, da znate da je Gospod uèinio razliku izmeðu Izrailjaca i Misiraca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I doæi æe sve te sluge tvoje k meni, i pokloniæe mi se govoreæi: idi, i ti i sav narod koji je pristao za tobom. I onda æu izaæi. I otide Mojsije od Faraona s velikim gnjevom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Gospod reèe Mojsiju: neæe vas poslušati Faraon, da bih umnožio èudesa svoja u zemlji Misirskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I Mojsije i Aron uèiniše sva ova èudesa pred Faraonom, a Gospod uèini te otvrdnu srce Faraonu, i ne pusti sinova Izrailjevijeh iz zemlje svoje."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 10
+}

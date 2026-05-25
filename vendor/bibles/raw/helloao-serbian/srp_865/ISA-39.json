@@ -1,0 +1,132 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 39,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U to vrijeme Merodah Valadan, sin Valadanov, car Vavilonski, posla knjigu s darom Jezekiji; jer bješe èuo da je bio bolestan i ozdravio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I Jezekija se obradova tome, i pokaza im sve riznice svoje, srebro i zlato i mirise, i najbolje ulje, i kuæu gdje mu bješe oružje, i što se god nalažaše u riznicama njegovijem, ne osta ništa da im ne pokaza Jezekija u kuæi svojoj i u svemu gospodstvu svom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Tada doðe prorok Isaija k caru Jezekiji i reèe mu: šta su govorili ti ljudi i odakle su došli k tebi? A Jezekija reèe: iz daljne zemlje došli su k meni, iz Vavilona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A on reèe: šta su vidjeli u tvom dvoru? A Jezekija reèe: vidjeli su sve što ima u mom dvoru; nije ostalo ništa u riznicama mojim da im nijesam pokazao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tada reèe Isaija Jezekiji: èuj rijeè Gospoda nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Evo doæi æe vrijeme kad æe se odnijeti u Vavilon sve što ima u kuæi tvojoj, i što su sabirali oci tvoji do danas, neæe ostati ništa, veli Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I sinove tvoje, koji æe izaæi od tebe, koje æeš roditi, uzeæe da budu dvorani u dvoru cara Vavilonskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A Jezekija reèe Isaiji: dobra je rijeè Gospodnja koju si rekao. Još reèe: je li? za moga vijeka biæe mir i vjera?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/39.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 39
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/40.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 40
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/38.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 38
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 8
+}

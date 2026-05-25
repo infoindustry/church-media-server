@@ -1,0 +1,349 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2SA",
+    "translationId": "srp_865",
+    "name": "2. Samuelova",
+    "commonName": "2. Samuelova",
+    "title": "2. Samuelova",
+    "order": 10,
+    "numberOfChapters": 24,
+    "sha256": "e9bcfc863ad7bd2a939eb305126ad735f393202a88f773ac55550249ed219529",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/2SA/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 695
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A potom se dogodi: Avesalom sin Davidov imaše lijepu sestru po imenu Tamaru, i zamilova je Amnon sin Davidov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I tužaše Amnon tako da se razbolje radi Tamare sestre svoje; jer bješe djevojka, te se Amnonu èinjaše teško da joj uèini što."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A imaše Amnon prijatelja, kojemu ime bješe Jonadav sin Same brata Davidova; i Jonadav bješe vrlo domišljat."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I reèe mu: što se tako sušiš, carev sine, od dana na dan? ne bi li mi kazao? A Amnon mu reèe: ljubim Tamaru sestru Avesaloma brata svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tada mu reèe Jonadav: lezi u postelju svoju, i uèini se bolestan; pa kad doðe otac tvoj da te vidi, ti mu reci: neka doðe Tamara sestra moja da me nahrani, i da zgotovi pred mojim oèima jelo da gledam, i iz njezine ruke da jedem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I Amnon leže i uèini se bolestan; i kad doðe car da ga vidi, reèe Amnon caru: neka doðe Tamara sestra moja i zgotovi preda mnom dva jelca da jedem iz njezine ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tada David posla k Tamari kuæi, i poruèi joj: idi u kuæu brata svojega Amnona i zgotovi mu jelo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I Tamara otide u kuæu brata svojega Amnona, i on ležaše; i uze brašna i zamijesi i zgotovi jelo pred njim i skuha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Potom uze tavicu i izruèi preda nj; ali Amnon ne htje jesti, nego reèe: kažite neka izidu svi koji su kod mene. I izidoše svi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Tada reèe Amnon Tamari: donesi to jelo u klijet da jedem iz tvoje ruke. I Tamara uze jelo što bješe zgotovila, i donese Amnonu bratu svojemu u klijet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A kad mu pruži da jede, on je uhvati i reèe joj: hodi, lezi sa mnom, sestro moja!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A ona mu reèe: ne, brate, nemoj me osramotiti, jer se tako ne radi u Izrailju, ne èini toga bezumlja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Kuda bih ja sa sramotom svojom? a ti bi bio kao koji od najgorih ljudi u Izrailju. Nego govori caru; on me neæe tebi odreæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ali je on ne htje poslušati, nego savladavši je osramoti je i obleža je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A poslije omrze na nju Amnon veoma, te mržnja kojom mržaše na nju bješe veæa od ljubavi kojom je prije ljubljaše. I reèe joj Amnon: ustani, odlazi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A ona mu reèe: to æe biti veæe zlo od onoga koje si mi uèinio što me tjeraš. Ali je on ne htje poslušati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Nego viknu momka koji ga služaše, i reèe mu: vodi ovu od mene napolje, i zakljuèaj vrata za njom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A ona imaše na sebi šarenu haljinu, jer take haljine nošahu carske kæeri dok su djevojke. I sluga njegov izvede je napolje, i zakljuèa za njom vrata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tada Tamara posu se pepelom po glavi i razdrije šarenu haljinu koju imaše na sebi, i metnu ruku svoju na glavu, i otide vièuæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A brat njezin Avesalom reèe joj: da nije Amnon brat tvoj bio s tobom? ali, sestro moja, æuti, brat ti je, ne misli o tom. I tako osta Tamara osamljena u kuæi brata svojega Avesaloma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I car David èuvši sve ovo razgnjevi se vrlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Avesalom pak ne govoraše s Amnonom ni ružno ni lijepo; jer Avesalom mržaše na Amnona što mu osramoti sestru Tamaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A poslije dvije godine kad se strizijahu ovce Avesalomove u Val-Asoru, koji je kod Jefrema, on pozva sve sinove careve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I doðe Avesalom k caru i reèe mu: evo, sad se strigu ovce sluzi tvojemu; neka poðe car i sluge njegove sa slugom svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ali car reèe Avesalomu: nemoj, sine, nemoj da idemo svi, da ti ne budemo na tegotu. I premda navaljivaše, opet ne htje iæi, nego ga blagoslovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A Avesalom reèe: kad ti neæeš, a ono neka ide s nama Amnon brat moj. A car mu reèe: što da ide s tobom?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ali navali Avesalom na nj, te pusti s njim Amnona i sve sinove carske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Tada Avesalom zapovjedi momcima svojim govoreæi: pazite, kad se srce Amnonu razveseli od vina, i ja vam reèem: ubijte Amnona; tada ga ubijte; ne bojte se, jer vam ja zapovijedam, budite slobodni i hrabri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I uèiniše s Amnonom sluge Avesalomove kako im zapovjedi Avesalom. Tada ustaše svi sinovi carevi i pojahaše svak svoju mazgu i pobjegoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A dokle još bijahu na putu, doðe glas Davidu da je Avesalom pobio sve sinove careve, da nije ostao od njih nijedan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Tada ustavši car razdrije haljine svoje, i leže na zemlju, i sve sluge njegove koje stajahu oko njega razdriješe haljine svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A Jonadav sin Same brata Davidova progovori i reèe: neka ne govori gospodar moj da su pobili svu djecu, careve sinove; poginuo je samo Amnon, jer Avesalom bješe tako naumio od onoga dana kad Amnon osramoti Tamaru sestru njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Neka dakle car gospodar moj ne misli o tom u srcu svojem govoreæi: svi sinovi carevi pogiboše; jer je samo Amnon poginuo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A Avesalom pobježe. A momak na straži podiže oèi svoje i ugleda, a to mnogi narod ide k njemu pokraj gore."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I Jonadav reèe caru: evo idu sinovi carevi; kao što je kazao sluga tvoj, tako je bilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I kad izreèe, a to sinovi carevi doðoše, i podigavši glas svoj plakaše; a i car i sve sluge njegove plakaše vrlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Avesalom pak pobježe i otide k Talmaju sinu Amijudovu caru Gesurskom. A David plakaše za sinom svojim svaki dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A kad Avesalom uteèe i doðe u Gesur, osta ondje tri godine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Potom zaželje car David otiæi k Avesalomu, jer se utješi za Amnonom što pogibe."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2SA/13.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 13
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2SA/14.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 14
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2SA/12.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 12
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 39
+}

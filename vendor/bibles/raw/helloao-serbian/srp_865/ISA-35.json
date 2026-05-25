@@ -1,0 +1,146 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 35,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Radovaæe se tome pustinja i zemlja sasušena, veseliæe se pustoš i procvjetati kao ruža."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Procvjetaæe obilno, i veseliæe se radujuæi se i popijevajuæi; slava Livanska daæe joj se i krasota Karmilska i Saronska; ta æe mjesta vidjeti slavu Gospodnju, krasotu Boga našega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ukrijepite klonule ruke, i koljena iznemogla utvrdite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Recite onima kojima se srce uplašilo: ohrabrite se, ne bojte se; evo Boga vašega; osveta ide, plata Božija, sam ide, i spašæe vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tada æe se otvoriti oèi slijepima, i uši gluhima otvoriæe se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tada æe hromac skakati kao jelen, i jezik nijemoga pjevaæe, jer æe u pustinji provreti vode i potoci u zemlji sasušenoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I suho æe mjesto postati jezero, i zemlja sasušena izvori vodeni, u stanu zmajevskom, po ložama njihovijem, biæe trava, trska i sita."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I ondje æe biti nasap i put, koji æe se zvati sveti put; neæe iæi po njemu neèisti, nego æe biti za njih; ko uzide njim, ni lud neæe zaæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Neæe ondje biti lava, i ljuta zvijer neæe iæi po njemu, niti æe se ondje naæi, nego æe hoditi izbavljeni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I koje iskupi Gospod, vratiæe se i doæi æe u Sion pjevajuæi, i vjeèna æe radost biti nad glavom njihovom, dobiæe radost i veselje, a žalost i uzdisanje bježaæe."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/35.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 35
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/36.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 36
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/34.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 34
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 10
+}

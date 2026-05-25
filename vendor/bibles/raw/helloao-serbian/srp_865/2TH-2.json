@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2TH",
+    "translationId": "srp_865",
+    "name": "2 Solunjanima",
+    "commonName": "2 Solunjanima",
+    "title": "2. Solunjanima Poslanica",
+    "order": 53,
+    "numberOfChapters": 3,
+    "sha256": "49841a50c5430b219c773dd698244827ae439bac8998ccf3a8457995e9fc19fd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2TH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2TH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 3,
+    "lastChapterApiLink": "/api/srp_865/2TH/3.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2TH",
+      "chapter": 3
+    },
+    "totalNumberOfVerses": 47
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ali vas molimo, braæo, za dolazak Gospoda našega Isusa Hrista, i za naš sastanak u njemu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Da se ne date lasno pokrenuti od uma, niti da se plašite, ni duhom ni rijeèju, ni poslanicom, kao da je od nas poslana, da je veæ nastao dan Hristov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Da vas niko ne prevari nikakijem naèinom; jer neæe doæi dok ne doðe najprije otpad, i ne pokaže se èovjek bezakonja, sin pogibli,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Koji se protivi i podiže više svega što se zove Bog ili se poštuje, tako da æe on sjesti u crkvi Božijoj kao Bog pokazujuæi sebe da je Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ne pamtite li da sam vam ovo kazivao još kad sam kod vas bio?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I sad znate što zadržava da se ne javi u svoje vrijeme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer se veæ radi tajna bezakonja, samo dok se ukloni onaj koji sad zadržava."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Pa æe se onda javiti bezakonik, kojega æe Gospod Isus ubiti duhom usta svojijeh, i iskorijeniti svjetlošæu dolaska svojega;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Kojega je dolazak po èinjenju sotoninu sa svakom silom, i znacima i lažnijem èudesima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I sa svakom prijevarom nepravde meðu onima koji ginu: jer ljubavi istine ne primiše, da bi se spasli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I zato æe im Bog poslati silu prijevare, da vjeruju laži;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Da prime sud svi koji ne vjerovaše istini, nego volješe nepravdu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A mi smo dužni svagda zahvaljivati Bogu za vas, braæo ljubazna Gospodu! što vas je Bog od poèetka izabrao za spasenije u svetinji Duha i vjeri istine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "U koje vas dozva jevanðeljem našijem, da dobijete slavu Gospoda našega Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tako dakle, braæo, stojte i držite uredbe kojima se nauèiste ili rijeèju ili iz poslanice naše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A sam Gospod naš Isus Hristos, i Bog i otac naš, kojemu omiljesmo i dade nam utjehu vjeènu i nad dobri u blagodati,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Da utješi srca vaša i da vas utvrdi u svakoj rijeèi i djelu dobrome."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2TH/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2TH",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2TH/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2TH",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2TH/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2TH",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

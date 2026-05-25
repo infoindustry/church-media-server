@@ -1,0 +1,279 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I Bog blagoslovi Noja i sinove njegove, i reèe im: raðajte se i množite se, i napunite zemlju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I sve zvijeri zemaljske i sve ptice nebeske i sve što ide po zemlji i sve ribe morske neka vas se boje i straše; sve je predano u vaše ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Što se god mièe i živi, neka vam bude za jelo, sve vam to dadoh kao zelenu travu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ali ne jedite mesa s dušom njegovom, a to mu je krv."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer æu i vašu krv, duše vaše, iskati; od svake æu je zvijeri iskati; iz ruke samoga èovjeka, iz ruke svakoga brata njegova iskaæu dušu èovjeèiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ko prolije krv èovjeèiju, njegovu æe krv proliti èovjek; jer je Bog po svojemu oblièju stvorio èovjeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Raðajte se dakle i množite se; narodite se veoma na zemlji i namnožite se na njoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I reèe Bog Noju i sinovima njegovijem s njim, govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A ja evo postavljam zavjet svoj s vama i s vašim sjemenom nakon vas,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I sa svijem životinjama, što su s vama od ptica, od stoke i od svega zvijerja zemaljskoga što je s vama, sa svaèim što je izašlo iz kovèega, i sa svijem zvijerjem zemaljskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Postavljam zavjet svoj s vama, te otsele neæe nijedno tijelo poginuti od potopa, niti æe više biti potopa da zatre zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I reèe Bog: evo znak zavjeta koji postavljam izmeðu sebe i vas i svake žive tvari, koja je s vama dovijeka:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Metnuo sam dugu svoju u oblake, da bude znak zavjeta izmeðu mene i zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Pa kad oblake navuèem na zemlju, vidjeæe se duga u oblacima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I opomenuæu se zavjeta svojega koji je izmeðu mene i vas i svake duše žive u svakom tijelu, i neæe više biti od vode potopa da zatre svako tijelo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Duga æe biti u oblacima, pa æu je pogledati, i opomenuæu se vjeènoga zavjeta izmeðu Boga i svake duše žive u svakom tijelu koje je na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I reèe Bog Noju: to je znak zavjeta koji sam uèinio izmeðu sebe i svakoga tijela na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A bijahu sinovi Nojevi koji izidoše iz kovèega: Sim i Ham i Jafet; a Ham je otac Hanancima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "To su tri sina Nojeva, i od njih se naseli sva zemlja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Noje poèe raditi zemlju, i posadi vinograd."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I napiv se vina opi se, i otkri se nasred šatora svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A Ham, otac Hanancima, vidje golotinju oca svojega, i kaza obojici braæe svoje na polju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A Sim i Jafet uzeše haljinu, i ogrnuše je obojica na ramena svoja, i iduæi natraške pokriše njom golotinju oca svojega, licem natrag okrenuvši se da ne vide golotinje oca svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A kad se Noje probudi od vina, dozna šta mu je uèinio mlaði sin,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I reèe: proklet da je Hanan, i da bude sluga slugama braæe svoje!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I još reèe: blagosloven da je Gospod Bog Simov, i Hanan da mu bude sluga!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Bog da raširi Jafeta da živi u šatorima Simovijem, a Hanan da im bude sluga!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I poživje Noje poslije potopa trista i pedeset godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A svega poživje Noje devet stotina i pedeset godina; i umrije."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/9.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 9
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/10.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 10
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/8.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 8
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

@@ -1,0 +1,510 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "srp_865",
+    "name": "Luki",
+    "commonName": "Luki",
+    "title": "Jevanðelje po Luki",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "71d24bae001865beafd9dc8b76f8e93d8f927bd8e33391ea4aebbf53673c6a27",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LUK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/LUK/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Sazvavši pak dvanaestoricu dade im silu i vlast nad svijem ðavolima, i da iscjeljuju od bolesti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I posla ih da propovijedaju carstvo Božije, i da iscjeljuju bolesnike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reèe im: ništa ne uzimajte na put, ni štapa ni torbe ni hljeba ni novaca, niti po dvije haljine da imate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "U koju kuæu uðete ondje budite i odande polazite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I gdje vas ne prime izlazeæi iz grada onoga otresite i prah s nogu svojijeh, za svjedoèanstvo na njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A kad iziðoše, iðahu po selima propovijedajuæi jevanðelje i iscjeljujuæi svuda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kad èu Irod èetverovlasnik šta on èini, ne mogaše se naèuditi, jer neki govorahu da je Jovan ustao iz mrtvijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A jedni da se Ilija pojavio, a jedni da je ustao koji od starijeh proroka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I reèe Irod: Jovana ja posjekoh; ali ko je to o kome ja takova èudesa slušam? I željaše ga vidjeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I vrativši se apostoli kazaše mu šta su poèinili. I uzevši ih otide nasamo u pustinju kod grada koji se zvaše Vitsaida."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A narod razumjevši poðe za njim, i primivši ih govoraše im o carstvu Božijemu i iscjeljivaše koji trebahu iscjeljivanja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A dan stade naginjati. Tada pristupiše dvanaestorica i rekoše mu: otpusti narod, neka idu na konak u okolna sela i palanke, i nek naðu jela, jer smo ovdje u pustinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A on im reèe: podajte im vi neka jedu. A oni rekoše: u nas nema više od pet hljebova i dvije ribe; veæ ako da idemo mi da kupimo na sve ove ljude jela?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer bijaše ljudi oko pet hiljada. Ali on reèe uèenicima svojijem: posadite ih na gomile po pedeset."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I uèiniše tako, i posadiše ih sve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A on uze onijeh pet hljebova i obje ribe, i pogledavši na nebo blagoslovi ih i prelomi, i davaše uèenicima da razdadu narodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I jedoše i nasitiše se svi, i nakupiše komada dvanaest kotarica što im preteèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I kad se jedanput moljaše Bogu nasamo, s njim bijahu uèenici, i zapita ih govoreæi: ko govore ljudi da sam ja?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A oni odgovarajuæi rekoše: jedni vele da si Jovan krstitelj, a drugi da si Ilija; a drugi da je koji ustao od starijeh proroka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A on im reèe: a vi šta mislite ko sam ja? A Petar odgovarajuæi reèe: Hristos Božij."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A on im zaprijeti i zapovjedi da nikome ne kazuju toga"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Govoreæi da sinu èovjeèijemu treba mnogo postradati, i da æe ga starješine i glavari sveštenièki i književnici okriviti, i da æe ga ubiti, i treæi dan da æe ustati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A svima govoraše: ko hoæe da ide za mnom neka se odreèe sebe i uzme krst svoj i ide za mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer ko hoæe dušu svoju da saèuva, izgubiæe je; a ko izgubi dušu svoju mene radi onaj æe je saèuvati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Jer kaku æe korist imati èovjek ako sav svijet pridobije a sebe izgubi ili sebi naudi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jer ko se postidi mene i mojijeh rijeèi njega æe se sin èovjeèij postidjeti kad doðe u slavi svojoj i oèinoj i svetijeh anðela."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A zaista vam kažem: imaju neki meðu ovima što stoje ovdje koji neæe okusiti smrti dok ne vide carstva Božijega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A kad proðe osam dana poslije onijeh rijeèi, uze Petra i Jovana i Jakova i iziðe na goru da se pomoli Bogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I kad se moljaše postade lice njegovo drukèije, i odijelo njegovo bijelo i sjajno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I gle, dva èovjeka govorahu s njim, koji bijahu Mojsije i Ilija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Pokazaše se u slavi, i govorahu o izlasku njegovu koji mu je trebalo svršiti u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A Petar i koji bijahu s njim bijahu zaspali; ali probudivši se vidješe slavu njegovu i dva èovjeka koji s njim stajahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I kad se odvojiše od njega reèe Petar Isusu: uèitelju! dobro nam je ovdje biti; i da naèinimo tri sjenice: jednu tebi, i jednu Mojsiju, i jednu Iliji: ne znajuæi šta govoraše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A dok on to govoraše doðe oblak i zakloni ih; i uplašiše se kad zaðoše u oblak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I èu se glas iz oblaka govoreæi: ovo je sin moj ljubazni, njega poslušajte."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I kad se èujaše glas naðe se Isus sam. I oni umuèaše, i nikom ne javiše ništa u one dane od onoga šta vidješe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A dogodi se drugi dan kad siðoše s gore srete ga mnoštvo naroda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I gle, èovjek iz naroda povika govoreæi: uèitelju! molim ti se, pogledaj na sina mojega, jer mi je jedinac:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I gle, hvata ga duh, i ujedanput vièe, i lomi ga s pjenom, i jedva otide od njega kad ga izlomi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I molih uèenike tvoje da ga istjeraju, pa ne mogoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I odgovarajuæi Isus reèe: o rode nevjerni i pokvareni! dokle æu biti s vama i trpljeti vas? Dovedi mi sina svojega amo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A dok još iðaše k njemu obori ga ðavo, i stade ga lomiti. A Isus zaprijeti duhu neèistome, i iscijeli momèe, i dade ga ocu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I svi se divljahu velièini Božijoj. A kad se svi èuðahu svemu što èinjaše Isus, reèe uèenicima svojijem:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Metnite vi u uši svoje ove rijeèi: jer sin èovjeèij treba da se preda u ruke èovjeèije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "A oni ne razumješe rijeèi ove; jer bješe sakrivena od njih da je ne mogoše razumjeti; i bojahu se da ga zapitaju za ovu rijeè."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "A uðe misao u njih ko bi najveæi bio meðu njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "A Isus znajuæi pomisli srca njihovijeh uze dijete i metnu ga preda se,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "I reèe im: koji primi ovo dijete u ime moje, mene prima; i koji mene prima, prima onoga koji me je poslao; jer koji je najmanji meðu vama on je veliki."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "A Jovan odgovarajuæi reèe: uèitelju! vidjesmo jednoga gdje imenom tvojijem izgoni ðavole, i zabranismo mu, jer ne ide s nama za tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "I reèe mu Isus: ne branite; jer ko nije protiv vas s vama je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "A kad se navršiše dani uzeæa njegova, on namjeri da ide pravo u Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "I posla glasnike pred licem svojijem; i oni otidoše i doðoše u selo Samarjansko da mu ugotove gdje æe noæiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "I ne primiše ga; jer vidješe da ide u Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "A kad vidješe uèenici njegovi Jakov i Jovan, rekoše: Gospode! hoæeš li da reèemo da oganj siðe s neba i da ih istrijebi kao i Ilija što uèini?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "A on okrenuvši se zaprijeti im i reèe: ne znate kakvoga ste vi duha;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "Jer sin èovjeèij nije došao da pogubi duše èovjeèije nego da saèuva. I otidoše u drugo selo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "A kad iðahu putem reèe mu neko: Gospode! ja idem za tobom kud god ti poðeš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "I reèe mu Isus: lisice imaju jame i ptice nebeske gnijezda: a sin èovjeèij nema gdje zakloniti glave."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 59,
+        "content": [
+          "A drugome reèe: hajde za mnom. A on reèe: Gospode! dopusti mi da idem najprije da ukopam oca svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 60,
+        "content": [
+          "A Isus reèe mu: ostavi neka mrtvi ukopavaju svoje mrtvace; a ti hajde te javljaj carstvo Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 61,
+        "content": [
+          "A drugi reèe: Gospode! ja idem za tobom; ali dopusti mi najprije da idem da se oprostim s domašnjima svojijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 62,
+        "content": [
+          "A Isus reèe mu: nijedan nije pripravan za carstvo Božije koji metne ruku svoju na plug pa se obzire natrag."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LUK/9.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 9
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LUK/10.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 10
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LUK/8.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 8
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 62
+}

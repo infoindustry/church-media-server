@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "SNG",
+    "translationId": "srp_865",
+    "name": "Pesma nad pesmama",
+    "commonName": "Pesma nad pesmama",
+    "title": "Pesma nad pesmama",
+    "order": 22,
+    "numberOfChapters": 8,
+    "sha256": "af3cfd2e645cad0b116a0f29d9f60ede5ded39d17d4e952244af1a28d2d49ea2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/SNG/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "SNG",
+      "chapter": 1
+    },
+    "lastChapterNumber": 8,
+    "lastChapterApiLink": "/api/srp_865/SNG/8.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "SNG",
+      "chapter": 8
+    },
+    "totalNumberOfVerses": 117
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ja sam ruža Saronska, ljiljan u dolu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Što je ljiljan meðu trnjem, to je draga moja meðu djevojkama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Što je jabuka meðu drvetima šumskim, to je dragi moj meðu momcima; željeh hlada njezina, i sjedoh, i rod je njezin sladak grlu mojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Uvede me u kuæu gdje je gozba a zastava mu je ljubav k meni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Potkrijepite me žbanovima, pridržite me jabukama, jer sam bolna od ljubavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Lijeva je ruka njegova meni pod glavom, a desnom me grli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zaklinjem vas, kæeri Jerusalimske, srnama i košutama poljskim, ne budite ljubavi moje, ne budite je, dok joj ne bude volja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Glas dragoga mojega; evo ga, ide skaèuæi preko gora, poskakujuæi preko humova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Dragi je moj kao srna ili kao jelenèe; evo ga, stoji iza našega zida, gleda kroz prozor, viri kroz rešetku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Progovori dragi moj i reèe mi: ustani, draga moja, ljepotice moja, i hodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer gle, zima proðe, minuše daždi, otidoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Cvijeæe se vidi po zemlji, doðe vrijeme pjevanju, i glas grlièin èuje se u našoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Smokva je pustila zametke svoje, i loza vinova ucvala miriše. Ustani, draga moja, ljepotice moja, i hodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Golubice moja u rasjelinama kamenijem, u zaklonu vrletnom! daj da vidim lice tvoje, daj da èujem glas tvoj; jer je glas tvoj sladak i lice tvoje krasno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Pohvatajte nam lisice, male lisice, što kvare vinograde, jer naši vinogradi cvatu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Moj je dragi moj, i ja sam njegova, on pase meðu ljiljanima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Dok zahladi dan i sjenke otidu, vrati se, budi kao srna, dragi moj, ili kao jelenèe po gorama razdijeljenijem."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/SNG/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "SNG",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/SNG/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "SNG",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/SNG/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "SNG",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

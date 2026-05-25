@@ -1,0 +1,300 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EST",
+    "translationId": "srp_865",
+    "name": "Jestira",
+    "commonName": "Jestira",
+    "title": "Jestira",
+    "order": 17,
+    "numberOfChapters": 10,
+    "sha256": "e4f6efd7a0ac2ec68174fc976318ab40b76a1d521c247f2da3227c800670b4a9",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EST/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EST",
+      "chapter": 1
+    },
+    "lastChapterNumber": 10,
+    "lastChapterApiLink": "/api/srp_865/EST/10.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EST",
+      "chapter": 10
+    },
+    "totalNumberOfVerses": 167
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I tako dvanaestoga mjeseca, a to je mjesec Adar, trinaestoga dana, kad doðe da se izvrši rijeè careva i zapovijest njegova, istoga dana kad se neprijatelji Judejski nadahu da æe obladati njima, preokrenu se, te Judejci obladaše svojim nenavidnicima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Skupiše se Judejci u svojim gradovima po svijem zemljama cara Asvira da dignu ruke na one koji im tražahu zlo; i niko ne mogaše stajati pred njima; jer strah od njih popade sve narode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I svi knezovi zemaljski, namjesnici i upravitelji i koji opravljahu poslove careve, podupirahu Judejce, jer ih popade strah od Mardoheja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer velik bijaše Mardohej u domu carevu, i slava njegova prolažaše sve zemlje, jer taj èovjek Mardohej bivaše sve veæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I tako pobiše Judejci sve neprijatelje svoje maèem i potrše i istrijebiše, i uèiniše što htješe od nenavidnika svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I u Susanu carskom gradu ubiše Judejci i istrijebiše pet stotina ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I Farsandatu i Dalfona i Aspatu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I Poratu i Adaliju i Aridatu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I Farmastu i Arisaja i Aridaja i Vajezatu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Deset sinova Amana sina Amedatina neprijatelja Judejskoga pobiše, ali na plijen ne digoše ruke svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "U onaj dan kad javiše caru broj pobijenijeh u Susanu carskom gradu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Reèe car Jestiri carici: u Susanu carskom gradu pobiše i potrše Judejci pet stotina ljudi i deset sinova Amanovijeh, a šta su uèinili po ostalijem zemljama carevijem? Šta želiš? daæe ti se; i šta još moliš? biæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Jestira reèe: ako je ugodno caru, da se dopusti Judejcima u Susanu i sjutra da uèine po današnjoj naredbi i deset sinova Amanovijeh da objese na vješala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I zapovjedi car da bude tako. I oglašena bi zapovijest u Susanu, i objesiše deset sinova Amanovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I Judejci koji bijahu u Susanu skupivši se i èetrnaestoga dana mjeseca Adara pobiše u Susanu tri stotine ljudi, ali na plijen ne digoše ruke svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A ostali Judejci koji bijahu po zemljama carevijem skupiše se da brane život svoj i da se smire od neprijatelja svojih; i pobiše sedamdeset i pet tisuæa nenavidnika svojih; ali na plijen ne digoše ruke svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "To bi trinaestoga dana mjeseca Adara; a èetrnaestoga poèinuše, i praznovaše taj dan gosteæi se i veseleæi se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A Judejci koji bijahu u Susanu skupiše se trinaestoga i èetrnaestoga dana istoga mjeseca, a poèinuše petnaestoga, i praznovaše taj dan gosteæi se i veseleæi se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Zato Judejci seljani, koji žive po mjestima neograðenijem, praznuju èetrnaesti dan mjeseca Adara veseleæi se i gosteæi se i blagujuæi, i šaljuæi dijelove jedan drugom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer Mardohej napisa ovo, i razasla knjige svijem Judejcima koji bijahu po svijem zemljama cara Asvira, blizu i daleko,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Nareðujuæi im da praznuju dan èetrnaesti mjeseca Adara i petnaesti dan istoga mjeseca svake godine;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Prema danima u koje se smiriše Judejci od neprijatelja svojih i prema mjesecu kad im se pretvori žalost u radost i tuga u veselje, da te dane praznuju gosteæi se i veseleæi se i šaljuæi dijelove jedan drugom, i siromasima darove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I primiše svi Judejci da èine što su poèeli i što im pisa Mardohej."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer Aman sin Amedatin Agagej neprijatelj svijeh Judejaca namisli za Judejce da ih istrijebi, i baci Fur, to jest ždrijeb, da ih potre i istrijebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ali kad Jestira izide pred cara, on zapovjedi knjigom, te se zla misao njegova koju smisli na Judejce obrati na njegovu glavu, i objesiše njega i sinove njegove na vješala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Zato prozvaše te dane Furim od imena Fur; i radi svijeh rijeèi te knjige i radi onoga što vidješe, tako i radi onoga što im se dogodi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Postaviše Judejci i primiše na se i na sjeme svoje i na sve koji se udruže s njima da je nepromjenito da slave ta dva dana kao što je napisano za njih i na vrijeme koje je za njih odreðeno, svake godine,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I da se ti dani spominju i slave u svakom naraštaju, u svakoj porodici, u svakoj zemlji i u svakom gradu; i ti dani Furim da ne prestanu meðu Judejcima i spomen njihov da ne pogine u sjemenu njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I pisa carica Jestira kæi Avihailova i Mardohej Judejac svakom tvrðom potvrðujuæi knjigu za Furim drugi put."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I Mardohej razasla knjigu svijem Judejcima u sto i dvadeset i sedam zemalja cara Asvira s rijeèima ljubaznijem i istinijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Da tvrdo drže dane Furim na vrijeme kao što im je postavio Mardohej Judejac i carica Jestira i kao što sami postaviše sebi i sjemenu svojemu za spomen postu njihovu i vikanju njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Tako zapovijest Jestirina potvrdi uredbu za Furim, i bi zapisano u knjigu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EST/9.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EST",
+    "chapter": 9
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EST/10.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EST",
+    "chapter": 10
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EST/8.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EST",
+    "chapter": 8
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 32
+}

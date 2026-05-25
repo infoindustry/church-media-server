@@ -1,0 +1,286 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "srp_865",
+    "name": "Ponovljeni Zakon",
+    "commonName": "Ponovljeni Zakon",
+    "title": "Ponovljeni Zakon",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "b000b6651908c9448c65c662cec1fa45977205b236e0922d505241ab679311df",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DEU/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 1
+    },
+    "lastChapterNumber": 34,
+    "lastChapterApiLink": "/api/srp_865/DEU/34.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 34
+    },
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 22,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Kad vidiš vola ili ovcu brata svojega gdje luta, nemoj proæi mimo njih, nego ih odvedi bratu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ako li ti brat tvoj nije blizu ili ga ne znaš, odvedi ih svojoj kuæi neka budu kod tebe dokle ih ne potraži brat tvoj, i tada mu ih vrati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Tako uèini i s magarcem njegovijem i s haljinom njegovom; i tako uèini sa svakom stvarju brata svojega izgubljenom, kad je izgubi a ti je naðeš, nemoj proæi mimo nju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Kad vidiš magarca ili vola brata svojega gdje je pao na putu, nemoj ih proæi, nego ih podigni s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Žena da ne nosi muškoga odijela niti èovjek da se oblaèi u ženske haljine, jer je gad pred Gospodom Bogom tvojim ko god tako èini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Kad naiðeš putem na gnijezdo ptièije, na drvetu ili na zemlji, sa ptiæima ili sa jajcima, a majka leži na ptiæima ili na jajcima, nemoj uzeti majke s ptiæima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nego pusti majku a ptiæe uzmi, da bi ti dobro bilo i da bi ti se produljili dani."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Kad gradiš novu kuæu, naèini ogradu oko strehe svoje, da ne bi navukao krvi na dom svoj, kad bi ko pao s njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ne sij u vinogradu svojem drugoga sjemena da ne bi oskvrnio i rod od sjemena koje posiješ i rod vinogradski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ne ori na volu i na magarcu zajedno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ne oblaèi haljine tkane od vune i od lana zajedno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Naèini sebi rese na èetiri kraja od haljine koju oblaèiš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ko se oženi, pa mu žena omrzne pošto legne s njom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Pa da priliku da se govori o njoj i prospe rðav glas o njoj govoreæi: oženih se ovom, ali legavši s njom ne naðoh u nje djevojaštva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tada otac djevojèin i mati neka uzmu i donesu znake djevojaštva njezina pred starješine grada svojega na vrata,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I neka reèe otac djevojèin starješinama: ovu kæer svoju dadoh ovomu èovjeku za ženu, a on mrzi na nju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I dade priliku da se govori o njoj rekav: ne naðoh u tvoje kæeri djevojaštva; a evo znaka djevojaštva kæeri moje. I neka razastru haljinu pred starješinama gradskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Tada starješine grada onoga neka uzmu muža njezina i nakaraju ga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I neka ga oglobe sto sikala srebra, koje neka dadu ocu djevojèinu zato što je iznio rðav glas na djevojku Izrailjku, i neka mu bude žena; da je ne može pustiti dok je živ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ali ako bude ono istina, da se nije našlo djevojaštvo u djevojke,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tada neka izvedu djevojku na vrata oca njezina, i neka je zaspu kamenjem ljudi onoga mjesta da pogine, zato što uèini sramotu u Izrailju kurvavši se u domu oca svojega. Tako izvadi zlo iz sebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ako se ko uhvati gdje leži sa ženom udatom, neka se pogube oboje, èovjek koji je ležao sa ženom i žena. Tako izvadi zlo iz Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Kad djevojka bude isprošena za koga, pa je naðe kogod u mjestu i obleži je,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Izvedite ih oboje na vrata onoga mjesta, i zaspite ih kamenjem da poginu, djevojku što nije vikala u mjestu, a èovjeka što je osramotio ženu bližnjega svojega. Tako izvadi zlo iz sebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ako li u polju naðe èovjek djevojku isprošenu, i silom je obleži, tada da se pogubi samo èovjek koji je obleža;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A djevojci ne èini ništa, nije uèinila grijeha koji zaslužuje smrt, jer kao kad ko skoèi na bližnjega svojega i ubije ga, takva je i ta stvar;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jer naðe je u polju, i djevojka isprošena vika, ali ne bi nikoga da je odbrani."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ako ko naðe djevojku koja nije isprošena i uhvati je i legne s njom, i zateku se,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Tada èovjek onaj koji je legao s njom da da ocu djevojèinu pedeset sikala srebra, i neka mu ona bude žena zato što je osramoti; da je ne može pustiti dok je živ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Niko da se ne ženi ženom oca svojega, ni da otkrije skuta oca svojega."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DEU/22.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 22
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DEU/23.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 23
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DEU/21.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 21
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 30
+}

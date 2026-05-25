@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "srp_865",
+    "name": "2. Dnevnika",
+    "commonName": "2. Dnevnika",
+    "title": "2. Dnevnika",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "712160a45a7d7fb40ad6e8f55f27c6bc71cf3a3fca70d89afd22674733ec70a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/2CH/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 25,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Bijaše Amasiji dvadeset i pet godina kad poèe carovati, i carova dvadeset i devet godina u Jerusalimu. Materi mu bješe ime Joadana iz Jerusalima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "On èinjaše što je pravo pred Gospodom, ali ne cijelijem srcem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I kad se utvrdi u carstvu, pobi sluge svoje koji ubiše cara oca njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ali sinova njihovijeh ne pogubi, nego uèini kako piše u zakonu, u knjizi Mojsijevoj, gdje je zapovjedio Gospod govoreæi: ocevi da ne ginu za sinove, ni sinovi za oceve, nego svaki za svoj grijeh neka gine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Iza toga skupi Amasija narod Judin, i postavi po domovima otaèkim tisuænike i stotinike po svoj zemlji Judinoj i Venijaminovoj, i izbroji ih od dvadeset godina i više, i naðe ih trista tisuæa vojnika izabranijeh, koji nošahu koplje i štit."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I jošte najmi izmeðu Izrailjaca sto tisuæa hrabrijeh ljudi za sto talanata srebra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ali doðe mu èovjek Božji i reèe: care, da ne ide s tobom vojska Izrailjska, jer Gospod nije s Izrailjcima niti sa sinovima Jefremovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Nego idi ti, i budi hrabar u boju; inaèe æe te oboriti Bog pred neprijateljem, jer Bog može i pomoæi i oboriti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tada reèe Amasija èovjeku Božijemu: a šta æe biti od sto talanata što sam dao vojsci Izrailjevoj? A èovjek Božji reèe: ima Gospod da ti da više od toga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I tako odvoji Amasija vojsku što mu bješe došla od Jefrema da otidu u svoje mjesto; a oni se vrlo rasrdiše na Judu, i vratiše se u svoje mjesto s velikim gnjevom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Amasija oslobodivši se povede narod svoj i otide u slanu dolinu, i pobi deset tisuæa sinova Sirovijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I deset tisuæa živijeh zarobiše Judejci, i odvedoše na vrh stijene, i pobacaše ih sa vrh stijene da se svi raspadoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A vojnici koje Amasija posla natrag da ne idu s njim u boj, navališe na gradove Judine od Samarije do Vet-Orona, i pobiše po njima tri tisuæe, i zaplijeniše velik plijen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A kad se vrati Amasija razbivši Idumeje, donese bogove sinova Sirovijeh, i postavi ih sebi za bogove, i klanjaše im se i kaðaše im."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tada se razgnjevi Gospod na Amasiju, i posla k njemu proroka, koji mu reèe: zašto tražiš bogove toga naroda, koji ne izbaviše svojega naroda iz tvoje ruke?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I kad govoraše caru, on mu reèe: jesi li postavljen caru za savjetnika? prestani; zašto da pogineš? I tako presta prorok, ali reèe: znam da te je Bog naumio istrijebiti kad to radiš a ne slušaš svjeta mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tada smisli Amasija car Judin, i posla k Joasu sinu Joahaza sina Jujeva, caru Izrailjevu, i poruèi: hodi da se ogledamo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A Joas car Izrailjev posla k Amasiji caru Judinu i poruèi mu: trn na Livanu posla ka kedru na Livanu, i poruèi: daj svoju kæer sinu mojemu za ženu. Ali naiðe zvijerje Livansko i izgazi trn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Veliš, pobio si Edomce, pa se ponese srce tvoje, i tražiš slave; sjedi kod kuæe svoje; zašto bi se zapletao u zlo da padneš i ti i Juda s tobom?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ali ne posluša Amasija, jer od Gospoda to bi da ih da u ruke neprijatelju, što tražiše bogove Edomske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I otide Joas car Izrailjev, i ogledaše se, on i Amasija car Judin, u Vet-Semesu Judinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ali Judu razbi Izrailj, te pobjegoše svaki ka svojemu šatoru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A Amasiju cara Judina sina Joasa sina Joahazova uhvati Joas car Izrailjev u Vet-Semesu, i odvede ga u Jerusalim; i obori zid Jerusalimski od vrata Jefremovijeh do vrata na uglu, èetiri stotine lakata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I uze sve zlato i srebro i sve posuðe što se naðe u domu Božijem u Ovid-Edoma i u riznici doma carskoga, i taoce, pa se vrati u Samariju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I poživje Amasija sin Joasov car Judin po smrti Joasa sina Joahaza cara Izrailjeva petnaest godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A ostala djela Amasijina prva i pošljednja, eto nijesu li zapisana u knjizi o carevima Judinijem i Izrailjevijem?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I pošto Amasija otstupi od Gospoda, digoše bunu na nj u Jerusalimu, a on pobježe u Lahis. Ali poslaše za njim u Lahis, i ubiše ga ondje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I donesoše ga na konjma i pogreboše ga kod otaca njegovijeh u gradu Judinu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CH/25.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 25
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CH/26.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 26
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CH/24.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 24
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

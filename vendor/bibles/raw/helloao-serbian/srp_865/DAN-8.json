@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DAN",
+    "translationId": "srp_865",
+    "name": "Danilo",
+    "commonName": "Danilo",
+    "title": "Danilo",
+    "order": 27,
+    "numberOfChapters": 12,
+    "sha256": "a7cfcf76b959e48ff3096b5f1336feefdd92c2ade2010b0cbd670ebbe8f652f0",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DAN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DAN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 12,
+    "lastChapterApiLink": "/api/srp_865/DAN/12.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DAN",
+      "chapter": 12
+    },
+    "totalNumberOfVerses": 357
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Treæe godine carovanja Valtasarova pokaza se meni Danilu utvara poslije one koja mi se pokazala prije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I vidjeh u utvari; a bjeh u Susanu u gradu koji je u zemlji Elamu, kad vidjeh, i vidjeh u utvari i bjeh na vodi Ulaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I podigoh oèi svoje i vidjeh, i gle, stajaše kraj vode ovan, koji imaše dva roga, a rogovi bjehu visoki, ali jedan viši od drugoga, i viši naraste poslije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Vidjeh ovna gdje bode na zapad i na sjever i na jug, i nijedna zvijer ne mogaše mu odoljeti, i ne bijaše nikoga ko bi izbavio od njega, nego èinjaše što hoæaše, i osili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A kad ja motrah, gle, iðaše jarac od zapada povrh sve zemlje a ne doticaše se zemlje; i taj jarac imaše rog znamenit meðu oèima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I doðe do ovna koji imaše dva roga, kojega vidjeh gdje stoji kraj vode, i potrèa na nj gnjevno silom svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I vidjeh ga gdje doðe do ovna, i razgnjeviv se na nj udari ovna, te mu slomi oba roga i ne bješe sile u ovnu da mu odoli, nego ga obori na zemlju i pogazi ga, i ne bješe nikoga da izbavi ovna od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I jarac posta vrlo velik; a kad osili, slomi se veliki rog, i mjesto njega narastoše znamenita èetiri roga prema èetiri vjetra nebeska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I iz jednoga njih izide jedan rog malen i naraste vrlo velik prema jugu i istoku i prema krasnoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I naraste dori do vojske nebeske, i obori na zemlju neke od vojske i od zvijezda, i pogazi ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I naraste dori do poglavara toj vojsci, i uze mu svagdašnju žrtvu, i sveti stan njegov obori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I vojska bi dana u otpad od žrtve svagdašnje, i obori istinu na zemlju, i što èinjaše napredovaše mu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada èuh jednoga sveca gdje govoraše, i jedan svetac reèe nekome koji govoraše: dokle æe trajati ta utvara za svagdašnju žrtvu i za otpad pustošni da se gazi svetinja i vojska?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I reèe mi: do dvije tisuæe i tri stotine dana i noæi; onda æe se svetinja oèistiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A kad vidjeh ja Danilo ovu utvaru, i zaiskah da razumijem, gle, stade preda me kao èovjek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I èuh glas èovjeèji nasred Ulaja, koji povika i reèe: Gavrilo, kaži ovome utvaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I doðe gdje ja stajah; i kad doðe uplaših se, i padoh na lice svoje; a on mi reèe: pazi, sine èovjeèji, jer je ova utvara za pošljednje vrijeme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A dok mi on govoraše, ja bijah izvan sebe ležeæi nièice na zemlji; a on me se dotaèe, i ispravi me, te stadoh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I reèe: evo, ja æu ti kazati šta æe biti na kraju gnjeva; jer æe u odreðeno vrijeme biti kraj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ovan što si ga vidio, koji ima dva roga, to su carevi Midski i Persijski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A runjavi je jarac car Grèki; i veliki rog što mu bješe meðu oèima, to je prvi car."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A što se on slomi, i mjesto njega narastoše èetiri, to su èetiri carstva, koja æe nastati iza toga naroda, ali ne s njegovom silom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A na pošljedak carovanja njihova, kad bezakonici navrše mjeru, nastaæe car bestidan i lukav."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Sila æe mu biti jaka, ali ne od njegove jaèine, i èudesno æe pustošiti, i biæe sreæan i svršivaæe, i gubiæe silne i narod sveti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I lukavstvom njegovijem napredovaæe prijevara u njegovoj ruci, i podignuæe se u srcu svom, i u miru æe pogubiti mnoge, i ustaæe na kneza nad knezovima, ali æe se potrti bez ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A reèena utvara o danu i noæi istina je; zato ti zapeèati utvaru, jer je za mnogo vremena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Tada ja Danilo zanemogoh, i bolovah neko vrijeme; poslije ustah i vrših poslove careve; i èudih se utvari, ali niko ne dozna."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DAN/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DAN/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DAN/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

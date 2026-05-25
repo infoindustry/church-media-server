@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 23,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada javiše Davidu govoreæi: evo Filisteji udariše na Keilu, i haraju gumna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I upita David Gospoda govoreæi: hoæu li iæi i udariti na te Filisteje? A Gospod reèe Davidu: idi, i pobiæeš Filisteje i izbaviti Keilu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Davidu rekoše ljudi njegovi: evo nas je strah ovdje u Judinoj zemlji, a šta æe biti kad poðemo u Keilu na oko Filistejski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Zato David opet upita Gospoda, a Gospod mu odgovori i reèe: ustani, idi u Keilu, jer æu ja predati Filisteje u ruke tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tada otide David sa svojim ljudima u Keilu, i udari na Filisteje, i otjera im stoku, i pobi ih ljuto; tako izbavi David stanovnike Keilske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A kad Avijatar sin Ahimelehov pobježe k Davidu u Keilu, donese sobom opleæak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Potom javiše Saulu da je David došao u Keilu; i reèe Saul: dao ga je Bog u moje ruke, jer se zatvorio ušavši u grad, koji ima vrata i prijevornice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I sazva Saul sav narod na vojsku da ide na Keilu i opkoli Davida i ljude njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ali David doznavši da mu Saul zlo kuje, reèe Avijataru svešteniku: uzmi na se opleæak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I reèe David: Gospode Bože Izrailjev! èuo je sluga tvoj da se Saul sprema da doðe na Keilu da raskopa grad mene radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Hoæe li me Keiljani predati u njegove ruke? hoæe li doæi Saul kao što je èuo sluga tvoj? Gospode Bože Izrailjev! kaži sluzi svojemu. A Gospod odgovori: doæi æe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Opet reèe David: Keiljani hoæe li predati mene i moje ljude u ruke Saulove? A Gospod odgovori: predaæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada se David podiže sa svojim ljudima, oko šest stotina ljudi, i otidoše iz Keile, i idoše kuda mogoše. A kad Saulu javiše da je David pobjegao iz Keile, tada on ne htje iæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A David se bavljaše u pustinji po tvrdijem mjestima, i namjesti se na jednom brdu u pustinji Zifu. A Saul ga tražaše jednako, ali ga Gospod ne dade u njegove ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I David videæi da je Saul izašao te traži dušu njegovu, osta u pustinji Zifu, u šumi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Jonatan sin Saulov podiže se i doðe k Davidu u šumu, i ukrijepi mu ruku u Gospodu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I reèe mu: ne boj se, jer te neæe stignuti ruka cara Saula oca mojega; nego æeš carovati nad Izrailjem, a ja æu biti drugi za tobom; i Saul otac moj zna to."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I uèiniše njih dvojica vjeru pred Gospodom; i David osta u šumi, a Jonatan otide kuæi svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tada doðoše Zifeji k Saulu u Gavaju, i rekoše: ne krije li se David kod nas po tvrdijem mjestima u šumi na brdu Eheli nadesno od Gesimona?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Sada dakle po svoj želji duše svoje, care, izidi, a naše æe biti da ga predamo u ruke caru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A Saul reèe: Gospod da vas blagoslovi, što me požaliste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Idite sada i doznajte još bolje i razberite i promotrite gdje se sakrio i ko ga je ondje vidio; jer mi kažu da je vrlo lukav."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Promotrite i vidite sva mjesta gdje se krije, pa opet doðite k meni kad dobro doznate, i ja æu poæi s vama; i ako bude u zemlji, tražiæu ga po svijem tisuæama Judinijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Tada ustaše i otidoše u Zif prije Saula; a David i ljudi njegovi bijahu u pustinji Maonu u ravnici nadesno od Gesimona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I Saul izide sa svojim ljudima da ga traži; a Davidu javiše, te on siðe sa stijene i stade u pustinji Maonu. A Saul kad to èu, otide za Davidom u pustinju Maon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I Saul iðaše jednom stranom planine, a David sa svojim ljudima drugom stranom planine; i David hiæaše da uteèe Saulu, jer Saul sa svojim ljudima opkoljavaše Davida i njegove ljude da ih pohvata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "U tom doðe glasnik Saulu govoreæi: brže hodi; jer Filisteji udariše na zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Tada se vrati Saul ne tjerajuæi dalje Davida, i otide pred Filisteje. Otuda se prozva ono mjesto Sela-Amalekot."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/23.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 23
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/24.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 24
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/22.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 22
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

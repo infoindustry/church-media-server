@@ -1,0 +1,153 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "HOS",
+    "translationId": "srp_865",
+    "name": "Osija",
+    "commonName": "Osija",
+    "title": "Osija",
+    "order": 28,
+    "numberOfChapters": 14,
+    "sha256": "96d12d7fd5b03440b12eac517f4221cde10131b17f936108cfd90e4f14b267e3",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/HOS/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "HOS",
+      "chapter": 1
+    },
+    "lastChapterNumber": 14,
+    "lastChapterApiLink": "/api/srp_865/HOS/14.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "HOS",
+      "chapter": 14
+    },
+    "totalNumberOfVerses": 197
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Kad Izrailj bješe dijete, ljubljah ga, i iz Misira dozvah sina svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Koliko ih zvaše, toliko oni odlaziše od njih; prinosiše žrtve Valima, kadiše likovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ja uèih Jefrema hoditi držeæi ga za ruke, ali ne poznaše da sam ih ja lijeèio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Vukoh ih uzicama èovjeèjim, užima ljubavnijem; i bijah im kao oni koji im skidaju jaram s èeljusti, i davah im hranu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Neæe se vratiti u zemlju Misirsku, nego æe mu Asirac biti car, jer se ne htješe obratiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I maè æe stajati u gradovima njegovijem, i potræe prijevornice njegove i proždrijeti za namjere njihove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Narod je moj prionuo za otpad od mene; zovu ga k višnjemu, ali se nijedan ne podiže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Kako da te dam, Jefreme? da te predam, Izrailju? kako da uèinim od tebe kao od Adame? da te obratim da budeš kao Sevojim? Ustreptalo je srce moje u meni, uskolebala se utroba moja od žalosti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Neæu izvršiti ljutoga gnjeva svojega, neæu opet zatrti Jefrema; jer sam ja Bog a ne èovjek, svetac usred tebe; neæu doæi na grad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Iæi æe oni za Gospodom; on æe rikati kao lav; kad rikne, sa strahom æe dotrèati sinovi s mora;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Sa strahom æe dotrèati iz Misira kao ptica, i kao golub iz zemlje Asirske; i naseliæu ih u kuæama njihovijem, govori Gospod."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/HOS/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "HOS",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/HOS/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "HOS",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/HOS/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "HOS",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 11
+}

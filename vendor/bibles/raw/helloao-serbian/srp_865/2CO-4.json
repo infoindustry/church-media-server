@@ -1,0 +1,202 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CO",
+    "translationId": "srp_865",
+    "name": "2 Korinæanima",
+    "commonName": "2 Korinæanima",
+    "title": "2. Korinæanima Poslanica",
+    "order": 47,
+    "numberOfChapters": 13,
+    "sha256": "20ab07753b2c73bb7bdc0574326c0b6fe24b2223ed2a3ffc8ec06c7f3f7c18a8",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 13,
+    "lastChapterApiLink": "/api/srp_865/2CO/13.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CO",
+      "chapter": 13
+    },
+    "totalNumberOfVerses": 255
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Zato imajuæi ovu službu kao što bismo pomilovani, ne dosaðuje nam se;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nego se odrekosmo tajnoga srama da ne živimo u lukavstvu, niti da izvræemo rijeè Božiju, nego javljanjem istine da se pokažemo svakoj savjesti èovjeèijoj pred Bogom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ako li je pak pokriveno jevanðelje naše, u onima je pokriveno koji ginu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "U kojima Bog svijeta ovoga oslijepi razume nevjernika, da im ne zasvijetli vidjelo jevanðelja slave Hristove, koji je oblièje Boga, koji se ne vidi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer sebe ne propovijedamo nego Hrista Isusa Gospoda, a sebe same vaše sluge Isusa Gospoda radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer Bog koji reèe da iz tame zasvijetli vidjelo, zasvijetli u srcima našima na svjetlost poznanja slave Božije u licu Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ali ovo blago imamo u zemljanijem sudovima, da premnoštvo sile bude od Boga a ne od nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "U svemu imamo nevolje, ali nam se ne dosaðuje; zbunjeni smo, ali ne gubimo nada;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Progone nas, ali nijesmo ostavljeni; obaljuju nas, ali ne ginemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I jednako nosimo na tijelu smrt Gospoda Isusa, da se i život Isusov na tijelu našemu pokaže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer mi živi jednako se predajemo na smrt za Isusa, da se i život Isusov javi na smrtnome tijelu našemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zato dakle smrt vlada u nama, a život u vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Imajuæi pak onaj isti duh vjere kao što je napisano: vjerovah, zato govorih; mi vjerujemo, zato i govorimo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Znajuæi da æe onaj koji podiže Isusa, i nas podignuti s Isusom, i postaviti s vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer je sve vas radi, da blagodat umnožena izobiluje hvalama na slavu Božiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Zato nam se ne dosaðuje; no ako se naš spoljašnji èovjek i raspada, ali se unutrašnji obnavlja svaki dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer naša laka sadašnja briga donosi nam vjeènu i od svega pretežniju slavu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nama koji ne gledamo na ovo što se vidi, nego na ono što se ne vidi; jer je ovo što se vidi, za vrijeme, a ono što se ne vidi, vjeèno."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CO/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CO",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CO/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CO",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CO/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CO",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

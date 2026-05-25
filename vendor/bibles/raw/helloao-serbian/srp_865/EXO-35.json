@@ -1,0 +1,321 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 35,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Potom sabra Mojsije sav zbor sinova Izrailjevih, i reèe im: ovo je zapovjedio Gospod da èinite:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Šest dana da se radi, a sedmi da vam je svet, subota poèivanja Gospodnjega; ko bi radio u taj dan, da se pogubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Vatre ne ložite po stanovima svojim u dan subotni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Još reèe Mojsije svemu zboru sinova Izrailjevih govoreæi: ovo je zapovjedio Gospod i rekao:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Skupite izmeðu sebe prilog Gospodu; ko god hoæe drage volje, neka donese prilog Gospodu: zlato i srebro i mjed,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I porfiru i skerlet i crvac i tanko platno i kostrijet,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I kože ovnujske crvene obojene i kože jazavèije i drvo sitim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I ulje za vidjelo, i mirise za ulje pomazanja i za kad mirisni,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I kamenje onihovo, i kamenje za ukivanje po opleæku i po naprsniku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I koji su god vješti meðu vama neka doðu da rade što je zapovjedio Gospod:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Šator, i naslon njegov, i pokrivaè njegov, i kuke njegove, i daske njegove, prijevornice njegove, stupove njegove i stopice njegove,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Kovèeg, i poluge njegove, i zaklopac, i zavjes,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Sto, i poluge njegove i sve sprave njegove, i hljeb za postavljanje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I svijetnjak za vidjelo sa spravama njegovijem, i žiške njegove, i ulje za vidjelo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I oltar kadioni, i poluge njegove, i ulje pomazanja, i kad mirisni, i zavjes na vrata od šatora,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Oltar za žrtvu paljenicu, i rešetku njegovu od mjedi, poluge njegove i sve sprave njegove, umivaonicu i podnožje njezino,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Zavjese za trijem, stupove njegove i stopice njegove, i zavjes na vrata od trijema,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Kolje za šator, i kolje za trijem s užima njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Haljine službene za službu u svetinji, i haljine svete Aronu svešteniku, i haljine sinovima njegovijem za službu sveštenièku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Tada otide sav zbor sinova Izrailjevijeh od Mojsija;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I vratiše se, svaki kojega podiže srce njegovo i koga god duh pokrete dragovoljno, i donesoše prilog Gospodu za graðenje šatora od sastanka i za svu službu u njemu i za haljine svete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Dolaziše ljudi i žene, ko god bješe dragovoljna srca, i donosiše spone i oboce i prstenje i narukvice i svakojake nakite zlatne; i svaki donese prilog zlata Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ko god imaše porfire, skerleta, crvca, tankoga platna, kostrijeti, koža ovnujskih crvenijeh obojenih i koža jazavèijih, svaki donošaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I ko god prilagaše srebro ili mjed, donošaše u prilog Gospodu; i u koga god bijaše drveta sitima, za svaku potrebu u službi donošaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I sve žene vješte predoše svojim rukama, i donosiše što napredoše za porfiru, skerlet, crvac i tanko platno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I sve žene koje podiže srce njihovo i bijahu vješte, predoše kostrijet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A glavari donosiše kamenje onihovo i kamenje za ukivanje po opleæku i po naprsniku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I mirise i ulje za vidjelo i za ulje pomazanja i za kad mirisni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Svi ljudi i žene, koje podiže dragovoljno srce da donose što treba za sve djelo koje Gospod zapovjedi preko Mojsija da se naèini, donesoše sinovi Izrailjevi dragovoljni prilog Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Tada reèe Mojsije sinovima Izrailjevim: vidite, Gospod pozva po imenu Veseleila sina Urije sina Orova od plemena Judina,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I napuni ga duha Božijega, mudrosti, razuma i znanja i vještine za svaki posao,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Da vješto izmišlja kako se što radi od zlata i srebra i od mjedi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Da umije rezati kamenje i ukivati, da umije tesati drvo i raditi svaki posao vrlo vješto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I dade mu u srce, njemu i Elijavu sinu Ahisamahovu od plemena Danova, da mogu uèiti druge."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Napuni ih vještine da rade svaki posao, da kuju, tešu, vezu, i tkaju porfiru, skerlet, crvac i tanko platno, i da rade svakojake poslove vješto izmišljajuæi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/35.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 35
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/36.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 36
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/34.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 34
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

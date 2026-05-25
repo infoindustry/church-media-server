@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 45,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Teèe iz srca mojega rijeè dobra; rekoh: djelo je moje za cara; jezik je moj trska hitroga pisara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ti si najljepši izmeðu sinova ljudskih, blagodat teèe iz usta tvojih, jer te je blagoslovio Bog dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Pripaši, junaèe, uz bedru svoju maè svoj, èast svoju i krasotu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I tako okiæen pohitaj, sjedi na kola za istinu i krotku pravdu, i desnica æe tvoja pokazati èudesa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Oštre su strijele tvoje; narodi æe pasti pod vlast tvoju; prostrijeliæe srca neprijatelja carevijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Prijesto je tvoj, Bože, vjeèan i nepokolebljiv; skiptar je carstva tvojega skiptar pravice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ljubiš pravdu i mrziš na bezakonje; toga radi pomaza te, Bože, Bog tvoj uljem radosti više nego drugove tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Sve haljine tvoje mirišu smirnom, alojem i kasijom. Koji žive u dvorima od Minijske slonove kosti, oni te vesele."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Carske kæeri dvore te; s desne ti strane stoji carica u Ofirskom zlatu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Èuj, kæeri, pogledaj i obrati k meni uho svoje, zaboravi narod svoj i dom oca svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I caru æe omiljeti ljepota tvoja; jer je on Gospod tvoj, i njemu se pokloni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Kæi Tirova doæi æe s darovima, najbogatiji u narodu tebe æe moliti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Sva je ukrašena kæi careva iznutra, haljina joj je zlatom iskiæena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "U vezenoj haljini vode je k caru; za njom vode k tebi djevojke, druge njezine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Vode ih veselo i radosno, ulaze u dvor carev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Mjesto otaca tvojih biæe sinovi tvoji, postaviæeš ih knezovima po svoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Uèiniæu da se ne zaboravlja ime tvoje od koljena na koljeno; po tom æe te slaviti narodi vavijek vijeka."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/45.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 45
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/46.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 46
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/44.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 44
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

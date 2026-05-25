@@ -1,0 +1,328 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JDG",
+    "translationId": "srp_865",
+    "name": "Sudije",
+    "commonName": "Sudije",
+    "title": "Sudije",
+    "order": 7,
+    "numberOfChapters": 21,
+    "sha256": "b90b96d9ad07648b61c3175adb672cbdc04a1a389be225dc4596659462d0e4db",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JDG/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JDG/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 618
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A po smrti Isusovoj upitaše sinovi Izrailjevi Gospoda govoreæi: ko æe izmeðu nas iæi prvi na Hananeje da se bije s njima?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I Gospod reèe: Juda neka ide; eto dao sam mu zemlju u ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Juda reèe Simeunu bratu svojemu: hajde sa mnom na moj dio da se bijemo s Hananejima; pak æu i ja iæi s tobom na tvoj dio. I poðe Simeun s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I izide Juda; i dade im Gospod Hananeje i Ferezeje u ruke, i pobiše ih u Vezeku deset tisuæa ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer naðoše Adoni-Vezeka u Vezeku, i udariše na nj, i pobiše Hananeje i Ferezeje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I pobježe Adoni-Vezek, a oni ga potjeraše i uhvativši ga otsjekoše mu palce u ruku i u nogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tada reèe Adoni-Vezek: sedamdeset careva otsjeèenijeh palaca u ruku i u nogu kupiše što bješe pod mojim stolom; kako sam èinio, tako mi plati Bog. I odvedoše ga u Jerusalim, i ondje umrije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer sinovi Judini udariše na Jerusalim i uzeše ga, i isjekoše graðane oštrijem maèem, a grad sažegoše ognjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Potom izidoše sinovi Judini da vojuju na Hananeje, koji življahu u gori i na jugu i u ravni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I Juda izide na Hananeje koji življahu u Hevronu, a Hevronu bijaše preðe ime Kirijat-Arva; i pobiše Sesaja i Ahimana i Talmaja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A odatle otidoše na Davirane, a Daviru prije bješe ime Kirijat-Sefer."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I reèe Halev: ko savlada Kirijat-Sefer i uzme ga, daæu mu Ahsu kæer svoju za ženu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I uze ga Gotonilo, sin Kenezov, mlaði brat Halevov; i dade mu Ahsu kæer svoju za ženu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I kad polažaše, nagovaraše ga da ište u oca njezina polje; pa skoèi s magarca. A Halev joj reèe: što ti je?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A ona mu reèe: daj mi dar; kad si mi dao suhe zemlje, daj mi i izvora vodenijeh. I dade joj Halev izvore gornje i izvore donje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A i sinovi Keneja tasta Mojsijeva izidoše iz grada palmova sa sinovima Judinijem u pustinju Judinu, koja je na jugu od Arada. I došavši življahu s narodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Potom izide Juda sa Simeunom bratom svojim, i pobiše Hananeje koji življahu u Sefatu, i raskopaše ga, i prozva se grad Orma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I Gazu uze Juda s meðama njezinijem, i Askalon s meðama njegovijem, i Akaron s meðama njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer Gospod bješe s Judom, te osvoji goru; ali ne izagna onijeh koji življahu u dolini, jer imahu gvozdena kola."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I dadoše Halevu Hevron, kao što bješe zapovjedio Mojsije, a on izagna odande tri sina Enakova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A sinovi Venijaminovi ne izagnaše Jevuseja koji življahu u Jerusalimu; nego Jevuseji ostaše u Jerusalimu sa sinovima Venijaminovijem do ovoga dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Izidoše i sinovi Josifovi na Vetilj, i Gospod bijaše s njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I uhodiše Vetilj sinovi Josifovi, a ime gradu bješe prije Luz."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I uhode vidješe èovjeka koji iðaše iz grada i rekoše mu: hajde pokaži nam kuda æemo uæi u grad, pa æemo ti uèiniti milost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A on im pokaza kuda æe uæi u grad; i isjekoše u gradu sve oštrijem maèem, a onoga èovjeka pustiše sa svom porodicom njegovom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I otide onaj èovjek u zemlju Hetejsku, i ondje sazida grad, i prozva ga Luz; to mu je ime do danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A Manasija ne izagna stanovnika iz Vet-Sana i sela njegovijeh, ni iz Tanaha i sela njegovijeh, ni stanovnika iz Dora i sela njegovijeh, ni stanovnika iz Ivleama i sela njegovijeh, ni stanovnika iz Megida i sela njegovijeh; i Hananeji stadoše živjeti u toj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A kad ojaèa Izrailj, udari na Hananeje danak, ali ih ne izagna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ni Jefrem ne izagna Hananeja koji življahu u Gezeru; nego ostaše Hananeji s njim u Gezeru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Zavulon ne izagna stanovnika iz Kitrona, ni stanovnika iz Nalola; nego ostaše Hananeji s njim, i plaæahu danak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Asir ne izagna stanovnika iz Akona, ni stanovnika iz Sidona ni iz Alava, ni iz Ahaziva, ni iz Helve, ni iz Afika, ni iz Reova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Nego Asir življaše meðu Hananejima, stanovnicima one zemlje, jer ih ne izagna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Neftalim ne izagna stanovnika iz Vet-Semesa, ni stanovnika iz Vet-Anata; nego življaše meðu Hananejima stanovnicima one zemlje; i stanovnici u Vet-Semesu i u Vet-Anatu plaæahu im danak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A Amoreji pritješnjavahu sinove Danove u gori, i ne dadijahu im slaziti u dolinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I Amoreji stadoše živjeti u gori Eresu, u Ajalonu i u Salvimu; a kad osili ruka doma Josifova, plaæaše danak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A meða Amorejima bješe od gore Akravimske, od stijene pa na više."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JDG/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JDG/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOS/24.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 24
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 36
+}

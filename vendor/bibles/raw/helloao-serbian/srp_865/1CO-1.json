@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CO",
+    "translationId": "srp_865",
+    "name": "1 Korinæanima",
+    "commonName": "1 Korinæanima",
+    "title": "1. Korinæanima Poslanica",
+    "order": 46,
+    "numberOfChapters": 16,
+    "sha256": "114ef2323a27d8e2c5bd8d2269293cc5ec228241cba7d2999cf2908b344e5d17",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/1CO/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CO",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 437
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Od Pavla, voljom Božijom pozvanoga apostola Isusa Hrista, i od Sostena brata,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Crkvi Božijoj koja je u Korintu, osveæenima u Hristu Isusu, pozvanima svetima, sa svima koji prizivlju ime Gospoda našega Isusa Hrista na svakome mjestu i njihovome i našemu:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Blagodat vam i mir od Boga oca našega i Gospoda Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Zahvaljujem svagda Bogu svojemu za vas što vam je dana blagodat Božija u Hristu Isusu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Te se u svemu obogatiste kroza nj, u svakoj rijeèi i svakom razumu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Kao što se svjedoèanstvo Hristovo utvrdi meðu vama;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tako da nemate nedostatka ni u jednome daru, vi koji èekate otkrivenja Gospoda našega Isusa Hrista,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Koji æe vas i utvrditi do samoga kraja da budete pravi na dan Gospoda našega Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Vjeran je Bog koji vas pozva u zajednicu sina svojega Isusa Hrista Gospoda našega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Molim vas pak, braæo, imenom Gospoda našega Isusa Hrista da svi jedno govorite, i da ne budu meðu vama raspre, nego da budete utvrðeni u jednom razumu i u jednoj misli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer sam èuo za vas, braæo moja, od Hlojinijeh domašnjijeh da su svaðe meðu vama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A to kažem da jedan od vas govori: ja sam Pavlov; a drugi: ja sam Apolov; a treæi: ja sam Kifin; a èetvrti: ja sam Hristov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Eda li se Hristos razdijeli? Eda li se Pavle razape za vas? ili se u ime Pavlovo krstiste?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Hvala Bogu što ja nijednoga od vas ne krstih osim Krispa i Gaja;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Da ne reèe ko da u svoje ime krstih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A krstih i Stefanin dom: dalje ne znam jesam li koga drugog krstio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer Hristos ne posla mene da krstim, nego da propovijedam jevanðelje, ne premudrijem rijeèima, da ne izgubi silu krst Hristov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer je rijeè krstova ludost onima koji ginu; a nama je koji se spasavamo sila Božija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer je pisano: pogubiæu premudrost premudrijeh, i razum razumnijeh odbaciæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Gdje je premudri? Gdje je književnik? Gdje je prepiraè ovoga vijeka? Ne pretvori li Bog mudrost ovoga svijeta u ludost?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer buduæi da u premudrosti Božijoj ne pozna svijet premudrošæu Boga, bila je Božija volja da ludošæu pouèenja spase one koji vjeruju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer i Jevreji znake ištu, i Grci premudrosti traže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A mi propovijedamo Hrista razapeta, Jevrejima dakle sablazan a Grcima bezumlje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Onima pak koji su pozvani, i Jevrejima i Grcima, Hrista, Božiju silu i Božiju premudrost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Jer je ludost Božija mudrija od ljudi, i slabost je Božija jaèa od ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jer pogledajte znanje svoje, braæo, da nema ni mnogo premudrijeh po tijelu, ni mnogo silnijeh ni mnogo plemenitijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Nego što je ludo pred svijetom ono izabra Bog da posrami premudre; i što je slabo pred svijetom ono izabra Bog da posrami jako;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I što je neplemenito pred svijetom i uništeno izabra Bog, i što nije, da uništi ono što jest,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Da se ne pohvali nijedno tijelo pred Bogom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Iz kojega ste vi u Hristu Isusu, koji nam posta premudrost od Boga i pravda i osveæenje i izbavljenje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Da kao što se piše) ko se hvali, Gospodom da se hvali."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CO/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CO/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ROM/16.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 16
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

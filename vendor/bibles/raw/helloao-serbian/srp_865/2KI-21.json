@@ -1,0 +1,258 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2KI",
+    "translationId": "srp_865",
+    "name": "2. Kraljevima",
+    "commonName": "2. Kraljevima",
+    "title": "2. Kraljevima",
+    "order": 12,
+    "numberOfChapters": 25,
+    "sha256": "14b91a44508aa4c11af5ab27266f4e76ec99d09dd2f0f675edf6866e97186808",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2KI/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2KI",
+      "chapter": 1
+    },
+    "lastChapterNumber": 25,
+    "lastChapterApiLink": "/api/srp_865/2KI/25.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2KI",
+      "chapter": 25
+    },
+    "totalNumberOfVerses": 719
+  },
+  "chapter": {
+    "number": 21,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Dvanaest godina bješe Manasiji kad poèe carovati, i carova pedeset i pet godina u Jerusalimu. Materi mu bješe ime Efsiva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I èinjaše što je zlo pred Gospodom po gadnijem djelima naroda, koje Gospod odagna ispred sinova Izrailjevijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer opet naèini visine, koje bješe potro Jezekija otac njegov, i podiže oltare Valu, i naèini lug kao što bješe naèinio Ahav car Izrailjev, i klanjaše se svoj vojsci nebeskoj i služaše joj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I naèini oltare u domu Gospodnjem, za koji bješe rekao Gospod: u Jerusalimu æu namjestiti ime svoje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Naèini oltare svoj vojsci nebeskoj u dva trijema doma Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I sina svojega provede kroz oganj, i vraèaše i gataše, i uredi one što se dogovaraju s duhovima i vraèare; i èinjaše vrlo mnogo što je zlo pred Gospodom, gnjeveæi ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I postavi rezan lik šumski koji naèini u domu, za koji bješe rekao Gospod Davidu i Solomunu sinu njegovu: u ovom domu i u Jerusalimu, koji izabrah izmeðu svijeh plemena Izrailjevijeh, namjestiæu ime svoje dovijeka;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I neæu više dati da se makne noga sinovima Izrailjevijem iz zemlje koju dadoh ocima njihovijem, ako samo uzdrže i ustvore sve što sam im zapovjedio, i sav zakon koji im je zapovjedio moj sluga Mojsije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ali ne poslušaše, jer ih zavede Manasija, te èiniše gore nego narodi koje istrijebi Gospod ispred sinova Izrailjevijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Gospod govoraše preko sluga svojih proroka govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Što uèini Manasija car Judin ta gadna djela èineæi gore od svega što su èinili Amoreji koji prije njega biše, i navede na grijeh i Judu gadnijem bogovima svojim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zato ovako veli Gospod Bog Izrailjev: evo, ja æu pustiti zlo na Jerusalim i na Judu, da æe svakome ko èuje zujati oba uha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer æu zategnuti nad Jerusalimom uže Samarijsko i mjerila doma Ahavova, i zbrisaæu Jerusalim, kao što se briše zdjela, izbriše se pa se izvrne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I ostaviæu ostatak našljedstva svojega, i daæu ih u ruke neprijateljima njihovijem da budu plijen i grabež svijem neprijateljima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer èiniše što je zlo preda mnom, i gnjeviše me od dana kad izidoše oci njihovi iz Misira do danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Još i pravu krv veoma mnogu proli Manasija tako da napuni Jerusalim od kraja do kraja, osim grijeha svojega kojim navede Judu na grijeh da èini što je zlo pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A ostala djela Manasijina i sve što je èinio, i grijeh, kojim je griješio, nije li to zapisano u dnevniku careva Judinijeh?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I poèinu Manasija kod otaca svojih, i bi pogreben u vrtu kod doma svojega, u vrtu Ozinu; a na njegovo mjesto zacari se Amon sin njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Dvadeset i dvije godine imaše Amon kad poèe carovati, i carova dvije godine u Jerusalimu. Materi mu bješe ime Mesulemeta, kæi Arusova, iz Joteve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "On èinjaše što je zlo pred Gospodom, kao što je èinio Manasija otac njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I hoðaše svijem putem kojim je hodio otac njegov, i služaše gadnijem bogovima, kojima je služio otac njegov, i klanjaše im se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I ostavi Gospoda Boga otaca svojih, i ne hodi putem Gospodnjim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A sluge Amonove pobuniše se na nj, i ubiše cara u dvoru njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A narod zemaljski pobi sve koji se bijahu pobunili na cara Amona; i zacari narod zemaljski na njegovo mjesto Josiju sina njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A ostala djela Amonova, što je èinio, nijesu li zapisana u dnevniku careva Judinijeh?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I pogreboše ga u njegovu grobu u vrtu Ozinu; i Josija sin njegov bi car na njegovo mjesto."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2KI/21.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 21
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2KI/22.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 22
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2KI/20.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 20
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 26
+}

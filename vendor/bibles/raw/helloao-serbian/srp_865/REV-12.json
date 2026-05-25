@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "REV",
+    "translationId": "srp_865",
+    "name": "Apokalipsa",
+    "commonName": "Apokalipsa",
+    "title": "Otkrivenje Jovanovo — Apokalipsa",
+    "order": 66,
+    "numberOfChapters": 22,
+    "sha256": "03ca27b48572b751a11a8d2525edcfa3d35a43f752bf5506e16685bb264b5230",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/REV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 22,
+    "lastChapterApiLink": "/api/srp_865/REV/22.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 22
+    },
+    "totalNumberOfVerses": 404
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I znak veliki pokaza se na nebu: žena obuèena u sunce, i mjesec pod nogama njezinijem, i na glavi njezinoj vijenac od dvanaest zvijezda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I bješe trudna, i vikaše od muke, i muèaše se da rodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I pokaza se drugi znak na nebu, i gle, velika crvena aždaha, koja imaše sedam glava, i deset rogova; i na glavama njezinijem sedam kruna;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I rep njezin odvuèe treæinu zvijezda nebeskijeh, i baci ih na zemlju. I aždaha stajaše pred ženom koja šæaše da se porodi, da joj proždere dijete kad rodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I rodi muško, sina, koji æe pasti sve narode s palicom gvozdenom; i dijete njezino bi uzeto k Bogu i prijestolu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A žena uteèe u pustinju gdje imaše mjesto pripravljeno od Boga, da se onamo hrani hiljadu i dvjesta i šezdeset dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I posta rat na nebu. Mihailo i anðeli njegovi udariše na aždahu, i bi se aždaha i anðeli njezini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I ne nadvladaše, i više im se ne naðe mjesta na nebu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I zbaèena bi aždaha velika, stara zmija, koja se zove ðavo i sotona, koji vara sav vasioni svijet, i zbaèena bi na zemlju, i anðeli njezini zbaèeni biše s njom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I èuh glas veliki na nebu koji govori: sad posta spasenije i sila i carstvo Boga našega, i oblast Hrista njegova; jer se zbaci opadaè braæe naše, koji ih opadaše pred Bogom našijem dan i noæ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I oni ga pobijediše krvlju jagnjetovom i rijeèju svjedoèanstva svojega, i ne mariše za život svoj do same smrti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zato veselite se nebesa i vi koji živite na njima. Teško vama koji živite na zemlji i moru, jer ðavo siðe k vama, i vrlo se rasrdio, znajuæi da vremena malo ima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I kad vidje aždaha da zbaèena bi na zemlju, gonjaše ženu koja rodi muško."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I ženi dana biše dva krila orla velikoga da leti u pustinju na svoje mjesto, gdje æe se hraniti vrijeme i vremena i po vremena, sakrivena od lica zmijina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I ispusti zmija za ženom iz usta svojijeh vodu kao rijeku, da je utopi u rijeci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I pomože zemlja ženi, i otvori zemlja usta svoja, i proždrije rijeku koju ispusti zmija iz usta svojijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I razgnjevi se zmija na ženu, i otide da se pobije sa ostalijem sjemenom njezinijem, koje drži zapovijesti Božije i ima svjedoèanstvo Isusa Hrista."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/REV/12.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 12
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/REV/13.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 13
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/REV/11.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 11
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

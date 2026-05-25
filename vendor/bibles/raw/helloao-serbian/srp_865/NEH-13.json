@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NEH",
+    "translationId": "srp_865",
+    "name": "Nehemija",
+    "commonName": "Nehemija",
+    "title": "Nehemija",
+    "order": 16,
+    "numberOfChapters": 13,
+    "sha256": "b3e002d188e97ff8412d809ae23924019a35a6f9ea4afc2d33f820ac54e43f1c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NEH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NEH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 13,
+    "lastChapterApiLink": "/api/srp_865/NEH/13.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NEH",
+      "chapter": 13
+    },
+    "totalNumberOfVerses": 406
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U to vrijeme èita se knjiga Mojsijeva narodu, i u njoj se naðe napisano da ne ulazi Amonac ni Moavac u sabor Božji dovijeka;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer ne sretoše sinova Izrailjevijeh s hljebom i vodom, nego najmiše na njih Valama da ih prokune, ali Bog naš obrati onu kletvu u blagoslov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A kad èuše taj zakon, odluèiše od Izrailja sve tuðince."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A prije toga Elijasiv sveštenik, koji bješe nad klijetima doma Boga našega, oprijatelji se s Tovijom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I naèini mu veliku klijet, gdje se prije ostavljahu dari i kad i sudovi i desetak od žita, vina i ulja, odreðeni Levitima i pjevaèima i vratarima, i prinosi za sveštenike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A kad to sve bivaše, ne bjeh u Jerusalimu, jer trideset druge godine Artakserksa cara Vavilonskoga vratih se k caru, i poslije nekoliko godina izmolih se opet u cara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I kad doðoh u Jerusalim, vidjeh zlo što uèini Elijasiv radi Tovije naèinivši mu klijet u trijemu doma Božijega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I bi mi vrlo mrsko, te izbacih sve pokuæstvo Tovijino napolje iz klijeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I zapovjedih, te oèistiše klijeti; i unesoh u njih opet posuðe doma Božijega, dare i kad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Potom doznah da se Levitima nijesu davali dijelovi, te su se razbjegli svaki na svoju njivu i Leviti i pjevaèi, koji raðahu posao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I ukorih starješine i rekoh: zašto je ostavljen dom Božji? I sabrah ih opet i postavih na njihovo mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I svi Judejci donosiše desetke od žita i vina i ulja u spreme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I postavih nastojnike nad spremama, Selemiju sveštenika i Sadoka književnika, i izmeðu Levita Fedaju, i uz njih Anana sina Zahura sina Matanijina, jer se za vjerne držahu; i bijaše im posao dijeliti braæi svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Pomeni me, Bože moj, za to, i nemoj izbrisati dobara mojih koja uèinih domu Boga svojega i službi njegovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "U to vrijeme vidjeh u Judeji gdje gaze u kacama u subotu i nose snopove natovarivši na magarce, i vino, grožðe i smokve i svakojake tovare, i nose u Jerusalim u subotu, i prekorih ih onaj dan kad prodavahu žitak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I Tirci koji življahu u Jerusalimu donošahu ribu i svakojaki trg i prodavahu u subotu sinovima Judinijem u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Zato prekorih glavare Judejske i rekoh im: kako je to zlo što èinite te skvrnite subotu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nijesu li tako èinili oci vaši, te Bog naš pusti na nas i na ovaj grad sve ovo zlo? I vi još umnožavate gnjev na Izrailja skvrneæi subotu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I kad doðe sjen na vrata Jerusalimska uoèi subote, zapovjedih te zatvoriše vrata, i zapovjedih da ih ne otvoraju do poslije subote; i postavih nekoliko svojih momaka na vratima da se ne unosi nikakav tovar u subotu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I prenoæiše trgovci i koji prodavahu svakojaki trg iza Jerusalima jednom i drugom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I opomenuh ih i rekoh im: zašto noæujete oko zida? Ako još jednom to uèinite, uložiæu na vas. Od tada ne dolaziše u subotu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A Levitima zapovjedih da se oèiste i da doðu i èuvaju vrata da bude svet dan subotni. I za ovo pomeni me, Bože moj, i oprosti mi po velikoj milosti svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Još vidjeh u to vrijeme Judejce koji se bijahu oženili Azoæankama, Amonkama i Moavkama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I sinovi njihovi govorahu pola Azotski, i ne umijahu govoriti Judejski nego jezikom i jednoga i drugoga naroda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Zato ih karah i psovah, i neke izmeðu njih bih i èupah, i zakleh ih Bogom da ne daju kæeri svojih sinovima njihovijem niti da uzimaju kæeri njihovijeh za sinove svoje ili za sebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Nije li tijem zgriješio Solomun car Izrailjev, ako i ne bješe u mnogim narodima cara njemu ravna i mio bješe Bogu svojemu i Bog ga bješe postavio carem nad svijem Izrailjem? pa opet ga navratiše na grijeh žene tuðinke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A vama li æemo dopustiti da èinite to sve veliko zlo i griješite Bogu našemu uzimajuæi žene tuðinke?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I od sinova Jojade sina Elijasiva poglavara sveštenièkoga jedan bješe zet Sanavalatu Oronjaninu, kojega otjerah od sebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Pomeni ih, Bože moj, što oskvrniše sveštenstvo i zavjet sveštenièki i Levitski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I tako ih oèistih od svijeh tuðinaca, i opet postavih redove sveštenièke i Levitske, svakoga na posao njegov,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I da se donose drva za žrtve na rokove, i prvine. Pomeni me, Bože moj, na dobro."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NEH/13.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NEH",
+    "chapter": 13
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EST/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EST",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NEH/12.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NEH",
+    "chapter": 12
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

@@ -1,0 +1,426 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "srp_865",
+    "name": "Brojevi",
+    "commonName": "Brojevi",
+    "title": "Brojevi",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "5dc73b8a174fd63cb58a0932611fd5816a865be2dae8658fc6051a7a529e9415",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NUM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/NUM/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 16,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Korej sin Isara sina Kata sina Levijeva, i Datan i Aviron sinovi Elijavovi, i Avnan sin Faleta sina Ruvimova pobuniše se,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I ustaše na Mojsija, i s njima dvjesta i pedeset ljudi izmeðu sinova Izrailjevijeh, glavara narodnijeh, koji se sazivahu na zbor i bijahu ljudi znatni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I skupiše se na Mojsija i na Arona, i rekoše im: dosta nek vam je; sav ovaj narod, svi su sveti, i meðu njima je Gospod; zašto se vi podižete nad zborom Gospodnjim?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Kad to èu Mojsije, pade nièice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Potom reèe Koreju i svoj družini njegovoj govoreæi: sjutra æe pokazati Gospod ko je njegov, i ko je svet, i koga je pustio k sebi, jer koga je izabrao onoga æe pustiti k sebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ovo uèinite: uzmite kadionice, Korej sa svom družinom svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I metnite sjutra u njih ognja i metnite u njih kada pred Gospodom, i koga izbere Gospod onaj æe biti svet. Dosta nek vam je, sinovi Levijevi!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I reèe Mojsije Koreju: èujte sinovi Levijevi!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Malo li vam je što vas je Bog Izrailjev odvojio od zbora Izrailjeva pustivši vas k sebi da vršite službu u šatoru Gospodnjem i da stojite pred zborom i služite za nj?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Pustio je k sebi tebe i svu braæu tvoju, sinove Levijeve, s tobom, a vi tražite još i sveštenstvo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zato ti i sva družina tvoja skupiste se na Gospoda. Jer Aron šta je da vièete na nj?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I posla Mojsije da dozovu Datana i Avirona sinove Elijavove. A oni odgovoriše: neæemo da idemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Malo li je što si nas izveo iz zemlje u kojoj teèe mlijeko i med da nas pobiješ u ovoj pustinji, nego još hoæeš da vladaš nad nama?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jesi li nas odveo u zemlju gdje teèe mlijeko i med? i jesi li nam dao da imamo njiva i vinograda? hoæeš li oèi ovijem ljudima da iskopaš? Neæemo da idemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tada se rasrdi Mojsije vrlo, i reèe Gospodu: nemoj pogledati na dar njihov; nijednoga magarca nijesam uzeo od njih, niti sam kome od njih uèinio kakoga zla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Potom reèe Mojsije Koreju: ti i svi tvoji stanite sjutra pred Gospodom, ti i oni i Aron."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I uzmite svaki svoju kadionicu, i metnite u njih kada, i stanite pred Gospodom svaki sa svojom kadionicom, dvjesta i pedeset kadionica, i ti i Aron, svaki sa svojom kadionicom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I uzeše svaki svoju kadionicu, i metnuvši u njih ognja metnuše u njih kada, i stadoše na vrata šatora od sastanka s Mojsijem i Aronom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A Korej sabra na njih sav zbor na vrata šatora od sastanka; tada se pokaza slava Gospodnja svemu zboru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I reèe Gospod Mojsiju i Aronu govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Odvojte se iz toga zbora, da ih odmah satrem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A oni padoše nièice i rekoše: Bože, Bože duhovima i svakom tijelu! ovaj jedan zgriješio, i na sav li æeš se zbor gnjeviti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Opet reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Reci zboru i kaži: otstupite od šatora Korejeva i Datanova i Avironova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I ustavši Mojsije otide k Datanu i Avironu, a za njim otidoše starješine Izrailjeve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I reèe zboru govoreæi: otstupite od šatora tijeh bezbožnika, i ne dodijevajte se nièega što je njihovo, da ne izginete sa svijeh grijeha njihovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I otstupiše sa svijeh strana od šatora Korejeva i Datanova i Avironova; a Datan i Aviron izašavši stadoše svaki na vrata od šatora svojega sa ženama svojim i sa sinovima svojim i s djecom svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Tada reèe Mojsije: ovako æete poznati da me je Gospod poslao da èinim sva ova djela, i da ništa ne èinim od sebe:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ako ovi pomru kao što mru svi ljudi, i ako budu pokarani kao što bivaju pokarani svi ljudi, nije me poslao Gospod;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ako li što novo uèini Gospod, i zemlja otvori usta svoja i proždre ih sa svijem što je njihovo, i siðu živi u grob, tada znajte da su ovi ljudi uvrijedili Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A kad izgovori rijeèi ove, rasjede se zemlja pod njima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I otvorivši zemlja usta svoja proždrije ih, i domove njihove i sve ljude Korejeve i sve blago njihovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I tako siðoše sa svijem što imahu živi u grob, i pokri ih zemlja i nesta ih iz zbora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A svi Izrailjci koji bijahu oko njih pobjegoše od vike njihove, jer govorahu: da nas ne proždre zemlja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I izaðe oganj od Gospoda, i sažeže onijeh dvjesta i pedeset ljudi koji prinesoše kad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Tada reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Kaži Eleazaru sinu Arona sveštenika neka pokupi kadionice iz toga garišta, i ugljevlje iz njih neka razbaci, jer su svete;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Kadionice onijeh koji ogriješiše duše svoje neka raskuju na ploèe da se okuje oltar, jer kadiše njima pred Gospodom, zato su svete, i neka budu sinovima Izrailjevijem znak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I pokupi Eleazar sveštenik kadionice mjedene, kojima bjehu kadili oni što izgorješe, i raskovaše ih na okov oltaru"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Za spomen sinovima Izrailjevijem, da ne pristupa niko drugi koji nije roda Aronova da kadi pred Gospodom, da mu ne bude kao Koreju i družini njegovoj, kao što mu bješe kazao Gospod preko Mojsija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A sjutradan vikaše sav zbor sinova Izrailjevijeh na Mojsija i na Arona govoreæi: pobiste narod Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A kad se stjecaše narod na Mojsija i na Arona, pogledaše na šator od sastanka, a to oblak na njemu, i pokaza se slava Gospodnja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I doðe Mojsije i Aron pred šator od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "I reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Uklonite se iz toga zbora da ih odmah potrem. A oni padoše nièice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "I reèe Mojsije Aronu: uzmi kadionicu, i metni u nju ognja s oltara, i metni kada, i idi brže ka zboru, i oèisti ih; jer gnjev žestok izaðe od Gospoda, i pomor poèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "I uzevši Aron kadionicu, kao što mu reèe Mojsije, otrèa usred zbora, i gle, pomor veæ bješe poèeo u narodu; i okadiv oèisti narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "I stajaše meðu mrtvima i živima, i ustavi se pomor."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "A onijeh koji pomriješe od toga pomora bješe èetrnaest tisuæa i sedam stotina, osim onijeh što izgiboše s Koreja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "I vrati se Aron k Mojsiju na vrata šatora od sastanka, kad se ustavi pomor."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NUM/16.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 16
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NUM/17.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 17
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NUM/15.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 15
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 50
+}

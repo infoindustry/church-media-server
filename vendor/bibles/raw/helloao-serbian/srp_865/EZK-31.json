@@ -1,0 +1,202 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 31,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A jedanaeste godine, treæega mjeseca, prvoga dana, doðe mi rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Sine èovjeèji, kaži Faraonu caru Misirskom i narodu njegovu: na što si nalik u velièini svojoj?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Eto, Asirac bješe kedar na Livanu, lijepijeh grana i debela hlada i visoka rasta, kojemu vrhovi bijahu meðu gustijem granama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Voda ga odgoji, bezdana ga uzvisi; ona rijekama svojim tecijaše oko njegova stabla i puštaše potoke svoje k svijem drvetima poljskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Zato rast njegov nadvisi sva drveta poljska, i umnožiše se grane njegove, i od mnoštva vode raširiše se odvode njegove kad ih puštaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Na granama njegovijem vijahu gnijezda sve ptice nebeske, i pod granama njegovijem sve zvijeri poljske lezijahu se, i u hladu njegovu sjeðahu svi veliki narodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I bijaše lijep velièinom svojom i dužinom grana svojih, jer mu korijen bijaše kod velike vode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Kedri u vrtu Božijem ne mogahu ga zakloniti, jele ne mogahu se izjednaèiti s njegovijem granama, i javori ne bijahu kao ogranci njegovi; nijedno drvo u vrtu Božijem ne bješe na ljepotu tako kao on."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Uèinih ga lijepa mnoštvom grana da mu zaviðahu sva drveta Edemska što bijahu u vrtu Božijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zato ovako veli Gospod Gospod: što je visok narastao, i digao vrh svoj meðu guste grane, i srce se njegovo ponijelo visinom njegovom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zato ga dadoh u ruku najsilnijemu meðu narodima da èini s njim što hoæe, odvrgoh ga za bezbožnost njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I tuðinci, najljuæi izmeðu naroda, posjekoše ga i ostaviše ga; grane mu popadaše po gorama i po svijem dolinama, i ogranci mu se izlomiše po svijem potocima na zemlji; i svi narodi zemaljski otidoše iz hlada njegova i ostaviše ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Na izvaljenom panju njegovu stanuju sve ptice nebeske, i na granama su njegovijem sve zvijeri poljske,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Da se ne ponosi visinom svojom nijedno drvo kraj vode i ne diže vrha svojega meðu guste grane, i od svijeh što se natapaju da se nijedno ne uzda u se radi svoje velièine; jer su svi predani na smrt, baèeni u najdonji kraj zemlje meðu sinove ljudske s onima koji slaze u jamu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ovako veli Gospod Gospod: u koji dan side u grob, uèinih žalost, pokrih bezdanu njega radi, i ustavih rijeke njezine, i velika voda stade, i rascvijelih za njim Livan, i sva drveta poljska povenuše za njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Praskom padanja njegova ustresoh narode, kad ga svalih u grob s onima koji slaze u jamu; i utješiše se na najdonjoj strani zemlje sva drveta Edemska, što je najbolje i najljepše na Livanu, sva što se natapahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I oni sidoše s njim u grob k onima što su pobijeni maèem, i mišica njegova, i koji sjeðahu u hladu njegovu meðu narodima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Na koje si meðu drvetima Edemskim nalik slavom i velièinom? Ali æeš biti oboren s drvetima Edemskim u najdonji kraj zemlje, meðu neobrezanima æeš ležati s onima koji su pobijeni maèem. To je Faraon i sav narod njegov, govori Gospod Gospod."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/31.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 31
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/32.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 32
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/30.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 30
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

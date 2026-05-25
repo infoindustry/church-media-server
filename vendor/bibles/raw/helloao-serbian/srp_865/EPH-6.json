@@ -1,0 +1,244 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EPH",
+    "translationId": "srp_865",
+    "name": "Efežanima",
+    "commonName": "Efežanima",
+    "title": "Poslanica Efežanima",
+    "order": 49,
+    "numberOfChapters": 6,
+    "sha256": "7712b8f570a25c75c412d98fb0075a57221e64ee4d6feeff31d8738503a35eaf",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EPH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EPH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 6,
+    "lastChapterApiLink": "/api/srp_865/EPH/6.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EPH",
+      "chapter": 6
+    },
+    "totalNumberOfVerses": 155
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Djeco! slušajte svoje roditelje u Gospodu: jer je ovo pravo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Poštuj oca svojega i mater; ovo je prva zapovijest s obeæanjem:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Da ti blago bude, i da živiš dugo na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I vi ocevi! ne razdražujte djece svoje, nego ih gajite u nauci i u strahu Gospodnjemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Sluge! slušajte gospodare svoje po tijelu, sa strahom i drktanjem, u prostoti srca svojega, kao i Hrista;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ne samo pred oèima radeæi kao ljudima da ugaðate, nego kao sluge Hristove, tvoreæi volju Božiju od srca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Dragovoljno služite, kao Gospodu a ne kao ljudima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Znajuæi da svaki što uèini dobro ono æe i primiti od Gospoda, bio rob ili slobodnjak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I vi gospodari, tako èinite njima ostavljajuæi prijetnje, znajuæi da je i vama samijem i njima gospodar na nebesima, i on ne gleda ko je ko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A dalje, braæo moja, jaèajte u Gospodu i u sili jaèine njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Obucite se u sve oružje Božije, da biste se mogli održati protiv lukavstva ðavolskoga:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer naš rat nije s krvlju i s tijelom, nego s poglavarima i vlastima, i s upraviteljima tame ovoga svijeta, s duhovima pakosti ispod neba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Toga radi uzmite sve oružje Božije, da biste se mogli braniti u zli dan, i svršivši sve održati se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Stanite dakle opasavši bedra svoja istinom i obukavši se u oklop pravde,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I obuvši noge u pripravu jevanðelja mira;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A svrh svega uzmite štit vjere o koji æete moæi pogasiti sve raspaljene strijele neèastivoga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I kacigu spasenija uzmite, i maè duhovni koji je rijeè Božija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I svakom molitvom i moljenjem molite se Bogu duhom bez prestanka, i uz to stražite sa svakijem trpljenjem i molitvom za sve svete,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I za mene, da mi se da rijeè kad otvorim usta svoja, da obznanim sa slobodom tajnu jevanðelja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Za koje sam poslanik u okovima, da u njemu govorim slobodno, kao što mi se pristoji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A da i vi znate kako sam ja i šta radim, sve æe vam kazati Tihik, ljubazni brat i vjerni sluga u Gospodu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Kojega poslah k vama za to isto da znate kako smo mi, i da utješi srca vaša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Mir braæi i ljubav s vjerom od Boga oca i Gospoda Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Blagodat sa svima koji ljube Gospoda našega Isusa Hrista jednako. Amin."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EPH/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EPH",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PHP/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PHP",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EPH/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EPH",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 24
+}

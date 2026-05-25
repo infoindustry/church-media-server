@@ -1,0 +1,279 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 35,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Bog reèe Jakovu: ustani, idi gore u Vetilj i ondje stani; i naèini ondje žrtvenik Bogu, koji ti se javio kad si bježao od Isava brata svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I Jakov reèe porodici svojoj i svijema koji bijahu s njim: bacite tuðe bogove što su u vas, i oèistite se i preobucite se;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Pa da se dignemo i idemo gore u Vetilj, da naèinim ondje žrtvenik Bogu, koji me je èuo u dan nevolje moje i bio sa mnom na putu kojim sam išao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I dadoše Jakovu sve bogove tuðe koji bijahu u njihovijem rukama, i oboce, koje imahu u ušima; i Jakov ih zakopa pod hrastom kod Sihema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Potom otidoše. A strah Božji doðe na gradove koji bijahu oko njih, te se ne digoše u potjeru za sinovima Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I Jakov i sva èeljad što bijaše s njim doðoše u Luz u zemlji Hananskoj, a to je Vetilj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I ondje naèini žrtvenik, i nazva ono mjesto: Bog Vetiljski, jer mu se ondje javi Bog, kad je bježao od brata svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tada umrije Devora dojkinja Reveèina, i pogreboše je ispod Vetilja pod hrastom, koji nazva Jakov Alon-Vakut."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I javi se Bog Jakovu opet, pošto izide iz Padan-Arama, i blagoslovi ga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I reèe mu Bog: ime ti je Jakov; ali se otsele neæeš zvati Jakov, nego æe ti ime biti Izrailj. I nadjede mu ime Izrailj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I još mu reèe Bog: ja sam Bog svemoguæi; rasti i množi se; narod i mnogi æe narodi postati od tebe, i carevi æe izaæi iz bedara tvojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I daæu ti zemlju koju sam dao Avramu i Isaku, i nakon tebe sjemenu tvojemu daæu zemlju ovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Potom otide od njega Bog s mjesta gdje mu govori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Jakov metnu spomenik na istom mjestu gdje mu Bog govori; spomenik od kamena, i pokropi ga kropljenjem, i preli ga uljem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I Jakov prozva mjesto gdje mu govori Bog Vetilj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I otidoše od Vetilja. A kad im osta još malo puta do Efrate, porodi se Rahilja, i bješe joj težak poroðaj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I kad se veoma muèaše, reèe joj babica: ne boj se, imaæeš još jednoga sina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A kad se rastavljaše s dušom te umiraše, nazva ga Venonija; ali mu otac nadjede ime Venijamin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I umrije Rahilja, i pogreboše je na putu koji ide u Efratu, a to je Vitlejem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I metnu Jakov spomenik na grob njezin. To je spomenik na grobu Rahiljinu do današnjega dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Odatle otišav Izrailj razape šator svoj iza kule Migdolederske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I kad Izrailj življaše u onoj zemlji, otide Ruvim i leže s Valom inoèom oca svojega. I to doèu Izrailj. A imaše Jakov dvanaest sinova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Sinovi Lijini bjehu: Ruvim prvenac Jakovljev, i Simeun i Levije i Juda i Isahar i Zavulon;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A sinovi Rahiljini: Josif i Venijamin;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A sinovi Vale robinje Rahiljine: Dan i Neftalim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A sinovi Zelfe robinje Lijine: Gad i Asir. To su sinovi Jakovljevi, koji mu se rodiše u Padan-Aramu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I Jakov doðe k Isaku ocu svojemu u Mamriju u Kirijat-Arvu, koje je Hevron, gdje Avram i Isak bijahu došljaci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A Isaku bješe sto i osamdeset godina;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I onemoæav umrije Isak, i bi pribran k rodu svojemu star i sit života; i pogreboše ga Isav i Jakov sinovi njegovi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/35.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 35
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/36.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 36
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/34.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 34
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

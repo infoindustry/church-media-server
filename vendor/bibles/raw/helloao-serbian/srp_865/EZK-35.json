@@ -1,0 +1,181 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 35,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Opet mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Sine èovjeèji, okreni lice svoje prema gori Siru i prorokuj protiv nje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reci: ovako veli Gospod Gospod: evo me na tebe, goro Sire! i dignuæu ruku svoju na te, i opustiæu te sasvijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Gradove æu tvoje opustiti, i ti æeš biti pustoš, i poznaæeš da sam ja Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Što je u tebe vjeèno neprijateljstvo, i rasipaš sinove Izrailjeve maèem u nevolji njihovoj, kad je kraj bezakonju njihovu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Zato, tako ja bio živ, govori Gospod Gospod, krvi æu te predati i krv æe te goniti, jer ne mrziš na krv, krv æe te goniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I obratiæu goru Sir sasvijem u pustoš, da niko neæe dolaziti ni odlaziti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I napuniæu gore njezine pobijenijeh njezinijeh; na humovima tvojim i u dolinama tvojim i po svijem potocima tvojim padaæe pobijeni od maèa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Vjeènu pustinju naèiniæu od tebe i gradovi se tvoji neæe opraviti, i poznaæete da sam ja Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Što govoriš: ova dva naroda i ove dvije zemlje moje æe biti, i naslijediæemo ih, ako i jest Gospod bio ondje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zato, tako ja živ bio, govori Gospod Gospod, uèiniæu po gnjevu tvom i po zavisti tvojoj, s kojom si postupala iz mržnje prema njima, i biæu poznat meðu njima kad ti sudim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I poznaæeš da sam ja Gospod èuo sve tvoje hule koje si govorila na gore Izrailjeve rekavši: opustješe, nama su dane da ih jedemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I velièaste se suprot meni ustima svojim, i množiste na me rijeèi svoje; èuo sam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ovako veli Gospod Gospod: kad se sva zemlja stane veseliti, tebe æu opustiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Kako si se ti veselila našljedstvu doma Izrailjeva što opustje, tako æu i tebi uèiniti: opustjeæeš, goro Sire, i sva zemljo Edomska; i poznaæe se da sam ja Gospod."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/35.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 35
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/36.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 36
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/34.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 34
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 15
+}

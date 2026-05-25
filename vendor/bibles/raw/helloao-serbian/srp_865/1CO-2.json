@@ -1,0 +1,188 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CO",
+    "translationId": "srp_865",
+    "name": "1 Korinæanima",
+    "commonName": "1 Korinæanima",
+    "title": "1. Korinæanima Poslanica",
+    "order": 46,
+    "numberOfChapters": 16,
+    "sha256": "114ef2323a27d8e2c5bd8d2269293cc5ec228241cba7d2999cf2908b344e5d17",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/1CO/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CO",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 437
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I ja došavši k vama, braæo, ne doðoh s visokom rijeèi ili premudrosti da vam javljam svjedoèanstvo Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer nijesam mislio da znam što meðu vama osim Isusa Hrista, i toga raspeta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I ja bijah meðu vama u slabosti, i u strahu i u velikom drktanju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I rijeè moja, i pouèenje moje ne bijaše u nadgovorljivijem rijeèima ljudske premudrosti, nego u dokazivanju Duha i sile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Da vjera vaša ne bude u mudrosti ljudskoj nego u sili Božijoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ali premudrost govorimo koja je u savršenima, a ne premudrost vijeka ovoga ni knezova vijeka ovoga koji prolaze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nego govorimo premudrost Božiju u tajnosti sakrivenu, koju odredi Bog prije svijeta za slavu našu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Koje nijedan od knezova vijeka ovoga ne pozna; jer da su je poznali, ne bi Gospoda slave razapeli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nego kao što je pisano: što oko ne vidje, i uho ne èu, i u srce èovjeku ne doðe, ono ugotovi Bog onima, koji ga ljube."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A nama je Bog otkrio Duhom svojijem; jer Duh sve ispituje, i dubine Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer ko od ljudi zna šta je u èovjeku osim duha èovjeèijega koji živi u njemu? Tako i u Bogu što je niko ne zna osim Duha Božijega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A mi ne primismo duha ovoga svijeta, nego Duha koji je iz Boga, da znamo što nam je darovano od Boga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Koje i govorimo ne rijeèima što je nauèila èovjeèija premudrost, nego što uèi Duh sveti; i duhovne stvari duhovno radimo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A tjelesni èovjek ne razumije što je od Duha Božijega; jer mu se èini ludost i ne može da razumije, jer treba duhovno da se razgleda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Duhovni pak sve razgleda, a njega sama niko ne razgleda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer ko pozna um Gospodnji da ga pouèi? A mi um Hristov imamo."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CO/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CO/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CO/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

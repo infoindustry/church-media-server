@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "HEB",
+    "translationId": "srp_865",
+    "name": "Jevrejima",
+    "commonName": "Jevrejima",
+    "title": "Poslanica Jevrejima",
+    "order": 58,
+    "numberOfChapters": 13,
+    "sha256": "dd0af6a7bfa1e81c89f066ec55bf573f0bd87cd93a901a2b8a825a622650c258",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/HEB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "HEB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 13,
+    "lastChapterApiLink": "/api/srp_865/HEB/13.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "HEB",
+      "chapter": 13
+    },
+    "totalNumberOfVerses": 303
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tako i prvi zavjet imaše pravde bogomoljstva i svetinju zemaljsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer skinija bješe naèinjena prva, u kojoj bijaše svijeænjak i trpeza i postavljeni hljebovi, što se zove svetinja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A za drugijem zavjesom bijaše skinija, koja se zove svetinja nad svetinjama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Koja imaše zlatnu kadionicu, i kovèeg zavjeta okovan svuda zlatom, u kome bijaše zlatan sud s manom, i palica Aronova, koja se bješe omladila, i ploèe zavjeta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A više njega bijahu heruvimi slave, koji osjenjavahu oltar; o èemu se ne može sad govoriti redom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A kad ovo bijaše tako ureðeno, ulažahu sveštenici svagda u prvu skiniju i savršivahu službu Božiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A u drugu ulažaše jednom u godini sam poglavar sveštenièki, ne bez krvi, koju prinosi za sebe i za narodna neznanja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ovijem pokazivaše Duh sveti da se još nije otvorio put svetijeh, dokle prva skinija stoji;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Koja ostade prilika za sadašnje vrijeme, u koje se prinose dari i žrtve, i ne mogu da se svrše po savjesti onoga koji služi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Osim u jelima i piæima, i razliènom umivanju i pravdanju tijela, koje je postavljeno do vremena popravljenja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ali došavši Hristos, poglavar sveštenièki dobara koja æe doæi, kroz bolju i savršeniju skiniju, koja nije rukom graðena, to jest, nije ovoga stvorenja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ni s krvlju jarèijom, niti teleæom, nego kroz svoju krv uðe jednom u svetinju, i naðe vjeèni otkup."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer ako krv junèija i jarèija, i pepeo junièin, pokropivši njom opoganjene, osveæuje na tjelesnu èistotu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Akamoli neæe krv Hrista, koji Duhom svetijem sebe prinese bez krivice Bogu, oèistiti savjest našu od mrtvijeh djela, da služimo Bogu živome i istinome?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I zato je novome zavjetu posrednik, da kroz smrt, koja bi za otkup od prestupaka u prvome zavjetu, obeæanje vjeènoga našljedstva prime zvani."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer gdje je zavjet valja da bude i smrt onoga koji èini zavjet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer je zavjet po smrti potvrðen: buduæi da nema nikakve sile dok je živ onaj koji ga je naèinio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer ni prvi nije utvrðen bez krvi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer kad Mojsije izgovori sve zapovijesti po zakonu svemu narodu, onda uze krvi jarèije i teleæe, s vodom i vunom crvenom i isopom, te pokropi i knjigu i sav narod"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Govoreæi: ovo je krv zavjeta koji Bog naèini s vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A tako i skiniju i sve sudove službene pokropi krvlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I gotovo sve se krvlju èisti po zakonu, i bez proljeva krvi ne biva oproštenje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Tako je trebalo da se oblièja nebeskijeh ovima èiste, a sama nebeska boljijem žrtvama od ovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer Hristos ne uðe u rukotvorenu svetinju, koja je prilika prave, nego u samo nebo, da se pokaže sad pred licem Božijim za nas;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Niti da mnogo puta prinosi sebe, kao što poglavar sveštenièki ulazi u svetinju svake godine s krvlju tuðom:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Inaèe bi on morao mnogo puta stradati od postanja svijeta; a sad jednom na svršetku vijeka javi se da svojom žrtvom satre grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I kao što je ljudima odreðeno jednom umrijeti, a potom sud:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Tako se i Hristos jednom prinese, da uzme mnogijeh grijehe; a drugom æe se javiti bez grijeha na spasenije onima koji ga èekaju."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/HEB/9.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 9
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/HEB/10.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 10
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/HEB/8.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 8
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

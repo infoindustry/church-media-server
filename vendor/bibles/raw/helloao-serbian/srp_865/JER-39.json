@@ -1,0 +1,202 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 39,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Devete godine Sedekije cara Judina mjeseca desetoga doðe Navuhodonosor car Vavilonski sa svom vojskom svojom na Jerusalim i stade ga biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jedanaeste godine Sedekijine mjeseca èetvrtoga, devetoga dana toga mjeseca provališe u grad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I uðoše svi knezovi cara Vavilonskoga, i stadoše kod srednjih vrata Nergal-sareser, Samgar-nevon, Sarsehim, starješina nad dvoranima, Nergal-sareser, starješina nad vraèima, i svi drugi knezovi cara Vavilonskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A kad ih vidje Sedekija car Judin i svi vojnici, pobjegoše i izidoše noæu iz grada pokraj vrta carskoga na vrata meðu dva zida; i iðahu preko polja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A vojska Haldejska gonjaše ih, i stiže Sedekiju u polju Jerihonskom, i uhvativši ga dovedoše ga k Navuhodonosoru caru Vavilonskom u Rivlu u zemlji Ematskoj, te mu sudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I zakla car Vavilonski sinove Sedekijine u Rivli na njegove oèi, i sve znatne ljude od Jude pokla car Vavilonski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Iza toga Sedekiji iskopa oèi, i sveza ga u dvoje verige mjedene, da ga odvede u Vavilon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A dom carev i domove narodne popališe Haldejci ognjem, i zidove Jerusalimske raskopaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A ostatak naroda što osta u gradu i prebjege koji prebjegoše k njemu, ostatak naroda što bješe ostao, odvede Nevuzardan zapovjednik stražarski u Vavilon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Samo najsiromašnije iz naroda, koji ništa nemahu, ostavi Nevuzardan zapovjednik stražarski u zemlji Judinoj, i dade im tada vinograde i njive."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Navuhodonosor car Vavilonski zapovjedi za Jeremiju Nevuzardanu zapovjedniku stražarskom govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Uzmi ga i gledaj ga dobro, i ne èini mu zla, nego mu èini što ti god kaže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I poslaše Nevuzardan zapovjednik stražarski i Nevusazvan, starješina nad dvoranima, i Nergal-sareser, starješina nad vraèima, i svi knezovi cara Vavilonskoga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Poslaše, te uzeše Jeremiju iz trijema od tamnice, i predaše ga Godoliji sinu Ahikama sina Safanova da ga odvede kuæi; tako osta meðu narodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Jeremiji doðe rijeè Gospodnja kad bješe zatvoren u trijemu od tamnice govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Idi i reci Avdemelehu Etiopljaninu govoreæi: ovako veli Gospod nad vojskama Bog Izrailjev: evo ja æu uèiniti da se zbudu rijeèi moje tome gradu na zlo a ne na dobro, i navršiæe se pred tobom u onaj dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ali æu tebe izbaviti u onaj dan, govori Gospod, i neæeš biti predan u ruke ljudima kojih se bojiš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer æu te doista saèuvati, te neæeš pasti od maèa, i biæe ti duša tvoja mjesto plijena zato što si se pouzdao u me, govori Gospod."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/39.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 39
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/40.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 40
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/38.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 38
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

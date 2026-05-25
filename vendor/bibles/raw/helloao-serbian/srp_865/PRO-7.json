@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PRO",
+    "translationId": "srp_865",
+    "name": "Poslovice",
+    "commonName": "Poslovice",
+    "title": "Poslovice",
+    "order": 20,
+    "numberOfChapters": 31,
+    "sha256": "f56bab8aa62f0f40c0df66127a72bfe1a5502690bdb1dac94e5767df0572eee0",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PRO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PRO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/PRO/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PRO",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 915
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Sine, èuvaj rijeèi moje, i zapovijesti moje sahrani kod sebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Èuvaj zapovijesti moje i biæeš živ, i nauku moju kao zjenicu oèiju svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Priveži ih sebi na prste, napiši ih na ploèi srca svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Reci mudrosti: sestra si mi; i prijateljicom zovi razboritost,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Da bi te èuvala od žene tuðe, od tuðinke, koja laska rijeèima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer s prozora doma svojega kroz rešetku gledah,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I vidjeh meðu ludima, opazih meðu djecom bezumna mladiæa,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Koji iðaše ulicom pokraj ugla njezina, i koraèaše putem ka kuæi njezinoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "U sumrak, uveèe, kad se unoæa i smrèe;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A gle, srete ga žena u odijelu kurvinskom i lukava srca,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Plaha i pusta, kojoj noge ne mogu stajati kod kuæe,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Sad na polju, sad na ulici, kod svakoga ugla vrebaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I uhvati ga, i poljubi ga, i bezobrazno reèe mu:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Imam žrtve zahvalne, danas izvrših zavjete svoje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zato ti izidoh na susret da te tražim, i naðoh te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Nastrla sam odar svoj pokrivaèima vezenijem i prostirkama Misirskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Okadila sam postelju svoju smirnom, alojem i cimetom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Hajde da se opijamo ljubavlju do zore, da se veselimo milovanjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer mi muž nije kod kuæe, otišao je na put daljni,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Uzeo je sa sobom tobolac novèani, vratiæe se kuæi u odreðeni dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Navrati ga mnogim rijeèima, glatkim usnama odvuèe ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Otide za njom odmah kao što vo ide na klanje i kao bezumnik u puto da bude karan,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Dokle mu strijela ne probije jetru, kao što ptica leti u zamku ne znajuæi da joj je o život."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Zato dakle, djeco, poslušajte me, i pazite na rijeèi usta mojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Nemoj da zastranjuje srce tvoje na putove njezine, nemoj lutati po stazama njezinijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jer je mnoge ranila i oborila, i mnogo je onijeh koje je sve pobila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Kuæa je njezina put pakleni koji vodi u klijeti smrtne."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PRO/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PRO/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PRO/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

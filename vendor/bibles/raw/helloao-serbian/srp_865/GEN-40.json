@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 40,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Poslije toga dogodi se, te peharnik cara Misirskoga i hljebar skriviše gospodaru svojemu, caru Misirskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I Faraon se razgnjevi na ta dva dvoranina, na starješinu nad peharnicima i na starješinu nad hljebarima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I baci ih u tamnicu u kuæi zapovjednika stražarskoga, gdje Josif bješe sužanj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A zapovjednik stražarski odredi im Josifa da ih služi; i bijahu dugo u tamnici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I usniše san obojica u jednu noæ, svaki po znaèenju svojega sna za sebe, i peharnik i hljebar cara Misirskoga, koji bijahu sužnji u tamnici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I sjutradan kad doðe Josif k njima, pogleda ih, a oni bjehu vrlo neveseli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Pa zapita dvorane Faraonove, koji bijahu sužnji s njim u kuæi gospodara njegova, i reèe: što ste danas lica nevesela?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A oni mu rekoše: san usnismo obojica, a nema ko da nam kaže šta znaèe. A Josif im reèe: šta znaèe, nije li u Boga? ali pripovjedite mi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I starješina nad peharnicima pripovjedi san svoj Josifu govoreæi: snih, a preda mnom èokot;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I na èokotu bjehu tri loze, i napupi i procvate, i grožðe na njemu uzre;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A u ruci mi bješe èaša Faraonova, te pobrah zrelo grožðe i iscijedih ga u èašu Faraonovu, i dodadoh èašu Faraonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A Josif mu reèe: ovo znaèi: tri su loze tri dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Još tri dana, i Faraon brojeæi svoje dvorane uzeæe i tebe, i opet te postaviti u preðašnju službu, i opet æeš mu dodavati èašu kao i preðe dok si mu bio peharnik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ali nemoj zaboraviti mene kad budeš u dobru, uèini milost i pomeni za me Faraonu, i izvadi me iz ove kuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer su me ukrali iz zemlje Jevrejske, a ovdje nijesam ništa uèinio da me bace u ovu jamu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A kad vidje starješina nad hljebarima kako lijepo kaza san, reèe Josifu: i ja snih, a meni na glavi tri kotarice bijele;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I u najgornjoj kotarici bijaše svakojakih kolaèa za Faraona, i ptice jeðahu iz kotarice na mojoj glavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A Josif odgovori i reèe: ovo znaèi: tri kotarice tri su dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Još tri dana, i Faraon brojeæi dvorane svoje izbaciæe te i objesiæe te na vješala, i ptice æe jesti s tebe meso."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I kad doðe treæi dan, to bješe dan u koji se rodio Faraon, i uèini Faraon gozbu svima slugama svojim, i naiðe meðu slugama svojim na starješinu nad peharnicima i na starješinu nad hljebarima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I povrati starješinu nad peharnicima u službu da dodaje èašu Faraonu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A starješinu nad hljebarima objesi, kao što kaza Josif."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I starješina nad peharnicima ne opomenu se Josifa, nego ga zaboravi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/40.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 40
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/41.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 41
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/39.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 39
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

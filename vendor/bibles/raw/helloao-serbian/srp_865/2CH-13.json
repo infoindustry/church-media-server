@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "srp_865",
+    "name": "2. Dnevnika",
+    "commonName": "2. Dnevnika",
+    "title": "2. Dnevnika",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "712160a45a7d7fb40ad6e8f55f27c6bc71cf3a3fca70d89afd22674733ec70a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/2CH/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Godine osamnaeste carovanja Jerovoamova zacari se Avija nad Judom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Tri godine carova u Jerusalimu. Materi mu bješe ime Mihaja, kæi Urilova iz Gavaje. A bijaše rat izmeðu Avije i Jerovoama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I Avija izide na boj s hrabrom vojskom, èetiri stotine tisuæa izabranijeh vojnika; a Jerovoam uvrsta prema njemu vojsku, osam stotina tisuæa izabranijeh hrabrijeh vojnika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I sta Avija navrh brda Semarajima u gori Jefremovoj, i reèe: èujte me, Jerovoame i sav Izrailju!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ne trebaše li vam znati da je Gospod Bog Izrailjev predao Davidu carstvo nad Izrailjem dovijeka, njemu i sinovima njegovijem zavjetom osoljenijem?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ali usta Jerovoam sin Navatov, sluga Solomuna sina Davidova, i odvrže se od gospodara svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I skupiše se k njemu ljudi praznovi i nevaljalci, i odapriješe se Rovoamu sinu Solomunovu, koji bijaše dijete i strašljiva srca, te im se ne odaprije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Pa vi sad velite da se oprete carstvu Gospodnjemu, koje je u ruku sinova Davidovijeh, jer vas je mnogo i imate kod sebe zlatne teoce, koje vam je naèinio Jerovoam da su vam bogovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nijeste li otjerali sveštenike Gospodnje sinove Aronove i Levite? i naèinili sebi sveštenike kao narodi po drugim zemljama? ko god doðe da mu se posvete ruke s teletom i sa sedam ovnova, postaje sveštenik onima koji nijesu bogovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ali s nama je Gospod Bog, niti smo ga ostavili, a sveštenici koji služe Gospodu jesu sinovi Aronovi, i Leviti rade svoj posao;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I pale Gospodu žrtve paljenice svako jutro i svako veèe, i kade mirisima, i hljebovi postavljeni stoje na èistom stolu, i pale se svako veèe žišci na zlatnom svijetnjaku; jer držimo što je Gospod Bog naš naredio, a vi ga ostaviste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zato evo s nama je naprijed Bog i sveštenici njegovi i trube glasne da trube protivu vas. Sinovi Izrailjevi, ne vojujte na Gospoda Boga otaca svojih, jer neæete biti sreæni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ali Jerovoam zavede zasjedu da im zaðu za leða, i tako Judejcima bijahu sprijed jedni a s leða zasjeda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I kad se obazreše Judejci, a to boj i sprijed i sastrag, te povikaše ka Gospodu a sveštenici zatrubiše u trube."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I narod Judin opet povika, i kad vikaše narod Judin, razbi Bog Jerovoama i svega Izrailja pred Avijom i Judom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I pobjegoše sinovi Izrailjevi od Jude, i dade ih Bog njima u ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I pobi ih ljuto Avija i narod njegov, i pade od Izrailja pobijenijeh pet stotina tisuæa odabranijeh ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Tako biše pokoreni sinovi Izrailjevi u to vrijeme, a sinovi Judini osiliše, jer se pouzdaše u Gospoda Boga otaca svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I Avija potjera Jerovoama, i uze mu gradove Vetilj i sela njegova, i Jesanu i sela njezina, i Efron i sela njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I Jerovoam se više ne oporavi za života Avijina; i udari ga Gospod, te umrije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A Avija utvrdi se, i uze èetrnaest žena, i rodi dvadeset i dva sina i šesnaest kæeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A ostala djela Avijina i putovi njegovi i besjede njegove zapisane su u knjizi proroka Ida."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CH/13.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 13
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CH/14.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 14
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CH/12.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 12
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

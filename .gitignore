@@ -1,0 +1,6 @@
+node_modules
+dist
+.DS_Store
+server/media/*
+!server/media/.gitkeep
+server/data/*.bak

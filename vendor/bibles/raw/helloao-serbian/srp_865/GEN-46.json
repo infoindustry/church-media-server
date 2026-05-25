@@ -1,0 +1,314 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 46,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada poðe Izrailj sa svijem što imaše, i došav u Virsaveju prinese žrtvu Bogu oca svojega Isaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I Bog reèe Izrailju noæu u utvari: Jakove! Jakove! A on odgovori: evo me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I Bog mu reèe: ja sam Bog, Bog oca tvojega; ne boj se otiæi u Misir; jer æu ondje naèiniti od tebe narod velik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ja æu iæi s tobom u Misir, i ja æu te odvesti onamo, i Josif æe metnuti ruku svoju na oèi tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I poðe Jakov od Virsaveje; i sinovi Izrailjevi posadiše Jakova oca svojega i djecu svoju i žene svoje na kola koja posla Faraon po nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I uzeše stoku svoju i blago svoje što bijahu stekli u zemlji Hananskoj; i doðoše u Misir Jakov i sva porodica njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Sinove svoje i sinove sinova svojih, kæeri svoje i kæeri sinova svojih, i svu porodicu svoju dovede sa sobom u Misir."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A ovo su imena djece Izrailjeve što doðoše u Misir: Jakov i sinovi njegovi. Prvenac Jakovljev Ruvim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I sinovi Ruvimovi: Enoh, Faluj, Esron i Harmija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A sinovi Simeunovi: Jemuilo, Jamin, Aod, Jahin, Soar i Saul, sin jedne Hananejke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Sinovi Levijevi: Girson, Kat i Merarije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Sinovi Judini: Ir, Avnan, Silom, Fares i Zara; a umrli bjehu Ir i Avnan u zemlji Hananskoj, ali bijahu sinovi Faresovi Esrom i Jemuilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Sinovi Isaharovi: Tola, Fuva, Jov i Simron."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Sinovi Zavulonovi: Sered, Alon, i Ahojilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "To su sinovi Lijini, koje rodi Jakovu u Padan-Aramu, i jošte Dina kæi njegova. Svega duša, sinova njegovijeh i kæeri njegovijeh bješe trideset i tri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Sinovi Gadovi: Sifon, Agije, Sunije, Esvon, Irije, Arodije i Arilije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Sinovi Asirovi: Jemna, Jesva, Jesvija i Verija, i sestra njihova Sara. A sinovi Verijini Hovor i Melhilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "To su sinovi Zelfe, koju dade Lavan Liji kæeri svojoj, i ona ih rodi Jakovu, šesnaest duša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A sinovi Rahilje žene Jakovljeve: Josif i Venijamin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Josifu se rodiše u Misiru od Asenete kæeri Potifere sveštenika Onskoga: Manasija i Jefrem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A sinovi Venijaminovi: Vela, Veher, Asvil, Gira, Naman, Ihije, Ros, Mupim, Upim i Arad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "To su sinovi Rahiljini što se rodiše Jakovu, svega èetrnaest duša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I sin Danov: Asom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A sinovi Neftalimovi: Asilo, Gunije, Jeser i Silim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "To su sinovi Vale, koju dade Lavan Rahilji kæeri svojoj i ona ih rodi Jakovu; svega sedam duša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A svega duša što doðoše s Jakovom u Misir a izaðoše od bedara njegovijeh, osim žena sinova Jakovljevijeh, svega duša bješe šezdeset i šest."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I dva sina Josifova koji mu se rodiše u Misiru; svega dakle duša doma Jakovljeva, što doðoše u Misir, bješe sedamdeset."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A Judu posla Jakov naprijed k Josifu, da mu javi da izaðe preda nj u Gesem. I doðoše u zemlju Gesemsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A Josif upreže u kola svoja, i izaðe na susret Izrailju ocu svojemu u Gesem; i kad ga vidje Jakov, pade mu oko vrata, i plaka dugo o vratu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I reèe Izrailj Josifu: sada ne marim umrijeti kad sam te vidio da si jošte živ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A Josif reèe braæi svojoj i domu oca svojega: idem da javim Faraonu; ali æu mu kazati: braæa moja i dom oca mojega iz zemlje Hananske doðoše k meni;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A ti su ljudi pastiri i svagda su se bavili oko stoke, i dovedoše ovce svoje i goveda svoja i što god imaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A kad vas Faraon dozove, reæi æe vam: kakvu radnju radite?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A vi kažite: pastiri su bile sluge tvoje od mladosti, i mi i stari naši; da biste ostali u zemlji Gesemskoj; jer su Misircima svi pastiri neèisti."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/46.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 46
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/47.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 47
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/45.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 45
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 34
+}

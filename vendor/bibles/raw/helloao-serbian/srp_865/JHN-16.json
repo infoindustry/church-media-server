@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JHN",
+    "translationId": "srp_865",
+    "name": "Jovanu",
+    "commonName": "Jovanu",
+    "title": "Jevanðelje po Jovanu",
+    "order": 43,
+    "numberOfChapters": 21,
+    "sha256": "b0467ac7d5635aaff73b88f7076ca219a8a790ad4b0c4ba876a7716c71658f8f",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JHN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JHN/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 879
+  },
+  "chapter": {
+    "number": 16,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ovo vam kazah da se ne sablaznite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Izgoniæe vas iz zbornica; a doæi æe vrijeme kad æe svaki koji vas ubije misliti da Bogu službu èini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I ovo æe èiniti, jer ne poznaše oca ni mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Nego vam ovo kazah kad doðe vrijeme da se opomenete ovoga da vam ja kazah; a isprva ne kazah vam ovo, jer bijah s vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A sad idem k onome koji me posla, i niko me od vas ne pita: kuda ideš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nego što vam ovo kazah žalosti napuni se srce vaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nego vam ja istinu govorim: bolje je za vas da ja idem: jer ako ja ne idem, utješitelj neæe doæi k vama; ako li idem, poslaæu ga k vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I kad on doðe pokaraæe svijet za grijeh, i za pravdu, i za sud:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Za grijeh dakle što ne vjeruju mene;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A za pravdu što idem k ocu svojemu; i više me neæete vidjeti;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A za sud što je knez ovoga svijeta osuðen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Još vam mnogo imam kazati; ali sad ne možete nositi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A kad doðe on, Duh istine, uputiæe vas na svaku istinu; jer neæe od sebe govoriti, nego æe govoriti što èuje, i javiæe vam što æe biti unapredak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "On æe me proslaviti, jer æe od mojega uzeti, i javiæe vam:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Sve što ima otac moje je: zato rekoh da æe od mojega uzeti, i javiti vam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Još malo, i neæete me vidjeti, i opet malo, pa æete me vidjeti: jer idem k ocu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A neki od uèenika njegovijeh rekoše meðu sobom: šta je to što nam kaže: još malo, i neæete me vidjeti; i opet malo pa æete me vidjeti; i: ja idem k ocu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Govorahu dakle: šta je to što govori: malo? ne znamo šta govori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A Isus razumje da šæadijahu da ga zapitaju, pa im reèe: zato li se zapitujete meðu sobom što rekoh: još malo i neæete me vidjeti, i opet malo pa æete me vidjeti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Zaista, zaista vam kažem da æete vi zaplakati i zaridati, a svijet æe se radovati; i vi æete žalosni biti, ali æe se vaša žalost okrenuti na radost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Žena kad raða trpi muku; jer doðe èas njezin: ali kad rodi dijete, više se ne opominje žalosti od radosti, jer se rodi èovjek na svijet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Tako i vi dakle imate sad žalost; ali æu vas opet vidjeti, i radovaæe se srce vaše, i vaše radosti niko neæe uzeti od vas;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I u onaj dan neæete me pitati ni za što. Zaista, zaista vam kažem da što god uzištete u oca u ime moje, daæe vam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Doslije ne iskaste ništa u ime moje; ištite i primiæete, da radost vaša bude ispunjena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ovo vam govorih u prièama; ali æe doæi vrijeme kad vam više neæu govoriti u prièama, nego æu vam upravo javiti za oca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "U onaj æete dan u ime moje zaiskati, i ne velim vam da æu ja umoliti oca za vas;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jer sam otac ima ljubav k vama kao što vi imaste ljubav k meni, i vjerovaste da ja od Boga iziðoh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Iziðoh od oca, i doðoh na svijet; i opet ostavljam svijet, i idem k ocu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Rekoše mu uèenici njegovi: eto sad upravo govoriš, a prièe nikakve ne govoriš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Sad znamo da sve znaš, i ne treba ti da te ko pita. Po tome vjerujemo da si od Boga izišao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Isus im odgovori: zar sad vjerujete?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Evo ide èas, i veæ je nastao, da se razbjegnete svaki na svoju stranu i mene sama ostavite; ali nijesam sam, jer je otac sa mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ovo vam kazah, da u meni mir imate. U svijetu æete imati nevolju; ali ne bojte se, jer ja nadvladah svijet."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JHN/16.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 16
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JHN/17.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 17
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JHN/15.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 15
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

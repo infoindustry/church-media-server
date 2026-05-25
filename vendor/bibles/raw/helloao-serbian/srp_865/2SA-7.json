@@ -1,0 +1,279 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2SA",
+    "translationId": "srp_865",
+    "name": "2. Samuelova",
+    "commonName": "2. Samuelova",
+    "title": "2. Samuelova",
+    "order": 10,
+    "numberOfChapters": 24,
+    "sha256": "e9bcfc863ad7bd2a939eb305126ad735f393202a88f773ac55550249ed219529",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/2SA/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 695
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad car sjeðaše kod kuæe svoje, i Gospod mu dade mir svuda unaokolo od svijeh neprijatelja njegovijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Reèe car Natanu proroku: vidi, ja stojim u kuæi od kedrova drveta, a kovèeg Božji stoji pod zavjesima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Natan reèe caru: šta ti je god u srcu, idi, èini, jer je Gospod s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ali onu noæ doðe rijeè Gospodnja k Natanu govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Idi i reci sluzi mojemu Davidu: ovako veli Gospod: ti li æeš mi naèiniti kuæu da u njoj nastavam?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Kad nijesam nastavao u kuæi otkad izvedoh sinove Izrailjeve iz Misira do danas, nego sam hodio u šatoru i u naslonu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Kuda sam god hodio sa svijem sinovima Izrailjevim, jesam li jednu rijeè rekao kome od sudija Izrailjevijeh, kojima zapovijedah da pasu narod moj Izrailja, i kazao: zašto mi ne naèinite kuæe od kedra?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ovako dakle reci Davidu sluzi mojemu: ovako veli Gospod nad vojskama: ja te uzeh od tora, od ovaca, da budeš voð narodu mojemu, Izrailju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I bjeh s tobom kuda si god hodio, i istrijebih sve neprijatelje tvoje ispred tebe, i stekoh ti ime veliko, kao što je ime velikijeh ljudi koji su na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I odrediæu mjesto narodu svojemu Izrailju, i posadiæu ga, te æe nastavati u svom mjestu, i neæe se više pretresati, niti æe ih više muèiti nepravednici kao prije,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I od onoga dana kad postavih sudije nad narodom svojim Izrailjem; i smiriæu te od svijeh neprijatelja tvojih. Jošte ti javlja Gospod da æe ti Gospod naèiniti kuæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Kad se navrše dani tvoji, i poèineš kod otaca svojih, podignuæu sjeme tvoje nakon tebe, koje æe izaæi iz utrobe tvoje, i utvrdiæu carstvo njegovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "On æe sazidati dom imenu mojemu, i utvrdiæu prijesto carstva njegova dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ja æu mu biti otac, i on æe mi biti sin; ako uèini što zlo, karaæu ga prutom ljudskim i udarcima sinova èovjeèijih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ali milost moja neæe se ukloniti od njega kao što sam je uklonio od Saula, kojega uklonih ispred tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Nego æe tvrd biti dom tvoj i carstvo tvoje dovijeka pred tobom, i prijesto æe tvoj stajati dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Po svijem ovijem rijeèima i po svoj ovoj utvari kaza Natan Davidu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Tada doðe car David i stade pred Gospodom, i reèe: ko sam ja, Gospode, Gospode, i šta je moj dom, te si me doveo dovde?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Pa i to ti se još èini malo, Gospode, Gospode, nego si govorio i za dom sluge svojega na dugo vremena. Je li to zakon èovjeèji, Gospode, Gospode!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ali šta æe jošte David da ti govori? ta ti znaš slugu svojega, Gospode, Gospode!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Radi rijeèi svoje i po srcu svojemu uèinio si sve ove velike stvari obznanjujuæi ih sluzi svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Zato si velik, Gospode Bože, nema takoga kakav si ti; i nema Boga osim tebe, po svemu što èusmo svojim ušima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer koji je narod na zemlji kao tvoj narod Izrailj? kojega je radi Bog išao da ga iskupi da mu bude narod i da steèe sebi ime i da vam uèini velika i strašna djela u zemlji tvojoj, pred narodom tvojim, koji si iskupio sebi iz Misira, od naroda i bogova njihovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer si utvrdio sebi narod svoj Izrailja da ti bude narod dovijeka; a ti si im, Gospode, Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I tako, Gospode Bože, rijeè koju si obrekao sluzi svojemu i domu njegovu, potvrdi zasvagda, i uèini kako si rekao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Neka se velièa ime tvoje dovijeka, da se govori: Gospod je nad vojskama Bog nad Izrailjem; i dom sluge tvojega Davida neka stoji tvrdo pred tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jer si ti, Gospode nad vojskama, Bože Izrailjev, javio sluzi svojemu govoreæi: dom æu sazidati tebi. Zato sluga tvoj naðe u srcu svojem da ti se pomoli ovom molitvom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Tako, Gospode, Gospode, ti si Bog, i rijeèi su tvoje istina; ti si ovo dobro obrekao sluzi svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Budi dakle voljan i blagoslovi dom sluge svojega da bude dovijeka pred tobom; jer si ti, Gospode, rekao, i tvojim æe blagoslovom biti blagosloven dom sluge tvojega dovijeka."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2SA/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2SA/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2SA/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

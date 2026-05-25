@@ -1,0 +1,279 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 118,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Hvalite Gospoda, jer je dobar, jer je dovijeka milost njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Neka reèe Izrailj da je dovijeka milost njegova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Neka reèe dom Aronov da je dovijeka milost njegova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Neka reku svi koji se boje Gospoda da je dovijeka milost njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Iz tjeskobe povikah ka Gospodu i usliši me, izvede me na prostrano mjesto Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Gospod je sa mnom, ne bojim se; šta æe mi uèiniti èovjek?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Gospod mi je pomoænik: slobodno æu gledati u neprijatelje svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Bolje je uzdati se u Gospoda negoli se oslanjati na èovjeka;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Bolje je uzdati se u Gospoda negoli se oslanjati na knezove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Svi me narodi opkoliše; ali ih u ime Gospodnje razbih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Optekoše, opkoliše me; ali ih u ime Gospodnje razbih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Opkoliše me kao pèele sat, i ugasiše se kao oganj u trnju: u ime ih Gospodnje razbih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Otisnuo si me da padnem, ali me Gospod prihvati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Gospod je hvala moja i pjesma; on mi postade spasitelj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Glas radosti i spasenja èuje se u kolibama pravednièkim: “desnica Gospodnja daje silu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Desnica Gospodnja uzvišuje, desnica Gospodnja daje silu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Neæu umrijeti, nego æu živ biti, i kazivati djela Gospodnja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Karajuæi pokara me Gospod; ali me smrti ne dade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Otvorite mi vrata od pravde, uæi æu na njih, slaviæu Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "“Evo vrata Gospodnja, na koja ulaze pravednici!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Hvalim te, što si me uslišio, i postao mi spasitelj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Kamen koji odbaciše zidari, posta glava od ugla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "To bi od Gospoda i divno je u našim oèima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Evo dan, koji stvori Gospod! Radujmo se i veselimo se u nj!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "O Gospode, pomozi! o Gospode, daj da bude u napredak!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Blagosloven koji ide u ime Gospodnje! Blagosiljamo vas iz doma Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Gospod je Bog krjepak, i on nas obasja; žrtvu prazniènu, vezanu vrvcama, vodite k rogovima žrtveniku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ti si Bog moj, tebe hvalim, Bože moj, tebe uzvišujem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Hvalite Gospoda, jer je dobar, jer je milost njegova dovijeka."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/118.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 118
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/119.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 119
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/117.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 117
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

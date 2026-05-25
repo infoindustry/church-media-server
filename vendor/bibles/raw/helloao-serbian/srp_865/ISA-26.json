@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 26,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada æe se pjevati ova pjesma u zemlji Judinoj: imamo tvrd grad; zidovi su i opkop spasenje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Otvorite vrata da uðe narod pravedni, koji drži vjeru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ko se tebe drži, èuvaš ga jednako u miru, jer se u tebe uzda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Uzdajte se u Gospoda dovijeka, jer je Gospod Gospod vjeèna stijena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer ponižuje one koji nastavaju na visini, grad visoki obara, obara ga na zemlju, obraæa ga u prah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Te ga gazi noga, noge ubogih, stopala nevoljnijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Put je pravedniku prav, ti ravniš stazu pravednome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I na putu sudova tvojih, Gospode, èekamo te; tvoje ime i tvoj spomen žudi duša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Dušom svojom žudim tebe noæu, i duhom svojim što je u meni tražim te jutrom; jer kad su sudovi tvoji na zemlji, uèe se pravdi koji žive u vasiljenoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ako se i pomiluje bezbožnik, ne uèi se pravdi, u zemlji najpravednijoj èini bezakonje i ne gleda na velièanstvo Gospodnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Gospode! ruka je tvoja visoko podignuta, a oni ne vide; vidjeæe i posramiæe se od revnosti za narod, i oganj æe proždrijeti neprijatelje tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Gospode! nama æeš dati mir, jer sva djela naša ti si nam uèinio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Gospode Bože naš, gospodariše nad nama gospodari drugi osim tebe, ali samo tobom pominjemo ime tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Pomriješe, neæe oživjeti, mrtvi buduæi neæe ustati, jer si ih ti pohodio i istrijebio, zatro svaki spomen njihov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Gospode, umnožio si narod, umnožio si narod i proslavio si se, ali si ih zagnao na sve krajeve zemaljske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Gospode, u nevolji tražiše te, izlivaše pokornu molitvu kad si ih karao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Kao trudna žena kad hoæe da se porodi pa se muèi i vièe od bola, taki bijasmo mi pred tobom, Gospode!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Zatrudnjesmo, muèismo se da rodimo, i kao da rodismo vjetar, nikako ne pomogosmo zemlji, niti padoše koji žive u vasiljenoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Oživjeæe mrtvi tvoji, i moje æe mrtvo tijelo ustati. Probudite se, i pjevajte koji stanujete u prahu; jer je tvoja rosa rosa na travi, i zemlja æe izmetnuti mrtvace."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Hajde narode moj, uði u klijeti svoje, i zakljuèaj vrata svoja za sobom, prikrij se za èas, dokle proðe gnjev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer, gle, Gospod izlazi iz mjesta svojega da pohodi stanovnike zemaljske za bezakonje njihovo, i zemlja æe otkriti krvi svoje niti æe više pokrivati pobijenijeh svojih."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/26.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 26
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/27.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 27
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/25.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 25
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

@@ -1,0 +1,454 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1KI",
+    "translationId": "srp_865",
+    "name": "1. Kraljevima",
+    "commonName": "1. Kraljevima",
+    "title": "1. Kraljevima",
+    "order": 11,
+    "numberOfChapters": 22,
+    "sha256": "876ee89adf3ca9c88149d73fc7a5fe2947fa3921a637898e9d808d4c90bad1b4",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1KI/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1KI",
+      "chapter": 1
+    },
+    "lastChapterNumber": 22,
+    "lastChapterApiLink": "/api/srp_865/1KI/22.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1KI",
+      "chapter": 22
+    },
+    "totalNumberOfVerses": 817
+  },
+  "chapter": {
+    "number": 22,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I proðoše tri godine bez rata izmeðu Siraca i Izrailjaca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A treæe godine doðe Josafat car Judin k caru Izrailjevu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reèe car Izrailjev slugama svojim: ne znate li da je naš Ramot u Galadu? a mi ne radimo da ga uzmemo iz ruku cara Sirskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I reèe Josafatu: hoæeš li iæi sa mnom na vojsku na Ramot Galadski? A Josafat reèe caru Izrailjevu: ja kao ti, narod moj kao tvoj narod, konji moji kao tvoji konji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Još reèe Josafat caru Izrailjevu: upitaj danas šta æe Gospod reæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tada car Izrailjev sabra oko èetiri stotine proroka, i reèe im: hoæu li iæi na vojsku na Ramot Galadski ili æu se okaniti? A oni rekoše: idi, jer æe ga Gospod dati u ruke caru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Josafat reèe: ima li tu još koji prorok Gospodnji da ga pitamo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A car Izrailjev reèe Josafatu: ima još jedan èovjek, preko kojega bismo mogli upitati Gospoda; ali ja mrzim na nj, jer mi ne prorièe dobra nego zlo; to je Miheja sin Jemlin. A Josafat reèe: neka car ne govori tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tada car Izrailjev dozva jednoga dvoranina, i reèe mu: brže dovedi Miheju sina Jemlina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A car Izrailjev i Josafat car Judin sjeðahu svaki na svojem prijestolu obuèeni u carske haljine na poljani kod vrata Samarijskih, i svi proroci prorokovahu pred njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I Sedekija sin Hananin naèini sebi gvozdene rogove, i reèe: ovako veli Gospod: ovijem æeš pobosti Sirce dokle ih ne istrijebiš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tako i svi proroci prorokovahu govoreæi: idi na Ramot Galadski, i biæeš sreæan, jer æe ga Gospod dati caru u ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A poslanik koji otide da dozove Miheju reèe mu govoreæi: evo, proroci prorièu svi jednijem glasom dobro caru; neka i tvoja rijeè bude kao rijeè njihova, govori dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Miheja reèe: tako da je živ Gospod, govoriæu ono što mi Gospod kaže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I kad doðe k caru, reèe mu car: Miheja! hoæemo li iæi na vojsku na Ramot Galadski ili æemo se okaniti? A on mu reèe: idi, biæeš sreæan, jer æe ga Gospod dati caru u ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A car mu reèe: koliko æu te puta zaklinjati da mi ne govoriš nego istinu u ime Gospodnje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tada reèe: vidjeh sav narod Izrailjev razasut po planinama kao ovce koje nemaju pastira; jer reèe Gospod: ovi nemaju gospodara; neka se vrate svak svojoj kuæi s mirom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Tada reèe car Izrailjev Josafatu: nijesam li ti rekao da mi neæe prorokovati dobra nego zlo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A Miheja mu reèe: zato èuj rijeè Gospodnju; vidjeh Gospoda gdje sjedi na prijestolu svojem, a sva vojska nebeska stajaše mu s desne i s lijeve strane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I reèe Gospod: ko æe prevariti Ahava da otide i padne kod Ramota Galadskoga? I jedan reèe ovo a drugi ono."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tada izide jedan duh i stavši pred Gospoda reèe: ja æu ga prevariti. A Gospod mu reèe: kako?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Odgovori: izaæi æu i biæu lažljiv duh u ustima svijeh proroka njegovijeh. A Gospod mu reèe: prevariæeš ga i nadvladaæeš, idi i uèini tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Zato sada eto, Gospod je metnuo lažljiv duh u usta svijem tvojim prorocima, a Gospod je izrekao zlo po te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Tada pristupi Sedekija sin Hananin, i udari Miheju po obrazu govoreæi: kuda je otišao duh Gospodnji od mene da govori s tobom?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A Miheja mu reèe: eto, vidjeæeš u onaj dan kad otideš u najtajniju klijet da se sakriješ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Tada car Izrailjev reèe: uhvati Miheju i odvedi ga k Amonu zapovjedniku gradskom i k Joasu sinu carevu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I reci im: ovako veli car: metnite ovoga u tamnicu, i dajite mu po malo hljeba i po malo vode dokle se ne vratim u miru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A Miheja reèe: ako se vratiš u miru, nije Gospod govorio preko mene. Još reèe: èujte, svi narodi!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I otide car Izrailjev s Josafatom carem Judinijem na Ramot Galadski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I reèe car Izrailjev Josafatu: ja æu se preobuæi kad poðem u boj; a ti obuci svoje odijelo. I preobuèe se car Izrailjev i otide u boj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A car Sirski zapovjedi vojvodama, kojih bijahu trideset i dvije nad kolima njegovijem, i reèe: ne udarajte ni na maloga ni na velikoga, nego na samoga cara Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I kad vojvode od kola vidješe Josafata, rekoše: zacijelo je car Izrailjev. I okrenuše se na nj da udare; ali Josafat povika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A vojvode od kola vidješe da nije car Izrailjev, te otstupiše od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A jedan zastrijeli iz luka nagonom, i ustrijeli cara Izrailjeva gdje spuèa oklop. A on reèe svojemu vozaèu: savij rukom svojom i izvezi me iz boja, jer sam ranjen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I boj bi žestok onoga dana; a car zaosta na kolima svojim prema Sircima, pa umrije uveèe, i krv iz rane njegove tecijaše u kola."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I proðe glasnik po vojsci o zahodu sunèanom govoreæi: svak u svoj grad, i svak u svoju zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Tako umrije car, i odnesoše ga u Samariju; i pogreboše cara u Samariji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A kad prahu kola na jezeru Samarijskom, lizaše psi krv njegovu, tako i kad prahu oružje njegovo, po rijeèi koju reèe Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A ostala djela Ahavova i sve što je uèinio, i za kuæu od slonove kosti koju je sagradio, i za sve gradove što je sagradio, nije li to zapisano u dnevniku careva Izrailjevijeh?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Tako poèinu Ahav kod otaca svojih, i na njegovo se mjesto zacari Ohozija sin njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A Josafat sin Asin zacari se nad Judom èetvrte godine carovanja Ahavova nad Izrailjem;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I imaše Josafat trideset i pet godina kad poèe carovati, i carova dvadeset i pet godina u Jerusalimu. A materi mu bješe ime Azuva kæi Silejeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I hoðaše putem Ase oca svojega sasvijem, i ne otstupi od njega èineæi sve što je pravo pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Ali visina ne oboriše; narod još prinošaše žrtve i kaðaše na visinama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "I uèini mir Josafat s carem Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "A ostala djela Josafatova i junaštva što uèini i kako vojeva, nije li to zapisano u dnevniku careva Judinijeh?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "On istrijebi iz zemlje svoje ostatak adžuvana, koji bijahu ostali za života Ase oca njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "U to vrijeme ne bijaše cara u Idumeji, nego bijaše namjesnik carev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "I Josafat naèini laðe Tarsiske da idu u Ofir po zlato; ali ne otidoše; jer se laðe razbiše u Esion-Gaveru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Tada reèe Ohozija sin Ahavov Josafatu: neka idu moje sluge s tvojim slugama na laðama. Ali Josafat ne htje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "I poèinu Josafat kod otaca svojih, i pogreboše ga kod otaca njegovijeh u gradu Davida oca njegova; a na njegovo se mjesto zacari Joram sin njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Ohozija sin Ahavov zacari se nad Izrailjem u Samariji sedamnaeste godine carovanja Josafatova nad Judom; i carova nad Izrailjem dvije godine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "I èinjaše što je zlo pred Gospodom, i hoðaše putem oca svojega i putem matere svoje i putem Jerovoama sina Navatova, koji navede na grijeh Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "I služaše Valu i klanjaše mu se, i gnjevljaše Gospoda Boga Izrailjeva sasvijem kako je èinio otac njegov."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1KI/22.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1KI",
+    "chapter": 22
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2KI/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1KI/21.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1KI",
+    "chapter": 21
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 54
+}

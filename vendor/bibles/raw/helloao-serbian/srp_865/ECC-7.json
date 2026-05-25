@@ -1,0 +1,279 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ECC",
+    "translationId": "srp_865",
+    "name": "Propovednik",
+    "commonName": "Propovednik",
+    "title": "Propovednik",
+    "order": 21,
+    "numberOfChapters": 12,
+    "sha256": "fe2dc33485c617d1c3f800f25752794cc56e27b2cfb10665b2db83a839e4fb36",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ECC/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ECC",
+      "chapter": 1
+    },
+    "lastChapterNumber": 12,
+    "lastChapterApiLink": "/api/srp_865/ECC/12.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ECC",
+      "chapter": 12
+    },
+    "totalNumberOfVerses": 222
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Bolje je ime nego dobro ulje, i dan smrtni nego dan u koji se ko rodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Bolje je iæi u kuæu gdje je žalost nego iæi u kuæu gdje je gozba, jer je ondje kraj svakoga èovjeka, i ko je živ, slaže u srce svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Bolja je žalost nego smijeh, jer kad je lice neveselo, srce postaje bolje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Srce je mudrijeh ljudi u kuæi gdje je žalost, a srce bezumnijeh u kuæi gdje je veselje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Bolje je slušati karanje mudroga nego da ko sluša pjesmu bezumnijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer kao što prašti trnje pod loncem, taki je smijeh bezumnikov; i to je taština."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nasilje obezumljuje mudroga, i poklon izopaèuje srce."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Bolji je kraj stvari nego poèetak joj; bolji je ko je strpljiva duha negoli ko je ponosita duha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ne budi nagao u duhu svom na gnjev, jer gnjev poèiva u njedrima bezumnijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ne govori: šta je to, te su preðašnji dani bili bolji od ovijeh? jer ne bi bilo mudro da za to pitaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Dobra je mudrost s imanjem, i korisna je onima koji vide sunce."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer je mudrost zaklon, i novci su zaklon; ali je pretežnije znanje mudrosti tijem što daje život onome ko je ima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Pogledaj djelo Božije; jer ko može ispraviti što on iskrivi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "U dobro vrijeme uživaj dobro, a u zlo vrijeme gledaj, jer je Bog stvorio jedno prema drugom zato da èovjek ne zna šta æe biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Svašta vidjeh za vremena taštine svoje: pravednika koji propada u pravdi svojoj, i bezbožnika koji dugo živi u svojoj zloæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ne budi suviše pravedan ni suviše mudar; zašto bi sebe upropastio?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ne budi suviše bezbožan ni lud; zašto bi umro prije vremena?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Dobro je da držiš jedno a drugo da ne puštaš iz ruke; jer ko se boji Boga izbaviæe se od svega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Mudrost krijepi èovjeka više nego deset knezova koji su u gradu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Doista nema èovjeka pravedna na zemlji koji tvori dobro i ne griješi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ne uzimaj na um svašta što se govori, ako bi i slugu svojega èuo gdje te psuje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer srce tvoje zna da si i ti više puta psovao druge."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Sve to ogledah mudrošæu i rekoh: biæu mudar; ali mudrost bješe daleko od mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Što je tako daleko i vrlo duboko, ko æe naæi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Okretoh se srcem svojim da poznam i izvidim i iznaðem mudrost i razum, i da poznam bezbožnost ludosti i ludost bezumlja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I naðoh da je grèa od smrti žena kojoj je srce mreža i pruglo, kojoj su ruke okovi; ko je mio Bogu, saèuvaæe se od nje, a grješnika æe uhvatiti ona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Gle, to naðoh, veli propovjednik, jedno prema drugom, tražeæi da razumijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Još traži duša moja, ali ne naðoh. Èovjeka jednoga u tisuæi naðoh, ali žene meðu svjema ne naðoh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Samo, gle, ovo naðoh: da je Bog stvorio èovjeka dobra; a oni traže svakojake pomisli."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ECC/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ECC/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ECC/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

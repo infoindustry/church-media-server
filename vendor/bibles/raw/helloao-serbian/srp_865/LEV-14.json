@@ -1,0 +1,475 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 14,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ovo je zakon za gubavca kad se èisti: neka se dovede k svešteniku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A sveštenik neka izaðe iza okola; i ako vidi da je izlijeèena guba na gubavcu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Onda æe zapovjediti sveštenik onome koji se èisti da uzme dvije ptice žive èiste, i drvo kedrovo i crvca i isopa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I neka zapovjedi sveštenik da se jedna ptica zakolje nad sudom zemljanim nad vodom živom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Pa neka uzme živu pticu i drvo kedrovo i crvac i isop, i sve to zajedno sa živom pticom neka zamoèi u krv od ptice zaklane nad vodom živom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I neka pokropi sedam puta onoga koji se èisti od gube, i neka ga proglasi da je èist, i neka pusti živu pticu u polje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tada koji se èisti neka opere haljine svoje i obrije sve dlake svoje, i neka se okupa u vodi, i biæe èist; potom neka uðe u oko, ali da stoji napolju ne ulazeæi u svoj šator sedam dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A u sedmi dan neka obrije sve dlake svoje, glavu i bradu i obrve nad oèima, i sve dlake svoje neka obrije, i neka opere haljine svoje, pa neka se okupa u vodi i biæe èist."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A u osmi dan neka uzme dva jagnjeta zdrava i jednu ovcu od godine zdravu i tri desetine efe bijeloga brašna zamiješena s uljem za dar, i jedan log ulja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A sveštenik koji ga èisti neka postavi onoga koji se èisti zajedno s tijem stvarima pred Gospodom na vratima šatora od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I uzevši sveštenik jedno jagnje neka ga prinese na žrtvu za prijestup zajedno s logom ulja, i neka obrne tamo i amo pred Gospodom na žrtvu obrtanu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A poslije neka zakolje jagnje na mjestu gdje se kolje žrtva za grijeh i žrtva paljenica na svetom mjestu, jer žrtva za prijestup pripada svešteniku kao i žrtva za grijeh; svetinja je nad svetinjama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Tada neka sveštenik uzme krvi od žrtve za prijestup i pomaže kraj desnoga uha onome koji se èisti i palac desne ruke njegove i palac desne noge njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Potom neka uzme sveštenik od loga ulja i nalije na dlan svoj lijevi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Pa neka zamoèi sveštenik prst od desne ruke svoje u ulje što mu je na lijevom dlanu, i neka pokropi uljem s prsta svojega sedam puta pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A ostalijem uljem što mu je na dlanu neka pomaže sveštenik kraj desnoga uha onome koji se èisti, i palac desne ruke njegove i palac desne noge njegove po krvi od žrtve za prijestup."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A što još ostane ulja na dlanu svešteniku, onijem neka namaže glavu onome koji se èisti, i tako æe ga oèistiti sveštenik pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Potom neka sveštenik prinese žrtvu za grijeh, i oèistiæe onoga koji se èisti od svoje neèistote; a poslije neka zakolje žrtvu paljenicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I neka prinese sveštenik žrtvu paljenicu zajedno s darom na oltaru; i tako æe ga oèistiti, i biæe èist."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ali ako je siromah te ne može donijeti toliko, onda neka uzme jedno jagnje za žrtvu radi prijestupa da se prinese žrtva obrtana za oèišæenje njegovo, i jednu desetinu efe bijeloga brašna zamiješena s uljem za dar, i log ulja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I dvije grlice ili dva golubiæa, koje može priskrbiti, da bude jedno žrtva za grijeh a drugo žrtva paljenica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I to neka donese u osmi dan svojega èišæenja svešteniku na vrata šatora od sastanka pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Tada sveštenik neka uzme jagnje za prijestup i log ulja, i to neka sveštenik obrne pred Gospodom za žrtvu obrtanu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I neka zakolje jagnje za žrtvu radi prijestupa, i uzevši sveštenik krvi od žrtve za prijestup neka pomaže kraj desnoga uha onome koji se èisti i palac desne ruke njegove i palac desne noge njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I ulja neka nalije sveštenik na dlan svoj lijevi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Pa neka zamoèi prst od desne ruke svoje u ulje što mu je na lijevom dlanu, i pokropi njim sedam puta pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I uljem što mu je na dlanu neka pomaže sveštenik kraj desnoga uha onome koji se èisti, i palac desne ruke njegove i palac desne noge njegove po mjestu gdje je krv od žrtve za prijestup."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A što ostane ulja na dlanu svešteniku, onijem neka namaže glavu onome koji se èisti; i tako æe ga oèistiti pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Tako neka uèini i s jednom grlicom ili golupèetom od onijeh koje priskrbi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Što je priskrbio, jedno æe biti žrtva za grijeh a drugo žrtva paljenica s darom; i tako æe sveštenik oèistiti pred Gospodom onoga koji se èisti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "To je zakon za gubavca koji ne može priskrbiti svega što treba za oèišæenje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I reèe Gospod Mojsiju i Aronu govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Kad doðete u zemlju Hanansku, koju æu vam ja dati da je vaša, pa kad pustim gubu na koju kuæu u zemlji koju æete držati,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Onda onaj èija je kuæa neka doðe i javi svešteniku govoreæi: èini mi se kao da je guba na kuæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A sveštenik neka zapovjedi da se isprazni kuæa prije nego on doðe da vidi gubu, da se ne bi oskvrnilo što je u kuæi; potom neka doðe sveštenik da vidi kuæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Pa kad vidi bolest, ako bude bolest na zidovima kuænim kao rupice zelenkaste ili crvenkaste i na oèi niže od zida,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Neka izaðe sveštenik iz kuæe one na vrata kuæna, i zatvori kuæu za sedam dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Poslije opet neka doðe sveštenik u sedmi dan, pa ako vidi da se bolest dalje razišla po zidovima kuænim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Zapovjediæe sveštenik da povade kamenje na kom je bolest i da ga bace iza grada na mjesto neèisto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A kuæu zapovjediæe da ostružu iznutra svuda unaokolo, i prah što sastružu da prospu iza grada na mjesto neèisto,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I da uzmu drugo kamenje i uglave na mjesto gdje je bilo preðašnje kamenje; tako i blato drugo uzevši da olijepe kuæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Ako se povrati bolest i opet izraste po kuæi, pošto se povadi kamenje i ostruže kuæa i nanovo olijepi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Tada došav sveštenik ako vidi da se bolest razišla po kuæi, ljuta je guba na kuæi, neèista je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Neka se razruši ona kuæa, kamenje i drva i sav lijep od one kuæe, i neka se iznese iza grada na mjesto neèisto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "A ko bi ušao u kuæu onu dok je zatvorena, da je neèist do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "I ko bi spavao u onoj kuæi, neka opere haljine svoje; tako i ko bi jeo u onoj kuæi, neka opere haljine svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Ako li sveštenik došav vidi da se nije bolest razišla po kuæi pošto je kuæa nanovo olijepljena, neka proglasi sveštenik da je èista, jer se izlijeèila bolest."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "I neka uzme da bi se kuæa oèistila dvije ptice i drvo kedrovo i crvca i isopa,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "I neka zakolje jednu pticu nad sudom zemljanim nad vodom živom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Pa neka uzme drvo kedrovo i isop i crvac i drugu pticu živu, i neka zamoèi u krv od zaklane ptice i u vodu živu, i pokropi kuæu sedam puta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "I tako æe oèistiti kuæu onu krvlju ptièijom i vodom živom i pticom živom i drvetom kedrovijem i isopom i crvcem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Pa onda neka pusti pticu živu iza grada u polje; i oèistiæe kuæu, i biæe èista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "Ovo je zakon za svaku gubu i za ospu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "Za gubu na haljini i na kuæi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "I za otok i za krastu i za bubuljicu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "Da se zna kad je ko neèist i kad je ko èist. To je zakon za gubu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/14.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 14
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/15.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 15
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/13.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 13
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 57
+}

@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PRO",
+    "translationId": "srp_865",
+    "name": "Poslovice",
+    "commonName": "Poslovice",
+    "title": "Poslovice",
+    "order": 20,
+    "numberOfChapters": 31,
+    "sha256": "f56bab8aa62f0f40c0df66127a72bfe1a5502690bdb1dac94e5767df0572eee0",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PRO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PRO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/PRO/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PRO",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 915
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Lažna su mjerila mrska Gospodu, a prava mjera ugodna mu je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kad doðe oholost, doðe i sramota; a u smjernijeh je mudrost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Pravedne vodi bezazlenost njihova, a bezakonike satire zloæa njihova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Neæe pomoæi bogatstvo u dan gnjeva, a pravda izbavlja od smrti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Pravda bezazlenoga upravlja put njegov, a bezbožnik pada od svoje bezbožnosti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Pravedne izbavlja pravda njihova, a bezakonici hvataju se u svojoj zloæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Kad umire bezbožnik, propada nadanje, i najjaèe uzdanje propada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Pravednik se izbavlja iz nevolje, a bezbožnik dolazi na njegovo mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Licemjer kvari ustima bližnjega svojega; ali se pravednici izbavljaju znanjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Dobru pravednijeh raduje se grad; a kad propadaju bezbožnici, biva pjevanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Blagoslovima pravednijeh ljudi podiže se grad, a s usta bezbožnièkih raskopava se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Bezumnik se ruga bližnjemu svojemu, a razuman èovjek muèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Opadaè tumarajuæi izdaje tajnu; a ko je vjerna srca, taji stvar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Gdje nema savjeta, propada narod, a pomoæ je u mnoštvu savjetnika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zlo prolazi ko se jamèi za tuðina; a ko mrzi na jamstvo, bez brige je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Žena mila dobija èast, a silni dobijaju bogatstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Milostiv èovjek èini dobro duši svojoj, a nemilostiv udi svojemu tijelu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Bezbožni radi posao prijevaran; a ko sije pravdu, pouzdana mu je plata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ko se drži pravde, na život mu je; a ko ide za zlom, na smrt mu je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Mrski su Gospodu koji su opaka srca; a mili su mu koji su bezazleni na svom putu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Zao èovjek neæe ostati bez kara ako i druge uzme u pomoæ; a sjeme pravednijeh izbaviæe se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Žena lijepa a bez razuma zlatna je brnjica u gubici svinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Želja je pravednijeh samo dobro, a oèekivanje bezbožnijeh gnjev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jedan prosipa, i sve više ima; a drugi tvrduje suviše, i sve je siromašniji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Podašna ruka biva bogatija, i ko napaja, sam æe biti napojen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ko ne da žita, proklinje ga narod, a ko prodaje, blagoslov mu je nad glavom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ko traži dobro, dobija ljubav; a ko traži zlo, zadesiæe ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ko se uzda u bogatstvo svoje, propašæe; a pravednici æe se kao grana zelenjeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ko zatire kuæu svoju, naslijediæe vjetar; i bezumnik æe služiti mudromu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Plod je pravednikov drvo životno, i mudri obuèava duše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Gle, pravedniku se na zemlji plaæa, akamoli bezbožniku i grješniku?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PRO/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PRO/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PRO/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

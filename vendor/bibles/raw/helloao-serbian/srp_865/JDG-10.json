@@ -1,0 +1,202 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JDG",
+    "translationId": "srp_865",
+    "name": "Sudije",
+    "commonName": "Sudije",
+    "title": "Sudije",
+    "order": 7,
+    "numberOfChapters": 21,
+    "sha256": "b90b96d9ad07648b61c3175adb672cbdc04a1a389be225dc4596659462d0e4db",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JDG/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JDG/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 618
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A poslije Avimeleha usta da izbavi Izrailja Tola sin Fuve sina Dodova, èovjek plemena Isaharova, koji sjeðaše u Samiru u gori Jefremovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I bi sudija Izrailju dvadeset i tri godine, pa umrije i bi pogreben u Samiru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Poslije njega usta Jair od plemena Galadova, i bi sudija Izrailju dvadeset i dvije godine;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I imaše trideset sinova, koji jahahu na tridesetoro magaradi, i imahu trideset gradova, koji se zovu sela Jairova do danas i jesu u zemlji Galadovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I umrije Jair, i bi pogreben u Kamonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A sinovi Izrailjevi opet èiniše što je zlo pred Gospodom, i služiše Valima i Astarotama, i bogovima Sirskim, i bogovima Sidonskim, i bogovima Moavskim, i bogovima sinova Amonovijeh i bogovima Filistejskim; i ostaviše Gospoda i ne služiše mu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zato se razgnjevi Gospod na Izrailja, te ih dade u ruke Filistejima i u ruke sinovima Amonovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A oni gaziše i satiraše sinove Izrailjeve od one godine osamnaest godina, sve sinove Izrailjeve koji bijahu s onu stranu Jordana, u zemlji Amorejskoj, koja je u Galadu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I prijeðoše sinovi Amonovi preko Jordana da se biju i s Judom i s Venijaminom i s domom Jefremovijem; i bi Izrailj u velikoj nevolji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Tada vapiše sinovi Izrailjevi ka Gospodu govoreæi: sagriješismo ti što ostavismo Boga svojega i služismo Valima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Gospod reèe sinovima Izrailjevijem: od Misiraca i od Amoreja i od sinova Amonovijeh i od Filisteja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I od Sidonjana i od Amalika i od Maonaca, koji vas muèiše, nijesam li vas izbavljao kad vapijaste k meni?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ali vi ostaviste mene i služiste drugim bogovima; zato vas više neæu izbavljati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Idite i vièite one bogove koje ste izabrali, neka vas oni izbave u nevolji vašoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A sinovi Izrailjevi rekoše Gospodu: sagriješismo; èini s nama što ti je drago, samo nas sada izbavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I pobacaše izmeðu sebe bogove tuðe, i stadoše služiti Gospodu; i sažali mu se radi muke sinova Izrailjevijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A sinovi Amonovi skupiše se i stadoše u oko u Galadu; skupiše se i sinovi Izrailjevi i stadoše u oko u Mispi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A narod i knezovi Galadski rekoše jedan drugomu: ko æe poèeti boj sa sinovima Amonovijem? on neka bude poglavar svjema koji žive u Galadu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JDG/10.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 10
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JDG/11.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 11
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JDG/9.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 9
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

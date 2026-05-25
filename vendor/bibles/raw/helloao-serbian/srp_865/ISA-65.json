@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 65,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Potražiše me koji ne pitahu za me; naðoše me koji me ne tražahu; rekoh narodu koji se ne zove mojim imenom: evo me, evo me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Vas dan pružah ruke svoje narodu nepokornu, koji ide za svojim mislima putem koji nije dobar,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Narodu, koji me jednako gnjevi u oèi, koji prinosi žrtve u vrtovima i kadi na opekama;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Koji sjede kod grobova i noæuju u peæinama, jedu meso svinjeæe i juha im je neèista u sudovima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Koji govore: odlazi, ne dohvataj me se, jer sam svetiji od tebe. Ti su dim u nozdrvama mojim, oganj koji gori vas dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Eto, napisano je preda mnom: neæu muèati, nego æu platiti, platiæu im u njedra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Za bezakonja vaša i za bezakonja otaca vaših, veli Gospod, koji kadiše na gorama, i na humovima ružiše me, izmjeriæu im u njedra platu za djela koja èiniše od poèetka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ovako veli Gospod: kao kad ko naðe vina u grozdu, pa reèe: ne kvari ga, jer je blagoslov u njemu, tako æu uèiniti radi sluga svojih, neæu ih potrti svijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer æu izvesti sjeme iz Jakova i iz Jude našljednika gorama svojim, i naslijediæe ih izbranici moji, i sluge moje naseliæe se ondje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Saron æe biti tor za ovce i dolina Ahorska poèivalište za goveda narodu mojemu koji me traži."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A vi, koji ostavljate Gospoda, koji zaboravljate svetu goru moju, koji postavljate sto Gadu i ljevate naljev Meniju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Vas æu izbrojiti pod maè, i svi æete pripasti na klanje, jer zvah a vi se ne odzivaste, govorih a vi ne slušaste, nego èiniste što je zlo preda mnom i izabraste što meni nije po volji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zato ovako veli Gospod Gospod: gle, sluge æe moje jesti, a vi æete gladovati; gle, sluge æe moje piti, a vi æete biti žedni; gle, sluge æe se moje veseliti, a vi æete se stidjeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Gle, sluge æe moje pjevati od radosti u srcu, a vi æete vikati od žalosti u srcu i ridaæete od tuge u duhu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I ostaviæete ime svoje izbranima mojim za uklin; i Gospod æe te Bog ubiti, a sluge æe svoje nazvati drugim imenom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ko se uzblagosilja na zemlji, blagosiljaæe se Bogom istinijem; a ko se uskune na zemlji, kleæe se Bogom istinijem; jer æe se prve nevolje zaboraviti i sakrivene æe biti od oèiju mojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer, gle, ja æu stvoriti nova nebesa i novu zemlju, i što je prije bilo neæe se pominjati niti æe na um dolaziti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nego se radujte i veselite se dovijeka radi onoga što æu ja stvoriti; jer gle, ja æu stvoriti Jerusalim da bude veselje i narod njegov da bude radost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I ja æu se veseliti radi Jerusalima, i radovaæu se radi naroda svojega, i neæe se više èuti u njemu plaè ni jauk."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Neæe više biti ondje maloga djeteta ni starca koji ne bi navršio dana svojih; jer æe dijete umirati od sto godina, a grješnik od sto godina biæe proklet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I oni æe graditi kuæe i sjedjeæe u njima; i sadiæe vinograde i ješæe rod njihov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Neæe oni graditi a drugi se naseliti, neæe saditi a drugi jesti, jer æe dani narodu mojemu biti kao dani drvetu, i izbranicima æe mojim ovetšati djela ruku njihovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Neæe raditi uzalud, niti æe raðati za strah, jer æe biti sjeme blagoslovenijeh od Gospoda, i natražje æe njihovo biti s njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I prije nego povièu, ja æu se odazvati; još æe govoriti, a ja æu uslišiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Vuk i jagnje zajedno æe pasti, i lav æe jesti slamu kao vo; a zmiji æe biti hrana prah; neæe uditi ni potirati na svoj svetoj gori mojoj, veli Gospod."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/65.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 65
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/66.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 66
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/64.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 64
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

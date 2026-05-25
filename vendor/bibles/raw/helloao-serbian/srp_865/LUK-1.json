@@ -1,0 +1,636 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "srp_865",
+    "name": "Luki",
+    "commonName": "Luki",
+    "title": "Jevanðelje po Luki",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "71d24bae001865beafd9dc8b76f8e93d8f927bd8e33391ea4aebbf53673c6a27",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LUK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/LUK/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Buduæi da mnogi poèeše opisivati dogaðaje koji se ispuniše meðu nama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kao što nam predaše koji isprva sami vidješe i sluge rijeèi biše:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Namislih i ja, ispitavši sve od poèetka, po redu pisati tebi, èestiti Teofile,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Da poznaš temelj onijeh rijeèi kojima si se nauèio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "U vrijeme Iroda cara Judejskoga bijaše neki sveštenik od reda Avijna, po imenu Zarija, i žena njegova od plemena Aronova, po imenu Jelisaveta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A bijahu oboje pravedni pred Bogom, i življahu u svemu po zapovijestima i uredbama Gospodnjijem bez mane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I ne imadijahu djece; jer Jelisaveta bješe nerotkinja, i bijahu oboje veæ stari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I dogodi se, kad on služaše po svome redu pred Bogom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Da po obièaju sveštenstva doðe na njega da iziðe u crkvu Gospodnju da kadi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I sve mnoštvo naroda bijaše napolju i moljaše se Bogu u vrijeme kaðenja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A njemu se pokaza anðeo Gospodnji koji stajaše s desne strane oltara kadionoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I kad ga vidje Zarija uplaši se i strah napade na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A anðeo reèe mu: ne boj se, Zarija; jer je uslišena tvoja molitva: i žena tvoja Jelisaveta rodiæe ti sina, i nadjeni mu ime Jovan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I biæe tebi radost i veselje, i mnogi æe se obradovati njegovu roðenju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer æe biti veliki pred Bogom, i neæe piti vina i sikera; i napuniæe se Duha svetoga još u utrobi matere svoje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I mnoge æe sinove Izrailjeve obratiti ka Gospodu Bogu njihovome;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I on æe naprijed doæi pred njim u duhu i sili Ilijnoj da obrati srca otaca k djeci, i nevjernike k mudrosti pravednika, i da pripravi Gospodu narod gotov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I reèe Zarija anðelu: po èemu æu ja to poznati? jer sam ja star i žena je moja vremenita."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I odgovarajuæi anðeo reèe mu: ja sam Gavrilo što stojim pred Bogom, i poslan sam da govorim s tobom i da ti javim ovu radost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I evo, onijemiæeš i neæeš moæi govoriti do onoga dana dok se to ne zbude; jer nijesi vjerovao mojim rijeèima koje æe se zbiti u svoje vrijeme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I narod èekaše Zariju, i èuðahu se što se zabavi u crkvi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A izišavši ne mogaše da im govori; i razumješe da mu se nešto utvorilo u crkvi; i on namigivaše im; i osta nijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I kad se navršiše dani njegove službe otide kuæi svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A poslije ovijeh dana zatrudnje Jelisaveta žena njegova, i krijaše se pet mjeseci govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Tako mi uèini Gospod u dane ove u koje pogleda na me da me izbavi od ukora meðu ljudima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A u šesti mjesec posla Bog anðela Gavrila u grad Galilejski po imenu Nazaret"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "K djevojci isprošenoj za muža, po imenu Josifa iz doma Davidova; i djevojci bješe ime Marija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I ušavši k njoj anðeo reèe: raduj se, blagodatna! Gospod je s tobom, blagoslovena si ti meðu ženama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A ona vidjevši ga poplaši se od rijeèi njegove i pomisli: kakav bi ovo bio pozdrav?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I reèe joj anðeo: ne boj se, Marija! Jer si našla milost u Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I evo zatrudnjeæeš, i rodiæeš sina, i nadjeni mu ime Isus."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "On æe biti veliki, i nazvaæe se sin najvišega, i daæe mu Gospod Bog prijesto Davida oca njegova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I carovaæe u domu Jakovljevu vavijek, i carstvu njegovom neæe biti kraja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A Marija reèe anðelu: kako æe to biti kad ja ne znam za muža?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I odgovarajuæi anðeo reèe joj: duh sveti doæi æe na tebe, i sila najvišega osjeniæe te; zato i ono što æe se roditi biæe sveto, i nazvaæe se sin Božij."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I evo Jelisaveta tvoja tetka, i ona zatrudnje sinom u starosti svojoj, i ovo je šesti mjesec njojzi, koju zovu nerotkinjom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Jer u Boga sve je moguæe što reèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A Marija reèe: evo sluškinje Gospodnje; neka mi bude po rijeèi tvojoj. I anðeo otide od nje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A Marija ustavši onijeh dana otide brzo u gornju zemlju u grad Judin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I uðe u kuæu Zarijinu, i pozdravi se s Jelisavetom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I kad Jelisaveta èu èestitanje Marijino, zaigra dijete u utrobi njezinoj, i Jelisaveta se napuni Duha svetoga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I povika zdravo i reèe: blagoslovena si ti meðu ženama, i blagosloven je plod utrobe tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I otkud meni ovo da doðe mati Gospoda mojega k meni?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Jer gle, kad doðe glas èestitanja tvojega u uši moje, zaigra dijete radosno u utrobi mojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "I blago onoj koja vjerova; jer æe se izvršiti što joj kaza Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "I reèe Marija: velièa duša moja Gospoda;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "I obradova se duh moj Bogu spasu mojemu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Što pogleda na poniženje sluškinje svoje; jer gle, otsad æe me zvati blaženom svi naraštaji;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Što mi uèini velièinu silni, i sveto ime njegovo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "I milost je njegova od koljena na koljeno onima koji ga se boje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Pokaza silu rukom svojom; razasu ponosite u mislima srca njihova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Zbaci silne s prijestola, i podiže ponižene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Gladne napuni blaga, i bogate otpusti prazne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "Primi Izrailja slugu svojega da se opomene milosti;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "Kao što govori ocima našijem, Avraamu i sjemenu njegovu dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "Marija pak sjedi s njom oko tri mjeseca, i vrati se kuæi svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "A Jelisaveti doðe vrijeme da rodi, i rodi sina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "I èuše njezini susjedi i rodbina da je Gospod pokazao veliku milost svoju na njoj, i radovahu se s njom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 59,
+        "content": [
+          "I u osmi dan doðoše da obrežu dijete, i šæadijahu da mu nadjenu ime oca njegova, Zarija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 60,
+        "content": [
+          "I odgovarajuæi mati njegova reèe: ne, nego da bude Jovan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 61,
+        "content": [
+          "I rekoše joj: nikoga nema u rodbini tvojoj da mu je tako ime."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 62,
+        "content": [
+          "I namigivahu ocu njegovu kako bi on htio da mu nadjenu ime."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 63,
+        "content": [
+          "I zaiskavši dašèicu, napisa govoreæi: Jovan mu je ime. I zaèudiše se svi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 64,
+        "content": [
+          "I odmah mu se otvoriše usta i jezik njegov, i govoraše hvaleæi Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 65,
+        "content": [
+          "I uðe strah u sve susjede njihove; i po svoj gornjoj Judeji razglasi se ovaj sav dogaðaj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 66,
+        "content": [
+          "I svi koji èuše metnuše u srce svoje govoreæi: šta æe biti iz ovoga djeteta? I ruka Gospodnja bješe s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 67,
+        "content": [
+          "I Zarija otac njegov napuni se Duha svetoga, i prorokova govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 68,
+        "content": [
+          "Blagosloven Gospod Bog Jakovljev što pohodi i izbavi narod svoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 69,
+        "content": [
+          "I podiže nam rog spasenija u domu Davida sluge svojega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 70,
+        "content": [
+          "Kao što govori ustima svetijeh proroka svojijeh od vijeka"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 71,
+        "content": [
+          "Da æe nas izbaviti od našijeh neprijatelja i iz ruku sviju koji mrze na nas;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 72,
+        "content": [
+          "Uèiniti milost ocima našijem, i opomenuti se svetoga zavjeta svojega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 73,
+        "content": [
+          "Kletve kojom se kleo Avraamu ocu našemu da æe nam dati"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 74,
+        "content": [
+          "Da se izbavimo iz ruku neprijatelja svojijeh, i da mu služimo bez straha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 75,
+        "content": [
+          "I u svetosti i u pravdi pred njim dok smo god živi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 76,
+        "content": [
+          "I ti, dijete, nazvaæeš se prorok najvišega; jer æeš iæi naprijed pred licem Gospodnjijem da mu pripraviš put;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 77,
+        "content": [
+          "Da daš razum spasenija narodu njegovu za oproštenje grijeha njihovijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 78,
+        "content": [
+          "Po dubokoj milosti Boga našega, po kojoj nas je pohodio istok s visine;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 79,
+        "content": [
+          "Da obasjaš one koji sjede u tami i u sjenu smrtnome; da uputiš noge naše na put mira."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 80,
+        "content": [
+          "A dijete rastijaše i jaèaše duhom, i bijaše u pustinji dotle dok se ne pokaza Izrailju."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LUK/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LUK/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MRK/16.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 16
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 80
+}

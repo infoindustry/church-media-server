@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I bijaše kovèeg Gospodnji u zemlji Filistejskoj sedam mjeseca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Tada dozvaše Filisteji sveštenike i vraèe, pa im rekoše: šta æemo èiniti s kovèegom Gospodnjim? nauèite nas kako æemo ga poslati natrag na njegovo mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A oni rekoše: ako æete natrag poslati kovèeg Boga Izrailjeva, ne šaljite ga prazna, nego uza nj podajte prinos za grijeh; tada æete ozdraviti i doznaæete zašto se ruka njegova nije odmakla od vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A oni rekoše: kakav æemo mu dati prinos za grijeh? A oni rekoše: prema broju kneževina Filistejskih pet zlatnijeh šuljeva i pet zlatnijeh miševa; jer je zlo jednako na svjema vama i na knezovima vašim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Naèinite dakle slike od svojih šuljeva i slike od miševa koji kvare zemlju, i podajte slavu Bogu Izrailjevu. Može biti da æe ulakšati ruku svoju nad vama i nad bogovima vašim i nad zemljom vašom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I zašto biste bili uporna srca kao što bijahu uporna srca Misirci i Faraon? i pošto uèini èudesa na njima, eda li ih tada ne pustiše, te otidoše?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zato naèinite jedna kola nova, i uzmite dvije krave dojilice, na kojima još nije bio jaram, pa upregnite krave u kola, a telad njihovu odvedite od njih kuæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Pa uzmite kovèeg Gospodnji i metnite ga na kola; a zaklade zlatne što æete mu dati za grijeh metnite u kovèežiæ pokraj njega, i pustite ga neka ide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I gledajte: ako poðe putem k meði svojoj u Vet-Semes, on nam je uèinio ovo veliko zlo; ako li ne poðe tako, onda æemo znati da nas se nije dohvatila ruka njegova, nego nam se dogodilo sluèajno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I uèiniše tako oni ljudi; i uzevši dvije krave dojilice upregoše ih u kola, a telad njihovu zatvoriše kod kuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I metnuše kovèeg Gospodnji na kola, i mali kovèežiæ s mišima zlatnijem i sa slikama svojih šuljeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I poðoše krave pravo putem u Vet-Semes, i jednako iðahu istijem putem muèuæi i ne svræuæi ni nadesno ni nalijevo; a knezovi Filistejski iðahu za njima do meðe Vet-Semeske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Vet-Semešani žnjahu pšenicu u dolini, i podigavši oèi svoje vidješe kovèeg, i obradovaše se vidjevši ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I doðoše kola na njivu Isusa Vet-Semešanina, i stadoše ondje. A bijaše ondje velik kamen; i iscjepaše drva od kola, i prinesoše one krave na žrtvu paljenicu Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Leviti snimivši kovèeg Gospodnji i kovèežiæ što bješe pokraj njega, u kojem bijahu zakladi zlatni, metnuše na onaj veliki kamen; a ljudi iz Vet-Semesa gotoviše žrtve paljenice i prinosiše žrtve Gospodu onaj dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A to vidjevši pet knezova Filistejskih vratiše se u Akaron isti dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A ovo bjehu zlatni šuljevi koje dadoše Filisteji Gospodu za grijeh: za Azot jedan, za Gazu jedan, za Askalon jedan, za Gat jedan, za Akaron jedan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I miši zlatni bjehu prema broju svijeh gradova Filistejskih, u pet kneževina, svijeh zidanijeh gradova i sela neograðenijeh do velikoga kamena, na koji metnuše kovèeg Gospodnji, i koji je i danas u polju Isusa Vet-Semešanina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ali pobi Gospod neke izmeðu Vet-Semešana koji zagledaše u kovèeg Gospodnji, i pobi iz naroda pedeset tisuæa i sedamdeset ljudi. I plaka narod što ga Gospod udari velikom pogiblju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I ljudi iz Vet-Semesa rekoše: ko može ostati pred tijem Gospodom Bogom svetijem? i ka kome æe otiæi od nas?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I poslaše poslanike k stanovnicima Kirijat-Jarimskim govoreæi: donesoše natrag Filisteji kovèeg Gospodnji, hodite, odnesite ga k sebi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

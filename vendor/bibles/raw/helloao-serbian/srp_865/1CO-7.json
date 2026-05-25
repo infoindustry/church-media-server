@@ -1,0 +1,356 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CO",
+    "translationId": "srp_865",
+    "name": "1 Korinæanima",
+    "commonName": "1 Korinæanima",
+    "title": "1. Korinæanima Poslanica",
+    "order": 46,
+    "numberOfChapters": 16,
+    "sha256": "114ef2323a27d8e2c5bd8d2269293cc5ec228241cba7d2999cf2908b344e5d17",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/1CO/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CO",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 437
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A za ono što mi pisaste: dobro je èovjeku da se ne dohvata do žene:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ali zbog kurvarstva svaki da ima svoju ženu, i svaka žena da ima svojega muža;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Muž da èini ženi dužnu ljubav, tako i žena mužu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Žena nije gospodar od svojega tijela, nego muž; tako i muž nije gospodar od svojega tijela, nego žena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ne zabranjujte se jedno od drugoga, veæ ako u dogovoru za vrijeme, da se postite i molite Bogu; i opet da se sastanete, da vas sotona ne iskuša vašijem neuzdržanjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ali ovo govorim po svjetu a ne po zapovijesti;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer hoæu da svi ljudi budu kao i ja; ali svaki ima svoj dar od Boga: ovaj dakle ovako a onaj onako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A neoženjenijem i udovicama velim: dobro im je ako ostanu kao i ja što sam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ako li se ne uzdrže, neka se žene i udaju; jer je bolje ženiti se negoli upaljivati se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A oženjenijem zapovijedam, ne ja nego Gospod, da se žena od muža ne razdvaja"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ako li se pak i razdvoji, da se više ne udaje, ili da se pomiri sa svojijem mužem i muž da ne pušæa žene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A ostalima govorim ja a ne Gospod: ako koji brat ima ženu nekrštenu i ona se privoli življeti s njim, da je ne ostavlja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I žena ako ima muža nekrštena i on se privoli življeti s njom, da ga ne ostavlja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer se posveti muž nekršten ženom krštenom, i posveti se žena nekrštena od muža krštenoga; jer inaèe djeca vaša bila bi neèista, a sad su sveta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ako li se nekršteni razdvaja, neka se razdvoji; jer se brat ili sestra u takovom dogaðaju ne zarobi; jer nas na mir dozva Gospod Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer šta znaš, ženo, da ako muža spaseš? ili šta znaš, mužu, da ako ženu spaseš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Samo kao što je Bog razdijelio svakome, i kao što je svakoga pozvao Gospod onako neka živi. I tako zapovijedam po svijem crkvama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Je li ko pozvat obrezan, neka se ne gradi neobrezan; ako li je ko pozvat neobrezan, neka se ne obrezuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Obrezanje je ništa, i neobrezanje je ništa; nego držanje zapovijesti Božijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Svaki neka ostane u onome zvanju u kome je pozvan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jesi li pozvan rob, ne brini se; nego ako i možeš svoj biti, još radije budi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer koji je pozvan u Gospodu rob, slobodnjak je Gospodnji, tako i koji je pozvan slobodnjak, rob je Hristov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Kupljeni ste skupo, ne budite robovi ljudima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Svaki, braæo, u èemu je ko pozvan u onome neka ostane pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A za djevojke nemam zapovijesti Gospodnje, nego dajem svjet, kao koji sam pomilovan od Gospoda, da budem vjeran."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Mislim dakle ovo da æe biti dobro za sadašnju nevolju da je èovjeku dobro tako biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jesi li se privezao za ženu, ne traži da se razdriješiš; jesi li se odriješio od žene, ne traži žene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A ako li se i oženiš, nijesi sagriješio; i djevojka ako se uda, nije sagriješila: ali æe imati takovi nevolje tjelesne; a ja vas žalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A ovo govorim, braæo, jer je ostalo vrijeme prekraæeno, da æe i oni koji imaju žene biti kao oni koji nemaju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I koji plaèu kao koji ne plaèu; i koji se raduju kao koji se ne raduju; i koji kupuju kao koji nemaju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I koji ovaj svijet upotrebljavaju kao da ga ne upotrebljavaju: jer prolazi oblièje ovoga svijeta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A ja hoæu da ste vi bezbrižni. Ko je neoženjen brine se za Gospodnje, kako æe ugoditi Gospodu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A koji je oženjen brine se za svjetsko, kako æe ugoditi ženi. Drugo je žena, a drugo je djevojka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Koja je neudata brine se za Gospodnje, kako æe ugoditi Gospodu, da bude sveta i tijelom i duhom; a koja je udata brine se za svjetsko, kako æe ugoditi mužu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A ovo govorim na korist vama samijem, ne da vam nametnem zamku na vrat, nego za lijepu i pristojnu službu Gospodu bez smetnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ako li pak ko misli da je sramota za njegovu djevojku kad ostane usidjelica, i ne može drukèije biti, neka èini šta hoæe, ne griješi ako se uda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A koji stoji tvrdo u srcu, i nema nevolje, a ima vlast nad svojom voljom, i ovo je rasudio u srcu svojemu da zadrži djevojku, dobro èini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Tako i onaj koji udaje svoju djevojku dobro èini; ali koji ne udaje bolje èini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Žena je privezana zakonom dokle joj god živi muž; a ako joj umre muž, slobodna je za koga hoæe da se uda, samo u Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Ali je blaženija ako ostane tako po mojemu svjetu; jer mislim da i ja imam Duha Božijega."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CO/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CO/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CO/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 40
+}

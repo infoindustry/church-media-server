@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 16,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Potom doðe mi rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nemoj se ženiti, i da nemaš sinova ni kæeri na tom mjestu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer ovako govori Gospod za sinove i kæeri što se rode na tom mjestu i za matere njihove koje ih rode, i za oce njihove koji ih rode u toj zemlji:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ljutom æe smræu pomrijeti, neæe biti oplakani niti æe se pogrepsti, biæe gnoj po zemlji, i od maèa i od gladi izginuæe, i mrtva æe tjelesa njihova biti hrana pticama nebeskim i zvijerima zemaljskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer ovako govori Gospod: ne ulazi u kuæu u kojoj je žalost, i ne idi da plaèeš niti ih žali; jer sam uzeo mir svoj od toga naroda, govori Gospod, milost i žaljenje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Pomrijeæe mali i veliki u ovoj zemlji, neæe biti pogrebeni niti æe se oplakati, niti æe se ko rezati ni glave striæi za njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Neæe im se dati hljeba u žalosti da se potješe za mrtvijem, niti æe ih napojiti iz èaše radi utjehe za ocem ili za materom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tako ne ulazi u kuæu u kojoj je žalost da sjedeš s njima da jedeš i piješ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer ovako veli Gospod nad vojskama Bog Izrailjev: evo, ja æu uèiniti da na ovom mjestu pred vašim oèima i za vaših dana ne bude glasa radosna ni glasa vesela, glasa ženikova ni glasa nevjestina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A kad kažeš tome narodu sve ove rijeèi, ako ti reku: zašto izreèe Gospod sve to veliko zlo na nas? i kako je bezakonje naše ili kaki je grijeh naš, kojim zgriješismo Gospodu Bogu svojemu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tada im reci: jer oci vaši ostaviše mene, govori Gospod, i idoše za drugim bogovima i služiše im i klanjaše im se, a mene ostaviše i zakona mojega ne držaše;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A vi još gore èinite nego oci vaši, jer eto idete svaki po misli srca svojega zloga ne slušajuæi mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zato æu vas izbaciti iz ove zemlje u zemlju koje ne poznaste ni vi ni oci vaši, i ondje æete služiti drugim bogovima dan i noæ dokle vam ne uèinim milost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Zato, evo, idu dani, govori Gospod, kad se neæe više govoriti: tako da je živ Gospod koji je izveo sinove Izrailjeve iz zemlje Misirske;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Nego: tako da je živ Gospod koji je izveo sinove Izrailjeve iz zemlje sjeverne i iz svijeh zemalja u koje ih bješe razagnao! Jer æu ih opet dovesti u zemlju njihovu koju sam dao ocima njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Gle, ja æu poslati mnoge ribare, govori Gospod, da ih love, i poslije æu poslati mnoge lovce da ih love po svakoj gori i po svakom humu i po rasjelinama kamenijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer oèi moje paze na sve putove njihove, nijesu sakriveni od mene, niti je bezakonje njihovo zaklonjeno od mojih oèiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I platiæu im prvo dvojinom za bezakonje njihovo i za grijeh njihov, što oskvrniše zemlju moju strvima gadova svojih, i našljedstvo moje napuniše gnusobama svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Gospode, krjeposti moja i grade moj i utoèište moje u nevolji, k tebi æe doæi narodi od krajeva zemaljskih, i reæi æe: doista oci naši imaše laž, i taštinu i što nimalo ne pomaže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Eda li æe èovjek naèiniti sebi bogove, koji ipak nijesu bogovi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Zato, evo, ja æu ih nauèiti sada, pokazaæu im ruku svoju i silu svoju, da poznadu da mi je ime Gospod."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/16.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 16
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/17.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 17
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/15.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 15
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

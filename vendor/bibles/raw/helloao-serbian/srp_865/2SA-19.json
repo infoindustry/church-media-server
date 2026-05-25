@@ -1,0 +1,377 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2SA",
+    "translationId": "srp_865",
+    "name": "2. Samuelova",
+    "commonName": "2. Samuelova",
+    "title": "2. Samuelova",
+    "order": 10,
+    "numberOfChapters": 24,
+    "sha256": "e9bcfc863ad7bd2a939eb305126ad735f393202a88f773ac55550249ed219529",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/2SA/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 695
+  },
+  "chapter": {
+    "number": 19,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I javiše Joavu: evo car plaèe i tuži za Avesalomom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I pobjeda onoga dana pretvori se u žalost svemu narodu, jer narod èu u onaj dan gdje govore: žali car sina svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I narod se u onaj dan krijaše ulazeæi u grad kao što se krije narod koji se stidi kad pobjegne iz boja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A car pokri lice svoje; i vikaše iza glasa: sine moj Avesalome! Avesalome sine moj, sine moj!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tada uðe Joav k caru u kuæu, i reèe: posramio si danas sve sluge svoje, koje ti danas dušu saèuvaše, i sinovima tvojim i kæerima tvojim i ženama tvojim i inoèama tvojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer ljubiš one koji mrze na te, a mrziš na one koji te ljube; jer si pokazao danas da ne mariš za vojvode i za sluge; i vidim danas da bi ti milo bilo da je Avesalom živ a mi svi da smo izginuli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zato ustani sada, i izidi i progovori lijepo slugama svojim; jer zaklinjem se Gospodom, ako ne izideš, neæe nijedan ostati kod tebe ovu noæ, i to æe biti gore po te negoli sva zla koja su te snalazila od mladosti tvoje do sada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tada usta car, i sjede na vratima; i kazaše svemu narodu govoreæi: evo, sjedi car na vratima. I doðe sav narod pred cara. Ali Izrailjci bjehu pobjegli, svak u svoj šator."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I sav se narod svaðaše meðu sobom po svijem plemenima Izrailjevim govoreæi: car nas je izbavio iz ruku neprijatelja naših, i izbavio nas je iz ruku Filistejskih; a sada je pobjegao iz zemlje od Avesaloma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Avesalom pak, kojega pomazasmo za cara nad sobom, pogibe u boju. Sada dakle zašto oklijevate te ne dovedete natrag cara?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zato car David posla k Sadoku i Avijataru sveštenicima i poruèi: govorite starješinama Judinijem i recite: zašto vi da budete pošljednji koji æe cara natrag dovesti u kuæu njegovu? Jer govor svega Izrailja doðe do cara u kuæu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Vi ste moja braæa, vi ste kost moja i tijelo moje. Zašto biste dakle bili pošljednji koji æe natrag dovesti cara?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Recite i Amasi: nijesi li kost moja i tijelo moje? Bog neka mi uèini tako i tako neka doda, ako mi ne budeš vojvoda dok si živ na mjesto Joava."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I skloni srca svijeh ljudi od roda Judina kao jednoga èovjeka, te poslaše k caru govoreæi: vrati se sa svijem slugama svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I tako se car vrati, i doðe do Jordana; a Juda doðe do Galgala da srete cara i da ga prevede preko Jordana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Pohitje i Simej sin Girin od Venijamina, koji bijaše iz Vaurima, i siðe s ljudima roda Judina na susret caru Davidu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I tisuæa ljudi bješe s njim od roda Venijaminova; takoðer i Siva sluga doma Saulova s petnaest sinova svojih i dvadeset sluga svojih; i prijeðoše preko Jordana pred cara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Preturiše i laðu da prevezu èeljad carevu i da uèine što bi mu bilo ugodno. A Simej sin Girin pade pred carem, kad šæaše da prijeðe preko Jordana,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I reèe caru: ne primi mi bezakonja, gospodaru moj, i ne pominji pakosti koju je uèinio sluga tvoj u onaj dan kad je car gospodar moj izašao iz Jerusalima; neka car ne misli o tom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer sluga tvoj vidi da je zgriješio; i evo došao sam danas prvi iz svega doma Josifova da sretem cara gospodara svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ali odgovori Avisaj sin Serujin i reèe: eda li toga radi neæe poginuti Simej što je psovao pomazanika Gospodnjega?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A David reèe: šta je vama do mene, sinovi Serujini, te ste mi danas protivnici? zar æe danas poginuti ko u Izrailju? jer zar ne znam da sam danas postao car nad Izrailjem?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I reèe car Simeju: neæeš poginuti. I zakle mu se car."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Tako i Mefivostej sin Saulov doðe caru na susret; on pak ne opra nogu svojih, niti brade svoje oèešlja, ni opra haljine svoje od onoga dana kad otide car do dana kad se vrati s mirom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I srete cara kad se vraæaše u Jerusalim; i reèe mu car: zašto ne poðe sa mnom, Mefivosteju?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A on reèe: caru gospodaru moj, prevari me sluga moj; jer sluga tvoj reèe: osedlaæu sebi magarca i uzjahaæu ga i poæi æu s carem; jer je hrom sluga tvoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I on opade slugu tvojega kod gospodara mojega cara; ali je car gospodar moj kao anðeo Božji; zato èini što ti je drago."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Jer sav dom oca mojega bijahu ljudi koji zaslužiše smrt pred carem gospodarem mojim, a ti posadi slugu svojega meðu one koji jedu za stolom tvojim. Pa kakvo imam još pravo, i kako se mogu još tužiti caru?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A car mu reèe: šta bi mi više govorio? kazao sam: ti i Siva podijelite njivu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A Mefivostej reèe caru: neka uzme sve, kad se car gospodar moj vratio na miru u dom svoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I Varzelaj od Galada doðe iz Rogelima, i poðe s carem preko Jordana da ga prati preko Jordana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A bješe Varzelaj vrlo star, bješe mu osamdeset godina, i hranjaše cara dok bijaše u Mahanajimu, jer bješe vrlo bogat èovjek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I reèe car Varzelaju: hajde sa mnom; ja æu te hraniti kod sebe u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ali Varzelaj reèe caru: koliko ima vijeka mojega, da idem s carem u Jerusalim?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ima mi danas osamdeset godina; mogu li raspoznavati dobro i zlo? može li sluga tvoj kusom razlikovati što æe jesti i što æe piti? mogu li jošte slušati glas pjevaèima i pjevaèicama? i zašto bi sluga tvoj još bio na tegotu caru gospodaru mojemu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Malo æe proæi sluga tvoj preko Jordana s carem; a zašto bi mi car tako naplatio?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Neka se sluga tvoj vrati, da umrem u svom gradu kod groba oca svojega i matere svoje. Nego evo, sluga tvoj Himam neka ide s carem gospodarem mojim, uèini njemu što ti bude drago."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A car reèe: neka ide sa mnom Himam; ja æu mu uèiniti što bude tebi drago, i što god zaišteš u mene, sve æu ti uèiniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I kad prijeðe sav narod preko Jordana i car prijeðe, cjelova car Varzelaja i blagoslovi ga, i on se vrati u mjesto svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Otuda car otide u Galgal, i Himam otide s njim. I tako sav narod Judin doprati cara, i polovina naroda Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A gle, svi ljudi Izrailjci doðoše k caru i rekoše mu: zašto te ukradoše braæa naša, ljudi Judini, i prevedoše preko Jordana cara i dom njegov i sve ljude Davidove s njim?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A svi ljudi od Jude odgovoriše ljudima od Izrailja: jer je car nama rod; pa što se srdite toga radi? jesmo li što pojeli caru? je li nas darom darivao?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Tada odgovoriše ljudi od Izrailja ljudima od Jude, i rekoše: mi imamo deset dijelova u cara, i Davidu smo više nego vi; zašto dakle ne mariste za nas? nijesmo li mi prvi govorili da dovedemo natrag cara svojega? Ali besjeda ljudi od Jude bješe tvrða od besjede ljudi od Izrailja."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2SA/19.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 19
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2SA/20.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 20
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2SA/18.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 18
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 43
+}

@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EPH",
+    "translationId": "srp_865",
+    "name": "Efežanima",
+    "commonName": "Efežanima",
+    "title": "Poslanica Efežanima",
+    "order": 49,
+    "numberOfChapters": 6,
+    "sha256": "7712b8f570a25c75c412d98fb0075a57221e64ee4d6feeff31d8738503a35eaf",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EPH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EPH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 6,
+    "lastChapterApiLink": "/api/srp_865/EPH/6.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EPH",
+      "chapter": 6
+    },
+    "totalNumberOfVerses": 155
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Od Pavla, po volji Božijoj apostola Isusa Hrista, svetima koji su u Efesu, i vjernima u Hristu Isusu:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Blagodat vam i mir od Boga oca našega i Gospoda Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Blagosloven Bog i otac Gospoda našega Isusa Hrista, koji nas je blagoslovio svakijem blagoslovom duhovnijem na nebesima kroz Hrista;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Kao što nas izabra kroz njega prije postanja svijeta, da budemo sveti i pravedni pred njim u ljubavi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Odredivši nas naprijed kroz Isusa Hrista sebi na posinaštvo, po ugodnosti volje svoje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Na pohvalu slavne blagodati svoje kojom nas oblagodati u ljubaznome,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "U kome imamo izbavljenje krvlju njegovom, i oproštenje grijeha, po bogatstvu blagodati njegove,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Koju je preumnožio u nama u svakoj premudrosti i razumu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Pokazavši nam tajnu volje svoje, po ugodnosti svojoj koju naprijed pokaza u njemu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Za uredbu izvršetka vremena, da se sve sastavi u Hristu što je na nebesima i na zemlji; u njemu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Kroz kojega i našljednici postasmo, naprijed odreðeni bivši po naredbi Boga koji sve èini po savjetu volje svoje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Da bismo bili na hvalu slave njegove, mi koji smo se naprijed uzdali u Hrista,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Kroz kojega i vi, èuvši rijeè istine, jevanðelje spasenija svojega, u kojemu i vjerovavši zapeèatiste se svetijem duhom obeæanja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Koji je zalog našljedstva našega za izbavljenje teèevine na hvalu slave njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zato i ja èuvši vašu vjeru u Hrista Isusa, i ljubav k svima svetima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ne prestajem zahvaljivati za vas, i spominjati vas u svojijem molitvama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Da Bog Gospoda našega Isusa Hrista, otac slave, dade vam Duha premudrosti i otkrivenja da ga poznate,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I bistre oèi srca vašega da biste mogli vidjeti koje je nad njegova zvanja, i koje je bogatstvo slave našljedstva njegova u svetima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I kakva je izobilna velièina sile njegove na nama koji vjerujemo po èinjenju prevelike sile njegove,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Koju uèini u Hristu, kad ga podiže iz mrtvijeh i posadi sebi s desne strane na nebesima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Nad svijem poglavarstvima, i vlastima, i silama, i gospodstvima, i nad svakijem imenom što se može nazvati, ne samo na ovome svijetu nego i na onome koji ide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I sve pokori pod noge njegove, i njega dade za glavu crkvi, nad svima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Koja je tijelo njegovo, punina onoga koji sve ispunjava u svemu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EPH/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EPH",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EPH/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EPH",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GAL/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GAL",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

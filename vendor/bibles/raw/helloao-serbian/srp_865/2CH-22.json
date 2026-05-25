@@ -1,0 +1,160 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "srp_865",
+    "name": "2. Dnevnika",
+    "commonName": "2. Dnevnika",
+    "title": "2. Dnevnika",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "712160a45a7d7fb40ad6e8f55f27c6bc71cf3a3fca70d89afd22674733ec70a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/2CH/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 22,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Jerusalimljani zacariše na njegovo mjesto Ohoziju najmlaðega sina njegova, jer starije sve pobi èeta koja doðe s Arapima u oko; i tako Ohozija sin Joramov posta car Judin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Imaše Ohozija èetrdeset i dvije godine kad poèe carovati, i carova godinu dana u Jerusalimu. Materi mu bješe ime Gotolija, kæi Amrijeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I on hoðaše putovima doma Ahavova, jer ga mati nagovaraše na zla djela."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I èinjaše što je zlo pred Gospodom kao dom Ahavov; jer mu oni bijahu savjetnici po smrti oca njegova na pogibao njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I po njihovu svjetu hodeæi izide s Joramom sinom Ahavovijem carem Izrailjevijem na vojsku na Azaila cara Sirskoga u Ramot Galadski; i ondje Sirci raniše Jorama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A on se vrati da se lijeèi u Jezraelu od rana koje mu zadaše u Rami, kad se bijaše s Azailom carem Sirskim. A Azarija sin Joramov car Judin doðe u Jezrael da vidi Jorama sina Ahavova, jer bijaše bolestan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ali bijaše od Boga na propast Ohoziji što doðe k Joramu; jer došav otide s Joramom na Juja sina Nimsijina, kojega Gospod pomaza da istrijebi dom Ahavov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer kad Juj izvršivaše osvetu na domu Ahavovu, naðe knezove Judine i sinove braæe Ohozijine, koji služahu Ohoziji, i pogubi ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Potom potraži Ohoziju, i uhvatiše ga kad se krijaše u Samariji, i dovedavši ga k Juju pogubiše ga, i pogreboše ga; jer rekoše: sin je Josafata koji je tražio Gospoda svijem srcem svojim. I tako ne bi nikoga od doma Ohozijina koji bi mogao biti car."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zato Gotolija mati Ohozijina vidjevši da joj sin pogibe, usta i pobi sve carsko sjeme doma Judina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ali Josaveta kæi careva uze Joasa sina Ohozijina i ukrade ga izmeðu sinova carevijeh, koje ubijahu; i sakri ga s dojkinjom njegovom u ložnicu. I tako Josaveta kæi cara Jorama žena Jodaja sveštenika sakri ga od Gotolije, jer bijaše sestra Ohozijina, te ga ne ubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I bijaše s njima sakriven u domu Božijem šest godina; a Gotolija carovaše u zemlji."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CH/22.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 22
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CH/23.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 23
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CH/21.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 21
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 12
+}

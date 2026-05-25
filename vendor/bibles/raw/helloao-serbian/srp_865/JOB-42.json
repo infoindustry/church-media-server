@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOB",
+    "translationId": "srp_865",
+    "name": "Jov",
+    "commonName": "Jov",
+    "title": "Jov",
+    "order": 18,
+    "numberOfChapters": 42,
+    "sha256": "8862f4cbf1254f76fa7ea0a123da4bc2d61eebd46a2620b1499e0771fad0ee95",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 42,
+    "lastChapterApiLink": "/api/srp_865/JOB/42.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 42
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 42,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada Jov odgovori Gospodu i reèe:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Znam da sve možeš, i da se ne može smesti što naumiš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ko je to što zamraèuje savjet nerazumno? Zato kažem da nijesam razumijevao; èudesno je to za me, te ne mogu znati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Slušaj kad uzgovorim, i kad zapitam, kaži mi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ušima slušah o tebi, a sada te oko moje vidi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Zato porièem, i kajem se u prahu i pepelu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kad Gospod izgovori one rijeèi Jovu, reèe Gospod Elifasu Temancu: raspalio se gnjev moj na tebe i na dva prijatelja tvoja što ne govoriste o meni pravo kao sluga moj Jov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Zato sada uzmite sedam telaca i sedam ovnova, i idite k sluzi mojemu Jovu i prinesite žrtve paljenice za se, i sluga moj Jov neka se pomoli za vas, jer æu doista pogledati na nj da ne uèinim s vama po vašoj ludosti, jer ne govoriste o meni pravo kao sluga moj Jov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I tako otide Elifas Temanac i Vildad Sušanin i Sofar Namaæanin, i uèiniše kako im zapovjedi Gospod. I pogleda Gospod na Jova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I Gospod povrati što bješe uzeto Jovu pošto se pomoli za prijatelje svoje; i umnoži Gospod Jovu dvojinom sve što bješe imao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I doðoše k njemu sva braæa njegova i sve sestre njegove i svi preðašnji znanci njegovi, i jedoše s njim u njegovoj kuæi i žaleæi ga tješiše ga za sve zlo što bješe Gospod pustio na nj, i dadoše mu svaki po novac i po grivnu zlatnu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I Gospod blagoslovi pošljedak Jovov više nego poèetak, te imaše èetrnaest tisuæa ovaca i šest tisuæa kamila i tisuæu jarmova volova i tisuæu magarica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I imaše sedam sinova i tri kæeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I prvoj nadje ime Jemima, a drugoj Kesija a treæoj Keren-apuha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I ne nahoðaše se u svoj zemlji tako lijepijeh djevojaka kao kæeri Jovove, i otac im dade našljedstvo meðu braæom njihovom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I poslije poživje Jov sto i èetrdeset godina, i vidje sinove i unuke do èetvrtoga koljena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I umrije Jov star i sit života."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOB/42.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 42
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOB/41.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 41
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

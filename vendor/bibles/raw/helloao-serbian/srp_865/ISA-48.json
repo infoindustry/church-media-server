@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 48,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Èujte ovo, dome Jakovljev, koji se zovete imenom Izrailjevijem, i iz vode Judine izidoste, koji se kunete imenom Gospodnjim, i Boga Izrailjeva pominjete, ali ne po istini i po pravdi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer se imenuju po svetom gradu, oslanjaju se na Boga Izrailjeva, kojemu je ime Gospod nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Što je preðe bivalo, kazivah naprijed odavna, i što iz mojih usta izide i objavih, uèinih brzo i zbi se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Znao sam da si uporan, i vrat da ti je gvozdena žila, i èelo da ti je od mjedi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I zato ti odavna objavih, prije nego se zbi kazah ti, da ne bi rekao: idol moj uèini to, i lik moj rezani i lik moj liveni zapovjediše tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Èuo si; pogledaj sve to; a vi neæete li objavljivati? otsele ti javljam novo i sakriveno, što nijesi znao;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Sada se stvori, i nedavno, i prije ovoga dana nijesi èuo, da ne reèeš: gle, znao sam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Niti si èuo ni znao, i prije ti se uši ne otvoriše, jer znadijah da æeš èiniti nevjeru, i da se zoveš prestupnik od utrobe materine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Imena svojega radi ustegnuæu gnjev svoj, i radi hvale svoje uzdržaæu se prema tebi, da te ne istrijebim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Evo, pretopiæu te, ali ne kao srebro, prebraæu te u peæi nevolje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Sebe radi, sebe radi uèiniæu, jer kako bi se hulilo na ime moje? i slave svoje neæu dati drugome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Èuj me, Jakove i Izrailju, kojega ja pozvah: ja sam prvi, ja sam i pošljednji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I moja je ruka osnovala zemlju, i moja je desnica izmjerila nebesa peðu; kad ih zovnem, svi doðu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Skupite se svi i èujte: ko je od njih objavio ovo? Gospod ga miluje, on æe izvršiti volju njegovu na Vavilonu, i mišica æe njegova biti nasuprot Haldejcima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ja, ja rekoh, i pozvah ga, dovešæu ga, i biæe sreæan na svom putu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Pristupite k meni, èujte ovo: od poèetka nijesam govorio tajno; otkako to bi, bijah ondje; a sada Gospod Gospod posla me i duh njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ovako veli Gospod, izbavitelj tvoj, svetac Izrailjev: ja sam Gospod Bog tvoj koji te uèim da bi napredovao, vodim te putem kojim treba da ideš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "O, da si pazio na zapovjesti moje! mir bi tvoj bio kao rijeka, i pravda tvoja kao valovi morski;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I sjemena bi tvojega bilo kao pijeska, i poroda utrobe tvoje kao zrna njegovijeh; ime se njihovo ne bi zatrlo ni istrijebilo ispred mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Izidite iz Vavilona, bježite od Haldejaca; glasno pjevajuæi objavljujte, kazujte, razglašujte do krajeva zemaljskih; recite: izbavi Gospod slugu svojega Jakova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Neæe ožednjeti kad ih povede preko pustinje; vodu iz stijene toèiæe im, jer æe rascijepiti kamen i poteæi æe voda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Nema mira bezbožnicima, veli Gospod."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/48.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 48
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/49.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 49
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/47.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 47
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

@@ -1,0 +1,202 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GAL",
+    "translationId": "srp_865",
+    "name": "Galaæanima",
+    "commonName": "Galaæanima",
+    "title": "Poslanica Galaæanima",
+    "order": 48,
+    "numberOfChapters": 6,
+    "sha256": "d2e03dd1f5ba486866931bcba765e88c0ce25293c646bda093608473bc41a04d",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GAL/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GAL",
+      "chapter": 1
+    },
+    "lastChapterNumber": 6,
+    "lastChapterApiLink": "/api/srp_865/GAL/6.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GAL",
+      "chapter": 6
+    },
+    "totalNumberOfVerses": 149
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Braæo! ako i upadne èovjek u kakav grijeh, vi duhovni ispravljajte takovoga duhom krotosti, èuvajuæi sebe da i ti ne budeš iskušan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nosite bremena jedan drugoga, i tako æete ispuniti zakon Hristov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer ako ko misli da je što a nije ništa, umom vara sebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A svaki da ispita svoje djelo, i tada æe sam u sebi imati slavu, a ne u drugome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer æe svaki svoje breme nositi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A koji se uèi rijeèi neka daje dijel od svakoga dobra onome koji ga uèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ne varajte se: Bog se ne da ružiti; jer šta èovjek posije ono æe i požnjeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer koji sije u tijelo svoje, od tijela æe požnjeti pogibao; a koji sije u duh, od duha æe požnjeti život vjeèni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A dobro èiniti da nam se ne dosadi; jer æemo u svoje vrijeme požnjeti ako se ne umorimo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zato dakle dok imamo vremena da èinimo dobro svakome, a osobito onima koji su s nama u vjeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Vidite koliko vam napisah rukom svojom!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Koji hoæe da se hvale po tijelu oni vas nagone da se obrezujete, samo da ne budu gonjeni za krst Hristov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer ni oni sami koji se obrezuju ne drže zakona, nego hoæe da se vi obrezujete da se vašijem tijelom hvale."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A ja Bože saèuvaj da se èim drugijem hvalim osim krstom Gospoda našega Isusa Hrista, kojega radi razape se meni svijet, i ja svijetu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer u Hristu Isusu niti što pomaže obrezanje ni neobrezanje, nego nova tvar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I koliko ih god po ovome pravilu žive, na njima biæe mir i milost, i na Izrailju Božijemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Više da mi niko ne dosaðuje, jer ja rane Gospoda Isusa na tijelu svojemu nosim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Blagodat Gospoda našega Isusa Hrista sa duhom vašijem, braæo. Amin."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GAL/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GAL",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EPH/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EPH",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GAL/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GAL",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

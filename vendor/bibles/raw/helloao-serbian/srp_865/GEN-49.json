@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 49,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Poslije sazva Jakov sinove svoje i reèe: skupite se da vam javim šta æe vam biti do pošljetka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Skupite se i poslušajte, sinovi Jakovljevi, poslušajte Izrailja oca svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ruvime, ti si prvenac moj, krjepost moja i poèetak sile moje; prvi gospodstvom i prvi snagom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Navro si kao voda; neæeš biti prvi; jer si stao na postelju oca svojega i oskvrnio je legav na nju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Simeun i Levije, braæa, maèevi su im oružje nepravdi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "U tajne njihove da ne ulazi duša moja, sa zborom njihovijem da se ne sastavlja slava moja; jer u gnjevu svojem pobiše ljude, i za svoje veselje pokidaše volove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Proklet da je gnjev njihov, što bješe nagao, i ljutina njihova, što bješe žestoka; razdijeliæu ih po Jakovu, i rasuæu ih po Izrailju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Juda, tebe æe hvaliti braæa tvoja, a ruka æe ti biti za vratom neprijateljima tvojim, i klanjaæe ti se sinovi oca tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Laviæu Juda! s plijena si se vratio, sine moj; spusti se i leže kao lav i kao ljuti lav; ko æe ga probuditi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Palica vladalaèka neæe se odvojiti od Jude niti od nogu njegovijeh onaj koji postavlja zakon, dokle ne doðe onaj kome pripada, i njemu æe se pokoravati narodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Veže za èokot magare svoje, i za plemenitu lozu mlade od magarice svoje; u vinu pere haljinu svoju i ogrtaè svoj u soku od grožða."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Oèi mu se crvene od vina i zubi bijele od mlijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zavulon æe živjeti pokraj mora i gdje pristaju laðe, a meða æe mu biti do Sidona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Isahar je magarac jak u kostima, koji leži u toru,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I vidjev da je poèivanje dobro i da je zemlja mila, sagnuæe ramena svoja da nosi, i plaæaæe danak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Dan æe suditi svojemu narodu, kao jedno izmeðu plemena Izrailjevih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Dan æe biti zmija na putu i guja na stazi, koja ujeda konja za kièicu, te pada konjik nauznako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Gospode, tebe èekam da me izbaviš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A Gad, njega æe vojska svladati; ali æe najposlije on nadvladati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "U Asira æe biti obilata hrana, i on æe davati slasti carske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Neftalim je košuta puštena, i govoriæe lijepe rijeèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Josif je rodna grana, rodna grana kraj izvora, kojoj se ogranci raširiše svrh zida."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ako ga i ucvijeliše ljuto i strijeljaše na nj, i biše mu neprijatelji strijelci,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Opet osta jak luk njegov i ojaèaše mišice ruku njegovijeh od ruku jakoga Boga Jakovljeva, odakle posta pastir, kamen Izrailju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Od silnoga Boga oca tvojega, koji æe ti pomagati, i od svemoguæega, koji æe te blagosloviti blagoslovima ozgo s neba, blagoslovima ozdo iz bezdana, blagoslovima od dojaka i od materice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Blagoslovi oca tvojega nadvisiše blagoslove mojih starijeh svrh brda vjeènijeh, neka budu nad glavom Josifovom i nad tjemenom odvojenoga izmeðu braæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Venijamin je vuk grabljivi, jutrom jede lov, a veèerom dijeli plijen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ovo su dvanaest plemena Izrailjevih, i ovo im otac izgovori kad ih blagoslovi, svako blagoslovom njegovijem blagoslovi ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Potom im zapovjedi i reèe im: kad se priberem k rodu svojemu, pogrebite me kod otaca mojih u peæini koja je na njivi Efrona Hetejina,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "U peæini koja je na njivi Makpelskoj prema Mamriji u zemlji Hananskoj, koju kupi Avram s njivom u Efrona Hetejina da ima svoj grob."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ondje pogreboše Avrama i Saru ženu njegovu, ondje pogreboše Isaka i Reveku ženu njegovu, i ondje pogreboh Liju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A kupljena je njiva i peæina na njoj u sinova Hetovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A kad izgovori Jakov zapovjesti sinovima svojim, diže noge svoje na postelju, i umrije, i pribran bi k rodu svojemu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/49.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 49
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/50.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 50
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/48.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 48
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

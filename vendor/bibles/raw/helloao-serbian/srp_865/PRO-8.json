@@ -1,0 +1,328 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PRO",
+    "translationId": "srp_865",
+    "name": "Poslovice",
+    "commonName": "Poslovice",
+    "title": "Poslovice",
+    "order": 20,
+    "numberOfChapters": 31,
+    "sha256": "f56bab8aa62f0f40c0df66127a72bfe1a5502690bdb1dac94e5767df0572eee0",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PRO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PRO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/PRO/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PRO",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 915
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ne vièe li mudrost? i razum ne pušta li glas svoj?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Navrh visina, na putu, na rasputicama stoji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Kod vrata, na ulasku u grad, gdje se otvoraju vrata, vièe:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Vas vièem, o ljudi, i glas svoj obraæam k sinovima ljudskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nauèite se ludi mudrosti, i bezumni orazumite se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Slušajte, jer æu govoriti velike stvari, i usne moje otvorajuæi se kazivaæe što je pravo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer usta moja govore istinu, i mrska je usnama mojim bezbožnost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Prave su sve rijeèi usta mojih, ništa nema u njima krivo ni izopaèeno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Sve su obiène razumnomu i prave su onima koji nalaze znanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Primite nastavu moju a ne srebro, i znanje radije nego najbolje zlato."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer je bolja mudrost od dragoga kamenja, i što je god najmilijih stvari ne mogu se izjednaèiti s njom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ja mudrost boravim s razboritošæu, i razumno znanje nalazim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Strah je Gospodnji mržnja na zlo; ja mrzim na ponositost i na oholost i na zli put i na usta opaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Moj je savjet i što god jest; ja sam razum i moja je sila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Mnom carevi caruju, i vladaoci postavljaju pravdu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Mnom vladaju knezovi i poglavari i sve sudije zemaljske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ja ljubim one koji mene ljube, i koji me dobro traže nalaze me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "U mene je bogatstvo i slava, postojano dobro i pravda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Plod je moj bolji od zlata i od najboljega zlata, i dobitak je moj bolji od najboljega srebra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Putem pravednijem hodim, posred staza pravice,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Da onima koji me ljube dam ono što jest, i riznice njihove da napunim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Gospod me je imao u poèetku puta svojega, prije djela svojih, prije svakoga vremena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Prije vijekova postavljena sam, prije poèetka, prije postanja zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Kad jošte ne bijaše bezdana, rodila sam se, kad još ne bijaše izvora obilatijeh vodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Prije nego se gore osnovaše, prije humova ja sam se rodila;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Još ne bješe naèinio zemlje ni polja ni poèetka prahu vasiljenskom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Kad je ureðivao nebesa, ondje bijah; kad je razmjeravao krug nad bezdanom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Kad je utvrðivao oblake gore i krijepio izvore bezdanu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Kad je postavljao moru meðu i vodama da ne prestupaju zapovijesti njegove, kad je postavljao temelje zemlji;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Tada bijah kod njega hranjenica, bijah mu milina svaki dan, i veseljah se pred njim svagda;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Veseljah se na vasiljenoj njegovoj, i milina mi je sa sinovima ljudskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Tako dakle, sinovi, poslušajte me, jer blago onima koji se drže putova mojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Slušajte nastavu, i budite mudri, i nemojte je odbaciti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Blago èovjeku koji me sluša stražeæi na vratima mojim svaki dan i èuvajuæi pragove vrata mojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Jer ko mene nalazi, nalazi život i dobija ljubav od Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A ko o mene griješi, èini krivo duši svojoj; svi koji mrze na me, ljube smrt."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PRO/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PRO/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PRO/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 36
+}

@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 102,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Gospode! èuj molitvu moju, i vika moja nek izaðe preda te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nemoj odvratiti lica svojega od mene; u dan kad sam u nevolji prigni k meni uho svoje, u dan kad te prizivam, pohitaj, usliši me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer proðoše kao dim dani moji, kosti moje kao topionica ogorješe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Pokošeno je kao trava i posahlo srce moje, da zaboravih jesti hljeb svoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Od uzdisanja mojega prionu kost moja za meso moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Postadoh kao gem u pustinji; ja sam kao sova na zidinama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ne spavam, i sjedim kao ptica bez druga na krovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Svaki dan ruže me neprijatelji moji, i koji su se pomamili na mene, mnom se uklinju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jedem pepeo kao hljeb, i piæe svoje rastvaram suzama"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Od gnjeva tvojega i srdnje tvoje; jer podigavši me bacio si me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Dani su moji kao sjen, koji prolazi, i ja kao trava osuših se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A ti, Gospode, ostaješ dovijeka, i spomen tvoj od koljena do koljena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ti æeš ustati, smilovaæeš se na Sion, jer je vrijeme smilovati se na nj, jer je došlo vrijeme;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer slugama tvojim omilje i kamenje njegovo, i prah njegov žale."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tada æe se neznabošci bojati imena Gospodnjega, i svi carevi zemaljski slave njegove;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer æe Gospod sazidati Sion, i javiti se u slavi svojoj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Pogledaæe na molitvu onijeh koji nemaju pomoæi, i neæe se oglušiti molbe njihove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Napisaæe se ovo potonjemu rodu, i narod nanovo stvoren hvaliæe Gospoda,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Što je prinikao sa svete visine svoje, Gospod pogledao s neba na zemlju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Da èuje uzdisanje sužnjevo, i odriješi sinove smrtne;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Da bi kazivali na Sionu ime Gospodnje i hvalu njegovu u Jerusalimu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Kad se skupe narodi i carstva da služe Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Strošio je na putu krjepost moju, skratio dane moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Rekoh: Bože moj! nemoj me uzeti u polovini dana mojih. Tvoje su godine od koljena do koljena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Davno si postavio zemlju, i nebesa su djelo ruku tvojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "To æe proæi, a ti æeš ostati; sve æe to kao haljina ovetšati, kao haljinu promijeniæeš ih i promijeniæe se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ali ti si taj isti i godine tvoje neæe isteæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Sinovi æe sluga tvojih živjeti, i sjeme æe se njihovo utvrditi pred licem tvojim."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/102.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 102
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/103.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 103
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/101.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 101
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

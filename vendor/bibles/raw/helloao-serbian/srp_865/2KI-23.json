@@ -1,0 +1,335 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2KI",
+    "translationId": "srp_865",
+    "name": "2. Kraljevima",
+    "commonName": "2. Kraljevima",
+    "title": "2. Kraljevima",
+    "order": 12,
+    "numberOfChapters": 25,
+    "sha256": "14b91a44508aa4c11af5ab27266f4e76ec99d09dd2f0f675edf6866e97186808",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2KI/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2KI",
+      "chapter": 1
+    },
+    "lastChapterNumber": 25,
+    "lastChapterApiLink": "/api/srp_865/2KI/25.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2KI",
+      "chapter": 25
+    },
+    "totalNumberOfVerses": 719
+  },
+  "chapter": {
+    "number": 23,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada posla car, te se skupiše k njemu sve starješine Judine i Jerusalimske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I otide car u dom Gospodnji i s njim svi ljudi iz zemlje Judine i svi Jerusalimljani i sveštenici i proroci i sav narod, malo i veliko, i proèita im sve rijeèi knjige zavjetne, koja se naðe u domu Gospodnjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I car stojeæi kod stupa uèini zavjet pred Gospodom da æe oni iæi za Gospodom i držati zapovijesti njegove i svjedoèanstva njegova i uredbe njegove svijem srcem i svom dušom, vršeæi rijeèi toga zavjeta napisane u toj knjizi. I sav narod prista na zavjet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tada zapovjedi car Helkiji poglavaru sveštenièkom i sveštenicima drugoga reda i onima koji èuvahu vrata, da iznesu iz crkve Gospodnje sve stvari koje bijahu naèinjene Valu i gaju i svoj vojsci nebeskoj; i spali ih iza Jerusalima u polju Kedronskom, i odnese pepeo od njih u Vetilj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I svrže sveštenike idolske koje bijahu postavili carevi Judini da kade po visinama u gradovima Judinijem i oko Jerusalima; tako i one koji kaðahu Valu, suncu i mjesecu i zvijezdama i svoj vojsci nebeskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I iznese gaj iz doma Gospodnjega iza Jerusalima na potok Kedron, i spali ga na potoku Kedronu i satr u prah, i prosu prah na grobove sinova narodnijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I pokvari kuæe kurvarske koje bijahu u domu Gospodnjem, u kojima žene tkahu zastiraèe za gaj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I dovedavši sve sveštenike iz gradova Judinijeh oskvrni visine gdje kaðahu sveštenici od Geve do Virsaveje, i pokvari visine na vratima, i koja bijaše na ulasku na vratima Isusa zapovjednika gradskoga nalijevo od vrata gradskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ali sveštenici onijeh visina ne pristupahu k oltaru Gospodnjemu u Jerusalimu, nego jeðahu prijesne hljebove meðu braæom svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Oskvrni i Tofet, koji bijaše u dolini sinova Enomovijeh, da ne bi niko više vodio sina svojega ni kæeri svoje kroz oganj Molohu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I ukloni konje koje bijahu postavili carevi Judini suncu od ulaska u dom Gospodnji do kuæe Natan-Meleha dvoranina, koja bijaše u Farurimu; a kola sunèana sažeže ognjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I oltare na krovu sobe Ahazove, koje bijahu naèinili carevi Judini, i oltare koje bijaše naèinio Manasija u oba trijema doma Gospodnjega, pokvari car, i uzevši ih odande baci prah od njih u potok Kedron."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I visine prema Jerusalimu s desne strane na gori Maslinskoj, koje bijaše naèinio Solomun car Izrailjev Astaroti gadu Sidonskom i Hemosu gadu Moavskom i Melhomu gadu sinova Amonovijeh, oskvrni car."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I izlomi likove i isijeèe gajeve, i mjesta njihova napuni kostiju ljudskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I oltar, koji bješe u Vetilju, visinu, koju bješe naèinio Jerovoam sin Navatov, koji navede na grijeh Izrailja, i oltar i visinu pokvari, i spalivši visinu satr je u prah, i spali gaj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I obazrevši se Josija vidje grobove koji bijahu ondje na gori, i posla te izvadiše kosti iz grobova, i sažeže ih na oltaru i oskvrni ga, po rijeèi Gospodnjoj, koju reèe èovjek Božji, koji naprijed kaza te stvari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I reèe: kakav je ono spomenik što vidim? Rekoše mu graðani: ono je grob èovjeka Božijega koji doðe iz Jude i naprijed kaza to što si uèinio na oltaru u Vetilju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A on reèe: ostavite ga, niko da mu ne kreæe kosti. Tako se saèuvaše kosti njegove s kostima onoga proroka koji doðe iz Samarije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I sve domove visina po gradovima Samarijskim koje naèiniše carevi Izrailjevi gnjeveæi Gospoda, pokvari Josija; i uèini s njima sve onako kako uèini u Vetilju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I pokla sve sveštenike visina, koji bijahu onuda, na oltarima, i sažeže kosti ljudske na njima; potom se vrati u Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tada zapovjedi car svemu narodu govoreæi: praznujte pashu Gospodu Bogu svojemu, kao što piše u knjizi zavjetnoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer ne bi praznovana ovako pasha od vremena sudija koje sudiše Izrailju i za sve vrijeme careva Izrailjevijeh i careva Judinijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Kao što bi osamnaeste godine cara Josije praznovana pasha Gospodu u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I one što se dogovaraju s duhovima i vraèare, i likove i gadne bogove i sve gadove koji se viðahu u zemlji Judinoj i u Jerusalimu istrijebi Josija da izvrši rijeèi zakona napisane u knjizi koju naðe Helkija sveštenik u domu Gospodnjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ni prije njega ne bješe takvoga cara, koji bi se obratio ka Gospodu svijem srcem svojim i svom dušom svojom i svom snagom svojom, sasvijem po zakonu Mojsijevu, niti poslije njega nasta taki kao on."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ali se Gospod ne povrati od žestine velikoga gnjeva svojega, kojom se bješe raspalio gnjev njegov na Judu za sve draženje kojim ga bješe dražio Manasija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I reèe Gospod: i Judu æu odbaciti od sebe kao što sam odbacio Izrailja, i grad æu ovaj odbaciti, koji sam izabrao, Jerusalim, i dom, za koji rekoh: tu æe biti ime moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A ostala djela Josijina i sve što je èinio, nije li zapisano u dnevniku careva Judinijeh?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "U njegovo vrijeme izide Faraon Nehaon car Misirski na cara Asirskoga k rijeci Efratu, i car Josija izide preda nj, a on kako ga vidje ubi ga u Megidonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I mrtva metnuše ga sluge njegove na kola, i odvezoše ga iz Megidona u Jerusalim, i pogreboše ga u grobu njegovu; i narod zemaljski uze Joahaza sina Josijina, i pomazaše ga i zacariše ga na mjesto oca njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Dvadeset i tri godine bješe Joahazu kad poèe carovati, i carova tri mjeseca u Jerusalimu. Materi mu bješe ime Amutala, kæi Jeremijina, iz Livne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "On èinjaše što je zlo pred Gospodom sasvijem kako su èinili oci njegovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I sveza ga Faraon Nehaon u Rivli u zemlji Ematskoj da više ne caruje u Jerusalimu, i oglobi zemlju sto talanata srebra i talanat zlata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A carem postavi Faraon Nehaon Elijakima sina Josijina na mjesto Josije oca njegova, i predje mu ime Joakim; a Joahaza uze i otide u Misir, a on umrije ondje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A ono srebro i zlato dade Joakim Faraonu razrezavši na zemlju da bi dao novce po zapovijesti Faraonovoj, od svakoga uzimajuæi kako bješe cijenjen, srebro i zlato po narodu u zemlji, da da Faraonu Nehaonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Dvadeset i pet godina bijaše Joakimu kad poèe carovati, i carova jedanaest godina u Jerusalimu. Materi mu bješe ime Zevuda, kæi Fedajeva, iz Rume."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A on èinjaše što je zlo pred Gospodom sasvijem kako su èinili oci njegovi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2KI/23.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 23
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2KI/24.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 24
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2KI/22.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 22
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 37
+}

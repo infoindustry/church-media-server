@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1KI",
+    "translationId": "srp_865",
+    "name": "1. Kraljevima",
+    "commonName": "1. Kraljevima",
+    "title": "1. Kraljevima",
+    "order": 11,
+    "numberOfChapters": 22,
+    "sha256": "876ee89adf3ca9c88149d73fc7a5fe2947fa3921a637898e9d808d4c90bad1b4",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1KI/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1KI",
+      "chapter": 1
+    },
+    "lastChapterNumber": 22,
+    "lastChapterApiLink": "/api/srp_865/1KI/22.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1KI",
+      "chapter": 22
+    },
+    "totalNumberOfVerses": 817
+  },
+  "chapter": {
+    "number": 19,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Ahav pripovjedi Jezavelji sve što je uèinio Ilija i kako je sve proroke isjekao maèem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Tada Jezavelja posla glasnike k Iliji i poruèi mu: tako da uèine bogovi i tako da dodadu, ako sjutra u ovo doba ne uèinim od tebe što je od kojega god tijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A on videæi to usta i otide duše svoje radi, i doðe u Virsaveju Judinu, i ondje ostavi momka svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A sam otide u pustinju dan hoda; i došav sjede pod smreku, i zaželje da umre, i reèe: dosta je veæ, Gospode, primi dušu moju, jer nijesam bolji od otaca svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Potom leže i zaspa pod smrekom. A gle, anðeo taknu ga i reèe mu: ustani, jedi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A on pogleda, i gle, èelo glave mu hljeb na ugljenu peèen i krèag vode. I jede i napi se, pa leže opet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A anðeo Gospodnji doðe opet drugom, i taknu ga govoreæi: ustani, jedi, jer ti je put dalek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A on ustavši jede i napi se; potom okrijepiv se onijem jelom ide èetrdeset dana i èetrdeset noæi dokle doðe na goru Božiju Horiv."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A ondje uðe u jednu peæinu i zanoæi u njoj; i gle, rijeè Gospodnja doðe mu govoreæi: šta æeš ti tu, Ilija?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A on reèe: revnovah veoma za Gospoda Boga nad vojskama; jer sinovi Izrailjevi ostaviše zavjet tvoj, tvoje oltare razvališe, i proroke tvoje pobiše maèem; a ja ostah sam, pa traže dušu moju da mi je uzmu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A on reèe: izidi i stani na gori pred Gospodom. I gle, Gospod prolažaše, a pred Gospodom velik i jak vjetar, koji brda razvaljivaše i stijene razlamaše; ali Gospod ne bješe u vjetru; a iza vjetra doðe trus; ali Gospod ne bješe u trusu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A iza trusa doðe oganj; ali Gospod ne bješe u ognju. A iza ognja doðe glas tih i tanak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A kad to èu Ilija, zakloni lice svoje plaštem i izašav stade na vratima od peæine. I gle, doðe mu glas govoreæi: šta æeš ti tu, Ilija?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A on reèe: revnovah veoma za Gospoda Boga nad vojskama; jer sinovi Izrailjevi ostaviše zavjet tvoj, tvoje oltare razvališe, i proroke tvoje pobiše maèem; a ja ostah sam, pa traže moju dušu da mi je uzmu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tada mu reèe Gospod: idi, vrati se svojim putem u pustinju Damaštansku, i kad doðeš pomaži Azaila za cara nad Sirijom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Juja sina Nimsijina pomaži za cara nad Izrailjem, a Jelisija sina Safatova iz Avel-Meole pomaži za proroka mjesto sebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer ko uteèe od maèa Azailova njega æe pogubiti Juj; a ko uteèe od maèa Jujeva njega æe pogubiti Jelisije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ali sam ostavio u Izrailju sedam tisuæa, koji nijedan ne saviše koljena pred Valom, niti ga ustima svojim cjelivaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I otide odande, i naðe Jelisija sina Safatova gdje ore, a dvanaest jarmova pred njim, i sam bijaše kod dvanaestoga; i iduæi mimo nj Ilija baci na nj plašt svoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A on ostavi volove, i otrèa za Ilijom i reèe: da cjelujem oca svojega i mater svoju; pa æu iæi za tobom. A on mu reèe: idi, vrati se, jer šta sam ti uèinio?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I on se vrati od njega, i uze jaram volova i zakla ih, i na drvima od pluga skuha meso i dade ga narodu, te jedoše; potom ustavši otide za Ilijom i služaše mu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1KI/19.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1KI",
+    "chapter": 19
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1KI/20.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1KI",
+    "chapter": 20
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1KI/18.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1KI",
+    "chapter": 18
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

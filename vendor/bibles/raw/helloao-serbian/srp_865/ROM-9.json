@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ROM",
+    "translationId": "srp_865",
+    "name": "Rimljanima",
+    "commonName": "Rimljanima",
+    "title": "Poslanica Rimljanima",
+    "order": 45,
+    "numberOfChapters": 16,
+    "sha256": "1fe4947b687992778ed830174635b188e37a5a7f483de9affcbbb4c949cc6571",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ROM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/ROM/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 433
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Istinu govorim tako mi Hrista, ne lažem, to mi svjedoèi savjest moja Duhom svetijem:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Da mi je vrlo žao i srce me moje boli bez prestanka;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer bih željeo da ja sam budem odluèen od Hrista za braæu svoju koja su mi rod po tijelu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Koja su Izrailjci, kojijeh je posinaštvo i slava, i zavjet i zakon, i bogomoljstvo, i obeæanja;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Kojijeh su i oci, i od kojijeh je Hristos po tijelu, koji je nad svima Bog blagosloven vavijek. Amin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A nije moguæe da rijeè Božija proðe: jer nijesu svi Izrailjci koji su od Izrailja;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Niti su svi djeca koji su sjeme Avraamovo, nego u Isaku, reèe, nazvaæe ti se sjeme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "To jest, nijesu ono djeca Božija što su po tijelu djeca, nego djeca obeæanja primaju se za sjeme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer je ovo rijeè obeæanja: u ovo vrijeme doæi æu i u Sare æe biti sin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ne samo pak ona nego i Reveka, kad zatrudnje od samoga Isaka oca našega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer još dok se djeca ne bijahu rodila, ni uèinila dobra ni zla, da ostane Božija naredba po izboru,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ne za djela, nego onoga radi koji poziva reèe joj se: veæi æe služiti manjemu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Kao što stoji napisano: Jakov mi omilje, a na Isava omrzoh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Šta æemo dakle na to reæi? Eda li je nepravda u Boga? Bože saèuvaj!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer Mojsiju govori: koga æu pomilovati, pomilovaæu, i na koga æu se smilovati, smilovaæu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tako dakle niti stoji do onoga koji hoæe, ni do onoga koji trèi, nego do Boga koji pomiluje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer pismo govori Faraonu: za to te isto podigoh da na tebi pokažem silu svoju, i da se razglasi ime moje po svoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Tako dakle koga hoæe miluje, a koga hoæe otvrdoglavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Reæi æeš mi: zašto nas još krivi? jer ko se može suprotiti volji njegovoj?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A ko si ti, o èovjeèe! da protivno odgovaraš Bogu? Eda li rukotvorina govori majstoru svome: zašto si me tako naèinio?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ili zar lonèar nema vlasti nad kalom da od jedne guke naèini jedan sud za èast a drugi za sramotu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A kad šæaše Bog da pokaže gnjev svoj i da objavi silu svoju, podnese s velikijem trpljenjem sudove gnjeva koji su pripravljeni za pogibao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I da pokaže bogatstvo slave svoje na sudima milosti koje pripravi za slavu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Koje nas i dozva ne samo od Jevreja nego i od neznabožaca,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Kao što i u Josiji govori: nazvaæu narod svojijem koji nije moj narod, i neljubaznicu ljubaznicom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I biæe na mjestu, gdje im se reèe: vi nijeste moj narod; tamo æe se nazvati sinovi Boga živoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A Isaija vièe za Izrailja: ako bude broj sinova Izrailjevijeh kao pijesak morski, ostatak æe se spasti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Jer æe on izvršiti rijeè svoju, i naskoro æe izvršiti po pravdi, da, ispuniæe Gospod naskoro rijeè svoju na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I kao što proreèe Isaija: da nam nije Gospod Savaot ostavio sjemena, onda bismo bili kao Sodom i Gomor."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Šta æemo dakle reæi? Da neznabošci koji ne tražiše pravde dokuèiše pravdu, ali pravdu od vjere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A Izrailj tražeæi zakon pravde ne dokuèi zakona pravde."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Zašto? Jer ne traži iz vjere nego iz djela zakona; jer se spotakoše na kamen spoticanja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Kao što stoji napisano: evo meæem u Sionu kamen spoticanja i stijenu sablazni; i koji ga god vjeruje neæe se postidjeti."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ROM/9.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 9
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ROM/10.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 10
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ROM/8.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 8
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

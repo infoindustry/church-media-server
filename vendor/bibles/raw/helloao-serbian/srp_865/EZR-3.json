@@ -1,0 +1,167 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZR",
+    "translationId": "srp_865",
+    "name": "Ezra",
+    "commonName": "Ezra",
+    "title": "Ezra",
+    "order": 15,
+    "numberOfChapters": 10,
+    "sha256": "bf548715db2388dddb04c845f0fa124e883e80ef31b6aa8bdd1683312fc367c1",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZR/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZR",
+      "chapter": 1
+    },
+    "lastChapterNumber": 10,
+    "lastChapterApiLink": "/api/srp_865/EZR/10.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZR",
+      "chapter": 10
+    },
+    "totalNumberOfVerses": 280
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad doðe sedmi mjesec i sinovi Izrailjevi bijahu u svojim gradovima, sabra se narod jednodušno u Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Tada usta Isus sin Josedekov s braæom svojom sveštenicima i Zorovavelj sin Salatilov s braæom svojom, i zgradiše oltar Boga Izrailjeva da prinose na njemu žrtve paljenice kako piše u zakonu Mojsija èovjeka Božijega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I podigoše oltar na mjestu njegovu, ako i bijahu u strahu od naroda zemaljskih; i prinosiše na njemu žrtve paljenice Gospodu, žrtve paljenice jutrom i veèerom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I praznovaše praznik sjenica, kako je pisano, prinoseæi žrtve paljenice svaki dan na broj kako je ureðeno za svaki dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A potom prinosiše žrtvu paljenicu svagdašnju, i na mladine i na sve praznike Gospodnje osveæene i od svakoga koji dragovoljno prinošaše prinos Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Od prvoga dana mjeseca sedmoga poèeše prinositi žrtve paljenice Gospodu, a dom Gospodnji još ne bješe osnovan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I dadoše novce kamenarima i drvodjeljama, i hranu i piæe i ulje Sidonjanima i Tircima da dovoze drva kedrova s Livana u more Jopsko, kako im bješe dopustio Kir car Persijski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I druge godine po povratku njihovu k domu Božijemu u Jerusalim, drugoga mjeseca poèeše Zorovavelj sin Salatilov i Isus sin Josedekov i ostala braæa njihova, sveštenici i Leviti, i svi koji doðoše iz ropstva u Jerusalim, i postaviše Levite od dvadeset godina i više da nastoje nad poslom oko doma Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I bi postavljen Isus i sinovi njegovi i braæa njegova, i Kadmilo i sinovi njegovi, sinovi Judini, zajedno da nastoje nad poslenicima u domu Božijem, i sinovi Inadadovi i njihovi sinovi i braæa njihova Leviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I kad zidari polagahu temelj crkvi Gospodnjoj, postaviše sveštenike obuèene s trubama i Levite sinove Asafove s kimvalima da hvale Gospoda po uredbi Davida cara Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I pjevahu naizmjence hvaleæi i slaveæi Gospoda: jer je dovijeka milost njegova nad Izrailjem. I sav narod podvikivaše iza glasa hvaleæi Gospoda što se osnivaše dom Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A mnogi od sveštenika i Levita i glavara domova otaèkih, starci koji bijahu vidjeli preðašnji dom, plakahu iza glasa gledajuæi ovaj dom koji se osnivaše, a mnogi opet podvikivahu od radosti,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Te narod ne mogaše razaznati vike radosne od vike plaène u narodu, jer narod podvikivaše iza glasa, i vika se èujaše daleko."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZR/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZR/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZR/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 13
+}

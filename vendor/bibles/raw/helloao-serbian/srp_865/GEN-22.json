@@ -1,0 +1,244 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 22,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Poslije toga šæaše Bog okušati Avrama, pa mu reèe: Avrame! A on odgovori: evo me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I reèe mu Bog: uzmi sada sina svojega, jedinca svojega miloga, Isaka, pa idi u zemlju Moriju, i spali ga na žrtvu tamo na brdu gdje æu ti kazati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I sjutradan rano ustavši Avram osamari magarca svojega, i uze sa sobom dva momka i Isaka sina svojega; i nacijepavši drva za žrtvu podiže se i poðe na mjesto koje mu kaza Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Treæi dan podigavši oèi svoje Avram ugleda mjesto izdaleka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I reèe Avram momcima svojim: ostanite vi ovdje s magarcem, a ja i dijete idemo onamo, pa kad se pomolimo Bogu, vratiæemo se k vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I uzevši Avram drva za žrtvu naprti Isaku sinu svojemu, a sam uze u svoje ruke ognja i nož; pa otidoše obojica zajedno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tada reèe Isak Avramu ocu svojemu: oèe! A on reèe: što, sine! I reèe Isak: eto ognja i drva, a gdje je jagnje za žrtvu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A Avram odgovori: Bog æe se, sinko, postarati za jagnje sebi na žrtvu. I iðahu obojica zajedno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A kad doðoše na mjesto koje mu Bog kaza, Avram naèini ondje žrtvenik, i metnu drva na nj, i svezavši Isaka sina svojega metnu ga na žrtvenik vrh drva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I izmahnu Avram rukom svojom i uze nož da zakolje sina svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ali anðeo Gospodnji viknu ga s neba, i reèe: Avrame! Avrame! A on reèe: evo me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A anðeo reèe: ne diži ruke svoje na dijete, i ne èini mu ništa; jer sada poznah da se bojiš Boga, kad nijesi požalio sina svojega, jedinca svojega, mene radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I Avram podigavši oèi svoje pogleda; i gle, ovan iza njega zapleo se u èesti rogovima; i otišavši Avram uze ovna i spali ga na žrtvu mjesto sina svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I nazva Avram ono mjesto: Gospod æe se postarati. Zato se i danas kaže: na brdu, gdje æe se Gospod postarati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I anðeo Gospodnji opet viknu s neba Avrama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I reèe: sobom se zakleh, veli Gospod: kad si tako uèinio, i nijesi požalio sina svojega, jedinca svojega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Zaista æu te blagosloviti i sjeme tvoje veoma umnožiti, da ga bude kao zvijezda na nebu i kao pijeska na brijegu morskom; i naslijediæe sjeme tvoje vrata neprijatelja svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I blagosloviæe se u sjemenu tvojem svi narodi na zemlji, kad si poslušao glas moj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tada se Avram vrati k momcima svojim, te se digoše, i otidoše zajedno u Virsaveju, jer Avram življaše u Virsaveji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Poslije toga javiše Avramu govoreæi: gle, i Melha rodi sinove bratu tvojemu Nahoru:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Uza prvenca i Vuza brata mu, i Kamuila, oca Avramova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I Hazada i Azava i Faldesa i Jeldafa i Vatuila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A Vatuilo rodi Reveku. Osam ih rodi Melha Nahoru bratu Avramovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A inoèa njegova, po imenu Revma, rodi i ona Taveka i Gama i Tohosa i Moha."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/22.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 22
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/23.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 23
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/21.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 21
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 24
+}

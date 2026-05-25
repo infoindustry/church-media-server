@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad Samuilo ostarje, postavi sinove svoje za sudije Izrailju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A ime sinu njegovu prvencu bješe Joilo, a drugomu Avija, i suðahu u Virsaveji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ali sinovi njegovi ne hoðahu putovima njegovijem, nego udariše za dobitkom, i primahu poklone i izvrtahu pravdu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tada se skupiše sve starješine Izrailjeve i doðoše k Samuilu u Ramu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I rekoše mu: eto, ti si ostario, a sinovi tvoji ne hode tvojim putovima: zato postavi nam cara da nam sudi, kao što je u svijeh naroda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ali Samuilu ne bi po volji što rekoše: daj nam cara da nam sudi. I Samuilo se pomoli Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Gospod reèe Samuilu: poslušaj glas narodni u svemu što ti govore; jer ne odbaciše tebe, nego mene odbaciše da ne carujem nad njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Kako èiniše od onoga dana kad ih izvedoh iz Misira do danas, i ostaviše me i služiše drugim bogovima, po svijem tijem djelima èine i tebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Zato sada poslušaj glas njihov; ali im dobro zasvjedoèi i kaži naèin kojim æe car carovati nad njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I kaza Samuilo sve rijeèi Gospodnje narodu koji iskaše od njega cara;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I reèe: ovo æe biti naèin kojim æe car carovati nad vama: sinove vaše uzimaæe i metati ih na kola svoja i meðu konjike svoje, i oni æe trèati pred kolima njegovijem;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I postaviæe ih da su mu tisuænici i pedesetnici, i da mu oru njive i žnju ljetinu, i da mu grade ratne sprave i što treba za kola njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Uzimaæe i kæeri vaše da mu grade mirisne masti i da mu budu kuharice i hljebarice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I njive vaše i vinograde vaše i maslinike vaše najbolje uzimaæe i razdavati slugama svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Uzimaæe desetak od usjeva vaših i od vinograda vaših, i davaæe dvoranima svojim i slugama svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I sluge vaše i sluškinje vaše i mladiæe vaše najljepše i magarce vaše uzimaæe, i obrtati na svoje poslove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Stada æe vaša desetkovati i vi æete mu biti robovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Pa æete onda vikati radi cara svojega, kojega izabraste sebi; ali vas Gospod neæe onda uslišiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ali narod ne htje poslušati rijeèi Samuilovijeh, i rekoše: ne, nego car neka bude nad nama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Da budemo i mi kao svi narodi; i neka nam sudi car naš i ide pred nama i vodi naše ratove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A Samuilo èuvši sve rijeèi narodne, kaza ih Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A Gospod reèe Samuilu: poslušaj glas njihov, i postavi im cara. I Samuilo reèe Izrailjcima: idite svaki u svoj grad."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

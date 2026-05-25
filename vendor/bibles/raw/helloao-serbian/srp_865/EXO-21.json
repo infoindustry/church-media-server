@@ -1,0 +1,328 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 21,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A ovo su zakoni koje æeš im postaviti:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ako kupiš roba Jevrejina, šest godina neka ti služi, a sedme nek otide slobodan bez otkupa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ako bude došao inokosan, neka i otide inokosan; ako li bude imao ženu, neka ide i žena s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ako ga gospodar njegov oženi, i žena mu rodi sinove ili kæeri, žena s djecom svojom neka bude gospodaru njegovu, a on neka otide sam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ako li rob reèe tvrdo: ljubim gospodara svojega, ženu svoju i djecu svoju, neæu da idem da budem slobodan,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Onda neka ga dovede gospodar njegov pred sudije i postavi na vratima ili kod dovratka, i ondje neka mu gospodar probuši uho šilom, pa neka mu robuje dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ako ko proda kæer svoju da bude robinja, da ne odlazi kao robovi što odlaze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ako ne bude po volji gospodaru svojemu, i on je ne uzme za ženu, neka je pusti na otkupe; ali da nema vlasti prodati je u tuð narod uèinivši joj nevjeru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ako li je zaruèi sinu svojemu, da joj uèini po pravu koje imaju kæeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ako li uzme drugu, da joj ne umali hrane ni odijela ni zajednice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ako joj ovo troje ne uèini, onda nek otide bez otkupa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ko udari èovjeka, te umre, da se pogubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ako li ne bude htio, nego mu ga Bog dade u ruke, odrediæu ti mjesto kuda može uteæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ako bi ko nahvalice ustao na bližnjega svojega da ga ubije iz prijevare, odvuci ga i od oltara mojega da se pogubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ko udari oca svojega ili mater svoju, da se pogubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ko ukrade èovjeka i proda ili se naðe u njegovijem rukama, da se pogubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ko opsuje oca svojega ili mater svoju, da se pogubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Kad se svade ljudi, pa jedan udari drugoga kamenom ili pesnicom, ali onaj ne umre nego padne u postelju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ako se pridigne i izaðe o štapu, da ne bude kriv onaj koji je udario, samo dangubu da mu naknadi i svu vidarinu da plati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ko udari roba svojega ili robinju štapom tako da mu umre pod rukom, da je kriv;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ali ako preživi dan ili dva, da nije kriv, jer je njegov novac."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Kad se svade ljudi, pa koji od njih udari trudnu ženu tako da izaðe iz nje dijete, ali se ne dogodi smrt, da plati globu koliko muž ženin reèe, a da plati preko sudija;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ako li se dogodi smrt, tada æeš uzeti život za život,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Oko za oko, zub za zub, ruku za ruku, nogu za nogu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Užeg za užeg, ranu za ranu, modricu za modricu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ako ko udari po oku roba svojega ili robinju svoju, te mu pokvari oko, da ga otpusti slobodna za oko njegovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I ako izbije zub robu svojemu ili robinji svojoj, da ga pusti slobodna za zub njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ako vo ubode èovjeka ili ženu, te umre, da se vo zaspe kamenjem i da se ne jede meso od njega, a gospodar od vola da nije kriv."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ali ako je vo prije bio bodaè i gospodar njegov znao za to pa ga nije èuvao, te ubije èovjeka ili ženu, vo da se zaspe kamenjem, i gospodar njegov da se pogubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ako mu se odredi da se otkupi, neka da otkup za život svoj, koliko mu se odredi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ako ubode sina ili kæer, da mu bude po istom zakonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ako li roba ubode vo ili robinju, da da gospodaru njihovu trideset sikala srebra i vo da se zaspe kamenjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ako ko otkrije jamu ili iskopa jamu a ne pokrije, pa upadne vo ili magarac,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Da naknadi gospodar od jame i plati novcem gospodaru njihovu, a što je uginulo da je njegovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ako vo jednoga ubode vola drugome, te pogine, onda da prodadu vola živoga i novce da podijele, tako i ubijenoga vola da podijele."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ako li se znalo da je vo prije bio bodaè pa ga nije èuvao gospodar njegov, da da vola za vola, a ubijeni neka bude njemu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/21.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 21
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/22.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 22
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/20.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 20
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 36
+}

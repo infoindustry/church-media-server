@@ -1,0 +1,377 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1KI",
+    "translationId": "srp_865",
+    "name": "1. Kraljevima",
+    "commonName": "1. Kraljevima",
+    "title": "1. Kraljevima",
+    "order": 11,
+    "numberOfChapters": 22,
+    "sha256": "876ee89adf3ca9c88149d73fc7a5fe2947fa3921a637898e9d808d4c90bad1b4",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1KI/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1KI",
+      "chapter": 1
+    },
+    "lastChapterNumber": 22,
+    "lastChapterApiLink": "/api/srp_865/1KI/22.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1KI",
+      "chapter": 22
+    },
+    "totalNumberOfVerses": 817
+  },
+  "chapter": {
+    "number": 20,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Ven-Adad car Sirski skupi vojsku svoju, i imaše sa sobom trideset i dva cara, i konje i kola; i otišavši opkoli Samariju i stade je biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I posla poslanike k Ahavu caru Izrailjevu u grad,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I poruèi mu: ovako veli Ven-Adad: srebro tvoje i zlato tvoje moje je, tako i žene tvoje i tvoji lijepi sinovi moji su."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A car Izrailjev odgovori i reèe: kao što si rekao, gospodaru moj care, ja sam tvoj i sve što imam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A poslanici opet doðoše i rekoše: ovako veli Ven-Adad: poslao sam k tebi i poruèio: srebro svoje i zlato svoje i žene svoje i sinove svoje da mi daš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Zato æu sjutra u ovo doba poslati sluge svoje k tebi da pregledaju kuæu tvoju i kuæe sluga tvojih, i što ti je god milo, oni æe uzeti i odnijeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tada dozva car Izrailjev sve starješine zemaljske i reèe: gledajte i vidite kako ovaj traži zlo; jer posla k meni po mene i po sinove moje i po srebro moje i po zlato moje, i ja mu ne branih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A sve starješine i sav narod rekoše mu: ne slušaj ga i ne pristaj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I reèe poslanicima Ven-Adadovijem: kažite caru gospodaru mojemu: što si prvo poruèio sluzi svojemu sve æu uèiniti; ali ovo ne mogu uèiniti. Tako otidoše poslanici i odnesoše mu taj odgovor."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Ven-Adad posla k njemu i poruèi: tako da mi uèine bogovi i tako da dodadu! neæe biti dosta praha od Samarije da svemu narodu koji ide za mnom dopadne po jedna grst."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A car Izrailjev odgovori i reèe: kažite: neka se ne hvali onaj koji se opasuje kao onaj koji se raspasuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A kad on to èu pijuæi s carevima pod šatorima, reèe slugama svojim: dižite se. I digoše se na grad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada gle, pristupi jedan prorok k Ahavu caru Izrailjevu, i reèe: ovako veli Gospod: vidiš li sve ovo mnoštvo? evo, ja æu ti ga dati u ruke danas da poznaš da sam ja Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Ahav reèe: preko koga? A on reèe: ovako veli Gospod: preko momaka knezova zemaljskih. Opet reèe: ko æe zametnuti boj? A on reèe: ti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tada prebroji momke knezova zemaljskih, i bješe ih dvjesta i trideset i dva; poslije njih prebroji sav narod, sve sinove Izrailjeve, i bješe ih sedam tisuæa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I izidoše u podne; a Ven-Adad pijuæi opi se u šatorima s trideset i dva cara koji mu doðoše u pomoæ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I izidoše prvo momci knezova zemaljskih; a Ven-Adad posla, i javiše mu i rekoše: izidoše ljudi iz Samarije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A on reèe: ako su izašli mira radi, pohvatajte ih žive; ako su izašli na boj, pohvatajte ih žive."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I izidoše iz grada momci knezova zemaljskih, i vojska za njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I svaki ubi s kojim se sukobi, te Sirci pobjegoše a Izrailjci ih potjeraše. I Ven-Adad car Sirski pobježe na konju s konjicima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I car Izrailjev izide i pobi konje i kola, i uèini velik pokolj meðu Sircima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Potom doðe prorok k caru Izrailjevu i reèe mu: idi, budi hrabar; i promisli i vidi šta æeš èiniti, jer æe do godine opet doæi car Sirski na te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A caru Sirskom rekoše sluge njegove: njihovi su bogovi gorski bogovi, zato nas nadjaèaše; nego da se bijemo s njima u polju, zacijelo æemo ih nadjaèati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Uèini dakle ovako: ukloni te careve s mjesta njihovijeh, i postavi vojvode mjesto njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Pa skupi vojsku kakva je bila ona koja ti je izginula, i konje kakvi su bili oni konji, i kola kao ona kola; pa da se pobijemo s njima u polju; zacijelo æemo ih nadjaèati. I posluša ih, i uèini tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A kad proðe godina, Ven-Adad prebroji Sirce, i poðe u Afek da vojuje na Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I sinovi Izrailjevi prebrojiše se, i ponesavši hrane izidoše pred njih. I stadoše u oko sinovi Izrailjevi prema njima, kao dva mala stada koza, a Sirci bijahu prekrilili zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Tada doðe èovjek Božji, i progovori caru Izrailjevu i reèe: ovako veli Gospod: što Sirci rekoše da je Gospod gorski Bog a nije Bog poljski, zato æu ti dati u ruke sve ovo mnoštvo veliko da znate da sam ja Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I stajahu u okolu jedni prema drugima sedam dana; a sedmoga dana pobiše se, i sinovi Izrailjevi pobiše Siraca sto tisuæa pješaka u jedan dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A ostali pobjegoše u grad Afek, i pade zid na dvadeset i sedam tisuæa ljudi koji bijahu ostali. I Ven-Adad pobjegav u grad uðe u najtajniju klijet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A sluge mu rekoše: evo èuli smo da su carevi doma Izrailjeva milostivi carevi; da vežemo kostrijet oko sebe i da metnemo uzice sebi oko vratova, pa da izidemo pred cara Izrailjeva, da ako ostavi u životu dušu tvoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I vezaše kostrijet oko sebe, i metnuše uzice sebi oko vratova, i doðoše k caru Izrailjevu i rekoše: sluga tvoj Ven-Adad veli: ostavi u životu dušu moju. A on reèe: je li još živ? brat mi je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A ljudi uzeše to za dobar znak, i odmah da bi ga uhvatili za rijeè rekoše: brat je tvoj Ven-Adad. A on reèe: idite, dovedite ga. Tada Ven-Adad izide k njemu; a on ga posadi na svoja kola."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Tada mu reèe Ven-Adad: gradove koje je uzeo otac moj tvome ocu, vratiæu, i naèini sebi ulice u Damasku kao što je otac moj uèinio u Samariji. A on odgovori: s tom vjerom otpustiæu te. I uèini vjeru s njim, i otpusti ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Tada jedan izmeðu sinova proroèkih reèe drugome po rijeèi Gospodnjoj: bij me. Ali ga onaj ne htje biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A on mu reèe: što ne posluša glasa Gospodnjega, zato, evo kad otideš od mene, lav æe te zaklati. I kad otide od njega, sukobi ga lav i zakla ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Opet našav drugoga reèe mu: bij me. A onaj ga izbi i izrani ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Tada otide prorok i stade na put kuda æe car proæi, i nagrdi se pepelom po licu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A kad car prolažaše, on viknu cara i reèe: tvoj sluga bijaše izašao u boj, a jedan došavši dovede mi èovjeka i reèe: èuvaj ovoga èovjeka; ako li ga nestane, biæe tvoja duša za njegovu dušu, ili æeš platiti talanat srebra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A kad tvoj sluga imaše posla tamo amo, njega nesta. Tada mu reèe car Izrailjev: to ti je sud, sam si otsudio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A on brže ubrisa pepeo s lica, i car Izrailjev pozna ga da je jedan od proroka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A on mu reèe: ovako veli Gospod: što si pustio iz ruku èovjeka kojega sam ja osudio da se istrijebi, duša æe tvoja biti za njegovu dušu i narod tvoj za njegov narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I otide car Izrailjev kuæi svojoj zlovoljan i ljutit, i doðe u Samariju."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1KI/20.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1KI",
+    "chapter": 20
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1KI/21.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1KI",
+    "chapter": 21
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1KI/19.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1KI",
+    "chapter": 19
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 43
+}

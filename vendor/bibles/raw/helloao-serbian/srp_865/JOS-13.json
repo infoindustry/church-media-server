@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOS",
+    "translationId": "srp_865",
+    "name": "Isus Navin",
+    "commonName": "Isus Navin",
+    "title": "Isus Navin",
+    "order": 6,
+    "numberOfChapters": 24,
+    "sha256": "ec9d0a794c17ba6296451b87fb16a4d34d8af2bfd446293b00f97a3bbb7257b2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOS/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/JOS/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 658
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Isus veæ bijaše star i vremenit. I reèe mu Gospod: ti si star i vremenit, a zemlje je ostalo vrlo mnogo da se osvoji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ovo je zemlja što je ostala: sve meðe Filistejske i sva Gesurska,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Od Siora, koji je pred Misirom, do meðe Akaronske na sjever; to pripada Hananejima; pet kneževina Filistejskih, Gazejska, Azotska, Askalonska, Getejska i Akaronska, i Aveji;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "S juga sva zemlja Hananejska i Meara, što pripada Sidoncima do Afeka, do meðe Amorejske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I zemlja Givlejska i sav Livan k istoku, od Val-Gada pod gorom Ermonom pa do ulaska Ematskoga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Sve koji žive u toj gori od Livana do vode Misrefota, sve Sidonce ja æu otjerati ispred sinova Izrailjevih; samo je razdijeli ždrijebom Izrailju u našljedstvo, kao što sam ti zapovjedio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Razdijeli dakle tu zemlju u našljedstvo meðu devet plemena i polovinu plemena Manasijina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer s drugom polovinom pleme Ruvimovo i Gadovo primiše svoj dio, koji im dade Mojsije s onu stranu Jordana k istoku, kako im dade Mojsije sluga Gospodnji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Od Aroira koji je na brijegu potoka Arnona i grada nasred potoka, i svu ravnicu Medevsku do Devona,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I sve gradove Siona cara Amorejskoga, koji careva u Esevonu, do meðe sinova Amonovijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I Galad i meðu Gesursku i Mahatsku i svu goru Ermonsku i sav Vasan do Salhe;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Sve carstvo Ogovo u Vasanu, koji Og carova u Astarotu i Edrajinu i bješe ostao od Rafaja; a Mojsije ih pobi i istrijebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ali Gesureja i Mahateja ne izagnaše sinovi Izrailjevi, nego Gesureji i Mahateji ostaše meðu Izrailjem do danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Samo plemenu Levijevu ne dade našljedstva; žrtve ognjene Gospoda Boga Izrailjeva jesu našljedstvo njegovo, kao što mu je rekao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A dade Mojsije plemenu sinova Ruvimovijeh po porodicama njihovijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I meðe im bjehu od Aroira koji je na brijegu potoka Arnona, i grad koji je na srijedi potoka, i sva ravan do Medeve,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Esevon sa svijem gradovima svojim u ravni, Devon i Vamot-Val i Vet-Valmeon,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I Jasa i Kadimot i Mifat,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I Kirijatajim i Sivma i Zaret-Sar na gori kod doline,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I Vet-Fegor i Azdot-Fazga i Vet-Jesimot,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I svi gradovi u ravni, i sve carstvo Siona cara Amorejskoga, koji carova u Esevonu, kojega ubi Mojsije s knezovima Madijamskim, Evijom i Rekemom i Surom i Urom i Revom, knezovima Sionovijem, koji življahu u onoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I Valama sina Veorova vraèa ubiše sinovi Izrailjevi maèem s drugima pobijenijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I bjehu meðe sinova Ruvimovijeh Jordan s meðama svojim. To je našljedstvo sinova Ruvimovijeh po porodicama njihovijem, gradovi i sela njihova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I dade Mojsije plemenu Gadovu, sinovima Gadovijem po porodicama njihovijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I bjehu im meðe Jazir i svi gradovi Galadski i polovina zemlje sinova Amonovijeh do Aroira koji je prema Ravi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I od Esevona do Ramot-Mispe i Vetonima, i od Mahanaima do meðe Davirske;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I u dolini Vet-Aram i Vet-Nimra i Sokot i Safon; ostatak carstva Siona cara Esevonskoga, Jordan i meða njegova do kraja mora Hinerotskoga s onu stranu Jordana na istok."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "To je našljedstvo sinova Gadovijeh po porodicama njihovijem, gradovi i sela njihova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I dade Mojsije polovini plemena Manasijina, i dobi polovina plemena sinova Manasijinih po porodicama svojim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Meða im bješe od Mahanaima, sav Vasan, sve carstvo Oga cara Vasanskoga, i sva sela Jairova, što su u Vasanu, šezdeset gradova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I polovina Galada, i Astarot i Edrajin, gradovi carstva Ogova u Vasanu, dopadoše sinovima Mahira sina Manasijina, polovini sinova Mahirovijeh po porodicama njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "To je što razdijeli u našljedstvo Mojsije u polju Moavskom s onu stranu Jordana prema Jerihonu na istoku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A plemenu Levijevu ne dade Mojsije našljedstva; Gospod je Bog Izrailjev njihovo našljedstvo, kao što im je rekao."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOS/13.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 13
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOS/14.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 14
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOS/12.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 12
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

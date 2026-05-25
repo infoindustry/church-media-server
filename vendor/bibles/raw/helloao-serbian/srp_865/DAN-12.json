@@ -1,0 +1,167 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DAN",
+    "translationId": "srp_865",
+    "name": "Danilo",
+    "commonName": "Danilo",
+    "title": "Danilo",
+    "order": 27,
+    "numberOfChapters": 12,
+    "sha256": "a7cfcf76b959e48ff3096b5f1336feefdd92c2ade2010b0cbd670ebbe8f652f0",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DAN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DAN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 12,
+    "lastChapterApiLink": "/api/srp_865/DAN/12.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DAN",
+      "chapter": 12
+    },
+    "totalNumberOfVerses": 357
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A u to æe se vrijeme podignuti Mihailo veliki knez, koji brani tvoj narod; i biæe žalosno vrijeme, kakoga nije bilo otkako je naroda do tada; i u to æe se vrijeme izbaviti tvoj narod, svaki koji se naðe zapisan u knjizi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I mnogo onijeh koji spavaju u prahu zemaljskom probudiæe se, jedni na život vjeèni a drugi na sramotu i prijekor vjeèni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I razumni æe se sjati kao svjetlost nebeska, i koji mnoge privedoše k pravdi, kao zvijezde vazda i dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A ti Danilo zatvori ove rijeèi i zapeèati ovu knjigu do pošljednjega vremena; mnogi æe pretraživati, i znanje æe se umnožiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tada pogledah ja Danilo, i gle, stajahu druga dvojica, jedan s ove strane na brijegu rijeke, a drugi s one strane na brijegu rijeke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I jedan reèe èovjeku obuèenome u platno, koji stajaše nad vodom u rijeci: kad æe biti kraj tijem èudesima?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I èuh èovjeka obuèenoga u platno, koji stajaše nad vodom u rijeci, i podiže desnicu svoju i ljevicu svoju k nebu, i zakle se onijem koji živi uvijek da æe se sve ovo ispuniti po vremenu, po vremenima i po po vremena, i kad se svrši rasap sile svetoga naroda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I ja èuh ali ne razumjeh; i rekoh: gospodaru moj, kakav æe biti kraj tome?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A on reèe: idi Danilo, jer su zatvorene i zapeèaæene ove rijeèi do pošljednjega vremena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Mnogi æe se oèistiti, ubijeliti i okušati; a bezbožnici æe raditi bezbožno, niti æe koji bezbožnik razumjeti; ali æe razumni razumjeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A od vremena kad se ukine žrtva vazdašnja i postavi gnusoba pustošna, biæe tisuæa i dvjesta i devedeset dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Blago onome koji pretrpi i doèeka tisuæu i tri stotine i trideset i pet dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A ti idi ka kraju; i poèivaæeš i ostaæeš na dijelu svom do svršetka svojih dana."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DAN/12.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 12
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/HOS/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "HOS",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DAN/11.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 11
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 13
+}

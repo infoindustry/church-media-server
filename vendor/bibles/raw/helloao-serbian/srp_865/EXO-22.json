@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 22,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ko ukrade vola ili ovcu ili kozu, i zakolje ili proda, da vrati pet volova za jednoga vola, a èetiri ovce ili koze za jednu ovcu ili kozu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ako se lupež uhvati gdje potkopava, te bude ranjen tako da umre, da ne bude kriv za krv onaj koji ga bude ubio;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ali ako se bude sunce rodilo, da je kriv za krv. A lupež sve da naknadi; ako li ne bi imao, onda da se on proda za svoju kraðu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ako se naðe što je pokrao u njegovoj ruci živo, bio vo ili magarac ili ovca ili koza, da vrati dvostruko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ko potre njivu ili vinograd pustivši stoku svoju da pase po tuðoj njivi, da naknadi najboljim sa svoje njive i najboljim iz svoga vinograda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ako izaðe vatra i naiðe na trnje, pa izgori stog ili žito koje još stoji ili njiva, da naknadi onaj koji je zapalio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ako ko da bližnjemu svojemu novce ili posuðe na ostavu, pa se ukrade iz kuæe njegove, ako se naðe lupež, da plati dvojinom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ako li se ne naðe lupež, onda gospodar od one kuæe da stane pred sudije da se zakune da nije posegao rukom svojom na stvar bližnjega svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Za svaku stvar za koju bi bila raspra, ili za vola ili za magarca ili za ovcu ili za kozu, ili za haljinu, za svaku stvar izgubljenu, kad ko kaže da je njegova, pred sudije da doðe raspra obojice, pa koga osude sudije, onaj da vrati bližnjemu svojemu dvojinom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ako ko da bližnjemu svojemu da èuva magarca ili vola ili ovcu ili kozu ili kako god živinèe, pa ugine ili ohrone, ili ga ko otjera a da niko ne vidi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zakletva Gospodnja neka bude izmeðu njih, da nije posegao rukom svojom na stvar bližnjega svojega, i gospodar od stvari neka pristane, a onaj da ne plati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ako li mu bude ukradeno, neka plati gospodaru njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ako li ga bude rastrgla zvjerka da donese od njega svjedodžbu, i da ne plati što je rastrgnuto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ako ko uzme u bližnjega svojega živinèe na poslugu, pa ohrone ili ugine, a gospodar mu ne bude kod njega, da plati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ako li gospodar bude kod njega, da ne plati. Ako li bude najmljeno, da plati samo najam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ko bi prevario djevojku, koja nije zaruèena, te bi spavao s njom, da joj da præiju i uzme je za ženu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A ako mu je otac njezin ne bi htio dati, da da novaca koliko ide u præiju djevojci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Vještici ne daj da živi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ko bi obležao živinèe, da se pogubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ko žrtvu prinosi bogovima drugim osim jedinoga Gospoda, da se istrijebi kao prokletnik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Došljaku nemoj èiniti krivo niti ga cvijeliti, jer ste bili došljaci u zemlji Misirskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Nemojte cvijeliti udovice i sirote."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ako li koju cvijeliš u èem god, i povièe k meni, èuæu viku njezinu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I zapaliæe se gnjev moj, i pobiæu vas maèem, pa æe vaše žene biti udovice i vaša djeca sirote."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Kad daš u zajam novaca narodu mojemu, siromahu koji je kod tebe, nemoj mu biti kao kamatnik, ne udarajte na nj kamate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ako uzmeš u zalogu haljinu bližnjemu svojemu, vrati mu je prije nego sunce zaðe;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jer mu je to sve odijelo èim zaklanja tijelo svoje; u èem æe spavati? pa kad povièe k meni, ja æu ga èuti, jer sam milostiv."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Nemoj psovati sudija, i starješini naroda svojega ne govori ružno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Od ljetine svoje i od žitkih stvari svojih nemoj se zatezati da prineseš prvine; prvenca izmeðu sinova svojih meni da daš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Tako èini s volom svojim i s ovcom i s kozom; sedam dana neka bude s majkom svojom, a osmoga dana da ga daš meni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Biæete mi sveti ljudi; mesa u polju rastrgnuta ne jedite, bacite ga psima."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/22.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 22
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/23.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 23
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/21.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 21
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

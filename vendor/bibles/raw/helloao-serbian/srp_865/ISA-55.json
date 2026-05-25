@@ -1,0 +1,167 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 55,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Oj žedni koji ste god, hodite na vodu, i koji nemate novaca, hodite, kupujte i jedite; hodite, kupujte bez novaca i bez plate vina i mlijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Zašto trošite novce svoje na ono što nije hrana, i trud svoj na ono što ne siti? Slušajte me, pa æete jesti što je dobro, i duša æe se vaša nasladiti pretiline."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Prignite uho svoje i hodite k meni; poslušajte, i živa æe biti duša vaša, i uèiniæu s vama zavjet vjeèan, milosti Davidove istinite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Evo, dadoh ga za svjedoka narodima, za voða i zapovjednika narodima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Evo, zvaæeš narod kojega nijesi znao, i narodi koji te nijesu znali steæi æe se k tebi, radi Gospoda Boga tvojega i sveca Izrailjeva, jer te proslavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tražite Gospoda, dok se može naæi; prizivajte ga, dokle je blizu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Neka bezbožnik ostavi svoj put i nepravednik misli svoje; i neka se vrati ka Gospodu, i smilovaæu se na nj, i k Bogu našemu, jer prašta mnogo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer misli moje nijesu vaše misli, niti su vaši putovi moji putovi, veli Gospod;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nego koliko su nebesa više od zemlje, toliko su putovi moji viši od vaših putova, i misli moje od vaših misli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer kako pada dažd ili snijeg s neba i ne vraæa se onamo, nego natapa zemlju i uèini da raða i da se zeleni, da daje sjemena da se sije i hljeba da se jede,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tako æe biti rijeè moja kad izide iz mojih usta: neæe se vratiti k meni prazna, nego æe uèiniti što mi je drago, i sreæno æe svršiti na što je pošljem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer æete s veseljem izaæi, i u miru æete biti voðeni; gore i bregovi pjevaæe pred vama od radosti, i sva æe drveta poljska pljeskati rukama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mjesto trnja niknuæe jela, mjesto koprive niknuæe mirta; i to æe biti Gospodu u slavu, za vjeèan znak, kojega neæe nestati."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/55.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 55
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/56.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 56
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/54.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 54
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 13
+}

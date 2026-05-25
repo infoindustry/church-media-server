@@ -1,0 +1,209 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "srp_865",
+    "name": "Ponovljeni Zakon",
+    "commonName": "Ponovljeni Zakon",
+    "title": "Ponovljeni Zakon",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "b000b6651908c9448c65c662cec1fa45977205b236e0922d505241ab679311df",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DEU/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 1
+    },
+    "lastChapterNumber": 34,
+    "lastChapterApiLink": "/api/srp_865/DEU/34.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 34
+    },
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 25,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Kad je raspra meðu ljudima, pa doðu na sud da im sude, tada pravoga neka opravdaju a krivoga neka osude."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I ako krivi zaslužuje boj, tada sudija neka zapovjedi da ga povale i biju pred njim, na broj prema krivici njegovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Do èetrdeset udaraca neka zapovjedi da mu udare, ne više, da se ne bi poništio brat tvoj u tvojim oèima, kad bi mu se udarilo više udaraca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Nemoj zavezati usta volu kad vrše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Kad braæa žive zajedno pa umre jedan od njih bez djece, onda žena umrloga da se ne uda iz kuæe za drugoga; brat njegov neka otide k njoj i uzme je za ženu i uèini joj dužnost djeversku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I prvi sin kojega ona rodi neka se nazove imenom brata njegova umrloga, da ne pogine ime njegovo u Izrailju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ako li onaj èovjek ne bi htio uzeti snahe svoje, onda snaha njegova neka doðe na vrata pred starješine, i reèe: neæe djever moj da podigne bratu svojemu sjemena u Izrailju, neæe da mi uèini dužnosti djeverske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tada neka ga dozovu starješine mjesta onoga i razgovore se s njim; pa ako se on upre i reèe: neæu da je uzmem;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Onda neka pristupi k njemu snaha njegova pred starješinama, i neka mu izuje obuæu s noge njegove i pljune mu u lice, i progovorivši neka reèe: tako valja da bude èovjeku koji neæe da zida kuæe brata svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I on neka se zove u Izrailju: dom bosoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ako bi se svadili ljudi, jedan s drugim, pa bi došla žena jednoga da otme muža svojega iz ruke drugoga koji ga bije, i pruživši ruku svoju uhvatila bi ga za mošnice,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Otsijeci joj ruku; neka ne žali oko tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nemoj imati u torbi svojoj dvojaku mjeru, veliku i malu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Nemoj imati u kuæi svojoj dvojaku efu, veliku i malu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Mjera potpuna i prava neka ti je; efa potpuna i prava neka ti je, da bi ti se produljili dani tvoji u zemlji koju ti daje Gospod Bog tvoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer je gad pred Gospodom Bogom tvojim ko god èini tako, ko god èini krivo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Opominji se šta ti je uèinio Amalik na putu kad iðaste iz Misira,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Kako te doèeka na putu i pobi na kraju sve umorne koji iðahu za tobom, kad si bio sustao i iznemogao, i ne boja se Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Zato kad te Gospod Bog tvoj smiri od svijeh neprijatelja tvojih unaokolo u zemlji koju ti daje Gospod Bog tvoj da je naslijediš, tada zatri spomen Amaliku pod nebom; ne zaboravi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DEU/25.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 25
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DEU/26.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 26
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DEU/24.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 24
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 19
+}

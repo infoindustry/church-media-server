@@ -1,0 +1,117 @@
+{
+  "settings": {
+    "churchName": "Word of God Crossroads Budva",
+    "screenSlug": "main",
+    "welcome": {
+      "title": "Добро пожаловать",
+      "subtitle": "Word of God Crossroads Budva",
+      "language": "en",
+      "serviceText": "Служение скоро начнется",
+      "imageUrl": "",
+      "imageFit": "cover",
+      "overlay": true,
+      "textAlign": "center",
+      "showChurchName": true
+    }
+  },
+  "songs": [
+    {
+      "id": "sample-song",
+      "title": "Пример песни без файла",
+      "language": "ru",
+      "category": "Поклонение",
+      "tags": [
+        "пример",
+        "локально"
+      ],
+      "sourceType": "local_video",
+      "mediaUrl": "",
+      "fileName": "",
+      "youtubeUrl": "",
+      "isOfflineReady": false,
+      "createdAt": "2026-05-24T00:00:00.000Z",
+      "updatedAt": "2026-05-24T00:00:00.000Z"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "BiUGdYfD53",
+      "title": "Live translation",
+      "body": "Для перевода проповеди отсканируйте QR-код и выберите язык.",
+      "qrUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-05-25T10:12:39.559Z"
+    },
+    {
+      "id": "MlVqgh9TXV",
+      "title": "Пожертвование",
+      "body": "Спасибо за вашу поддержку служения.\nВы можете сделать пожертвование, отсканировав QR-код.",
+      "qrUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-05-25T10:12:28.333Z"
+    },
+    {
+      "id": "VstPk0MWLz",
+      "title": "Добро пожаловать!",
+      "body": "Мы рады видеть вас на служении. После служения будем рады познакомиться с вами.",
+      "qrUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-05-25T10:12:19.520Z"
+    }
+  ],
+  "translationLinks": [],
+  "mediaImages": [
+    {
+      "id": "2YenJ_eTk6",
+      "title": "1.png",
+      "category": "Заставки",
+      "tags": [],
+      "mediaUrl": "/media/images/1779706235071-1.png",
+      "fileName": "1779706235071-1.png",
+      "originalFileName": "1.png",
+      "mimeType": "image/png",
+      "sizeBytes": 57262,
+      "createdAt": "2026-05-25T10:50:35.073Z",
+      "updatedAt": "2026-05-25T10:50:35.073Z"
+    }
+  ],
+  "audioTracks": [],
+  "servicePlan": [],
+  "activePlanIndex": -1,
+  "screenState": {
+    "mode": "bible",
+    "payload": {
+      "reference": "Евреям 4:6-7",
+      "blocks": [
+        {
+          "translationId": "ru_synodal",
+          "language": "ru",
+          "name": "Синодальный перевод",
+          "shortName": "Синодальный",
+          "reference": "Евреям 4:6-7",
+          "text": "6. Итак, как некоторым остается войти в него, а те, которым прежде возвещено, не вошли в него за непокорность,\n7. то еще определяет некоторый день, «ныне», говоря через Давида, после столь долгого времени, как выше сказано: «ныне, когда услышите глас Его, не ожесточите сердец ваших».",
+          "missing": false
+        },
+        {
+          "translationId": "en_kjv",
+          "language": "en",
+          "name": "King James Version",
+          "shortName": "KJV",
+          "reference": "Евреям 4:6-7",
+          "text": "6. Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief:\n7. Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.",
+          "missing": false
+        }
+      ],
+      "text": "Синодальный:\n6. Итак, как некоторым остается войти в него, а те, которым прежде возвещено, не вошли в него за непокорность,\n7. то еще определяет некоторый день, «ныне», говоря через Давида, после столь долгого времени, как выше сказано: «ныне, когда услышите глас Его, не ожесточите сердец ваших».\n\nKJV:\n6. Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief:\n7. Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.",
+      "language": "ru",
+      "translation": "Синодальный",
+      "primaryTranslation": "ru_synodal",
+      "selectedTranslations": [
+        "ru_synodal",
+        "en_kjv"
+      ]
+    },
+    "updatedBy": "admin",
+    "updatedAt": "2026-05-25T10:53:53.540Z"
+  }
+}

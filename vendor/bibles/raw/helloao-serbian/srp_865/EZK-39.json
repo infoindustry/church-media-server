@@ -1,0 +1,279 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 39,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ti dakle, sine èovjeèji, prorokuj protiv Goga, i reci: ovako veli Gospod Gospod: evo me na te, Gože, kneže i glavo Mesehu i Tuvalu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I vratiæu te natrag i vodiæu te, i izvešæu te iz sjevernijeh krajeva i dovešæu te na gore Izrailjeve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I izbiæu ti luk tvoj iz lijeve ruke, i prosuæu ti iz desne ruke strijele."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Na gorama æeš Izrailjevijem pasti ti i sve èete tvoje i narodi koji budu s tobom; pticama, svakojakim pticama krilatijem i zvijerima poljskim daæu te da te izjedu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Na polju æeš pasti, jer ja rekoh, govori Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I pustiæu oganj na Magoga i na one koji žive na ostrvima bez straha; i poznaæe da sam ja Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I sveto ime svoje obznaniæu usred naroda svojega Izrailja, i neæu više dati da se skvrni sveto ime moje, nego æe poznati narodi da sam ja Gospod, svetac u Izrailju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Evo, doæi æe, i zbiæe se, govori Gospod Gospod; to je dan za koji govorih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tada æe izaæi stanovnici gradova Izrailjevijeh, i naložiæe na oganj i spaliæe oružje i štitove i štitiæe, lukove i strijele, sulice i koplja, i ložiæe ih na oganj sedam godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I neæe nositi drva iz polja, niti æe sjeæi u šumi, nego æe oružje ložiti na oganj, i oplijeniæe one koji ih plijeniše, i pootimaæe od onijeh koji od njih otimaše, govori Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I u to æu vrijeme dati Gogu mjesto za grob ondje u Izrailju, dolinu kojom se ide na istok k moru, i ona æe stisnuti usta putnicima; ondje æe biti pogreben Gog i sve mnoštvo njegovo i prozvaæe se dolina mnoštva Gogova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I ukopavaæe ih dom Izrailjev sedam mjeseca, da bi oèistili zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I ukopavaæe ih sav narod, i biæe im na slavu u onaj dan kad se proslavim, govori Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I odvojiæe ljude koji æe jednako iæi po zemlji i s onima koji prolaze ukopavati one koji bi ostali po zemlji da je oèiste; poslije sedam mjeseca tražiæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I prohodiæe zemlju i iæi po njoj, i ko vidi kosti ljudske, naèiniæe kod njih znak, dokle ih ne ukopaju grobari u dolini mnoštva Gogova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A i gradu æe biti ime Amona; i tako æe oèistiti zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ti, dakle, sine èovjeèji, ovako govori Gospod Gospod, reci pticama, svakojakim pticama i svijem zvijerima poljskim: skupite se i hodite, saberite se sa svijeh strana na žrtvu moju, koju koljem za vas, na veliku žrtvu na gorama Izrailjevijem, i ješæete mesa i piæete krvi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ješæete mesa junaèkoga i piæete krvi knezova zemaljskih, ovnova, jaganjaca i jaraca i telaca, sve ugojene stoke Vasanske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I ješæete pretiline da æete se nasititi, i piæete krvi da æete se opiti od žrtava mojih što æu vam naklati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I nasitiæete se za mojim stolom konja i konjika, junaka i svakojakih vojnika, govori Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I pustiæu slavu svoju meðu narode, i svi æe narodi vidjeti sud moj koji æu uèiniti i moju ruku koju æu dignuti na njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I poznaæe dom Izrailjev da sam ja Gospod Bog njihov, od onoga dana i poslije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I narodi æe poznati da se za svoje bezakonje zarobi dom Izrailjev, što meni zgriješiše, te sakrih lice svoje od njih, i dadoh ih u ruke neprijateljima njihovijem, i svi padoše od maèa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Po neèistoti njihovoj i po prijestupu njihovu uèinih im i sakrih lice svoje od njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Toga radi ovako govori Gospod Gospod: povratiæu roblje Jakovljevo i smilovaæu se svemu domu Izrailjevu i revnovaæu za sveto ime svoje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Pošto podnesu sramotu svoju i sve prijestupe svoje, kojima mi prestupiše dok sjeðahu u svojoj zemlji bez straha i nikoga ne bješe da ih plaši,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Kad ih dovedem natrag iz naroda i saberem ih iz zemalja neprijatelja njihovijeh, i posvetim se u njima pred mnogim narodima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I poznaæe da sam ja Gospod Bog njihov kad odvedavši ih u ropstvo meðu narode opet ih saberem u zemlju njihovu ne ostavivši ih nijednoga ondje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I neæu više kriti lica svojega od njih kad izlijem duh svoj na dom Izrailjev, govori Gospod Gospod."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/39.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 39
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/40.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 40
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/38.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 38
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

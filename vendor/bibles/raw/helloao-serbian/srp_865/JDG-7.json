@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JDG",
+    "translationId": "srp_865",
+    "name": "Sudije",
+    "commonName": "Sudije",
+    "title": "Sudije",
+    "order": 7,
+    "numberOfChapters": 21,
+    "sha256": "b90b96d9ad07648b61c3175adb672cbdc04a1a389be225dc4596659462d0e4db",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JDG/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JDG/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 618
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I urani Jeroval, to je Gedeon, i sav narod što bijaše s njim, i stadoše u oko kod izvora Aroda; a vojska Madijanska bješe mu sa sjevera kraj gore Moreha u dolini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A Gospod reèe Gedeonu: mnogo je naroda s tobom, zato im neæu dati Madijana u ruke, da se ne bi hvalio Izrailj suprot meni govoreæi: moja me ruka izbavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Nego sada oglasi da èuje narod i reci: ko se boji i koga je strah, neka se vrati i nek ide odmah ka gori Galadu. I vrati se iz naroda dvadeset i dvije tisuæe; a deset tisuæa osta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Opet reèe Gospod Gedeonu: još je mnogo naroda; svedi ih na vodu, i ondje æu ti ih prebrati; za kojega ti god reèem: taj neka ide s tobom, neka ide s tobom; a za koga ti god reèem: taj neka ne ide s tobom, neka ne ide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I svede narod na vodu; a Gospod reèe Gedeonu: koji stane laptati jezikom vodu, kao što lapæe pas, metni ga na stranu; tako i svakoga koji klekne na koljena da pije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I onijeh koji laptaše, rukom svojom k ustima prinesavši vodu, bješe tri stotine ljudi; a sav ostali narod kleèe na koljena svoja da piju vode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tada reèe Gospod Gedeonu: s tijeh trista ljudi koji laptaše vodu izbaviæu vas i predaæu ti u ruke Madijane; neka dakle odlazi sav ovaj narod svaki na svoje mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I narod uze brašnjenice i trube; i Gedeon otpusti sve ljude Izrailjce da idu svaki u svoj šator, a onijeh trista ljudi zadrža. A oko Madijanski bijaše niže njega u dolini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I onu noæ reèe mu Gospod: ustani, siði u oko, jer ti ga dadoh u ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ako li se bojiš sam siæi, siði u oko sa Furom momkom svojim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I èuæeš šta govore, pa æe ti osiliti ruke i udariæeš na oko. I siðe on i Fura momak njegov do kraja vojske koja bijaše u okolu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A Madijani i Amalici i sav narod istoèni ležahu po dolini kao skakavci, tako ih bješe mnogo; i kamilama njihovijem ne bješe broja; bješe ih mnogo kao pijeska po brijegu morskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I kad doðe Gedeon, a to jedan pripovijedaše drugu svojemu san, i govoraše: gle, usnih, a to peèen hljeb jeèmen kotrljaše se k okolu Madijanskom i doðe do šatora i stade udarati o njih, te padahu, i ispremeta ih, i popadaše šatori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A drug mu odgovori i reèe: to nije drugo nego maè Gedeona sina Joasova èovjeka Izrailjca; predao mu je u ruke Bog Madijane i sav ovaj oko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I kad Gedeon èu kako onaj pripovjedi san i kako ga ovaj istumaèi, pokloni se i vrati se u oko Izrailjski i reèe: ustajte, jer vam dade Gospod u ruke oko Madijanski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Potom razdijeli trista ljudi u tri èete, i dade svakome po trubu u ruku i po prazan žban i po luè u žban."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I reèe im: na mene gledajte, pa tako èinite; gle, je æu doæi na kraj okola, pa šta ja ušèinim, to èinite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Kad ja zatrubim u trubu i svi koji budu sa mnom, tada i vi zatrubite u trube oko svega okola, i vièite: maè Gospodnji i Gedeonov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I doðe Gedeon i sto ljudi što bijahu s njim na kraj okola, u poèetak srednje straže, istom bijahu promijenili stražu; a oni zatrubiše u trube i polupaše žbanove koje imahu u rukama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Tako tri èete zatrubiše u trube i polupaše žbanove, i držahu u lijevoj ruci luèeve a u desnoj trube trubeæi, i povikaše: maè Gospodnji i Gedeonov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I stadoše svaki na svom mjestu oko vojske; a sva se vojska smete i stadoše vikati i bježati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A kad zatrubiše u trube onijeh tri stotine, Gospod obrati maè svakome na druga njegova po svemu okolu, te pobježe vojska do Vet-Asete, u Zererat, do obale Avel-meolske kod Tavata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A Izrailjci iz plemena Neftalimova i Asirova i iz svega plemena Manasijina stekoše se i goniše Madijane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I Gedeon posla glasnike po svoj gori Jefremovoj govoreæi: siðite pred Madijane i uhvatite im vode do Vetvare duž Jordana. I stekoše se svi ljudi iz plemena Jefremova i uhvatiše vode do Vetvare duž Jordana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I uhvatiše dva kneza Madijanska, Oriva i Ziva, i ubiše Oriva na stijeni Orivovoj, a Ziva ubiše kod tijeska Zivova; i goniše Madijane, i donesoše glavu Orivovu i Zivovu ka Gedeonu preko Jordana."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JDG/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JDG/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JDG/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

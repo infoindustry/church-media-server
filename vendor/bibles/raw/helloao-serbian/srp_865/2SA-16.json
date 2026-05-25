@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2SA",
+    "translationId": "srp_865",
+    "name": "2. Samuelova",
+    "commonName": "2. Samuelova",
+    "title": "2. Samuelova",
+    "order": 10,
+    "numberOfChapters": 24,
+    "sha256": "e9bcfc863ad7bd2a939eb305126ad735f393202a88f773ac55550249ed219529",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/2SA/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 695
+  },
+  "chapter": {
+    "number": 16,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad David prijeðe malo preko vrha, gle, Siva, momak Mefivostejev, srete ga, sa dva magarca natovarena, na kojima bješe dvjesta hljebova i sto grozdova suhih i sto gruda smokava i mijeh vina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I reèe car Sivi: šta æe ti to? A Siva mu reèe: magarci su za èeljad carevu, da jašu, a hljebovi i voæe da jedu momci, a vino da pije ko se umori u pustinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A car mu reèe: a gdje je sin tvoga gospodara? Reèe Siva caru: eno ga, ostao je u Jerusalimu, jer reèe: danas æe mi dom Izrailjev vratiti carstvo oca mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tada reèe car Sivi: evo, tvoje je sve što je bilo Mefivostejevo. A Siva reèe: klanjam ti se, da naðem milost pred tobom, care gospodaru!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I doðe car David do Vaurima; a gle, izide odande jedan od roda doma Saulova, po imenu Simej, sin Girin, i iduæi psovaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I bacaše se kamenjem na Davida i na sluge cara Davida, kojemu i s desne i s lijeve strane bijaše sav narod i svi junaci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Simej ovako govoraše psujuæi: odlazi, odlazi, krvopijo i zlikovèe!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Obrati Gospod na tebe sve krvi doma Saulova, na èije si se mjesto zacario, i predade Gospod carstvo u ruke Avesalomu sinu tvojemu; eto te sada u tvom zlu, jer si krvopija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tada reèe caru Avisaj sin Serujin: zašto da psuje ovaj mrtvi pas cara gospodara mojega? Idem da mu skinem glavu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ali car reèe: šta je vama do mene, sinovi Serujini? neka psuje; jer mu je Gospod rekao: psuj Davida. Pa ko smije kazati: zašto tako èiniš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Još reèe David Avisaju i svijem slugama svojim: eto, moj sin, koji je izašao od bedara mojih, traži dušu moju, a kako neæe ovaj sin Venijaminov? Ostavite ga neka psuje, jer mu je Gospod zapovjedio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Da ako Gospod pogleda na nevolju moju, i vrati mi Gospod dobro za psovku njegovu današnju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I tako David sa svojim ljudima iðaše svojim putem; a Simej iðaše pokraj gore prema njemu jednako psujuæi i bacajuæi se kamenjem na nj, i podižuæi prah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I doðe car i sav narod što bijaše s njim, umorni, i odmoriše se ondje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Avesalom i sav narod Izrailjev doðoše u Jerusalim, i Ahitofel s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A kad Husaj Arhijanin prijatelj Davidov doðe k Avesalomu, reèe Husaj Avesalomu: da živi car! da živi car!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A Avesalom reèe Husaju: taka li je ljubav tvoja prema prijatelju tvojemu? zašto nijesi otišao s prijateljem svojim?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A Husaj reèe Avesalomu: ne; nego koga je izabrao Gospod i ovaj narod i svi Izrailjci, njegov æu biti i kod njega æu ostati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Svrh toga, kome bih služio? eda li ne sinu njegovu? kako sam služio ocu tvojemu, tako æu i tebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Avesalom reèe Ahitofelu: svjetuj šta æemo èiniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A Ahitofel reèe Avesalomu: lezi s inoèama oca svojega, koje je ostavio da mu èuvaju kuæu, pa kad èuje sav Izrailj kako si se omrazio s ocem svojim, osiliæe ruka svjema koji su s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Tada razapeše Avesalomu šator na krovu, i Avesalom leže s inoèama oca svojega na vidiku svjemu Izrailju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I svjet koji davaše Ahitofel u ono vrijeme bijaše kao da bi ko Boga upitao; taki bijaše svaki svjet Ahitofelov i u Davida i u Avesaloma."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2SA/16.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 16
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2SA/17.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 17
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2SA/15.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 15
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

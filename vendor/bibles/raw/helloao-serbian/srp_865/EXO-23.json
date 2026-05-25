@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 23,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ne iznosi lažnijeh glasova; ne pristaj s bezbožnikom da svjedoèiš krivo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ne idi za množinom na zlo, i ne govori na sudu povodeæi se za veæim brojem da se izvrne pravda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Siromahu u parnici njegovoj ne gledaj što je siromah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ako naiðeš na vola neprijatelja svojega ili na magarca njegova, gdje je zalutao, odvedi ga k njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ako vidiš gdje je nenavidniku tvojemu pao magarac pod teretom svojim, nemoj da ga ostaviš, nego mu pomozi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nemoj izvrnuti pravde siromahu svojemu u parnici njegovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Rijeèi lažne kloni se, i bezazlenoga i pravoga nemoj ubiti, jer neæu opravdati bezbožnika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ne uzimaj poklona, jer poklon zašljepljuje okate i izvræe rijeèi pravima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Došljake ne cvijeli, jer vi znate kaka je duša došljaku, jer ste bili došljaci u zemlji Misirskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Šest godina zasijevaj zemlju svoju i sabiraj rod njezin;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A sedme godine ostavi je neka poèine, da jedu siromasi naroda tvojega, a što iza njih ostane neka jedu zvijeri poljske; tako radi i s vinogradom svojim i s maslinikom svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Šest dana radi poslove svoje, a u sedmi dan poèini, da se odmori vo tvoj i magarac tvoj, i da odahne sin robinje tvoje i došljak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Držite se svega što sam vam kazao. Ne pominjite imena bogova tuðih, i da se ne èuje iz usta vaših."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Tri puta preko godine svetkuj mi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Praznik prijesnijeh hljebova drži; sedam dana jedi hljebove prijesne, kao što sam ti zapovjedio, na vrijeme, mjeseca Aviva, jer si tada izašao iz Misira; i niko da ne izaðe preda me prazan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I praznik žetve prvina od truda tvojega što posiješ u polju svojem; i praznik berbe na svršetku svake godine, kad sabereš trud svoj s njive."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tri puta preko godine sve muškinje tvoje da izlazi pred Gospoda Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Krvi od žrtve moje ne prinosi uz hljebove kisele, i pretilina praznika mojega da ne prenoæi do jutra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Prvine od prvoga roda zemlje svoje donesi u kuæu Gospoda Boga svojega; nemoj kuhati jagnjeta u mlijeku majke njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Evo, ja šaljem anðela svojega pred tobom da te èuva na putu, i da te odvede na mjesto koje sam ti pripravio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Èuvaj ga se, i slušaj ga, nemoj da ga rasrdiš, jer vam neæe oprostiti grijeha, jer je moje ime u njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Nego ako ga dobro uzaslušaš i ustvoriš sve što kažem, ja æu biti neprijatelj tvojim neprijateljima i protivnik tvojim protivnicima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer æe anðeo moj iæi pred tobom i odvešæe te u zemlju Amorejsku i Hetejsku i Ferezejsku i Hananejsku i Jevejsku i Jevusejsku, i ja æu ih istrijebiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Nemoj se klanjati bogovima njihovijem niti im služiti, ni èiniti što oni èine, nego ih sasvijem obori i likove njihove sasvijem izlomi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I služite Gospodu Bogu svojemu, i on æe blagosloviti hljeb tvoj i vodu tvoju; i ukloniæu bolest izmeðu vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Neæe biti pometkinje ni nerotkinje u zemlji tvojoj; i broj dana tvojih napuniæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Pustiæu strah svoj pred tobom, i uplašiæu svaki narod na koji doðeš, i obratiæu k tebi pleæi svijeh neprijatelja tvojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Poslaæu i stršljene pred tobom, da tjeraju Jeveje, Hananeje i Heteje ispred tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Neæu ih otjerati ispred tebe za jednu godinu, da ne opusti zemlja i da se zvjerje poljsko ne namnoži na tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Pomalo æu ih odgoniti ispred tebe dokle se ne namnožiš i zauzmeš zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I postaviæu meðe tvoje od Mora Crvenoga do mora Filistejskoga i od pustinje do rijeke; jer æu vama u ruke dati one koji žive u onoj zemlji da ih otjeraš ispred sebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Nemoj hvatati vjere s njima ni s bogovima njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Neka ne sjede u zemlji tvojoj, da te ne navrate da se ogriješiš o mene, jer bi služio bogovima njihovijem, i to bi ti bila zamka."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/23.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 23
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/24.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 24
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/22.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 22
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

@@ -1,0 +1,167 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 43,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad izgovori Jeremija svemu narodu sve rijeèi Gospoda Boga njihova, koje mu Gospod Bog njihov zapovjedi za njih, sve te rijeèi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Tada Azarija sin Osajin i Joanan sin Karijin i svi oni ljudi oholi rekoše Jeremiji govoreæi: nije istina što govoriš; nije te poslao Gospod Bog naš da nam kažeš: ne idite u Misir da se ondje stanite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Nego Varuh sin Nirijin podgovara te na nas da nas preda u ruke Haldejcima da nas pogube ili da nas presele u Vavilon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I tako Joanan sin Karijin i sve vojvode i sav narod ne poslušaše glasa Gospodnjega da ostanu u zemlji Judinoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nego Joanan sin Karijin i sve vojvode uzeše sav ostatak Judin koji se bijaše vratio da živi u zemlji Judinoj iz svijeh naroda u koje bijahu razagnani,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ljude i žene i djecu i kæeri careve, i sve duše što bijaše ostavio Nevuzardan zapovjednik stražarski s Godolijom sinom Ahikama sina Safanova, i Jeremiju proroka i Varuha sina Nirijina,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I otidoše u zemlju Misirsku, jer ne poslušaše glasa Gospodnjega; i doðoše do Tafnesa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I doðe rijeè Gospodnja Jeremiji u Tafnesu govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Uzmi u ruke velikoga kamenja, i pokrij ga kalom u peæi za opeke što je na vratima doma Faraonova u Tafnesu da vide Judejci;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I reci im: ovako veli Gospod nad vojskama Bog Izrailjev: evo, ja æu poslati i dovesti Navuhodonosora cara Vavilonskoga slugu svojega, i metnuæu prijesto njegov na ovo kamenje koje sakrih, i razapeæe carski šator svoj na njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer æe doæi i zatrti zemlju Misirsku; ko bude za smrt otiæi æe na smrt, ko za ropstvo, u ropstvo, ko za maè, pod maè."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I raspaliæu oganj u kuæama bogova Misirskih; i popaliæe ih i odvešæe ih u ropstvo, i ogrnuæe se zemljom Misirskom kao što se pastir ogræe plaštem svojim, i otiæi æe odande s mirom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I izlomiæe stupove u domu sunèanom što je u zemlji Misirskoj, i kuæe bogova Misirskih popaliæe ognjem."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/43.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 43
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/44.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 44
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/42.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 42
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 13
+}

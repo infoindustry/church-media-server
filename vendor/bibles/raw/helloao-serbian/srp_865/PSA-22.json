@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 22,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Bože, Bože moj! zašto si me ostavio udaljivši se od spasenja mojega, od rijeèi vike moje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Bože moj! vièem danju, a ti me ne slušaš, i noæu, ali nemam mira."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Sveti, koji živiš u pohvalama Izrailjevim!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "U tebe se uzdaše oci naši, uzdaše se, i ti si ih izbavljao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tebe prizivaše, i spasavaše se; u tebe se uzdaše, i ne ostajaše u sramoti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A ja sam crv, a ne èovjek; potsmijeh ljudima i rug narodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Koji me vide, svi mi se rugaju, razvaljuju usta, mašu glavom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I govore: oslonio se na Gospoda, neka mu pomože, neka ga izbavi, ako ga miluje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ta, ti si me izvadio iz utrobe; ti si me umirio na sisi matere moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Za tobom pristajem od roðenja, od utrobe matere moje ti si Bog moj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ne udaljuj se od mene; jer je nevolja blizu, a nema pomoænika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Opteèe me mnoštvo telaca; jaki volovi Vasanski opkoliše me;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Razvališe na me usta svoja. Lav je gladan lova i rièe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Kao voda razlih se; rasuše se sve kosti moje; srce moje posta kao vosak, rastopilo se u meni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Sasuši se kao crijep krjepost moja, i jezik moj prionu za grlo, i u prah smrtni meæeš me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Opkoliše me psi mnogi; èeta zlikovaca ide oko mene, probodoše ruke moje i noge moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Mogao bih izbrojiti sve kosti svoje. Oni gledaju, i od mene naèiniše stvar za gledanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Dijele haljine moje meðu sobom, i za dolamu moju bacaju ždrijeb."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ali ti, Gospode, ne udaljuj se. Silo moja, pohitaj mi u pomoæ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Izbavi od maèa dušu moju, od psa jedinicu moju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Saèuvaj me od usta lavovijeh, i od rogova bivolovih, èuvši, izbavi me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Kazujem ime tvoje braæi; usred skupštine hvaliæu te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Koji se bojite Gospoda, hvalite ga. Sve sjeme Jakovljevo! poštuj ga. Boj ga se, sve sjeme Izrailjevo!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer se ne ogluši molitve ništega niti je odbi; ne odvrati od njega lica svojega, nego ga usliši kad ga zazva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Tebe æu hvaliti na skupštini velikoj; zavjete svoje svršiæu pred onima koji se njega boje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Neka jedu ubogi i nasite se, i neka hvale Gospoda koji ga traže; živo da bude srce vaše dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Opomenuæe se i obratiæe se ka Gospodu svi krajevi zemaljski, i pokloniæe se pred njim sva plemena neznabožaèka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Jer je Gospodnje carstvo; on vlada narodima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ješæe i pokloniæe se svi pretili na zemlji; pred njim æe pasti svi koji slaze u prah, koji ne mogu saèuvati duše svoje u životu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Sjeme æe njihovo služiti njemu. Kazivaæe se za Gospoda rodu potonjemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Doæi æe, i kazivaæe pravdu njegovu ljudima njegovijem, koji æe se roditi; jer je on uèinio ovo."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/22.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 22
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/23.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 23
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/21.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 21
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

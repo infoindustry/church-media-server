@@ -1,0 +1,188 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MIC",
+    "translationId": "srp_865",
+    "name": "Mihej",
+    "commonName": "Mihej",
+    "title": "Mihej",
+    "order": 33,
+    "numberOfChapters": 7,
+    "sha256": "1dfa85f7e9da3eddf6409061eb84b76e832c4df0a95545ecbfebbcb0fafba227",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MIC/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MIC",
+      "chapter": 1
+    },
+    "lastChapterNumber": 7,
+    "lastChapterApiLink": "/api/srp_865/MIC/7.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MIC",
+      "chapter": 7
+    },
+    "totalNumberOfVerses": 105
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Slušajte šta govori Gospod: ustani, sudi se s gorama, i neka èuju humovi glas tvoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Slušajte, gore i tvrdi temelji zemaljski, parbu Gospodnju, jer Gospod ima parbu s narodom svojim, i s Izrailjem se sudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Narode moj, šta sam ti uèinio? i èim sam ti dosadio? Odgovori mi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer te izvedoh iz zemlje Misirske i iskupih iz kuæe ropske i poslah pred tobom Mojsija, Arona i Mariju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Narode moj, opomeni se što naumi Valak car Moavski i što mu odgovori Valam sin Veorov, od Sitima do Galgala šta bi, da poznaš pravdu Gospodnju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Su èim æu doæi pred Gospoda da se poklonim Bogu višnjemu? hoæu li doæi preda nj sa žrtvama paljenicama? s teocima od godine?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Hoæe li Gospodu biti mile tisuæe ovnova? desetine tisuæa potoka ulja? hoæu li dati prvenca svojega za prijestup svoj? plod utrobe svoje za grijeh duše svoje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Pokazao ti je, èovjeèe, što je dobro; i šta Gospod ište od tebe osim da èiniš što je pravo i da ljubiš milost i da hodiš smjerno s Bogom svojim?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Glas Gospodnji vièe gradu, i ko je mudar vidi ime tvoje; slušajte prut i onoga koji ga je odredio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nije li jošte u kuæi bezbožnikovoj blago nepravo? i efa krnja, gadna?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Hoæe li mi biti èist u koga su mjerila lažna i u tobocu prijevarno kamenje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer su bogatuni njegovi puni nepravde, i stanovnici govore laž, i u ustima im je jezik prijevaran."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zato æu te i ja biti da oboliš, pustošiæu te za grijehe tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ti æeš jesti, ali se neæeš nasititi, i padanje tvoje biæe usred tebe; i sklanjaæeš, ali neæeš izbaviti, i što izbaviš predaæu maèu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ti æeš sijati, ali neæeš žeti; ti æeš cijediti masline, ali se neæeš namazati uljem, i mast, ali neæeš piti vina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer se drže uredbe Amrijeve i sva djela doma Ahavova, i hodite po savjetima njihovijem, da te predam u pogibao, i stanovnike njegove u potsmijeh, i nosiæete sramotu naroda mojega."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MIC/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MIC",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MIC/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MIC",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MIC/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MIC",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

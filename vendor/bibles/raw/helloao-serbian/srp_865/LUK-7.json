@@ -1,0 +1,426 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "srp_865",
+    "name": "Luki",
+    "commonName": "Luki",
+    "title": "Jevanðelje po Luki",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "71d24bae001865beafd9dc8b76f8e93d8f927bd8e33391ea4aebbf53673c6a27",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LUK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/LUK/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad svrši sve rijeèi svoje pred narodom, doðe u Kapernaum."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "U kapetana pak jednoga bijaše sluga bolestan na umoru koji mu bješe mio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A kad èu za Isusa, posla k njemu starješine Judejske moleæi ga da bi došao da mu iscijeli slugu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A oni došavši k Isusu moljahu ga lijepo govoreæi: dostojan je da mu to uèiniš;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer ljubi narod naš, i naèini nam zbornicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A Isus iðaše s njima. I kad veæ bijahu blizu kuæe, posla kapetan k njemu prijatelje govoreæi mu: Gospode! ne trudi se, jer nijesam dostojan da uðeš pod moju strehu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zato i ne držah sebe dostojna da ti doðem, nego samo reci rijeè, i ozdraviæe sluga moj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer i ja sam èovjek pod vlasti, i imam pod sobom vojnike, pa reèem jednome: idi, i ide; i drugome: doði, i doðe; i sluzi svojemu: uèini to, i uèini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A kad to èu Isus, zaèudi mu se, i okrenuvši se narodu koji iðaše za njim reèe: kažem vam: ni u Izrailju tolike vjere ne naðoh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I vrativši se poslani naðoše bolesnoga slugu zdrava."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I potom iðaše u grad koji se zove Nain, i s njim iðahu mnogi uèenici njegovi i mnoštvo naroda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Kad se približiše k vratima gradskijem, i gle, iznošahu mrtvaca, jedinca sina matere njegove, i ona bješe udovica i naroda iz grada mnogo iðaše s njom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I vidjevši je Gospod sažali mu se za njom, i reèe joj: ne plaèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I pristupivši prihvati za sanduk; a nosioci stadoše, i reèe: momèe! tebi govorim, ustani."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I sjede mrtvac i stade govoriti; i dade ga materi njegovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A strah obuze sve, i hvaljahu Boga govoreæi: veliki prorok iziðe meðu nama, i Bog pohodi narod svoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I otide glas ovaj o njemu po svoj Judeji i po svoj okolini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I javiše Jovanu uèenici njegovi za sve ovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I dozvavši Jovan dva od uèenika svojijeh posla ih k Isusu govoreæi: jesi li ti onaj što æe doæi, ili drugoga da èekamo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Došavši pak ljudi k njemu rekoše: Jovan krstitelj posla nas k tebi govoreæi: jesi li ti onaj što æe doæi, ili drugoga da èekamo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A u taj èas iscijeli mnoge od bolesti i od muka i od zlijeh duhova, i mnogima slijepijem darova vid."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I odgovarajuæi Isus reèe im: idite i kažite Jovanu što vidjeste i èuste: slijepi progledaju, hromi hode, gubavi èiste se, gluhi èuju, mrtvi ustaju, siromašnima propovijeda se jevanðelje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I blago onome koji se ne sablazni o mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A kad otidoše uèenici Jovanovi, poèe narodu govoriti za Jovana: šta ste izišli u pustinji da vidite? Trsku, koju ljulja vjetar?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Šta ste dakle izišli da vidite? Èovjeka u meke haljine obuèena? Eto, koji gospodske haljine nose i u slastima žive po carskijem su dvorovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Šta ste dakle izišli da vidite? Proroka? Da, ja vam kažem, i više od proroka;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jer je ovo onaj za koga je pisano: eto ja šaljem anðela svojega pred licem tvojijem koji æe pripraviti put tvoj pred tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Jer vam kažem: nijedan izmeðu roðenijeh od žena nije veæi prorok od Jovana krstitelja; a najmanji u carstvu Božijemu veæi je od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I svi ljudi koji slušahu i carinici opravdaše Boga, i krstiše se krštenjem Jovanovijem;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A fariseji i književnici odbaciše svjet Božij za njih, i ne htješe da ih on krsti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A Gospod reèe: kakvi æu kazati da su ljudi ovoga roda? I kakvi su?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Oni su kao djeca koja sjede po ulicama i dozivaju jedno drugo i govore: svirasmo vam, i ne igraste, žalismo vam se, i ne plakaste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Jer doðe Jovan krstitelj koji ni jede hljeba ni pije vina, a vi kažete: ðavo je u njemu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Doðe sin èovjeèij koji i jede i pije, a vi kažete: gle èovjeka izjelice i pijanice, druga carinicima i grješnicima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I opravdaše premudrost sva djeca njezina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Moljaše ga pak jedan od fariseja da bi objedovao u njega; i ušavši u kuæu farisejevu sjede za trpezu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I gle, žena u gradu koja bješe grješnica doznavši da je Isus za trpezom u kuæi farisejevoj, donese sklenicu mira;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I stavši sastrag kod nogu njegovijeh plakaše, i stade prati noge njegove suzama, i kosom od svoje glave otiraše, i cjelivaše noge njegove, i mazaše mirom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A kad vidje farisej koji ga je dozvao, reèe u sebi govoreæi: da je on prorok, znao bi ko i kakva ga se žena dotièe: jer je grješnica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I odgovarajuæi Isus reèe mu: Simone! imam ti nešto kazati. A on reèe: uèitelju! kaži."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A Isus reèe: dvojica bijahu dužni jednome dužniku, jedan bješe dužan pet stotina dinara a drugi pedeset."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A kad oni ne imadoše da mu vrate, pokloni obojici. Kaži koji æe ga od njih dvojice veæma ljubiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "A Simon odgovarajuæi reèe: mislim onaj kome najviše pokloni. A on mu reèe: pravo si sudio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "I okrenuvši se k ženi reèe Simonu: vidiš li ovu ženu? Ja uðoh u tvoju kuæu, ni vode mi na noge nijesi dao; a ona suzama obli mi noge, i kosom od glave svoje otr."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Cjeliva mi nijesi dao; a ona otkako uðoh ne presta cjelivati mi nogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Uljem nijesi pomazao glave moje; a ona mirom pomaza mi noge."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Zato kažem ti: opraštaju joj se grijesi mnogi, jer je veliku ljubav imala; a kome se malo oprašta ima malu ljubav."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "A njoj reèe: opraštaju ti se grijesi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "I stadoše u sebi govoriti oni što sjeðahu s njim za trpezom: ko je ovaj što i grijehe oprašta?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "A ženi reèe: vjera tvoja pomože ti; idi s mirom."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LUK/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LUK/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LUK/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 50
+}

@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2PE",
+    "translationId": "srp_865",
+    "name": "2 Petrova",
+    "commonName": "2 Petrova",
+    "title": "2. Petrova Poslanica",
+    "order": 61,
+    "numberOfChapters": 3,
+    "sha256": "c02a62a3bcbcb7a520d571107e8e827b2b536f51d9f668391fb381c729b39f87",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2PE/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2PE",
+      "chapter": 1
+    },
+    "lastChapterNumber": 3,
+    "lastChapterApiLink": "/api/srp_865/2PE/3.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2PE",
+      "chapter": 3
+    },
+    "totalNumberOfVerses": 61
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Od Simona Petra, sluge i apostola Isusa Hrista, onima što su primili s nama jednu èasnu vjeru u pravdi Boga našega i spasa Isusa Hrista:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Blagodat i mir da vam se umnoži poznavanjem Boga i Hrista Isusa Gospoda našega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Buduæi da su nam sve božanstvene sile njegove, koje trebaju k životu i pobožnosti, darovane poznanjem onoga koji nas pozva slavom i dobrodjetelju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Kroz koje se nama darovaše èasna i prevelika obeæanja, da njih radi imate dijel u Božijoj prirodi, ako uteèete od tjelesnijeh želja ovoga svijeta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I na samo ovo okrenite sve staranje svoje da pokažete u vjeri svojoj dobrodjetelj, a u dobrodjetelji razum,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A u razumu uzdržanje, a u uzdržanju trpljenje, a u trpljenju pobožnost,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A u pobožnosti bratoljublje, a u bratoljublju ljubav."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer kad je ovo u vama, i množi se, neæe vas ostaviti lijene niti bez ploda u poznanju Gospoda našega Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A ko nema ovoga slijep je, i pipa zaboravivši oèišæenje od starijeh svojijeh grijeha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zato, braæo, postarajte se još veæma da svoju službu i izbor utvrdite; jer èineæi ovo neæete pogriješiti nikad;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer vam se tako obilno dopusti ulazak u vjeèno carstvo Gospoda našega i spasa Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zato se neæu olijeniti opominjati vam jednako ovo, ako i znate i utvrðeni ste u ovoj istini;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer mislim da je pravo dokle sam god u ovom tijelu da vas budim opominjanjem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Znajuæi da æu skoro tijelo svoje odbaciti kao što mi kaza i Gospod naš Isus Hristos."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A trudiæu se svakojako da se i po rastanku mojemu možete opominjati ovoga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer vam ne pokazasmo sile i dolaska Gospoda našega Isusa Hrista po pripovijetkama mudro izmišljenijem, nego smo sami vidjeli slavu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer on primi od Boga oca èast i slavu kad doðe k njemu takovi glas: ovo je sin moj ljubazni, koji je po mojoj volji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I ovaj glas mi èusmo gdje siðe s neba kad bijasmo s njim na svetoj gori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I imamo najpouzdaniju proroèku rijeè, i dobro èinite što pazite na nju, kao na vidjelo koje svijetli u tamnome mjestu, dokle dan ne osvane i danica se ne rodi u srcima vašima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I ovo znajte najprije da nijedno proroštvo književno ne biva po svome kazivanju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer nikad proroštvo ne bi od èovjeèije volje, nego nauèeni od svetoga Duha govoriše sveti Božiji ljudi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2PE/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2PE",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2PE/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2PE",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1PE/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1PE",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

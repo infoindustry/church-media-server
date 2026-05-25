@@ -1,0 +1,321 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 32,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A narod vidjevši gdje Mojsije za dugo ne slazi s gore, skupi se narod pred Arona, i rekoše mu: hajde, naèini nam bogove, koji æe iæi pred nama, jer tome Mojsiju koji nas izvede iz zemlje Misirske ne znamo šta bi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A Aron im reèe: poskidajte zlatne oboce što su u ušima žena vaših, sinova vaših i kæeri vaših, i donesite mi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I poskida sav narod zlatne oboce što im bijahu u ušima, i donesoše Aronu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A on uzev iz ruku njihovijeh, sali u kalup, i naèini tele saliveno. I rekoše: ovo su bogovi tvoji, Izrailju, koji te izvedoše iz zemlje Misirske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A kad to vidje Aron, naèini oltar pred njim; i povika Aron, i reèe: sjutra je praznik Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I sjutradan ustavši rano prinesoše žrtve paljenice i žrtve zahvalne; i posjeda narod, te jedoše i piše, a poslije ustaše da se igraju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Gospod reèe Mojsiju: idi, siði, jer se pokvari tvoj narod, koji si izveo iz zemlje Misirske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Brzo zaðoše s puta, koji sam im zapovjedio; naèiniše sebi tele liveno, i pokloniše mu se, i prinesoše mu žrtvu, i rekoše: ovo su bogovi tvoji, Izrailju, koji te izvedoše iz zemlje Misirske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Još reèe Gospod Mojsiju: pogledah narod ovaj, i eto je narod tvrda vrata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I sada pusti me, da se raspali gnjev moj na njih i da ih istrijebim; ali od tebe æu uèiniti narod velik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Mojsije se zamoli Gospodu Bogu svojemu, i reèe: zašto se, Gospode, raspaljuje gnjev tvoj na narod tvoj, koji si izveo iz zemlje Misirske silom velikom i rukom krjepkom?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zašto da govore Misirci i reku: na zlo ih izvede, da ih pobije po planinama i da ih istrijebi sa zemlje? Povrati se od gnjeva svojega, i požali narod svoj oda zla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Opomeni se Avrama, Isaka i Izrailja, sluga svojih, kojima si se sobom zakleo i obrekao im: umnožiæu sjeme vaše kao zvijezde na nebu, i zemlju ovu, za koju govorih, svu æu dati sjemenu vašemu da je njihova dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I ražali se Gospodu uèiniti zlo narodu svojemu, koje reèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tada se vrati Mojsije, i siðe s gore sa dvije ploèe svjedoèanstva u rukama svojim; i ploèe bjehu pisane s obje strane, otud i odovud pisane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I bjehu ploèe djelo Božije, i pismo bješe pismo Božije, urezano na ploèama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A Isus èuvši viku u narodu, kad vikahu, reèe Mojsiju: vika ubojna u okolu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A on reèe: nije to vika kako vièu koji su jaèi, niti je vika kako vièu koji su slabiji, nego èujem viku onijeh koji pjevaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I kad doðe blizu okola, ugleda tele i igre, te se razgnjevi Mojsije, i baci iz ruku svojih ploèe, i razbi ih pod gorom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Pa uze tele koje bijahu naèinili i spali ga ognjem, i satr ga u prah, i prosu ga po vodi, i zapoji sinove Izrailjeve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I reèe Mojsije Aronu: šta ti je uèinio ovaj narod, te ga uvali u toliki grijeh?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A Aron mu reèe: nemoj se gnjeviti, gospodaru; ti znaš ovaj narod da je brz na zlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer rekoše mi: naèini nam bogove, koji æe iæi pred nama, jer tome Mojsiju koji nas izvede iz zemlje Misirske ne znamo šta bi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A ja im rekoh: ko ima zlata, neka ga skida sa sebe. I dadoše mi, a ja ga bacih u vatru, i izaðe to tele."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A Mojsije videæi narod go, jer ga ogoli Aron na sramotu pred protivnicima njegovijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Stade Mojsije na vrata od okola, i reèe: k meni ko je Gospodnji. I skupiše se pred njega svi sinovi Levijevi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I reèe im: ovako kaže Gospod Bog Izrailjev: pripašite svaki svoj maè uz bedro svoje, pa proðite tamo i amo po okolu od vrata do vrata, i pobijte svaki brata svojega i prijatelja svojega i bližnjega svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I uèiniše sinovi Levijevi po zapovijesti Mojsijevoj, i pogibe naroda u onaj dan do tri tisuæe ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Jer Mojsije reèe: posvetite danas ruke svoje Gospodu, svak na sinu svom i na bratu svom, da bi vam dao danas blagoslov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A sjutradan reèe Mojsije narodu: vi ljuto sagriješiste; zato sada idem gore ka Gospodu, eda bih ga umolio da vam oprosti grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I vrati se Mojsije ka Gospodu, i reèe: molim ti se; narod ovaj ljuto sagriješi naèinivši sebi bogove od zlata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ali oprosti im grijeh: ako li neæeš, izbriši me iz knjige svoje, koju si napisao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A Gospod reèe Mojsiju: ko mi je zgriješio, onoga æu izbrisati iz knjige svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A sada idi, vodi taj narod kuda sam ti kazao. Evo, moj æe anðeo iæi pred tobom, a kad ih pohodim, pohodiæu na njima grijeh njihov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I Gospod bi narod zato što naèiniše tele, koje sali Aron."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/32.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 32
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/33.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 33
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/31.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 31
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

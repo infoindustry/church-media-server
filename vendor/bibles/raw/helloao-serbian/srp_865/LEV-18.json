@@ -1,0 +1,286 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kaži sinovima Izrailjevim, i reci im: ja sam Gospod Bog vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Nemojte èiniti što se èini u zemlji Misirskoj, u kojoj ste živjeli, niti èinite što se èini u zemlji Hananskoj, u koju vas vodim, i po uredbama njihovijem nemojte živjeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Nego moje zakone vršite i moje uredbe držite živeæi po njima. Ja sam Gospod Bog vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Držite uredbe moje i zakone moje; ko ih vrši, živ æe biti kroz njih. Ja sam Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Niko da ne pristupa k rodici svojoj po krvi, da otkrije golotinju njezinu. Ja sam Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Golotinje oca svojega ni golotinje matere svoje ne otkrij; mati ti je; ne otkrij golotinje njezine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Golotinje žene oca svojega ne otkrij; golotinja je oca tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Golotinje sestre svoje, kæeri oca svojega ili kæeri matere svoje, koja je roðena u kuæi ili izvan kuæe, ne otkrij golotinje njihove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Golotinje kæeri sina svojega, ili kæeri kæeri svoje ne otkrij; jer je tvoja golotinja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Golotinje kæeri žene oca svojega, koju je rodio otac tvoj, ne otkrij; sestra ti je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Golotinje sestre oca svojega ne otkrij; jedna je krv s ocem tvojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Golotinje sestre matere svoje ne otkrij; jer je jedna krv s materom tvojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Golotinje brata oca svojega ne otkrij pristupajuæi k ženi njegovoj; strina ti je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Golotinje žene sina svojega ne otkrij; snaha ti je, ne otkrij golotinje njezine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Golotinje žene brata svojega ne otkrij; golotinja je brata tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Golotinje žene i kæeri njezine ne otkrij; kæeri sina njezina ni kæeri kæeri njezine nemoj uzeti da otkriješ golotinju njihovu; jedna su krv; zlo je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nemoj uzeti žene preko jedne žene, da je ucvijeliš otkrivajuæi golotinju drugoj za života njezina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "K ženi dokle se odvaja radi neèistote svoje ne idi da otkriješ golotinju njezinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Sa ženom bližnjega svojega ne lezi skvrneæi se s njom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Od sjemena svojega ne daj da se odnese Molohu, da ne oskvrniš imena Boga svojega; ja sam Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "S muškarcem ne lezi kao sa ženom; gadno je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Živinèeta nikakoga nemoj obležati skvrneæi se s njim; i žena da ne legne pod živinèe; grdilo je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Nemojte se skvrniti nijednom ovom stvarju; jer su se svijem tijem stvarima oskvrnili narodi koje æu odagnati ispred vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Jer se oskvrnila zemlja, i nevaljalstvo æu njezino pohoditi na njoj, i izmetnuæe zemlja stanovnike svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Nego vi držite zakone moje i uredbe moje, i ne èinite nijednoga ovoga gada, ni domorodac ni došljak koji se bavi meðu vama;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jer sve ove gadove èiniše ljudi u ovoj zemlji koji su bili prije vas, i zemlja je od toga oskvrnjena;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Da ne izmetne zemlja vas, ako je oskvrnite, kao što je izmetnula narod koji je bio prije vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Jer ko uèini štogod od ovijeh gadova, istrijebiæe se iz naroda svojega duše koje uèine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Zato držite što sam naredio da se drži, da ne èinite što od gadnijeh obièaja koji su bili prije vas, i da se ne skvrnite o njih. Ja sam Gospod Bog vaš."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/18.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 18
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/19.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 19
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/17.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 17
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 30
+}

@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I viknu Gospod Mojsija, i reèe mu iz šatora od sastanka govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kaži sinovima Izrailjevim, i reci im: kad ko izmeðu vas hoæe da prinese Gospodu žrtvu od stoke, prinesite žrtvu svoju od goveda ili od ovaca ili od koza."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ako mu je žrtva paljenica od goveda, neka prinese muško, zdravo; na vratima šatora od sastanka neka je prinese drage volje pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I neka metne ruku svoju na glavu žrtvi paljenici, i primiæe mu se, i oèistiæe ga od grijeha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I neka zakolje tele pred Gospodom, i neka sinovi Aronovi sveštenici prinesu krv, i pokrope krvlju oltar ozgo unaokolo, koji je pred vratima šatora od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Potom neka se odre žrtva paljenica i rasijeèe na dijelove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I sinovi Aronovi sveštenici neka nalože oganj na oltaru, i metnu drva na oganj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Pa onda sinovi Aronovi sveštenici neka namjeste dijelove, glavu i salo na drva na ognju, koji je na oltaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A crijeva i noge neka se operu vodom; i sveštenik neka zapali sve to na oltaru; to je žrtva paljenica, žrtva ognjena na ugodni miris Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ako li bi htio prinijeti žrtvu paljenicu od sitne stoke, od ovaca ili od koza, neka prinese muško, zdravo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I neka se zakolje na sjevernoj strani oltara pred Gospodom, i sinovi Aronovi sveštenici neka pokrope krvlju oltar ozgo unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I neka se rasijeèe na dijelove s glavom i sa salom, i sveštenik neka to namjesti na drva na ognju, koji je na oltaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A crijeva i noge neka se operu vodom; i sveštenik neka prinese sve to i zapali na oltaru; to je žrtva paljenica, žrtva ognjena na ugodni miris Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ako li hoæe da prinese pticu Gospodu na žrtvu paljenicu, neka prinese žrtvu od grlica ili od golubiæa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I sveštenik neka je metne na oltar, i glavu neka joj zasijeèe noktom, i zapali na oltaru iscijedivši joj krv niz oltar sa strane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I neka joj izvadi volju s neèistotom i baci kraj oltara prema istoku gdje je pepeo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I neka je zadre za krila, ali da ne raskine; tako neka je sveštenik zapali na oltaru na drvima koja su na ognju; to je žrtva paljenica, žrtva ognjena na ugodni miris Gospodu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/40.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 40
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

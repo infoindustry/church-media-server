@@ -1,0 +1,160 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 27,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ali David reèe u srcu svojem: poginuæu kadgod od ruke Saulove; nema bolje za me nego da pobjegnem u zemlju Filistejsku, te æe me se Saul okaniti i neæe me više tražiti po krajevima Izrailjevijem; tako æu se izbaviti iz ruku njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Tada se podiže David i otide sa šest stotina ljudi koji bijahu s njim k Ahisu sinu Maohovu caru Gatskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I osta David kod Ahisa u Gatu i ljudi njegovi, svaki sa svojom porodicom, David sa dvije žene svoje, Ahinoamom iz Jezraela i Avigejom iz Karmila ženom Navalovom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I kad javiše Saulu da je David utekao u Gat, presta ga tražiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A David reèe Ahisu: ako sam našao milost pred tobom, neka mi dadu mjesto u kom gradu ove zemlje, da sjedim ondje, jer zašto da sjedi sluga tvoj s tobom u carskom gradu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I dade mu Ahis onoga dana Siklag. Zato Siklag pripada carevima Judinijem do današnjega dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I osta David u zemlji Filistejskoj godinu i èetiri mjeseca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I izlažaše David sa svojim ljudima, i udaraše na Gesureje i Gerzeje i na Amalike; jer ti narodi življahu od starine u onoj zemlji od Sura pa do zemlje Misirske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I pustošaše David onu zemlju ne ostavljajuæi u životu ni èovjeka ni žene, i otimaše ovce i volove i magarce i kamile i ruho, i vraæajuæi se dolažaše k Ahisu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I Ahis pitaše: gdje ste danas udarali? A David govoraše: na južnu stranu Judinu, i na južnu stranu Jerameilsku, i na južnu stranu Kenejsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ali ne ostavljaše David u životu ni èovjeka ni žene da dovede u Gat govoreæi: da nas ne tuže govoreæi: tako je uradio David. I taki mu bijaše obièaj za sve vrijeme dokle bijaše u zemlji Filistejskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I Ahis vjerovaše Davidu, i govoraše: baš se omrazio s narodom svojim Izrailjem; zato æe mi biti sluga dovijeka."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/27.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 27
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/28.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 28
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/26.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 26
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 12
+}

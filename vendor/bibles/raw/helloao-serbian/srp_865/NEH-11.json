@@ -1,0 +1,328 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NEH",
+    "translationId": "srp_865",
+    "name": "Nehemija",
+    "commonName": "Nehemija",
+    "title": "Nehemija",
+    "order": 16,
+    "numberOfChapters": 13,
+    "sha256": "b3e002d188e97ff8412d809ae23924019a35a6f9ea4afc2d33f820ac54e43f1c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NEH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NEH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 13,
+    "lastChapterApiLink": "/api/srp_865/NEH/13.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NEH",
+      "chapter": 13
+    },
+    "totalNumberOfVerses": 406
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I naseliše se knezovi narodni u Jerusalimu, a ostali narod meta ždrijeb da uzmu jednoga od deset da sjedi u Jerusalimu svetom gradu, a ostalijeh devet dijelova po drugim gradovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I blagoslovi narod sve ljude koji sami od svoje volje pristaše da sjede u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ovo su glavari zemaljski koji se naseliše u Jerusalimu, a po ostalijem gradovima Judejskim nastaniše se svaki na svojem našljedstvu po gradovima svojim Izrailjci, sveštenici i Leviti, Netineji i sinovi sluga Solomunovijeh:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "U Jerusalimu dakle naseliše se neki od sinova Judinijeh i Venijaminovijeh: od sinova Judinijeh: Ataja sin Ozije, sina Zaharije, sina Amarije, sina Sefatije, sina Maleleilova, od sinova Faresovijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I Masija sin Varuha sina Holoze sina Azaje, sina Adaje, sina Jojariva, sina Zaharije, sina Silonijeva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Svega sinova Faresovijeh što se naseliše u Jerusalimu, èetiri stotine i šezdeset i osam hrabrijeh ljudi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A izmeðu sinova Venijaminovijeh: Saluj sin Mesulama, sina Joada, sina Fedaje, sina Kolaje, sina Masije, sina Itila, sina Isaijina,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I za njim Gavaj, Salaj, devet stotina i dvadeset i osam;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Joilo sin Zihrijev bješe nad njima, a Juda sin Senujin bješe drugi nad gradom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Od sveštenika: Jedaja sin Jojarivov, Jahin,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Seraja sin Helkije, sina Mesulama, sina Sadoka, sina Merajota, sina Ahitovova, starješina u domu Božijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A braæe njihove što služahu u domu osam stotina i dvadeset i dva; i Adaja sin Jeroama, sina Felalije, sina Amsija, sina Zaharije, sina Pashora, sina Malhijina,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I braæe njegove glavara u domovima otaèkim dvjesta i èetrdeset i dva; i Amasaj sin Azareila, sina Azaja, sina Mesilemota, sina Imirova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I braæe njihove hrabrijeh ljudi sto i dvadeset i osam, a nad njima bješe Zavdilo sin Gedolimov;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I od Levita: Semaja sin Asuva sina Azrikama, sina Asavije, sina Vunijeva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I Savetaj, i Jozavad bijahu nad poslom spoljašnjim za dom Božji izmeðu glavara Levitskih,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A Matanija sin Mihe sina Zavdija sina Asafova bijaše poglavar koji poèinjaše hvale u molitvi, i Vakvukija drugi izmeðu braæe svoje, i Avda sin Salije sina Galala sina Jedutunova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Svega Levita u svetom gradu bješe dvije stotine i osamdeset i èetiri;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A od vratara: Akuv, Talmon, i braæe njihove što èuvahu stražu na vratima, sto i sedamdeset i dva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A ostatak naroda Izrailjeva, sveštenika i Levita bješe po svijem gradovima Judinijem, svak na svom našljedstvu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A Netineji naseliše se u Ofilu, i Siha i Gispa bjehu nad Netinejima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A nad Levitima u Jerusalimu bješe Ozije sin Vanija, sina Asavije, sina Matanije, sina Mišina. Izmeðu sinova Asafovijeh pjevaèi bijahu u službi za dom Božji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer bješe careva zapovijest za njih i bješe odreðena plata pjevaèima za svaki dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I Petaja sin Mesizaveilov od sinova Zare sina Judina bješe mjesto cara za svaki posao s narodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A po selima i poljima njihovijem neki od sinova Judinijeh nastaniše se u Kirijat-Arvi i zaseocima njezinijem, i u Divonu i zaseocima njegovijem, i u Jekavseilu i selima njegovijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I u Jesuji i Moladi i Vet-Feletu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I u Asar-Sualu i Virsaveji i zaseocima njezinijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I u Siklagu i u Mekoni i zaseocima njezinijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I u En-Rimonu i u Sareji i u Jarmutu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "U Zanoji, u Odolamu i selima njihovijem, u Lahisu s poljem njegovijem, u Azici i zaseocima njezinijem. I tako se naseliše od Virsaveje do doline Enoma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A sinovi Venijaminovi naseliše se od Gavaje u Mihmasu i Aji i Vetilju i zaseocima njegovijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "U Anatotu, u Novu, u Ananiji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "U Asoru, u Rami, u Gitajimu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "U Adidu, u Sevojimu, u Nevalatu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "U Lodu, u Ononu, i u dolini drvodjeljskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A Leviti podijeliše se meðu Judom i Venijaminom."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NEH/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NEH",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NEH/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NEH",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NEH/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NEH",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 36
+}

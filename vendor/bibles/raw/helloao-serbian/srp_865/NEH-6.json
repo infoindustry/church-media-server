@@ -1,0 +1,209 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NEH",
+    "translationId": "srp_865",
+    "name": "Nehemija",
+    "commonName": "Nehemija",
+    "title": "Nehemija",
+    "order": 16,
+    "numberOfChapters": 13,
+    "sha256": "b3e002d188e97ff8412d809ae23924019a35a6f9ea4afc2d33f820ac54e43f1c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NEH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NEH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 13,
+    "lastChapterApiLink": "/api/srp_865/NEH/13.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NEH",
+      "chapter": 13
+    },
+    "totalNumberOfVerses": 406
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad èu Sanavalat i Tovija i Gisem Arapin i ostali naši neprijatelji da sam sazidao zid i da nije ostalo u njemu ništa provaljeno, a do tada još ne bijah namjestio krila na vrata,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Posla Sanavalat i Gisem k meni i poruèi: hodi da se sastanemo u kom selu u polju Ononskom. A oni mišljahu zlo po me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I poslah k njima glasnike i poruèih: u poslu sam velikom, zato ne mogu doæi. Jer bi stao posao kad bih ga ostavio da doðem k vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I slaše tako k meni èetiri puta; i ja im onako odgovorih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tada Sanavalat posla k meni tako peti put slugu svojega s knjigom otvorenom u ruci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A u njoj pisaše: èuje se po narodima i Gasmuj kaže da se ti i Judejci mislite odmetnuti, zato zidaš zid, i hoæeš da im budeš car, kako se govori,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I da si postavio proroke da razglašuju za tebe u Jerusalimu i govore: car je u Judeji. A to æe doæi do cara; nego hodi da se dogovorimo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tada poslah k njemu i poruèih: nije tako kako ti kažeš; nego si sam izmislio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer oni svi šæahu nas uplašiti govoreæi: klonuæe ruke njihove od posla i neæe se svršiti. Zato, Bože, ukrijepi ruke moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jošte otidoh u kuæu Semaji sinu Dalaje sina Metaveilova, koji se bješe zatvorio, i reèe mi: da otidemo zajedno u dom Božji usred crkve i da zakljuèamo vrata crkvi, jer æe doæi da te ubiju, doæi æe noæu da te ubiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A ja rekoh: zar æe èovjek kakav sam ja bježati? ili ko bi ovaki kakav sam ja ušao u crkvu da ostane u životu? neæu iæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I razumjeh da ga nije Bog poslao, nego to proroštvo kaza za me, jer ga Tovija i Sanavalat potkupiše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zato bješe potkupljen da me uplaši da onako uèinim i zgriješim da bih se osramotio da me mogu ružiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Pomeni, Bože moj, Toviju i Sanavalata po ovijem djelima njihovijem, i Noadiju proroèicu i druge proroke koji me šæahu uplašiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I tako dovrši se zid dvadeset petoga dana mjeseca Elula za pedeset i dva dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I kad èuše svi neprijatelji naši i vidješe svi narodi koji bijahu oko nas, uplašiše se vrlo, jer poznaše da je Bog naš uèinio to djelo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I u one dane mnogi glavari Judejski slahu knjige Toviji, i od Tovije njima dolažahu knjige."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer mnogi Judejci bijahu mu se zakleli; jer bješe zet Sehaniji sinu Arahovu, i Joanan sin njegov bješe oženjen kæerju Mesulama sina Varahijina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I govorahu preda mnom dobro o njemu, i rijeèi moje dokazivahu mu; i Tovija slaše knjige da me uplaši."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NEH/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NEH",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NEH/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NEH",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NEH/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NEH",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 19
+}

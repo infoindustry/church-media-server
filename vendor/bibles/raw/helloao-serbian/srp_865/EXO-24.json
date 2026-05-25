@@ -1,0 +1,202 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 24,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I reèe Mojsiju: izaði gore ka Gospodu ti i Aron i Nadav i Avijud i sedamdeset starješina Izrailjevih, i poklonite se izdaleka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I Mojsije sam neka pristupi ka Gospodu, a oni neka ne pristupe; i narod neka ne ide na gore s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I doðe Mojsije, i kaza narodu sve rijeèi Gospodnje i sve zakone. I odgovori narod jednijem glasom i rekoše: èiniæemo sve što je rekao Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I napisa Mojsije sve rijeèi Gospodnje, i ustavši rano naèini oltar pod gorom i dvanaest stupova za dvanaest plemena Izrailjevih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I posla mladiæe izmeðu sinova Izrailjevih, koji prinesoše žrtve paljenice i prinesoše teoce na žrtve zahvalne Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I uzevši Mojsije polovinu krvi, metnu u zdjele, a polovinu krvi izli na oltar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I uze knjigu zavjetnu i proèita narodu. A oni rekoše: što je god rekao Gospod èiniæemo i slušaæemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A Mojsije uze krv, i pokropi njom narod, i reèe: evo krv zavjeta, koji uèini Gospod s vama za sve rijeèi ove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Potom otide gore Mojsije i Aron, Nadav i Avijud, i sedamdeset starješina Izrailjevih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I vidješe Boga Izrailjeva, i pod nogama njegovijem kao djelo od kamena safira i kao nebo kad je vedro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I ne pruži ruke svoje na izabrane izmeðu sinova Izrailjevih, nego vidješe Boga, pa jedoše i piše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I reèe Gospod Mojsiju: popni se k meni na goru, i ostani ovdje, i daæu ti ploèe od kamena, zakon i zapovijesti, koje sam napisao, da ih uèiš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada usta Mojsije s Isusom, koji ga služaše, i izaðe Mojsije na goru Božiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A starješinama reèe: sjedite tu dok se vratimo k vama; a eto Aron i Or s vama; ko bi imao što, neka ide k njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I otide Mojsije na goru, a oblak pokri goru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I bijaše slava Gospodnja na gori Sinajskoj, i oblak je pokrivaše šest dana; a u sedmi dan viknu Mojsija ispred oblaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I slava Gospodnja bješe po viðenju kao oganj koji sažiže na vrh gore pred sinovima Izrailjevim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I Mojsije uðe usred oblaka, i pope se na goru; i osta Mojsije na gori èetrdeset dana i èetrdeset noæi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/24.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 24
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/25.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 25
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/23.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 23
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

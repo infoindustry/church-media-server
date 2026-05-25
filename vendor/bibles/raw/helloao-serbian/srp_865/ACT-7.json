@@ -1,0 +1,496 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A poglavar sveštenièki reèe: je li dakle tako?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A on reèe: ljudi braæo i oci! poslušajte. Bog slave javi se ocu našemu Avraamu kad bješe u Mesopotamiji, prije nego se doseli u Haran,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reèe mu: iziði iz zemlje svoje i od roda svojega i iz doma oca svojega, i doði u zemlju koju æu ti ja pokazati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tada iziðe iz zemlje Haldejske, i doseli se u Haran; i odande, po smrti oca njegova, preseli ga u ovu zemlju u kojoj vi sad živite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I ne dade mu našljedstva u njoj ni stope; i obreèe mu je dati u držanje i sjemenu njegovu poslije njega, dok on još nemaše djeteta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ali Bog reèe ovako: sjeme tvoje biæe došljaci u zemlji tuðoj, i natjeraæe ga da služi, i muèiæe ga èetiri stotine godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I narodu kome æe služiti ja æu suditi, reèe Bog; i potom æe iziæi, i služiæe meni na ovome mjestu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I dade mu zavjet obrezanja, i tako rodi Isaka, i obreza ga u osmi dan; i Isak Jakova, i Jakov dvanaest starješina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I starješine zaviðahu Josifu, i prodadoše ga u Misir; i Bog bješe s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I izbavi ga od sviju njegovijeh nevolja, i dade mu milost i premudrost pred Faraonom carem Misirskijem, i postavi ga poglavarom nad Misirom i nad svijem domom svojijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A doðe glad na svu zemlju Misirsku i Hanaansku i nevolja velika, i ne nalažahu hrane oci naši."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A Jakov èuvši da ima pšenice u Misiru posla najprije oce naše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I kad doðoše drugi put, poznaše Josifa braæa njegova, i rod Josifov posta poznat Faraonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Josif posla i dozva oca svojega Jakova i svu rodbinu svoju, sedamdeset i pet duša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I Jakov siðe u Misir, i umrije, on i ocevi naši."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I prenesoše ih u Sihem, i metnuše u grob koji kupi Avraam za novce od sinova Emorovijeh u Sihemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I kad se približi vrijeme obeæanja za koje se Bog zakle Avraamu, narod se narodi i umnoži u Misiru,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Dok nasta drugi car u Misiru, koji ne znaše Josifa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ovaj namisli zlo za naš rod, izmuèi oce naše da svoju djecu bacahu da ne žive."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "U to se vrijeme rodi Mojsije, i bješe Bogu ugodan, i bi tri mjeseca hranjen u kuæi oca svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A kad ga izbaciše, uze ga kæi Faraonova, i odgaji ga sebi za sina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I nauèi se Mojsije svoj premudrosti Misirskoj, i bješe silan u rijeèima i u djelima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A kad mu se navršivaše èetrdeset godina, doðe mu na um da obiðe braæu svoju, sinove Izrailjeve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I vidjevši jednome gdje se èini nepravda, pomože, i pokaja onoga što mu se èinjaše nepravda, i ubi Misirca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Mišljaše pak da braæa njegova razumiju da Bog njegovom rukom njima spasenije dade: ali oni ne razumješe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A sjutradan doðe meðu takove koji se bijahu svadili, i miraše ih govoreæi: ljudi, vi ste braæa, zašto èinite nepravdu jedan drugome?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A onaj što èinjaše nepravdu bližnjemu oturi ga govoreæi: ko je tebe postavio knezom i sudijom nad nama?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ili i mene hoæeš da ubiješ kao što si juèe ubio Misirca?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A Mojsije pobježe od ove rijeèi, i posta došljak u zemlji Madijamskoj, gdje rodi dva sina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I kad se navrši èetrdeset godina, javi mu se u pustinji gore Sinajske anðeo Gospodnji u plamenu ognjenom u kupini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A kad Mojsije vidje, divljaše se utvari. A kad on pristupi da vidi, bi glas Gospodnji k njemu:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ja sam Bog otaca tvojijeh, Bog Avraamov i Bog Isakov i Bog Jakovljev. A Mojsije se bješe uzdrktao i ne smijaše da pogleda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A Gospod mu reèe: izuj obuæu sa svojijeh nogu: jer je mjesto na kome stojiš sveta zemlja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ja dobro vidjeh muku svojega naroda koji je u Misiru, i èuh njihovo uzdisanje, i siðoh da ih izbavim: i sad hodi da te pošljem u Misir."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ovoga Mojsija, kojega oturiše rekavši: ko te postavi knezom i sudijom? ovoga Bog za kneza i izbavitelja posla rukom anðela koji mu se javi u kupini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ovaj ih izvede uèinivši èudesa i znake u zemlji Misirskoj i u Crvenom Moru i u pustinji èetrdeset godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Ovo je Mojsije koji kaza sinovima Izrailjevijem: Gospod Bog vaš podignuæe vam proroka iz vaše braæe, kao mene: njega poslušajte."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Ovo je onaj što bješe u crkvi u pustinji s anðelom, koji mu govori na gori Sinajskoj, i s ocima našijem; koji primi rijeèi žive da ih nama da;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Kojega ne htješe poslušati oci naši, nego ga odbaciše, i okrenuše se srcem svojijem u Misir,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Rekavši Aronu: naèini nam bogove koji æe iæi pred nama, jer ovome Mojsiju, koji nas izvede iz zemlje Misirske, ne znamo šta bi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I tada naèiniše tele, i prinesoše žrtvu idolu, i radovahu se rukotvorini svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A Bog se okrenu od njih, i predade ih da služe vojnicima nebeskijem, kao što je pisano u knjizi proroka: eda zaklanja i žrtve prinesoste mi za èetrdeset godina u pustinji, dome Izrailjev?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I primiste èador Molohov, i zvijezdu boga svojega Remfana, kipove koje naèiniste da im se molite; i preseliæu vas dalje od Vavilona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Ocevi naši imahu èador svjedoèanstva u pustinji, kao što zapovjedi onaj koji govori Mojsiju da ga naèini po onoj prilici kao što ga vidje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Koji i primiše ocevi naši i donesoše s Isusom Navinom u zemlju neznabožaca, koje oturi Bog ispred lica našijeh otaca, tja do Davida,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Koji naðe milost u Boga, i izmoli da naðe mjesto Bogu Jakovljevu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "A Solomun mu naèini kuæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Ali najviši ne živi u rukotvorenijem crkvama, kao što govori prorok:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Nebo je meni prijestol a zemlja podnožje nogama mojima: kako æete mi kuæu sazidati? govori Gospod; ili koje je mjesto za moje poèivanje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Ne stvori li ruka moja sve ovo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Tvrdovrati i neobrezanijeh srca i ušiju! vi se jednako protivite Duhu svetome; kako vaši oci, tako i vi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Kojega od proroka ne protjeraše oci vaši? I pobiše one koji naprijed javiše za dolazak pravednika, kojega vi sad izdajnici i krvnici postadoste;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Koji primiste zakon naredbom anðelskom, i ne održaste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "Kad ovo èuše, rasrdiše se vrlo u srcima svojima, i škrgutahu zubima na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "A Stefan buduæi pun Duha svetoga pogleda na nebo i vidje slavu Božiju i Isusa gdje stoji s desne strane Bogu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "I reèe: evo vidim nebesa otvorena i sina èovjeèijega gdje stoji s desne strane Bogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "A oni povikavši iza glasa zatiskivahu uši svoje, i navališe jednodušno na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "I izvedavši ga iz grada stadoše ga zasipati kamenjem, i svjedoci haljine svoje metnuše kod nogu mladiæa po imenu Savla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 59,
+        "content": [
+          "I zasipahu kamenjem Stefana, koji se moljaše Bogu i govoraše: Gospode Isuse! primi duh moj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 60,
+        "content": [
+          "Onda kleèe na koljena i povika iza glasa: Gospode! ne primi im ovo za grijeh. I ovo rekavši umrije."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 60
+}

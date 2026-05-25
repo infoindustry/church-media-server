@@ -1,0 +1,146 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOS",
+    "translationId": "srp_865",
+    "name": "Isus Navin",
+    "commonName": "Isus Navin",
+    "title": "Isus Navin",
+    "order": 6,
+    "numberOfChapters": 24,
+    "sha256": "ec9d0a794c17ba6296451b87fb16a4d34d8af2bfd446293b00f97a3bbb7257b2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOS/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/JOS/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 658
+  },
+  "chapter": {
+    "number": 16,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I dopade dio sinovima Josifovijem od Jordana kod Jerihona, od vode Jerihonske k istoku, na pustinju koja ide od Jerihona na goru Vetiljsku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A od Vetilja ide na Luz i dolazi do meðe Arhijske do Atarota,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Potom ide na zapad do meðe Jafletske pa do meðe donjega Vet-Orona i do Gezera, i izlazi na more."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tako dobiše našljedstvo sinovi Josifovi, Manasija i Jefrem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A bješe meða sinovima Jefremovijem po porodicama njihovijem, bješe meða našljedstva njihova k istoku Atarot-Adar do gornjega Vet-Orona,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I izlazi meða na more kod Mihmete sa sjeverne strane, pa se obræe meða k istoku do Tanat-Silona, i prolazi s istoka do Janohe,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Potom slazi od Janohe do Atarota i Narata, i došavši do Jerihona udara u Jordan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Od Tafuje ide meða k istoku do potoka Kane i izlazi na more. To je našljedstvo plemena sinova Jefremovijeh po porodicama njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A gradovi bijahu odvojeni sinovima Jefremovijem u našljedstvu sinova Manasijinih, svi gradovi sa selima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A ne izagnaše Hananejina koji življaše u Gezeru; zato ostaše Hananeji meðu sinovima Jefremovijem do danas plaæajuæi danak."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOS/16.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 16
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOS/17.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 17
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOS/15.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 15
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 10
+}

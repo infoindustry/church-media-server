@@ -1,0 +1,412 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A u Æesariji bješe jedan èovjek po imenu Kornilije, kapetan od èete koja se zvaše Talijanska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Pobožan i bogobojazan sa cijelijem domom svojijem, koji davaše milostinju mnogijem ljudima i moljaše se Bogu bez prestanka;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "On vidje na javi u utvari oko devetoga sahata dnevi anðela Božijega gdje siðe k njemu i reèe mu: Kornilije!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A on pogledavši na nj i uplašivši se reèe: što je Gospode? A on mu reèe: molitve tvoje i milostinje iziðoše na pamet Bogu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I sad pošlji u Jopu ljude i dozovi Simona prozvanoga Petra:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "On stoji u nekoga Simona kožara, kojega je kuæa kod mora: on æe ti kazati rijeèi kojima æeš se spasti ti i sav dom tvoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I kad otide anðeo koji govori Korniliju, dozvavši dvojicu od svojijeh slugu i jednoga pobožna vojnika od onijeh koji mu služahu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I kazavši im sve posla ih u Jopu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A sjutradan kad oni iðahu putem i približiše se ka gradu, iziðe Petar u gornju sobu da se pomoli Bogu u šesti sahat."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I ogladnje, i šæaše da jede; a kad mu oni gotovljahu, doðe izvan sebe,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I vidje nebo otvoreno i sud nekakav gdje silazi na njega, kao veliko platno, zavezan na èetiri roglja i spušta se na zemlju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "U kome bijahu sva èetvoronožna na zemlji, i zvjerinje i bubine i ptice nebeske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I postade glas k njemu: ustani, Petre! pokolji i pojedi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Petar reèe: nipošto, Gospode! jer nikad ne jedoh što pogano ili neèisto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I gle, glas opet k njemu drugom: što je Bog oèistio ti ne pogani."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I ovo bi triput, i sud se opet uze na nebo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A kad se Petar u sebi divljaše šta bi bila utvara koju vidje, i gle, ljudi poslani od Kornilija, napitavši i našavši dom Simonov stadoše pred vratima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I zovnuvši pitahu: stoji li ovdje Simon prozvani Petar?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A dok Petar razmišljavaše o utvari, reèe mu Duh: evo tri èovjeka traže te;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Nego ustani i siði i idi s njima ne premišljajuæi ništa, jer ih ja poslah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A Petar sišavši k ljudima poslanijem k sebi od Kornilija reèe: evo ja sam koga tražite; što ste došli?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A oni rekoše: Kornilije kapetan, èovjek pravedan i bogobojazan, poznat kod svega naroda Jevrejskoga, primio je zapovijest od anðela svetoga da dozove tebe u svoj dom i da èuje rijeèi od tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Onda ih dozva unutra i ugosti. A sjutradan ustavši Petar poðe s njima, i neki od braæe koja bješe u Jopi poðoše s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I sjutradan uðoše u Æesariju. A Kornilije èekaše ih sazvavši rodbinu svoju i ljubazne prijatelje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A kad Petar šæaše da uðe, srete ga Kornilije, i padnuvši na noge njegove pokloni se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I Petar ga podiže govoreæi: ustani, i ja sam èovjek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I s njim govoreæi uðe, i naðe mnoge koji se bijahu sabrali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I reèe im: vi znate kako je neprilièno èovjeku Jevrejinu družiti se ili dolaziti k tuðinu; ali Bog meni pokaza da nijednoga èovjeka ne zovem pogana ili neèista;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Zato i bez sumnje doðoh pozvan. Pitam vas dakle zašto poslaste po mene?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I Kornilije reèe: od èetvrtoga dana do ovoga èasa ja postih, i u deveti sahat moljah se Bogu u svojoj kuæi; i gle, èovjek stade preda mnom u haljini sjajnoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I reèe: Kornilije! uslišena bi molitva tvoja i milostinje tvoje pomenuše se pred Bogom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Pošlji dakle u Jopu i dozovi Simona koji se zove Petar: on stoji u kuæi Simona kožara kod mora, koji kad doðe kazaæe ti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Onda ja odmah poslah k tebi; i ti si dobro uèinio što si došao. Sad dakle mi svi stojimo pred Bogom da èujemo sve što je tebi od Boga zapovjeðeno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A Petar otvorivši usta reèe: zaista vidim da Bog ne gleda ko je ko;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Nego u svakom narodu koji se boji njega i tvori pravdu mio je njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Rijeè što posla sinovima Izrailjevijem, javljajuæi mir po Isusu Hristu, ona je Gospod svima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Vi znate govor koji je bio po svoj Judeji poèevši od Galileje po krštenju koje propovijeda Jovan:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Isusa iz Nazareta kako ga pomaza Bog Duhom svetijem i silom, koji proðe èineæi dobro i iscjeljujuæi sve koje ðavo bješe nadvladao; jer Bog bijaše s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I mi smo svjedoci svemu što uèini u zemlji Judejskoj i Jerusalimu; kojega i ubiše objesivši na drvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Ovoga Bog vaskrse treæi dan, i dade mu da se pokaže,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Ne svemu narodu nego nama svjedocima naprijed izbranima od Boga, koji s njim jedosmo i pismo po vaskrseniju njegovom iz mrtvijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I zapovjedi nam da propovijedamo narodu i da svjedoèimo da je on nareèeni od Boga sudija živijem i mrtvijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Za ovo svjedoèe svi proroci da æe imenom njegovijem primiti oproštenje grijeha svi koji ga vjeruju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "A dok još Petar govoraše ove rijeèi, siðe Duh sveti na sve koji slušahu rijeè."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "I udiviše se vjerni iz obrezanja koji bijahu došli s Petrom, videæi da se i na neznabošce izli dar Duha svetoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Jer ih slušahu gdje govorahu jezike, i velièahu Boga. Tada odgovori Petar:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Eda može ko vodu zabraniti da se ne krste oni koji primiše Duha svetoga kao i mi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "I zapovjedi im da se krste u ime Isusa Hrista. Tada ga moliše da ostane kod njih nekoliko dana."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/10.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 10
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/11.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 11
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/9.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 9
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 48
+}

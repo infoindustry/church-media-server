@@ -1,0 +1,153 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "REV",
+    "translationId": "srp_865",
+    "name": "Apokalipsa",
+    "commonName": "Apokalipsa",
+    "title": "Otkrivenje Jovanovo — Apokalipsa",
+    "order": 66,
+    "numberOfChapters": 22,
+    "sha256": "03ca27b48572b751a11a8d2525edcfa3d35a43f752bf5506e16685bb264b5230",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/REV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 22,
+    "lastChapterApiLink": "/api/srp_865/REV/22.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 22
+    },
+    "totalNumberOfVerses": 404
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I vidjeh drugoga anðela jaka gdje silazi s neba, koji bješe obuèen u oblak, i duga bješe na glavi njegovoj, i lice njegovo bješe kao sunce, i noge njegove kao stubovi ognjeni;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I imaše u ruci svojoj knjižicu otvorenu, i metnu nogu svoju desnu na more, a lijevu na zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I povika glasom velikijem, kao lav kad rièe; i kad on povika, govoriše sedam gromova glasove svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I kad govoriše sedam gromova glasove svoje, šæadijah da pišem; i èuh glas s neba koji mi govori: zapeèati šta govoriše sedam gromova, i ovo ne piši."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I anðeo kojega vidjeh gdje stoji na moru i na zemlji, podiže ruku svoju k nebu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I zakle se onijem koji živi va vijek vijeka, koji sazda nebo i što je na njemu, i zemlju i što je na njoj, i more i što je u njemu, da vremena veæ neæe biti;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nego u dane glasa sedmoga anðela, kad zatrubi, onda æe se svršiti tajna Božija, kao što javi svojijem slugama prorocima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I glas koji èuh s neba, opet progovori sa mnom i reèe: idi i uzmi knjižicu otvorenu iz ruke onoga anðela što stoji na moru i na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I otidoh k anðelu, i rekoh mu: daj mi knjižicu. I reèe mi: uzmi i izjedi je; i grka æe biti u trbuhu tvojemu, ali u ustima biæe ti slatka kao med."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I uzeh knjižicu iz ruke anðelove, i izjedoh je; i bješe u ustima mojima kao med slatka, a kad je izjedoh, bijaše grka u trbuhu mojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I reèe mi: valja ti opet prorokovati narodima i plemenima i jezicima i carevima mnogima."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/REV/10.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 10
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/REV/11.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 11
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/REV/9.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 9
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 11
+}

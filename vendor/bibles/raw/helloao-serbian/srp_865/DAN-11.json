@@ -1,0 +1,391 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DAN",
+    "translationId": "srp_865",
+    "name": "Danilo",
+    "commonName": "Danilo",
+    "title": "Danilo",
+    "order": 27,
+    "numberOfChapters": 12,
+    "sha256": "a7cfcf76b959e48ff3096b5f1336feefdd92c2ade2010b0cbd670ebbe8f652f0",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DAN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DAN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 12,
+    "lastChapterApiLink": "/api/srp_865/DAN/12.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DAN",
+      "chapter": 12
+    },
+    "totalNumberOfVerses": 357
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I ja prve godine Darija Midijanina stadoh da mu pomožem, i da ga potkrijepim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A sada æu ti kazati istinu. Evo, još æe tri cara nastati u Persiji; i èetvrti æe biti bogatiji od svijeh, i kad se ukrijepi bogatstvom svojim, sve æe podignuti na Grèko carstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Potom æe nastati silan car, i vladaæe velikom državom i radiæe što hoæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A kako nestane, rasuæe se carstvo njegovo i razdijeliæe se u èetiri vjetra nebeska, ne meðu natražje njegovo niti s vlašæu s kojom je on vladao, jer æe se carstvo njegovo ukinuti i dopasti drugima a ne njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I car južni osiliæe, i jedan od knezova njegovijeh, i biæe silniji od njega, i vladaæe, i država æe njegova biti velika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I poslije nekoliko godina oni æe se oprijateljiti, i kæi južnoga cara doæi æe k caru sjevernom da uèini pogodbu; ali ona neæe saèuvati sile mišici, niti æe se on održati s mišicom svojom, nego æe biti predana i ona i oni koji je dovedu i sin njezin i onaj koji joj bude pomagao u to vrijeme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Potom æe od izdanka iz korijena njezina nastati jedan na mjesto njegovo, koji æe doæi s vojskom svojom i udariti na gradove cara sjevernoga, i biæe ih i osvojiæe ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I bogove æe njihove i knezove njihove sa zakladima njihovijem dragocjenijem zlatnijem i srebrnijem odnijeti u ropstvo u Misir, i ostaæe nekoliko godina jaèi od cara sjevernoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I tako æe car južni doæi u svoje carstvo, i vratiæe se u svoju zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ali æe sinovi njegovi zaratiti, i skupiæe veliku vojsku; i jedan æe doæi iznenada, i poplaviti i proæi; i vrativši se ratovaæe do grada njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tada æe se razljutiti car južni, i izaæi æe i ratovaæe s njim, s carem sjevernijem, i podignuæe veliku vojsku, te æe mu biti data u ruke vojska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I kad razbije vojsku, ponijeæe se srce njegovo, i pobiæe tisuæe, ali se neæe ukrijepiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer æe car sjeverni opet dignuti vojsku veæu od prve; i poslije nekoliko godina doæi æe s velikom vojskom i s velikim blagom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I u to æe vrijeme mnogi ustati na cara južnoga; i zlikovci od tvojega naroda podignuæe se da se potvrdi utvara, i popadaæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I doæi æe car sjeverni, i naèiniæe opkope, i uzeæe tvrde gradove, i mišice južnoga cara neæe odoljeti ni izabrani narod njegov, niti æe biti sile da se opre."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I onaj došav na nj èiniæe što hoæe, i neæe biti nikoga da mu se opre; i ustaviæe se u krasnoj zemlji, koju æe potrti svojom rukom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Potom æe okrenuti da doðe sa silom svega carstva svojega, ali æe se pogoditi s njim, i daæe mu kæer za ženu da bi ga upropastio, ali se ona neæe držati, niti æe biti s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Potom æe se okrenuti na ostrva, i osvojiæe mnoga; ali æe jedan vojvoda prekinuti sramotu koju èini, i oboriæe na nj sramotu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Potom æe se okrenuti ka gradovima svoje zemlje, i spotaknuæe se i pašæe, i neæe se više naæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I na njegovo æe mjesto nastati koji æe poslati nastojnika u slavi carskoj; ali æe za malo dana poginuti bez gnjeva i bez boja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A na njegovo æe mjesto doæi neznatan èovjek, kome nije namijenjena èast carska; ali æe doæi mirno i osvojiæe carstvo laskanjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I mišice koje plave on æe poplaviti i polomiti, pa i kneza s kojim je uèinio vjeru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer udruživši se s njim uèiniæe prijevaru, i došavši nadvladaæe s malo naroda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I doæi æe mirno u rodna mjesta u zemlji, i uèiniæe što ni ocevi njegovi ni ocevi otaca njegovijeh ne uèiniše, razdijeliæe im plijen i grabež i blago, i smišljaæe misli na gradove, za neko vrijeme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Potom æe podignuti silu svoju i srce svoje na cara južnoga s velikom vojskom; i car æe južni doæi u boj s velikom i vrlo silnom vojskom; ali neæe odoljeti, jer æe mu se èiniti nevjera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I koji jedu hljeb njegov satræe ga; vojska æe njegova poplaviti, i mnogi æe pasti pobijeni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I srce æe obojice careva raditi o zlu, i za jednijem æe stolom lagati; ali se neæe izvršiti; jer æe kraj još biti u odreðeno vrijeme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I tako æe se vratiti u svoju zemlju s velikim blagom; i srce æe se njegovo obratiti na sveti zavjet, i kad izvrši, vratiæe se u svoju zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "U odreðeno æe vrijeme opet doæi na jug; ali drugi put neæe biti kao prvi put."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Jer æe doæi na nj laðe Kitejske, i on æe se ojaditi, te æe se vratiti; i razljutiæe se na sveti zavjet, i izvršiæe; i vrativši se složiæe se s onima koji ostavljaju sveti zavjet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I vojska æe stajati uza nj, i oskvrniæe svetinju u gradu, i ukinuti žrtvu svagdašnju i postaviæe gnusobu pustošnu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I koji su bezbožni prema zavjetu, on æe ih laskanjem otpaditi; ali narod koji poznaje Boga svojega ohrabriæe se i izvršiæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I razumni u narodu nauèiæe mnoge, i padaæe od maèa i ognja, ropstva i grabeža mnogo vremena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ali padajuæi dobiæe malu pomoæ; i mnogi æe pristati s njima dvolièeæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I od razumnijeh æe pasti neki da bi se okušali i oèistili i ubijelili do roka, jer æe još biti rok."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I taj æe car èiniti što hoæe, i podignuæe se i uzvisiæe se iznad svakoga boga, i èudno æe govoriti na Boga nad bogovima, i biæe sreæan dokle se ne svrši gnjev, jer æe se izvršiti što je odreðeno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Neæe mariti ni za bogove svojih otaca ni za ljubav žensku, niti æe za koga boga mariti, nego æe se uzvišivati nada sve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I na mjesto Boga najsilnijega slaviæe boga kojega oci njegovi ne znaše, slaviæe zlatom i srebrom i dragim kamenjem i zakladima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I uèiniæe da gradovi Boga najsilnijega budu boga tuðega; koje pozna umnožiæe im slavu i uèiniæe ih gospodarima nad mnogima i razdijeliæe zemlju mjesto plate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A u pošljednje vrijeme južni æe se car pobiti s njim; i car æe sjeverni udariti na nj kao vihor s kolima i konjicima i s mnogim laðama, i ušavši u zemlje poplaviæe i proæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I doæi æe u krasnu zemlju, i mnogi æe propasti, a ove æe se izbaviti od njegovijeh ruku: Edomska, Moavska i glavni dio sinova Amonovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I posegnuæe rukom svojom na zemlje, i zemlja Misirska neæe umaknuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I osvojiæe blago u zlatu i u srebru i sve zaklade Misirske; i Livijani i Etiopljani iæi æe za njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Ali æe ga glasovi s istoka i sa sjevera smesti, te æe izaæi s velikim gnjevom da pogubi i zatre mnoge."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "I razapeæe šatore dvora svojega meðu morima na krasnoj svetoj gori; i kad doðe k svome kraju, niko mu neæe pomoæi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DAN/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DAN/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DAN/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 45
+}

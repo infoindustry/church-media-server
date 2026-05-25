@@ -1,0 +1,181 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JDG",
+    "translationId": "srp_865",
+    "name": "Sudije",
+    "commonName": "Sudije",
+    "title": "Sudije",
+    "order": 7,
+    "numberOfChapters": 21,
+    "sha256": "b90b96d9ad07648b61c3175adb672cbdc04a1a389be225dc4596659462d0e4db",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JDG/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JDG/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 618
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A ljudi od plemena Jefremova skupiše se, i prešavši na sjever rekoše Jeftaju: zašto si išao u boj na sinove Amonove a nas nijesi pozvao da idemo s tobom? spaliæemo ognjem dom tvoj i tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A Jeftaj im reèe: imah veliku raspru sa sinovima Amonovijem ja i moj narod, i pozvah vas, ali me ne izbaviste iz ruku njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Pa videæi da me ne izbaviste, stavih dušu svoju u ruku svoju, i otidoh na sinove Amonove, i Gospod mi ih dade u ruke; pa što ste sada došli k meni da se bijete sa mnom?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tada Jeftaj skupi sve ljude od Galada, i udari na Jefrema; i ljudi od Galada pobiše Jefrema; jer govorahu: bjegunci ste Jefremovi vi, ljudi od Galada, koji se bavite meðu Jefremom i meðu Manasijom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I Galad uze Jefremu brodove Jordanske. I kad koji od Jefrema dobježe i reèe: pusti me da prijeðem, rekoše mu oni od Galada: jesi li od Jefrema? I kad on reèe: nijesam,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Onda mu rekoše: reci: Šibolet. A on reèe: Sibolet, ne moguæi dobro izgovoriti. Tada ga uhvatiše i zaklaše na brodu Jordanskom. I pogibe u ono vrijeme iz plemena Jefremova èetrdeset i dvije tisuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I Jeftaj bi sudija Izrailju šest godina; i umrije, i bi pogreben u gradu Galadskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A poslije njega bi sudija Izrailju Avesan iz Vitlejema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I imaše trideset sinova i trideset kæeri, koje razuda iz kuæe, a trideset djevojaka dovede sinovima svojim iz drugih kuæa; i bi sudija Izrailju sedam godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Potom umrije Avesan, i bi pogreben u Vitlejemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A poslije njega bi sudija Izrailju Elon od Zavulona; on bi sudija Izrailju deset godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Potom umrije Elon od Zavulona i bi pogreben u Ajalonu u zemlji Zavulonovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Poslije njega bi sudija Izrailju Avdon sin Elilov Faratonjanin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "On imaše èetrdeset sinova i trideset unuka, koji jahahu sedamdesetoro magaradi. I bi sudija Izrailju osam godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Potom umrije Avdon sin Elilov Faratonjanin, i bi pogreben u Faratonu u zemlji Jefremovoj na gori Amalièkoj."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JDG/12.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 12
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JDG/13.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 13
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JDG/11.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 11
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 15
+}

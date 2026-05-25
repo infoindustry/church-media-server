@@ -1,0 +1,181 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 19,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ovako reèe Gospod: idi i kupi krèag zemljan u lonèara s nekoliko starješina narodnijeh i starješina sveštenièkih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I otidi u dolinu sina Enomova što je pred vratima istoènijem, i ondje proglasi rijeèi koje æu ti kazati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reci: èujte rijeè Gospodnju, carevi Judini i stanovnici Jerusalimski; ovako veli Gospod nad vojskama Bog Izrailjev: evo, ja æu pustiti zlo na to mjesto da æe zujati uši svakome ko ga èuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer me ostaviše i oskvrniše ovo mjesto kadeæi na njemu drugim bogovima, kojih ne znaše ni oni ni oci njihovi, ni carevi Judini, i napuniše to mjesto krvi prave."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I pogradiše visine Valu da sažižu sinove svoje ognjem na žrtve paljenice Valu, èega ne zapovjedih niti o tom govorih, niti mi na um doðe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Zato, evo, ide vrijeme, veli Gospod, kad se ovo mjesto neæe više zvati Tofet, ni dolina sina Enomova, nego krvna dolina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer æu uništiti savjet Judin i Jerusalimski na ovom mjestu, i uèiniæu da padnu od maèa pred neprijateljima svojim i od ruke onijeh koji traže dušu njihovu, i mrtva æu tjelesa njihova dati za hranu pticama nebeskim i zvijerima zemaljskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I obratiæu taj grad u pustoš i rug: ko god proðe mimo nj, èudiæe se i zviždaæe za sve muke njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I uèiniæu da jedu meso od svojih sinova i meso od svojih kæeri, i svaki æe jesti meso od druga svojega u nevolji i tjeskobi kojom æe im dosaðivati neprijatelji njihovi i koji traže dušu njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Potom razbij krèag pred ljudima koji æe iæi s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I reci im: ovako veli Gospod nad vojskama: tako æu razbiti taj narod i taj grad kao što se razbije sud lonèarski, koji se ne može više opraviti, i u Tofetu æe se pogrebavati, jer neæe biti mjesta za pogrebavanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tako æu uèiniti tome mjestu, veli Gospod, i stanovnicima njegovijem i uèiniæu taj grad da bude kao Tofet;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I kuæe Jerusalimske i kuæe careva Judinijeh biæe neèiste kao mjesto Tofet, sve kuæe, gdje na krovovima kadiše svoj vojsci nebeskoj i ljevaše naljeve drugim bogovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Potom se vrati Jeremija iz Tofeta kuda ga bješe poslao Gospod da prorokuje, i stade u trijemu doma Gospodnjega, i reèe svemu narodu:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ovako veli Gospod nad vojskama Bog Izrailjev: evo, ja æu pustiti na taj grad i na sve gradove njegove sve zlo koje izrekoh za nj, jer otvrdnuše vratom svojim da ne slušaju rijeèi mojih."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/19.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 19
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/20.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 20
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/18.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 18
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 15
+}

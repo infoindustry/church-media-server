@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Kad ko prinosi žrtvu zahvalnu, ako od goveda prinosi, muško ili žensko neka prinese zdravo pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I neka metne ruku svoju na glavu žrtvi svojoj, i neka je sveštenik zakolje na vratima šatora od sastanka, i krvlju njezinom neka sinovi Aronovi sveštenici pokrope oltar ozgo unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Potom neka sveštenik prinese od žrtve zahvalne ono što se pali Gospodu, salo što pokriva crijeva i sve salo što je na njima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I oba bubrega i salo što je na njima i na slabinama, i mrežicu što je na jetri, neka je izvadi s bubrezima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I neka to zapale sinovi Aronovi na oltaru zajedno sa žrtvom paljenicom, koja bude na drvima na ognju. To je žrtva ognjena na ugodni miris Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ako li od sitne stoke prinosi na žrtvu zahvalnu Gospodu, muško ili žensko neka prinese zdravo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ako prinosi jagnje na žrtvu, neka ga prinese pred Gospodom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I neka metne ruku svoju na glavu žrtvi svojoj, i neka je zakolje pred šatorom od sastanka; i neka pokrope sinovi Aronovi krvlju njezinom oltar ozgo unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Potom neka sveštenik prinese od žrtve zahvalne ono što se pali Gospodu, salo, cio rep do leða, salo što pokriva crijeva i sve salo što je na crijevima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I oba bubrega i salo što je na njima i na slabinama, i mrežicu na jetri, s bubrezima neka je izvadi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I neka zapali sveštenik na oltaru; to je jelo od žrtve ognjene Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ako li prinosi kozu, neka je prinese pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I neka joj metne ruku svoju na glavu, i neka je zakolje pred šatorom od sastanka, i neka sinovi Aronovi pokrope krvlju njezinom oltar ozgo unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Potom neka sveštenik prinese od nje na žrtvu što se pali Gospodu, salo što pokriva crijeva i sve salo što je na crijevima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I oba bubrega, i salo što je na njima i na slabinama, i mrežicu na jetri, s bubrezima neka je izvadi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I neka zapali sveštenik na oltaru; to je jelo od žrtve ognjene za ugodni miris. Sve je salo Gospodnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Vjeèan zakon neka vam bude od koljena do koljena u svijem stanovima vašim: da ne jedete sala ni krvi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

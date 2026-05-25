@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 19,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Prvoga dana treæega mjeseca, pošto izaðoše sinovi Izrailjevi iz Misira, toga dana doðoše u pustinju Sinajsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Krenuvši se iz Rafidina doðoše u pustinju Sinajsku, i stadoše u oko u pustinji, a oko naèiniše Izrailjci ondje pod gorom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I Mojsije izaðe na goru k Bogu; i povika mu Gospod s gore govoreæi: ovako kaži domu Jakovljevu, i reci sinovima Izrailjevim:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Vidjeli ste šta sam uèinio Misircima i kako sam vas kao na krilima orlovijem nosio i doveo vas k sebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A sada ako dobro uzaslušate glas moj i ušèuvate zavjet moj, biæete moje blago mimo sve narode, premda je moja sva zemlja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I biæete mi carstvo sveštenièko i narod svet. To su rijeèi koje æeš kazati sinovima Izrailjevim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Mojsije doðe i sazva starješine narodne; i kaza im sve ove rijeèi koje mu Gospod zapovjedi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A sav narod odgovori složno i reèe: što je god kazao Gospod èiniæemo. I Mojsije javi Gospodu rijeèi narodne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Gospod reèe Mojsiju: evo, ja æu doæi k tebi u gustom oblaku, da narod èuje kad ti stanem govoriti i da ti vjeruje dovijeka. Jer Mojsije bješe javio Gospodu rijeèi narodne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I reèe Gospod Mojsiju: idi k narodu, i osveštaj ih danas i sjutra, i neka operu haljine svoje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I neka budu gotovi za treæi dan, jer æe u treæi dan siæi Gospod na goru Sinajsku pred svijem narodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A postaviæeš narodu meðu unaokolo, i reæi æeš: èuvajte se da ne stupite na goru i da se ne dotaknete kraja njezina; što se god dotakne gore, poginuæe;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Toga da se niko ne dotakne rukom, nego kamenjem da se zaspe ili da se ustrijeli, bilo živinèe ili èovjek, da ne ostane u životu. Kad rog zatrubi otežuæi onda neka poðu na goru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I Mojsije siðe s gore k narodu; i osvešta narod, i opraše haljine svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I reèe narodu: budite gotovi za treæi dan, i ne liježite sa ženama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A treæi dan kad bi ujutru, gromovi zagrmješe i munje zasijevaše, i posta gust oblak na gori, i zatrubi truba veoma jako, da zadrhta sav narod koji bijaše u okolu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tada Mojsije izvede narod iz okola pred Boga, i stadoše ispod gore."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A gora se Sinajska sva dimljaše, jer siðe na nju Gospod u ognju; i dim se iz nje podizaše kao dim iz peæi, i sva se gora tresijaše veoma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I truba sve jaèe trubljaše, i Mojsije govoraše a Bog mu odgovaraše glasom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I Gospod sišavši na goru Sinajsku, na vrh gore, pozva Mojsija na vrh gore; i izaðe Mojsije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A Gospod reèe Mojsiju: siði, opomeni narod da ne prestupe meðe da vide Gospoda, da ne bi izginuli od mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I sami sveštenici, koji pristupaju ka Gospodu, neka se osveštaju, da ih ne bi pobio Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A Mojsije reèe Gospodu: neæe moæi narod izaæi na goru Sinajsku, jer si nas ti opomenuo rekavši: naèini meðu gori i osveštaj je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A Gospod mu reèe: idi, siði, pa onda doði ti i Aron s tobom; a sveštenici i narod neka ne prestupe meðe da se popnu ka Gospodu, da ih ne bi pobio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I siðe Mojsije k narodu i kaza im."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/19.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 19
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/20.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 20
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/18.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 18
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

@@ -1,0 +1,181 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOS",
+    "translationId": "srp_865",
+    "name": "Isus Navin",
+    "commonName": "Isus Navin",
+    "title": "Isus Navin",
+    "order": 6,
+    "numberOfChapters": 24,
+    "sha256": "ec9d0a794c17ba6296451b87fb16a4d34d8af2bfd446293b00f97a3bbb7257b2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOS/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/JOS/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 658
+  },
+  "chapter": {
+    "number": 14,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A ovo je što dobiše našljedstvo sinovi Izrailjevi u zemlji Hananskoj, što razdijeliše u našljedstvo Eleazar sveštenik i Isus sin Navin i poglavari porodica otaèkih po plemenima sinova Izrailjevih,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ždrijebom dijeleæi im našljedstvo, kao što zapovijedi Gospod preko Mojsija, meðu devet plemena i polovinu plemena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer Mojsije dade našljedstvo dvjema plemenima i polovini plemena s ovu stranu Jordana, a Levitima ne dade našljedstva meðu njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer sinova Josifovijeh bjehu dva plemena: Manasijino i Jefremovo, i Levitima ne dadoše dijela u zemlji, osim gradova u kojima æe živjeti i podgraða njihovijeh za stoku njihovu i za blago njihovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Kako bješe zapovjedio Gospod Mojsiju, tako uèiniše sinovi Izrailjevi i podijeliše zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A sinovi Judini doðoše k Isusu u Galgalu, i reèe mu Halev sin Jefonijin Kenezej: ti znaš šta je kazao Gospod Mojsiju sluzi Božijemu za me i za te u Kadis-Varniji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Bilo mi je èetrdeset godina kad me posla Mojsije sluga Gospodnji iz Kadis-Varnije da uhodim zemlju, i javih mu stvar, kako mi je bilo u srcu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A braæa moja što idoše sa mnom uplašiše srce narodu; ali se ja jednako držah Gospoda Boga svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I zakle se Mojsije onaj dan govoreæi: zaista zemlja po kojoj si hodio nogama svojima, dopašæe tebi u našljedstvo i sinovima tvojim dovijeka; jer si se sasvijem držao Gospoda Boga mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A sada, eto, saèuva me Gospod u životu, kao što je rekao; ima veæ èetrdeset i pet godina kako to reèe Gospod Mojsiju, kad Izrailj iðaše po pustinji; i sad, eto, ima mi danas osamdeset i pet godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I danas sam jošte krjepak, kao što sam bio kad me je Mojsije slao; krjepost mi je i sad onaka kaka je bila onda za boj i da odlazim i dolazim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zato daj mi sada ovu goru, za koju je govorio Gospod u onaj dan; jer si èuo u onaj dan da su ondje Enakimi i gradovi veliki i tvrdi; da ako bude Gospod sa mnom, te ih istjeram, kao što je Gospod kazao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I Isus ga blagoslovi, i dade Hevron Halevu sinu Jefonijinu u našljedstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Zato pripade Hevron Halevu sinu Jefonijinu Kenezeju u našljedstvo do današnjega dana, jer se jednako držao Gospoda Boga Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A ime Hevronu bijaše preðe Kirijat-Arva, a Arva bijaše velik èovjek meðu Enakimima. I zemlja poèinu od rata."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOS/14.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 14
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOS/15.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 15
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOS/13.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 13
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 15
+}

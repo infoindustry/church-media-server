@@ -1,0 +1,454 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "srp_865",
+    "name": "1. Dnevnika",
+    "commonName": "1. Dnevnika",
+    "title": "1. Dnevnika",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "8ea0acc08b93472f39af29d769974347b255ab628ab40782b4687010563cbf90",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 29,
+    "lastChapterApiLink": "/api/srp_865/1CH/29.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 29
+    },
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Adam, Sit, Enos,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kajinan, Maleleilo, Jared,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Enoh, Matusal, Lameh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Noje, Sim, Ham i Jafet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Sinovi Jafetovi: Gomer i Magog i Madaj i Javan i Tovel i Mosoh i Tiras."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A sinovi Gomerovi: Ashenas i Rafat i Togarma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A sinovi Javanovi: Elisa i Tarsis, Kitim i Dodanim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Sinovi Hamovi: Hus i Misraim, Fut i Hanan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A sinovi Husovi: Sava i Avila i Savata i Regma i Savataka. A sinovi Regmini: Sava i Dedan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I Hus rodi Nevroda. On prvi bi silan na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Misraim rodi Ludeje i Anameje i Leaveje i Naftuheje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I Patruseje i Hasluheje, od kojih izidoše Filisteji i Kaftoreji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Hanan rodi Sidona prvenca svojega, i Heta,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I Jevuseje i Amoreje i Gergeseje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I Jeveje i Arukeje i Aseneje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I Arvadeje i Samareje i Amateje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Sinovi Simovi: Elam i Asur i Arfaksad i Lud i Aram i Uz i Ul i Geter i Meseh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A Arfaksad rodi Salu, a Sala rodi Evera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A Everu se rodiše dva sina; jednome beše ime Faleg, jer se u njegovo vrijeme razdijeli zemlja; a ime bratu njegovu Jektan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Jektan rodi Almodada i Salefa i Asarmota i Jaraha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I Adorama i Uzala i Diklu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I Evala i Avimaila i Savu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I Ofira i Evilu i Jovava: ti svi bjehu sinovi Jektanovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Sim, Arfaksad, Sala,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ever, Faleg, Ragav,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Seruh, Nahor, Tara,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Avram, to je Avraam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Sinovi Avramovi: Isak i Ismailo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ovo je pleme njihovo: prvenac Ismailov Navajot, pa Kidar i Avdeilo i Mivsam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Misma i Duma, Masa, Adad i Tema,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Jetur, Nafis i Kedma; to su sinovi Ismailovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A sinovi Heture inoèe Avramove: ona rodi Zemrana i Joksana i Madana i Madijana i Jesvoka i Suja. A sinovi Joksanovi: Sava i Dedan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A sinovi Madijanovi: Gefa i Efer i Enoh i Avida i Eldaga. Ti svi bjehu sinovi Heturini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Tako Avram rodi Isaka; a sinovi Isakovi bjehu Isav i Izrailj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Sinovi Isavovi: Elifas, Raguilo i Jeus i Jeglom i Korej."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Sinovi Elifasovi: Teman i Omar, Sofar i Gotom, Kenez i Tamna i Amalik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Sinovi Raguilovi: Nahat, Zara i Soma i Moza."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A sinovi Sirovi: Lotan i Soval i Sevegon i Ana i Dison i Eser i Disan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A sinovi Lotanovi: Horije i Emam; a sestra Lotanova Tamna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Sinovi Sovalovi: Elan i Manahat i Eval, Sefija i Onam. A sinovi Sevegonovi: Aja i Ana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Sinovi Anini: Dison, i sinovi Disonovi Amram i Asvan i Itran i Haran."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Sinovi Eserovi: Valan i Zavan i Jakan. Sinovi Disanovi: Uz i Aran."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "A ovo su carevi koji carovaše u zemlji Edomskoj prije nego se zacari car nad sinovima Izrailjevijem: Valak sin Veorov, a gradu mu bješe ime Denava."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "A kad umrije Valak, zacari se na njegovo mjesto Jovav sin Zarin od Vosore."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "A kad umrije Jovav, zacari se na njegovo mjesto Asom od zemlje Temanovske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "A kad umrije Asom, zacari se na njegovo mjesto Adad sin Varadov, koji isijeèe Madijance u polju Moavskom; a gradu mu bješe ime Getem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "A kad umrije Adad, zacari se na njegovo mjesto Samada iz Masekasa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "A kad umrije Samada, zacari se na njegovo mjesto Saul iz Rovota na rijeci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "A kad umrije Saul, zacari se na njegovo mjesto Valenon sin Ahovorov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "A kad umrije Valenon, zacari se na njegovo mjesto Adad; a grad mu se zvaše Fogor, a ženi mu bješe ime Meteveila kæi Matraide kæeri Mezovove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "A kad umrije Adad, nastaše knezovi u Edomskoj: knez Tamna, knez Alva, knez Jetet,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Knez Olivema, knez Ila, knez Finon,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Knez Kenez, knez Teman, knez Mivsar,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "Knez Magedilo, knez Iram. To bjehu knezovi Edomski."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CH/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CH/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2KI/25.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 25
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 54
+}

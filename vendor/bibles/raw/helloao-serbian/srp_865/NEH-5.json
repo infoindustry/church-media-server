@@ -1,0 +1,209 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NEH",
+    "translationId": "srp_865",
+    "name": "Nehemija",
+    "commonName": "Nehemija",
+    "title": "Nehemija",
+    "order": 16,
+    "numberOfChapters": 13,
+    "sha256": "b3e002d188e97ff8412d809ae23924019a35a6f9ea4afc2d33f820ac54e43f1c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NEH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NEH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 13,
+    "lastChapterApiLink": "/api/srp_865/NEH/13.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NEH",
+      "chapter": 13
+    },
+    "totalNumberOfVerses": 406
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I stade velika vika ljudi i žena na braæu njihovu Judejce."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer neki govorahu: nas i sinova naših i kæeri naših ima mnogo; da dobavimo žita da jedemo i ostanemo živi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Drugi opet govorahu: da založimo polja svoja i vinograde i kuæe da dobijemo žita u ovoj gladi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Još drugi govorahu: da uzajmimo novaca na polja svoja i vinograde za danak carski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A tijelo je naše kao tijelo braæe naše, sinovi naši kao njihovi sinovi, i eto treba da damo sinove svoje i kæeri svoje u roblje, i neke kæeri naše veæ su robinje, a mi ne možemo ništa, jer polja naša i vinograde naše drže drugi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Zato se rasrdih vrlo kad èuh viku njihovu i te rijeèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I smislih u srcu svom i ukorih knezove i poglavare, i rekoh im: vi meæete bremena svaki na brata svojega. I sazvah veliki zbor njih radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I rekoh im: mi otkupismo koliko mogosmo braæu svoju Judejce što bjehu prodani narodima; a vi li æete prodavati braæu svoju ili æe se prodavati nama? A oni umukoše i ne naðoše što bi odgovorili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I rekoh: nije dobro što radite. Ne treba li vam hoditi u strahu Boga našega da nam se ne rugaju narodi, neprijatelji naši?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I ja i braæa moja i momci moji davali smo im novaca i žita; ali oprostimo im taj dug."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Hajde vratite im danas polja njihova i vinograde i maslinike i kuæe i što im na stotinu uzimate od novca i žita i vina i ulja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A oni odgovoriše: vratiæemo i neæemo iskati od njih; uèiniæemo kako veliš. Tada sazvah sveštenike, i zakleh ih da æe tako uèiniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I istresoh njedra svoja i rekoh: ovako da istrese Bog svakoga iz kuæe njegove i iz truda njegova ko god ne ispuni ove rijeèi, i ovako da se istrese i bude prazan. I sav zbor reèe: amin. I hvališe Gospoda, i uèini narod po toj rijeèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I otkad mi car zapovjedi da im budem upravitelj u zemlji Judinoj, od godine dvadesete do trideset druge godine cara Artakserksa, dvanaest godina, ja i braæa moja ne jedosmo hrane upraviteljske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A preðašnji upravitelji koji bijahu prije mene bijahu teški narodu uzimajuæi od njega hljeba i vina osim èetrdeset sikala srebra, i sluge njihove zapovijedahu po narodu; ali ja tako ne èinih bojeæi se Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Nego i oko graðenja zida radih, i ne kupismo njive; i svi momci moji bijahu skupa ondje na poslu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I Judejaca i poglavara sto i pedeset ljudi i koji dolažahu k nama iz okolnijeh naroda bijahu za mojim stolom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I gotovljaše se svaki dan po jedno goveèe, šest ovaca izabranijeh, i ptice gotovljahu mi se, i svakih deset dana davaše se svakojakoga vina izobila. I opet ne iskah hrane upraviteljske; jer služba bješe teška narodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Pomeni me, Bože moj, na dobro za sve što sam èinio ovomu narodu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NEH/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NEH",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NEH/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NEH",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NEH/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NEH",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 19
+}

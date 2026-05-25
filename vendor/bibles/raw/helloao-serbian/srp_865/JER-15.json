@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I reèe mi Gospod: da stane Mojsije i Samuilo preda me, ne bi se duša moja obratila k tome narodu; otjeraj ih ispred mene, i neka odlaze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I ako ti reku: kuda æemo iæi? tada im reci: ovako veli Gospod: ko je za smrt, na smrt; ko je za maè, pod maè; ko za glad, na glad; ko za ropstvo, u ropstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I pustiæu na njih èetvoro, govori Gospod: maè, da ih ubija, i pse, da ih razvlaèe, i ptice nebeske i zvijeri zemaljske, da ih jedu i istrijebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I daæu ih da se potucaju po svijem carstvima zemaljskim radi Manasije sina Jezekijina cara Judina za ono što je uèinio u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer ko bi se smilovao na tebe, Jerusalime? ko li bi te požalio? ko li bi došao da zapita kako ti je?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ti si me ostavio, govori Gospod, otišao si natrag; zato æu mahnuti rukom svojom na te i pogubiæu te; dosadi mi žaliti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zato æu ih izvijati vijaèom na vratima zemaljskim, uèiniæu ih sirotima, potræu narod svoj, jer se ne vraæaju s putova svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Više æe mi biti udovica njegovijeh nego pijeska morskoga, dovešæu im na majke momaèke zatiraèe u podne, i pustiæu iznenada na njih smetnju i strahotu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Iznemoæi æe koja je rodila sedmoro i ispustiæe dušu, sunce æe joj zaæi još za dana, sramiæe se i stidjeæe se, a ostatak æu njihov dati pod maè pred neprijateljima njihovijem, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Teško meni, majko moja, što si me rodila da se sa mnom prepire i da se sa mnom svaða sva zemlja; ne davah u zajam niti mi davaše u zajam, i opet me svi proklinju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Gospod reèe: doista, ostatku æe tvojemu biti dobro, i braniæu te od neprijatelja, kad budeš u nevolji i u tjeskobi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Eda li æe gvožðe slomiti gvožðe sjeverno i mjed?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Imanje tvoje i blago tvoje daæu da se razgrabi bez cijene po svijem meðama tvojim, i to za sve grijehe tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I odvešæu te s neprijateljima tvojim u zemlju koje ne poznaješ, jer se raspalio oganj od gnjeva mojega, i gorjeæe nad vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ti znaš, Gospode, opomeni me se i pohodi me i osveti me od onijeh koji me gone; nemoj me zgrabiti dokle se ustežeš od gnjeva; znaj da podnosim rug tebe radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Kad se naðoše rijeèi tvoje, pojedoh ih, i rijeè tvoja bi mi radost i veselje srcu mojemu, jer je ime tvoje prizvano na me, Gospode Bože nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ne sjedim u vijeæu potsmjevaèkom niti se s njima veselim; sjedim sam radi ruke tvoje, jer si me napunio srdnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Zašto bol moj jednako traje? i zašto je rana moja smrtna, te neæe da se iscijeli? Hoæeš li mi biti kao varalica, kao voda nepostojana?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Zato ovako veli Gospod: ako se obratiš, ja æu te opet postaviti da stojiš preda mnom, ako odvojiš što je dragocjeno od rðavoga, biæeš kao usta moja; oni neka se obrate k tebi, a ti se ne obraæaj k njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I uèiniæu da budeš tome narodu kao jak zid mjeden, i udaraæe na te, ali te neæe nadvladati; jer sam ja s tobom da te èuvam i izbavljam, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I izbaviæu te iz ruku zlijeh ljudi, i iskupiæu te iz ruku nasilnièkih."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/15.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 15
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/16.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 16
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/14.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 14
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

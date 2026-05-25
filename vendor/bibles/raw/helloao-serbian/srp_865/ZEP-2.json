@@ -1,0 +1,181 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ZEP",
+    "translationId": "srp_865",
+    "name": "Sofonija",
+    "commonName": "Sofonija",
+    "title": "Sofonija",
+    "order": 36,
+    "numberOfChapters": 3,
+    "sha256": "9fe93641ae8656d3b18d3fa95dfd1268ff549fd1d4d4f0ea0ac5649505d05d42",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ZEP/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ZEP",
+      "chapter": 1
+    },
+    "lastChapterNumber": 3,
+    "lastChapterApiLink": "/api/srp_865/ZEP/3.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ZEP",
+      "chapter": 3
+    },
+    "totalNumberOfVerses": 53
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Saberite se, saberite se, narode nemili,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Dok nije izašao sud, i dan prošao kao pljeva, dok nije došao na vas ljuti gnjev Gospodnji, dok nije došao na vas dan gnjeva Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Tražite Gospoda svi koji ste krotki u zemlji, koji èinite što je naredio; tražite pravdu, tražite krotost, eda biste se sakrili na dan gnjeva Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer æe se Gaza ostaviti i Askalon æe opustjeti; Azot æe se odagnati u podne i Akaron æe se iskorijeniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Teško onima koji žive po bregovima morskim, narodu Heretejskom: rijeè je Gospodnja na vas, Hanane, zemljo Filistejska, ja æu te zatrti da ne bude stanovnika u tebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I bregovi æe morski biti stanovi i jame pastirske i torovi za stada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I taj æe kraj biti ostatku doma Judina; ondje æe pasti; u domovima æe Askalonskim lijegati uveèe; jer æe ih pohoditi Gospod Bog njihov i povratiti roblje njihovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Èuo sam rug Moavov i ukore sinova Amonovijeh kojima ružiše moj narod, i raširiše se preko meða njihovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Zato, tako ja bio živ, govori Gospod nad vojskama, Bog Izrailjev, Moav æe biti kao Sodom i sinovi Amonovi kao Gomor, mjesto koprivama, i slanica i vjeèna pustoš: ostatak naroda mojega oplijeniæe ih, i koji ostanu od naroda mojega naslijediæe ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "To æe im biti za ponositost njihovu; jer ružiše narod Gospoda nad vojskama i podizaše se na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Strašan æe im biti Gospod, jer æe istrijebiti sve bogove zemaljske, i njemu æe se klanjati svaki iz svojega mjesta, sva ostrva narodna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I vi, Etiopljani, biæete pobijeni maèem mojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I dignuæe ruku svoju na sjever, i zatræe Asirsku, i Nineviju æe opustiti da bude suha kao pustinja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I u njoj æe ležati stada, svakojako zvijerje izmeðu naroda, i gem i æuk noæivaæe na dovratnicima njezinijem; glasom æe pjevati na prozorima; pustoš æe biti na pragovima, jer æe se poskidati kedrovina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Taki æe biti veseli grad, koji sjedi bez brige, koji govori u srcu svom: ja sam, i osim mene nema drugoga. Kako opustje! posta loža zvijerju! Ko god proðe mimo nj zviždaæe i mahati rukom."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ZEP/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEP",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ZEP/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEP",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ZEP/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEP",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 15
+}

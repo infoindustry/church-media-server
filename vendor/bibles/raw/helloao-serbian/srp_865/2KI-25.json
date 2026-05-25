@@ -1,0 +1,286 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2KI",
+    "translationId": "srp_865",
+    "name": "2. Kraljevima",
+    "commonName": "2. Kraljevima",
+    "title": "2. Kraljevima",
+    "order": 12,
+    "numberOfChapters": 25,
+    "sha256": "14b91a44508aa4c11af5ab27266f4e76ec99d09dd2f0f675edf6866e97186808",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2KI/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2KI",
+      "chapter": 1
+    },
+    "lastChapterNumber": 25,
+    "lastChapterApiLink": "/api/srp_865/2KI/25.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2KI",
+      "chapter": 25
+    },
+    "totalNumberOfVerses": 719
+  },
+  "chapter": {
+    "number": 25,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I tako devete godine njegova carovanja, desetoga mjeseca desetoga dana doðe Navuhodonosor car Vavilonski sa svom vojskom svojom na Jerusalim, i stadoše u oko pod njim, i naèiniše opkope oko njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I grad bi opkoljen do jedanaeste godine carovanja Sedekijina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I devetoga dana mjeseca èetvrtoga posta velika glad u gradu, te narod zemaljski nemaše hljeba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tada grad bi provaljen, a vojnici svi pobjegoše noæu na vrata izmeðu dva zida uz vrt carev; a Haldeji bijahu svuda oko grada; i car otide putem k pustinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ali vojska Haldejska potjera cara, i stigoše ga u polju Jerihonskom, a sva vojska što bijaše s njim razbježe se od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I uhvatiše cara, i odvedoše ga k caru Vavilonskom u Rivlu, i ondje mu sudiše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I sinove Sedekijine poklaše na njegove oèi, pa onda Sedekiji iskopaše oèi, i svezaše ga u dva lanca mjedena, i odvedoše ga u Vavilon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A sedmoga dana petoga mjeseca godine devetnaeste carovanja Navuhodonosora cara Vavilonskoga doðe u Jerusalim Nevuzardan zapovjednik stražarski, sluga cara Vavilonskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I popali dom Gospodnji i dom carski i sve domove u Jerusalimu; sve velike kuæe popali ognjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I zidove Jerusalimske unaokolo razvali sva vojska Haldejska, koja bijaše sa zapovjednikom stražarskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A ostatak naroda što osta u gradu, i prebjege što prebjegoše k caru Vavilonskom, i ostali prosti narod odvede Nevuzardan zapovjednik stražarski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Samo od siromaha u zemlji ostavi zapovjednik stražarski koji æe biti vinogradari i ratari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I stupove mjedene što bijahu u domu Gospodnjem, i podnožja, i more mjedeno koje bijaše u domu Gospodnjem, izlomiše Haldejci, i mjed od njih odnesoše u Vavilon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I lonce i lopate i viljuške i kadionice i sve sudove mjedene kojima služahu, uzeše,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I kliješta i kotliæe, što god bješe zlatno i što god bješe srebrno, uze zapovjednik stražarski,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Dva stupa, jedno more i podnožja, što naèini Solomun za dom Gospodnji; ne bješe mjere mjedi od svijeh tijeh sudova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Osamnaest lakata bijaše visok jedan stup, i ozgo na njemu bijaše oglavlje mjedeno, i oglavlje bijaše visoko tri lakta, i pletenice i šipci oko oglavlja, sve od mjedi; taki bijaše i drugi stup s pletenicom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Uze zapovjednik stražarski i Seraju prvoga sveštenika i Sofoniju drugoga sveštenika, i tri vratara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A iz grada uze jednoga dvoranina, koji bijaše nad vojnicima, i pet ljudi koji stajahu pred carem, koji se naðoše u gradu, i prvoga pisara vojnièkoga, koji popisivaše narod po zemlji u vojsku, i šezdeset ljudi iz naroda zemaljskoga, koji se naðoše u gradu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Uze ih Nevuzardan zapovjednik stražarski, i odvede k caru Vavilonskom u Rivlu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A car ih Vavilonski pobi i pogubi u Rivli u zemlji Ematskoj. Tako bi preseljen Juda iz zemlje svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A nad narodom koji osta u zemlji Judinoj, koji ostavi Navuhodonosor car Vavilonski, nad njim postavi Godoliju sina Ahikama sina Safanova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A kad èuše sve vojvode i ljudi njihovi da je car Vavilonski postavio Godoliju, doðoše ka Godoliji u Mispu, na ime: Ismailo sin Netanijin, i Joanan sin Karijajev, i Seraja sin Tanumetov iz Netofata, i Jazanija sin Mahatov, oni i ljudi njihovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I Godolija se zakle njima i ljudima njihovijem i reèe: ne bojte se službe Haldejima; sjedite u zemlji i služite caru Vavilonskom, i biæe vam dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ali sedmoga mjeseca doðe Ismailo sin Netanije sina Elisamova, roda carskoga, i deset ljudi s njim, i ubiše Godoliju, te pogibe; tako i Judeje i Haldeje koji bijahu s njim u Mispi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Tada se podiže sav narod, malo i veliko, i vojvode, te otidoše u Misir, jer se pobojaše Haldeja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A trideset sedme godine otkako se zarobi Joahin car Judin, dvanaestoga mjeseca, dvadeset sedmoga dana Evil-Merodah car Vavilonski iste godine zacariv se izvadi iz tamnice Joahina cara Judina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I lijepo govori s njim, i namjesti mu prijesto više prijestola drugih careva koji bijahu kod njega u Vavilonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I promijeni mu haljine tamnièke, i on jeðaše svagda s njim svega vijeka svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I hrana mu se jednako davaše od cara svaki dan svega vijeka njegova do smrti njegove."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2KI/25.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 25
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CH/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2KI/24.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 24
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 30
+}

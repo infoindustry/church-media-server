@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1TI",
+    "translationId": "srp_865",
+    "name": "1 Timoteju",
+    "commonName": "1 Timoteju",
+    "title": "1. Timoteju Poslanica",
+    "order": 54,
+    "numberOfChapters": 6,
+    "sha256": "b8a491e7c81c06e14355bb1911b6ea929afb84f88e0ee6399f29f2291857d3c4",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1TI/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1TI",
+      "chapter": 1
+    },
+    "lastChapterNumber": 6,
+    "lastChapterApiLink": "/api/srp_865/1TI/6.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1TI",
+      "chapter": 6
+    },
+    "totalNumberOfVerses": 113
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Starca ne karaj, nego mu govori kao ocu; momèadma kao braæi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Staricama kao materama; mladima kao sestrama, sa svakom èistotom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Udovice poštuj, koje su prave udovice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ako li koja udovica ima djecu ili unuèad, da se uèe najprije svoj dom poštovati, i zajam vraæati roditeljima; jer je ovo ugodno pred Bogom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A prava udovica i usamljena uzda se u Boga, i živi u molitvama i u moljenju dan i noæ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A koja živi u sladostima, živa je umrla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I ovo zapovijedaj, da budu bez mane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ako li ko za svoje a osobito za domaæe ne promišlja, odrekao se vjere, i gori je od neznabošca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A udovica da se ne prima mlaða od šezdeset godina, i koja je bila jednome mužu žena;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I koja ima svjedoèanstvo u dobrijem djelima, ako je djecu odgajila, ako je gostoljubiva bila, ako je svetima noge prala, ako je nevoljnima pomagala, ako je išla za svakijem dobrijem djelom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A mladijeh udovica proði se; jer kad pobjesne protiv Hrista, hoæe da se udaju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I imaju grijeh što prvu vjeru odbaciše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A k tome i besposlene uèe se skitati po kuæama, ne samo pak besposlene, nego i jeziène i sveznale, pa govore što ne treba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Hoæu dakle da se mlade udovice udaju, djecu raðaju, kuæu kuæe, a nikakva uzroka da ne daju protivniku za huljenje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer se evo neke okrenuše za sotonom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ako koji vjerni ili vjerna ima udovice, neka se stara za njih, i da ne dosaðuju crkvi da one koje su prave udovice može zadovoljiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A sveštenicima koji se dobro staraju da se daje dvoguba èast, a osobito onima koji se trude u rijeèi i u nauci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer pismo govori: volu koji vrše ne zavezuj usta, i: radin je dostojan svoje plate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Na sveštenika ne primaj tužbe, osim kad imaju dva ili tri svjedoka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A koji griješe pokaraj ih pred svima, da i drugi imaju strah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Zaklinjem te pred Bogom i Gospodom Isusom Hristom i izbranima njegovijem anðelima da ovo držiš bez licemjerja, ne èineæi ništa po hateru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ruku odmah ne meæi ni na koga, niti pristaj u tuðe grijehe. Drži sebe èista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Više ne pij vode, nego pij po malo vina, želuca radi svojega i èestijeh svojijeh bolesti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A nekijeh su ljudi grijesi poznati koji naprijed vode na sud, a nekijeh idu za njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Tako su i dobra djela poznata, i koja su drukèija ne mogu se sakriti."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1TI/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1TI",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1TI/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1TI",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1TI/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1TI",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

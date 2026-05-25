@@ -1,0 +1,174 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ECC",
+    "translationId": "srp_865",
+    "name": "Propovednik",
+    "commonName": "Propovednik",
+    "title": "Propovednik",
+    "order": 21,
+    "numberOfChapters": 12,
+    "sha256": "fe2dc33485c617d1c3f800f25752794cc56e27b2cfb10665b2db83a839e4fb36",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ECC/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ECC",
+      "chapter": 1
+    },
+    "lastChapterNumber": 12,
+    "lastChapterApiLink": "/api/srp_865/ECC/12.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ECC",
+      "chapter": 12
+    },
+    "totalNumberOfVerses": 222
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ali opominji se tvorca svojega u mladosti svojoj prije nego doðu dani zli i prispiju godine, za koje æeš reæi: nijesu mi mile;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Prije nego pomrkne sunce i vidjelo i mjesec i zvijezde, i opet doðu oblaci iza dažda,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Kad æe drktati stražari kuæni i pognuti se junaci, i stati mlinarice, što ih je malo, i potamnjeti koji gledaju kroz prozore,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I kad æe se zatvoriti vrata s ulice, i oslabiti zveka od mljevenja, i kad æe se ustajati na ptièji glas i prestati sve pjevaèice,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I visokoga mjesta kad æe se bojati i strašiti se na putu, kad æe badem ucvjetati i skakavac otežati i želja proæi, jer èovjek ide u kuæu svoju vjeènu, i pokajnice æe hoditi po ulicama;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Prije nego se prekine uže srebrno, èaša se zlatna razbije i raspe se vijedro na izvoru i slomi se toèak na studencu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I vrati se prah u zemlju, kako je bio, a duh se vrati k Bogu, koji ga je dao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Taština nad taštinama, veli propovjednik, sve je taština."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A ne samo mudar bijaše propovjednik, nego još i narod uèaše mudrosti, i motreæi i istražujuæi složi mnogo prièa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Staraše se propovjednik da naðe ugodne rijeèi, i napisa što je pravo, rijeèi istine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Rijeèi su mudrijeh ljudi kao žalci i kao klini udareni; rijeèi onijeh koji ih složiše dao je jedan pastir."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I tako, sine moj, èuvaj se onoga što je preko ovoga, jer nema kraja sastavljanju mnogih knjiga, i mnogo èitanje umor je tijelu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Glavno je svemu što si èuo: Boga se boj, i zapovijesti njegove drži, jer to je sve èovjeku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer æe svako djelo Bog iznijeti na sud i svaku tajnu, bila dobra ili zla."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ECC/12.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 12
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/SNG/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "SNG",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ECC/11.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 11
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 14
+}

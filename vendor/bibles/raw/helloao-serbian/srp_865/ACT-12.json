@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U ono pak vrijeme podiže Irod car ruke da muèi neke od crkve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I pogubi Jakova brata Jovanova maèem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I vidjevši da je to po volji Jevrejima nastavi da uhvati i Petra a bijahu dani prijesnijeh hljebova"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Kojega i uhvati i baci u tamnicu, i predade ga èetvorici èetvrtnika vojnièkijeh da ga èuvaju, i mišljaše ga po pashi izvesti pred narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I tako Petra èuvahu u tamnici; a crkva moljaše se za njega Bogu bez prestanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A kad šæaše Irod da ga izvede, onu noæ spavaše Petar meðu dvojicom vojnika, okovan u dvoje verige, a stražari pred vratima èuvahu tamnicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I gle, anðeo Gospodnji pristupi, i svjetlost obasja po sobi, i kucnuvši Petra u rebra probudi ga govoreæi: ustani brže. I spadoše mu verige s ruku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A anðeo mu reèe: opaši se, i obuj opanke svoje. I uèini tako. I reèe mu anðeo: obuci haljinu svoju, pa hajde za mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I izišavši iðaše za njim, i ne znadijaše da je to istina što anðeo èinjaše, nego mišljaše da vidi utvaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A kad proðoše prvu stražu i drugu i doðoše k vratima gvozdenijem koja voðahu u grad, ona im se sama otvoriše; i izišavši proðoše jednu ulicu, i anðeo odmah otstupi od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I kad doðe Petar k sebi reèe: sad zaista vidim da Bog posla anðela svojega te me izbavi iz ruku Irodovijeh i od svega èekanja naroda Jevrejskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I razmislivši doðe kuæi Marije matere Jovana koji se zvaše Marko, gdje bijahu mnogi sabrani i moljahu se Bogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A kad kucnu Petar u vrata od dvora, pristupi djevojka po imenu Roda, da èuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I poznavši glas Petrov od radosti ne otvori vrata, nego utrèa i kaza da Petar stoji pred vratima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A oni joj rekoše: jesi li ti luda? A ona potvrðivaše da je tako. A oni govorahu: anðeo je njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Petar jednako kucaše. A kad otvoriše, vidješe ga, i udiviše se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A on mahnuvši na njih rukom da æute, kaza im kako ga Gospod izvede iz tamnice; i reèe: javite ovo Jakovu i braæi. I izišavši otide na drugo mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A kad bi dan, bješe ne mala buna meðu vojnicima, šta to bi od Petra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A kad ga Irod zaiska i ne naðe, onda ispita stražare, i zapovjedi da ih odvedu; i izišavši iz Judeje u Æesariju onamo življaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer se Irod srðaše na Tirce i Sidonce. Ali oni jednodušno doðoše k njemu, i uzevši na svoju ruku Vlasta, posteljnika careva, iskahu mira, jer se njihove zemlje hranjahu od njegova carstva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A u odreðeni dan obuèe se Irod u carsku haljinu, i sjedavši na prijesto govoraše im;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A narod vikaše: ovo je glas Božij, a ne èovjeèij."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ali ujedanput udari ga anðeo Gospodnji; jer ne dade slave Bogu; i buduæi izjeden od crvi izdahnu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A rijeè Božija rastijaše i množaše se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A Varnava i Savle predavši pomoæ vratiše se iz Jerusalima u Antiohiju, uzevši sa sobom i Jovana koji se zvaše Marko."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/12.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 12
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/13.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 13
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/11.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 11
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

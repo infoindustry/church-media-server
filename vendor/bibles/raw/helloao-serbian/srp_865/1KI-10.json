@@ -1,0 +1,279 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1KI",
+    "translationId": "srp_865",
+    "name": "1. Kraljevima",
+    "commonName": "1. Kraljevima",
+    "title": "1. Kraljevima",
+    "order": 11,
+    "numberOfChapters": 22,
+    "sha256": "876ee89adf3ca9c88149d73fc7a5fe2947fa3921a637898e9d808d4c90bad1b4",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1KI/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1KI",
+      "chapter": 1
+    },
+    "lastChapterNumber": 22,
+    "lastChapterApiLink": "/api/srp_865/1KI/22.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1KI",
+      "chapter": 22
+    },
+    "totalNumberOfVerses": 817
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A carica Savska èu glas o Solomunu i o imenu Gospodnjem, i doðe da ga iskuša zagonetkama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I doðe u Jerusalim sa silnom pratnjom, s kamilama koje nošahu mirisa i zlata vrlo mnogo i dragoga kamenja; i došavši k Solomunu govori s njim o svemu što joj bješe u srcu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I Solomun joj odgovori na sve rijeèi njezine; ne bješe od cara sakriveno ništa da joj ne bi odgovorio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A kad carica Savska vidje svu mudrost Solomunovu i dom koji bješe sazidao,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I jela na stolu njegovu i stanove sluga njegovijeh i dvorbu dvorana njegovijeh i odijelo njihovo, i peharnike njegove i žrtve njegove paljenice koje prinošaše u domu Gospodnjem, ona doðe izvan sebe;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Pa reèe caru: istina je što sam èula u svojoj zemlji o stvarima tvojim i o mudrosti tvojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ali ne htjeh vjerovati što se govoraše dokle ne doðem i vidim svojim oèima; a gle, ni pola mi nije kazano; tvoja mudrost i dobrota nadvišuje glas koji sam slušala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Blago ljudima tvojim, blago slugama tvojim, koji jednako stoje pred tobom i slušaju mudrost tvoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Da je blagosloven Gospod Bog tvoj kojemu si omilio, te te posadi na prijesto Izrailjev; jer Gospod ljubi Izrailja uvijek, i postavi te carem da sudiš i dijeliš pravicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Potom dade caru sto i dvadeset talanata zlata i vrlo mnogo mirisa i dragoga kamenja: nigda više ne doðe toliko takih mirisa koliko dade carica Savska caru Solomunu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I laðe Hiramove, koje donošahu zlato iz Ofira, donesoše iz Ofira vrlo mnogo drveta almugima i dragoga kamenja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I naèini car od toga drveta almugima zagradu u domu Gospodnjem i u domu carskom, i harfe i psaltire za pjevaèe; nigdje se više nije dovezlo takoga drveta almugima niti se vidjelo do današnjega dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A car Solomun dade carici Savskoj što god zaželje i zaiska osim onoga što joj dade sam po moguæstvu cara Solomuna. Potom ona otide i vrati se u zemlju svoju sa slugama svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A zlata što dohoðaše Solomunu svake godine, bješe šest stotina i šezdeset i šest talanata,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Osim onoga što dohoðaše od trgovaca i onijeh koji prodavahu mirise i od svijeh careva Arapskih i upravitelja zemaljskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I car Solomun naèini dvjesta štitova od kovanoga zlata, šest stotina sikala zlata dajuæi na jedan štit;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I tri stotine malijeh štitova od kovanoga zlata, po tri mine zlata dajuæi na svaki štitiæ; i ostavi ih car u domu od šume Livanske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I naèini car velik prijesto od slonove kosti, i obloži ga èistijem zlatom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Šest basamaka bješe u prijestola, i vrh okrugao bješe ozad na prijestolu, i ruèice bjehu s obje strane sjedišta, i dva lava stajahu pokraj tijeh ruèica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I dvanaest lavova stajahu na šest basamaka otud i odovud. Ne bi taki naèinjen ni u kojem carstvu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I svi sudovi iz kojih pijaše car Solomun bijahu zlatni, i svi sudovi u domu od šume Livanske bijahu od èistoga zlata; od srebra ne bješe ništa; srebro bješe ništa za vremena Solomunova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer car imaše laðe Tarsiske na moru s laðama Hiramovijem: jedanput u tri godine vraæahu se laðe Tarsiske donoseæi zlato i srebro, slonove kosti, majmune i paune."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Tako car Solomun bijaše veæi od svijeh careva zemaljskih bogatstvom i mudrošæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I iz cijele zemlje tražahu da vide Solomuna, da èuju mudrost njegovu, koju mu dade Gospod u srce."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I donošahu mu svi dare, sudove srebrne i sudove zlatne, i haljine i oružje i mirise i konje i mazge, svake godine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Tako nakupi Solomun kola i konjika, i imaše tisuæu i èetiri stotine kola i dvanaest tisuæa konjika, koje razredi po gradovima, gdje mu bijahu kola, i kod sebe u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I uèini car, te u Jerusalimu bijaše srebra kao kamenja, i kedrovijeh drva kao divljih smokava koje rastu po polju, tako mnogo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I dovoðahu Solomunu konje iz Misira i svakojaki trg, jer trgovci carevi uzimahu trg razlièan za cijenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I dolažahu kola iz Misira po šest stotina sikala srebra, a konj po sto i pedeset. I tako svi carevi Hetejski i carevi Sirski dobijahu konje preko njih."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1KI/10.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1KI",
+    "chapter": 10
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1KI/11.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1KI",
+    "chapter": 11
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1KI/9.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1KI",
+    "chapter": 9
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

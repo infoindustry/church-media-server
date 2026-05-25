@@ -1,0 +1,321 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MRK",
+    "translationId": "srp_865",
+    "name": "Marku",
+    "commonName": "Marku",
+    "title": "Jevanðelje po Marku",
+    "order": 41,
+    "numberOfChapters": 16,
+    "sha256": "c4e35f7fe68e45b5731573fc03ca93f2cb48eea346a1b1abc79ae9266aa9bd92",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MRK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MRK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/MRK/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MRK",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 678
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I uðe opet u zbornicu, i ondje bješe èovjek sa suhom rukom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I motrahu za njim neæe li ga u subotu iscijeliti da ga okrive."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reèe èovjeku sa suhom rukom: stani na srijedu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I reèe im: valja li u subotu dobro èiniti ili zlo èiniti? dušu održati, ili pogubiti? A oni muèahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I pogledavši na njih s gnjevom od žalosti što su im onako srca odrvenila reèe èovjeku: pruži ruku svoju. I pruži; i posta ruka zdrava kao i druga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I izišavši fariseji odmah uèiniše za njega vijeæu s Irodovcima kako bi ga pogubili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Isus otide s uèenicima svojijem k moru; i mnogi narod iz Galileje ide za njim i iz Judeje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I iz Jerusalima i iz Idumeje i ispreko Jordana i od Tira i Sidona mnoštvo veliko èuvši šta on èini doðe k njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I reèe uèenicima svojijem da bude laða u njega gotova zbog naroda, da mu ne dosaðuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer mnoge iscijeli tako da navaljivahu na njega koji bijahu nakaženi bolestima da ga se dotaknu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I dusi neèisti kad ga viðahu, pripadahu k njemu i vikahu govoreæi: ti si sin Božij."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I mnogo im prijeæaše da ga ne prokažu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I iziðoše na goru, i dozva koje on šæaše; i doðoše mu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I postavi dvanaestoricu da budu s njim, i da ih pošilje da propovijedaju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I da imaju vlast da iscjeljuju od bolesti, i da izgone ðavole:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Prvoga Simona, i nadjede mu ime Petar;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I Jakova Zevedejeva i Jovana brata Jakovljeva, i nadjede im imena Voanerges, koje znaèi sinovi gromovi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I Andriju i Filipa i Vartolomija i Mateja i Tomu i Jakova Alfejeva i Tadiju i Simona Kananita,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I Judu Iskariotskoga, koji ga i izdade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I doðoše u kuæu, i sabra se opet narod da ne mogahu ni hljeba jesti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I èuvši to rod njegov iziðoše da ga uhvate; jer govorahu da je izvan sebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A književnici koji bijahu sišli iz Jerusalima govorahu: u njemu je Veelzevul; i: on pomoæu kneza ðavolskoga izgoni ðavole."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I dozvavši ih govoraše im u prièama: kako može sotona sotonu izgoniti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I ako se carstvo samo po sebi razdijeli, ne može ostati carstvo ono;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I ako se dom sam po sebi razdijeli, ne može ostati dom onaj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I ako sotona ustane sam na se i razdijeli se, ne može ostati, nego æe propasti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Niko ne može pokuæstvo jakoga, ušavši u kuæu njegovu, oteti ako najprije jakoga ne sveže: i onda æe kuæu njegovu oplijeniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Zaista vam kažem: svi grijesi oprostiæe se sinovima èovjeèijim, i huljenja na Boga, makar kakova bila:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A koji pohuli na Duha svetoga nema oproštenja vavijek, nego je kriv vjeènome sudu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Jer govorahu: u njemu je neèisti duh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I doðe mati njegova i braæa njegova, i stojeæi napolju poslaše k njemu da ga zovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I sjeðaše narod oko njega. I rekoše mu: eto mati tvoja i braæa tvoja i sestre tvoje napolju pitaju za te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I odgovori im govoreæi: ko je mati moja ili braæa moja?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I pogledavši oko sebe na narod koji sjeðaše reèe: evo mati moja i braæa moja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Jer ko izvrši volju Božiju onaj je brat moj i sestra moja i mati moja."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MRK/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MRK/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MRK/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

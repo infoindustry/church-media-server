@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GAL",
+    "translationId": "srp_865",
+    "name": "Galaæanima",
+    "commonName": "Galaæanima",
+    "title": "Poslanica Galaæanima",
+    "order": 48,
+    "numberOfChapters": 6,
+    "sha256": "d2e03dd1f5ba486866931bcba765e88c0ce25293c646bda093608473bc41a04d",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GAL/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GAL",
+      "chapter": 1
+    },
+    "lastChapterNumber": 6,
+    "lastChapterApiLink": "/api/srp_865/GAL/6.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GAL",
+      "chapter": 6
+    },
+    "totalNumberOfVerses": 149
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ali velim: dok je našljednik mlad ništa nije bolji od roba, ako i jest gospodar od svega;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nego je pod zapovjednicima i èuvarima tja do roka oèina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Tako i mi kad bijasmo mladi, bijasmo pod stihijama svijeta zarobljeni;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A kad se navrši vrijeme, posla Bog sina svojega jedinorodnoga, koji je roðen od žene i pokoren zakonu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Da iskupi one koji su pod zakonom, da primimo posinaštvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I buduæi da ste sinovi, posla Bog Duha sina svojega u srca vaša, koji vièe: Ava oèe!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tako veæ nijesi rob, nego sin; a ako si sin, i našljednik si Božij kroz Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ali tada ne znajuæi Boga služiste onima koji po sebi nijesu bogovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A sad poznavši Boga, i još poznati bivši od Boga, kako se vraæate opet na slabe i rðave stihije, kojima opet iznova hoæete da služite?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Gledate na dane i mjesece, i vremena i godine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Bojim se za vas da se ne budem uzalud trudio oko vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Budite kao ja što sam; jer sam ja kao vi što ste. Braæo! molim vas, ništa mi ne uèiniste nažao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A znate da vam u slabosti tijela najprije propovjedih jevanðelje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I napasti moje, koja bijaše tijelu mome, ne prezreste, ni popljuvaste, nego me primiste kao anðela Božijega, kao Hrista Isusa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Kakovo bijaše onda vaše blaženstvo? Jer vam svjedoèim da biste, kad bi moguæe bilo, izvadili oèi svoje i dali meni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tijem li vam postadoh neprijatelj istinu vam govoreæi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Oni ne revnuju dobro za vas, nego hoæe da vas odvoje, da im revnujete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A dobro je revnovati svagda u dobru, i ne samo kad sam ja kod vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Djeèice moja, koju opet s mukom raðam, dokle Hristovo oblièje ne postane u vama;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ali bih htio sad da sam kod vas, i da izmijenim glas svoj, jer ne mogu da se naèudim za vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Kažite mi, vi koji hoæete pod zakonom da budete, ne slušate li zakona?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer je pisano da Avraam dva sina imade, jednoga od robinje, a drugoga od slobodne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ali koji bješe od robinje, po tijelu se rodi; a koji od slobodne, po obeæanju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Koje znaèi drugo: jer su ovo dva zavjeta: jedan dakle od gore Sinajske, koja raða za robovanje, i to je Agar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Jer Agar znaèi Sinaj gora u Arapskoj, i poredi se sa sadašnjijem Jerusalimom, i služi sa djecom svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A gornji Jerusalim slobodna je, koji je mati svima nama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jer je pisano: razveseli se, nerotkinjo koja ne raðaš; prokini i povièi, ti koja ne trpiš muke poroðaja; jer pusta ima mnogo više djece negoli ona koja ima muža."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A mi smo, braæo, po Isaku djeca obeæanja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "No kako onda onaj što se rodi po tijelu gonjaše duhovnoga, tako i sad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ali šta govori pismo? Istjeraj robinju i sina njezina; jer sin robinjin neæe naslijediti sa sinom slobodne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Tako, braæo, nijesmo djeca robinjina nego slobodne."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GAL/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GAL",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GAL/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GAL",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GAL/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GAL",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

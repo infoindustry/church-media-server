@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CO",
+    "translationId": "srp_865",
+    "name": "1 Korinæanima",
+    "commonName": "1 Korinæanima",
+    "title": "1. Korinæanima Poslanica",
+    "order": 46,
+    "numberOfChapters": 16,
+    "sha256": "114ef2323a27d8e2c5bd8d2269293cc5ec228241cba7d2999cf2908b344e5d17",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/1CO/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CO",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 437
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nijesam li ja apostol? Nijesam li sam svoj? Ne vidjeh li ja Isusa Hrista, Gospoda našega? Nijeste li vi djelo moje u Gospodu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ako drugima i nijesam apostol, ali vama jesam, jer ste vi peèat mojega apostolstva u Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Moj odgovor onima koji me uspitaju ovo je:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Eda li nemamo vlasti jesti i piti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Eda li nemamo vlasti sestru ženu voditi, kao i ostali apostoli, i braæa Gospodnja, i Kifa?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ili jedan ja i Varnava nemamo vlasti ovo èiniti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ko vojuje kad o svome trošku? Ili ko sadi vinograd i od rodova njegovijeh da ne jede? Ili ko pase stado i od mlijeka stada da ne jede?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Eda li ovo govorim po èovjeku? Ne govori li ovo i zakon?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer je u Mojsijevu zakonu napisano: da ne zavežeš usta volu koji vrše. Eda li se Bog brine za volove?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ili govori jamaèno za nas? Jer se za nas napisa: koji ore treba u nadanju da ore; i koji vrše u nadanju da æe dobiti od onoga što vrše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Kada mi vama duhovna sijasmo, je li to što veliko ako mi vama tjelesna požnjemo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Kad se drugi miješaju u vašu vlast, akamoli da ne bi mi? Ali ne uèinismo po vlasti ovoj nego sve trpimo da ne uèinimo kake smetnje jevanðelju Hristovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ne znate li da oni koji èine svetu službu od svetinje se hrane? i koji oltaru služe s oltarom dijele?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Tako i Gospod zapovjedi da oni koji jevanðelje propovijedaju od jevanðelja žive."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A ja to nijedno ne uèinih. I ne pišem ovo da tako bude za mene; jer bih voljeo umrijeti nego da ko slavu moju uništi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer ako propovijedam jevanðelje, nema mi hvale: jer mi je za nevolju; i teško meni ako jevanðelja ne propovijedam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ako dakle ovo èinim od svoje volje, platu imam; a ako li èinim za nevolju, služba mi je predata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Kakva mi je dakle plata? Da propovijedajuæi jevanðelje uèinim bez plate jevanðelje Hristovo, da ne èinim po svojoj vlasti u propovijedanju jevanðelja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer premda sam slobodan od sviju, svima sebe uèinih robom, da ih više pridobijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jevrejima sam bio kao Jevrejin da Jevreje pridobijem; onima koji su pod zakonom bio sam kao pod zakonom, da pridobijem one koji su pod zakonom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Onima koji su bez zakona bio sam kao bez zakona, premda nijesam Bogu bez zakona nego sam u zakonu Hristovu, da pridobijem one koji su bez zakona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Slabima bio sam kao slab, da slabe pridobijem; svima sam bio sve, da kakogod spasem koga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A ovo èinim za jevanðelje, da bih imao dijel u njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ne znate li da oni što trèe na trku, svi trèe, a jedan dobije dar? Tako trèite da dobijete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Svaki pak koji se bori od svega se uzdržava: oni dakle da dobiju raspadljiv vijenac, a mi neraspadljiv."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ja dakle tako trèim, ne kao na nepouzdano; tako se borim, ne kao onaj koji bije vjetar;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Nego morim tijelo svoje i trudim da kako sam drugima propovijedajuæi izbaèen ne budem."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CO/9.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 9
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CO/10.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 10
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CO/8.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 8
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

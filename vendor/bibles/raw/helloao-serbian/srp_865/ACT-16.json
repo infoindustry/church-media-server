@@ -1,0 +1,356 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 16,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Doðe pak u Dervu i u Listru, i gle, ondje bješe neki uèenik, po imenu Timotije, sin neke žene Jevrejke koja vjerovaše, a oca Grka;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Za njega dobro svjedoèahu braæa koja bijahu u Listri i u Ikoniji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ovoga namisli Pavle da uzme sa sobom; i uze ga, i obreza Jevreja radi koji bijahu u onijem mjestima: jer svi znadijahu oca njegova da bješe Grk."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I kad prolažahu po gradovima, predavaše im da drže uredbe koje urediše apostoli i starješine u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A crkve se utvrðivahu u vjeri, i svaki dan bivaše ih više."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A kad proðoše Frigiju i Galatijsku zemlju, zabrani im Duh sveti govoriti rijeè u Aziji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kad doðoše u Misiju šæadijahu da idu u Vitiniju, i Duh ne dade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A kad proðoše Misiju, siðoše u Troadu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I Pavlu se javi utvara noæu: bješe jedan èovjek iz Maæedonije, i stajaše moleæi ga i govoreæi: doði u Maæedoniju i pomozi nam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A kad vidje utvaru, odmah gledasmo da iziðemo u Maæedoniju, doznavši da nas Gospod pozva da im propovijedamo jevanðelje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A kad se odvezosmo iz Troade, doðosmo u Samotrak, i sjutradan u Neapolj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A odande u Filibu, koje je prvi grad zemlje Maæedonije, naselje Rimsko; i u onom gradu ostasmo nekoliko dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A u dan subotni iziðosmo iz grada k vodi gdje bješe bogomolja; i sjedavši govorismo k ženama koje se bijahu sabrale."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I jedna bogobojazna žena, po imenu Lidija, iz grada Tijatirskoga, koja prodavaše skerlet, slušaše: i Gospod otvori srce njezino da pazi na rijeèi Pavlove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A kad se krsti ona i kuæa njezina, moljaše nas govoreæi: ako mislite da ja vjerujem Gospoda, uðite u moju kuæu i živite. I natjera nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A dogodi se kad iðasmo na molitvu da nas srete jedna robinja koja imaše duh pogaðaèki i vraèajuæi donošaše veliki dobitak svojijem gospodarima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ova poðe za Pavlom i za nama, i vikaše govoreæi: ovi su ljudi sluge Boga najvišega, koji javljaju nama put spasenija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I ovako èinjaše mnogo dana. A kad se Pavlu dosadi, okrenu se i reèe duhu: zapovijedam ti imenom Isusa Hrista, iziði iz nje. I iziðe u taj èas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A kad vidješe njezini gospodari da iziðe nad njihova dobitka, uzeše Pavla i Silu i odvukoše ih na pazar ka knezovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I dovedavši ih k vojvodama, rekoše: ovi su ljudi Jevreji, i mute po našemu gradu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I propovijedaju obièaje kojijeh nama ne valja primati ni tvoriti, jer smo Rimljani."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I sleže se narod na njih, i vojvode izdriješe im haljine, i zapovjediše da ih šibaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I pošto ih zdravo izbiše baciše ih u tamnicu, i zapovjediše tamnièaru da ih dobro èuva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Primivši takovu zapovijest on ih baci u najdonju tamnicu i noge im metnu u klade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A u ponoæi bijahu Pavle i Sila na molitvi i hvaljahu Boga; a sužnji ih slušahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A ujedanput tako se vrlo zatrese zemlja da se pomjesti temelj tamnièki; i odmah se otvoriše sva vrata i svima spadoše okovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A kad se probudi tamnièar i vidje otvorena vrata tamnièka, izvadi nož i šæaše da se ubije, misleæi da su pobjegli sužnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A Pavle povika zdravo govoreæi: ne èini sebi zla nikakva, jer smo mi svi ovdje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A on zaiskavši svijeæu uletje i drkæuæi pripade k Pavlu i Sili;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I izvedavši ih napolje reèe: gospodo! šta mi treba èiniti da se spasem?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A oni rekoše: vjeruj Gospoda Isusa Hrista i spašæeš se ti i sav dom tvoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I kazaše mu rijeè Gospodnju, i svima koji su u domu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I uze ih u onaj sahat noæi i opra im rane; i krsti se on i svi njegovi odmah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I uvedavši ih u svoj dom postavi trpezu, i radovaše se sa svijem domom svojijem što vjerova Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A kad bi dan, poslaše vojvode pandure govoreæi: pustite ova dva èovjeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A tamnièar kaza rijeèi ove Pavlu: poslaše vojvode da se pustite; sad dakle iziðite i idite s mirom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A Pavle reèe njima: izbivši nas pred narodom bez suda, ljude Rimljane, baciše u tamnicu; i sad hoæe tajno da nas puste? Nije tako, nego sami neka doðu i izvedu nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A panduri kazaše vojvodama ove rijeèi; i uplašiše se kad èuše da su Rimljani;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I došavši umoliše ih, i izvedoše moleæi da iziðu iz grada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A kad iziðoše iz tamnice, doðoše k Lidiji, i vidjevši braæu utješiše ih, i otidoše."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/16.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 16
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/17.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 17
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/15.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 15
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 40
+}

@@ -1,0 +1,258 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Petar i Jovan iðahu zajedno gore u crkvu na molitvu u deveti sahat."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I bijaše jedan èovjek hrom od utrobe matere svoje, kojega nošahu i svaki dan metahu pred vrata crkvena koja se zovu Krasna da prosi milostinju od ljudi koji ulaze u crkvu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Koji vidjevši Petra i Jovana da hoæe da uðu u crkvu prošaše milostinju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A Petar pogledavši na nj s Jovanom, reèe: pogledaj na nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A on gledaše u njih misleæi da æe mu oni što dati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A Petar reèe: srebra i zlata nema u mene, nego što imam ovo ti dajem: u ime Isusa Hrista Nazareæanina ustani i hodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I uze ga za desnicu i podiže. I odmah se utvrdiše njegova stopala i gležnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I skoèivši ustade, i hoðaše, i uðe s njima u crkvu iduæi i skaèuæi i hvaleæi Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I vidješe ga svi ljudi gdje ide i hvali Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A znadijahu ga da onaj bješe što milostinje radi sjeðaše kod Krasnijeh vrata crkvenijeh, i napuniše se èuda i straha za to što bi od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A kad se iscijeljeni hromi držaše Petra i Jovana, navališe k njima svi ljudi u trijem, koji se zvaše Solomunov, i èuðahu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A kad vidje Petar, odgovaraše ljudima: ljudi Izrailjci! što se èudite ovome? Ili šta gledate na nas, kao da smo svojom silom ili pobožnošæu uèinili da on ide?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Bog Avraamov i Isakov i Jakovljev, Bog otaca našijeh, proslavi sina svojega Isusa, kojega vi predadoste i odrekoste ga se pred licem Pilatovijem kad on sudi da ga pusti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A vi sveca i pravednika odrekoste se, i isprosiste èovjeka krvnika da vam pokloni;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A naèelnika života ubiste, kojega Bog vaskrse iz mrtvijeh, èemu smo mi svjedoci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I za vjeru imena njegova ovoga, koga vidite i poznajete, utvrdi ime njegovo; i vjera koja je kroza nj dade mu cijelo zdravlje ovo pred svima vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I sad, braæo, znam da iz neznanja ono uèiniste, kao i knezovi vaši."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A Bog kako naprijed javi ustima sviju proroka svojijeh da æe Hristos postradati, izvrši tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Pokajte se dakle, i obratite se da se oèistite od grijeha svojijeh, da doðu vremena odmaranja od lica Gospodnjega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I da pošlje naprijed nareèenoga vam Hrista Isusa,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Kojega valja dakle nebo da primi do onoga vremena kad se sve popravi, što Bog govori ustima sviju svetijeh proroka svojijeh od postanja svijeta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Mojsije dakle ocevima našijem reèe: Gospod Bog vaš podignuæe vam proroka iz vaše braæe, kao mene; njega poslušajte u svemu što vam kaže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I biæe da æe se svaka duša koja ne posluša toga proroka istrijebiti iz naroda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A i svi proroci od Samuila i potom koliko ih god govori, i za ove dane javljaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Vi ste sinovi proroka i zavjeta koji uèini Bog s ocevima vašijem govoreæi Avraamu: i u sjemenu tvojemu blagosloviæe se svi narodi na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Vama najprije Bog podiže sina svojega Isusa, i posla ga da vas blagosilja da se svaki od vas obrati od pakosti svojijeh."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 26
+}

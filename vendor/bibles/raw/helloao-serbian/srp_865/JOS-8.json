@@ -1,0 +1,321 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOS",
+    "translationId": "srp_865",
+    "name": "Isus Navin",
+    "commonName": "Isus Navin",
+    "title": "Isus Navin",
+    "order": 6,
+    "numberOfChapters": 24,
+    "sha256": "ec9d0a794c17ba6296451b87fb16a4d34d8af2bfd446293b00f97a3bbb7257b2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOS/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/JOS/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 658
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Iza toga reèe Gospod Isusu: ne boj se i ne plaši se; uzmi sa sobom sav narod što je za boj, pa ustani i idi na Gaj; evo predadoh ti u ruke cara Gajskoga i narod njegov i grad njegov i zemlju njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I uèini s Gajem i carem njegovijem kako si uèinio s Jerihonom i njegovijem carem; ali plijen iz njega i stoku njegovu razgrabite za se. Namjesti zasjedu iza grada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I usta Isus i sav narod što bješe za boj, da idu na Gaj; i izabra Isus trideset tisuæa junaka, i posla ih noæu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I zapovjedi im govoreæi: gledajte vi koji æete biti u zasjedi iza grada, da ne budete vrlo daleko od grada, nego budite svi gotovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A ja i sav narod što je sa mnom primaknuæemo se ka gradu; pa kad oni izidu pred nas, mi æemo kao i prije pobjeæi ispred njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Te æe oni poæi za nama dokle ih ne odvojimo od grada, jer æe reæi: bježe ispred nas kao i prije. I mi æemo bježati ispred njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tada vi izidite iz zasjede i istjerajte iz grada što bude ostalo. Jer æe vam ga dati Gospod Bog vaš u ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A kad uzmete grad, zapalite ga ognjem; po rijeèi Gospodnjoj uèinite. Eto, zapovjedio sam vam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tako ih posla Isus, i oni otidoše u zasjedu, i stadoše izmeðu Vetilja i Gaja, sa zapada Gaju; a Isus prenoæi onu noæ meðu narodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A ujutru usta Isus rano i prebroji narod, pa poðe sa starješinama Izrailjevijem pred narodom na Gaj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I sva vojska što bješe s njim poðe i primakavši se doðoše prema gradu i stadoše u oko sa sjevera Gaju; a bijaše dolina izmeðu njih i Gaja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I uze oko pet tisuæa ljudi, i namjesti ih u zasjedu izmeðu Vetilja i Gaja, sa zapada gradu Gaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I kad se namjesti sav narod, sva vojska, što bijaše sa sjevera gradu i što bijaše u zasjedi sa zapada gradu, izide Isus onu noæ usred doline."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I kad to vidje car Gajski, ljudi u gradu pohitješe i uraniše; i izidoše onaj èas u polje pred Izrailja u boj, car i sav narod njegov. A ne znaðaše da ima zasjeda za njim iza grada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tada Isus i sav Izrailj, kao da ih pobiše, nagoše bježati k pustinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A oni sazvaše sav narod što bješe u gradu da ih tjeraju. I tjeraše Isusa, i odvojiše se od svoga grada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I ne osta niko u Gaju ni u Vetilju da ne poðe za Izrailjem; i ostaviše grad otvoren, i tjerahu Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Tada reèe Gospod Isusu: digni zastavu što ti je u ruci prema Gaju, jer æu ti ga dati u ruke. I podiže Isus zastavu što mu bješe u ruci prema gradu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A oni što bijahu u zasjedi odmah ustaše sa svojega mjesta, i potrèaše èim on podiže ruku svoju, i uðoše u grad i uzeše ga, i brzo zapališe grad ognjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A kad se Gajani obazreše, a to dim od grada dizaše se do neba, i ne imahu kuda bježati ni tamo ni amo; a narod koji bježaše u pustinju povrati se na one koji ga tjerahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I Isus i sav Izrailj vidjevši da je zasjeda njihova uzela grad i gdje se diže dim od grada, vratiše se i udariše na Gajane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A oni iz grada izidoše pred njih, te bijahu meðu Izrailjcima odovud i odonud, i pobiše ih tako da nijedan ne osta živ niti uteèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A cara Gajskoga uhvatiše živa i dovedoše k Isusu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A kad pobiše Izrailjci sve Gajane u polju, u pustinji, kuda ih goniše, i padoše svi od oštroga maèa, te se istrijebiše, onda se vratiše svi Izrailjci u Gaj, i isjekoše što još bješe u njemu oštrijem maèem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A svijeh što izgiboše onaj dan, i ljudi i žena, bješe dvanaest tisuæa, samijeh Gajana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I Isus ne spusti ruke svoje, koju bješe podigao sa zastavom, dokle ne pobiše sve stanovnike Gajske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Samo stoku i plijen iz grada onoga razgrabiše Izrailjci za se, kao što bješe Gospod zapovjedio Isusu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I Isus spali Gaj, i obrati ga u gomilu vjeènu, i u pustoš do današnjega dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A cara Gajskoga objesi na drvo i ostavi do veèera; a o zahodu sunèanom zapovijedi Isus te skidoše tijelo njegovo s drveta i baciše pred vrata gradska, i nabacaše na nj veliku gomilu kamenja, koja stoji i danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Tada Isus naèini oltar Gospodu Bogu Izrailjevu na gori Evalu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Kao što bješe zapovjedio Mojsije sluga Gospodnji sinovima Izrailjevim, kao što piše u knjizi zakona Mojsijeva, oltar od cijeloga kamenja, preko kojega nije prevuèeno gvožðe; i prinesoše na njemu žrtve paljenice Gospodu, i prinesoše žrtve zahvalne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I prepisa ondje na kamenju zakon Mojsijev, koji je napisao sinovima Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I sav Izrailj i starješine njegove i upravitelji i sudije njegove stadoše s obje strane kovèega, prema sveštenicima Levitima, koji nošahu kovèeg zavjeta Gospodnjega, i stranac i domorodac; polovina prema gori Garizinu a polovina prema gori Evalu, kao što bješe zapovjedio Mojsije sluga Gospodnji da blagoslovi narod Izrailjev najprije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I potom proèita sve rijeèi zakona, blagoslov i prokletstvo, sve kako je napisano u knjizi zakona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ne bi ni jedne rijeèi od svega što je Mojsije napisao, koje ne proèita Isus pred svijem zborom Izrailjevim, i ženama i djecom i strancima koji iðahu meðu njima."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOS/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOS/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOS/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

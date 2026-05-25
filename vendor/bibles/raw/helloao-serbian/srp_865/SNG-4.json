@@ -1,0 +1,188 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "SNG",
+    "translationId": "srp_865",
+    "name": "Pesma nad pesmama",
+    "commonName": "Pesma nad pesmama",
+    "title": "Pesma nad pesmama",
+    "order": 22,
+    "numberOfChapters": 8,
+    "sha256": "af3cfd2e645cad0b116a0f29d9f60ede5ded39d17d4e952244af1a28d2d49ea2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/SNG/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "SNG",
+      "chapter": 1
+    },
+    "lastChapterNumber": 8,
+    "lastChapterApiLink": "/api/srp_865/SNG/8.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "SNG",
+      "chapter": 8
+    },
+    "totalNumberOfVerses": 117
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Lijepa ti si, draga moja, lijepa ti si, oèi su ti kao u golubice izmeðu vitica tvojih; kosa ti je kao stado koza koje se vide na gori Galadu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Zubi su ti kao stado ovaca jednakih, kad izlaze iz kupala, koje se sve blizne a nijedne nema jalove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Usne su ti kao konac skerleta, a govor ti je ljubak; kao kriška šipka jagodice su tvoje izmeðu vitica tvojih;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Vrat ti je kao kula Davidova sazidana za oružje, gdje vise tisuæama štitovi i svakojako oružje junaèko;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Dvije su ti dojke kao dva laneta blizanca, koji pasu meðu ljiljanima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Dok dan zahladi i sjenke otidu, iæi æu ka gori smirnovoj i ka humu tamjanovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Sva si lijepa draga moja, i nema nedostatka na tebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Hodi sa mnom s Livana, nevjesto, hodi sa mnom s Livana, da gledaš s vrha Amanskoga, s vrha Senirskoga i Ermonskoga, iz peæina lavovskih, s gora risovskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Otela si mi srce, sestro moja nevjesto, otela si mi srce jednijem okom svojim i jednijem lanèiæem s grla svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Lijepa li je ljubav tvoja, sestro moja nevjesto, bolja je od vina ljubav tvoja, i miris ulja tvojih od svijeh mirisnijeh stvari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "S usana tvojih kaplje sat, nevjesto, pod jezikom ti je med i mlijeko, i miris je haljina tvojih kao miris Livanski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ti si vrt zatvoren, sestro moja nevjesto, izvor zatvoren, studenac zapeèaæen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Bilje je tvoje voænjak od šipaka s voæem krasnijem, od kipra i narda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Od narda i šafrana, od iðirota i cimeta sa svakojakim drvljem za kad, od smirne i aloja i sa svakim prekrasnim mirisima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Izvore vrtovima, studenèe vode žive i koja teèe s Livana!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ustani sjevere, i hodi juže, i duni po vrtu mom da kaplju mirisi njegovi; neka doðe dragi moj u vrt svoj, i jede krasno voæe svoje."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/SNG/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "SNG",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/SNG/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "SNG",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/SNG/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "SNG",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

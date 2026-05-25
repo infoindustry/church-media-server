@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "srp_865",
+    "name": "1. Dnevnika",
+    "commonName": "1. Dnevnika",
+    "title": "1. Dnevnika",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "8ea0acc08b93472f39af29d769974347b255ab628ab40782b4687010563cbf90",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 29,
+    "lastChapterApiLink": "/api/srp_865/1CH/29.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 29
+    },
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 25,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I odvoji David s vojvodama za službu sinove Asafove i Emanove i Jedutunove, koji æe prorokovati uz gusle i psaltire i kimvale; i biše izmeðu njih izbrojeni ljudi za posao u svojoj službi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Od sinova Asafovijeh: Zahur i Josif i Netanija i Asarila, sinovi Asafovi, pod rukom Asafa, koji prorokovaše po naredbi carevoj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Od Jedutuna: šest sinova Jedutunovijeh: Gedalija i Sorije i Jesaija, Asavija i Matatija i Simej pod rukom oca svojega Jedutuna, koji prorokovaše uz gusle hvaleæi i slaveæi Gospoda;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Od Emana: sinovi Emanovi: Vukija, Matanija, Ozilo, Sevuilo i Jerimot, Ananija i Ananije, Elijata, Gidaltija i Romamti-Ezer, Josvekasa, Malotije, Otir i Maziot."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ti svi bijahu sinovi Emana vidioca careva u rijeèima Božijim da se uzvišuje rog; jer Bog dade Emanu èetrnaest sinova i tri kæeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Svi oni bijahu pod rukom oca svojega pjevajuæi u domu Gospodnjem uz kimvale i psaltire i gusle za službu u domu Božijem, kako car nareðivaše Asafu i Jedutunu i Emanu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I bješe ih na broj s braæom njihovom obuèenom pjesmama Gospodnjim, dvjesta i osamdeset i osam, samijeh vještaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I baciše ždrijeb za službu svoju, mali kao veliki, uèitelj kao uèenik;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I pade prvi ždrijeb za Asafa na Josifa, drugi na Gedaliju s braæom i sinovima njegovijem, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Treæi na Zahura, sinove njegove i braæu njegovu, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Èetvrti na Iserija, sinove njegove i braæu njegovu, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Peti na Netaniju, sinove njegove i braæu njegovu, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Šesti na Vukiju, sinove njegove i braæu njegovu, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Sedmi na Jesarilu, sinove njegove i braæu njegovu, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Osmi na Jesaiju, sinove njegove i braæu njegovu, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Deveti na Mataniju, sinove njegove i braæu njegovu, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Deseti na Simeja, sinove njegove i braæu njegovu, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jedanaesti na Azareila, sinove njegove i braæu njegovu, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Dvanaesti na Asaviju, sinove njegove i braæu njegovu, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Trinaesti na Savuila, sinove njegove i braæu njegovu, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Èetrnaesti na Matatiju, sinove njegove i braæu njegovu, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Petnaesti na Jeremota, sinove njegove i braæu njegovu, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Šesnaesti na Ananiju, sinove njegove i braæu njegovu, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Sedamnaesti na Josvekasu, sinove njegove i braæu njegovu, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Osamnaesti na Ananija, sinove njegove i braæu njegovu, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Devetnaesti na Malotija, sinove njegove i braæu njegovu, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Dvadeseti na Elijatu, sinove njegove i braæu njegovu, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Dvadeset prvi na Otira, sinove njegove i braæu njegovu, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Dvadeset drugi na Gidaltiju, sinove njegove i braæu njegovu, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Dvadeset treæi na Maziota, sinove njegove i braæu njegovu, njih dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Dvadeset èetvrti na Romamti-Ezera, sinove njegove i braæu njegovu, njih dvanaest."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CH/25.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 25
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CH/26.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 26
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CH/24.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 24
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

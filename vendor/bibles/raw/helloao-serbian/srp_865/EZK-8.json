@@ -1,0 +1,202 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A šeste godine, šestoga mjeseca, dana petoga, kad sjeðah u svojoj kuæi i starješine Judine sjeðahu preda mnom, pade ondje na me ruka Gospoda Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I vidjeh, a to oblik na oèi kao oganj, od bedara mu dolje bješe oganj, a od bedara gore bješe kao svjetlost, kao jaka svjetlost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I pruži kao ruku, i uhvati me za kosu na glavi, i podiže me duh meðu nebo i zemlju, i odnese me u Jerusalim u utvari Božjoj na vrata unutrašnja koja gledaju na sjever, gdje stajaše idol od revnosti, koji draži na revnost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I gle, ondje bješe slava Boga Izrailjeva na oèi kao ona što je vidjeh u polju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I reèe mi: sine èovjeèji, podigni oèi svoje k sjeveru. I podigoh oèi svoje k sjeveru, i gle, sa sjevera na vratima oltarskim bijaše onaj idol od revnosti na ulasku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Potom mi reèe: sine èovjeèji, vidiš li što ti rade? velike gadove koje tu èini dom Izrailjev da otidem daleko od svetinje svoje? Ali æeš još vidjeti veæih gadova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I odvede me na vrata od trijema, i pogledah, a to jedna rupa u zidu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A on mi reèe: sine èovjeèji, prokopaj ovaj zid. I prokopah zid, a to jedna vrata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tada mi reèe: uði i vidi opake gadove koje èine tu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I ušav vidjeh, i gle, svakojake životinje što gamižu i svakojaki gadni skotovi, i svi gadni bogovi doma Izrailjeva bijahu napisani po zidu svuda unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I pred njima stajaše sedamdeset ljudi izmeðu starješina doma Izrailjeva s Jazanijom sinom Safanovijem, koji stajaše meðu njima, svaki s kadionicom svojom u ruci, i podizaše se gust oblak od kada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada mi reèe: vidiš li, sine èovjeèji, šta èine starješine doma Izrailjeva u mraku svak u svojoj pisanoj klijeti? jer govore: ne vidi nas Gospod, ostavio je Gospod ovu zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Potom mi reèe: još æeš vidjeti veæih gadova koje oni èine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I odvede me na vrata doma Gospodnjega koja su sa sjevera; i gle, žene sjeðahu i plakahu za Tamuzom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I reèe mi: jesi li vidio, sine èovjeèji? još æeš vidjeti veæih gadova od tijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I odvede me u trijem unutrašnji doma Gospodnjega; i gle, na ulasku u crkvu Gospodnju izmeðu trijema i oltara bješe oko dvadeset i pet ljudi okrenutijeh leðima k crkvi Gospodnjoj a licem k istoku, i klanjahu se suncu prema istoku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tada mi reèe: jesi li vidio, sine èovjeèji? malo li je domu Judinu što èine te gadove koje èine ovdje? nego još napuniše zemlju nasilja i okrenuše se da me draže; i eto drže granu pred nosom svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Zato æu i ja uèiniti u gnjevu, neæe žaliti oko moje, niti æu se smilovati, i kad stanu vikati iza glasa u moje uši, neæu ih uslišiti."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

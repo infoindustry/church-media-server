@@ -1,0 +1,412 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 106,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Hvalite Gospoda, jer je dobar, jer je dovijeka milost njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ko æe iskazati silu Gospodnju? isprièati svu slavu njegovu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Blago onima koji drže istinu i tvore pravo svagda!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Opomeni me se, Gospode, po svojoj milosti k narodu svojemu; pohodi me pomoæu svojom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Da bih vidio u dobru izbrane tvoje, veselio se u veselju naroda tvojega, hvalio se zajedno s našljedstvom tvojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Zgriješismo s ocima svojim, postasmo krivci, bezakonici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Oci naši u Misiru ne razumješe èudesa tvojih, ne opominjaše se velikih milosti tvojih, i vikaše kraj mora, kraj Crvenoga Mora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ali im on pomože imena svojega radi, da bi pokazao silu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Zaprijeti Crvenom Moru, i presahnu; i prevede ih preko bezdane kao preko pustinje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I saèuva ih od ruke nenavidnikove, i izbavi ih iz ruke neprijateljeve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Pokri voda neprijatelje njihove, nijedan od njih ne osta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada vjerovaše rijeèima njegovijem, i pjevaše mu hvalu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ali brzo zaboraviše djela njegova, i ne poèekaše volje njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Polakomiše se u pustinji, i stadoše kušati Boga u zemlji gdje se ne živi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "On ispuni molbu njihovu, ali posla pogibao na dušu njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Pozavidješe Mojsiju i Aronu, kojega bješe Gospod osvetio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Rasjede se zemlja, i proždrije Datana i zatrpa èetu Avironovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I spali oganj èetu njihovu, i plamen sažeže bezbožnike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Naèiniše tele kod Horiva, i klanjahu se kipu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Mijenjahu slavu svoju na priliku vola, koji jede travu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Zaboraviše Boga, spasitelja svojega, koji je uèinio velika djela u Misiru,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Divna u zemlji Hamovoj, strašna na Crvenom Moru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I šæaše ih istrijebiti, da Mojsije izbranik njegov ne stade kao u rasjelini pred njim, i ne odvrati jarost njegovu da ih ne istrijebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Poslije ne mariše za zemlju željenu, ne vjerovaše rijeèi njegovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Pobuniše se u šatorima svojim, ne slušaše glasa Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I on podiže ruku svoju na njih, da ih pobije u pustinji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Da pobije pleme njihovo meðu narodima, i rasije ih po zemljama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I pristaše za Velfegorom, i jedoše prineseno na žrtvu mrtvima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I rasrdiše Boga djelima svojim, i udari u njih pogibao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I ustade Fines, i umilostivi, i prestade pogibao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I to mu se primi u pravdu, od koljena do koljena dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I razgnjeviše Boga na vodi Merivi, i Mojsije postrada njih radi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Jer dotužiše duhu njegovu, i pogriješi ustima svojima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ne istrijebiše naroda, za koje im je Gospod rekao;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Nego se pomiješaše s neznabošcima, i nauèiše djela njihova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Stadoše služiti idolima njihovijem, i oni im biše zamka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Sinove svoje i kæeri svoje prinosiše na žrtvu ðavolima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Prolivaše krv pravu, krv sinova svojih i kæeri svojih, koje prinošahu na žrtvu idolima Hananskim, i oskvrni se zemlja krvnijem djelima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Oskvrniše sebe djelima svojim, i èiniše preljubu postupanjem svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I planu gnjev Gospodnji na narod njegov, i omrznu mu dio njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I predade ih u ruke neznabožaèke, i nenavidnici njihovi stadoše gospodariti nad njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Dosaðivaše im neprijatelji njihovi, i oni biše pokoreni pod vlast njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Mnogo ih je puta izbavljao, ali ga oni srdiše namjerama svojim, i biše poništeni za bezakonje svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Ali on pogleda na nevolju njihovu, èuvši tužnjavu njihovu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "I opomenu se zavjeta svojega s njima, i pokaja se po velikoj milosti svojoj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "I uèini, te ih stadoše žaliti svi koji ih bjehu zarobili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Spasi nas, Gospode Bože naš, i pokupi nas iz neznabožaca, da slavimo sveto ime tvoje, da se hvalimo tvojom slavom!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Blagosloven Gospod Bog Izrailjev od vijeka i do vijeka! I sav narod neka kaže: amin! Aliluja!"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/106.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 106
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/107.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 107
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/105.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 105
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 48
+}

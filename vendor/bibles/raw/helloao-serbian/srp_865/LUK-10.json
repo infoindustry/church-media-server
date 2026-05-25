@@ -1,0 +1,370 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "srp_865",
+    "name": "Luki",
+    "commonName": "Luki",
+    "title": "Jevanðelje po Luki",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "71d24bae001865beafd9dc8b76f8e93d8f927bd8e33391ea4aebbf53673c6a27",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LUK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/LUK/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A potom izabra Gospod i drugijeh sedamdesetoricu, i posla ih po dva i dva pred licem svojijem u svaki grad i u mjesto kuda šæaše sam doæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A reèe im: žetva je dakle velika a poslenika malo; nego se molite gospodaru od žetve da izvede poslenike na žetvu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Idite; eto ja vas šaljem kao jaganjce meðu vukove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ne nosite kese ni torbe ni obuæe, i nikoga ne pozdravljajte na putu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "U koju god kuæu uðete najprije govorite: mir kuæi ovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I ako dakle bude ondje sin mira, ostaæe na njemu mir vaš; ako li ne bude, vratiæe se k vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A u onoj kuæi budite, i jedite i pijte što u njih ima; jer je poslenik dostojan svoje plate; ne prelazite iz kuæe u kuæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I u koji god grad doðete i prime vas, jedite što se donese pred vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I iscjeljujte bolesnike koji su u njemu, i govorite im: približi se k vama carstvo Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I u koji god grad doðete i ne prime vas, izišavši na ulice njegove recite:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I prah od grada vašega koji je prionuo za nas otresamo vam; ali ovo znajte da se približi k vama carstvo Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Kažem vam da æe Sodomu biti lakše u onaj dan negoli gradu onome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Teško tebi, Horazine! teško tebi, Vitsaido! Jer da su u Tiru i u Sidonu bila èudesa što su bila u vama, davno bi se u vreæi i u pepelu sjedeæi pokajali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ali Tiru i Sidonu biæe lakše na sudu nego vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I ti, Kapernaume! koji si se do nebesa podigao do pakla æeš propasti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ko vas sluša mene sluša; i ko se vas odrièe mene se odrièe; a ko se mene odrièe, odrièe se onoga koji je mene poslao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Vratiše se pak sedamdesetorica s radosti govoreæi: Gospode! i ðavoli nam se pokoravaju u ime tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A on im reèe: ja vidjeh sotonu gdje spade s neba kao munja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Evo vam dajem vlast da stajete na zmije i na skorpije i na svaku silu neprijateljsku, i ništa vam neæe nauditi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ali se tome ne radujte što vam se duhovi pokoravaju, nego se radujte što su vaša imena napisana na nebesima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "U taj èas obradova se Isus u duhu i reèe: hvalim te, oèe, Gospode neba i zemlje, što si ovo sakrio od premudrijeh i razumnijeh a kazao si prostima. Da, oèe, jer je tako bila volja tvoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I okrenuvši se k uèenicima reèe: sve je meni predao otac moj, i niko ne zna ko je sin osim oca, ni ko je otac osim sina, i ako sin hoæe kome kazati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I okrenuvši se k uèenicima nasamo reèe: blago oèima koje vide što vi vidite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer vam kažem da su mnogi proroci i carevi željeli vidjeti što vi vidite, i ne vidješe; i èuti što vi èujete, i ne èuše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I gle, ustade jedan zakonik i kušajuæi ga reèe: uèitelju! šta æu èiniti da dobijem život vjeèni?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A on mu reèe: šta je napisano u zakonu? kako èitaš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A on odgovarajuæi reèe: ljubi Gospoda Boga svojega svijem srcem svojijem, i svom dušom svojom, i svom snagom svojom, i svom misli svojom; i bližnjega svojega kao samoga sebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Reèe mu pak: pravo si odgovorio; to èini i biæeš živ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A on šæadijaše da se opravda, pa reèe Isusu: a ko je bližnji moj?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A Isus odgovarajuæi reèe: jedan èovjek silažaše iz Jerusalima u Jerihon, pa ga uhvatiše hajduci, koji ga svukoše i izraniše, pa otidoše, ostavivši ga pola mrtva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A iznenada silažaše onijem putem nekakav sveštenik, i vidjevši ga proðe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A tako i Levit kad je bio na onome mjestu, pristupi, i vidjevši ga proðe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A Samarjanin nekakav prolazeæi doðe nad njega, i vidjevši ga sažali mu se;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I pristupivši zavi mu rane i zali uljem i vinom; i posadivši ga na svoje kljuse dovede u gostionicu, i ustade oko njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I sjutradan polazeæi izvadi dva groša te dade krèmaru, i reèe mu: gledaj ga, i što više potrošiš ja æu ti platiti kad se vratim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Šta misliš dakle, koji je od one trojice bio bližnji onome što su ga bili uhvatili hajduci?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A on reèe: onaj koji se smilovao na njega. A Isus mu reèe: idi, i ti èini tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A kad iðahu putem i on uðe u jedno selo, a žena neka, po imenu Marta, primi ga u svoju kuæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I u nje bješe sestra, po imenu Marija, koja i sjede kod nogu Isusovijeh i slušaše besjedu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A Marta se bješe zabunila kako æe ga doèekati, i prikuèivši se reèe: Gospode! zar ti ne mariš što me sestra moja ostavi samu da služim? reci joj dakle da mi pomože."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A Isus odgovarajuæi reèe joj: Marta! Marta! brineš se i trudiš za mnogo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A samo je jedno potrebno. Ali je Marija dobri dijel izabrala, koji se neæe uzeti od nje."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LUK/10.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 10
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LUK/11.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 11
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LUK/9.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 9
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 42
+}

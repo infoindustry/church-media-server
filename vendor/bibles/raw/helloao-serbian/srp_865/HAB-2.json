@@ -1,0 +1,216 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "HAB",
+    "translationId": "srp_865",
+    "name": "Avakum",
+    "commonName": "Avakum",
+    "title": "Avakum",
+    "order": 35,
+    "numberOfChapters": 3,
+    "sha256": "c20a4246255927307b8baac3f6346d9b1098ca0c2e46de5cd50d0e26614ae76e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/HAB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "HAB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 3,
+    "lastChapterApiLink": "/api/srp_865/HAB/3.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "HAB",
+      "chapter": 3
+    },
+    "totalNumberOfVerses": 56
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Na straži svojoj stadoh, i stajah na kuli, i motrah da vidim šta æe mi reæi i šta bih odgovorio onome koji me koraše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I odgovori mi Gospod i reèe: piši utvaru, i da bude razgovijetno na ploèama da se lako èita."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer æe još biti utvara do odreðenoga vremena, i govoriæe šta æe biti do pošljetka i neæe slagati; ako oklijeva, èekaj je, jer æe zacijelo doæi, i neæe odocniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Gle, ko se ponosi, njegova duša nije prava u njemu; a pravednik æe od vjere svoje živ biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A kako vino vara, taki je èovjek ohol, niti ostaje u stanu; jer raširuje duh svoj kao grob, i kao smrt je, koja se ne može nasititi i zbira k sebi sve narode i skuplja k sebi sva plemena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Neæe li ga svi oni uzeti u prièu i u zagonetke, i reæi: teško onom koji umnožava što nije njegovo! dokle æe? i koji trpa na se gusto blato."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Neæe li najedanput ustati oni koji æe te gristi? i neæe li se probuditi oni koji æe te rastrzati, i kojima æeš biti grabež?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Što si ti oplijenio mnoge narode, tebe æe oplijeniti sav ostatak od naroda, za krv ljudsku i za nasilje uèinjeno zemlji, gradu i svjema koji žive u njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Teško onome koji se lakomi na gadan dobitak kuæi svojoj, da postavi gnijezdo svoje na visokom mjestu i saèuva se oda zla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Smislio si sramotu kuæi svojoj da zatreš mnoge narode, i ogriješio si se o svoju dušu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer æe kamen iz zida vikati, i èvor iz drveta svjedoèiæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Teško onome koji gradi grad krvlju i osniva grad nepravdom!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Gle, nije li od Gospoda nad vojskama da ljudi rade za oganj i narodi se trude ni za što?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer æe se zemlja napuniti poznanja slave Gospodnje kao što je more puno vode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Teško onome koji poji bližnjega svojega, dodaje mijeh svoj da bi ga opojio i gledao mu golotinju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Nasitiæeš se sramote mjesto slave, pij i ti, i otkrij golotinju svoju; doæi æe k tebi èaša u desnici Gospodnjoj, i bljuvotina æe sramna biti na slavi tvojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer nasilje uèinjeno Livanu pokriæe te i pustoš meðu zvijerjem koja ga je plašila, za krv ljudsku i nasilje uèinjeno zemlji, gradu i svjema koji žive u njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Šta pomaže rezan lik što ga izreza umjetnik njegov? šta liven lik i uèitelj laži, te se umjetnik uzda u djelo svoje gradeæi nijeme idole?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Teško onome koji govori drvetu: preni se! i nijemu kamenu: probudi se! Hoæe li on uèiti? Eto, obložen je zlatom i srebrom, a nema duha u njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Gospod je u svetoj crkvi svojoj; muèi pred njim, sva zemljo!"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/HAB/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "HAB",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/HAB/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "HAB",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/HAB/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "HAB",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 20
+}

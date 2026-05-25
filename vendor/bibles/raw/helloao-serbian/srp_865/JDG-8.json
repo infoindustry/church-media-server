@@ -1,0 +1,321 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JDG",
+    "translationId": "srp_865",
+    "name": "Sudije",
+    "commonName": "Sudije",
+    "title": "Sudije",
+    "order": 7,
+    "numberOfChapters": 21,
+    "sha256": "b90b96d9ad07648b61c3175adb672cbdc04a1a389be225dc4596659462d0e4db",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JDG/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JDG/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 618
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A ljudi od plemena Jefremova rekoše mu: šta nam to uèini te nas ne pozva kad poðe u boj na Madijane? I vikahu na nj žestoko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A on im reèe: pa šta sam uèinio tako kao vi? nije li pabirèenje Jefremovo bolje nego berba Avijezerova?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Vama je u ruke dao Gospod knezove Madijanske, Oriva i Ziva; pa što ja mogoh uèiniti tako kao vi? Tada se utiša duh njihov prema njemu kad tako govori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A kad Gedeon doðe na Jordan, prijeðe preko njega s trista ljudi koji bjehu s njim, a bjehu umorni goneæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Pa reèe ljudima Sokoæanima: dajte nekoliko hljebova narodu koji ide za mnom, jer su umorni, a ja gonim Zeveja i Salmana careve Madijanske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A glavari Sokotski rekoše mu: je li pesnica Zevejeva i Salmanova veæ u tvojoj ruci da damo hljeba tvojoj vojsci?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Gedeon im reèe: kad mi Bog preda Zeveja i Salmana u ruku, tada æu pomlatiti tjelesa vaša trnjem iz ove pustinje i draèom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I otide odande u Fanuil, i reèe Fanuiljanima isto onako, a oni mu odgovoriše kao što odgovoriše ljudi u Sokotu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Zato i ljudima Fanuiljanima reèe: kad se vratim zdravo, razvaliæu tu kulu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Zevej i Salman bijahu u Karkoru, i vojska njihova s njima, oko petnaest tisuæa, što ih god osta od sve vojske istoène; a pobijenijeh bijaše sto i dvadeset tisuæa ljudi koji mahahu maèem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I otide Gedeon preko onijeh što žive pod šatorima, s istoka Novi i Jogveji, i udari na vojsku kad vojska stajaše bezbrižna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A Zevej i Salman pobjegoše, a on ih potjera, i uhvati dva cara Madijanska, Zeveja i Salmana, i raspudi svu vojsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I vrati se Gedeon sin Joasov iz boja prije sunèanoga roðaja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I uhvati momka iz Sokota, i ispitiva ga; a on mu popisa knezove Sokotske i starješine, sedamdeset i sedam ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Pa kad doðe k Sokoæanima, reèe: evo Zeveja i Salmana, za koje mi se rugaste govoreæi: je li pesnica Zevejeva i Salmanova veæ u tvojoj ruci, da damo hljeba umornijem ljudima tvojim?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I uzevši starješine onoga mjesta i trnja iz pustinje i draèe dade na njima ugled Sokoæanima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I kulu Fanuilsku razvali i pobi ljude tamošnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Potom reèe Zeveju i Salmanu: kaki bjehu ljudi koje pobiste na Tavoru? A oni rekoše: taki kao ti; svaki bješe na oèima kao carski sin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A on reèe: to bjehu moja braæa, sinovi moje matere. Tako Gospod bio živ! da ste ih ostavili u životu, ne bih vas pogubio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Tada reèe Jeteru prvencu svojemu: ustani, pogubi ih. Ali dijete ne izvuèe maèa svojega, jer se bojaše, jer bješe još dijete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tada reèe Zevej i Salman: ustani ti, uloži na nas; jer kakav je èovjek onaka mu je i snaga. I ustavši Gedeon pogubi Zeveja i Salmana, i uze mjeseèiæe koji bijahu o vratovima kamila njihovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Potom rekoše Izrailjci Gedeonu: budi nam gospodar ti i sin tvoj i sin sina tvojega, jer si nas izbavio iz ruke Madijanske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A Gedeon im reèe: neæu vam ja biti gospodar, niti æe vam sin moj biti gospodar; Gospod æe vam biti Gospodar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Još im reèe Gedeon: jedno æu iskati od vas: da mi date svaki grivnu od plijena svojega. A grivne imahu zlatne, jer bjehu Ismailjci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I odgovoriše: daæemo drage volje. I razastrvši haljinu bacaše na nju grivne, svaki od plijena svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I bješe na mjeru zlatnijeh grivana što iziska tisuæa i sedam stotina sikala zlata, osim mjeseèiæa i lanèiæa i haljina skerletnijeh, što nošahu carevi Madijanski, i osim litarova, što bijahu oko vrata kamila njihovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I Gedeon naèini od toga opleæak, i ostavi ga u svojem gradu Ofri; i ondje sav Izrailj stade èiniti preljubu za njim, i bi Gedeonu i domu njegovu zamka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Tako biše pokoreni Madijani pred sinovima Izrailjevijem, i više ne digoše glave. I zemlja bi mirna èetrdeset godina za vijeka Gedeonova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I otišav Jeroval sin Joasov osta u svojoj kuæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A imaše Gedeon sedamdeset sinova, koji izidoše od bedara njegovijeh, jer imaše mnogo žena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A inoèa njegova, koja bijaše u Sihemu, i ona mu rodi sina, i nadje mu ime Avimeleh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Potom umrije Gedeon sin Joasov u dobroj starosti, i bi pogreben u grobu Joasa oca svojega Avijezerita u Ofri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A kad umrije Gedeon, opet sinovi Izrailjevi èiniše preljubu za Valima, i postaviše sebi Val-Verita za boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I ne sjeæaše se sinovi Izrailjevi Gospoda Boga svojega, koji ih je izbavio iz ruku svijeh neprijatelja njihovijeh unaokolo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I ne uèiniše milosti domu Jerovala Gedeona prema svemu dobru što je on uèinio Izrailju."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JDG/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JDG/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JDG/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

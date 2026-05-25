@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "srp_865",
+    "name": "2. Dnevnika",
+    "commonName": "2. Dnevnika",
+    "title": "2. Dnevnika",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "712160a45a7d7fb40ad6e8f55f27c6bc71cf3a3fca70d89afd22674733ec70a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/2CH/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 24,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Bijaše Joasu sedam godina kad se zacari, i carova èetrdeset godina u Jerusalimu. Materi mu bješe ime Sivija iz Virsaveje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I èinjaše Joas što je pravo pred Gospodom dokle god bijaše živ Jodaj sveštenik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I Jodaj ga oženi dvjema ženama, te rodi sinove i kæeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Potom Joas naumi da opravi dom Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I sazva sveštenike i Levite, pa im reèe: poðite po gradovima Judinijem i kupite od svega Izrailja novaca da se opravlja dom Boga vašega od godine do godine, i vi pohitajte s tijem. Ali ne hitješe Leviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Zato car dozva Jodaja poglavara i reèe mu: zašto ne nastojiš da Leviti donose iz Judeje i Jerusalima priloge koje je naredio Mojsije sluga Gospodnji zboru Izrailjevu na šator od sastanka?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer bezbožna Gotolija i sinovi njezini oplijeniše dom Gospodnji i sve stvari posveæene domu Gospodnjemu obratiše na Vale."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I tako zapovjedi car te naèiniše kovèeg, i metnuše ga na vrata doma Gospodnjega spolja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I oglasiše po Judeji i po Jerusalimu da donose Gospodu prilog koji je naredio Mojsije sluga Božji Izrailju u pustinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I obradovaše se knezovi i sav narod, i donoseæi metahu u kovèeg dokle se ne svrši."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I kad donošahu Leviti kovèeg po zapovijesti carevoj, vidjevši da ima mnogo novaca, dolažaše pisar carev i poslanik poglavara sveštenièkoga, te izruèivahu kovèeg, potom ga opet odnošahu i ostavljahu na njegovo mjesto; i tako èinjahu svaki dan, i nakupiše mnogo novaca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I davaše ga car Jodaj nastojnicima nad poslom oko doma Gospodnjega, a oni naimahu kamenare i drvodjelje da se obnovi dom Gospodnji, i kovaèe koji rade od gvožða i od mjedi, da se opravi dom Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I poslovahu poslenici, i opravljanje napredovaše pod njihovijem rukama, te povratiše domu Božijemu oblièje njegovo, i utvrdiše ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A kad svršiše, donesoše pred cara i Jodaja novce što pretekoše; i od toga naèini sudove za dom Gospodnji, sudove za službu i za žrtve, i kadionice, i druge sudove zlatne i srebrne. I tako prinošahu žrtve paljenice u domu Gospodnjem jednako svega vijeka Jodajeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Potom ostarjevši Jodaj sit života umrije; sto i trideset godina bješe mu kad umrije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I pogreboše ga u gradu Davidovu kod careva; jer èinjaše dobro Izrailju i Bogu i domu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A kad umrije Jodaj, doðoše knezovi Judini i pokloniše se caru; tada ih posluša car,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Te ostaviše dom Gospoda Boga otaca svojih, i stadoše služiti lugovima i idolima; i podiže se gnjev Gospodnji na Judu i na Jerusalim za taj grijeh njihov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I slaše im proroke da ih vrate ka Gospodu, i oni im svedoèahu, ali ih ne poslušaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I doðe duh Gospodnji na Zahariju sina Jodaja sveštenika, te stade više naroda i reèe im: ovako veli Bog: zašto prestupate zapovijesti Gospodnje? neæete biti sreæni; što ostaviste Gospoda, zato i on vas ostavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A oni se pobuniše na nj, i zasuše ga kamenjem po zapovijesti carevoj u trijemu doma Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I ne opomenu se Joas milosti koju mu uèini Jodaj otac njegov, nego ubi sina njegova; a on umiruæi reèe: Gospod neka vidi i traži."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A kad proðe godina, podiže se na nj vojska Sirska i uðe u zemlju Judejsku i u Jerusalim, i pobiše po narodu sve knezove narodne, i sav plijen od njih poslaše caru u Damasak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ako i mala bješe vojska Sirska koja doðe, ipak Gospod dade u ruke njihove vrlo veliku vojsku, jer bjehu ostavili Gospoda Boga otaca svojih. I tako na Joasu izvršiše sud."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A kad otidoše od njega ostavivši ga u teškoj bolesti, pobuniše se na nj sluge njegove za krv sinova Jodaja sveštenika, i ubiše ga na postelji njegovoj, te pogibe; i pogreboše ga u gradu Davidovu, ali ga ne pogreboše u grobovima carskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A ovo su što se pobuniše na nj: Zavad sin Simeate Amonke i Jozavad sin Simrite Moavke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A o sinovima njegovijem i o velikoj porezi što bi pod njim, i o graðenju doma Božijega, eto zapisano je u knjizi o carevima. A zacari se na njegovo mjesto Amasija sin njegov."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CH/24.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 24
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CH/25.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 25
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CH/23.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 23
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

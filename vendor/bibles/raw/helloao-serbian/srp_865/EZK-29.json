@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 29,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Godine desete, desetoga mjeseca, dvanaestoga dana, doðe mi rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Sine èovjeèji, okreni lice svoje prema Faraonu caru Misirskom, i prorokuj protiv njega i protiv svega Misira."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Govori i reci: ovako veli Gospod Gospod: evo me na te, Faraone care Misirski, zmaju veliki što ležiš usred rijeka svojih, koji reèe: moja je rijeka; ja sam je naèinio sebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Zato æu ti metnuti u èeljusti udicu, i uèiniæu da se ribe u rijekama tvojim nahvataju na krljušti tvoje; i izvuæi æu te iz rijeka tvojih i sve ribe iz rijeka tvojih nahvatane na krljušti tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I ostaviæu u pustinji tebe i sve ribe iz tvojih rijeka, i pašæeš na zemlju i neæeš se pokupiti ni sabrati, zvijerima zemaljskim i pticama nebeskim daæu te da te jedu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I svi æe stanovnici Misirski poznati da sam ja Gospod; jer su štap od trske domu Izrailjevu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Kad te uhvatiše u ruku, ti se slomi i rasijeèe im sve rame; a kad se nasloniše na te, ti se prebi i probode im sva bedra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Zato ovako veli Gospod Gospod: evo, ja æu pustiti na te maè, i istrijebiæu iz tebe ljude i stoku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I zemlja æe se Misirska opustošiti i biti pusta, i poznaæe se da sam ja Gospod, jer reèe: moja je rijeka, i ja sam je naèinio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zato evo me na tebe i na rijeke tvoje, i obratiæu zemlju Misirsku u pustoš i samu pustinju, od kule Sinske do meðe Etiopske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Neæe prelaziti preko nje nogom svojom èovjek, niti æe živinèe nogom svojom prelaziti preko nje, i neæe se živjeti u njoj èetrdeset godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I uèiniæu od zemlje Misirske pustoš meðu zemljama opustošenim, i gradovi æe njezini meðu pustijem gradovima biti pustoš èetrdeset godina, i rasijaæu Misirce meðu narode i razasuæu ih po zemljama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer ovako veli Gospod Gospod: poslije èetrdeset godina skupiæu Misirce iz naroda u koje budu rasijani."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I povratiæu roblje Misirsko, i dovešæu ih opet u zemlju Patros, na postojbinu njihovu, i ondje æe biti malo carstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Malo æe biti mimo ostala carstva, niti æe se više uzdignuti nad narode, jer æu ih smanjiti da ne vladaju narodima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I neæe više biti domu Izrailjevu uzdanica da napominje bezakonje kad bi gledali za njima; i poznaæe da sam ja Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A dvadeset sedme godine, prvoga mjeseca, prvoga dana, doðe mi rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Sine èovjeèji, Navuhodonosor car Vavilonski zadade vojsci svojoj tešku službu protiv Tira; svaka glava oæelavi i svako se rame odrije, a plate ne bi ni njemu ni vojsci njegovoj od Tira za službu kojom služiše protiv njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Zato ovako veli Gospod Gospod: evo ja dajem Navuhodonosoru caru Vavilonskom zemlju Misirsku, i on æe odvesti narod i odnijeti plijen i pograbiti grabež, i to æe biti plata njegovoj vojsci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Za trud kojim se trudio oko toga dadoh mu zemlju Misirsku, jer se za me trudiše, govori Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "U onaj æu dan uèiniti da naraste rog domu Izrailjevu, i tebi æu otvoriti usta meðu njima, i znaæe da sam ja Gospod."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/29.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 29
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/30.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 30
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/28.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 28
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

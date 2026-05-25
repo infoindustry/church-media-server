@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Godine tridesete, mjeseca èetvrtoga, petoga dana, kad bijah meðu robljem na rijeci Hevaru, otvoriše se nebesa, i vidjeh utvare Božje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Petoga dana toga mjeseca, pete godine otkako se zarobi car Joahin,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Doðe rijeè Gospodnja Jezekilju sinu Vuzijevu, svešteniku, u zemlji Haldejskoj na rijeci Hevaru, i ondje doðe ruka Gospodnja nada nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I vidjeh, i gle, silan vjetar dolažaše od sjevera, i velik oblak i oganj koji se razgorijevaše, i oko njega svjetlost, a isred ognja kao jaka svjetlost;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Isred njega još kao èetiri životinje, koje na oèi bijahu nalik na èovjeka;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I u svake bijahu èetiri lica, i èetiri krila u svake;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I noge im bijahu prave, a u stopalu bijahu im noge kao u teleta; i sijevahu kao uglaðena mjed."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I ruke im bijahu èovjeèije pod krilima nad èetiri strane, i lica im i krila bijahu na èetiri strane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Sastavljena im bijahu krila jedno s drugim; i ne okretahu se iduæi, nego svaka iðaše naprema se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I lice bijaše u sve èetiri lice èovjeèije i lice lavovo s desne strane, a s lijeve strane lice volujsko i lice orlovo u sve èetiri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I lica im i krila bijahu razdijeljena ozgo; u svake se dva krila sastavljahu jedno s drugim, a dva pokrivahu im tijelo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I svaka iðaše pravo naprema se; iðahu kuda duh iðaše, i ne okretahu se iduæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I na oèi bijahu te životinje kao živo ugljevlje, gorahu na oèi kao svijeæe; taj oganj prolažaše izmeðu životinja i svijetljaše se, i iz ognja izlažaše munja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I životinje trèahu i vraæahu se kao munja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I kad gledah životinje, gle, toèak jedan bijaše na zemlji uza svaku životinju prema èetiri lica njihova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Oblièjem i napravom bijahu toèkovi kao boje hrisolitove, i sva èetiri bijahu jednaka, i oblièjem i napravom bijahu kao da je jedan toèak u drugom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Kad iðahu, iðahu sva èetiri svaki na svoju stranu, i iduæi ne skretahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I naplaci im bijahu visoki strahota; i bijahu naplaci puni oèiju unaokolo u sva èetiri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I kad iðahu životinje, iðahu i toèkovi uz njih; i kad se životinje podizahu od zemlje, podizahu se i toèkovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Kuda duh iðaše, onamo iðahu, i podizahu se toèkovi prema njima, jer duh životinjski bješe u toèkovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Kad one iðahu, iðahu i oni; i kad one stajahu, stajahu i oni; i kad se one podizahu od zemlje, podizahu se i toèkovi prema njima, jer duh životinjski bješe u toèkovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A nad glavama životinjama bijaše kao nebo, po viðenju kao kristal, strašno, razastrto ozgo nad glavama njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A pod tijem nebom bijahu im krila pružena, jedno prema drugom, a dva krila svakoj pokrivahu tijelo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I èujah huku krila njihovijeh kad iðahu kao da bješe huka velike vode, kao glas svemoguæega i kao graja u okolu; i kad stajahu, spuštahu krila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I kad stavši spuštahu krila, èujaše se glas ozgo iz neba, koje bijaše nad glavama njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I ozgo na onom nebu što im bijaše nad glavama, bijaše kao prijesto, po viðenju kao kamen safir, i na prijestolu bijaše po oblièju kao èovjek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I vidjeh kao jaku svjetlost, i u njoj unutra kao oganj naokolo, od bedara gore, a od bedara dolje vidjeh kao oganj i svjetlost oko njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Kao duga u oblaku kad je kiša, taka na oèi bijaše svjetlost unaokolo. To bijaše viðenje slave Božje na oèima; i kad vidjeh, padoh na lice svoje, i èuh glas nekoga koji govoraše."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LAM/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LAM",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

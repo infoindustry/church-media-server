@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ovako mi reèe Gospod: idi i kupi sebi pojas lanen i opaši se njim, a ne meæi ga u vodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Tako kupih pojas po rijeèi Gospodnjoj, i opasah se njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Potom doðe mi opet rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Uzmi taj pojas što si kupio, što je oko tebe, pa se digni i idi na Efrat, i sakrij ga ondje u kaku rasjelinu kamenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I otidoh i sakrih ga kod Efrata, kako mi zapovjedi Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A poslije mnogo vremena reèe mi Gospod: ustani i idi na Efrat, i uzmi pojas koji ti zapovjedih da sakriješ ondje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I otidoh na Efrat i otkopah i uzeh pojas s mjesta gdje ga bijah sakrio; a gle, pojas otruhnuo, i ne bješe ni za što."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tada mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ovako veli Gospod: tako æu uèiniti da otruhne ponos Judin i veliki ponos Jerusalimski,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Toga naroda nevaljaloga, što neæe da sluša mojih rijeèi, što hodi po mislima srca svojega i ide za drugim bogovima služeæi im i klanjajuæi im se; i biæe kao taj pojas, koji nije ni za što."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer kako se pojas pripoji oko èovjeka, tako bijah pripojio oko sebe sav dom Izrailjev i sav dom Judin, veli Gospod, da bi bili moj narod na slavu i hvalu i diku; ali ne poslušaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zato im reci ovu rijeè: ovako veli Gospod Bog Izrailjev: svi se mjehovi pune vina. A oni æe reæi: zar ne znamo da se svi mjehovi pune vina?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada im reci: ovako veli Gospod: evo, ja æu napuniti pjanosti sve stanovnike ove zemlje i careve, koji sjede mjesto Davida na prijestolu njegovu, i sveštenike i proroke i sve stanovnike Jerusalimske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I razbiæu ih jednoga o drugoga, i oceve i sinove, veli Gospod; neæu požaliti ni poštedjeti niti se smilovati, da ih ne potrem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Slušajte i èujte, nemojte se ponositi, jer Gospod govori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Dajte slavu Gospodu Bogu svojemu dok nije spustio mrak, dokle se nijesu spotakle noge vaše po gorama mraènijem, da èekate svjetlost a on je obrati u sjen smrtni i pretvori u tamu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ako li ovo ne poslušate, duša æe moja plakati tajno radi oholosti vaše i roniti suze, suze æe teæi iz oka mojega, jer æe se zarobiti stado Gospodnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Reci caru i carici: dolje sjedite, jer æe se slavni vijenac vaš skinuti s vaše glave."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Gradovi južni zatvoriæe se i neæe biti nikoga da ih otvori, odvešæe se Juda u ropstvo, sasvijem æe se odvesti u ropstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Podignite oèi svoje i vidite one što idu od sjevera. Gdje je stado što ti je predano, stado slave tvoje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Šta æeš reæi kad te pohodi? Jer si ih ti nauèio da budu knezovi nad tobom. Neæe li te spopasti bolovi kao ženu kad se poraða?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ako li reèeš u srcu svom: zašto me to zadesi? za mnoštvo bezakonja tvojega uzgrnuæe se skuti tvoji i obuæa ti se skinuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Može li Etiopljanin promijeniti kožu svoju ili ris šare svoje? možete li vi èiniti dobro nauèivši se èiniti zlo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Zato æu ih razmetnuti kao što razmeæe pljevu vjetar iz pustinje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "To je dio tvoj i obrok tvoj od mene, govori Gospod, zato što si me zaboravio i pouzdao se u laž."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Zato æu ti ja uzgrnuti skute na lice da se vidi sramota tvoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Preljube tvoje, rzanje tvoje, sramotna kurvarstva tvoja po humovima, po poljima, gadove tvoje vidio sam; teško tebi, Jerusalime! zar se neæeš oèistiti? dokle još?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/13.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 13
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/14.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 14
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/12.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 12
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

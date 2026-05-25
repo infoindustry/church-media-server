@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Rijeè koja doðe Jeremiji od Gospoda govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Slušajte rijeèi ovoga zavjeta, i kazujte ljudima Judinijem i stanovnicima Jerusalimskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reci im: ovako veli Gospod Bog Izrailjev: proklet da je ko ne posluša rijeèi ovoga zavjeta,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Koji zapovjedih ocima vašim kad ih izvedoh iz zemlje Misirske iz peæi gvozdene govoreæi: slušajte glas moj i tvorite ovo sve kako vam zapovijedam, pa æete mi biti narod i ja æu vam biti Bog,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Da bih ispunio zakletvu kojom se zakleh ocima vašim da æu im dati zemlju u kojoj teèe mlijeko i med, kako se vidi danas. A ja odgovorih i rekoh: amin, Gospode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Potom reèe mi Gospod: kazuj sve ove rijeèi po gradovima Judinijem i po ulicama Jerusalimskim govoreæi: slušajte rijeèi ovoga zavjeta, i izvršujte ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer tvrdo zasvjedoèavah ocima vašim otkad ih izvedoh iz zemlje Misirske do danas, zarana jednako govoreæi: slušajte glas moj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ali ne poslušaše i ne prignuše uha svojega, nego hodiše svaki za mislima zloga srca svojega; zato pustih na njih sve rijeèi ovoga zavjeta, koji zapovjedih da vrše a oni ne vršiše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tada mi reèe Gospod: buna je meðu ljudima Judinijem i stanovnicima Jerusalimskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Vratili su se na bezakonja starijeh svojih, koji ne htješe slušati mojih rijeèi, i idu za drugim bogovima, te im služe; dom Izrailjev i dom Judin pokvariše zavjet moj, koji uèinih s ocima njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zato ovako veli Gospod: evo, ja æu pustiti na njih zlo, iz kojega neæe moæi izaæi, i vapiæe k meni, ali ih neæu uslišiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada æe gradovi Judini i stanovnici Jerusalimski iæi i vapiti k bogovima kojima kade, ali im neæe pomoæi u nevolji njihovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer imaš bogova, Judo, koliko gradova, i koliko ima ulica u Jerusalimu, toliko podigoste oltara sramotnijeh, oltara, da kadite Valu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ti se dakle ne moli za taj narod, i ne podiži vike ni molbe za njih, jer ih neæu uslišiti kad zavapiju k meni u nevolji svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Što æe mili moj u domu mom, kad èini grdilo s mnogima, i sveto meso otide od tebe, i veseliš se kad zlo èiniš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Gospod te nazva maslinom zelenom, lijepom radi dobroga roda; ali s hukom velikoga vjetra raspali oganj oko nje, i grane joj se polomiše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer Gospod nad vojskama, koji te je posadio, izreèe zlo po te, za zloæu doma Izrailjeva i doma Judina, koju èiniše meðu sobom da bi me razgnjevili kadeæi Valu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Gospod mi objavi, te znam; ti mi pokaza djela njihova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A ja bijah kao jagnje i tele koje se vodi na klanje, jer ne znadijah da se dogovaraju na me: oborimo drvo s rodom njegovijem, i istrijebimo ga iz zemlje živijeh, da mu se ime ne spominje više."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ali, Gospode nad vojskama, sudijo pravedni, koji ispituješ bubrege i srce, daj da vidim osvetu tvoju na njima, jer tebi kazah parbu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Zato ovako veli Gospod za Anatoæane, koji traže dušu tvoju govoreæi: ne prorokuj u ime Gospodnje, da ne pogineš od naših ruku;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Zato ovako veli Gospod nad vojskama: evo, ja æu ih pohoditi; mladiæi æe njihovi izginuti od maèa, sinovi njihovi i kæeri njihove izginuæe od gladi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I neæe biti od njih ostatka; jer æu pustiti zlo na Anatoæane kad ih pohodim."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

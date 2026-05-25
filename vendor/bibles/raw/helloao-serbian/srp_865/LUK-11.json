@@ -1,0 +1,454 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "srp_865",
+    "name": "Luki",
+    "commonName": "Luki",
+    "title": "Jevanðelje po Luki",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "71d24bae001865beafd9dc8b76f8e93d8f927bd8e33391ea4aebbf53673c6a27",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LUK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/LUK/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I kad se moljaše Bogu na jednom mjestu pa presta, reèe mu neki od uèenika njegovijeh: Gospode! nauèi nas moliti se Bogu, kao što i Jovan nauèi svoje uèenike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A on im reèe: kad se molite Bogu govorite: oèe naš koji si na nebesima, da se sveti ime tvoje; da doðe carstvo tvoje; da bude volja tvoja i na zemlji kao na nebu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Hljeb naš potrebni daji nam svaki dan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I oprosti nam grijehe naše, jer i mi opraštamo svakome dužniku svojemu; i ne navedi nas u napast; nego nas izbavi oda zla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I reèe im: koji od vas ima prijatelja, i otide mu u ponoæi i reèe mu: prijatelju! daj mi tri hljeba u zajam;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer mi doðe prijatelj s puta, i nemam mu šta postaviti;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A on iznutra odgovarajuæi da reèe: ne uznemiruj me; veæ su vrata zatvorena i djeca su moja sa mnom u postelji, i ne mogu ustati da ti dam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I kažem vam: ako i ne ustane da mu da zato što mu je prijatelj, ali za njegovo bezobrazno iskanje ustaæe i daæe mu koliko treba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I ja vama kažem: ištite i daæe vam se: tražite i naæi æete; kucajte i otvoriæe vam se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer svaki koji ište, prima; i koji traži, nalazi; i koji kuca, otvora mu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Koji je meðu vama otac u koga ako sin zaište hljeba da mu da kamen? Ili ako zaište ribe da mu da mjesto ribe zmiju?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ili ako zaište jaje da mu da skorpiju?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Kad dakle vi, zli buduæi, umijete dobre dare davati djeci svojoj, koliko æe više otac nebeski dati Duha svetoga onima koji ištu u njega?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I jednom izgna ðavola koji bješe nijem; kad ðavo iziðe progovori nijemi; i diviše se ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A neki od njih rekoše: pomoæu Veelzevula kneza ðavolskoga izgoni ðavole."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A drugi kušajuæi ga iskahu od njega znak s neba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A on znajuæi pomisli njihove reèe im: svako carstvo koje se razdijeli samo po sebi, opustjeæe, i dom koji se razdijeli sam po sebi, propašæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Tako i sotona ako se razdijeli sam po sebi, kako æe ostati njegovo carstvo? kao što kažete da pomoæu Veelzevula izgonim ðavole."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ako li ja pomoæu Veelzevula izgonim ðavole, sinovi vaši èijom pomoæu izgone? Zato æe vam oni biti sudije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A ako li ja prstom Božijim izgonim ðavole, dakle je došlo k vama carstvo Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Kad se jaki naoruža i èuva svoj dvor, imanje je njegovo na miru;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A kad doðe jaèi od njega i nadvlada ga, uzme sve oružje njegovo u koje se uzdao, i razdijeli što otme od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Koji nije sa mnom, protiv mene je; i koji sa mnom ne sabira, prosipa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Kad neèisti duh iziðe iz èovjeka, ide kroz bezvodna mjesta tražeæi pokoja, i ne našavši reèe: da se vratim u dom svoj otkuda sam izišao;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I došavši naðe pometen i ukrašen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Tada otide i uzme sedam drugijeh duhova gorijeh od sebe, i ušavši žive ondje; i bude potonje èovjeku onome gore od prvoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A kad to govoraše, podiže glas jedna žena iz naroda i reèe mu: blago utrobi koja te je nosila, i sisama koje si sao!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A on reèe: blago i onima koji slušaju rijeè Božiju, i drže je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A narodu koji se skupljaše stade govoriti: rod je ovaj zao; ište znak, i neæe mu se dati znak osim znaka Jone proroka;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Jer kako što Jona bi znak Ninevljanima, tako æe i sin èovjeèij biti rodu ovome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Carica južna iziæi æe na sud s ljudima roda ovoga, i osudiæe ih; jer ona doðe s kraja zemlje da sluša premudrost Solomunovu: a gle, ovdje je veæi od Solomuna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ninevljani iziæi æe na sud s rodom ovijem, i osudiæe ga; jer se pokajaše pouèenjem Joninijem: a gle, ovdje je veæi od Jone."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Niko ne meæe zapaljene svijeæe na sakriveno mjesto, niti pod sud, nego na svijeænjak da vide svjetlost koji ulaze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Svijeæa je tijelu oko. Ako dakle oko tvoje bude zdravo, sve æe tijelo tvoje biti svijetlo; ako li oko tvoje bude kvarno, i tijelo je tvoje tamno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Gledaj dakle da vidjelo koje je u tebi ne bude tama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Jer ako je sve tijelo tvoje svijetlo da nema nikakvoga uda tamna, biæe svijetlo kao kad te svijeæa obasjava svjetlošæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A kad govoraše, moljaše ga nekakav farisej da objeduje u njega. A on ušavši sjede za trpezu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A farisej se zaèudi kad vidje da se najprije ne umi prije objeda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A Gospod reèe mu: sad vi fariseji spolja èistite èašu i zdjelu, a iznutra vam je puno grabeža i zlobe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Bezumni! nije li onaj naèinio i iznutra koji je spolja naèinio?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Ali dajite milostinju od onoga što je unutra; i gle, sve æe vam biti èisto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Ali teško vama farisejima što dajete desetak od metvice i od rute i od svakoga povræa, a prolazite pravdu i ljubav Božiju: ovo je trebalo èiniti, i ono ne ostavljati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Teško vama farisejima što tražite zaèelja po zbornicama i da vam se klanja po ulicama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Teško vama književnici i fariseji, licemjeri, što ste kao sakriveni grobovi po kojima ljudi idu i ne znadu ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "A neki od zakonika odgovarajuæi reèe: uèitelju! govoreæi to i nas sramotiš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "A on reèe: teško i vama zakonicima što tovarite na ljude bremena preteška za nošenje, a vi jednijem prstom svojijem neæete da ih prihvatite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Teško vama što zidate grobove prorocima, a vaši su ih ocevi pobili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Vi dakle svjedoèite i odobravate djela otaca svojijeh; jer ih oni pobiše, a vi im grobove zidate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Zato i premudrost Božija reèe: poslaæu im proroke i apostole, i od njih æe jedne pobiti, a druge protjerati;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Da se ište od roda ovoga krv sviju proroka koja je prolivena od postanja svijeta,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Od krvi Aveljeve tja do krvi Zarijne, koji pogibe meðu oltarom i crkvom. Da, kažem vam, iskaæe se od roda ovoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Teško vama zakonici što uzeste kljuè od znanja: sami ne uðoste, a koji šæadijahu da uðu, zabraniste im."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "A kad im on ovo govoraše, poèeše književnici i fariseji vrlo navaljivati k njemu i mnogijem pitanjem zabunjivati ga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "Vrebajuæi i pazeæi na njega ne bi li što ulovili iz usta njegovijeh da ga okrive."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LUK/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LUK/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LUK/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 54
+}

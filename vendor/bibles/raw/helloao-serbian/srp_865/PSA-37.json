@@ -1,0 +1,356 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 37,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nemoj se žestiti gledajuæi nevaljale, nemoj zavidjeti onima koji èine bezakonje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer se kao trava brzo kose, i kao zeleno bilje venu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Uzdaj se u Gospoda i tvori dobro; živi na zemlji i hrani istinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tješi se Gospodom, i uèiniæe ti što ti srce želi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Predaj Gospodu put svoj, i uzdaj se u njega, on æe uèiniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I izvešæe kao vidjelo pravdu tvoju, i pravicu tvoju kao podne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Osloni se na Gospoda, i èekaj ga. Nemoj se žestiti gledajuæi koga gdje napreduje na putu svojem, èovjeka, koji radi što namisli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Utišaj gnjev, i ostavi jarost; nemoj se dražiti da zlo èiniš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer æe se istrijebiti koji èine zlo, a koji èekaju Gospoda naslijediæe zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Još malo, pa neæe biti bezbožnika; pogledaæeš na mjesto njegovo, a njega nema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A smjerni æe naslijediti zemlju, i naslaðivaæe se množinom mira."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zlo misli bezbožnik pravedniku, i škrguæe na nj zubima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ali mu se Gospod smije, jer vidi da se primièe dan njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Maè potežu bezbožnici, zapinju luk svoj, da obore ubogoga i ništega i pokolju one koji idu pravim putem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Maè æe njihov udariti u njihovo srce, i lukovi njihovi polomiæe se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Bolje je malo u pravednika nego bogatstvo mnogih bezbožnika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer æe se mišice bezbožnicima potrti, a pravednike utvrðuje Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Zna Gospod dane bezazlenima, i dio njihov traje dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Neæe se postidjeti u zlo doba, u dane gladne biæe siti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A bezbožnici ginu, i neprijatelji Gospodnji kao ljepota šumska prolaze, kao dim prolaze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Bezbožnik uzaima i ne vraæa, a pravednik poklanja i daje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer koje on blagoslovi, oni naslijede zemlju, a koje on prokune, oni se istrijebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Gospod utvrðuje korake svakoga èovjeka i mio mu je put njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Kad posrne da padne, neæe pasti, jer ga Gospod drži za ruku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Bijah mlad i ostarjeh, i ne vidjeh pravednika ostavljena, ni djece njegove da prose hljeba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Svaki dan poklanja i daje u zajam, i na natražju je njegovu blagoslov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Uklanjaj se oda zla, i èini dobro, i živi dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Jer Gospod ljubi pravedni sud, i ne ostavlja svetaca svojijeh; uvijek se oni èuvaju; a pleme æe se bezbožnièko istrijebiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Pravednici æe naslijediti zemlju, i živjeæe na njoj dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Usta pravednikova govore mudrost, i jezik njegov kazuje istinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Zakon je Boga njegova njemu u srcu, stopala se njegova ne spotièu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Bezbožnik vreba pravednika, i traži da ga ubije;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ali ga Gospod neæe pustiti u ruke njegove, niti æe dati da ga okrive kad se stanu suditi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Èekaj Gospoda i drži se puta njegova, i on æe te postaviti da vladaš zemljom; vidjeæeš kako æe se istrijebiti bezbožnici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Vidjeh bezbožnika strašna koji se raširivaše kao granato drvo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ali proðe, i evo nema ga; tražim ga i ne nahodim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Hrani èistotu i pazi pravdu, jer æe u èovjeka mirna ostati natražje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A bezakonika æe nestati sasvijem; natražje æe se bezbožnièko zatrti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Od Gospoda je spasenje pravednicima; on je krjepost njihova u nevolji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Gospod æe im pomoæi, i izbaviæe ih; izbaviæe ih od bezbožnika, i saèuvaæe ih, jer se u njega uzdaju."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/37.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 37
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/38.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 38
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/36.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 36
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 40
+}

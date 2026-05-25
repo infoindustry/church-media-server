@@ -1,0 +1,160 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ECC",
+    "translationId": "srp_865",
+    "name": "Propovednik",
+    "commonName": "Propovednik",
+    "title": "Propovednik",
+    "order": 21,
+    "numberOfChapters": 12,
+    "sha256": "fe2dc33485c617d1c3f800f25752794cc56e27b2cfb10665b2db83a839e4fb36",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ECC/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ECC",
+      "chapter": 1
+    },
+    "lastChapterNumber": 12,
+    "lastChapterApiLink": "/api/srp_865/ECC/12.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ECC",
+      "chapter": 12
+    },
+    "totalNumberOfVerses": 222
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ima zlo koje vidjeh pod suncem i èesto je meðu ljudima:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nekome Bog da bogatstvo i blago i slavu, te duša njegova ima sve što god želi, ali mu ne da Bog da to uživa, nego uživa drugi. To je taština i ljuto zlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Da bi ko rodio sto sinova i živio mnogo godina i dani bi se vijeka njegova veoma namnožili, a duša se njegova ne bi nasitila dobra, te ni pogreba ne bi imao, kažem da je bolje nedonošèe od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer uzalud doðe i u tamu otide i ime mu je tamom pokriveno;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ni sunca ne vidje, niti što pozna, a poèiva bolje nego onaj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I da bi živio dvije tisuæe godina, a dobra ne bi uživao, ne odlaze li svi na jedno mjesto?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Sav je trud èovjeèji za usta njegova, ali se ne može nasititi duša njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer šta ima mudri više nego bezumni? šta li siromah, koji se umije vladati meðu živima?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Bolje je vidjeti oèima negoli željeti; i to je taština i muka duhu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Što je ko, davno je tijem nazvan; i zna se da je èovjek i da se ne može suditi s jaèim od sebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Kad dakle ima mnogo stvari koje umnožavaju taštinu, kaka je korist èovjeku?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer ko zna što je dobro èovjeku u životu, za malo dana taštega života njegova, koji mu prolaze kao sjen? ili ko æe kazati èovjeku šta æe biti poslije njega pod suncem?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ECC/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ECC/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ECC/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 12
+}

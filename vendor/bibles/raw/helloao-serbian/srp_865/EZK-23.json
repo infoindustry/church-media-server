@@ -1,0 +1,419 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 23,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Opet mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Sine èovjeèji, bijahu dvije žene, kæeri jedne matere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "One se kurvahu u Misiru, u mladosti svojoj kurvahu se, ondje im pipaše grudi, i ondje im zgnjeèiše dojke djevojaèke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A imena im bijahu, starijoj Ola a sestri joj Oliva; one postaše moje, i rodiše sinove i kæeri. Imena im bijahu Ola Samariji, a Oliva Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I Ola kad bijaše moja kurvaše se, i upaljivaše se za svojim milosnicima, Asircima susjedima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Koji nošahu porfiru, i bijahu knezovi i vlastelji, sve lijepi mladiæi, vitezovi, koji jahahu na konjma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I udari u kurvanje s njima, koji svi bijahu najljepši izmeðu sinova Asirskih, i za kojima se god upaljivaše, skvrnjaše se o sve gadne bogove njihove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A ni s Misircima ne okani se kurvanja svojega, jer spavahu s njom od mladosti njezine i oni joj gnjeèiše djevojaèke dojke i s njom se kurvaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Zato je dadoh u ruke milosnicima njezinijem, u ruke Asircima, za kojima se upaljivaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Oni otkriše golotinju njezinu, uzeše joj sinove i kæeri, a nju maèem ubiše; i ona izaðe na glas meðu ženama kad sudove izvršiše na njoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A sestra njezina Oliva videæi to upaljivaše se još gore nego ona, i kurvarstvo njezino bijaše gore od kurvarstva sestre joj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Upaljivaše se za Asircima, knezovima i vlasteljima, susjedima, krasno odjevenijem, vitezima koji jahahu na konjma i svi bijahu lijepi mladiæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I vidjeh gdje se oskvrni, i gdje obje idu jednijem putem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I ova se još više kurvaše; jer kad bi vidjela ljude napisane na zidu, likove Haldejske napisane crvenilom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Opasane pojasima po bedrima, sa šarenijem kapama na glavi, koji svi bijahu na oèi kao vojvode nalik na sinove Vavilonske iz zemlje Haldejske, svoje postojbine,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Upaljivaše se za njima èim ih viðaše oèima svojima, i slaše poslanike k njima u Haldejsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I Vavilonjani dolažahu k njoj na postelju ljubavnu, i skvrnjahu je kurvarstvom svojim, i pošto bi se oskvrnila s njima, odvraæaše se duša njezina od njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I kad otkri kurvarstva svoja i otkri golotinju svoju, odvrati se duša moja od nje kao što se odvrati duša moja od sestre njezine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer umnoži kurvarstva svoja opominjuæi se dana mladosti svoje kad se kurvaše u zemlji Misirskoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I upaljivaše se za svojim milosnicima, u kojih je tijelo kao u magarca, i teèenje kao u konja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I tako si se vratila na nevaljalstvo mladosti svoje kad ti pipahu grudi u Misiru radi djevojaèkih dojaka tvojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Zato, Olivo, ovako veli Gospod Gospod: evo, ja æu podignuti milosnike tvoje na te, one od kojih se odvratila duša tvoja, i dovešæu ih na te otsvuda,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Vavilonjane i sve Haldejce, Fekoðane i Sojane i Kojane, sve Asirce s njima, lijepe mladiæe, knezove i vlastelje sve, vitezove i ljude èuvene, koji svi jašu na konjma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I doæi æe na te s kolima i s kolicima i s toèkovima i s mnoštvom naroda, i opkoliæe te sa štitovima i štitiæima i šljemovima; i njima æu dati sud da ti sude svojim sudom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I staviæu revnost svoju tebi nasuprot, te æe raditi s tobom gnjevno, nos i uši otsjeæi æe ti, i što te ostane pašæe od maèa, i uzeæe sinove tvoje i kæeri tvoje, i što te ostane proždrijeæe oganj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I svuæi æe s tebe haljine, i uzeæe krasni nakit tvoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Tako æu uèiniti kraj grdilu tvojemu i tvojemu kurvanju u zemlji Misirskoj, te neæeš podignuti oèiju svojih k njima i neæeš se više sjeæati Misiraca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Jer ovako veli Gospod Gospod: evo, ja æu te dati u ruke onima na koje mrziš, u ruke onima od kojih se odvratila duša tvoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I oni æe raditi s tobom neprijateljski, i uzeæe svu muku tvoju, i ostaviæe te golu nagu, te æe se otkriti golotinja kurvarstva tvoga, i grdilo tvoje i kurvarstvo tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "To æu ti uèiniti što si se kurvala za narodima, što si se oskvrnila o njihove gadne bogove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Putem sestre svoje išla si, zato æu dati èašu njezinu tebi u ruku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ovako veli Gospod Gospod: èašu sestre svoje ispiæeš duboku i široku, biæeš potsmijeh i rug, jer èaša mnogo bere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Napuniæeš se pijanstva i žalosti èašom pustošenja i zatiranja, èašom sestre svoje Samarije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I ispiæeš je i iscijediti, i razbiæeš je, i dojke æeš svoje pokidati, jer ja rekoh, govori Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Zato ovako veli Gospod Gospod: što si me zaboravila i bacila me za leða svoja, zato i ti nosi grdilo svoje i kurvarstva svoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Potom reèe mi Gospod: sine èovjeèji, hoæeš li suditi Oli i Olivi? Pokaži im gadove njihove,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Da su èinile preljubu i da je krv na rukama njihovijem i da su èinile preljubu s gadnijem bogovima svojim i vodile kroz oganj sinove svoje koje su mi rodile, da ih jedu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Još i ovo mi èiniše: skvrniše svetinju moju u isti dan, i subote moje przniše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Jer zaklavši sinove svoje gadnijem bogovima svojim dolaziše u svetinju moju istoga dana da je oskvrne; i gle, tako èiniše usred doma mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I još slaše po ljude da bi došli izdaleka, i oni, èim poslanik bi poslan k njima, gle, odmah dolaziše, i njih radi si se kupala, mazala oèi svoje i kitila si se nakitom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I sjedala si na krasan odar, pred kojim bješe sto postavljen, i na nj si metala kad moj i ulje moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I bijaše ondje vika veseloga mnoštva, i osim ljudi iz gomile dovoðahu Saveje iz pustinje, koji im metahu narukvice na ruke i krasne vijence na glave."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I rekoh za ostarjelu u kurvarstvu: još æe se kurvati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "I dolažahu k njoj kao što idu k ženi kurvi; tako dolažahu k Oli i Olivi, ženama nevaljalijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Zato æe im pravedni ljudi suditi kao što se sudi ženama preljuboèinicama i kao što se sudi onima koje proljevaju krv; jer su preljuboèinice i krv je na rukama njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Zato ovako govori Gospod Gospod: dovešæu na njih ljudstvo, i daæu ih da se zlostave i oplijene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "I ljudstvo æe ih zasuti kamenjem, i isjeæi æe ih maèevima svojim; sinove æe njihove i kæeri njihove pobiti, i kuæe æe njihove spaliti ognjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "I tako æu ukinuti nevaljalstvo u zemlji, i nauèiæe se sve žene da ne rade po vašem nevaljalstvu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "I vræi æe vaše nevaljalstvo na vas, i nosiæete grijehe gadnijeh bogova svojih, i poznaæete da sam ja Gospod Gospod."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/23.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 23
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/24.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 24
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/22.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 22
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 49
+}

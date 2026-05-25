@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Govore: ako ko pusti ženu svoju, i ona otišavši od njega uda se za drugoga, hoæe li se onaj vratiti k njoj? Ne bi li se sasvijem oskvrnila ona zemlja? A ti si se kurvala s mnogim milosnicima; ali opet vrati se k meni, veli Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Podigni oèi svoje k visinama, i pogledaj gdje se nijesi kurvala; na putovima si sjedjela èekajuæi ih kao Arapin u pustinji, i oskvrnila si zemlju kurvarstvom svojim i zloæom svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Zato se ustaviše daždi, i ne bi poznoga dažda; ali u tebe bješe èelo žene kurve, i ne htje se stidjeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Hoæeš li otsele vikati k meni: oèe moj, ti si voð mladosti moje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Hoæe li se srditi jednako? hoæe li se gnjeviti dovijeka? Eto, govoriš, a èiniš zlo koliko god možeš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Još mi reèe Gospod za vremena cara Josije: jesi li vidio što uèini odmetnica, Izrailj? kako odlazi na svako visoko brdo i pod svako zeleno drvo, i kurva se ondje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I pošto uèini sve to, rekoh: vrati se k meni; ali se ne vrati; i to vidje nevjernica, sestra njezina, Juda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I svidje mi se za sve to što uèini preljubu odmetnica Izrailj da je pustim i dam joj knjigu raspusnu; ali se ne poboja nevjernica sestra joj Juda, nego otide, te se i ona prokurva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I sramotnijem kurvanjem svojim oskvrni zemlju, jer èinjaše preljubu s kamenom i s drvetom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I kod svega toga ne vrati se k meni nevjernica sestra joj Juda svijem srcem svojim, nego lažno, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zato mi reèe Gospod: odmetnica Izrailj opravda se više nego nevjernica Juda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Idi i vièi ove rijeèi k sjeveru, i reci: vrati se, odmetnice Izrailju, veli Gospod, i neæu pustiti da padne gnjev moj na vas, jer sam milostiv, veli Gospod, neæu se gnjeviti dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Samo poznaj bezakonje svoje, da si se odmetnula Gospodu Bogu svojemu, ti si tumarala k tuðima pod svako drvo zeleno, i nijeste slušali glasa mojega, veli Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Obratite se, sinovi odmetnici, veli Gospod, jer sam ja muž vaš, i uzeæu vas, jednoga iz grada i dva iz porodice, i odvešæu vas u Sion."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I daæu vam pastire po srcu svojemu, koji æe vas pasti znanjem i razumom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I kad se umnožite i narodite u zemlji, onda se, veli Gospod, neæe više govoriti: kovèeg zavjeta Gospodnjega; niti æe im dolaziti na um niti æe ga pominjati, niti æe hoditi k njemu, niti æe ga više opravljati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "U to æe se vrijeme Jerusalim zvati prijesto Gospodnji, i svi æe se narodi sabrati u nj, k imenu Gospodnjemu u Jerusalimu, i neæe više iæi po misli srca svojega zloga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "U to æe vrijeme dom Judin iæi s domom Izrailjevijem, i doæi æe zajedno iz zemlje sjeverne u zemlju koju dadoh u našljedstvo ocima vašim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ali ja rekoh: kako bih te postavio meðu sinove i dao ti zemlju željenu, krasno našljedstvo mnoštva naroda? I rekoh: ti æeš me zvati: oèe moj; i neæeš se odvratiti od mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Doista kao što žena iznevjeri druga svojega, tako iznevjeriste mene, dome Izrailjev, veli Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Glas po visokim mjestima neka se èuje, plaè, molbe sinova Izrailjevijeh, jer prevratiše put svoj, zaboraviše Gospoda Boga svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Vratite se, sinovi odmetnici, i iscijeliæu odmete vaše. Evo, mi idemo k tebi, jer si ti Gospod Bog naš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Doista, zaludu su humovi, mnoštvo gora; doista, u Gospodu je Bogu našem spasenje Izrailjevo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer ta sramota proždrije trud otaca naših od djetinjstva našega, ovce njihove i goveda njihova, sinove njihove i kæeri njihove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ležimo u sramoti svojoj, i pokriva nas rug naš; jer Gospodu Bogu svojemu griješismo mi i oci naši od djetinjstva svojega do danas, i ne slušasmo glasa Gospoda Boga svojega."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

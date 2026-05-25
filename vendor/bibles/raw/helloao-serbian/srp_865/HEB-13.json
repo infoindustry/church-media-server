@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "HEB",
+    "translationId": "srp_865",
+    "name": "Jevrejima",
+    "commonName": "Jevrejima",
+    "title": "Poslanica Jevrejima",
+    "order": 58,
+    "numberOfChapters": 13,
+    "sha256": "dd0af6a7bfa1e81c89f066ec55bf573f0bd87cd93a901a2b8a825a622650c258",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/HEB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "HEB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 13,
+    "lastChapterApiLink": "/api/srp_865/HEB/13.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "HEB",
+      "chapter": 13
+    },
+    "totalNumberOfVerses": 303
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ljubav bratinska da ostane meðu vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Gostoljubivosti ne zaboravljajte; jer neki ne znajuæi iz gostoljubivosti primiše anðele na konak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Opominjite se sužanja kao da ste s njima svezani, onijeh kojima se nepravda èini kao da ste i sami u tijelu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ženidbu da drže svi u èasti, i postelja ženidbena da bude èista; a kurvarima i preljuboèincima sudiæe Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ne budite srebroljupci; budite zadovoljni onijem što imate. Jer on reèe: neæu te ostaviti, niti æu od tebe otstupiti;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tako da smijemo govoriti: Gospod je moj pomoænik, i neæu se bojati; šta æe mi uèiniti èovjek?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Opominjite se svojijeh uèitelja koji vam kazivaše rijeè Božiju; gledajte na svršetak njihova življenja, i ugledajte se na vjeru njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Isus Hristos juèe je i danas onaj isti i vavijek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "U nauke tuðe i razliène ne pristajte; jer je dobro blagodaæu utvrðivati srca, a ne jelima, od kojijeh ne imaše koristi oni koji življeše u njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Imamo pak oltar od kojega oni ne smiju jesti koji služe skiniji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer kojijeh životinja krv unosi poglavar sveštenièki u svetinju za grijehe, onijeh se tjelesa spaljuju izvan okola."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zato Isus, da osveti narod krvlju svojom, izvan grada postrada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zato dakle da izlazimo k njemu izvan okola, noseæi njegovu sramotu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer ovdje nemamo grada koji æe ostati, nego tražimo onaj koji æe doæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Kroz njega dakle da svagda prinosimo Bogu žrtvu hvale, to jest, plod usana koje priznaju ime njegovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A dobro èiniti i davati milostinju ne zaboravljajte; jer se takovijem žrtvama ugaða Bogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Slušajte uèitelje svoje i pokoravajte im se, jer se oni staraju za duše vaše, kao koji æe dati odgovor, da to s radošæu èine, a ne uzdišuæi; jer vam ovo ne pomaže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Molite se Bogu za nas. Jer se nadamo da imamo dobru savjest, starajuæi se u svemu dobro da živimo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A odviše molim èinite ovo, da bih se prije vratio k vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Bog mira, koji izvede iz mrtvijeh velikoga pastira ovcama, krvlju zavjeta vjeènoga, Gospoda našega Isusa Hrista,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Da vas savrši u svakome djelu dobrom, da uèinite volju njegovu, èineæi u vama što je ugodno pred njim, kroz Isusa Hrista, kojemu slava va vijek vijeka. Amin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Molim vas pak, braæo, primite rijeè pouèenja; jer ukratko napisah i poslah vam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Znajte da je otišao naš brat Timotije, s kojijem, ako skoro doðe, vidjeæu vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Pozdravite sve uèitelje svoje i sve svete. Pozdravljaju vas braæa, koja su iz Talijanske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Blagodat sa svima vama. Amin."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/HEB/13.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 13
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JAS/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JAS",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/HEB/12.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 12
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

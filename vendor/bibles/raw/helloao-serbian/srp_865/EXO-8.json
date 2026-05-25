@@ -1,0 +1,300 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I reèe Gospod Mojsiju: idi k Faraonu, i reci mu: ovako veli Gospod: pusti narod moj, da mi posluži."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ako li neæeš pustiti, evo æu moriti svu zemlju žabama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I rijeka æe se napuniti žaba, i one æe izaæi i skakati tebi po kuæi i po klijeti gdje spavaš i po postelji tvojoj i po kuæama sluga tvojih i naroda tvojega i po peæima tvojim i po naævama tvojim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I na tebe i na narod tvoj i na sve sluge tvoje skakaæe žabe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I reèe Gospod Mojsiju: kaži Aronu: pruži ruku svoju sa štapom svojim na rijeke i na potoke i na jezera, i uèini nek izaðu žabe na zemlju Misirsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I pruži Aron ruku svoju na vode Misirske, i izaðoše žabe i pokriše zemlju Misirsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ali i vraèari Misirski uèiniše tako svojim vraèanjem, uèiniše te izaðoše žabe na zemlju Misirsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A Faraon dozva Mojsija i Arona i reèe: molite Gospoda da ukloni žabe od mene i od naroda mojega, pak æu pustiti narod da prinesu žrtvu Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Mojsije reèe Faraonu: èast da ti je nada mnom! dokle da mu se molim za te i za sluge tvoje i za narod tvoj da odbije žabe od tebe i iz kuæa tvojih, i samo u rijeci da ostanu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A on reèe: do sjutra. A Mojsije reèe: biæe kako si kazao, da poznaš da niko nije kao Gospod Bog naš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Otiæi æe žabe od tebe i iz kuæa tvojih i od sluga tvojih i od naroda tvojega; samo æe u rijeci ostati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I otide Mojsije i Aron od Faraona; i zavapi Mojsije ka Gospodu za žabe koje bješe pustio na Faraona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Gospod uèini po rijeèi Mojsijevoj; i pocrkaše žabe, i oprostiše ih se kuæe i sela i polja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I na gomile ih grtahu, da je smrdjela zemlja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A kad Faraon vidje gdje odahnu, otvrdnu mu srce, i ne posluša ih, kao što bješe kazao Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Gospod reèe Mojsiju: kaži Aronu: pruži štap svoj, i udari po prahu na zemlji, nek se pretvori u uši po svoj zemlji Misirskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I uèiniše tako: Aron pruži ruku svoju sa štapom svojim, i udari po prahu na zemlji, i postaše uši po ljudima i po stoci, sav prah na zemlji pretvori se u uši po cijeloj zemlji Misirskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A gledaše i vraèari Misirski vraèanjem svojim da uèine da postanu uši, ali ne mogoše. I bijahu uši po ljudima i po stoci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I rekoše vraèari Faraonu: ovo je prst Božji. Ali opet otvrdnu srce Faraonu, te ih ne posluša, kao što bješe kazao Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Gospod reèe Mojsiju: ustani rano i izaði pred Faraona, evo, on æe izaæi k vodi, pa mu reci: ovako veli Gospod: pusti narod moj da mi posluži."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ako li ne pustiš naroda mojega, evo, pustiæu na tebe i na sluge tvoje i na narod tvoj i na kuæe tvoje svakojake bubine, i napuniæe se bubina kuæe Misirske i zemlja na kojoj su."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ali æu u taj dan odvojiti zemlju Gesemsku, gdje živi moj narod, i ondje neæe biti bubina, da poznaš da sam ja Gospod na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I postaviæu razliku izmeðu naroda svojega i naroda tvojega. Sjutra æe biti znak taj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I uèini Gospod tako, i doðoše silne bubine u kuæu Faraonovu i u kuæe sluga njegovijeh i u svu zemlju Misirsku, da se sve u zemlji pokvari od bubina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I Faraon dozva Mojsija i Arona, i reèe im: idite, prinesite žrtvu Bogu svojemu ovdje u zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A Mojsije reèe: ne valja tako; jer bismo prinijeli na žrtvu Gospodu Bogu svojemu što je neèisto Misircima; a kad bismo prinijeli na žrtvu što je neèisto Misircima na oèi njihove, ne bi li nas pobili kamenjem?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Tri dana hoda treba da idemo u pustinju da prinesemo žrtvu Gospodu Bogu svojemu, kao što nam je kazao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A Faraon reèe: pustiæu vas da prinesete žrtvu Gospodu Bogu svojemu u pustinji; ali da ne idete dalje; pa se molite za me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A Mojsije reèe: evo ja idem od tebe, i moliæu se Gospodu da otidu bubine od Faraona i od sluga njegovijeh i od naroda njegova sjutra; ali nemoj opet da prevariš, i da ne pustiš naroda da prinese žrtvu Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I otide Mojsije od Faraona, i pomoli se Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I uèini Gospod po rijeèi Mojsijevoj, te otidoše bubine od Faraona i od sluga njegovijeh i od naroda njegova; ne osta ni jedna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ali opet otvrdnu srce Faraonovo, i ne pusti naroda."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 32
+}

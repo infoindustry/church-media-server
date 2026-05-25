@@ -1,0 +1,258 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "O, da bi glava moja bila voda, a oèi moje izvori suzni! da plaèem danju i noæu za pobijenima kæeri naroda svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "O, da mi je u pustinji stanak putnièki! da ostavim narod svoj i da otidem od njih, jer su svi preljuboèinci, zbor nevjernièki;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I zapinju jezik svoj kao luk da lažu, i osiliše na zemlji, ali ne za istinu, nego idu iz zla u zlo, niti znaju za me, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Èuvajte se svaki prijatelja svojega i nijednome bratu ne vjerujte; jer svaki brat radi da potkine drugoga, i svaki prijatelj ide te opada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I svaki vara prijatelja svojega i ne govori istine, uèe jezik svoj da govori laž, muèe se da èine zlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Stan ti je usred prijevare; radi prijevare neæe da znaju za me, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zato ovako govori Gospod nad vojskama: gle, pretopiæu ih, i okušaæu ih; jer što bih èinio radi kæeri naroda svojega?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jezik im je strijela smrtna, govori prijevaru; ustima govore o miru s prijateljem svojim, a u srcu namještaju zasjedu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Zato li ih neæu pohoditi? govori Gospod; duša moja neæe li se osvetiti takom narodu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Za ovijem gorama udariæu u plaè i u ridanje, i za torovima u pustinji u naricanje; jer izgorješe da niko ne prolazi niti se èuje glas od stada, i ptice nebeske i stoka pobjegoše i otidoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I obratiæu Jerusalim u gomilu, u stan zmajevski; i gradove Judine obratiæu u pustoš, da neæe niko onuda živjeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ko je mudar da bi razumio? i komu govoriše usta Gospodnja, da bi objavio zašto zemlja propade i izgorje kao pustinja da niko ne prolazi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer Gospod reèe: što ostaviše zakon moj, koji metnuh pred njih, i ne slušaše glasa mojega i ne hodiše za njim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Nego hodiše za mislima srca svojega i za Valima, èemu ih nauèiše oci njihovi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zato ovako veli Gospod nad vojskama, Bog Izrailjev: evo ja æu nahraniti taj narod pelenom i napojiæu ih žuèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I rasijaæu ih meðu narode, kojih ne poznavaše ni oni ni oci njihovi; i puštaæu za njima maè dokle ih ne istrijebim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ovako veli Gospod nad vojskama: gledajte i zovite narikaèe neka doðu, i pošljite po vješte neka doðu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I neka brže narièu za nama, da se rone suze od oèiju naših, i od vjeða naših da teèe voda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer se glasno ridanje èu od Siona: kako propadosmo! posramismo se vrlo, jer se rastavljasmo sa zemljom, jer obaraju stanove naše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Zato, žene, èujte rijeè Gospodnju i neka primi uho vaše rijeè usta njegovijeh, i uèite kæeri svoje ridati i jedna drugu naricati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer se pope smrt na prozore naše i uðe u dvorove naše da istrijebi djecu s ulica i mladiæe s putova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Reci: ovako govori Gospod: i mrtva æe tjelesa ljudska ležati kao gnoj po njivi i kao rukoveti za žeteocem, kojih niko ne kupi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ovako veli Gospod: mudri da se ne hvali mudrošæu svojom, ni jaki da se ne hvali snagom svojom, ni bogati da se ne hvali bogatstvom svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Nego ko se hvali, neka se hvali tijem što razumije i poznaje mene da sam ja Gospod koji èinim milost i sud i pravdu na zemlji, jer mi je to milo, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Eto, idu dani, veli Gospod, kad æu pohoditi sve, obrezane i neobrezane,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Misirce i Judejce i Edomce i sinove Amonove i Moavce i sve koji se s kraja strigu, koji žive u pustinji; jer su svi ti narodi neobrezani, i sav je dom Izrailjev neobrezana srca."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/9.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 9
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/10.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 10
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/8.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 8
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 26
+}

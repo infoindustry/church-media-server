@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2SA",
+    "translationId": "srp_865",
+    "name": "2. Samuelova",
+    "commonName": "2. Samuelova",
+    "title": "2. Samuelova",
+    "order": 10,
+    "numberOfChapters": 24,
+    "sha256": "e9bcfc863ad7bd2a939eb305126ad735f393202a88f773ac55550249ed219529",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/2SA/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 695
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A po smrti Saulovoj, kad se David vrati pobivši Amalike i osta u Siklagu dva dana,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Treæega dana, gle, doðe jedan iz vojske Saulove razdrtijeh haljina i glave posute prahom; i došav k Davidu pade na zemlju i pokloni se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reèe mu David: otkuda ideš? A on mu reèe: iz okola Izrailjskoga utekoh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A David mu reèe: šta bi? kaži mi. A on reèe: narod pobježe iz boja; i mnogo naroda pade i izgibe, pogibe i Saul i sin mu Jonatan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A David reèe momku koji mu donese glas: kako znaš da je poginuo Saul i sin mu Jonatan?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A momak koji mu donese glas reèe: sluèajno doðoh na goru Gelvuju, a to se Saul naslonio na koplje svoje, kola i konjici približavahu se k njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A on obazrevši se natrag ugleda me, pa me viknu, a ja mu rekoh: evo me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A on mi reèe: ko si? A ja mu rekoh: Amalik sam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A on mi reèe: pristupi k meni i ubij me; jer me obuzeše muke, a još je sasvijem duša u meni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I pristupih k njemu i ubih ga, jer sam znao da neæe ostati živ pošto pade; i uzeh vijenac carski koji mu bješe na glavi i grivnu koja mu bješe na ruci, i evo donesoh gospodaru svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tada David zgrabi haljine na sebi i razdrije ih; tako i svi ljudi koji bijahu s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I ridaše i plakaše, i postiše do veèera za Saulom i za Jonatanom sinom njegovijem i za narodom Gospodnjim i za domom Izrailjevijem što izgiboše od maèa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I reèe David momku koji mu donese glas: odakle si? A on reèe: ja sam sin jednoga došljaka Amalika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Reèe mu David: kako te nije bilo strah podiæi ruku svoju i ubiti pomazanika Gospodnjega?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I dozva David jednoga izmeðu momaka svojih i reèe: hodi, pogubi ga. A on ga udari, te umrije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I reèe mu David: krv tvoja na tvoju glavu; jer tvoja usta svjedoèiše na te govoreæi: ja sam ubio pomazanika Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tada David narica ovako za Saulom i za Jonatanom sinom njegovijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I izgovori, da bi se uèili sinovi Judini luku, i eto je napisano u knjizi istinitoga:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Diko Izrailjeva! na tvojim visinama pobijeni su; kako padoše junaci?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ne kazujte u Gatu, i ne razglašujte po ulicama Askalonskim, da se ne vesele kæeri Filistejske i da ne igraju kæeri neobrezanijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Gore Gelvujske! ne padala rosa ni dažd na vas, i ne rodilo polje za prinos, jer je tu baèen štit s junaka, štit Saulov, kao da nije pomazan uljem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Bez krvi pobijenijeh i bez masti od junaka nije se vraæao luk Jonatanov, niti je maè Saulov dolazio natrag prazan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Saul i Jonatan, mili i dragi za života, ni na smrti se ne rastaviše; lakši od orlova bijahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Kæeri Izrailjeve! plaèite za Saulom, koji vas je oblaèio u skerlet lijepo, i kitio vas zlatnijem zakladima po haljinama vašim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Kako padoše junaci u boju! Jonatan kako pogibe na tvojim visinama!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Žao mi je za tobom, brate Jonatane; bio si mi mio vrlo; veæa mi je bila ljubav tvoja od ljubavi ženske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Kako padoše junaci, i propade oružje ubojito!"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2SA/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2SA/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/31.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 31
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

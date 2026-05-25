@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZR",
+    "translationId": "srp_865",
+    "name": "Ezra",
+    "commonName": "Ezra",
+    "title": "Ezra",
+    "order": 15,
+    "numberOfChapters": 10,
+    "sha256": "bf548715db2388dddb04c845f0fa124e883e80ef31b6aa8bdd1683312fc367c1",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZR/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZR",
+      "chapter": 1
+    },
+    "lastChapterNumber": 10,
+    "lastChapterApiLink": "/api/srp_865/EZR/10.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZR",
+      "chapter": 10
+    },
+    "totalNumberOfVerses": 280
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada car Darije zapovjedi te tražiše u knjižnici gdje se ostavljaše blago u Vavilonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I naðoše u Ahmeti u dvoru carskom u zemlji Midskoj knjigu u kojoj bješe zapisan ovaj spomen:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Prve godine cara Kira zapovjedi car Kir: dom Božji u Jerusalimu da se sazida da bude mjesto gdje æe se prinositi žrtve, i temelji da mu se izidaju, da bude visok šezdeset lakata i širok šezdeset lakata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tri reda da budu od kamenja velikoga i jedan red od drveta novoga, a trošak da se daje iz carskoga doma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I sudovi doma Božijega zlatni i srebrni što Navuhodonosor bješe uzeo iz crkve Jerusalimske i donio u Vavilon, da se vrate i opet odnesu u crkvu Jerusalimsku na svoje mjesto i da se ostave u domu Božijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Zato Tatnaju upravitelju s one strane rijeke, Setar-Vosnaju s drugovima svojim Afarsašanima, koji ste s one strane rijeke, uklonite se odatle."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ostavite neka se gradi taj dom Božji, upravitelj Judejski i starješine njihove neka zidaju taj dom Božji na mjestu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Još zapovijedam šta æete èiniti starješinama Judejskim da bi se sazidao taj dom Božji; od blaga carskoga, od dohodaka s one strane rijeke, da se daje bez oklijevanja trošak onijem ljudima da se ne ustavljaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I što treba, bilo junaca ili ovnova i jaganjaca za žrtve paljenice Bogu nebeskomu, ili pšenice, soli, vina i ulja, kako reku sveštenici Jerusalimski, da im se daje svaki dan bez odgaðanja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Da prinose mirisne žrtve Bogu nebeskomu i da se mole za život carev i sinova njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Još zapovijedam: ko bi uèinio drukèije, iz njegove kuæe da se uzme brvno i pobode, i on na njemu da se pogubi, i njegova kuæa da bude bunište za to."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I Bog koji je ondje nastanio ime svoje, da obori svakoga cara i svaki narod koji bi digao ruku da promijeni ovo i raskopa taj dom Božji u Jerusalimu. Ja Darije zapovijedam ovo, odmah da se izvrši."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada Tatnaj upravitelj s ove strane rijeke, Setar-Vosnaj i drugovi njihovi uèiniše odmah kako zapovjedi Darije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I starješine Judejske zidaše i napredovaše po proroštvu Ageja proroka i Zaharije sina Idova, zidaše i dovršiše po zapovijesti Boga Izrailjeva i po zapovijesti Kira i Darija i Artakserksa cara Persijskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I svrši se taj dom do treæega dana mjeseca Adara šeste godine carovanja cara Darija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I sinovi Izrailjevi, sveštenici i Leviti i ostali izmeðu onijeh koji se vratiše iz ropstva posvetiše taj dom Božji radujuæi se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I prinesoše na posveæenje toga doma Božijega sto junaca, dvjesta ovnova, èetiri stotine jaganjaca i dvanaest jaraca na žrtvu za grijeh za svega Izrailja prema broju plemena Izrailjevijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I postaviše sveštenike po redovima njihovijem i Levite po redovima njihovijem da služe Bogu u Jerusalimu kako je napisano u knjizi Mojsijevoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Potom slaviše koji se vratiše iz ropstva pashu èetrnaestoga dana prvoga mjeseca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer se oèistiše i sveštenici i Leviti, te bijahu svi èisti, i klaše pashu za sve koji se vratiše iz ropstva i za braæu svoju sveštenike i za sebe same."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I jedoše sinovi Izrailjevi koji se vratiše iz ropstva i svi koji se od neèistote naroda zemaljskih odvojiše k njima da traže Gospoda Boga Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I praznovaše praznik prijesnijeh hljebova sedam dana veseleæi se; jer ih razveseli Gospod i obrati srce cara Asirskoga k njima da ukrijepi ruke njihove u poslu oko doma Boga, Boga Izrailjeva."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZR/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZR/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZR/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

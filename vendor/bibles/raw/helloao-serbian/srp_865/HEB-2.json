@@ -1,0 +1,202 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "HEB",
+    "translationId": "srp_865",
+    "name": "Jevrejima",
+    "commonName": "Jevrejima",
+    "title": "Poslanica Jevrejima",
+    "order": 58,
+    "numberOfChapters": 13,
+    "sha256": "dd0af6a7bfa1e81c89f066ec55bf573f0bd87cd93a901a2b8a825a622650c258",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/HEB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "HEB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 13,
+    "lastChapterApiLink": "/api/srp_865/HEB/13.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "HEB",
+      "chapter": 13
+    },
+    "totalNumberOfVerses": 303
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Toga radi valja nam veæma paziti na rijeèi koje slušamo, da kako ne otpadnemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer ako je ono što je govoreno preko anðela utvrðeno, i svaki prestupak i oglušak pravednu platu primio:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Kako æemo pobjeæi na marivši za toliko spasenije? koje poèe Gospod propovijedati, i oni koji su èuli potvrdiše meðu nama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Kad i Bog posvjedoèi i znacima i èudesima i razliènijem silama, i Duha svetoga razdjeljivanjem po svojoj volji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer Bog ne pokori anðelima vasionoga svijeta, koji ide i o kome govorimo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ali neko posvjedoèi negdje govoreæi: šta je èovjek da ga se opomeneš, ili sin èovjeèij da ga obiðeš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Umalio si ga malijem neèim od anðela, slavom i èasti vjenèao si ga, i postavio si ga nad djelima ruku svojijeh:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Sve si pokorio pod noge njegove. A kad mu pokori sve, ništa ne ostavi njemu nepokoreno; ali sad još ne vidimo da mu je sve pokoreno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A umaljenoga malijem èim od anðela vidimo Isusa, koji je za smrt što podnese vjenèan slavom i èasti, da bi po blagodati Božijoj za sve okusio smrt."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer prilikovaše njemu za kojega je sve i kroz kojega je sve, koji dovede mnoge sinove u slavu, da dovrši poglavara spasenija njihova stradanjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer i onaj koji osveæuje, i oni koji se osveæuju, svi su od jednoga; zaradi toga uzroka ne stidi se nazvati ih braæom"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Govoreæi: objaviæu ime tvoje braæi svojoj, i posred crkve zapjevaæu te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I opet: ja æu se u njega uzdati. I opet: evo ja i djeca moja koju mi je dao Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Buduæi pak da djeca imaju tijelo i krv, tako i on uze dijel u tome, da smræu satre onoga koji ima državu smrti, to jest ðavola;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I da izbavi one koji god od straha smrti u svemu životu biše robovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer se zaista ne prima anðela, nego se prima sjemena Avraamova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Zato bješe dužan u svemu da bude kao braæa, da bude milostiv i vjeran poglavar sveštenièki pred Bogom, da oèisti grijehe narodne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer u èemu postrada i iskušan bi u onome može pomoæi i onima koji se iskušavaju."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/HEB/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/HEB/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/HEB/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 60,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ustani, svijetli se, jer doðe svjetlost tvoja, i slava Gospodnja obasja te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer, gle, mrak æe pokriti zemlju i tama narode; a tebe æe obasjati Gospod i slava njegova pokazaæe se nad tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I narodi æe doæi k vidjelu tvojemu i ka svjetlosti koja æe te obasjati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Podigni oèi svoje unaokolo, i vidi: svi se skupljaju i idu k tebi, sinovi æe tvoji iz daleka doæi i kæeri tvoje nosiæe se u naruèju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tada æeš vidjeti, i obradovaæeš se, i srce æe ti se udiviti i raširiti, jer æe se k tebi okrenuti mnoštvo morsko i sila naroda doæi æe k tebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mnoštvo kamila prekriliæe te, dromedari iz Madijama i Efe; svi iz Save doæi æe, zlato i kad donijeæe, i slavu Gospodnju javljaæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Sva stada Kidarska skupiæe se k tebi, ovnovi Navajotski biæe ti na potrebu; prineseni na oltaru mom biæe ugodni, i dom slave svoje proslaviæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ko su ono što lete kao oblaci i kao golubovi na prozore svoje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ostrva æe me èekati i prve laðe Tarsiske, da dovezu sinove tvoje iz daleka, i s njima srebro njihovo i zlato njihovo, imenu Gospoda Boga tvojega i sveca Izrailjeva, jer te proslavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I tuðini æe sazidati zidove tvoje, i carevi njihovi služiæe ti; jer u gnjevu svom udarih te, a po milosti svojoj pomilovaæu te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I tvoja æe vrata biti svagda otvorena, neæe se zatvoriti ni danju ni noæu, da ti se dovede sila naroda, i carevi njihovi da se dovedu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer narod i carstvo, koje ti ne bi služilo, poginuæe, taki æe se narodi sasvijem zatrti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Slava Livanska tebi æe doæi, jela, brijest i šimšir, da ukrase mjesto svetinje moje da bih proslavio mjesto nogu svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I sinovi onijeh koji su te muèili doæi æe k tebi klanjajuæi se, i svi koji te preziraše padaæe k stopalima nogu tvojih, i zvaæe te gradom Gospodnjim, Sionom sveca Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Što si bio ostavljen i mrzak tako da niko nije prolazio kroza te, mjesto toga æu ti uèiniti vjeènu slavu, i veselje od koljena do koljena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer æeš mlijeko naroda sati, i sise carske dojiæeš, i poznaæeš da sam ja Gospod spasitelj tvoj i izbavitelj tvoj, silni Jakovljev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Mjesto mjedi donijeæu zlata, i mjesto gvožða donijeæu srebra, i mjedi mjesto drva, i gvožða mjesto kamenja, i postaviæu ti za upravitelje mir i za nastojnike pravdu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Neæe se više èuti nasilje u tvojoj zemlji ni pustošenje i potiranje na meðama tvojim; nego æeš zvati zidove svoje spasenjem i vrata svoja hvalom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Neæe ti više biti sunce vidjelo danju, niti æe ti sjajni mjesec svijetliti; nego æe ti Gospod biti vidjelo vjeèno i Bog tvoj biæe ti slava."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Neæe više zalaziti sunce tvoje, niti æe mjesec tvoj pomrèati; jer æe ti Gospod biti vidjelo vjeèno, i dani žalosti tvoje svršiæe se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I tvoj æe narod biti sav pravedan, naslijediæe zemlju navijek; mladica koju sam posadio, djelo ruku mojih biæe na moju slavu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Od maloga æe postati tisuæa i od nejakoga silan narod; ja Gospod brzo æu uèiniti to kad bude vrijeme."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/60.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 60
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/61.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 61
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/59.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 59
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

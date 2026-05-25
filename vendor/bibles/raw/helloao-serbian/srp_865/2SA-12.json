@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2SA",
+    "translationId": "srp_865",
+    "name": "2. Samuelova",
+    "commonName": "2. Samuelova",
+    "title": "2. Samuelova",
+    "order": 10,
+    "numberOfChapters": 24,
+    "sha256": "e9bcfc863ad7bd2a939eb305126ad735f393202a88f773ac55550249ed219529",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/2SA/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 695
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I posla Gospod Natana k Davidu; i on došav k njemu reèe mu: u jednom gradu bijahu dva èovjeka, jedan bogat a drugi siromah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Bogati imaše ovaca i goveda vrlo mnogo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A siromah nemaše ništa do jednu malu ovèicu, koju bješe kupio, i hranjaše je, te odraste uza nj i uz djecu njegovu, i jeðaše od njegova zalogaja, i iz njegove èaše pijaše, i na krilu mu spavaše, i bijaše mu kao kæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A doðe putnik k bogatome èovjeku, a njemu bi žao uzeti iz svojih ovaca ili goveda da zgotovi putniku koji doðe k njemu; nego uze ovcu onoga siromaha, i zgotovi je èovjeku, koji doðe k njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tada se David vrlo razgnjevi na onoga èovjeka, i reèe Natanu: tako živ bio Gospod, zaslužio je smrt onaj koji je to uèinio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I ovcu neka plati uèetvoro, što je to uèinio i nije mu žao bilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tada reèe Natan Davidu: ti si taj. Ovako veli Gospod Bog Izrailjev: ja sam te pomazao za cara nad Izrailjem, i ja sam te izbavio iz ruku Saulovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I dao sam ti dom gospodara tvojega, i žene gospodara tvojega na krilo tvoje, dao sam ti dom Izrailjev i Judin; i ako je malo, dodao bih ti to i to."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Zašto si prezreo rijeè Gospodnju èineæi što njemu nije po volji? Uriju Hetejina ubio si maèem i uzeo si ženu njegovu sebi za ženu, a njega si ubio maèem sinova Amonovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zato neæe se odmaæi maè od doma tvojega dovijeka, što si me prezreo i uzeo ženu Urije Hetejina da ti bude žena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ovako veli Gospod: evo, ja æu podignuti na te zlo iz doma tvojega, i uzeæu žene tvoje na tvoje oèi, i daæu ih bližnjemu tvojemu, te æe spavati sa ženama tvojim na vidiku svakomu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer ti si uèinio tajno, ali æu ja ovo uèiniti pred svijem Izrailjem i svakomu na vidiku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada reèe David Natanu: sagriješih Gospodu. A Natan reèe Davidu: i Gospod je pronio grijeh tvoj; neæeš umrijeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ali što si tijem djelom dao priliku neprijateljima Gospodnjim da hule, zato æe ti umrijeti sin koji ti se rodio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Potom Natan otide svojoj kuæi. A Gospod udari dijete koje rodi žena Urijina Davidu, te se razbolje na smrt."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I David se moljaše Bogu za dijete, i pošæaše se David, i došavši ležaše preko noæ na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I starješine doma njegova ustaše oko njega da ga podignu sa zemlje, ali on ne htje, niti jede što s njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A kad bi sedmi dan, umrije dijete; i ne smijahu sluge Davidove javiti mu da je dijete umrlo, jer govorahu: evo, dok dijete bijaše živo, govorasmo mu, pa nas ne htje poslušati; a kako æemo mu kazati: umrlo je dijete? hoæe ga ucvijeliti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A David videæi gdje sluge njegove šapæu meðu sobom, dosjeti se da je umrlo dijete; i reèe David slugama svojim: je li umrlo dijete? A oni rekoše: umrlo je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Tada David usta sa zemlje, i umi se, i namaza se i preobuèe se; i otide u dom Gospodnji, i pokloni se. Potom opet doðe kuæi svojoj, i zaiska da mu donesu da jede; i jede."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A sluge njegove rekoše mu: šta to radiš? dok bijaše dijete živo, postio si i plakao; a kad umrije dijete, ustao si i jedeš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A on reèe: dok dijete bijaše živo, postio sam i plakao, jer govorah: ko zna, može se smilovati Gospod na me da dijete ostane živo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A sada umrlo je; što bih postio? mogu li ga povratiti? ja æu otiæi k njemu, ali on neæe se vratiti k meni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Potom David utješi Vitsaveju ženu svoju, i otide k njoj, i leže s njom. I ona rodi sina, kojemu nadje ime Solomun. I mio bješe Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I posla Natana proroka, te mu nadje ime Jedidija, radi Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A Joav bijuæi Ravu sinova Amonovih, uze carski grad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I posla poslanike k Davidu, i reèe: bih Ravu, i uzeh grad na vodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Nego sada skupi ostali narod, i stani u oko prema gradu, i uzmi ga, da ga ne bih ja uzeo i moje se ime spominjalo na njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I David skupiv sav narod otide na Ravu, i udari na nju, i uze je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I uze caru njihovu s glave krunu, u kojoj bješe talanat zlata, s dragim kamenjem, i metnuše je na glavu Davidu, i odnese iz grada plijen vrlo velik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A narod koji bijaše u njemu izvede i metnu ih pod pile i pod brane gvozdene i pod sjekire gvozdene, i sagna ih u peæi gdje se opeke peku. I tako uèini svijem gradovima sinova Amonovijeh. Potom se vrati David sa svijem narodom u Jerusalim."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2SA/12.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 12
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2SA/13.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 13
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2SA/11.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 11
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

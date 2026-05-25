@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CO",
+    "translationId": "srp_865",
+    "name": "1 Korinæanima",
+    "commonName": "1 Korinæanima",
+    "title": "1. Korinæanima Poslanica",
+    "order": 46,
+    "numberOfChapters": 16,
+    "sha256": "114ef2323a27d8e2c5bd8d2269293cc5ec228241cba7d2999cf2908b344e5d17",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/1CO/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CO",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 437
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I ja, braæo, ne mogoh s vama govoriti kao s duhovnima nego kao s tjelesnima, kao s malom djecom u Hristu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Mlijekom vas napojih a ne jelom, jer još ne mogaste, i ni sad još ne možete,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer ste još tjelesni. Jer gdje su meðu vama zavisti i svaðe i nesloge, nijeste li tjelesni, i ne živite li po èovjeku?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer kad govori ko: ja sam Pavlov; a drugi: ja sam Apolov; nijeste li tjelesni?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ko je dakle Pavle a ko li Apolo do samo sluge kroz koje vjerovaste, kao što i svakome Gospod dade?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ja posadih, Apolo zali, a Bog dade te uzraste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tako niti je onaj što koji sadi, ni onaj koji zaljeva, nego Bog koji daje te raste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A onaj koji sadi i koji zaljeva jednaki su; i svaki æe primiti svoju platu po svojemu trudu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer mi smo Bogu pomagaèi, a vi ste Božija njiva, Božija graðevina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Po blagodati Božijoj koja mi je dana ja kao premudri neimar postavih temelj, a drugi zida u visinu; ali svaki neka gleda kako zida."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer temelja drugoga niko ne može postaviti osim onoga koji je postavljen, koji je Isus Hristos."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ako li ko zida na ovome temelju zlato, srebro, drago kamenje, drva, sijeno, slamu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Svakoga æe djelo iziæi na vidjelo; jer æe dan pokazati, jer æe se ognjem otkriti, i svako djelo pokazaæe oganj kao što jest."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I ako ostane èije djelo što je nazidao, primiæe platu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A èije djelo izgori, otiæi æe u štetu: a sam æe se spasti tako kao kroz oganj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ne znate li da ste vi crkva Božija, i Duh Božij živi u vama?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ako pokvari ko crkvu Božiju, pokvariæe njega Bog: jer je crkva Božija sveta, a to ste vi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Niko neka se ne vara: ako ko meðu vama misli da je mudar na ovome svijetu, neka bude lud da bude mudar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer je premudrost ovoga svijeta ludost pred Bogom, jer je pisano: hvata premudre u njihovu lukavstvu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I opet: Gospod zna pomisli mudrijeh da su ništa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Zato niko da se ne hvali èovjekom, jer je sve vaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Bio Pavle, ili Apolo, ili Kifa, ili svijet, ili život ili smrt, ili sadašnje, ili buduæe: sve je vaše;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A vi ste Hristovi a Hristos Božij."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CO/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CO/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CO/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

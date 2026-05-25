@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Poslije ovijeh stvari doðe Avramu rijeè Gospodnja u utvari govoreæi: ne boj se, Avrame, ja sam ti štit, i plata je tvoja vrlo velika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A Avram reèe: Gospode, Gospode, šta æeš mi dati kad živim bez djece, a na kom æe ostati moja kuæa to je Elijezer ovaj Damaštanin?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Još reèe Avram: eto meni nijesi dao poroda, pa æe sluga roðen u kuæi mojoj biti moj našljednik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A gle, Gospod mu progovori: neæe taj biti našljednik tvoj, nego koji æe izaæi od tebe taj æe ti biti našljednik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Pa ga izvede napolje i reèe mu: pogledaj na nebo i prebroj zvijezde, ako ih možeš prebrojiti. I reèe mu: tako æe biti sjeme tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I povjerova Avram Bogu, a on mu primi to u pravdu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I reèe mu: ja sam Gospod, koji te izvedoh iz Ura Haldejskoga da ti dam zemlju ovu da bude tvoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A on reèe: Gospode, Gospode, po èemu æu poznati da æe biti moja?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I reèe mu: prinesi mi junicu od tri godine i kozu od tri godine i ovna od tri godine i grlicu i golupèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I on uze sve to, i rasijeèe na pole, i metnu sve pole jednu prema drugoj; ali ne rasijeèe ptica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A ptice slijetahu na te mrtve životinje; a Avram ih odgonjaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A kad sunce bješe na zahodu, uhvati Avrama tvrd san, i gle, strah i mrak velik obuze ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I Gospod reèe Avramu: znaj zacijelo da æe sjeme tvoje biti došljaci u zemlji tuðoj, pa æe joj služiti, i ona æe ih muèiti èetiri stotine godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ali æu suditi i narodu kojemu æe služiti; a poslije æe oni izaæi s velikim blagom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A ti æeš otiæi k ocima svojim u miru, i biæeš pogreben u dobroj starosti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A oni æe se u èetvrtom koljenu vratiti ovamo; jer grijesima Amorejskim još nije kraj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A kad se sunce smiri i kad se smrèe, gle, peæ se dimljaše, i plamen ognjeni prolažaše izmeðu onijeh dijelova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Taj dan uèini Gospod zavjet s Avramom govoreæi: sjemenu tvojemu dadoh zemlju ovu od vode Misirske do velike vode, vode Efrata,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Kenejsku, Kenezejsku i Kedmonejsku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I Hetejsku i Ferezejsku i Rafajsku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I Amorejsku i Hananejsku i Gergesejsku i Jevusejsku."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/15.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 15
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/16.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 16
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/14.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 14
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

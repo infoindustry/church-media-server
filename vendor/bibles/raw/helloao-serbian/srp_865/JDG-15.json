@@ -1,0 +1,216 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JDG",
+    "translationId": "srp_865",
+    "name": "Sudije",
+    "commonName": "Sudije",
+    "title": "Sudije",
+    "order": 7,
+    "numberOfChapters": 21,
+    "sha256": "b90b96d9ad07648b61c3175adb672cbdc04a1a389be225dc4596659462d0e4db",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JDG/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JDG/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 618
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A poslije nekoliko dana, o pšeniènoj žetvi, doðe Samson da pohodi ženu svoju donesavši joj jare, i reèe: idem k ženi svojoj u ložnicu. Ali mu otac njezin ne dade da uðe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer reèe otac njezin: ja mišljah zacijelo da ti nije po volji, pa je dadoh drugu tvojemu; nego mlaða sestra njezina nije li ljepša od nje? uzmi nju mjesto one."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Samson im reèe: ja neæu biti kriv Filistejima kad im uèinim zlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I otišavši Samson uhvati trista lisica, i uze luèa, i sveza po dvije za repove, i metnu po jedan luè meðu dva repa,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Pa zapali luèeve, i pusti u ljetinu Filistejsku, i popali ljetinu požnjevenu i nepožnjevenu, i vinograde i maslinike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tada Filisteji rekoše: ko je to uèinio? I odgovoriše: Samson zet Tamnaæaninov, jer mu uze ženu i dade je drugu njegovu. Tada doðoše Filisteji i spališe ognjem nju i oca njezina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Samson im reèe: ako ste i uèinili tako, opet æu vam se osvetiti, pa æu se onda okaniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I polomi ih ljuto nogama po bedrima: potom otide i nastani se u peæini od stijene Itama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tada izidoše Filisteji i stadoše u oko prema Judi, i raširiše se do Lehije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A ljudi od Jude rekoše: što ste izašli na nas? I odgovoriše: izašli smo da svežemo Samsona i da mu uèinimo kako je on nama uèinio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tada izide tri tisuæe ljudi iz Jude k peæini u stijeni Itamu, i rekoše Samsonu: ne znaš li da Filisteji vladaju nad nama? zašto si nam dakle to uèinio? A on im reèe: kako su oni meni uèinili tako ja uèinih njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Oni mu rekoše: došli smo da te svežemo i predamo u ruke Filistejima. A Samson im reèe: zakunite mi se da neæete vi uložiti na me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Oni mu odgovoriše i rekoše: neæemo; nego æemo te samo svezati i predati u njihove ruke, ali te neæemo pogubiti. I svezaše ga u dva nova uža i odvedoše ga iz stijene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I kad on doðe do Lehije, Filisteji ga sretoše vièuæi od radosti; a duh Gospodnji siðe na nj, i uža na rukama njegovima postaše kao konci izgorjeli od vatre, i spadoše sveze s ruku njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I on naðe èeljust magareæu još sirovu, i pruživ ruku svoju uze je, i pobi njom tisuæu ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Potom reèe Samson: èeljušæu magareæom jednu gomilu, dvije gomile, èeljušæu magareæom pobih tisuæu ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A kad izreèe, baci èeljust iz ruke svoje, i nazva ono mjesto Ramat-Lehija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I bijaše žedan jako, te zavapi ka Gospodu i reèe: ti si uèinio rukom sluge svojega ovo izbavljenje veliko; a sada hoæu li umrijeti od žeði, ili æu pasti u ruke neobrezanima?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tada Bog rascijepi stijenu u Lehiji, i proteèe voda iz nje, te se napi, i povrati mu se duh i oživje. Zato se prozva onaj izvor En-Akore, koji je u Lehiji do današnjega dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I bi sudija Izrailju za vremena Filistejskoga dvadeset godina."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JDG/15.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 15
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JDG/16.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 16
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JDG/14.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 14
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 20
+}

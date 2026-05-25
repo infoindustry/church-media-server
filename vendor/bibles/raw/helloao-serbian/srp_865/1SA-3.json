@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A dijete Samuilo služaše Gospodu pred Ilijem; i rijeè Gospodnja bješe rijetka u ono vrijeme, i ne javljahu se utvare."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jednom u to vrijeme Ilije ležaše na svom mjestu; a oèi mu poèinjahu tamnjeti te ne mogaše vidjeti;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I Samuilo ležaše u domu Gospodnjem gdje bijaše kovèeg Božji, i žišci Gospodnji još ne bjehu pogašeni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I viknu Gospod Samuila, a on reèe: evo me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I pritrèa k Iliju, i reèe mu: evo me, što si me zvao? A on reèe: nijesam te zvao, idi lezi. I on otide i leže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A Gospod opet viknu Samuila, i Samuilo usta, i otide k Iliju, i reèe: evo me, što si me zvao? A on reèe: nijesam te zvao, sine; idi lezi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Samuilo još ne poznavaše Gospoda, i još mu ne bješe javljena rijeè Gospodnja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tada opet viknu Gospod Samuila treæi put, i on usta i otide k Iliju, i reèe: evo me, što si me zvao? Tada razumje Ilije da Gospod zove dijete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I reèe Ilije Samuilu: idi lezi; a ako te zovne, a ti reci: govori Gospode, èuje sluga tvoj. I Samuilo otide, i leže na svoje mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Gospod doðe i stade; i zovnu kao prije: Samuilo! Samuilo! A Samuilo reèe: govori, èuje sluga tvoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I reèe Gospod Samuilu: evo uèiniæu nešto u Izrailju da æe zujati oba uha svakome ko èuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "U taj dan æu uèiniti Iliju sve što sam govorio za kuæu njegovu, od poèetka do kraja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer sam mu javio da æu suditi domu njegovu dovijeka za nevaljalstvo, za koje je znao da njim navlaèe na se prokletstvo sinovi njegovi, pa im nije zabranio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Zato se zakleh domu Ilijevu da se neæe oèistiti nevaljalstvo doma Ilijeva nikakvom žrtvom ni prinosom dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I Samuilo spava do jutra, pa otvori vrata doma Gospodnjega. Ali se bojaše Samuilo kazati Iliju za utvaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Ilije zovnu Samuila i reèe: Samuilo, sine! A on reèe: evo me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A on reèe: kakve su rijeèi što ti je kazao? nemoj zatajiti od mene; tako ti uèinio Bog i tako ti dodao, ako zatajiš od mene što god što ti je kazao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I Samuilo mu kaza sve, i ništa ne zataji od njega. A on reèe: Gospod je, neka èini što mu je volja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A Samuilo rastijaše, i Gospod bijaše s njim, i ne pusti da padne na zemlju nijedna rijeè njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I sav Izrailj od Dana do Virsaveje pozna da je Samuilo vjeran prorok Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I Gospod se stade opet javljati u Silomu, jer se Gospod javljaše Samuilu u Silomu rijeèju Gospodnjom."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

@@ -1,0 +1,244 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 19,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I Saul govori Jonatanu sinu svojemu i svijem slugama svojim da ubiju Davida; ali Jonatan sin Saulov ljubljaše veoma Davida."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I javi Jonatan Davidu i reèe mu: Saul otac moj traži da te ubije; nego se èuvaj sjutra, skloni se gdjegod i prikrij se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A ja æu izaæi i stajaæu pored oca svojega u polju gdje ti budeš, i govoriæu o tebi s ocem svojim, i što doznam javiæu ti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I Jonatan progovori za Davida Saulu ocu svojemu, i reèe mu: da se ne ogriješi car o slugu svojega Davida, jer se on nije ogriješio o tebe, nego je još vrlo dobro za te što je èinio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer nije mario za život svoj i pobio je Filisteje, i Gospod uèini spasenje veliko svemu Izrailju; vidio si i radovao si se; pa zašto bi se ogriješio o krv pravu i ubio Davida ni za što?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I posluša Saul Jonatana, i zakle se Saul: tako živ bio Gospod, neæe poginuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tada Jonatan dozva Davida, i kaza mu Jonatan sve ovo; i dovede Jonatan Davida k Saulu, i opet bi pred njim kao preðe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I nasta opet rat, i David izide i pobi se s Filistejima, i razbi ih veoma, te bježaše od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Potom zli duh Gospodnji napade Saula kad sjeðaše kod kuæe i držaše koplje u ruci, a David udaraše rukom o gusle."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I Saul šæaše Davida kopljem prikovati za zid, ali se on izmaèe Saulu, te koplje udari u zid, a David pobježe i izbavi se onu noæ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Saul posla ljude ka kuæi Davidovoj da ga èuvaju i ujutru ubiju. A to javi Davidu žena njegova Mihala govoreæi: ako noæas ne izbaviš duše svoje, ujutru æeš poginuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada Mihala spusti Davida kroz prozor, te otide i pobježe i izbavi se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Mihala uze lik, i metnu ga u postelju, i metnu mu pod glavu uzglavlje od kostrijeti, i pokri ga haljinom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I kad Saul posla ljude da uhvate Davida, ona reèe: bolestan je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Saul posla opet ljude da vide Davida govoreæi: donesite mi ga u postelji da ga pogubim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A kad doðoše poslani, gle, lik u postelji i uzglavlje od kostrijeti pod glavom mu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I reèe Saul Mihali: što me tako prevari i pusti neprijatelja mojega da uteèe? A Mihala reèe Saulu: on mi reèe: pusti me, ili æu te ubiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Tako David uteèe i izbavi se, i doðe k Samuilu u Ramu, i pripovjedi mu sve što mu je uèinio Saul. I otidoše on i Samuilo, i ostaše u Najotu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A Saulu doðe glas i rekoše mu: eno Davida u Najotu u Rami."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Tada posla Saul ljude da uhvate Davida; i oni vidješe zbor proroka gdje prorokuju a Samuilo im starješina. I duh Gospodnji doðe na poslanike Saulove, te i oni prorokovahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A kad to javiše Saulu, on posla druge poslanike, ali i oni prorokovahu; te Saul opet posla treæe poslanike, ali i oni prorokovahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Tada sam poðe u Ramu, i kad doðe na veliki studenac koji je u Sokotu, zapita govoreæi: gdje je Samuilo i David? I rekoše mu: eno ih u Najotu u Rami."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I poðe u Najot u Rami; ali i na njega siðe duh Božji, te iduæi dalje prorokovaše dokle doðe u Najot u Rami."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Pa skide i on haljine svoje sa sebe, i prorokova i on pred Samuilom, i padnuvši ležaše go vas onaj dan i svu noæ. Stoga se govori: eda li je i Saul meðu prorocima?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/19.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 19
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/20.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 20
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/18.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 18
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 24
+}

@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "srp_865",
+    "name": "Ponovljeni Zakon",
+    "commonName": "Ponovljeni Zakon",
+    "title": "Ponovljeni Zakon",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "b000b6651908c9448c65c662cec1fa45977205b236e0922d505241ab679311df",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DEU/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 1
+    },
+    "lastChapterNumber": 34,
+    "lastChapterApiLink": "/api/srp_865/DEU/34.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 34
+    },
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Svake sedme godine opraštaj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A opraštanje da biva ovako: kome je ko dužan što, neka oprosti što bi mogao tražiti od bližnjega svojega; neka ne traži od bližnjega svojega i od brata svojega, jer je opraštanje Gospodnje oglašeno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Od tuðina traži, ali što bi imao u brata svojega, ono neka mu oprosti ruka tvoja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Da ne bi bilo siromaha meðu vama, jer æe te obilno blagosloviti Gospod u zemlji koju ti Gospod Bog tvoj da u našljedstvo da je tvoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Samo ako dobro uzaslušaš glas Gospoda Boga svojega gledajuæi da èiniš sve ove zapovijesti, koje ti ja zapovijedam danas,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Blagosloviæe te Gospod Bog tvoj, kao što ti je kazao, te æeš davati u zajam mnogim narodima, a ni od koga neæeš uzimati u zajam, i vladaæeš mnogim narodima, a oni tobom neæe vladati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ako bude u tebe koji siromah izmeðu braæe tvoje u kom mjestu tvom, u zemlji tvojoj, koju ti daje Gospod Bog tvoj, nemoj da ti se stvrdne srce tvoje i da stisneš ruku svoju bratu svojemu siromahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Nego otvori ruku svoju i pozajmi mu rado koliko mu god treba u potrebi njegovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Èuvaj se da ne bude kakvo nevaljalstvo u srcu tvom, pa da reèeš: blizu je sedma godina, godina oprosna; i da oko tvoje ne bude zlo prema bratu tvojemu siromahu, pa da mu ne daš, a on zato da vapije ka Gospodu na te, i bude ti grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Podaj mu, i neka ne žali srce tvoje kad mu daš; jer æe za tu stvar blagosloviti tebe Gospod Bog tvoj u svakom poslu tvom i u svemu za što se prihvatiš rukom svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer neæe biti bez siromaha u zemlji; zato ti zapovijedam i kažem: otvoraj ruku svoju bratu svojemu, nevoljniku i siromahu svojemu u zemlji svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ako ti se proda brat tvoj Jevrejin ili Jevrejka, neka ti služi šest godina, a sedme godine otpusti ga od sebe slobodna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A kad ga otpustiš od sebe slobodna, nemoj ga otpustiti prazna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Daruj ga èim izmeðu stoke svoje i s gumna svojega i iz kace svoje; podaj mu èim te je blagoslovio Gospod Bog tvoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I opominji se da si bio rob u zemlji Misirskoj i da te je izbavio Gospod Bog tvoj; zato ti ja zapovijedam ovo danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ako li ti reèe: neæu da idem od tebe, zato što te ljubi i dom tvoj, jer mu je dobro kod tebe,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tada uzmi šilo i probuši mu uho na vratima, i biæe ti sluga dovijeka; i sluškinji svojoj uèini tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nemoj da ti bude teško kad ga otpuštaš od sebe slobodna, jer je dvojinom onoliko koliko najamnik zaslužio u tebe za šest godina, da bi te blagoslovio Gospod Bog tvoj u svemu što radiš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Sve prvence u stoci svojoj krupnoj i sitnoj što bude muško, posveti Gospodu Bogu svojemu; ne radi na prvencu od krave svoje, i ne strizi prvenca od ovaca svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Pred Gospodom Bogom svojim jedi ih ti i porodica tvoja svake godine na mjestu koje izbere Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ako li na njemu bude mana, ako bude hromo ili slijepo, ili koja god zla mana bude na njemu, ne kolji ga Gospodu Bogu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "U svom mjestu pojedi ga; i èist i neèist neka jede kao srnu i jelena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Samo krvi od njega ne jedi; prolij je na zemlju kao vodu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DEU/15.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 15
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DEU/16.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 16
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DEU/14.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 14
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

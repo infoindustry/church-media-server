@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 25,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Fist onda primivši vlast poslije tri dana iziðe iz Æesarije u Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Onda glavari sveštenièki i starješine Jevrejske tužiše mu se na Pavla, i moljahu ga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ištuæi milosti protiv njega, da ga pošlje u Jerusalim; i nareðivahu zasjedu da ga ubiju na putu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A Fist odgovori da se Pavle èuva u Æesariji, a i on æe sam skoro onamo da ide:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Koji dakle mogu od vas, reèe, neka idu sa mnom, i ako ima kakva krivica na tom èovjeku neka ga tuže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A pošto bi u njih ne više od deset dana, siðe u Æesariju, i sjutradan sjedavši na sudijnsku stolicu zapovjedi da dovedu Pavla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kad ga dovedoše, stadoše unaokolo Jevreji koji bijahu došli iz Jerusalima, i mnoge i teške krivice iznošahu na Pavla, kojijeh ne mogahu posvjedoèiti,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Kad se on odgovaraše: niti zakonu Jevrejskome, ni crkvi, ni æesaru što sagriješih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ali Fist, hoteæi Jevrejima uèiniti na volju, odgovori Pavlu i reèe: hoæeš da ideš gore u Jerusalim i ondje da ti sudim za to?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Pavle reèe: ja stojim na sudu æesarevu, ovdje treba da mi se sudi: Jevrejima ništa nijesam skrivio, kao što i ti najbolje znaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ako li sam skrivio, ili uèinio što što zaslužuje smrt, ne marim umrijeti; ako li pak ništa nema na meni šta ovi na mene potvoraju, niko me ne može njima predati. Æesaru idem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada Fist, pogovorivši sa savjetnicima, odgovori: æesaru reèe da hoæeš: æesaru æeš poæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A pošto proðe nekoliko dana, Agripa car i Vernikija siðoše u Æesariju da pohode Fista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I buduæi da ondje mnogo dana ostaše, kaza Fist caru za Pavla govoreæi: èovjeka jednoga ostavio je Filiks u tamnici,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Za kojega, kad ja bijah u Jerusalimu, iziðoše preda me glavari sveštenièki i starješine Jevrejske moleæi da ga osudim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ja im odgovorih da nije obièaj u Rimljana da se prije pokloni kakav èovjek na smrt dok se optuženi ne suoèi s onima koji ga tuže, i ne primi mjesto da odgovara za svoju krivicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A kad se oni ovdje sastaše, nikakvoga odlaganja ne uèinih, i sjutradan sjedavši na sudijnsku stolicu zapovjedih da dovedu èovjeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A oko njega stavši suparnici ni jedne krivice koje ja mišljah ne iznesoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nego imahu protiv njega nekakva pitanja o svojemu sujevjerju, i o nekakvom Isusu, koji je umro pa Pavle govoraše da je živ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A ja ne znajuæi u ovome poslu šta æu èiniti, rekoh bi li htio iæi u Jerusalim i onamo da mu se sudi za ovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A kad Pavle reèe da ga èuvamo do suda Avgustova, zapovjedih da ga èuvaju dokle ga pošljem k æesaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A Agripa reèe Fistu: i ja bih rad èuti toga èovjeka. A on reèe: sjutra æeš ga èuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Sjutradan pak, kad Agripa i Vernikija doðoše s velikijem ponosom, i uðoše u sudnicu s vojvodama i sa starješinama onoga grada, i kad zapovjedi Fist, dovedoše Pavla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I reèe Fist: Agripa care! i svi koji ste s nama! Vidite ovoga za kojega mi sve mnoštvo Jevreja dosaðivaše i u Jerusalimu i ovdje, vièuæi da ne valja da on više živi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A ja doznavši da on ništa nije uèinio što zaslužuje smrt, a i on sam reèe da æe da ide k svijetlome æesaru, namislih da ga pošljem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Za kojega nemam šta upravo pisati gospodaru. Zato ga i dovedoh pred vas, a osobito preda te, Agripa care, da bih, pošto bude ispitivanje, imao šta pisati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jer mi se èini ludo sužnja poslati, a krivice njegove ne javiti."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/25.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 25
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/26.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 26
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/24.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 24
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

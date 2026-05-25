@@ -1,0 +1,174 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Breme Damasku. Gle, Damasak æe se ukinuti da ne bude više grad, nego æe biti gomila razvalina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Gradovi Aroirski biæe ostavljeni, biæe za stada, te æe u njima poèivati, i niko ih neæe plašiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Nestaæe gradova Jefremovijeh i carstva u Damasku i ostatku Sirskom, biæe kao slava sinova Izrailjevijeh, veli Gospod nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I u taj æe dan istanèati slava Jakovljeva, i debelo tijelo njegovo omršaæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer æe biti kao kad žetelac sabira žito i rukom žanje klasje, i biæe kao kad se kupi klasje u dolini Rafajskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ali æe se ostaviti u njoj pabirci kao kad se otrese maslina, pa dvije tri ostanu u vrhu, i èetiri pet na rodnijem granama, veli Gospod Bog Izrailjev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "U to æe vrijeme èovjek pogledati na tvorca svojega, i oèi njegove gledaæe na sveca Izrailjeva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A neæe pogledati na oltare, djelo ruku svojih, niti æe gledati na ono što su naèinili prsti njegovi, ni na lugove ni na likove sunèane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "U to æe vrijeme tvrdi gradovi njegovi biti kao ostavljen grm i ogranak, jer æe se ostaviti radi sinova Izrailjevijeh, i biæe pustoš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer si zaboravio Boga spasenja svojega, i nijesi se sjeæao stijene sile svoje; zato sadi krasne sadove i lozu stranu presaðuj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Danju radi da uzraste što posadiš, i jutrom gledaj da ti sjeme nikne; ali kad doðe do branja razgrabiæe se, i ostaæe ti ljuta žalost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Teško mnoštvu velikih naroda, što buèe kao što buèe mora, i uzavrelijem narodima, kojih stoji vreva kao silnijeh voda;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Vreva stoji naroda kao velikih voda; ali æe povikati na njih, i oni æe pobjeæi daleko, i biæe gonjeni kao pljeva po brdima od vjetra i kao prah od vihora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Uveèe eto straha, i prije nego svane nema nikoga. To je dio onijeh koji nas gaze, i našljedstvo onijeh koji otimlju od nas."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/17.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 17
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/18.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 18
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/16.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 16
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 14
+}

@@ -1,0 +1,335 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad oni govorahu narodu, naiðoše na njih sveštenici i vojvoda crkveni i sadukeji;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I rasrdiše se, što oni uèe ljude i javljaju u Isusu vaskrsenije iz mrtvijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I digoše na njih ruke, i metnuše ih u zatvor do ujutru: jer veæ bješe veèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A od onijeh koji slušahu rijeè mnogi vjerovaše, i postade broj ljudi oko pet hiljada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A kad bi ujutru, skupiše se knezovi njihovi i starješine i književnici u Jerusalim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I Ana poglavar sveštenièki i Kajafa i Jovan i Aleksandar i koliko ih god bješe od roda sveštenièkoga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I metnuvši ih na srijedu pitahu: kakom silom ili u èije ime uèiniste vi ovo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tada Petar napunivši se Duha svetoga reèe im: knezovi narodni i starješine Izrailjeve!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ako nas danas pitate za dobro djelo koje uèinismo bolesnu èovjeku te on ozdravi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Da je na znanje svima vama i svemu narodu Izrailjevu da u ime Isusa Hrista Nazareæanina, kojega vi raspeste, kojega Bog podiže iz mrtvijeh, stoji ovaj pred vama zdrav."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ovo je kamen koji vi zidari odbaciste, a postade glava od ugla: i nema ni u jednome drugom spasenija;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer nema drugoga imena pod nebom danoga ljudima kojijem bi se mi mogli spasti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A kad vidješe slobodu Petrovu i Jovanovu, i znajuæi da su ljudi neknjiževni i prosti, divljahu se, a znadijahu ih da bijahu s Isusom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A videæi iscijeljenoga èovjeka gdje s njima stoji ne mogahu ništa protivu reæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Onda im zapovjediše da iziðu napolje iz savjeta, pa pitahu jedan drugoga"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Govoreæi: šta æete èiniti ovijem ljudima? Jer veliki znak što uèiniše oni poznat je svima koji žive u Jerusalimu, i ne možemo odreæi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ali da se dalje ne razilazi po narodu, da im oštro zaprijetimo da više ne govore za ime ovo nikome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I dozvavši ih zapovjediše im da ništa ne spominju niti uèe u ime Isusovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Petar i Jovan odgovarajuæi rekoše im: sudite je li pravo pred Bogom da vas veæma slušamo negoli Boga?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer mi ne možemo ne govoriti što vidjesmo i èusmo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A oni zaprijetivši im pustiše ih, ne našavši ništa kako bi ih muèili, naroda radi; jer svi hvaljahu Boga za ono što se bješe dogodilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer onome èovjeku bješe više od èetrdeset godina na kom se dogodi ovo èudo zdravlja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A kad ih otpustiše, doðoše k svojima, i javiše šta im rekoše glavari sveštenièki i starješine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A oni kad èuše, jednodušno podigoše glas k Bogu i rekoše: Gospode Bože, ti koji si stvorio nebo i zemlju i more i sve što je u njima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Koji ustima Davida sluge svojega reèe: zašto se bune neznabošci, i narodi izmišljavaju prazne rijeèi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Sastaše se carevi zemaljski, i knezovi se sabraše ujedno na Gospoda i na Hrista njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Zaista se sabraše u ovome gradu na svetoga sina tvojega Isusa, kojega si pomazao, Irod i Pontijski Pilat s neznabošcima i s narodom Izrailjevijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Da uèine što ruka tvoja i savjet tvoj naprijed odredi da bude."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I sad Gospode! pogledaj na njihove prijetnje, i daj slugama svojima da govore sa svakom slobodom rijeè tvoju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I pružaj ruku svoju na iscjeljivanje i da znaci i èudesa bivaju imenom svetoga sina tvojega Isusa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I pošto se oni pomoliše Bogu zatrese se mjesto gdje bijahu sabrani, i napuniše se svi Duha svetoga, i govorahu rijeè Božiju sa slobodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A u naroda koji vjerova bješe jedno srce i jedna duša; i nijedan ne govoraše za imanje svoje da je njegovo, nego im sve bješe zajednièko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I apostoli s velikom silom svjedoèahu za vaskrsenije Gospoda Isusa Hrista; i blagodat velika bješe na svima njima:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Jer nijedan meðu njima ne bješe siromašan, jer koliko ih god bijaše koji imadijahu njive ili kuæe, prodavahu i donošahu novce što uzimahu za to,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I metahu pred noge apostolima; i davaše se svakome kao što ko trebaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A Josija, prozvani od apostola Varnava, koje znaèi sin utjehe, Levit rodom iz Kipra,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "On imadijaše njivu, i prodavši je donese novce i metnu apostolima pred noge."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 37
+}

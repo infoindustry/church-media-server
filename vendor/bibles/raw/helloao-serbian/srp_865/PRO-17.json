@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PRO",
+    "translationId": "srp_865",
+    "name": "Poslovice",
+    "commonName": "Poslovice",
+    "title": "Poslovice",
+    "order": 20,
+    "numberOfChapters": 31,
+    "sha256": "f56bab8aa62f0f40c0df66127a72bfe1a5502690bdb1dac94e5767df0572eee0",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PRO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PRO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/PRO/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PRO",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 915
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Bolji je zalogaj suha hljeba s mirom nego kuæa puna poklane stoke sa svaðom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Razuman sluga biæe gospodar nad sinom sramotnijem i s braæom æe dijeliti našljedstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Topionica je za srebro i peæ za zlato, a srca iskušava Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Zao èovjek pazi na usne zle, a lažljivac sluša jezik pakostan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ko se ruga siromahu, sramoti stvoritelja njegova; ko se raduje nesreæi, neæe ostati bez kara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Vijenac su starcima unuci, a slava sinovima oci njihovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ne prilièi bezumnom visoka besjeda, akamoli knezu lažljiva besjeda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Poklon je dragi kamen onome koji ga prima, kuda se god okrene napreduje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ko pokriva prijestup, traži ljubav; a ko ponavlja stvar, rastavlja glavne prijatelje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ukor tišti razumnoga veæma nego ludoga sto udaraca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zao èovjek traži samo odmet, ali æe se ljut glasnik poslati na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Bolje je da èovjeka srete medvjedica kojoj su oteti medvjediæi, nego bezumnik u svom bezumlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ko vraæa zlo za dobro, neæe se zlo odmaæi od kuæe njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ko poène svaðu, otvori ustavu vodi; zato prije nego se zametne, proði se raspre."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ko opravda krivoga i ko osudi pravoga, obojica su gad Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Na što je blago bezumnome u ruci kad nema razuma da pribavi mudrost?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "U svako doba ljubi prijatelj, i brat postaje u nevolji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Èovjek bezuman daje ruku i jamèi se za prijatelja svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ko miluje svaðu, miluje grijeh; ko podiže uvis vrata svoja, traži pogibao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ko je opaka srca, neæe naæi dobra; i ko dvolièi jezikom, pašæe u zlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ko rodi bezumna, na žalost mu je, niti æe se radovati otac luda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Srce veselo pomaže kao lijek, a duh žalostan suši kosti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Bezbožnik prima poklon iz njedara da prevrati putove pravdi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Razumnomu je na licu mudrost, a oèi bezumniku vrljaju nakraj zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Žalost je ocu svojemu sin bezuman, i jad roditeljci svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Nije dobro globiti pravednika, ni da knezovi biju koga što je radio pravo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Usteže rijeèi svoje èovjek koji zna, i tiha je duha èovjek razuman."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I bezuman kad muèi, misli se da je mudar, i razuman, kad stiskuje usne svoje."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PRO/17.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 17
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PRO/18.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 18
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PRO/16.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 16
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

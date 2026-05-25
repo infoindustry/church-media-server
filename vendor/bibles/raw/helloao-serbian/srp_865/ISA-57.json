@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 57,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Pravednik mre, i niko ne mari; i pobožni se ljudi uzimaju, a niko se ne sjeæa da se pred zlo uzima pravednik;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Dolazi u mir i poèiva na postelji svojoj ko god hodi pravijem putem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A vi sinovi vraèarini, rode kurvarski, koji se kurvate, pristupite ovamo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Kim se rugate? na koga razvaljujete usta i plazite jezik? nijeste li sinovi prestupnièki, sjeme lažno?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Koji se upaljujete za lugovima, pod svakim zelenijem drvetom, koljete sinove svoje u potocima, pod vrletima kamenijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Dio ti je meðu glatkim kamenjem potoènim; to je, to je tvoj dio; njemu ljevaš naljev svoj, prinosiš dar; tijem li æu se umiriti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Na gori visokoj i uzvišenoj meæeš postelju svoju; i onamo izlaziš da prineseš žrtvu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I iza vrata i iza dovrataka meæeš spomen svoj; otstupivši od mene otkrivaš se, i izašavši gore širiš odar svoj, ugovaraš s njima, mila ti je postelja njihova, gdje ugledaš mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ideš k caru s uljem, s mnogim mirisima svojim; šalješ poslanike svoje daleko i ponizuješ se do groba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Od daljnoga puta svoga umorna ne kažeš: zaludu. Nalaziš život ruci svojoj, zato ne sustaješ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I od koga si se uplašila i koga si se pobojala, te si slagala i nijesi se mene opominjala niti si marila? što ja muèah odavna, zato li me se ne bojiš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ja æu objaviti tvoju pravdu i tvoja djela; ali ti neæe pomoæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Kad staneš vikati, neka te izbave oni koje si sabrala; ali æe ih sve vjetar odnijeti, i uzeæe ih taština. Ali ko se u me uzda, naslijediæe zemlju i dobiæe svetu goru moju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I reæi æe se: poravnite, poravnite, pripravite put, uklonite smetnje s puta naroda mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer ovako govori visoki i uzvišeni, koji živi u vjeènosti, kojemu je ime sveti: na visini i u svetinji stanujem i s onijem ko je skrušena srca i smjerna duha oživljujuæi duh smjernijeh i oživljujuæi srce skrušenijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer se neæu jednako preti niti æu se dovijeka gnjeviti, jer bi išèeznuo preda mnom duh i duše koje sam stvorio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Za bezakonje lakomosti njegove razgnjevih se, i udarih ga, sakrih se i razgnjevih se, jer odmetnuvši se otide putem srca svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Vidim putove njegove, ali æu ga iscijeliti, vodiæu ga i daæu opet utjehu njemu i njegovijem koji tuže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ja stvaram plod usnama: mir, mir onomu ko je daleko i ko je blizu, veli Gospod, i iscijeliæu ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A bezbožnici su kao more uskolebano, koje se ne može umiriti i voda njegova izmeæe neèistotu i blato."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Nema mira bezbožnicima, veli Bog moj."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/57.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 57
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/58.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 58
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/56.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 56
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

@@ -1,0 +1,391 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "srp_865",
+    "name": "Brojevi",
+    "commonName": "Brojevi",
+    "title": "Brojevi",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "5dc73b8a174fd63cb58a0932611fd5816a865be2dae8658fc6051a7a529e9415",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NUM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/NUM/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 14,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada se podiže sav zbor i stade vikati, i narod plakaše onu noæ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I vikahu na Mojsija i na Arona svi sinovi Izrailjevi; i sav zbor reèe im: kamo da smo pomrli u zemlji Misirskoj ili da pomremo u ovoj pustinji!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Zašto nas vodi Gospod u tu zemlju da izginemo od maèa, žene naše i djeca naša da postanu roblje? Nije li bolje da se vratimo u Misir?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I rekoše meðu sobom: da postavimo starješinu, pa da se vratimo u Misir."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tada Mojsije i Aron padoše nièice pred svijem zborom sinova Izrailjevijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A Isus sin Navin i Halev sin Jefonijin izmeðu onijeh što uhodiše zemlju, razdriješe haljine svoje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I rekoše svemu zboru sinova Izrailjevijeh govoreæi: zemlja koju proðosmo i uhodismo, vrlo je dobra zemlja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ako smo mili Gospodu, on æe nas odvesti u tu zemlju, i daæe nam je; a to je zemlja u kojoj teèe mlijeko i med."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Samo se ne odmeæite Gospoda, i ne bojte se naroda one zemlje; jer ih možemo pojesti; otstupio je od njih zaklon njihov, a s nama je Gospod, ne bojte ih se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Tada reèe sav zbor da ih pobiju kamenjem; ali se pokaza slava Gospodnja svijem sinovima Izrailjevijem u šatoru od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I reèe Gospod Mojsiju: dokle æe me vrijeðati taj narod? kad li æe mi vjerovati poslije tolikih znaka što sam uèinio meðu njima?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Udariæu ga pomorom, i rasuæu ga; a od tebe æu uèiniti narod velik i jaèi od ovoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Mojsije reèe Gospodu: ali æe èuti Misirci, izmeðu kojih si izveo ovaj narod silom svojom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I reæi æe s ljudima ove zemlje, koji su èuli da si ti, Gospode, bio usred naroda i da si se oèima viðao, Gospode, i oblak tvoj da je stajao nad njima, i u stupu od oblaka da si išao pred njima danju i u stupu ognjenom noæu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Pa kad pobiješ ovaj narod, sve do jednoga, govoriæe narodi, koji su èuli pripovijest o tebi, govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Nije mogao Gospod dovesti naroda ovoga u zemlju koju im je sa zakletvom obeæao, zato ih pobi u pustinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Neka se dakle proslavi sila Gospodnja, kao što si rekao govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Gospod dugo èeka i obilan je milošæu, prašta bezakonje i grijeh, ali ne pravda krivoga, nego pohodi bezakonje otaèko na sinovima do treæega i èetvrtoga koljena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Oprosti bezakonje ovomu narodu radi velike milosti svoje, kao što si praštao narodu ovomu od Misira dovde."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Gospod reèe: praštam po rijeèi tvojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ali tako ja živ bio, i tako sva zemlja bila puna slave Gospodnje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ti ljudi koji vidješe slavu moju i znake moje što sam uèinio u Misiru i u ovoj pustinji, i kušaše me veæ deset puta, i ne poslušaše rijeèi moje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Neæe vidjeti zemlje koju sa zakletvom obeæah ocima njihovijem, neæe vidjeti ni jedan od onijeh koji me uvrijediše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A slugu svojega Haleva, u kojem bješe drugi duh i koji se sasvijem mene držao, njega æu odvesti u zemlju u koju je išao, i sjeme æe je njegovo naslijediti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ali Amalik i Hananej sjede u dolini, zato se sjutra vratite natrag, i idite u pustinju k Crvenom Moru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Još reèe Gospod Mojsiju i Aronu govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Dokle æe taj zli zbor vikati na me? Èuo sam viku sinova Izrailjevijeh, kojom vièu na me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Kaži im: tako ja živ bio, kaže Gospod, uèiniæu vam onako kako ste govorili i ja èuh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "U ovoj æe pustinji popadati mrtva tjelesa vaša, i svi izmeðu vas koji su izbrojeni u svem broju vašem od dvadeset godina i više, koji vikaste na me,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Neæete uæi u zemlju, za koju podigav ruku svoju zakleh se da æu vas naseliti u njoj, osim Haleva sina Jefonijina i Isusa sina Navina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A djecu vašu, za koju rekoste da æe postati roblje, njih æu odvesti, i oni æe poznati zemlju za koju vi ne marite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A vaša tjelesa mrtva æe popadati u ovoj pustinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A djeca vaša biæe pastiri po pustinji èetrdeset godina, i nosiæe kar za preljube vaše, dokle ne ispropadaju tjelesa vaša u pustinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Po broju dana, za koje uhodiste zemlju, èetrdeset dana, na svaki dan po godinu, nosiæete grijehe svoje, èetrdeset godina, i poznaæete da sam prekinuo s vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ja Gospod rekoh, i tako æu uèiniti svemu tom zboru zlomu, koji se sabrao na me: u pustinji æe propasti i tu pomrijeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A ljudi koje bješe poslao Mojsije da uhode zemlju, i koji vrativši se pobuniše sav zbor da vièe na nj, prosuvši zao glas o zemlji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Ti ljudi, koji prosuše zao glas o zemlji, pomriješe od pomora pred Gospodom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A Isus sin Navin i Halev sin Jefonijin ostaše živi izmeðu ljudi koji su išli da uhode zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I Mojsije kaza sve ove rijeèi svijem sinovima Izrailjevijem, i narod plaka veoma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A sjutradan ustavši poðoše navrh gore, i rekoše: evo nas, idemo na mjesto za koje je govorio Gospod, jer zgriješismo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Ali Mojsije reèe: zašto prestupate zapovijest Gospodnju? Od toga neæe biti ništa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Ne idite gore, jer Gospod nije meðu vama; nemojte da vas pobiju neprijatelji vaši."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Jer je Amalik i Hananej tamo pred vama, i izginuæete od maèa, jer odustaviste Gospoda, pa neæe ni Gospod biti s vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Ali oni ipak navališe da idu navrh gore; ali kovèeg zavjeta Gospodnjega i Mojsije ne izaðoše iz okola."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Tada siðe Amalik i Hananej, koji življahu u onoj gori, i razbiše ih i baciše dori do Orme."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NUM/14.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 14
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NUM/15.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 15
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NUM/13.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 13
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 45
+}

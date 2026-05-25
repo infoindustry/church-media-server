@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 45,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada Josif ne moguæi se uzdržati pred ostalima koji stajahu oko njega, povika: izaðite svi napolje. Tako ne osta niko kod njega kad se Josif pokaza braæi svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Pa briznu plakati tako da èuše Misirci, èu i dom Faraonov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reèe Josif braæi svojoj: ja sam Josif; je li mi otac još u životu? Ali mu braæa ne mogahu odgovoriti, jer se prepadoše od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A Josif reèe braæi svojoj: pristupite bliže k meni. I pristupiše; a on reèe: ja sam Josif brat vaš, kojega prodadoste u Misir."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A sada nemojte žaliti niti se kajati što me prodadoste ovamo, jer Bog mene posla pred vama radi života vašega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer je veæ dvije godine dana glad u zemlji, a biæe još pet godina, gdje neæe biti ni oranja ni žetve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Bog me posla pred vama, da vas saèuva na zemlji i da vam izbavi život izbavljanjem prevelikim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I tako nijeste me vi opravili ovamo nego sam Bog, koji me postavi ocem Faraonu i gospodarem od svega doma njegova i starješinom nad svom zemljom Misirskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Vratite se brže k ocu mojemu i kažite mu: ovako veli sin tvoj Josif: Bog me je postavio gospodarem svemu Misiru, hodi k meni, nemoj oklijevati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Sjedjeæeš u zemlji Gesemskoj i biæeš blizu mene, ti i sinovi tvoji i sinovi sinova tvojih, i ovce tvoje i goveda tvoja i što je god tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I ja æu te hraniti ondje, jer æe još pet godina biti glad, da ne pogineš od gladi ti i dom tvoj i što je god tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A eto vidite oèima svojima, i brat moj Venijamin svojima oèima, da vam ja iz usta govorim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Kažite ocu mojemu svu slavu moju u Misiru i što ste god vidjeli; pohitajte i dovedite ovamo oca mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Tada pade oko vrata Venijaminu bratu svojemu i plaka. I Venijamin plaka o vratu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I izljubi svu braæu svoju i isplaka se nad njima. Potom se braæa njegova razgovarahu s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I èu se glas u kuæi Faraonovoj, i rekoše: doðoše braæa Josifu. I milo bi Faraonu i slugama njegovijem;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I reèe Faraon Josifu: kaži braæi svojoj: ovako uèinite: natovarite magarce svoje, pa idite i vratite se u zemlju Hanansku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Pa uzmite oca svojega i èeljad svoju, i doðite k meni, i daæu vam najbolje što ima u zemlji Misirskoj, i ješæete najbolje obilje ove zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A ti im zapovjedi: ovako uèinite: uzmite sa sobom iz zemlje Misirske kola za djecu svoju i za žene svoje, i povezite oca svojega i doðite ovamo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A na pokuæstvo svoje ne gledajte, jer što ima najbolje u svoj zemlji Misirskoj vaše je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I sinovi Izrailjevi uèiniše tako; i Josif im dade kola po zapovijesti Faraonovoj; dade im i brašnjenice na put."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I svakome dade po dvoje haljine, a Venijaminu dade trista srebrnika i petore haljine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A ocu svojemu posla još deset magaraca natovarenijeh najljepšijeh stvari što ima u Misiru, i deset magarica natovarenijeh žita i hljeba i jestiva ocu na put."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Tako opravi braæu svoju, i poðoše; i reèe im: nemojte se koriti putem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Tako se vratiše iz Misira, i doðoše u zemlju Hanansku k Jakovu ocu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I javiše mu i rekoše: još je živ Josif, i zapovjeda nad svom zemljom Misirskom. A u njemu srce prenemože, jer im ne vjerovaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ali kad mu kazaše sve rijeèi Josifove, koje im je Josif rekao, i vidje kola, koja posla Josif po oca, tada oživje duh Jakova oca njihova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I reèe Izrailj: dosta mi je kad je još živ sin moj Josif; idem da ga vidim dokle nijesam umro."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/45.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 45
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/46.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 46
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/44.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 44
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

@@ -1,0 +1,244 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 46,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ovako veli Gospod Gospod: vrata unutrašnjega trijema, koja gledaju na istok, neka su zatvorena u šest dana težatnijeh, a u subotu neka se otvoraju, i na dan mladine neka se otvoraju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I knez neka doðe kroz trijem od vrata spoljašnjih, i neka stane kod dovratnika, a sveštenici neka prinesu njegovu žrtvu paljenicu i žrtvu zahvalnu, i on pokloniv se na pragu neka otide, a vrata da se ne zatvoraju do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I narod zemaljski neka se poklanja Gospodu na istijem vratima u subote i na mladine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A žrtva paljenica, što æe prinositi knez Gospodu subotom, biæe šest jaganjaca zdravijeh i ovan zdrav;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A dar efa na ovna, a na jaganjce dar koliko mu ruka može, i in ulja na efu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A o mladini da bude junac zdrav, i šest jaganjaca i ovan, sve zdravo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I dar da prinese efu na junca i efu na ovna, a na jaganjce koliko mu može ruka, i ulja in na efu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A knez kad ide, neka ide kroz trijem od vrata, i istijem putem neka odlazi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A kad narod zemaljski dohodi pred Gospoda o praznicima, ko uðe na sjeverna vrata da se pokloni, neka izlazi na južna vrata; a ko uðe na južna vrata, neka izlazi na sjeverna vrata; neka se ne vraæa na vrata na koja uðe, nego neka izlazi na ona koja su nasuprot."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A knez s njima neka ulazi kad oni ulaze, i neka izlazi kad oni izlaze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I o praznicima i o svetkovinama dar neka je efa na junca, i efa na ovna, a na jaganjce koliko mu ruka dade, a ulja in na efu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A kad knez prinosi dragovoljnu žrtvu, paljenicu ili zahvalnu, od svoje volje Gospodu, tada neka mu se otvore vrata koja gledaju na istok, i neka prinese žrtvu svoju paljenicu i zahvalnu, kako èini subotom; potom neka izide, i vrata neka se zatvore kad izide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I prinosi svaki dan Gospodu na žrtvu paljenicu jagnje od godine zdravo; svako jutro prinosi ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I dodaj na nj dar svako jutro šestinu efe i ulja treæinu ina, da se pokropi bijelo brašno; to je vazdašnji dar Gospodu uredbom vjeènom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I tako neka prinose jagnje i dar i ulje svako jutro, žrtvu paljenicu svagdašnju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ovako veli Gospod Gospod: ako knez da dar kome sinu svom od svojega našljedstva, neka bude sinovima njegovijem, njihovo je dostojanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ako li da dar od svojega našljedstva kome sluzi svojemu, neka mu bude do godine oprosne, a onda neka se vrati knezu, jer je njegovo našljedstvo, sinovima njegovijem neka bude."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I knez da ne uzima narodu ništa od našljedstva tjerajuæi ih s njihova našljedstva; od svojega dostojanja neka daje sinovima svojim našljedstvo da se ne razgoni moj narod, niko sa svojega našljedstva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Potom me odvede kroz ulaz koji je pokraj vrata u svete klijeti sveštenièke koje gledaju na sjever, i gle, ondje bijaše neko mjesto u dnu prema zapadu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I reèe mi: ovo je mjesto gdje æe sveštenici variti prinos za krivicu i za grijeh, gdje æe peæi dar da ne iznose u spoljašnji trijem i narod posveæuju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tada me izvede u spoljašnji trijem, i provede me u èetiri ugla od trijema, i gle, u svakom uglu od trijema bijaše trijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "U èetiri ugla od trijema bijahu trijemovi s dimnjacima, u dužinu od èetrdeset lakata, a u širinu od trideset lakata, sva èetiri na uglovima bijahu jedne mjere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "U njima èetirma bješe zid unaokolo, a pod tijem zidom bijahu ognjišta svuda unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I reèe mi: ovo su kuhinje, gdje æe žrtve narodne kuhati koji služe domu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/46.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 46
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/47.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 47
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/45.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 45
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 24
+}

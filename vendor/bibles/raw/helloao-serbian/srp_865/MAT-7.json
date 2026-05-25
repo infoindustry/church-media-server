@@ -1,0 +1,279 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "srp_865",
+    "name": "Mateju",
+    "commonName": "Mateju",
+    "title": "Jevanðelje po Mateju",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "2282cb47d4ecce5bfb50178a05f4b87b8f4e94d2e2954aa2bd38500539980051",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/MAT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ne sudite da vam se ne sudi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer kakovijem sudom sudite, onakovijem æe vam suditi; i kakovom mjerom mjerite, onakom æe vam se mjeriti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A zašto vidiš trun u oku brata svojega, a brvna u oku svojemu ne osjeæaš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ili, kako možeš reæi bratu svojemu: stani da ti izvadim trun iz oka tvojega; a eto brvno u oku tvojemu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Licemjere! izvadi najprije brvno iz oka svojega, pa æeš onda vidjeti izvaditi trun iz oka brata svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ne dajte svetinje psima; niti meæite bisera svojega pred svinje, da ga ne pogaze nogama svojima, i vrativši se ne rastrgnu vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ištite, i daæe vam se; tražite, i naæi æete; kucajte, i otvoriæe vam se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer svaki koji ište, prima; i koji traži, nalazi; i koji kuca, otvoriæe mu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ili koji je meðu vama èovjek u koga ako zaište sin njegov hljeba kamen da mu da?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ili ako ribe zaište da mu da zmiju?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Kad dakle vi, zli buduæi, umijete dare dobre davati djeci svojoj, koliko æe više otac vaš nebeski dati dobra onima koji ga mole?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Sve dakle što hoæete da èine vama ljudi, èinite i vi njima: jer je to zakon i proroci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Uðite na uska vrata; jer su široka vrata i širok put što vode u propast, i mnogo ih ima koji njim idu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Kao što su uska vrata i tijesan put što vode u život, i malo ih je koji ga nalaze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Èuvajte se od lažnijeh proroka, koji dolaze k vama u odijelu ovèijemu, a unutra su vuci grabljivi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Po rodovima njihovijem poznaæete ih. Eda li se bere s trnja grožðe, ili s èièka smokve?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tako svako drvo dobro rodove dobre raða, a zlo drvo rodove zle raða."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ne može drvo dobro rodova zlijeh raðati, ni drvo zlo rodova dobrijeh raðati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Svako dakle drvo koje ne raða roda dobra, sijeku i u oganj bacaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I tako dakle po rodovima njihovijem poznaæete ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Neæe svaki koji mi govori: Gospode! Gospode! uæi u carstvo nebesko; no koji èini po volji oca mojega koji je na nebesima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Mnogi æe reæi meni u onaj dan: Gospode! Gospode! nijesmo li u ime tvoje prorokovali, i tvojijem imenom ðavole izgonili, i tvojijem imenom èudesa mnoga tvorili?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I tada æu im ja kazati: nikad vas nijesam znao; idite od mene koji èinite bezakonje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Svaki dakle koji sluša ove moje rijeèi i izvršuje ih, kazaæu da je kao mudar èovjek koji sazida kuæu svoju na kamenu:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I udari dažd, i doðoše vode, i dunuše vjetrovi, i napadoše na kuæu onu, i ne pade; jer bješe utvrðena na kamenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A svaki koji sluša ove moje rijeèi a ne izvršuje ih, on æe biti kao èovjek lud koji sazida kuæu svoju na pijesku:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I udari dažd, i doðoše vode, i dunuše vjetrovi, i udariše u kuæu onu, i pade, i raspade se strašno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I kad svrši Isus rijeèi ove, divljaše se narod nauci njegovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Jer ih uèaše kao onaj koji vlast ima, a ne kao književnici."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAT/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAT/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

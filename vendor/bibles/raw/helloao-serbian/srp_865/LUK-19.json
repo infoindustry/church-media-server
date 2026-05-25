@@ -1,0 +1,412 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "srp_865",
+    "name": "Luki",
+    "commonName": "Luki",
+    "title": "Jevanðelje po Luki",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "71d24bae001865beafd9dc8b76f8e93d8f927bd8e33391ea4aebbf53673c6a27",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LUK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/LUK/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 19,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I kad uðe u Jerihon i prolažaše kroza nj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I gle, èovjek po imenu Zakhej, koji bješe starješina carinièki, i bješe bogat,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I iskaše da vidi Isusa da ga pozna; i ne mogaše od naroda, jer bješe maloga rasta;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I potrèavši naprijed, pope se na dud da ga vidi; jer mu je onuda trebalo proæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I kad doðe Isus na ono mjesto, pogledavši gore vidje ga, i reèe mu: Zakheju! siði brzo; jer mi danas valja biti u tvojoj kuæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I siðe brzo; i primi ga radujuæi se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I svi, kad vidješe, vikahu na njega govoreæi da grješnome èovjeku doðe u kuæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A Zakhej stade i reèe Gospodu: Gospode! evo pola imanja svojega daæu siromasima, i ako sam koga zanio vratiæu onoliko èetvoro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Isus mu reèe: danas doðe spasenije kuæi ovoj; jer je i ovo sin Avraamov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer je sin èovjeèij došao da naðe i spase što je izgubljeno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A kad oni to slušahu nastavi kazivati prièu; jer bješe blizu Jerusalima, i mišljahu da æe se odmah javiti carstvo Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Reèe dakle: jedan èovjek od dobra roda otide u daljnu zemlju da primi sebi carstvo, i da se vrati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Dozvavši pak deset svojijeh sluga dade im deset kesa, i reèe im: trgujte dok se ja vratim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I graðani njegovi mržahu na njega, i poslaše za njim poslanike govoreæi: neæemo da on caruje nad nama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I kad se on vrati, pošto primi carstvo, reèe da dozovu one sluge kojima dade srebro, da vidi šta je koji dobio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tada doðe prvi govoreæi: gospodaru! kesa tvoja donese deset kesa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I reèe mu: dobro, dobri slugo; kad si mi u malom bio vjeran evo ti vlast nad deset gradova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I doðe drugi govoreæi: gospodaru! kesa tvoja donese pet kesa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A on reèe i onome: i ti budi nad pet gradova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I treæi doðe govoreæi: gospodaru! evo tvoja kesa koju sam zavezao u ubrus i èuvao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer sam se bojao tebe: jer si èovjek tvrd: uzimaš što nijesi ostavio, i žnješ što nijesi sijao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A gospodar mu reèe: po tvojijem æu ti rijeèima suditi, zli slugo! znao si da sam ja tvrd èovjek, uzimam što nijesam ostavio, i žnjem što nijesam sijao:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Pa zašto nijesi dao mojega srebra trgovcima, i ja došavši primio bih ga s dobitkom?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I reèe onima što stajahu pred njim: uzmite od njega kesu i podajte onome što ima deset kesa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I rekoše mu: gospodaru! on ima deset kesa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A on im odgovori: jer vam kažem da æe se svakome koji ima dati; a od onoga koji nema uzeæe se od njega i ono što ima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A one moje neprijatelje koji nijesu htjeli da ja budem car nad njima, dovedite amo, i isijecite preda mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I kazavši ovo poðe naprijed, i iðaše gore u Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I kad se približi Vitfazi i Vitaniji kod gore koja se zvaše Maslinska, posla dva od uèenika svojijeh"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Govoreæi: idite u to selo prema vama, i kad uðete u njega naæi æete magare privezano na koje nikakav èovjek nikad nije usjedao; odriješite ga i dovedite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I ako vas ko upita: zašto driješite? ovako mu kažite: ono Gospodu treba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A kad otidoše poslani, naðoše kao što im kaza."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A kad oni driješahu magare rekoše im gospodari od njega: zašto driješite magare?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A oni rekoše: ono Gospodu treba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I dovedoše ga k Isusu, i baciše haljine svoje na magare, i posadiše Isusa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A kad iðaše, prostirahu haljine svoje po putu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A kad se približi veæ da siðe s gore Maslinske, poèe sve mnoštvo uèenika u radosti hvaliti Boga iza glasa za sva èudesa što su vidjeli,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Govoreæi: blagosloven car koji ide u ime Gospodnje! mir na nebu i slava na visini!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I neki fariseji iz naroda rekoše mu: uèitelju! zaprijeti uèenicima svojijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I odgovarajuæi reèe im: kažem vam: ako oni uæute, kamenje æe povikati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I kad se približi, ugleda grad i zaplaka za njim"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Govoreæi: kad bi i ti znao u ovaj tvoj dan što je za mir tvoj! ali je sad sakriveno od oèiju tvojijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Jer æe doæi dani na tebe, i okružiæe te neprijatelji tvoji opkopima, i opkoliæe te, i obuzeæe te sa sviju strana;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "I razbiæe tebe i djecu tvoju u tebi, i neæe ostaviti u tebi kamena na kamenu, zato što nijesi poznao vremena u kojemu si pohoðen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "I ušavši u crkvu stade izgoniti one što prodavahu u njoj i kupovahu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Govoreæi im: u pismu stoji: dom moj dom je molitve, a vi naèiniste od njega peæinu hajduèku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "I uèaše svaki dan u crkvi. A glavari sveštenièki i književnici i starješine narodne gledahu da ga pogube."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "I ne nalažahu šta bi mu uèinili; jer sav narod iðaše za njim, i slušahu ga."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LUK/19.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 19
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LUK/20.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 20
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LUK/18.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 18
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 48
+}

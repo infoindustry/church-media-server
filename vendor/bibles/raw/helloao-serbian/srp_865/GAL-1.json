@@ -1,0 +1,244 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GAL",
+    "translationId": "srp_865",
+    "name": "Galaæanima",
+    "commonName": "Galaæanima",
+    "title": "Poslanica Galaæanima",
+    "order": 48,
+    "numberOfChapters": 6,
+    "sha256": "d2e03dd1f5ba486866931bcba765e88c0ce25293c646bda093608473bc41a04d",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GAL/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GAL",
+      "chapter": 1
+    },
+    "lastChapterNumber": 6,
+    "lastChapterApiLink": "/api/srp_865/GAL/6.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GAL",
+      "chapter": 6
+    },
+    "totalNumberOfVerses": 149
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Pavle apostol, ni od ljudi, ni kroz èovjeka, nego kroz Isusa Hrista i Boga oca, koji ga vaskrse iz mrtvijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I sva braæa koja su sa mnom, crkvama Galatijskijem:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Blagodat vam i mir od Boga oca i Gospoda našega Isusa Hrista,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Koji dade sebe za grijehe naše da izbavi nas od sadašnjega svijeta zloga, po volji Boga i oca našega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Kojemu slava vavijek vijeka. Amin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Èudim se da se tako odmah odvraæate na drugo jevanðelje od onoga koji vas pozva blagodaæu Hristovom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Koje nije drugo, samo što neki smetaju vas, i hoæe da izvrnu jevanðelje Hristovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ali ako i mi, ili anðeo s neba javi vam jevanðelje drukèije nego što vam javismo, proklet da bude!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Kao što prije rekosmo i sad opet velim: ako vam ko javi jevanðelje drukèije nego što primiste, proklet da bude!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zar ja sad ljude nagovaram ili Boga? Ili tražim ljudima da ugaðam? Jer kad bih ja još ljudima ugaðao, onda ne bih bio sluga Hristov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ali vam dajem na znanje, braæo, da ono jevanðelje koje sam ja javio, nije po èovjeku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer ga ja ne primih od èovjeka, niti nauèih, nego otkrivenjem Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer ste èuli moje življenje nekad u Jevrejstvu, da sam odviše gonio crkvu Božiju i raskopavao je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I napredovah u Jevrejstvu veæma od mnogijeh vrsnika svojijeh u rodu svome, i odviše revnovah za otaèke svoje obièaje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A kad bi ugodno Bogu, koji me izabra od utrobe matere moje i prizva blagodaæu svojom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Da javi sina svojega u meni, da ga jevanðeljem objavim meðu neznabošcima; odmah ne pitah tijela i krvi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Niti iziðoh u Jerusalim k starijim apostolima od sebe, nego otidoh u Arapsku, i opet se vratih u Damask."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A poslije toga na tri godine iziðoh u Jerusalim da vidim Petra, i ostadoh u njega petnaest dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ali drugoga od apostola ne vidjeh, osim Jakova brata Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A što vam pišem evo Bog vidi da ne lažem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A potom doðoh u zemlje Sirske i Kilikijske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A bijah licem nepoznat Hristovijem crkvama Judejskima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Nego samo bijahu èuli da onaj koji nas nekad goni sad propovijeda vjeru koju nekad raskopavaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I slavljahu Boga za mene."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GAL/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GAL",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GAL/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GAL",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CO/13.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CO",
+    "chapter": 13
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 24
+}

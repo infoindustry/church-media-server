@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Mojsije pasijaše stado Jotoru tastu svojemu, svešteniku Madijamskomu, i odvede stado preko pustinje, i doðe na goru Božiju Horiv."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I javi mu se anðeo Gospodnji u plamenu ognjenom iz kupine. I pogleda, a to kupina ognjem gori a ne sagorijeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I Mojsije reèe: idem da vidim tu utvaru veliku, zašto ne sagorijeva kupina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A Gospod kad ga vidje gdje ide da vidi, viknu ga Bog iz kupine, i reèe: Mojsije! Mojsije! A on odgovori: evo me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A Bog reèe: ne idi ovamo. Izuj obuæu svoju s nogu svojih, jer je mjesto gdje stojiš sveta zemlja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Još reèe: ja sam Bog oca tvojega, Bog Avramov, Bog Isakov i Bog Jakovljev. A Mojsije zakloni lice svoje, jer ga strah bijaše gledati u Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I reèe Gospod: dobro vidjeh nevolju naroda svojega u Misiru, i èuh viku njegovu od zla koje mu èine nastojnici, jer poznah muku njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I siðoh da ga izbavim iz ruku Misirskih, i da ga izvedem iz one zemlje u zemlju dobru i prostranu, u zemlju gdje mlijeko i med teèe, na mjesto gdje su Hananeji i Heteji i Amoreji i Ferezeji i Jeveji i Jevuseji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I sada evo vika sinova Izrailjevijeh doðe preda me, i vidjeh muku, kojom ih muèe Misirci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Sada hajde da te pošljem k Faraonu, da izvedeš narod moj, sinove Izrailjeve, iz Misira."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Mojsije reèe Bogu: ko sam ja da idem k Faraonu i da izvedem sinove Izrailjeve iz Misira?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A Bog mu reèe: ja æu biti s tobom, i ovo neka ti bude znak da sam te ja poslao: kad izvedeš narod iz Misira, služiæete Bogu na ovoj gori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Mojsije reèe Bogu: evo, kad otidem k sinovima Izrailjevijem, pa im reèem: Bog otaca vaših posla me k vama, ako mi reku: kako mu je ime? šta æu im kazati?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Gospod reèe Mojsiju: ja sam onaj što jest. I reèe: tako æeš kazati sinovima Izrailjevijem: koji jest, on me posla k vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I opet reèe Bog Mojsiju: ovako kaži sinovima Izrailjevijem: Gospod Bog otaca vaših, Bog Avramov, Bog Isakov i Bog Jakovljev posla me k vama; to je ime moje dovijeka, i to je spomen moj od koljena na koljeno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Idi, i skupi starješine Izrailjske, pa im reci: Gospod Bog otaca vaših javi mi se, Bog Avramov, Isakov i Jakovljev, govoreæi: doista obidoh vas, i vidjeh kako vam je u Misiru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Pa rekoh: izvešæu vas iz nevolje Misirske u zemlju Hananejsku i Hetejsku i Amorejsku i Ferezejsku i Jevejsku i Jevusejsku, u zemlju gdje teèe mlijeko i med."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I oni æe poslušati glas tvoj; pa æeš ti i starješine Izrailjske otiæi k caru Misirskom, i reæi æete mu: Gospod Bog Jevrejski srete nas, pa ti se molimo da izidemo tri dana hoda u pustinju da prinesemo žrtvu Gospodu Bogu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A ja znam da vam neæe dopustiti car Misirski da izidete bez ruke krjepke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ali æu pružiti ruku svoju, i udariæu Misir svijem èudesima svojim, koja æu uèiniti u njemu: i poslije æe vas pustiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I uèiniæu da narod naðe ljubav u Misiraca, pa kad poðete, neæete poæi prazni;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Nego æe svaka žena zaiskati u susjede svoje i u domaæice svoje nakita srebrnoga i nakita zlatnoga i haljina; i metnuæete na sinove svoje i na kæeri svoje, i oplijeniæete Misir."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

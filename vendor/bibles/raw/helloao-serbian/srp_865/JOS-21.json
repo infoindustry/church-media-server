@@ -1,0 +1,391 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOS",
+    "translationId": "srp_865",
+    "name": "Isus Navin",
+    "commonName": "Isus Navin",
+    "title": "Isus Navin",
+    "order": 6,
+    "numberOfChapters": 24,
+    "sha256": "ec9d0a794c17ba6296451b87fb16a4d34d8af2bfd446293b00f97a3bbb7257b2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOS/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/JOS/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 658
+  },
+  "chapter": {
+    "number": 21,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada doðoše glavari otaèkih porodica Levitskih k Eleazaru svešteniku i k Isusu sinu Navinu i glavarima porodica otaèkih i plemenima sinova Izrailjevijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I rekoše im u Silomu u zemlji Hananskoj govoreæi: Gospod je zapovjedio preko Mojsija da nam se dadu gradovi gdje æemo živjeti i podgraða njihova za stoku našu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I dadoše sinovi Izrailjevi Levitima od našljedstva svojega po zapovijesti Gospodnjoj ove gradove i podgraða njihova:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Izide ždrijeb za porodice Katove; i dopade sinovima Arona sveštenika izmeðu Levita ždrijebom trinaest gradova od plemena Judina i od plemena Simeunova i od plemena Venijaminova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A ostalijem sinovima Katovijem dopade ždrijebom deset gradova od porodica plemena Jefremova i od plemena Danova i od polovine plemena Manasijina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A sinovima Girsonovijem dopade ždrijebom od porodica plemena Isaharova i od plemena Asirova i od plemena Neftalimova i od polovine plemena Manasijina u Vasanu trinaest gradova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Sinovima Merarijevim po porodicama njihovijem od plemena Ruvimova i od plemena Gadova i od plemena Zavulonova dvanaest gradova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Dadoše dakle sinovi Izrailjevi Levitima te gradove i podgraða njihova ždrijebom, kao što bješe zapovjedio Gospod preko Mojsija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I dadoše od plemena sinova Judinijeh i od plemena sinova Simeunovijeh ove gradove koji se kazuju po imenima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I dopade sinovima Aronovijem od porodica Katovijeh izmeðu sinova Levijevih, za koje pade prvi ždrijeb,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Njima dopade: Kirijat-Arva, a Arva je otac Anakov, a taj je grad Hevron u gori Judinoj, s podgraðem svojim unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A polje oko toga grada i sela njegova dadoše Halevu sinu Jefonijinu u našljedstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Dadoše dakle sinovima Arona sveštenika grad za utoèište krvniku Hevron s podgraðem, i Livnu s podgraðem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I Jatir s podgraðem, i Estemoju s podgraðem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I Olon s podgraðem, i Davir s podgraðem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I Ajin s podgraðem, i Jutu s podgraðem, i Vet-Semes s podgraðem: devet gradova od ta dva plemena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A od plemena Venijaminova Gavaon s podgraðem, i Gavaju s podgraðem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Anatot s podgraðem, i Almon s podgraðem: èetiri grada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Svega gradova sinova Arona sveštenika trinaest gradova s podgraðima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A porodicama sinova Katovijeh, Levitima, što ih još bješe od sinova Katovijeh, dopadoše na njihov ždrijeb gradovi od plemena Jefremova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Dopade im grad za utoèište krvniku Sihem s podgraðem u gori Jefremovoj, i Gezer s podgraðem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I Kivsajim s podgraðem, i Vet-Oron s podgraðem: èetiri grada;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A od plemena Danova: Eltekon s podgraðem, Giveton s podgraðem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ajalon s podgraðem, Gat-Rimon s podgraðem: èetiri grada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A od polovine plemena Manasijina: Tanah s podgraðem i Gat-Rimon s podgraðem: dva grada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Svega deset gradova s podgraðima dadoše porodicama sinova Katovijeh ostalijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A sinovima Girsonovijem izmeðu porodica Levitskih dadoše od polovine plemena Manasijina grad za utoèište krvniku Golan u Vasanu s podgraðem, i Vesteru s podgraðem: dva grada;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A od plemena Isaharova: Kison s podgraðem, Davrot s podgraðem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Jarmut s podgraðem, En-Ganim s podgraðem: èetiri grada;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A od plemena Asirova: Misal s podgraðem, Avdon s podgraðem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Helkat s podgraðem, i Reov s podgraðem: èetiri grada;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A od plemena Neftalimova grad za utoèište krvniku Kedes u Galileji s podgraðem, i Amot-Dor s podgraðem, i Kartan s podgraðem: tri grada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Svega gradova sinova Girsonovijeh po porodicama njihovijem trinaest gradova s podgraðima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A porodicama sinova Merarijevih, ostalijem Levitima, dadoše od plemena Zavulonova Jokneam s podgraðem, Kartu s podgraðem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Dimnu s podgraðem, Nalol s podgraðem: èetiri grada;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A od plemena Ruvimova: Vosor s podgraðem, i Jazu s podgraðem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Kedimot s podgraðem, i Mifat s podgraðem: èetiri grada;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A od plemena Gadova: grad za utoèište krvniku Ramot u Galadu s podgraðem, i Mahanajim s podgraðem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Esevon s podgraðem, Jazir s podgraðem; svega èetiri grada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Sve ove gradove dadoše sinovima Merarijevim po porodicama njihovijem, što još bijahu izmeðu porodica Levitskih; i doðe na ždrijeb njihov dvanaest gradova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Svega gradova Levitskih u našljedstvu sinova Izrailjevijeh bješe èetrdeset i osam gradova s podgraðima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A svi gradovi imaju svoja podgraða unaokolo; tako je u svakoga grada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Tako dade Gospod Izrailju svu zemlju, za koju se zakle ocima njihovijem da æe im je dati, i naslijediše je i naseliše se u njoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "I umiri ih Gospod otsvuda unaokolo, kao što se zakleo ocima njihovijem; i niko se ne održa pred njima od svijeh neprijatelja njihovijeh; sve neprijatelje njihove predade im Gospod u ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Ništa ne izosta od svega dobra što bješe obrekao Gospod domu Izrailjevu; sve se zbi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOS/21.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 21
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOS/22.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 22
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOS/20.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 20
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 45
+}

@@ -1,0 +1,321 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 104,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Blagosiljaj, dušo moja, Gospoda! Gospode, Bože moj, velik si veoma, obukao si se u velièanstvo i krasotu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Obukao si svjetlost kao haljinu, razapeo nebo kao šator;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Vodom si pokrio dvorove svoje, oblake naèinio si da su ti kola, ideš na krilima vjetrnijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Èiniš vjetrove da su ti anðeli, plamen ognjeni da su ti sluge."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Utvrdio si zemlju na temeljima njezinim, da se ne pomjesti va vijek vijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Bezdanom kao haljinom odjenuo si je; na gorama stoje vode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Od prijetnje tvoje bježe, od gromovnoga glasa tvojega teku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Izlaze na gore i slaze u doline, na mjesto koje si im utvrdio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Postavio si meðu, preko koje ne prelaze, i ne vraæaju se da pokriju zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Izveo si izvore po dolinama, izmeðu gora teku vode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Napajaju sve zvijeri poljske; divlji magarci gase žeðu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Na njima ptice nebeske žive; kroz grane razliježe se glas njihov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Napajaš gore s visina svojih, plodima djela tvojih siti se zemlja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Daješ te raste trava stoci, i zelen na korist èovjeku, da bi izvodio hljeb iz zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I vino veseli srce èovjeku, i lice se svijetli od ulja, i hljeb srce èovjeku krijepi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Site se drveta Božija, kedri Livanski, koje si posadio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Na njima ptice viju gnijezda; stanak je rodin na jelama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Gore visoke divokozama, kamen je utoèište zeèevima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Stvorio si mjesec da pokazuje vremena, sunce poznaje zapad svoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Stereš tamu, i biva noæ, po kojoj izlazi sve zvijerje šumsko;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Lavovi rièu za plijenom, i traže od Boga hrane sebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Sunce grane, i oni se sakrivaju i liježu u lože svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Izlazi èovjek na posao svoj, i na rad svoj do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Kako je mnogo djela tvojih, Gospode! Sve si premudro stvorio; puna je zemlja blaga tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Gle, more veliko i široko, tu gmižu bez broja, životinja mala i velika;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Tu laðe plove, krokodil, kojega si stvorio da se igra po njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Sve tebe èeka, da im daješ piæu na vrijeme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Daješ im, primaju; otvoriš ruku svoju, site se dobra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Odvratiš lice svoje, žaloste se; uzmeš im duh, ginu, i u prah svoj povraæaju se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Pošlješ duh svoj, postaju, i ponavljaš lice zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Slava Gospodu uvijek; nek se veseli Gospod za djela svoja!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "On pogleda na zemlju, i ona se trese; dotakne se gora, i dime se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Pjevaæu Gospodu za života svojega; hvaliæu Boga svojega dok sam god."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Neka mu bude mila besjeda moja! veseliæu se o Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Neka nestane grješnika sa zemlje, i bezbožnika neka ne bude više! Blagosiljaj, dušo moja, Gospoda! Aliluja!"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/104.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 104
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/105.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 105
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/103.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 103
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

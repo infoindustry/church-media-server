@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ECC",
+    "translationId": "srp_865",
+    "name": "Propovednik",
+    "commonName": "Propovednik",
+    "title": "Propovednik",
+    "order": 21,
+    "numberOfChapters": 12,
+    "sha256": "fe2dc33485c617d1c3f800f25752794cc56e27b2cfb10665b2db83a839e4fb36",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ECC/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ECC",
+      "chapter": 1
+    },
+    "lastChapterNumber": 12,
+    "lastChapterApiLink": "/api/srp_865/ECC/12.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ECC",
+      "chapter": 12
+    },
+    "totalNumberOfVerses": 222
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ko je kao mudri? i ko zna šta znaèe stvari? Mudrost prosvjetljuje èovjeku lice, a tvrdoæa lica njegova mijenja se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ja ti kažem: izvršuj zapovijest carevu, i to zakletve Božije radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ne budi brz da otideš ispred njega; ne stoj u zloj stvari, jer æe uèiniti što god hoæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer gdje je god rijeè careva ondje je vlast, i ko æe mu reæi: šta radiš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ko izvršuje zapovijest, neæe znati za zlo, jer srce mudroga zna vrijeme i naèin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer svaèemu ima vrijeme i naèin; ali mnoga zla snalaze èovjeka,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Što ne zna šta æe biti; jer kad æe što biti, ko æe mu kazati?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Èovjek nije vlastan nad duhom da bi ustavio duh, niti ima vlasti nad danom smrtnijem, niti ima obrane u toj borbi; ni bezbožnost ne izbavlja onoga u koga je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Sve ovo vidjeh, i upravih srce svoje na sve što se radi pod suncem. Katkad vlada èovjek nad èovjekom na zlo njegovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I tada vidjeh bezbožnike pogrebene, gdje se vratiše; a koji dobro èinjahu otidoše sa svetoga mjesta i biše zaboravljeni u gradu. I to je taština."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Što nema odmah osude za zlo djelo, zato srce sinova ljudskih kipi u njima da èine zlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Neka grješnik sto puta èini zlo i odgaða mu se, ja ipak znam da æe biti dobro onima koji se boje Boga, koji se boje lica njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A bezbožniku neæe biti dobro, niti æe mu se produljiti dani, nego æe biti kao sjen onome koji se ne boji lica Božijega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Taština je koja biva na zemlji što ima pravednika kojima biva po djelima bezbožnièkim, a ima bezbožnika kojima biva po djelima pravednièkim. Rekoh: i to je taština."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zato ja hvalih veselje, jer nema ništa bolje èovjeku pod suncem nego da jede i pije i da se veseli; i to mu je od truda njegova za života njegova, koji mu Bog da pod suncem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Kad upravih srce svoje da poznam mudrost i vidim šta se radi na zemlji, te ni danju ni noæu ne dolazi èovjeku san na oèi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Vidjeh na svijem djelima Božijim da èovjek ne može dokuèiti ono što se radi pod suncem, oko èega se trudi èovjek tražeæi, ali ne nalazi, i ako i mudarac reèe da zna, ipak ne može dokuèiti."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ECC/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ECC/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ECC/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

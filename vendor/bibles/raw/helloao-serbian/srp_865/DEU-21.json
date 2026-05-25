@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "srp_865",
+    "name": "Ponovljeni Zakon",
+    "commonName": "Ponovljeni Zakon",
+    "title": "Ponovljeni Zakon",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "b000b6651908c9448c65c662cec1fa45977205b236e0922d505241ab679311df",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DEU/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 1
+    },
+    "lastChapterNumber": 34,
+    "lastChapterApiLink": "/api/srp_865/DEU/34.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 34
+    },
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 21,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Kad se naðe ubijen èovjek u zemlji koju ti daje Gospod Bog tvoj da je naslijediš, gdje leži u polju, a ne zna se ko ga je ubio,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Tada neka izidu starješine tvoje i sudije tvoje, i neka izmjere od ubijenoga do gradova koji su oko njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Pa koji grad bude najbliže ubijenoga, starješine onoga grada neka uzmu junicu iz goveda, na kojoj se još nije radilo, koja nije vukla u jarmu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I neka odvedu starješine onoga grada tu junicu u pustu dolinu gdje se ne kopa ni sije, i neka zakolju junicu ondje u dolini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Potom neka pristupe sveštenici, sinovi Levijevi; jer njih izabra Gospod Bog tvoj da mu služe i da blagosiljaju u ime Gospodnje, i na njihovijem rijeèima da ostaje svaka raspra i svaka šteta;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I sve starješine onoga grada koji budu najbliže ubijenoga neka operu ruke svoje nad zaklanom junicom u onoj dolini,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I tvrdeæi neka reku: ruke naše nijesu prolile ove krvi niti su oèi naše vidjele;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Milostiv budi narodu svojemu Izrailju, koji si iskupio, Gospode, i ne meæi prave krvi na narod svoj Izrailja. Tako æe se oèistiti od one krvi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I ti æeš skinuti pravu krv sa sebe kad uèiniš što je pravo pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Kad otideš na vojsku na neprijatelje svoje, i preda ih Gospod Bog tvoj u ruke tvoje i zarobiš ih mnogo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I ugledaš u roblju lijepu ženu, i omili ti da bi je htio uzeti za ženu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Odvedi je kuæi svojoj; i neka obrije glavu svoju i sreže nokte svoje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I neka skine sa sebe haljine svoje u kojima je zarobljena, i neka sjedi u kuæi tvojoj, i žali za ocem svojim i za materom svojom cio mjesec dana; potom lezi s njom, i budi joj muž i ona nek ti bude žena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ako ti poslije ne bi bila po volji, pusti je neka ide kuda joj drago, ali nikako da je ne prodaš za novce ni da njom trguješ, jer si je osramotio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ko bi imao dvije žene, jednu milu a drugu nemilu, pa bi rodile sinove, i mila i nemila, i prvenac bi bio od nemile,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Onda kad doðe vrijeme da podijeli sinovima svojim što ima, ne može prvencem uèiniti sina od mile preko sina od nemile koji je prvenac;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Nego za prvenca neka prizna sina od nemile i dade mu dva dijela od svega što ima, jer je on poèetak sile njegove, njegovo je pravo prvenaèko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ko bi imao sina samovoljna i nepokorna, koji ne sluša oca svojega ni matere svoje, i kojega oni i karaše pa opet ne sluša,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Neka ga uzmu otac i mati, i neka ga dovedu k starješinama grada svojega na vrata mjesta svojega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I neka kažu starješinama grada svojega: ovaj sin naš samovoljan je i nepokoran, ne sluša nas, izjelica je i pijanica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tada svi ljudi onoga mjesta neka ga zaspu kamenjem da pogine; i tako izvadi zlo iz sebe, da sav Izrailj èuje i boji se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ko zgriješi tako da zasluži smrt, te bude osuðen na smrt i objesiš ga na drvo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Neka ne prenoæi tijelo njegovo na drvetu, nego ga isti dan pogrebi, jer je proklet pred Bogom ko je obješen; zato ne skvrni zemlje koju ti Gospod Bog tvoj daje u našljedstvo."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DEU/21.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 21
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DEU/22.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 22
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DEU/20.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 20
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

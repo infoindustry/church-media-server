@@ -1,0 +1,321 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kaži sinovima Izrailjevim, i reci: ako ko zgriješi nehotice i uèini štogod što je Gospod zabranio da se ne èini,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ako sveštenik pomazani zgriješi, te bude na grijeh narodu, neka za grijeh svoj koji je uèinio prinese tele zdravo Gospodu na žrtvu za grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I dovedavši tele na vrata šatoru od svjedoèanstva pred Gospoda, neka metne ruku svoju teletu na glavu, i zakolje tele pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I neka uzme sveštenik pomazani krvi od teleta, i unese je u šator od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I neka zamoèi sveštenik prst svoj u krv, i krvlju sedam puta pokropi pred Gospodom pred zavjesom od svetinje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I neka pomaže sveštenik tom krvlju rogove oltaru, na kom se kadi mirisima pred Gospodom u šatoru od sastanka, a ostalu krv od teleta svu neka izlije na podnožje oltaru, na kom se pale žrtve na vratima šatora od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I neka izvadi sve salo iz teleta za grijeh, salo što pokriva crijeva i sve salo što je na crijevima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I oba bubrega, i salo što je na njima i na slabinama, i mrežicu na jetri s bubrezima neka izvadi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Onako kako se vadi iz goveèeta za žrtvu zahvalnu; i neka zapali sveštenik na oltaru, na kom se žrtva pali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A kožu od teleta i sve meso s glavom i s nogama i crijeva i balegu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I cijelo tele neka iznese napolje iz okola na èisto mjesto, gdje se prosipa pepeo, i neka ga spali ognjem na drvima; na mjestu gdje se prosipa pepeo neka se spali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ako li bi sav zbor sinova Izrailjevih zgriješio nehotice i ne bi zbor znao za to, i uèinili bi štogod što je Gospod zabranio da se ne èini, te bi skrivili,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Kad se dozna za grijeh koji su uèinili, onda neka zbor prinese tele na žrtvu za grijeh, i neka ga dovedu pred šator od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I starješine od zbora neka metnu teletu na glavu ruke svoje pred Gospodom, i sveštenik neka zakolje tele pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I sveštenik pomazani neka unese krvi od teleta u šator od sastanka,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I neka sveštenik zamoèi prst svoj u krv, i sedam puta pokropi pred Gospodom pred zavjesom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I tom krvlju neka pomaže rogove oltaru koji je pred Gospodom u šatoru od sastanka, a ostalu krv svu neka izlije na podnožje oltaru na kom se pali žrtva, na vratima šatora od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A sve salo izvadivši iz njega neka zapali na oltaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I s tijem teletom neka èini onako kako èini s teletom za svoj grijeh, tako neka uèini s njim; tako æe ih sveštenik oèistiti od grijeha, i oprostiæe im se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A tele neka iznese napolje iz okola, i spali ga kao i prvo tele; to je žrtva za grijeh svega zbora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ako li poglavar zgriješi, i uèini nehotice štogod što je Gospod Bog njegov zabranio da se ne èini, te skrivi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Kad dozna za grijeh svoj, koji je uèinio, tada neka dovede na žrtvu jare muško, zdravo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I neka metne ruku svoju jaretu na glavu, i sveštenik neka ga zakolje gdje se kolje žrtva paljenica pred Gospodom; to je žrtva za grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I neka uzme sveštenik krvi od žrtve za grijeh na prst svoj, i pomaže rogove oltaru na kom se žrtva pali; a ostalu krv neka izlije na podnožje oltaru na kom se žrtva pali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A sve salo neka zapali na oltaru kao salo od žrtve zahvalne; i tako æe ga oèistiti sveštenik od grijeha njegova, i oprostiæe mu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ako li ko iz prostoga naroda zgriješi nehotice, i uèini štogod što je Gospod zabranio da se ne èini, te skrivi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Kad dozna za grijeh svoj, koji je uèinio, tada neka dovede na žrtvu jare žensko zdravo za grijeh, koji je uèinio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I neka metne ruku svoju na glavu žrtvi za grijeh, i neka je sveštenik zakolje na mjestu gdje se kolje žrtva paljenica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I neka uzme sveštenik krvi od nje na prst svoj, i pomaže rogove oltaru na kom se pali žrtva; a ostalu krv svu neka izlije na podnožje oltaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I sve salo iz nje neka izvadi kao što se vadi salo iz žrtve zahvalne, i neka ga zapali sveštenik na oltaru za ugodni miris Gospodu; a tako æe ga oèistiti od grijeha sveštenik, i oprostiæe mu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ako li bi doveo izmeðu ovaca na žrtvu za grijeh, neka dovede žensko zdravo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I neka metne ruku svoju na glavu žrtvi za grijeh, i neka je sveštenik zakolje na mjestu gdje se kolje žrtva paljenica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I neka uzme sveštenik krvi od žrtve za grijeh na prst svoj, i neka pomaže rogove oltaru na kom se pali žrtva; a ostalu krv svu neka izlije na podnožje oltaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I sve salo neka izvadi kao što se vadi salo iz jagnjeta za žrtvu zahvalnu; i neka ga sveštenik zapali na oltaru za žrtvu ognjenu Gospodu; i tako æe ga oèistiti sveštenik od grijeha njegova, koji je uèinio, i oprostiæe mu se."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

@@ -1,0 +1,482 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CO",
+    "translationId": "srp_865",
+    "name": "1 Korinæanima",
+    "commonName": "1 Korinæanima",
+    "title": "1. Korinæanima Poslanica",
+    "order": 46,
+    "numberOfChapters": 16,
+    "sha256": "114ef2323a27d8e2c5bd8d2269293cc5ec228241cba7d2999cf2908b344e5d17",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/1CO/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CO",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 437
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ali vam napominjem, braæo, jevanðelje, koje vam objavih, koje i primiste, u kome i stojite,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kojijem se i spasavate, ako držite kako vam objavih; veæ ako da uzalud vjerovaste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer vam najprije predadoh što i primih da Hristos umrije za grijehe naše, po pismu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I da bi ukopan, i da usta treæi dan, po pismu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I da se javi Kifi, potom jedanaestorici apostola;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A potom ga vidješe jednom više od pet stotina braæe, od kojijeh mnogi žive i sad, a neki i pomriješe;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A potom se javi Jakovu, pa onda svima apostolima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A poslije sviju javi se i meni, kao kakvom nedonošèetu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer sam ja najmlaði meðu apostolima, koji nijesam dostojan nazvati se apostol, jer gonih crkvu Božiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ali po blagodati Božijoj jesam što jesam, i blagodat njegova što je u meni ne osta prazna, nego se potrudih više od sviju njih, ali ne ja nego blagodat Božija koja je sa mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Bio dakle ja ili oni, tako propovijedamo, i tako vjerovaste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A ako se Hristos propovijeda da ustade iz mrtvijeh, kako govore neki meðu vama da nema vaskrsenija mrtvijeh?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I ako nema vaskrsenija mrtvijeh, to ni Hristos ne usta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A ako Hristos ne usta, uzalud dakle propovijedanje naše, a uzalud i vjera vaša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A nalazimo se i lažni svjedoci Božiji što svjedoèimo na Boga da vaskrse Hrista, kojega ne vaskrse kad mrtvi ne ustaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer ako mrtvi ne ustaju, ni Hristos ne usta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A ako Hristos ne usta, uzalud vjera vaša: još ste u grijesima svojijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Dakle i oni koji pomriješe u Hristu, izgiboše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I ako se samo u ovom životu uzdamo u Hrista, najnesreæniji smo od sviju ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ali Hristos usta iz mrtvijeh, i bi novina onima koji umriješe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer buduæi da kroz èovjeka bi smrt, kroz èovjeka i vaskrsenije mrtvijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer kako po Adamu svi umiru, tako æe i po Hristu svi oživljeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ali svaki u svom redu: novina Hristos; a potom oni koji vjerovaše Hristu o njegovu dolasku;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Onda kraj, kad preda carstvo Bogu i ocu, i kad ukine svako poglavarstvo i svaku vlast i silu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Jer njemu valja carovati dokle ne položi sve neprijatelje svoje pod noge svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A pošljednji æe se neprijatelj ukinuti smrt."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jer sve pokori pod noge njegove. Ali kad veli da je sve njemu pokoreno, pokazuje se da je osim onoga koji mu pokori sve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A kad mu sve pokori, onda æe se i sam sin pokoriti onome koji mu sve pokori, da bude Bog sve u svemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Šta dakle èine oni koji se krste mrtvijeh radi? Kad mrtvi jamaèno ne ustaju, što se i kršæavaju mrtvijeh radi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I mi zašto podnosimo muke i nevolje svaki èas?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Svaki dan umirem, tako mi, braæo, vaše slave, koju imam u Hristu Isusu Gospodu našemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Jer ako sam se po èovjeku borio sa zvjerovima u Efesu, kaka mi je korist ako mrtvi ne ustaju? Da jedemo i pijemo, jer æemo sutra umrijeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ne varajte se: zli razgovori kvare dobre obièaje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Otrijeznite se jedanput kao što treba, i ne griješite; jer neki ne znadu za Boga, na sramotu vama kažem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ali æe reæi ko: kako æe ustati mrtvi? i u kakom æe tijelu doæi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Bezumnièe! ti što siješ neæe oživljeti ako ne umre."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I što siješ ne siješ tijelo koje æe biti, nego golo zrno, bilo pšenièno ili drugo kako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A Bog mu daje tijelo kako hoæe, i svakom sjemenu svoje tijelo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Nije svako tijelo jedno tijelo, nego je drugo tijelo èovjeèije, a drugo skotsko, a drugo riblje, a drugo ptièije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I imaju tjelesa nebeska i tjelesa zemaljska: ali je druga slava nebeskima, a druga zemaljskima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Druga je slava suncu, a druga slava mjesecu, i druga slava zvijezdama; jer se zvijezda od zvijezde razlikuje u slavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Tako i vaskrsenije mrtvijeh: sije se za raspadljivost, a ustaje za neraspadljivost;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Sije se u sramoti, a ustaje u slavi; sije se u slabosti, a ustaje u sili;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Sije se tijelo tjelesno, a ustaje tijelo duhovno. Ima tijelo tjelesno, i ima tijelo duhovno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Tako je i pisano: prvi èovjek Adam postade u tjelesnom životu, a pošljednji Adam u duhu koji oživljuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Ali duhovno tijelo nije prvo, nego tjelesno, pa onda duhovno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Prvi je èovjek od zemlje, zemljan; drugi je èovjek Gospod s neba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Kakav je zemljani taki su i zemljani; i kakav je nebeski taki su i nebeski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "I kako nosimo oblièje zemljanoga tako æemo nositi i oblièje nebeskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "A ovo govorim, braæo, da tijelo i krv ne mogu naslijediti carstva Božijega, niti raspadljivost neraspadljivosti našljeðuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Evo vam kazujem tajnu: jer svi neæemo pomrijeti, a svi æemo se pretvoriti,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Ujedanput, u trenuæu oka u pošljednjoj trubi; jer æe zatrubiti i mrtvi æe ustati neraspadljivi, i mi æemo se pretvoriti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Jer ovo raspadljivo treba da se obuèe u neraspadljivost, i ovo smrtno da se obuèe u besmrtnost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "A kad se ovo raspadljivo obuèe u neraspadljivost i ovo se smrtno obuèe u besmrtnost, onda æe se zbiti ona rijeè što je napisana: pobjeda proždrije smrt."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "Gdje ti je, smrti, žalac? Gdje ti je, pakle, pobjeda?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "A žalac je smrti grijeh, a sila je grijeha zakon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "A Bogu hvala koji nam dade pobjedu kroz Gospoda našega Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "Zato, braæo moja ljubazna, budite tvrdi, ne dajte se pomaknuti, i napredujte jednako u djelu Gospodnjemu znajuæi da trud vaš nije uzalud pred Gospodom."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CO/15.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 15
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CO/16.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 16
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CO/14.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 14
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 58
+}

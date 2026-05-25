@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 24,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A poslije pet dana siðe poglavar sveštenièki Ananija sa starješinama i s ritorom nekijem Tertulom, koji iziðoše pred sudiju protiv Pavla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A kad njega dozvaše, poèe Tertul tužiti ga govoreæi: što živimo pod tobom u velikom miru, i pravice koje se ovome narodu èine tvojijem promišljanjem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "U svakom dogaðaju i svuda, èestiti Filikse! primamo sa svakom zahvalnošæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ali da ti mnogo ne dosaðujem, molim te da nas ukratko poslušaš sa svojom krotošæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer naðosmo ovoga èovjeka da je kuga, i podiže bunu protiv sviju Jevreja po vasionom svijetu, i da je kolovoða jeresi Nazaretskoj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Koji se usudi i crkvu poganiti; koga mi i uhvatismo, i šæasmo da mu sudimo po zakonu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ali doðe Lisija vojvoda, i ote ga iz našijeh ruku na veliku silu, i posla k tebi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Zapovjedivši i nama, koji ga tužimo, da idemo k tebi; a od njega možeš sam ispitavši doznati za sve ovo za što ga mi tužimo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A i Jevreji se složiše govoreæi da je ovo tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Pavle odgovori kad mu namaže sudija da govori: znajuæi od mnogo godina da si ti pravedni sudija ovome narodu, slobodno odgovaram za sebe:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ti možeš doznati da nema više od dvanaest dana kako ja iziðoh u Jerusalim da se pomolim Bogu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I niti me u crkvi naðoše da kome govorim, ili bunu da èinim u narodu, ni po zbornicama, ni u gradu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Niti oni mogu posvjedoèiti šta tebi sad na mene govore."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ovo ti pak priznajem da u putu, koji ovi nazivaju jeres, tako služim Bogu otaèkome, vjerujuæi sve što je napisano u zakonu i u prorocima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I imajuæi nadanje na Boga da æe biti vaskrsenije mrtvima, i pravednicima i grješnicima, koje i sami ovi èekaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A za ovo se i ja trudim da imam èistu savjest svagda i pred Bogom i pred ljudima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I poslije mnogo godina doðoh i donesoh milostinju narodu svome i prinose."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "U tome me naðoše oèišæena u crkvi, ni s narodom, ni s vikom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A imaju i Jevreji neki iz Azije kojima je trebalo da doðu preda te, i da se tuže ako imaju što na me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ili ovi sami neka kažu, ako su našli na meni kakvu krivicu, kad sam stajao na skupštini,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Osim jednoga ovoga glasa kojijem povikah stojeæi meðu njima: za vaskrsenije mrtvijeh dovedoste me danas na sud."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A kad Filiks èu ovo, odgodi im znajuæi vrlo dobro za ovaj put i reèe: kad doðe Lisija vojvoda, izvidjeæu vašu stvar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A kapetanu zapovjedi da se èuva Pavle, i da mu se oblakša, i nijednome od njegovijeh da se ne zabranjuje posluživati ga ili dolaziti k njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A poslije nekoliko dana doðe Filiks sa Drusilom ženom svojom, koja bješe Jevrejka, i dozva Pavla da èuje od njega vjeru u Hrista Isusa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A kad Pavle govoraše o pravdi i o èistoti i o sudu koji æe biti, uplaši se Filiks i odgovori: idi zasad; a kad uzimam kad, dozvaæu te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A uz to se i nadaše da æe mu Pavle dati novaca da bi ga pustio; zato ga i èesto dozivaše i razgovaraše se s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A kad se navršiše dvije godine, izmijeni Filiksa Porkije Fist. A Filiks, hoteæi Jevrejima uèiniti na volju, ostavi Pavla u sužanjstvu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/24.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 24
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/25.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 25
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/23.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 23
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

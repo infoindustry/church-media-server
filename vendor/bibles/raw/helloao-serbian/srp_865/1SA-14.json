@@ -1,0 +1,440 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 14,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Jedan dan reèe Jonatan sin Saulov momku svojemu koji mu nošaše oružje: hajde da idemo k straži Filistejskoj koja je na onoj strani. A ocu svojemu ne kaza ništa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A Saul stajaše kraj brda pod šipkom, koji bijaše u Migronu; i naroda bješe s njim oko šest stotina ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I Ahija sin Ahitova brata Ihavoda sina Finesa sina Ilija sveštenika Gospodnjega u Silomu nošaše opleæak. I narod ne znadijaše da je otišao Jonatan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A u klancu kojim šæaše Jonatan otiæi k straži Filistejskoj, bijahu dvije strmene stijene, jedna s jedne strane a druga s druge, i jedna se zvaše Voses a druga Sene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I jedna od njih stajaše sa sjevera prema Mihmasu, a druga s juga prema Gavaji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I Jonatan reèe momku koji mu nošaše oružje: hajde da otidemo k straži tijeh neobrezanijeh; može biti da æe nam uèiniti što Gospod, jer Gospodu ne smeta izbaviti s množinom ili s malinom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A onaj što mu nošaše oružje odgovori mu: èini što ti je god u srcu, idi, evo ja æu iæi s tobom kuda god hoæeš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A Jonatan mu reèe: evo, otiæi æemo k tijem ljudima, i pokazaæemo im se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ako nam reku: èekajte dokle doðemo k vama, tada æemo se ustaviti na svom mjestu, i neæemo iæi k njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ako li reku: hodite k nama, tada æemo otiæi; jer nam ih Gospod predade u ruke. To æe nam biti znak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I pokazaše se obojica straži Filistejskoj; a Filisteji rekoše: gle, izlaze Jevreji iz rupa u koje su se sakrili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I stražari rekoše Jonatanu i momku koji mu nošaše oružje: hodite k nama da vam kažemo nešto. I Jonatan reèe onomu što mu nošaše oružje: hajde za mnom, jer ih predade Gospod u ruke Izrailju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tako puzaše Jonatan rukama i nogama, a za njim momak što mu nošaše oružje; i padahu pred Jonatanom, i ubijaše ih za njim onaj što mu nošaše oružje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I to bi prvi boj, u kom pobi Jonatan i momak što mu nošaše oružje oko dvadeset ljudi, otprilike na po rala zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I uðe strah u oko u polju i u sav narod; i straža i oni koji bjehu izašli da plijene prepadoše se, i zemlja se uskoleba, jer bješe strah od Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A straža Saulova u Gavaji Venijaminovoj opazi gdje se mnoštvo uzbunilo i uspropadalo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tada reèe Saul narodu koji bijaše s njim: pregledajte i vidite ko je otišao od nas. I kad pregledaše, gle, ne bješe Jonatana i momka njegova koji mu nošaše oružje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I reèe Saul Ahiji: donesi kovèeg Božji; jer kovèeg Božji bijaše tada kod sinova Izrailjevijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A dok govoraše Saul svešteniku, zabuna u okolu Filistejskom bivaše sve veæa, i Saul reèe svešteniku: ostavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I Saul i sav narod što bješe s njim skupiše se i doðoše do boja, i gle, povadili bjehu maèeve jedan na drugoga, i zabuna bješe vrlo velika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A bijaše s Filistejima Jevreja kao prije, koji iðahu s njima na vojsku svuda; pa i oni pristaše uz Izrailjce, koji bijahu sa Saulom i Jonatanom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I svi Izrailjci koji se bijahu sakrili u gori Jefremovoj kad èuše da bježe Filisteji, naklopiše se i oni za njima bijuæi ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I izbavi Gospod Izrailja u onaj dan; i boj otide dori do Vet-Avena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I Izrailjci se vrlo umoriše onaj dan; a Saul zakle narod govoreæi: da je proklet koji jede što do veèera, da se osvetim neprijateljima svojim. I ne okusi narod ništa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I sav narod one zemlje doðe u šumu, gdje bješe mnogo meda po zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I kad doðe narod u šumu, vidje med gdje teèe; ali niko ne prinese ruke k ustima svojim: jer se narod bojaše zakletve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ali Jonatan ne èu kad otac njegov zakle narod, te pruži štap koji mu bješe u ruci, i zamoèi kraj u sat, i primaèe ruku svoju k ustima svojim, i zasvijetliše mu se oèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A jedan iz naroda progovori i reèe: otac je tvoj zakleo narod rekavši: da je proklet ko bi jeo što danas; stoga susta narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Tada reèe Jonatan: smeo je zemlju otac moj; vidite kako mi se zasvijetliše oèi, èim okusih malo meda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A da je još narod slobodno jeo danas od plijena neprijatelja svojih, koji naðe! ne bi li polom Filistejski bio još veæi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I tako pobiše onaj dan Filisteje od Mihmasa do Ajalona, i narod se vrlo umori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I naklopi se narod na plijen, i nahvataše ovaca i volova i telaca, i poklaše ih na zemlji, i stade narod jesti s krvlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I javiše Saulu govoreæi: evo narod griješi Gospodu jeduæi s krvlju. A on reèe: nevjeru uèiniste; dovaljajte sada k meni velik kamen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Zatijem reèe Saul: razidite se meðu narod i recite: dovedite svaki k meni vola svojega i ovcu svoju; i ovdje zakoljite i jedite, i neæete griješiti Gospodu jeduæi s krvlju. I donese sav narod, svaki svoga vola svojom rukom one noæi, i ondje klaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I naèini Saul oltar Gospodu; to bi prvi oltar koji naèini Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Potom reèe Saul: hajdemo za Filistejima noæas, da ih plijenimo do jutra, i da ih ne ostavimo nijednoga. A oni rekoše: èini što ti je god volja. Ali sveštenik reèe: da pristupimo ovdje k Bogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I upita Saul Boga: hoæu li iæi za Filistejima? hoæeš li ih dati u ruke Izrailju? Ali ne odgovori mu onaj dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Zato reèe Saul: pristupite ovamo svi glavari narodni, i tražite i vidite na kom je grijeh danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Jer kako je živ Gospod koji izbavlja Izrailja, ako bude i na Jonatanu sinu mojem, poginuæe zaista. I ne odgovori mu niko iz svega naroda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Potom reèe svemu Izrailju: vi budite s jedne strane, a ja i Jonatan sin moj biæemo s druge strane. A narod reèe Saulu: èini što ti je drago."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Tada reèe Saul Gospodu Bogu Izrailjevu: pokaži pravoga. I oblièi se Jonatan i Saul, a narod izide prav."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I reèe Saul: bacite ždrijeb za me i za Jonatana sina mojega. I oblièi se Jonatan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Tada reèe Saul Jonatanu: kaži mi šta si uèinio? I kaza mu Jonatan i reèe: samo sam okusio malo meda nakraj štapa koji mi bješe u ruci; evo me; hoæu li poginuti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "A Saul reèe: to neka mi uèini Bog i to neka doda, poginuæeš, Jonatane!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Ali narod reèe Saulu: zar da pogine Jonatan, koji je uèinio ovo spasenje veliko u Izrailju? Bože saèuvaj! Tako živ bio Gospod, neæe pasti na zemlju nijedna dlaka s glave njegove. Jer je s pomoæu Božjom uèinio to danas. I tako izbavi narod Jonatana, te ne pogibe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Tada se vrati Saul od Filisteja, a Filisteji otidoše u svoje mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "I Saul carujuæi nad Izrailjem ratovaše na sve neprijatelje svoje, na Moavce i na sinove Amonove i na Edomce i na careve Sovske i na Filisteje, i kuda se god obraæaše, nadvlaðivaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Skupi takoðer vojsku i pobi Amalika; i izbavi Izrailja iz ruku onijeh koji ga plijenjahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "A Saul imaše sinove: Jonatana i Isuja i Melhisuja; a dvjema kæerima njegovijem bjehu imena prvenici Merava a mlaðoj Mihala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "A ženi Saulovoj bješe ime Ahinoama kæi Ahimasova; a vojvodi njegovu bješe ime Avenir sin Nira strica Saulova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Jer Kis otac Saulov i Nir otac Avenirov bijahu sinovi Avilovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "I bijaše velik rat s Filistejima svega vijeka Saulova; i koga god viðaše Saul hrabra i junaka, uzimaše ga k sebi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/14.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 14
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/15.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 15
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/13.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 13
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 52
+}

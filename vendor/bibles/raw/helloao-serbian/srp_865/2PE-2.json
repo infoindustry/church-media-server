@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2PE",
+    "translationId": "srp_865",
+    "name": "2 Petrova",
+    "commonName": "2 Petrova",
+    "title": "2. Petrova Poslanica",
+    "order": 61,
+    "numberOfChapters": 3,
+    "sha256": "c02a62a3bcbcb7a520d571107e8e827b2b536f51d9f668391fb381c729b39f87",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2PE/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2PE",
+      "chapter": 1
+    },
+    "lastChapterNumber": 3,
+    "lastChapterApiLink": "/api/srp_865/2PE/3.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2PE",
+      "chapter": 3
+    },
+    "totalNumberOfVerses": 61
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A bijaše i lažnijeh proroka u narodu, kao što æe i meðu vama biti lažnijeh uèitelja, koji æe unijeti jeresi pogibli, i odricaæe se gospodara koji ih iskupi i dovodiæe sebi naglu pogibao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I mnogi æe poæi za njihovijem neèistotama kojima æe se huliti na put istine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I u lakomstvu loviæe vas izmišljenijem rijeèima. Njihov sud odavno ne docni, i pogibao njihova ne drijema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer kad Bog ne poštedje anðela koji sagriješiše, nego ih metnu u okove mraka paklenoga, i predade da se èuvaju za sud;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I prvoga svijeta ne poštedje, nego saèuvavši samosmoga Noja, propovjednika pravde, navede potop na svijet bezbožnièki;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I gradove Sodom i Gomor sažeže i razvali i osudi, i postavi ugled bezbožnicima koji bi postali;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I izbavi pravednoga Lota, koga osramotiše bezakonici neèistotom življenja;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer kad življaše pravednik meðu njima, gledajuæi i slušajuæi bezakona djela, muèaše od dana do dana pravednu dušu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Zna Gospod pobožne izbavljati od napasti, a nepravednike muèeæi èuvati za dan sudni;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A osobito one koji idu za tjelesnijem željama neèistote, i ne mare za poglavarstvo, i koji su bezobrazni i samovoljni, i ne drkæu huleæi na slavu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Kad anðeli, koji veæu snagu i silu imaju, ne izgovaraju na njih pred Gospodom hulnoga suda;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A oni, kao nerazumna životinja, koja je od prirode na to stvorena da se hvata i kolje, hule na ono što ne razumiju, i u pogibli svojoj propašæe"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Primajuæi platu nepravde. Oni misle da je slast èastiti se svaki dan; oni su sramota i grijeh, koji se hrane svojijem prijevarama, jeduæi s vama;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Imaju oèi pune preljuboèinstva i neprestanoga grijeha; prelašæuju neutvrðene duše; imaju srce nauèeno lakomstvu, djeca kletve;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ostavivši pravi put, zaðoše, i idu putem Valaama Vosorova, kome omilje plata nepravedna;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ali bi pokaran za svoje bezakonje: skot nijemi progovorivši glasom èovjeèijim zabrani bezumlje prorokovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ovo su bezvodni izvori, i oblaci i magle koje progone vjetrovi, za koje se èuva mrak tamni vavijek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer govoreæi ponosite i lažljive rijeèi prelašæuju na neèistote tjelesnijeh želja one koji otskora bježe od onijeh što žive u prijevari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I obeæavaju im slobodu a sami su robovi pogibli; jer koga ko nadvlada onaj mu i robuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer ako odbjegnu od neèistote svijeta poznanjem Gospoda i spasa našega Isusa Hrista, pa se opet zapletu u njih i budu nadvladani, bude im pošljednje gore od prvoga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer im bješe bolje da ne poznaše puta pravde, negoli kad poznaše da se vrate natrag od svete zapovijesti koja im je predana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer im se dogodi istinita pripovijest: pas se povraæa na svoju bljuvotinu, i: svinja okupavši se, u kaljužu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2PE/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2PE",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2PE/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2PE",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2PE/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2PE",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

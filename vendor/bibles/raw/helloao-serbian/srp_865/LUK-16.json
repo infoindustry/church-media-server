@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "srp_865",
+    "name": "Luki",
+    "commonName": "Luki",
+    "title": "Jevanðelje po Luki",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "71d24bae001865beafd9dc8b76f8e93d8f927bd8e33391ea4aebbf53673c6a27",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LUK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/LUK/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 16,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A uèenicima svojijem govoraše: bijaše jedan èovjek bogat koji imaše pristava, i toga oblagaše kod njega da mu prosipa imanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I dozvavši ga reèe mu: šta ovo ja èujem za tebe? Daj raèun kako si kuæio kuæu: jer više ne možeš kuæom upravljati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A pristav od kuæe reèe u sebi: šta æu èiniti? gospodar moj uzima od mene upravljanje kuæe: kopati ne mogu, prositi stidim se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Znam šta æu èiniti da bi me primili u kuæe svoje kad mi se oduzme upravljanje kuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I dozvavši redom dužnike gospodara svojega reèe prvome: koliko si dužan gospodaru mojemu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A on reèe: sto oka ulja. I reèe mu: uzmi pismo svoje i sjedi brzo te napiši pedeset."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A potom reèe drugome: a ti koliko si dužan? A on reèe: sto oka pšenice. I reèe mu: uzmi pismo svoje i napiši osamdeset."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I pohvali gospodar nevjernoga pristava što mudro uèini; jer su sinovi ovoga vijeka mudriji od sinova vidjela u svojemu naraštaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I ja vama kažem: naèinite sebi prijatelje nepravednijem bogatstvom, da bi vas kad osiromašite primili u vjeène kuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Koji je vjeran u malom i u mnogom je vjeran; a ko je nevjeran u malom i u mnogom je nevjeran."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ako dakle u nepravednom bogatstvu vjerni ne biste, ko æe vam u istinom vjerovati?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I ako u tuðem ne biste vjerni, ko æe vam dati vaše?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nikakav pak sluga ne može dva gospodara služiti; jer ili æe na jednoga mrziti a drugoga ljubiti, ili æe jednome voljeti a za drugoga ne mariti. Ne možete služiti Bogu i bogatstvu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A ovo sve slušahu i fariseji, koji bijahu srebroljupci, i rugahu mu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I reèe im: vi ste oni koji se gradite pravedni pred ljudima; ali Bog zna srca vaša; jer što je u ljudi visoko ono je mrzost pred Bogom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Zakon i proroci su do Jovana; otsele se carstvo Božije propovijeda jevanðeljem, i svaki navaljuje da uðe u njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Lašnje je pak nebu i zemlji proæi negoli jednoj titli iz zakona propasti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Svaki koji pušta ženu svoju i uzima drugu, preljubu èini; i koji se ženi puštenicom, preljubu èini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Èovjek neki pak bješe bogat, koji se oblaèaše u skerlet i u svilu, i življaše svaki dan gospodski i veseljaše se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A bijaše jedan siromah, po imenu Lazar, koji ležaše pred njegovijem vratima gnojav,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I željaše da se nasiti mrvama koje padahu s trpeze bogatoga; još i psi dolažahu i lizahu gnoj njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A kad umrije siromah, odnesoše ga anðeli u naruèje Avraamovo; a umrije i bogati, i zakopaše ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I u paklu kad bješe u mukama podiže oèi svoje i ugleda izdaleka Avraama i Lazara u naruèju njegovu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I povikavši reèe: oèe Avraame! smiluj se na me i pošlji mi Lazara neka umoèi u vodu vrh od prsta svojega, i da mi rashladi jezik; jer se muèim u ovome plamenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A Avraam reèe: sinko! opomeni se da si ti primio dobra svoja u životu svome, i Lazar opet zla; a sad se on tješi, a ti se muèiš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I preko svega toga postavljena je meðu nama i vama velika propast, da oni koji bi htjeli odovud k vama prijeæi, ne mogu, niti oni otuda k nama da prelaze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Tada reèe: molim te dakle, oèe, da ga pošalješ kuæi oca mojega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Jer imam pet braæe: neka im posvjedoèi da ne bi i oni došli na ovo mjesto muèenja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Reèe mu Avraam: oni imaju Mojsija i proroke, neka njih slušaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A on reèe: ne, oèe Avraame! nego ako im doðe ko iz mrtvijeh pokajaæe se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A Avraam mu reèe: ako ne slušaju Mojsija i proroka, da ko i iz mrtvijeh ustane neæe vjerovati."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LUK/16.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 16
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LUK/17.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 17
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LUK/15.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 15
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

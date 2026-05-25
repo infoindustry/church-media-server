@@ -1,0 +1,321 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "srp_865",
+    "name": "Luki",
+    "commonName": "Luki",
+    "title": "Jevanðelje po Luki",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "71d24bae001865beafd9dc8b76f8e93d8f927bd8e33391ea4aebbf53673c6a27",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LUK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/LUK/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U to vrijeme pak doðoše neki i kazaše za Galilejce kojijeh krv pomiješa Pilat sa žrtvama njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I odgovarajuæi Isus reèe im: mislite li da su ti Galilejci bili najgrješniji od sviju Galilejaca, jer tako postradaše?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ne, kažem vam, nego ako se ne pokajete, svi æete tako izginuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ili oni osamnaest što na njih pade kula Siloamska i pobi ih, mislite li da su oni najkrivlji bili od sviju Jerusalimljana?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ne, kažem vam, nego ako se ne pokajete, svi æete tako izginuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Kaza im pak ovu prièu: jedan èovjek imadijaše smokvu usaðenu u svome vinogradu, i doðe da traži roda na njoj, i ne naðe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Onda reèe vinogradaru: evo treæa godina kako dolazim i tražim roda na ovoj smokvi, i ne nalazim; posijeci je dakle, zašto zemlji da smeta?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A on odgovarajuæi reèe mu: gospodaru! ostavi je i za ovu godinu dok okopam oko nje i obaspem gnojem;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Pa da ako rodi: ako li ne, posjeæi æeš je na godinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A kad uèaše u jednoj zbornici u subotu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I gle, bješe ondje žena bolesna od duha osamnaest godina, i bješe zgrèena, i ne mogaše se ispraviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A kad je vidje, dozva je Isus i reèe joj: ženo! oproštena si od bolesti svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I metnu na nju ruke, i odmah se ispravi i hvaljaše Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A starješina od zbornice srðaše se što je Isus iscijeli u subotu, i odgovarajuæi reèe narodu: šest je dana u koje treba raditi, u one dakle dolazite te se lijeèite, a ne u dan subotni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Gospod mu odgovori i reèe: licemjere! svaki od vas u subotu ne odrješuje li svojega vola ili magarca od jasala, i ne vodi da napoji?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A ovu kæer Avraamovu koju sveza sotona evo osamnaesta godina, ne trebaše li je odriješiti iz ove sveze u dan subotni?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I kad on ovo govoraše stiðahu se svi koji mu se protivljahu; i sav narod radovaše se za sva njegova slavna djela."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A on im reèe: kakvo je carstvo Božije? i kakvo æu kazati da je?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ono je kao zrno gorušièno, koje uzevši èovjek baci u vrt svoj, i uzraste i posta drvo veliko, i ptice nebeske useliše se u grane njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Opet reèe: kakvo æu kazati da je carstvo Božije?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ono je kao kvasac koji uzevši žena metnu u tri kopanje brašna, dok ne uskise sve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I prolažaše po gradovima i selima uèeæi i putujuæi u Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Reèe mu pak neko: Gospode! je li malo onijeh koji æe biti spaseni? A on im reèe:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Navalite da uðete na tijesna vrata; jer vam kažem: mnogi æe tražiti da uðu i neæe moæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Kad ustane domaæin i zatvori vrata, i stanete napolju stajati i kucati u vrata govoreæi: Gospode! Gospode! otvori nam; i odgovarajuæi reæi æe vam: ne poznajem vas otkuda ste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Tada æete stati govoriti: mi jedosmo pred tobom i pismo, i po ulicama našijem uèio si."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A on æe reæi: kažem vam: ne poznajem vas otkuda ste; otstupite od mene svi koji nepravdu èinite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ondje æe biti plaè i škrgut zuba, kad vidite Avraama i Isaka i Jakova i sve proroke u carstvu Božijemu, a sebe napolje istjerane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I doæi æe od istoka i zapada i sjevera i juga i sješæe za trpezu u carstvu Božijemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I gle, ima pošljednjijeh koji æe biti prvi, i ima prvijeh koji æe biti pošljednji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "U taj dan pristupiše neki od fariseja govoreæi mu: iziði i idi odavde, jer Irod hoæe da te ubije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I reèe im: idite te kažite onoj lisici: evo izgonim ðavole i iscjeljujem danas i sjutra, a treæi dan svršiæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ali danas i sjutra i prekosjutra treba mi iæi; jer prorok ne može poginuti izvan Jerusalima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Jerusalime, Jerusalime, koji ubijaš proroke i zasipaš kamenjem poslane k sebi! koliko puta htjeh da skupim èeda tvoja kao kokoš gnijezdo svoje pod krila, i ne htjeste!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Eto æe vam se ostaviti kuæa vaša pusta; a ja vam kažem: neæete mene vidjeti dok ne doðe da reèete: blagosloven koji ide u ime Gospodnje."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LUK/13.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 13
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LUK/14.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 14
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LUK/12.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 12
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

@@ -1,0 +1,244 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOS",
+    "translationId": "srp_865",
+    "name": "Isus Navin",
+    "commonName": "Isus Navin",
+    "title": "Isus Navin",
+    "order": 6,
+    "numberOfChapters": 24,
+    "sha256": "ec9d0a794c17ba6296451b87fb16a4d34d8af2bfd446293b00f97a3bbb7257b2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOS/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/JOS/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 658
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A ovo su carevi zemaljski koje pobiše sinovi Izrailjevi i zemlju njihovu osvojiše s onu stranu Jordana k istoku, od potoka Arnona do gore Ermona i svu ravnicu k istoku:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Sion car Amorejski koji stajaše u Esevonu i vladaše od Aroira koji je na brijegu potoka Arnona, i od polovine potoka i polovinom Galada do potoka Javoka, gdje je meða sinova Amonskih;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I od ravnice do mora Hinerotskoga k istoku, i do mora uz polje, do mora slanoga k istoku, kako se ide k Vetsimotu, i s juga pod goru Fazgu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I susjed mu Og car Vasanski, koji bješe ostao od Rafaja i sjeðaše u Astarotu i u Edrajinu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I vladaše gorom Ermonom i Salhom i svijem Vasanom do meðe Gesurske i Mahatske, i polovinom Galada do meðe Siona cara Esevonskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Njih pobi Mojsije sluga Gospodnji i sinovi Izrailjevi; i tu zemlju dade Mojsije sluga Gospodnji u našljedstvo plemenu Ruvimovu i plemenu Gadovu i polovini plemena Manasijina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A ovo su carevi zemaljski koje pobi Isus sa sinovima Izrailjevijem s onu stranu Jordana k zapadu, od Val-Gada u polju Livanskom pa do gore Alaka kako se ide k Siru; i tu zemlju dade Isus plemenima Izrailjevijem u našljedstvo prema dijelovima njihovijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Po gorama i po ravnicama, po poljima i po dolinama, i u pustinji i na južnom kraju, zemlju Hetejsku, Amorejsku i Hananejsku, Ferezejsku, Jevejsku i Jevusejsku:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Car Jerihonski jedan; car Gajski do Vetilja jedan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Car Jerusalimski jedan; car Hevronski jedan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Car Jarmutski jedan; car Lahiski jedan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Car Jeglonski jedan; car Gezerski jedan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Car Davirski jedan; car Gaderski jedan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Car Oramski jedan; car Aradski jedan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Car od Livne jedan; car Odolamski jedan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Car Makidski jedan; car Vetiljski jedan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Car Tafuvski jedan; car Eferski jedan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Car Afeèki jedan; car Saronski jedan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Car Madonski jedan; car Asorski jedan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Car Simron-Meronski jedan; car Ahsavski jedan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Car Tanaški jedan; car Megidski jedan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Car Kedeski jedan; car Jokneamski kod Karmela jedan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Car Dorski u Nafat-Doru jedan; car Gojimski u Galgalu jedan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Car Teraski jedan. Svega trideset i jedan car."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOS/12.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 12
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOS/13.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 13
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOS/11.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 11
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 24
+}

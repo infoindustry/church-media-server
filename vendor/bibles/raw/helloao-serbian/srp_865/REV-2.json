@@ -1,0 +1,279 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "REV",
+    "translationId": "srp_865",
+    "name": "Apokalipsa",
+    "commonName": "Apokalipsa",
+    "title": "Otkrivenje Jovanovo — Apokalipsa",
+    "order": 66,
+    "numberOfChapters": 22,
+    "sha256": "03ca27b48572b751a11a8d2525edcfa3d35a43f752bf5506e16685bb264b5230",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/REV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 22,
+    "lastChapterApiLink": "/api/srp_865/REV/22.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 22
+    },
+    "totalNumberOfVerses": 404
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Anðelu Efeske crkve napiši: tako govori onaj što drži sedam zvijezda u desnici svojoj, i što hodi posred sedam svijeænjaka zlatnijeh:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Znam tvoja djela, i trud tvoj, i trpljenje tvoje, i da ne možeš snositi zlijeh, i iskušao si one koji govore da su apostoli a nijesu, i našao si ih lažne;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I podnio si mnogo, i trpljenje imaš, i za ime moje trudio si se, i nijesi sustao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "No imam na tebe, što si ljubav svoju prvu ostavio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Opomeni se dakle otkuda si spao, i pokaj se, i prva djela èini; ako li ne, doæi æu ti skoro, i dignuæu svijeænjak tvoj s mjesta njegova, ako se ne pokaješ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "No ovo imaš što mrziš na djela Nikolinaca, na koja i ja mrzim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ko ima uho neka èuje šta govori Duh crkvama: koji pobijedi daæu mu da jede od drveta životnoga koje je nasred raja Božijega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I anðelu crkve Smiranske napiši: tako govori prvi i pošljednji, koji bješe mrtav, i evo je živ:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Znam tvoja djela, i nevolju i siromaštvo ali si bogat i hule onijeh koji govore da su Jevreji a nijesu, nego zbornica sotonina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ne boj se ni oda šta što æeš postradati. Gle, ðavo æe neke od vas metati u tamnicu, da se iskušate, i imaæete nevolju do deset dana. Budi vjeran do same smrti, i daæu ti vijenac života."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ko ima uho da èuje neka èuje šta govori Duh crkvama: koji pobijedi neæe mu nauditi druga smrt."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I anðelu Pergamske crkve napiši: tako govori onaj što ima maè oštar s obje strane:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Znam djela tvoja, i gdje živiš, gdje je prijesto sotonin; i držiš ime moje, i nijesi se odrekao vjere moje i u one dane u koje je Antipa, vjerni svjedok moj, ubijen kod vas, gdje živi sotona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "No imam na tebe malo, što imaš tu koji drže nauku Valaama, koji uèaše Valaka da položi sablazan pred sinovima Izrailjevijem, da jedu žrtve idolske, i da se kurvaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tako imaš i ti koji drže nauku Nikolinaca, na koju ja mrzim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Pokaj se dakle; ako li ne, doæi æu ti skoro, i vojevaæu s njima maèem usta svojijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ko ima uho da èuje neka èuje šta govori Duh crkvama: koji pobijedi daæu mu da jede od mane sakrivene, i daæu mu kamen bijel, i na kamenu novo ime napisano, kojega niko ne zna osim onoga koji primi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I anðelu Tijatirske crkve napiši: tako govori sin Božij, koji ima oèi svoje kao plamen ognjeni, i noge njegove kao mjed:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Znam tvoja djela, i ljubav, i službu, i vjeru, i trpljenje tvoje, i djela tvoja, i da pošljednjijeh ima više od prvijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "No imam na tebe malo, što dopuštaš ženi Jezaveli, koja govori da je proroèica, da uèi i da vara sluge moje da èine preljubu i da jedu žrtvu idolsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I dadoh joj vrijeme da se pokaje od kurvarstva svojega, i ne pokaja se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Evo je ja meæem na odar, i one koji èine preljubu s njom u nevolju veliku, ako se ne pokaju od svojijeh djela."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I djecu njezinu pobiæu na mjesto; i poznaæe sve crkve da sam ja koji ispitujem srca i bubrege, i daæu vam svakome po djelima vašima:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A vama govorim i ostalima koji su u Tijatiru koji nemaju nauke ove, i koji ne poznaju dubina sotoninijeh kao što govore): neæu metnuti na vas drugoga bremena,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Osim koje imate, držite dokle doðem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I koji pobijedi i održi djela moja do kraja, daæu mu vlast nad neznabošcima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I pašæe ih s gvozdenom palicom, i oni æe se razdrobiti kao sudovi lonèarski; kao i ja što primih od oca svojega;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I daæu mu zvijezdu danicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ko ima uho da èuje neka èuje šta govori Duh crkvama."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/REV/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/REV/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/REV/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

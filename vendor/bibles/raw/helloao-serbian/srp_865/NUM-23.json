@@ -1,0 +1,286 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "srp_865",
+    "name": "Brojevi",
+    "commonName": "Brojevi",
+    "title": "Brojevi",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "5dc73b8a174fd63cb58a0932611fd5816a865be2dae8658fc6051a7a529e9415",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NUM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/NUM/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 23,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I reèe Valam Valaku: naèini mi ovdje sedam oltara, i pripravi mi ovdje sedam telaca i sedam ovnova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I uèini Valak kako mu reèe Valam; i prinese Valak s Valamom na svakom oltaru po jedno tele i ovna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Pa reèe Valam Valaku: stoj kod svoje žrtve paljenice; a ja idem eda bih se sreo s Gospodom, pa što mi javi kazaæu ti. I on otide sam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I srete Bog Valama, a on mu reèe: sedam oltara spremih, i prinesoh po tele i ovna na svakom oltaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A Gospod metnu rijeèi u usta Valamu, i reèe: vrati se k Valaku i tako mu reci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I vrati se k njemu, a on stajaše kod žrtve svoje paljenice i svi knezovi Moavski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A on otvori prièu svoju, i reèe: iz Arama dovede me Valak car Moavski s planine istoène, govoreæi: hodi, prokuni mi Jakova, hodi, naruži Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Kako bih kleo onoga koga ne kune Bog? ili kako bih ružio onoga koga Gospod ne ruži?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer svrh stijena vidim ga, i s humova gledam ga. Gle, ovaj æe narod nastavati sam, i s drugim narodima neæe se pomiješati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ko æe izbrojiti prah Jakovljev i broj od èetvrti Izrailja? Da bih ja umro smræu pravednièkom, i kraj moj da bi bio kao njihov!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tada reèe Valak Valamu: šta to radiš od mene? Ja te dozvah da prokuneš neprijatelje moje, a gle, ti blagosiljaš jednako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A on odgovori i reèe: zar neæu paziti i govoriti ono što mi je Gospod metnuo u usta?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada mu reèe Valak: hodi sa mnom na drugo mjesto, odakle æeš ga vidjeti; samo mu kraj vidiš, a svega ga ne vidiš; prokuni mi ga odande."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I dovede ga u polje Zofim, navrh Fazge, i naèini sedam oltara, i prinese na svakom oltaru po jedno tele i ovna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tada Valam reèe Valaku: stoj tu kod žrtve svoje paljenice, a ja idem onamo na susret Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I srete Gospod Valama, i metnu mu rijeè u usta, i reèe: vrati se k Valaku, i tako govori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I doðe k njemu, a on stajaše kod žrtve svoje paljenice i s njim knezovi Moavski; i reèe Valak: šta veli Gospod?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A on otvori prièu svoju, i reèe: ustani Valaèe, i poslušaj, èuj me sine Seforov!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Bog nije èovjek da laže, ni sin èovjeèji da se pokaje. Što kaže neæe li uèiniti, i što reèe neæe li izvršiti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Gle, primih da blagoslovim; jer je on blagoslovio, a ja neæu poreæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ne gleda na bezakonje u Jakovu ni na nevaljalstvo u Izrailju; Gospod je njegov s njim, i graja u njemu kao car kad nadvlada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Bog ga je izveo iz Misira, on mu je kao snaga jednorogova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer nema èini na Jakova ni vraèanja na Izrailja; u ovo doba govoriæe se o Jakovu i o Izrailju, što je uèinio Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Evo, narod æe ustati kao silan lav, i kao laviæ skoèiæe; neæe leæi dokle ne pojede lova i popije krvi pobijenijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Tada reèe Valak Valamu: nemoj ga ni kleti ni blagosiljati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A Valam odgovori Valaku: nijesam li ti kazao da æu èiniti što mi god Gospod kaže?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A Valak reèe Valamu: hodi, odvešæu te na drugo mjesto; da ako Bogu bude volja da mi ga odande prokuneš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I odvede Valak Valama navrh Fegora, koji gleda u pustinju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I reèe Valam Valaku: naèini mi ovdje sedam oltara, i pripravi mi ovdje sedam telaca i sedam ovnova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I uèini Valak kako reèe Valam i prinese žrtvu po tele i ovna na svakom oltaru."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NUM/23.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 23
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NUM/24.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 24
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NUM/22.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 22
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 30
+}

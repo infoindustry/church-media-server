@@ -1,0 +1,321 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 26,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ali nasta glad u zemlji svrh prve gladi koja bješe za vremena Avramova; i Isak otide k Avimelehu caru Filistejskom u Gerar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I javi mu se Gospod i reèe: nemoj iæi u Misir, nego sjedi u zemlji koju æu ti kazati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Sjedi u toj zemlji, i ja æu biti s tobom, i blagosloviæu te; jer æu tebi i sjemenu tvojemu dati sve ove zemlje, i potvrdiæu zakletvu, kojom sam se zakleo Avramu ocu tvojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I umnožiæu sjeme tvoje da ga bude kao zvijezda na nebu, i daæu sjemenu tvojemu sve ove zemlje; i u sjemenu tvojem blagosloviæe se svi narodi na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Zato što je Avram slušao glas moj i èuvao naredbu moju, zapovijesti moje, pravila moja i zakone moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I osta Isak u Geraru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A ljudi u mjestu onom pitahu za ženu njegovu, a on govoraše: sestra mi je. Jer se bojaše kazati: žena mi je; da me, veli, ne ubiju ovi ljudi radi Reveke, jer je lijepa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I kad provede mnogo vremena ondje, dogodi se, te pogleda Avimeleh car Filistejski s prozora, i vidje Isaka gdje se šali s Revekom ženom svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I dozva Avimeleh Isaka i reèe: ta to ti je žena; kako si kazao: sestra mi je? A Isak mu odgovori: rekoh: da ne poginem s nje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Avimeleh reèe: šta si nam uèinio? lako je mogao ko od naroda ovoga leæi s tvojom ženom, te bi nas ti uvalio u grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I zapovjedi Avimeleh svemu narodu svojemu govoreæi: ko se dotakne ovoga èovjeka ili žene njegove, poginuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I Isak stade sijati u onoj zemlji, i dobi one godine po sto, tako ga blagoslovi Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I obogati se èovjek, i napredovaše sve veæma, te posta silan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I imaše ovaca i goveda i mnogo sluga; a Filisteji mu zaviðahu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Pa sve studence koje bjehu iskopale sluge oca njegova za vremena Avrama oca njegova zaroniše Filisteji, i zasuše ih zemljom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I Avimeleh reèe Isaku: idi od nas, jer si postao silniji od nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I Isak otide odande, i razape šatore u dolini Gerarskoj, i nastani se ondje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I stade Isak otkopavati studence, koji bjehu iskopani za vremena Avrama oca njegova, i koje zaroniše Filisteji po smrti Avramovoj; i prozva ih imenima koja im bješe nadio otac njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I kopajuæi sluge Isakove u onom dolu naðoše studenac žive vode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ali se svadiše pastiri Gerarski s pastirima Isakovim govoreæi: naša je voda. I nadjede ime onom studencu Esek, jer se svadiše s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Poslije iskopaše drugi studenac, pa se i oko njega svadiše, zato ga nazva Sitna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Tada se podiže odande, i iskopa drugi studenac, i oko njega ne bi svaðe; zato ga nazva Rehovot, govoreæi: sad nam dade Gospod prostora da rastemo u ovoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I otide odande gore u Virsaveju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I istu noæ javi mu se Gospod, i reèe: ja sam Bog Avrama oca tvojega. Ne boj se, jer sam ja s tobom, i blagosloviæu te i umnožiæu sjeme tvoje Avrama radi sluge svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I naèini ondje žrtvenik, i prizva ime Gospodnje; i ondje razape šator svoj; i sluge Isakove iskopaše ondje studenac."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I doðe k njemu Avimeleh iz Gerara s Ohozatom prijateljem svojim i s Fiholom vojvodom svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A Isak im reèe: što ste došli k meni, kad mrzite na me i otjeraste me od sebe?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A oni rekoše: vidjesmo zaista da je Gospod s tobom, pa rekosmo: neka bude zakletva izmeðu nas, izmeðu nas i tebe; hajde da uhvatimo vjeru s tobom:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Da nam ne èiniš zla, kao što se mi tebe ne dotakosmo i kao što mi tebi samo dobro èinismo, i pustismo te da ideš na miru, i eto si blagosloven od Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Tada ih on ugosti; te jedoše i piše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A sjutradan ustavši rano, zakleše se jedan drugome, i otpusti ih Isak i otidoše od njega s mirom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Isti dan došavši sluge Isakove kazaše mu za studenac koji iskopaše, i rekoše mu: naðosmo vodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I nazva ga Saveja; otuda se zove grad onaj Virsaveja do današnjega dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A kad bi Isavu èetrdeset godina, uze za ženu Juditu kæer Veoha Hetejina, i Vasematu kæer Elona Hetejina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I one zadavahu mnogo jada Isaku i Reveci."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/26.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 26
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/27.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 27
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/25.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 25
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

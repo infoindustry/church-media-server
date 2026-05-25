@@ -1,0 +1,349 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ROM",
+    "translationId": "srp_865",
+    "name": "Rimljanima",
+    "commonName": "Rimljanima",
+    "title": "Poslanica Rimljanima",
+    "order": 45,
+    "numberOfChapters": 16,
+    "sha256": "1fe4947b687992778ed830174635b188e37a5a7f483de9affcbbb4c949cc6571",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ROM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/ROM/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 433
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nikakva dakle sad nema osuðenja onima koji su u Hristu Isusu i ne hode po tijelu nego po Duhu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer zakon duha koji oživljava u Hristu Isusu, oprostio me je od zakona grjehovnoga i smrti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer što zakonu bješe nemoguæe, jer bješe oslabljen tijelom, posla Bog sina svojega u oblièju tijela grjehovnoga, i za grijeh osudi grijeh u tijelu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Da se pravda zakona ispuni u nama koji ne živimo po tijelu nego po duhu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer koji su po tijelu tjelesno misle, a koji su po duhu duhovno misle."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer tjelesno mudrovanje smrt je, a duhovno mudrovanje život je i mir."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer tjelesno mudrovanje neprijateljstvo je Bogu, jer se ne pokorava zakonu Božijemu niti može."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A koji su u tijelu ne mogu Bogu ugoditi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A vi nijeste u tijelu nego u duhu; jer Duh Božij u vama živi. A ako ko nema Duha Hristova, on nije njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A ako je Hristos u vama, onda je tijelo mrtvo grijeha radi a Duh živ pravde radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A ako li živi u vama Duh onoga koji je vaskrsao Isusa iz mrtvijeh, onaj koji je podigao Hrista iz mrtvijeh oživljeæe i vaša smrtna tjelesa Duhom svojijem koji živi u vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tako dakle, braæo, nijesmo dužni tijelu da po tijelu živimo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer ako živite po tijelu, pomrijeæete; ako li duhom poslove tjelesne morite, življeæete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer koji se vladaju po duhu Božijemu oni su sinovi Božiji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer ne primiste duha ropstva, opet da se bojite; nego primiste Duha posinaèkoga, kojijem vièemo: Ava, oèe!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ovaj Duh svjedoèi našemu duhu da smo djeca Božija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A kad smo djeca i našljednici smo: našljednici dakle Božiji, a sunašljednici Hristovi: jer s njim stradamo da se s njim i proslavimo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer mislim da stradanja sadašnjega vremena nijesu ništa prema slavi koja æe nam se javiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer èekanje tvari èeka da se jave sinovi Božiji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer se tvar pokori propadljivosti ne od svoje volje nego za volju onoga koji je pokori) na nad,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Da æe se i sama tvar oprostiti od ropstva raspadljivosti na slobodu slave djece Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer znamo da sva tvar uzdiše i tuži s nama dosad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A ne samo ona, nego i mi koji novinu duha imamo, i mi sami u sebi uzdišemo èekajuæi posinjenja i izbavljenja tijelu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer se nadom spasosmo. A nad koji se vidi nije nad; jer kad ko vidi što, kako æe mu se nadati?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ako li se nadamo onome što ne vidimo, èekamo s trpljenjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A tako i Duh pomaže nam u našijem slabostima: jer ne znamo za što æemo se moliti kao što treba, nego sam Duh moli se za nas uzdisanjem neiskazanijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A onaj što ispituje srca zna što je misao Duha, jer po volji Božijoj moli se za svete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A znamo da onima koji ljube Boga sve ide na dobro, koji su pozvani po namjerenju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Jer koje naprijed pozna one i odredi da budu jednaki oblièju sina njegova, da bi on bio prvoroðeni meðu mnogom braæom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A koje odredi one i dozva; a koje dozva one i opravda; a koje opravda one i proslavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Šta æemo dakle reæi na ovo? Ako je Bog s nama, ko æe na nas?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Koji dakle svoga sina ne poštedje, nego ga predade za sve nas, kako dakle da nam s njim sve ne daruje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ko æe optužiti izbrane Božije? Bog koji pravda?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ko æe osuditi? Hristos Isus, koji umrije, pa još i vaskrse, koji je s desne strane Bogu, i moli za nas?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ko æe nas rastaviti od ljubavi Božije? Nevolja li ili tuga? ili gonjenje? ili glad? ili golotinja? ili strah? ili maè? kao što stoji napisano:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Za tebe nas ubijaju vas dan, drže nas kao ovce koje su za klanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Ali u svemu ovome pobjeðujemo onoga radi koji nas je ljubio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Jer znam jamaèno da ni smrt, ni život, ni anðeli, ni poglavarstva, ni sile, ni sadašnje, ni buduæe,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Ni visina, ni dubina, ni druga kakva tvar može nas razdvojiti od ljubavi Božije, koja je u Hristu Isusu Gospodu našemu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ROM/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ROM/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ROM/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 39
+}

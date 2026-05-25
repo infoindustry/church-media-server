@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "srp_865",
+    "name": "Ponovljeni Zakon",
+    "commonName": "Ponovljeni Zakon",
+    "title": "Ponovljeni Zakon",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "b000b6651908c9448c65c662cec1fa45977205b236e0922d505241ab679311df",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DEU/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 1
+    },
+    "lastChapterNumber": 34,
+    "lastChapterApiLink": "/api/srp_865/DEU/34.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 34
+    },
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 19,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Kad Gospod Bog tvoj potre narode kojih zemlju daje tebi Gospod Bog tvoj, i kad ih naslijediš i nastaniš se po gradovima njihovijem i po kuæama njihovijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Odvoj tri grada usred zemlje svoje, koju ti daje Gospod Bog tvoj da je naslijediš,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Naèini put, i razdijeli na troje krajeve zemlje svoje, koju ti da Gospod Bog tvoj u našljedstvo, pa neka bježi onamo svaki krvnik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A ovako neka bude s krvnikom koji uteèe onamo, da bi ostao živ: ko ubije bližnjega svojega nehotice, ne mrzivši prije na nj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Kao kad bi ko otišao s bližnjim svojim u šumu da sijeèe drva, pa bi zamahnuo sjekirom u ruci svojoj da posijeèe drvo, a ona bi spala s držalice i pogodila bi bližnjega njegova tako da umre, on neka uteèe u koji od tijeh gradova da ostane živ,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Da ne bi osvetnik potjerao krvnika dok mu je srce raspaljeno, i da ga ne bi stigao na daleku putu i ubio ga, premda nije zaslužio smrti, jer nije prije mrzio na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zato ti zapovijedam i velim: tri grada odvoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A kad raširi Gospod Bog tvoj meðe tvoje, kao što se zakleo ocima tvojim, i da ti svu zemlju koju je rekao dati ocima tvojim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ako uzdržiš i ustvoriš sve ove zapovijesti, koje ti ja danas zapovijedam, da ljubiš Gospoda Boga svojega i hodiš putovima njegovijem svagda, onda dodaj još tri grada osim ona tri,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Da se ne proljeva krv prava u zemlji tvojoj, koju ti Gospod Bog tvoj daje u našljedstvo, i da ne bude na tebi krv."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ali ako ko mrzi na bližnjega svojega i vreba ga, i skoèi na nj, i udari ga tako da umre, a on uteèe u koji od tijeh gradova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Onda starješine mjesta njegova neka pošlju i uzmu ga odande, i predadu ga u ruke osvetniku da se pogubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Neka ga ne žali oko tvoje, nego skini krv pravu s Izrailja, da bi ti dobro bilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ne pomièi meðe bližnjega svojega koju postave stari u našljedstvu tvojem koje dobiješ u zemlji koju ti Gospod Bog tvoj daje da je naslijediš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Neka ne ustaje jedan svjedok na èovjeka ni za kako zlo i ni za kakav grijeh izmeðu svijeh grijeha koji se èine, nego na rijeèima dva ili tri svjedoka da ostaje stvar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ako bi ustao lažan svjedok na koga da svjedoèi na njega da se odmeæe Boga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Onda neka stanu ta dva èovjeka, koji imaju tu raspru, pred Gospoda, pred sveštenike i pred sudije koje budu u to vrijeme;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I neka dobro ispitaju sudije; ako svjedok onaj bude lažan svjedok i lažno svjedoèi na brata svojega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Uèinite mu onako kako je on mislio uèiniti bratu svojemu; i izvadi zlo iz sebe,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Da se ostali èuvši to boje, i unapredak više ne èine tako zlo usred tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Neka ne žali oko tvoje: život za život, oko za oko, zub za zub, ruku za ruku, nogu za nogu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DEU/19.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 19
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DEU/20.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 20
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DEU/18.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 18
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

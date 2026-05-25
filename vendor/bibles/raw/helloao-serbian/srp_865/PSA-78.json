@@ -1,0 +1,580 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 78,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Èuj, narode moj, nauk moj, prigni uho svoje k rijeèima usta mojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Otvoram za prièu usta svoja, kazaæu stare pripovijetke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Što slušasmo i doznasmo, i što nam kazivaše oci naši,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Neæemo zatajiti od djece njihove, naraštaju poznom javiæemo slavu Gospodnju i silu njegovu i èudesa koja je uèinio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Svjedoèanstvo podiže u Jakovu, i u Izrailju postavi zakon, koji dade ocima našim da ga predadu djeci svojoj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Da bi znao potonji naraštaj, djeca koja æe se roditi, pa i oni da bi kazivali svojoj djeci"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Da polažu na Boga nadanje svoje, i ne zaboravljaju djela Božijih, i zapovijesti njegove da drže;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I da ne budu kao oci njihovi, rod nevaljao i uporan, rod koji ne bješe tvrd srcem svojim, niti vjeran Bogu duhom svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Sinovi Jefremovi naoružani, koji strijeljaju iz luka, vratiše se natrag, kad bijaše boj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ne saèuvaše zavjeta Božijega, i po zakonu njegovu ne htješe hoditi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zaboraviše djela njegova, i èudesa, koja im je pokazao,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Kako pred ocima njihovijem uèini èudesa u zemlji Misirskoj, na polju Soanu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Razdvoji more, i provede ih, od vode naèini zid;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I vodi ih danju oblakom, i svu noæ svijetlijem ognjem;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Raskida stijene u pustinji, i poji ih kao iz velike bezdane;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Izvodi potoke iz kamena, i vodi vodu rijekama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ali oni još jednako griješiše njemu, i gnjeviše višnjega u pustinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I kušaše Boga u srcu svom, ištuæi jela po volji svojoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I vikaše na Boga, i rekoše: “može li Bog zgotoviti trpezu u pustinji?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Evo! on udari u kamen, i poteèe voda, i rijeke ustadoše; može li i hljeba dati? hoæe li i mesa postaviti narodu svojemu?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Gospod èu i razljuti se, i oganj se razgorje na Jakova, i gnjev se podiže na Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer ne vjerovaše Bogu i ne uzdaše se u pomoæ njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Tada zapovjedi oblacima odozgo, i otvori vrata nebeska,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I pusti, te im podaždje mana za jelo, i hljeb nebeski dade im."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Hljeba anðelskoga jeðaše èovjek; posla im jela do sitosti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Pusti nebom ustoku, i navede silom svojom jug;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I kao prahom zasu ih mesom, i kao pijeskom morskim pticama krilatim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Pobaca ih sred okola njihova, oko šatora njihovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I najedoše se i dade im što su željeli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ali ih još i ne proðe želja, još bješe jelo u ustima njihovijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Gnjev se Božji podiže na njih i pomori najjaèe meðu njima, i mladiæe u Izrailju pobi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Preko svega toga još griješiše, i ne vjerovaše èudesima njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I pusti, te dani njihovi prolaziše uzalud, i godine njihove u strahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Kad ih ubijaše, onda pritjecahu k njemu, i obraæahu se i iskahu Boga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I pominjahu da je Bog obrana njihova, i višnji izbavitelj njihov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Laskahu mu ustima svojima, i jezikom svojim lagahu mu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A srce njihovo ne bješe njemu vjerno, i ne bijahu tvrdi u zavjetu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Ali on bješe milostiv, i pokrivaše grijeh, i ne pomori ih, èesto ustavljaše gnjev svoj, i ne podizaše sve jarosti svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Opominjaše se da su tijelo, vjetar, koji prolazi i ne vraæa se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Koliko ga puta rasrdiše u pustinji, i uvrijediše u zemlji gdje se ne živi!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Sve nanovo kušaše Boga, i sveca Izrailjeva dražiše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Ne sjeæaše se ruke njegove i dana, u koji ih izbavi iz nevolje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "U koji uèini u Misiru znake svoje i èudesa svoja na polju Soanu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "I provrže u krv rijeke njihove i potoke njihove, da ne mogoše piti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Posla na njih bubine da ih kolju, i žabe da ih more."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Ljetinu njihovu dade crvu, i muku njihovu skakavcima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Vinograde njihove pobi gradom, i smokve njihove slanom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Gradu predade stoku njihovu, i stada njihova munji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Posla na njih ognjeni gnjev svoj, jarost, srdnju i mržnju, èetu zlijeh anðela."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Ravni stazu gnjevu svojemu, ne èuva duša njihovijeh od smrti, i život njihov predade pomoru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Pobi sve prvence u Misiru, prvi porod po kolibama Hamovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "I povede narod svoj kao ovce, i vodi ih kao stado preko pustinje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Vodi ih pouzdano, i oni se ne bojaše, a neprijatelje njihove zatrpa more."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "I dovede ih na mjesto svetinje svoje, na ovu goru, koju zadobi desnica njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "Odagna ispred lica njihova narode; ždrijebom razdijeli njihovo dostojanje, i po šatorima njihovijem naseli koljena Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "Ali oni kušaše i srdiše Boga višnjega i uredaba njegovijeh ne saèuvaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "Odustaše i odvrgoše se, kao i oci njihovi, slagaše kao rðav luk."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "Uvrijediše ga visinama svojim, i idolima svojim razdražiše ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 59,
+        "content": [
+          "Bog èu i razgnjevi se i rasrdi se na Izrailja veoma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 60,
+        "content": [
+          "Ostavi naselje svoje u Silomu, šator, u kojem življaše s ljudma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 61,
+        "content": [
+          "I opravi u ropstvo slavu svoju, i krasotu svoju u ruke neprijateljeve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 62,
+        "content": [
+          "I predade maèu narod svoj, i na dostojanje svoje zaplamtje se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 63,
+        "content": [
+          "Mladiæe njegove jede oganj, i djevojkama njegovijem ne pjevaše svatovskih pjesama;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 64,
+        "content": [
+          "Sveštenici njegovi padaše od maèa, i udovice njegove ne plakaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 65,
+        "content": [
+          "Najposlije kao iza sna probudi se Gospod, prenu se kao junak kad se napije vina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 66,
+        "content": [
+          "I pobi neprijatelje svoje s leða, vjeènoj sramoti predade ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 67,
+        "content": [
+          "I ne htje šatora Josifova, i koljena Jefremova ne izabra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 68,
+        "content": [
+          "Nego izabra koljeno Judino, goru Sion, koja mu omilje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 69,
+        "content": [
+          "I sagradi svetinju svoju kao gornje svoje stanove, i kao zemlju utvrdi je dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 70,
+        "content": [
+          "I izabra Davida slugu svojega, i uze ga od torova ovèijih,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 71,
+        "content": [
+          "I od dojilica dovede ga da pase narod njegov, Jakova, i našljedstvo njegovo, Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 72,
+        "content": [
+          "I on ih pase èistijem srcem, i vodi ih mudrijem rukama."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/78.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 78
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/79.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 79
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/77.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 77
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 72
+}

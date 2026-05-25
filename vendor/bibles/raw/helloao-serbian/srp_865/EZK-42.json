@@ -1,0 +1,216 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 42,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I izvede me u spoljašnji trijem prema sjeveru, i dovede me ka klijetima, koje bijahu prema odijeljenoj strani i prema graðevini na sjeveru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "S lica bješe u dužinu sto lakata kod sjevernijeh vrata, a u širinu pedeset lakata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Prema unutrašnjem trijemu od dvadeset lakata i prema podu spoljašnjega trijema bijahu klijeti prema klijetima u tri reda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I pred klijetima bijaše hodnik u širinu od deset lakata, unutra, put k njima od jednoga lakta, i vrata bjehu prema sjeveru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A najgornje klijeti bjehu tješnje, jer klijeti donje i srednje u zgradi izlažahu veæma nego one."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer bijahu na tri poda, ali nemahu stupova kao u trijemu, i zato se suživaše iznad donjega i srednjega od zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A ograda koja bijaše spolja prema klijetima k trijemu spoljašnjem pred klijetima imaše u dužinu pedeset lakata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer dužina klijetima, koje bijahu u trijemu spoljašnjem, bijaše pedeset lakata. I gle, pred crkvom bješe sto lakata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A pod tijem klijetima bijaše ulaz s istoka, kojim se ulažaše u njih iz spoljašnjega trijema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "U širini ograde toga trijema k istoku pred odijeljenom stranom i pred graðevinom bijahu klijeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A pred njima bijaše put kao kod sjevernijeh klijeti; jednake dužine i jednake širine bijahu, i izlazi im i vrata bijahu jednaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I kaka bijahu vrata u klijeti koje bijahu prema jugu, taka bijahu vrata gdje se poèinjaše put pred ogradom pravo k istoku, kad se ide k njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I reèe mi: sjeverne klijeti i južne klijeti pred odijeljenom stranom jesu svete klijeti, gdje sveštenici koji pristupaju ka Gospodu jedu presvete stvari, ondje æe ostavljati presvete stvari i dar i prinos za grijeh i prinos za krivicu, jer je sveto mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Kad sveštenici uðu, neæe izlaziti iz svetinje u spoljašnji trijem, nego æe ondje ostavljati haljine svoje u kojima služe, jer su svete, i oblaèiæe druge haljine, pa onda izlaziti k narodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I izmjerivši dom unutrašnji odvede me na vrata istoèna i izmjeri svuda unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Izmjeri istoènu stranu trskom mjeraèkom, i bješe pet stotina trsaka, trskom mjeraèkom unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Izmjeri sjevernu stranu, i bješe pet stotina trsaka, trskom mjeraèkom unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Izmjeri južnu stranu, i bješe pet stotina trsaka, trskom mjeraèkom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I okrenuvši se na zapadnu stranu, izmjeri, i bješe pet stotina trsaka, trskom mjeraèkom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Izmjeri sa èetiri strane, i bješe zid unaokolo pet stotina trsaka dug i pet stotina širok da razdvaja sveto mjesto od svjetskoga."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/42.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 42
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/43.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 43
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/41.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 41
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 20
+}

@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 46,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Rijeè Gospodnja koja doðe Jeremiji proroku za narode:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Za Misirce, za vojsku Faraona Nehaona cara Misirskoga, koja bijaše na reci Efratu kod Harkemisa, i razbi je Navuhodonosor car Vavilonski èetvrte godine Joakima sina Josijina cara Judina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Pripravite štite i štitiæe, i idite u boj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Prežite konje, i pojašite, konjici; postavite se sa šljemovima; utrite koplja, oblaèite se u oklope."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Zašto ih vidim gdje se poplašiše, vraæaju se natrag, junaci njihovi polomiše se i bježe bez obzira? Strah je otsvuda, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Da ne uteèe laki, niti se izbavi jaki; da se na sjeveru na brijegu rijeke Efrata spotaknu i padnu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ko je to što se diže kao potok, i vode mu se kolebaju kao rijeke?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Misir se diže kao potok i njegove se vode kolebaju kao rijeke; i veli: idem, pokriæu zemlju, zatræu grad i one koji žive u njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Izlazite, konji, bjesnite, kola; i neka izaðu junaci, Husi i Fudi, koji nose štitove, i Ludeji, koji nose i natežu luk."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer je ovaj dan Gospodu Gospodu nad vojskama dan osvete, da se osveti neprijateljima svojim; maè æe ih proždrijeti i nasitiæe se i opiæe se krvlju njihovom; jer æe biti žrtva Gospoda Gospoda nad vojskama u zemlji sjevernoj na rijeci Efratu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Izidi u Galad i uzmi balsama, djevojko kæeri Misirska; zaludu su ti mnogi lijekovi, neæeš se izlijeèiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Narodi èuše sramotu tvoju, i vike tvoje puna je zemlja, jer se spotièu junak o junaka, te obojica padaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Rijeè koju reèe Gospod Jeremiji proroku o dolasku Navuhodonosora cara Vavilonskoga da potre zemlju Misirsku:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Javite u Misiru, i oglasite u Migdolu, oglasite i u Nofu i u Tafnesu, i recite: stani i pripravi se, jer maè proždrije što je oko tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zašto se povaljaše junaci tvoji? Ne stoje, jer ih Gospod obara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Èini, te se mnogi spotièu i padaju jedan na drugoga, i govore: ustani da se vratimo k narodu svojemu i na postojbinu svoju ispred maèa nasilnikova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Vièu ondje: Faraon car Misirski propade, proðe mu rok."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Tako da sam ja živ, govori car, kojemu je ime Gospod nad vojskama; kao Tavor meðu gorama i kao Karmil na moru doæi æe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Spremi što ti treba da se seliš, stanovnice, kæeri Misirska; jer æe Nof opustjeti i spaliæe se da neæe niko živjeti u njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Misir je lijepa junica; ali pogibao ide, ide sa sjevera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I najamnici su njegovi usred njega kao teoci ugojeni, ali se i oni obrnuše i pobjegoše, ne ostaše, jer doðe na njih dan nesreæe njihove, vrijeme pohoðenja njihova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Glas æe njihov iæi kao zmijinji, jer oni idu s vojskom i doæi æe sa sjekirama na nj kao oni koji sijeku drva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I oni æe posjeæi šumu njegovu, govori Gospod, ako joj i nema mjere, jer ih je više nego skakavaca i nema im broja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Posrami se kæi Misirska, predana je u ruke narodu sjevernom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Govori Gospod nad vojskama Bog Izrailjev: evo, ja æu pohoditi ljudstvo u Noji, i Faraona i Misir i bogove njegove i careve njegove, Faraona i sve koji se uzdaju u nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I daæu ih u ruke onima koji traže dušu njihovu, u ruke Navuhodonosoru caru Vavilonskom i u ruke slugama njegovijem; a poslije æe biti naseljen kao prije, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A ti se ne boj, slugo moj Jakove, i ne plaši se, Izrailju, jer evo ja æu te izbaviti iz daljne zemlje i sjeme tvoje iz zemlje ropstva njegova; i Jakov æe se vratiti i poèivaæe, i biæe miran i niko ga neæe plašiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ti se ne boj, slugo moj Jakove, govori Gospod, jer sam ja s tobom; jer æu uèiniti kraj svijem narodima, u koje te prognah, ali tebi neæu uèiniti kraja, nego æu te pokarati s mjerom, a neæu te ostaviti sasvijem bez kara."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/46.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 46
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/47.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 47
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/45.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 45
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

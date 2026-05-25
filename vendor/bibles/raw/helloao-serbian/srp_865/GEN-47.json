@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 47,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I otišav Josif javi Faraonu i reèe: otac moj i braæa moja s ovcama svojim i s govedima svojim i sa svijem što imaju doðoše iz zemlje Hananske, i evo ih u zemlji Gesemskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I uzev nekolicinu braæe svoje, pet ljudi, izvede ih pred Faraona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Faraon reèe braæi njegovoj: kakvu radnju radite? A oni rekoše Faraonu: pastiri su sluge tvoje, i mi i naši stari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Još rekoše Faraonu: doðosmo da živimo kao došljaci u ovoj zemlji, jer nema paše za stoku tvojih sluga, jer je velika glad u zemlji Hananskoj; a sada dopusti da žive u zemlji Gesemskoj sluge tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A Faraon reèe Josifu: otac tvoj i braæa tvoja doðoše k tebi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "U tvojoj je vlasti zemlja Misirska; na najboljem mjestu u ovoj zemlji naseli oca svojega i braæu svoju, neka žive u zemlji Gesemskoj; i ako koje znaš izmeðu njih da su vrijedni ljudi, postavi ih nad mojom stokom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Poslije dovede Josif i Jakova oca svojega i izvede ga pred Faraona, i blagoslovi Jakov Faraona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A Faraon reèe Jakovu: koliko ti ima godina?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Odgovori Jakov Faraonu: meni ima sto i trideset godina, kako sam došljak. Malo je dana života mojega i zli su bili, niti stižu vijeka otaca mojih, koliko su oni živjeli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I blagosloviv Jakov Faraona otide od Faraona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Josif naseli oca svojega i braæu svoju, i dade im dobro u zemlji Misirskoj na najboljem mjestu te zemlje, u zemlji Rameskoj, kao što zapovjedi Faraon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I hranjaše Josif hljebom oca svojega i braæu svoju i sav dom oca svojega do najmanjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ali nesta hljeba u svoj zemlji, jer glad bijaše vrlo velika, i uzmuèi se zemlja Misirska i zemlja Hananska od gladi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I pokupi Josif sve novce što se nalažahu po zemlji Misirskoj i po zemlji Hananskoj za žito koje kupovahu, i slagaše novce u kuæu Faraonovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A kad nesta novaca u zemlji Misirskoj i u zemlji Hananskoj, stadoše svi Misirci dolaziti k Josifu govoreæi: daj nam hljeba; zašto da mremo kod tebe, što novaca nema?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Josif im govoraše: dajte stoku svoju, pa æu vam dati hljeba za stoku, kad je nestalo novaca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I dovoðahu stoku svoju k Josifu, i Josif im davaše hljeba za konje i za ovce i za goveda i za magarce. Tako ih prehrani onu godinu hljebom za svu stoku njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A kad proðe ona godina, stadoše opet dolaziti k njemu druge godine govoreæi: ne možemo tajiti od gospodara svojega, ali je novaca nestalo, i stoka koju imasmo u našega je gospodara; i nije ostalo ništa da donesemo gospodaru svojemu osim tjelesa naših i njiva naših."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Zašto da mremo na tvoje oèi? evo i nas i naših njiva; kupi nas i njive naše za hljeb, da s njivama svojim budemo robovi Faraonu, i daj žita da ostanemo živi i ne pomremo i da zemlja ne opusti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Tako pokupova Josif Faraonu sve njive u Misiru, jer Misirci prodavahu svaki svoju njivu, kad glad uze jako mah meðu njima. I zemlja posta Faraonova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A narod preseli u gradove od jednoga kraja Misira do drugoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Samo ne kupi sveštenièkih njiva; jer Faraon odredi dio sveštenicima, i hranjahu se od svojega dijela, koji im dade Faraon, te ne prodaše svojih njiva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A Josif reèe narodu: evo kupih danas vas i njive vaše Faraonu; evo vam sjemena, pa zasijte njive."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A što bude roda, daæete peto Faraonu, a èetiri dijela neka budu vama za sjeme po njivama i za hranu vama i onijema koji su po kuæama vašim i za hranu djeci vašoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A oni rekoše: ti si nam život saèuvao; neka naðemo milost pred gospodarem svojim da budemo robovi Faraonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I postavi Josif zakon do današnjega dana za njive Misirske da se daje peto Faraonu; samo njive sveštenièke ne postaše Faraonove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A djeca Izrailjeva življahu u zemlji Misirskoj u kraju Gesemskom, i držahu ga, i narodiše se i namnožiše se veoma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I Jakov poživje u zemlji Misirskoj sedamnaest godina; a svega bi Jakovu sto i èetrdeset i sedam godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A kad se približi vrijeme Izrailju da umre, dozva sina svojega Josifa, i reèe mu: ako sam našao milost pred tobom, metni ruku svoju pod stegno moje, i uèini mi milost i vjeru, nemoj me pogrepsti u Misiru;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Nego neka ležim kod otaca svojih; i ti me odnesi iz Misira i pogrebi me u grobu njihovu. A on reèe: uèiniæu kako si kazao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I reèe mu Jakov: zakuni mi se. I on mu se zakle. I pokloni se Izrailj preko uzglavlja od odra svojega."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/47.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 47
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/48.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 48
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/46.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 46
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

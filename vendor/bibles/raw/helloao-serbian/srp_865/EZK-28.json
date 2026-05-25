@@ -1,0 +1,258 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 28,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Opet mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Sine èovjeèji, reci knezu Tirskomu: ovako veli Gospod Gospod: što se ponese srce tvoje, te veliš: ja sam Bog, sjedim na prijestolu Božjem usred mora; a èovjek si a ne Bog, i izjednaèuješ srce svoje sa srcem Božjim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Eto mudriji si od Danila, nikaka tajna nije sakrivena od tebe;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Stekao si blago mudrošæu svojom i razumom svojim, i nasuo si zlata i srebra u riznice svoje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Velièinom mudrosti svoje u trgovini svojoj umnožio si blago svoje, te se ponese srce tvoje blagom tvojim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Zato ovako veli Gospod Gospod: što izjednaèuješ srce svoje sa srcem Božjim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zato, evo, ja æu dovesti na tebe inostrance najljuæe izmeðu naroda, i oni æe istrgnuti maèeve svoje na ljepotu mudrosti tvoje, i ubiæe svjetlost tvoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Svaliæe te u jamu, i umrijeæeš usred mora smræu pobijenijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Hoæeš li pred krvnikom svojim kazati: ja sam Bog, kad si èovjek a ne Bog u ruci onoga koji æe te ubiti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Umrijeæeš smræu neobrezanijeh od ruke tuðinske; jer ja rekoh, govori Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Opet mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Sine èovjeèji, narièi za carem Tirskim, i reci mu: ovako veli Gospod Gospod: ti si peèat savršenstva, pun si mudrosti, i sasvijem si lijep."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Bio si u Edemu vrtu Božjem; pokrivalo te je svako drago kamenje: sarad, topaz, dijamanat, hrisolit, onih, jaspid, safir, karbunkul, smaragad i zlato; onaj dan kad si se rodio naèinjeni ti biše bubnji tvoji i svirale."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ti si bio heruvim, pomazan da zaklanjaš; i ja te postavih; ti bješe na svetoj gori Božijoj, hoðaše posred kamenja ognjenoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Savršen bješe na putovima svojim od dana kad se rodi dokle se ne naðe bezakonje na tebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Od mnoštva trgovine svoje napunio si se iznutra nasilja, i griješio si; zato æu te baciti kao neèistotu s gore Božje, i zatræu te izmeðu kamenja ognjenoga, heruvime zaklanjaèu!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Srce se tvoje ponese ljepotom tvojom, ti pokvari mudrost svoju svjetlošæu svojom; baciæu te na zemlju, pred careve æu te položiti da te gledaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Od mnoštva bezakonja svojega, od nepravde u trgovini svojoj oskvrnio si svetinju svoju; zato æu izvesti oganj ispred tebe, koji æe te proždrijeti, i obratiæu te u pepeo na zemlji pred svjema koji te gledaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Svi koji te poznaju meðu narodima prepašæe se od tebe; biæeš strahota, i neæe te biti dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Opet mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Sine èovjeèji, okreni lice svoje prema Sidonu, i prorokuj protiv njega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I reci: ovako veli Gospod Gospod: evo me na tebe, Sidone, i proslaviæu se usred tebe, i poznaæe se da sam ja Gospod kad izvršim sudove na njemu i posvetim se u njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I poslaæu pomor u nj, i krv na ulice njegove, i pobijeni æe padati usred njega od maèa, koji æe navaliti na njih sa svijeh strana, i poznaæe da sam ja Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I neæe više biti domu Izrailjevu trn koji bode ni žalac koji zadaje bol više od svijeh susjeda njihovijeh, koji ih plijene; i poznaæe da sam ja Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ovako veli Gospod Gospod: kad skupim dom Izrailjev iz naroda meðu koje su rasijani, i posvetim se u njima pred narodima i nasele se u svojoj zemlji koju dadoh sluzi svojemu Jakovu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Tada æe živjeti u njoj bez straha, i gradiæe kuæe, i sadiæe vinograde, i živjeæe bez straha kad izvršim sudove na svjema koji ih plijeniše sa svijeh strana, i poznaæe da sam ja Gospod Bog njihov."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/28.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 28
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/29.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 29
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/27.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 27
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 26
+}

@@ -1,0 +1,188 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "srp_865",
+    "name": "2. Dnevnika",
+    "commonName": "2. Dnevnika",
+    "title": "2. Dnevnika",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "712160a45a7d7fb40ad6e8f55f27c6bc71cf3a3fca70d89afd22674733ec70a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/2CH/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad Rovoam utvrdi carstvo i kad osili, ostavi zakon Gospodnji i sav Izrailj s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A pete godine carovanja Rovoamova doðe Sisak car Misirski na Jerusalim, jer zgriješiše Gospodu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "S tisuæu i dvije stotine kola i sa šezdeset tisuæa konjika, i ne bješe broja narodu koji doðe s njim iz Misira, Luvejima, Suhejima i Husejima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I uze tvrde gradove Judine i doðe do Jerusalima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tada doðe Semaja prorok k Rovoamu i knezovima Judinijem, koji se bijahu skupili u Jerusalim od Sisaka, i reèe im: ovako veli Gospod: vi ostaviste mene, zato i ja ostavljam vas u ruke Sisaku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tada se poniziše knezovi Izrailjevi i car i rekoše: pravedan je Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kad ih vidje Gospod gdje se poniziše, doðe rijeè Gospodnja Semaji govoreæi: poniziše se, neæu ih potrti, nego æu im sada dati izbavljenje, i neæe se izliti jarost moja na Jerusalim preko Sisaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Nego æe mu biti sluge da poznadu šta je meni služiti, šta li služiti carstvima zemaljskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I tako doðe Sisak car Misirski u Jerusalim i uze blago doma Gospodnjega i blago doma careva, sve to uze; uze i štitove zlatne, koje bješe naèinio Solomun;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I na njihovo mjesto naèini car Rovoam štitove od mjedi, i predade ih starješinama nad stražarima koji èuvahu vrata doma careva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I kad iðaše car u dom Gospodnji dolažahu stražari i nošahu ih, a poslije ih opet ostavljahu u riznicu stražarsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Što se dakle ponizi, odvrati se od njega gnjev Gospodnji, i ne zatr ga sasvijem; jer još u Judi bješe dobra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I utvrdi se car Rovoam u Jerusalimu, i carova; jer bijaše Rovoamu èetrdeset i jedna godina kad se zacari, i sedamnaest godina carova u Jerusalimu gradu, koji izabra Gospod izmeðu svijeh plemena Izrailjevijeh da ondje namjesti ime svoje. A materi njegovoj bješe ime Nama, Amonka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ali on èinjaše zlo, jer ne upravi srca svojega da traži Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ali djela Rovoamova prva i pošljednja nijesu li zapisana u knjizi proroka Semaje i vidioca Ida, gdje se kazuju koljena a i ratovi koji bijahu jednako meðu Rovoamom i Jerovoamom?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I poèinu Rovoam kod otaca svojih, i bi pogreben u gradu Davidovu; a na njegovo se mjesto zacari Avija sin njegov."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CH/12.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 12
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CH/13.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 13
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CH/11.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 11
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

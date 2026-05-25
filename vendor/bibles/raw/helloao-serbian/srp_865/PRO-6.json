@@ -1,0 +1,321 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PRO",
+    "translationId": "srp_865",
+    "name": "Poslovice",
+    "commonName": "Poslovice",
+    "title": "Poslovice",
+    "order": 20,
+    "numberOfChapters": 31,
+    "sha256": "f56bab8aa62f0f40c0df66127a72bfe1a5502690bdb1dac94e5767df0572eee0",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PRO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PRO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/PRO/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PRO",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 915
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Sine moj, kad se podjemèiš za prijatelja svojega, i daš ruku svoju tuðincu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Vezao si se rijeèima usta svojih, uhvatio si se rijeèima usta svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Zato uèini tako, sine moj, i oprosti se, jer si dopao u ruke bližnjemu svojemu; idi, pripadni, i navali na bližnjega svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ne daj sna oèima svojima, ni vjeðama svojima drijema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Otmi se kao srna iz ruke lovcu, i kao ptica iz ruke ptièaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Idi k mravu, ljenivèe, gledaj putove njegove, i omudraj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nema voða ni upravitelja ni gospodara;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I opet pripravlja ljeti sebi hranu, zbira uz žetvu piæu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Dokle æeš, ljenivèe, ležati? kad æeš ustati od sna svojega?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Dok malo prospavaš, dok malo prodrijemlješ, dok malo sklopiš ruke da prilegneš,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Utom æe doæi siromaštvo tvoje kao putnik i oskudica tvoja kao oružan èovjek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Èovjek nevaljao i nitkov hodi sa zlijem ustima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Namiguje oèima, govori nogama, pokazuje prstima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Svaka mu je opaèina u srcu, kuje zlo svagda, zameæe svaðu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zato æe ujedanput doæi pogibao njegova, èasom æe se satrti i neæe biti lijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Na ovo šestoro mrzi Gospod, i sedmo je gad duši njegovoj:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Oèi ponosite, jezik lažljiv i ruke koje proljevaju krv pravu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Srce koje kuje zle misli, noge koje brzo trèe na zlo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Lažan svjedok koji govori laž, i ko zameæe svaðu meðu braæom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Èuvaj, sine moj, zapovijest oca svojega, i ne ostavljaj nauke matere svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Priveži ih sebi na srce zasvagda, i spuèi ih sebi oko grla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Kuda god poðeš, vodiæe te; kad zaspiš, èuvaæe te; kad se probudiš, razgovaraæe te;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer je zapovijest žižak, i nauka je vidjelo, i put je životni karanje koje pouèava;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Da te èuvaju od zle žene, od jezika kojim laska žena tuða."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ne zaželi u srcu svom ljepote njezine, i nemoj da te uhvati vjeðama svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jer sa žene kurve spada èovjek na komad hljeba, i žena pusta lovi dragocjenu dušu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Hoæe li ko uzeti ognja u njedra a haljine da mu se ne upale?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Hoæe li ko hoditi po živom ugljevlju a nogu da ne ožeže?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Tako biva onome koji ide k ženi bližnjega svojega; neæe biti bez krivice ko je se god dotakne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ne sramote lupeža koji ukrade da nasiti dušu svoju, buduæi gladan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Nego kad ga uhvate plati samosedmo, da sve imanje doma svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ali ko uèini preljubu sa ženom, bezuman je, dušu svoju gubi ko tako èini;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Muke i ruga dopada, i sramota se njegova ne može izbrisati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Jer je ljubavna sumnja žestoka u muža i ne štedi na dan osvete;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ne mari ni za kakav otkup, i ne prima ako æeš i mnogo darova davati."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PRO/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PRO/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PRO/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

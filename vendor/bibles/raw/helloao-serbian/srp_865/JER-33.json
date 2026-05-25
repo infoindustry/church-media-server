@@ -1,0 +1,258 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 33,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I doðe rijeè Gospodnja Jeremiji drugi put dok još bijaše zatvoren u trijemu od tamnice, govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ovako veli Gospod koji èini to, Gospod koji udešava i potvrðuje to, kojemu je ime Gospod:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Zovi me, i odazvaæu ti se, i kazaæu ti velike i tajne stvari, za koje ne znaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer ovako veli Gospod Bog Izrailjev za domove ovoga grada i za domove careva Judinijeh koji æe se razvaliti opkopima i maèem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I za one koji doðoše da se biju s Haldejcima, ali æe ih napuniti mrtvijem tjelesima ljudi koje æu pobiti u gnjevu svom i u jarosti svojoj odvrativ lice svoje od toga grada za svu zloæu njihovu:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Evo, ja æu ga iscijeliti i zdravlje mu dati, iscijeliæu ih i pokazaæu im obilje mira, postojanoga mira."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer æu povratiti roblje Judino i roblje Izrailjevo, i sazidaæu ih kao prije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I oèistiæu ih od svakoga bezakonja njihova kojim mi sagriješiše, i oprostiæu im sva bezakonja njihova, kojima mi sagriješiše i kojima se odmetnuše od mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I biæe mi milo ime i hvala i slava u svijeh naroda na zemlji koji æe èuti za sve dobro što æu im uèiniti, i uplašiæe se i drktaæe radi svega dobra i radi svega mira što æu im ja dati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ovako veli Gospod: na ovom mjestu, za koje vi velite da je pusto i nema u njemu ni èovjeka ni živinèeta, u gradovima Judinijem i po ulicama Jerusalimskim opustjelim da nema èovjeka ni stanovnika ni živinèeta, opet æe se èuti"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Glas radostan i glas veseo, glas ženikov i glas nevjestin, glas onijeh koji æe govoriti: slavite Gospoda nad vojskama, jer je dobar Gospod, jer je dovijeka milost njegova; koji æe prinositi prinose zahvalne u domu Gospodnjem; jer æu vratiti roblje ove zemlje kao što je bilo prije, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ovako veli Gospod nad vojskama: na ovom mjestu pustom, gdje nema èovjeka ni živinèeta, i u svijem gradovima njegovijem opet æe biti torovi pastirski da poèivaju stada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "U gradovima po gorama, u gradovima po ravnici i u gradovima južnijem i u zemlji Venijaminovoj i oko Jerusalima i po gradovima Judinijem opet æe prolaziti stada ispod ruku brojaèevijeh, veli Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Evo, idu dani, govori Gospod, kad æu izvršiti ovu dobru rijeè koju rekoh za dom Izrailjev i za dom Judin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "U te dane i u to vrijeme uèiniæu da proklija Davidu klica prava, koja æe èiniti sud i pravdu na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "U te dane spašæe se Juda, i Jerusalim æe stajati bez straha, i zvaæe se: Gospod pravda naša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer ovako veli Gospod: neæe nestati Davidu èovjeka koji bi sjedio na prijestolu doma Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ni sveštenicima Levitima neæe nestati preda mnom èovjeka koji bi prinosio žrtvu paljenicu i palio dar i klao žrtvu dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Potom doðe rijeè Gospodnja Jeremiji govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ovako veli Gospod: ako možete ukinuti zavjet moj za dan i zavjet moj za noæ da ne bude dana ni noæi na vrijeme,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Onda æe se ukinuti i moj zavjet s Davidom slugom mojim, da nema sina koji bi carovao na prijestolu njegovu, i s Levitima sveštenicima slugama mojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Kao što se ne može izbrojiti vojska nebeska ni izmjeriti pijesak morski, tako æu umnožiti sjeme Davida sluge svojega i Levita sluga svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Opet doðe rijeè Gospodnja Jeremiji govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Nijesi li vidio što reèe taj narod govoreæi: dvije porodice, koje bješe izabrao Gospod, odbaci ih? I ruže moj narod kao da veæ nije narod pred njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ovako veli Gospod: ako nijesam postavio zavjeta svojega za dan i za noæ i uredbe nebesima i zemlji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Onda æu i sjeme Jakovljevo i Davida sluge svojega odbaciti da ne uzimam od sjemena njegova onijeh koji æe vladati sjemenom Avramovijem, Isakovijem i Jakovljevijem; jer æu povratiti roblje njihovo i smilovaæu se na njih."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/33.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 33
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/34.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 34
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/32.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 32
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 26
+}

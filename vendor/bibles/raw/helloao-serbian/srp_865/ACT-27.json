@@ -1,0 +1,384 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 27,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I kao što bi odreðeno da idemo u Talijansku, predaše i Pavla i druge neke sužnje kapetanu, po imenu Juliju, od æesareve èete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A kad uðosmo u laðu Adramitsku da plovimo u Azijska mjesta, otiskosmo se; i s nama bješe Aristarh Maæedonac iz Soluna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I drugi dan doðosmo u Sidon. I Julije držaše Pavla lijepo, i dopusti mu da odlazi k svojijem prijateljima i da ga poslužuju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I odande odvezavši se doplovismo u Kipar, jer vjetrovi bijahu protivni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I preplovivši puèinu Kilikijsku i Pamfilijsku doðosmo u Miru Likijsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I ondje našavši kapetan laðu Aleksandrijsku koja plovi u Talijansku, metnu nas u nju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I plovivši mnogo dana sporo, i jedva došavši prema Knidu, jer nam vjetar ne dadijaše, doplovismo pod Krit kod Salmone."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I jedva se vozeæi pored kraja, doðosmo na jedno mjesto koje se zove Dobra Pristaništa, kod kojega blizu bješe grad Laseja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A pošto proðe mnogo vremena, i veæ plovljenje ne bijaše bez straha, jer i post veæ bješe prošao, svjetovaše Pavle"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Govoreæi im: ljudi! vidim da æe plovljenje biti s mukom i velikom štetom ne samo tovara i laðe nego i duša našijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ali kapetan posluša veæma kormanoša i gospodara od laðe negoli Pavlove rijeèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A ne buduæi pristanište zgodno za zimovnik, svjetovahu mnogi da se odvezu odande, ne bi li kako mogli doæi do Finika, i ondje da zimuju u pristaništu Kritskom, koje gleda k jugu i k zapadu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I kad dunu jug, mišljahu da im se volja ispuni, i podignuvši jedra plovljahu pokraj Krita."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ali ne zadugo potom dunu nasuprot njemu buran vjetar koji se zove Evroklidon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A kad se laða ote, i ne mogaše se vjetru protiviti, predadosmo je valovima i nošahu nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A kad proðosmo mimo jedno ostrvo koje se zove Klauda, jedva mogosmo udržati èamac,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Koji izvukavši, svakojako pomagahu, te ga privezasmo odozdo za laðu; a bojeæi se da ne udari na prud, spustismo jedra, i tako se plavljasmo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A kad nam veoma dosaðivaše bura sjutradan izbacivahu tovare."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I u treæi dan svojima rukama izbacismo alat laðarski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A kad se ni sunce ni zvijezde za mnogo dana ne pokazaše, i bura ne mala navalila, bijaše propao sav nad da æemo se izbaviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I kad se zadugo nije jelo, onda Pavle stavši preda njih reèe: trebaše dakle, o ljudi! poslušati mene, i ne otiskivati se od Krita, i ne imati ove muke i štete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I evo sad vas molim da budete dobre volje: jer nijedna duša od vas neæe propasti osim laðe;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer u ovu noæ stade preda me anðeo Boga kojega sam ja i kome služim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Govoreæi: ne boj se, Pavle! valja ti doæi pred æesara; i evo ti darova Bog sve koji se voze s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Zato ne bojte se, ljudi; jer vjerujem Bogu da æe tako biti kao što mi bi reèeno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ali valja nam doæi na jedno ostrvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A kad bi èetrnaesta noæ, i mi se u ponoæi plavljasmo po Adrijanskoj puèini, pomisliše laðari da se približuju k nekakvoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I izmjerivši dubinu naðoše dvadeset hvati; i prošavši malo opet izmjeriše, i naðoše petnaest hvati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Onda bojeæi se da kako ne udare na prudovita mjesta baciše sa stražnjega kraja laðe èetiri lengera, pa se moljasmo Bogu da svane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A kad laðari gledahu da pobjegnu iz laðe, i spustiše èamac u more izgovarajuæi se kao da hoæe s prednjega kraja da spuste lengere,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Reèe Pavle kapetanu i vojnicima: ako ovi ne ostanu u laði, vi ne možete živi ostati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Tada vojnici odrezaše uža na èamcu i pustiše ga te pade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A kad šæaše da svane, moljaše Pavle sve da jedu, govoreæi: èetrnaesti je dan danas kako èekate i ne jeduæi živite ništa ne okusivši."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Zato vas molim da jedete: jer je to za vaše zdravlje. A ni jednome od vas dlaka s glave neæe otpasti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I rekavši ovo uze hljeb, i dade hvalu Bogu pred svima, i prelomivši stade jesti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Onda se svi razveselivši i oni jedoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A u laði bijaše nas duša svega dvjesta i sedamdeset i šest."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I nasitivši se jela, oblakšaše laðu izbacivši pšenicu u more."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A kad bi dan ne poznavahu zemlje; nego ugledaše nekakav zaliv s pijeskom, na koji se dogovoriše, ako bude moguæe, da izvuku laðu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I podignuvši lengere vožahu se po moru, i odriješivši uža na krmama, i raširivši malo jedro prema vjetriæu koji duhaše, vožasmo se kraju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A kad doðosmo kao na jedan jezik, gdje se more kao razdjeljuje, nasadi se laða; i prednji kraj, koji se nasadi, osta tvrd da se ne može pomaknuti, a krma se razbijaše od sile valova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A vojnici se dogovoriše da pobiju sužnje, da koji ne ispliva i ne uteèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Ali kapetan želeæi saèuvati Pavla zabrani njihov dogovor, i zapovjedi onima koji znadu plivati da iskoèe najprije, i da iziðu na zemlju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "A ostali jedni na daskama a jedni na èemu od laðe. I tako iziðoše svi živi na zemlju."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/27.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 27
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/28.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 28
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/26.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 26
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 44
+}

@@ -1,0 +1,139 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ZEC",
+    "translationId": "srp_865",
+    "name": "Zaharija",
+    "commonName": "Zaharija",
+    "title": "Zaharija",
+    "order": 38,
+    "numberOfChapters": 14,
+    "sha256": "8d31bf129645529bbf86e696983cf67d27bb2c635d0ea09244c13074734b3eef",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ZEC/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ZEC",
+      "chapter": 1
+    },
+    "lastChapterNumber": 14,
+    "lastChapterApiLink": "/api/srp_865/ZEC/14.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ZEC",
+      "chapter": 14
+    },
+    "totalNumberOfVerses": 211
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U taj æe dan biti otvoren izvor domu Davidovu i stanovnicima Jerusalimskim za grijeh i za neèistotu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I u taj æu dan, govori Gospod nad vojskama, istrijebiti iz zemlje imena idolima da se više ne spominju, i proroke i neèisti duh ukloniæu iz zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I ako ko još usprorokuje, reæi æe mu otac njegov i mati njegova, koji ga rodiše: neæeš biti živ, jer si govorio laž u ime Gospodnje. I otac æe ga njegov i mati njegova, koji ga rodiše, probosti, što prorokova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I u taj æe se dan stidjeti proroci svaki svoje utvare, kad bi prorokovao, i neæe se ogrtati plaštem od kostrijeti da bi lagali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nego æe svaki reæi: nijesam prorok, ratar sam, jer me èovjek najmi od mladosti moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I ako mu ko reèe: kake su ti to rane na ruku? on æe odgovoriti: dopadoh ih u kuæi prijatelja svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Maèu, ustani na pastira mojega i na èovjeka druga mojega, govori Gospod nad vojskama, udari pastira, i ovce æe se razbjeæi, ali æu okrenuti ruku svoju k malima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I u svoj zemlji, govori Gospod, dva æe se dijela istrijebiti u njoj i poginuti, a treæi æe ostati u njoj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I tu æu treæinu metnuti u oganj, i pretopiæu ih kako se pretapa srebro, i okušaæu ih kako se kuša zlato; oni æe prizvati ime moje, i ja æu im se odazvati i reæi æu: to je moj narod; a oni æe reæi: Gospod je Bog naš."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ZEC/13.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEC",
+    "chapter": 13
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ZEC/14.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEC",
+    "chapter": 14
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ZEC/12.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEC",
+    "chapter": 12
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 9
+}

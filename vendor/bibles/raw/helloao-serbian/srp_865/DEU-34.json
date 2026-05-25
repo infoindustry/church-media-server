@@ -1,0 +1,160 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "srp_865",
+    "name": "Ponovljeni Zakon",
+    "commonName": "Ponovljeni Zakon",
+    "title": "Ponovljeni Zakon",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "b000b6651908c9448c65c662cec1fa45977205b236e0922d505241ab679311df",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DEU/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 1
+    },
+    "lastChapterNumber": 34,
+    "lastChapterApiLink": "/api/srp_865/DEU/34.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 34
+    },
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 34,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada izide Mojsije iz polja Moavskoga na goru Navav, na vrh Fazge, koja je prema Jerihonu; i pokaza mu Gospod svu zemlju od Galada do Dana;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I svu zemlju Neftalimovu, i zemlju Jefremovu i Manasijinu, i svu zemlju Judinu do mora zapadnoga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I južnu stranu, i ravnicu, dolinu pod Jerihonom, mjestom gdje ima mnogo palmovih drveta, do Sigora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I reèe mu Gospod: ovo je zemlja, za koju sam se zakleo Avramu, Isaku i Jakovu govoreæi: sjemenu tvojemu daæu je. Pokazah ti je da je vidiš oèima svojima, ali u nju neæeš uæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I umrije ondje Mojsije sluga Gospodnji u zemlji Moavskoj po rijeèi Gospodnjoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A pogrebe ga Gospod u dolini u zemlji Moavskoj prema Vet-Fegoru; i niko ne dozna za grob njegov do današnjega dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I bješe Mojsiju sto i dvadeset godina kad umrije, i ne bjehu potamnjele oèi njegove niti ga snaga izdala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I plakaše sinovi Izrailjevi za Mojsijem u polju Moavskom trideset dana; i proðoše plaèni dani žalosti za Mojsijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Isus sin Navin bješe pun duha mudrosti, jer Mojsije bješe metnuo na nj ruke svoje. I slušaše ga sinovi Izrailjevi, i tvoriše kao što zapovjedi Gospod preko Mojsija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ali ne usta više prorok u Izrailju kao Mojsije, kojega Gospod pozna licem k licu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "U svijem znacima i èudesima, za koja ga posla Gospod da ih uèini u zemlji Misirskoj na Faraonu i na svijem slugama njegovijem i na svoj zemlji njegovoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I u svijem djelima krjepke ruke i u svijem strahotama velikim, koje uèini Mojsije pred svijem Izrailjem."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DEU/34.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 34
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOS/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DEU/33.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 33
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 12
+}

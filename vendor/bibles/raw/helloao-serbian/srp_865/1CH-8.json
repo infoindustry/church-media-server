@@ -1,0 +1,356 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "srp_865",
+    "name": "1. Dnevnika",
+    "commonName": "1. Dnevnika",
+    "title": "1. Dnevnika",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "8ea0acc08b93472f39af29d769974347b255ab628ab40782b4687010563cbf90",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 29,
+    "lastChapterApiLink": "/api/srp_865/1CH/29.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 29
+    },
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Venijamin rodi Velu prvenca svojega, Asvila drugoga, i Aru treæega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Noja èetvrtoga, i Rafu petoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A sinovi Velini bijahu: Adar i Gira i Avijud,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I Avisuja i Naman i Ahoja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I Gira i Sefuvan i Uram."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A ovi bijahu sinovi Ehudovi, bijahu poglavari domova otaèkih onima koji življahu u Gavaji, te ih preseliše u Manahat:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Naman i Ahija i Gira, on ih preseli; i rodi Uzu i Ahijuda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A Sarajim, pošto ih posla, rodi sinove u zemlji Moavskoj s Usimom i Varom ženama svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Rodi s Odesom ženom svojom Jovava i Siviju i Misu i Malhama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I Jeusa i Sahiju i Mirmu; ti bijahu sinovi njegovi, poglavari domova otaèkih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A s Usimom rodi Avitova i Elfala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I sinovi Elfalovi bjehu: Ever i Misam i Samed; on sazida Onon i Lod i sela njegova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I Verija i Sema, koji bijahu poglavari domova otaèkih onima koji življahu u Ejalonu; oni istjeraše stanovnike Gatske;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Ahijo, Sasak i Jeremot,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I Zevadija i Arad i Ader,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I Mihailo i Jespa i Joha bjehu sinovi Verijini;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A Zavadija i Mesulam i Ezekije i Ever,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I Ismeraj i Jezlija i Jovav bjehu sinovi Elfalovi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A Jakim i Zihrije i Zavdije,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I Elinaj i Ziltaj i Elilo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I Adaja i Veraja i Simrat bjehu sinovi Semini;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A Jesvan i Ever i Elilo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I Avdon i Zihrije i Anan,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I Ananija i Elam i Antonija,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I Jefedija i Fanuilo bjehu sinovi Sasakovi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A Samseraj i Searija i Gotolija,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I Jaresija i Ilija i Zihrije bjehu sinovi Jeroamovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "To bjehu poglavari domova otaèkih po porodicama svojim, i nastavahu u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A u Gavaonu nastavaše otac Gavaonu; a ženi mu bješe ime Maha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A sin prvenac njegov bješe Avdon, pa Sur i Kis i Val i Nadav,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I Gedor i Ahijo i Zaher,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I Miklot, koji rodi Simeju. I oni življahu prema braæi svojoj u Jerusalimu s braæom svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A Nir rodi Kisa; a Kis rodi Saula; a Saul rodi Jonatana i Malhisuja i Avinadava i Esvala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A sin Jonatanov bješe Merival; a Merival rodi Mihu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A Mišini sinovi bjehu: Fiton i Meleh i Tareja i Ahaz."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A Ahaz rodi Joadu; a Joada rodi Alemeta i Azmaveta i Zimrija. A Zimrije rodi Mosu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A Mosa rodi Vineju; a njegov sin bješe Rafa, a njegov sin Eleasa, a njegov sin Asilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A Asilo imaše šest sinova, kojima su imena: Azrikam, Voheruj i Ismailo i Searija, i Ovadija i Anan. Ti svi bjehu sinovi Asilovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A sinovi Iseka brata njegova: Ulam prvenac mu, Jeus drugi, i Elifelet treæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I bijahu sinovi Ulamovi junaci, koji natezahu luk, i imahu mnogo sinova i unuka, sto i pedeset. Svi ti bjehu od sinova Venijaminovijeh."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CH/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CH/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CH/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 40
+}

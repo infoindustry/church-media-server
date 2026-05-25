@@ -1,0 +1,258 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "srp_865",
+    "name": "Ponovljeni Zakon",
+    "commonName": "Ponovljeni Zakon",
+    "title": "Ponovljeni Zakon",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "b000b6651908c9448c65c662cec1fa45977205b236e0922d505241ab679311df",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DEU/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 1
+    },
+    "lastChapterNumber": 34,
+    "lastChapterApiLink": "/api/srp_865/DEU/34.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 34
+    },
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 27,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I zapovjedi Mojsije sa starješinama Izrailjevijem narodu govoreæi: držite sve ove zapovijesti koje vam ja danas zapovijedam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I kad prijeðeš preko Jordana u zemlju koju ti daje Gospod Bog tvoj, podigni sebi kamenje veliko i namaži ga kreèem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I napiši na njemu sve rijeèi ovoga zakona, kad prijeðeš da uðeš u zemlju koju ti daje Gospod Bog tvoj, u zemlju gdje teèe mlijeko i med, kao što ti je kazao Gospod Bog otaca tvojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Kada dakle prijeðeš preko Jordana, podigni to kamenje, za koje ti zapovijedam danas, na gori Evalu, i namaži ga kreèem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I naèini ondje oltar Gospodu Bogu svojemu, oltar od kamenja, ali ga nemoj gvožðem tesati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Od cijela kamenja naèini oltar Gospodu Bogu svojemu, i na njemu prinesi Gospodu Bogu svojemu žrtve paljenice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Prinesi i zahvalne žrtve, i jedi ih ondje, i veseli se pred Gospodom Bogom svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I napiši na tom kamenju sve rijeèi ovoga zakona dobro i razgovijetno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I reèe Mojsije i sveštenici Leviti svemu Izrailju govoreæi: pazi i èuj Izrailju, danas si postao narod Gospoda Boga svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zato slušaj glas Gospoda Boga svojega, i tvori zapovijesti njegove i uredbe njegove, koje ti ja danas zapovijedam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I zapovjedi Mojsije u onaj dan narodu govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ovi neka stanu da blagosiljaju narod na gori Garizinu, kad prijeðete preko Jordana: Simeun, Levije, Juda, Isahar, Josif i Venijamin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A ovi neka stanu da proklinju na gori Evalu: Ruvim, Gad, Asir, Zavulon, Dan i Neftalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I neka progovore Leviti glasovito i reku svjema u Izrailju:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Proklet da je èovjek koji bi naèinio lik rezan ili liven, stvar gadnu pred Gospodom, djelo ruku umjetnièkih, ako bi i na skrivenu mjestu metnuo. A sav narod odgovarajuæi neka reèe: amin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Proklet da je koji bi ružio oca svojega ili mater svoju. A sav narod neka reèe: amin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Proklet da je koji bi pomakao meðu bližnjega svojega. A sav narod neka reèe: amin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Proklet da je koji bi zaveo slijepca s puta. A sav narod neka reèe: amin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Proklet da je koji bi izvrnuo pravicu došljaku, siroti ili udovici. A sav narod neka reèe: amin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Proklet da je koji bi obležao ženu oca svojega, te otkrio skut oca svojega. A sav narod neka reèe: amin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Proklet da je koji bi obležao kakvo god živinèe. A sav narod neka reèe: amin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Proklet da je koji bi obležao sestru svoju, kæer oca svojega ili kæer matere svoje. A sav narod neka reèe: amin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Proklet da je koji bi obležao taštu svoju. A sav narod neka reèe: amin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Proklet da je koji bi ubio bližnjega svojega iz potaje. A sav narod neka reèe: amin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Proklet da je koji bi primio kakav poklon da ubije èovjeka prava. A sav narod neka reèe: amin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Proklet da je koji ne bi ostao na rijeèima ovoga zakona, i tvorio ih. A sav narod neka reèe: amin."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DEU/27.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 27
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DEU/28.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 28
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DEU/26.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 26
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 26
+}

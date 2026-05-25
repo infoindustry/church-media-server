@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "srp_865",
+    "name": "2. Dnevnika",
+    "commonName": "2. Dnevnika",
+    "title": "2. Dnevnika",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "712160a45a7d7fb40ad6e8f55f27c6bc71cf3a3fca70d89afd22674733ec70a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/2CH/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 31,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad se sve ovo svrši, svi sinovi Izrailjevi što se naðoše ondje, zaðoše po gradovima Judinijem, i izlomiše likove i isjekoše lugove, i oboriše visine i oltare po svoj zemlji Judinoj i Venijaminovoj i po zemlji Jefremovoj i Manasijinoj, dokle sve ne svršiše; potom se vratiše svi sinovi Izrailjevi svak na svoje našljedstvo, u svoje gradove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A Jezekija opet uredi redove sveštenièke i Levitske po redovima njihovijem, svakoga po službi njegovoj, sveštenike i Levite, za žrtve paljenice i zahvalne, da služe, i da slave i hvale Gospoda na vratima okola njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I odredi dio carski od blaga svojega za žrtve paljenice, što se prinose jutrom i veèerom i za žrtve paljenice što se prinose u subote i na mladine i na praznike, kako je napisano u zakonu Gospodnjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I zapovjedi narodu, Jerusalimljanima, da daju dio sveštenicima i Levitima, da se jaèe drže zakona Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A èim se to razglasi, stadoše donositi sinovi Izrailjevi silu prvina od žita i od vina i od ulja i od meda i svakoga roda zemaljskoga; i desetka od svega donosiše vrlo mnogo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I sinovi Izrailjevi i Judini koji življahu po gradovima Judinijem, donosiše i oni desetak od goveda i ovaca, i desetak od svetijeh stvari posveæenijeh Gospodu Bogu njihovu, i metaše u gomile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Treæega mjeseca poèeše metati u gomile, a sedmoga mjeseca svršiše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I doðe Jezekija s knezovima, i vidjevši gomile blagosloviše Gospoda i narod njegov Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I Jezekija zapita sveštenike i Levite za gomile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Azarija poglavar sveštenièki od doma Sadokova reèe mu: otkad poèeše donositi ove priloge u dom Gospodnji, jedemo i siti smo i pretjeèe mnogo, jer je Gospod blagoslovio svoj narod, te je preteklo ovo mnoštvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tada zapovjedi Jezekija da se naèine klijeti u domu Gospodnjem; i naèiniše;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I ondje ostavljahu vjerno priloge i desetke i stvari posveæene; i nad tijem bješe poglavar Honanija Levit i Simej brat mu, drugi do njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Jehilo i Azazija i Nahat i Asailo i Jerimot i Jozavad i Elilo i Ismahija i Mat i Venaja bijahu nastojnici pod rukom Honanije i brata mu Simeja po naredbi cara Jezekije i Azarije starješine u domu Božijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Korej sin Jemne Levita, vratar na istoku, bijaše nad onijem što se dragovoljno prinošaše Bogu, da bi razdjeljivao prinos Gospodnji i stvari svete nad svetijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A pod njim bješe Eden i Minijamin i Isus i Semaja i Amarija i Sehanija po gradovima sveštenièkim, ljudi pouzdani, da razdaju braæi svojoj dijelove, velikomu i malomu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Osim muškinja u rodu njihovu od tri godine i više, svakomu koji ulažaše u dom Gospodnji na posao svakidašnji po dužnosti njihovoj u službi njihovoj po redu njihovu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I onima koji biše izbrojeni u rodu sveštenièkom po domovima otaca njihovijeh, i Levitima od dvadeset godina i više po službi njihovoj po redovima njihovijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I porodici njihovoj, svoj djeci njihovoj, ženama njihovijem, sinovima njihovijem i kæerima njihovijem, svemu mnoštvu; jer se vjerno posvetiše svetinji;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I sinovima Aronovijem sveštenicima u podgraðima gradova njihovijeh, po svijem gradovima, ljudi imenovani davahu dijelove svakome muškarcu izmeðu sveštenika i svakomu roda Levitskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I tako uèini Jezekija u svoj zemlji Judinoj; i èinjaše što je dobro i pravo i istinito pred Gospodom Bogom njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I u svakom poslu koji poèe za službu doma Božijega i u zakonu i u zapovijesti tražeæi Boga svojega, truðaše se svijem srcem svojim, i sreæan bijaše."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CH/31.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 31
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CH/32.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 32
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CH/30.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 30
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

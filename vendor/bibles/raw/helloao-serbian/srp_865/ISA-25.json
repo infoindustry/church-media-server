@@ -1,0 +1,160 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 25,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Gospode, ti si Bog moj, uzvišivaæu te, slaviæu ime tvoje, jer si uèinio èudesa; namjere tvoje od starine vjera su i istina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer si od grada naèinio gomilu, i od tvrdoga grada zidine; od grada dvor za strance, dovijeka se neæe sagraditi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Zato æe te slaviti narod silan, grad strašnijeh naroda bojaæe te se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer si bio krjepost ubogome, krjepost siromahu u nevolji njegovoj, utoèište od poplave, zaklon od žege, jer je gnjev nasilnièki kao poplava koja obaljuje zid."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Vrevu inostranaca prekinuo si kao pripeku na suhu mjestu; kao pripeka sjenom od oblaka, tako se pjevanje nasilnika prekide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I Gospod æe nad vojskama uèiniti svijem narodima na ovoj gori gozbu od pretila mesa, gozbu od èista vina, od pretila mesa s moždanima, od vina bez taloga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I pokvariæe na ovoj gori zastiraè kojim su zastrti svi narodi, i pokrivaè kojim su pokriveni svi narodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Uništiæe smrt zauvijek, i utræe Gospod Gospod suze sa svakoga lica, i sramotu naroda svojega ukinuæe sa sve zemlje; jer Gospod reèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I reæi æe se u ono vrijeme: gle, ovo je Bog naš, njega èekasmo, i spašæe nas; ovo je Gospod, njega èekasmo; radovaæemo se i veseliæemo se za spasenje njegovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer æe ruka Gospodnja poèinuti na ovoj gori, a Moav æe se izgaziti na svom mjestu kao što se gazi slama za gnoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I razmahnuæe rukama svojim sred njega, kao što razmahuje plivaè da pliva, i oboriæe oholost njegovu mišicama ruku svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I grad i visoke zidove tvoje sniziæe, oboriæe, baciæe na zemlju u prah."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/25.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 25
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/26.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 26
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/24.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 24
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 12
+}

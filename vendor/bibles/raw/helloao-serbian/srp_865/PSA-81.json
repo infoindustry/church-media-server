@@ -1,0 +1,188 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 81,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Radujte se Bogu, koji nam daje krjepost; poklikujte Bogu Jakovljevu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Podignite pjesme, dajte bubanj, slatke gusle sa psaltirom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Trubite o mijeni u trubu, o uštapu radi praznika našega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer je taki zakon u Izrailja, naredba od Boga Jakovljeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Za svjedoèanstvo postavi Josifu ovo, kad iðaše na zemlju Misirsku. Jezik, kojega ne znah, èuh:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "“Uklonio sam ramena njegova od bremena, ruke njegove oprostiše se kotarica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "U nevolji si me zazvao, i izbavih te, usliših te usred groma, na vodi Merivi iskušah te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Slušaj, narode moj, i zasvjedoèiæu ti, Izrailju, o kad bi me poslušao:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Da ne bude u tebe tuðega Boga, i Bogu stranome nemoj se klanjati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ja sam Gospod, Bog tvoj, koji sam te izveo iz zemlje Misirske; otvori usta svoja, i ja æu ih napuniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ali ne posluša narod moj glasa mojega, Izrailj ne mari za me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I ja ih pustih na volju srca njihova, neka hode po svojim mislima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "O kad bi narod moj slušao mene, i sinovi Izrailjevi hodili putovima mojim!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Brzo bih pokorio neprijatelje njihove, i na protivnike njihove digao bih ruku svoju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Koji mrze na Gospoda, bili bi im pokorni, i dobri dani njihovi bili bi dovijeka;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Najboljom bi pšenicom hranio njih, i medom bih iz kamena sitio ih.”"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/81.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 81
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/82.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 82
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/80.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 80
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

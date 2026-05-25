@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "srp_865",
+    "name": "Brojevi",
+    "commonName": "Brojevi",
+    "title": "Brojevi",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "5dc73b8a174fd63cb58a0932611fd5816a865be2dae8658fc6051a7a529e9415",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NUM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/NUM/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 28,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Zapovjedi sinovima Izrailjevijem, i reci im: prinose moje, hljeb moj, žrtve što mi se sažižu za ugodni miris, pazite da mi prinosite na vrijeme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Reci im dakle: ovo je žrtva ognjena što æete prinositi Gospodu: dva jagnjeta od godine zdrava, svaki dan na žrtvu paljenicu bez prestanka:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jedno jagnje prinesi ujutru, a drugo jagnje prinesi uveèe,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I desetinu efe bijeloga brašna za dar smiješana s èetvrtinom ina èistoga ulja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "To je žrtva paljenica svagdašnja, koja bi prinesena na gori Sinajskoj za miris ugodni, žrtva ognjena Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I naljev njezin da bude èetvrt ina na svako jagnje; u svetinji prinosi naljev dobra piæa Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A drugo jagnje prinesi uveèe; dar kao ujutru i naljev njegov prinesi za žrtvu ognjenu, za ugodni miris Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A u subotu dva jagnjeta od godine zdrava, i dvije desetine bijeloga brašna smiješana s uljem za dar s naljevom njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "To je subotna žrtva paljenica svake subote, osim svagdašnje žrtve paljenice i naljeva njezina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I u poèetak mjeseca svojih prinosite Gospodu žrtvu paljenicu, po dva teleta i jednoga ovna i sedam jaganjaca od godine zdravijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I tri desetine bijeloga brašna pomiješana s uljem za dar na svako tele, i dvije desetine bijeloga brašna pomiješana s uljem za dar na ovna;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I po jednu desetinu bijeloga brašna pomiješana s uljem za dar na svako jagnje; to je žrtva paljenica na ugodni miris, žrtva ognjena Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A naljev njihov da bude vina po ina na tele, treæina ina na ovna, i èetvrt ina na jagnje. To je žrtva paljenica u poèetak mjeseca, svakoga mjeseca u godini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I jarca jednoga za grijeh, osim svagdašnje žrtve paljenice, prinosite Gospodu s naljevom njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A prvoga mjeseca èetrnaesti dan da je pasha Gospodu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A petnaesti dan toga mjeseca praznik: sedam dana jedite prijesne hljebove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Prvi dan neka je sabor sveti; nikakoga posla ropskoga ne radite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nego prinesite Gospodu žrtvu paljenicu, dva teleta i jednoga ovna i sedam jaganjaca od godine, sve da vam je zdravo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A dar uz njih bijeloga brašna pomiješana s uljem tri desetine uza svako tele i dvije desetine uz ovna prinesite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Po jednu desetinu prinesite uza svako jagnje od onijeh sedam jaganjaca;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I jednoga jarca za grijeh, radi oèišæenja vašega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "To prinesite osim jutrenje žrtve paljenice, koja je žrtva svagdašnja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Tako prinosite svaki dan za onijeh sedam dana, da bude jelo, žrtva ognjena na ugodni miris Gospodu, osim svagdašnje žrtve paljenice i njezina naljeva prinosite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I sedmi dan da imate sveti sabor; posla ropskoga nijednoga ne radite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I na dan prvina, kad prinosite nov dar Gospodu poslije svojih nedjelja, da imate sabor sveti, nijednoga posla ropskoga ne radite;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Nego prinesite žrtvu paljenicu za ugodni miris Gospodu, dva teleta, jednoga ovna, sedam jaganjaca od godine;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I dar uz njih: bijeloga brašna pomiješana s uljem po tri desetine uz tele, dvije desetine uz ovna,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Po jednu desetinu uza svako jagnje od onijeh sedam jaganjaca;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Jednoga jarca, radi oèišæenja vašega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Prinesite to, osim svagdašnje žrtve paljenice i dara njezina; a sve neka vam je zdravo s naljevom svojim."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NUM/28.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 28
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NUM/29.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 29
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NUM/27.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 27
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

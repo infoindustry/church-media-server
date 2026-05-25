@@ -1,0 +1,279 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "srp_865",
+    "name": "1. Dnevnika",
+    "commonName": "1. Dnevnika",
+    "title": "1. Dnevnika",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "8ea0acc08b93472f39af29d769974347b255ab628ab40782b4687010563cbf90",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 29,
+    "lastChapterApiLink": "/api/srp_865/1CH/29.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 29
+    },
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I naèini sebi David kuæe u gradu Davidovu, i spremi mjesto za kovèeg Božji, i razape mu šator."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Tada reèe David: ne valja da nosi kovèeg Božji niko osim Levita, jer je njih izabrao Gospod da nose kovèeg Božji i da mu služe dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I skupi David sve sinove Izrailjeve u Jerusalim da prenesu kovèeg Gospodnji na mjesto njegovo, koje mu bješe spremio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Skupi David i sinove Aronove i Levite,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Od sinova Katovijeh: Urila poglavara i braæe njegove sto i dvadeset;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Od sinova Merarijevih: Asaju poglavara i braæe njegove dvjesta i dvadeset;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Od sinova Girsonovijeh: Joila poglavara i braæe njegove sto i trideset;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Od sinova Elisafanovih: Semaju poglavara i braæe njegove dvjesta;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Od sinova Hevronovijeh: Elila poglavara i braæe njegove osamdeset;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Od sinova Ozilovijeh: Aminadava poglavara i braæe njegove sto i dvanaest."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tada dozva David Sadoka i Avijatara sveštenike, i Levite Urila i Asaju i Joila i Samaju i Elila i Aminadava,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I reèe im: vi ste poglavari porodica otaèkih meðu Levitima; osveštajte sebe i braæu svoju, da donesete kovèeg Gospoda Boga Izrailjeva na mjesto koje sam mu spremio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer što preðe ne uèiniste toga, Gospod Bog naš prodrije nas; jer ga ne tražismo kako treba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I osveštaše se sveštenici i Leviti da prenesu kovèeg Gospoda Boga Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I nosiše sinovi Levitski kovèeg Božji kao što je zapovjedio Mojsije po rijeèi Gospodnjoj na ramenima svojim i polugama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I reèe David poglavarima Levitskim da postave izmeðu braæe svoje pjevaèe sa spravama muzièkim, sa psaltirima i guslama i kimvalima, da pjevaju u glas veselo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I postaviše Leviti Emana sina Joilova, i od braæe njegove Asafa sina Varahijina, i od sinova Merarijevih, braæe njihove, Etana sina Kisajina;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I s njima braæu njihovu drugoga reda: Zahariju i Vena i Jazila i Semiramota i Jehila i Unija i Elijava i Venaju i Masiju i Matatiju i Elifela i Mikneju i Ovid-Edoma i Jeila, vratare."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I pjevaèi Eman i Asaf i Etan udarahu u kimvale mjedene;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Zaharija i Ozilo i Semiramot i Jehilo i Unije i Elijav i Masija i Venaja u psaltire visoko,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A Matatija i Elifel i Mikneja i Ovid-Edom i Jeilo i Azazija u gusle nisko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A Henanija poglavar meðu Levitima koji nošahu kovèeg ureðivaše kako æe se nositi, jer bješe vješt."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A Varahija i Elkana bjehu vratari kod kovèega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A Sevanija i Josafat i Natanailo i Amasaj i Zaharija i Venaja i Elijezer, sveštenici, trubljahu u trube pred kovèegom Božjim; a Ovid-Edom i Jehija bjehu vratari kod kovèega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I tako David i starješine Izrailjeve i tisuænici iðahu prateæi kovèeg zavjeta Gospodnjega iz kuæe Ovid-Edomove s veseljem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I kad Bog pomože Levitima koji nošahu kovèeg zavjeta Gospodnjega prinesoše sedam volova i sedam ovnova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I David bijaše ogrnut plaštem od tankoga platna, tako i svi Leviti koji nošahu kovèeg i pjevaèi, i Henanija koji upravljaše nosiocima meðu pjevaèima. I David imaše na sebi opleæak lanen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I tako sav narod Izrailjev praæaše kovèeg zavjeta Gospodnjega klikujuæi i trubeæi u trube i u rogove i udarajuæi u kimvale i u psaltire i u gusle."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A kad kovèeg zavjeta Gospodnjega ulažaše u grad Davidov, Mihala kæi Saulova gledajuæi s prozora vidje cara Davida gdje skaèe i igra, i podrugnu mu se u srcu svom."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CH/15.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 15
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CH/16.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 16
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CH/14.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 14
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

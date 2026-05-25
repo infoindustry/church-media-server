@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Utvara Isaije sina Amosova, koju vidje za Judu i za Jerusalim za vremena Ozije, Joatana, Ahaza i Jezekije, careva Judinijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Èujte, nebesa, i slušaj, zemljo; jer Gospod govori: sinove odgojih i podigoh, a oni se odvrgoše mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Vo poznaje gospodara svojega i magarac jasle gospodara svojega, a Izrailj ne poznaje, narod moj ne razumije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Da grješna naroda! naroda ogrezla u bezakonju! sjemena zlikovaèkoga, sinova pokvarenijeh! ostaviše Gospoda, prezreše sveca Izrailjeva, otstupiše natrag."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Što biste još bili bijeni kad se sve više odmeæete? Sva je glava bolesna i sve srce iznemoglo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Od pete do glave nema ništa zdrava, nego uboj i modrice i rane gnojave, ni iscijeðene ni zavijene ni uljem zablažene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zemlja je vaša pusta, gradovi vaši ognjem popaljeni; vaše njive jedu tuðini na vaše oèi, i pustoš je kao što opustošavaju tuðini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I osta kæi Sionska kao koliba u vinogradu, kao sjenica u gradini od krastavaca, kao grad opkoljen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Da nam Gospod nad vojskama nije ostavio malo ostatka, bili bismo kao Sodom, izjednaèili bismo se s Gomorom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Èujte rijeè Gospodnju, knezovi Sodomski, poslušajte zakon Boga našega, narode Gomorski!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Što æe mi mnoštvo žrtava vaših? veli Gospod. Sit sam žrtava paljenica od ovnova i pretiline od gojene stoke, i ne marim za krv junèiju i jagnjeæu i jareæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Kad dolazite da se pokažete preda mnom, ko ište to od vas, da gazite po mom trijemu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ne prinosite više žrtve zaludne; na kad gadim se; a o mladinama i subotama i o sazivanju skupštine ne mogu podnositi bezakonja i svetkovine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Na mladine vaše i na praznike vaše mrzi duša moja, dosadiše mi, dodija mi podnositi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zato kad širite ruke svoje, zaklanjam oèi svoje od vas; i kad množite molitve, ne slušam; ruke su vaše pune krvi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Umijte se, oèistite se, uklonite zloæu djela svojih ispred oèiju mojih, prestanite zlo èiniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Uèite se dobro èiniti, tražite pravdu, ispravljajte potlaèenoga, dajite pravicu siroti, branite udovicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Tada doðite, veli Gospod, pa æemo se suditi: ako grijesi vaši budu kao skerlet, postaæe bijeli kao snijeg; ako budu crveni kao crvac, postaæe kao vuna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ako hoæete slušati, dobra zemaljska ješæete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ako li neæete, nego budete nepokorni, maè æe vas pojesti, jer usta Gospodnja rekoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Kako posta kurva vjerni grad? Pun bijaše pravice, pravda nastavaše u njemu, a sada krvnici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Srebro tvoje posta troska, vino tvoje pomiješa se s vodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Knezovi su tvoji odmetnici i drugovi lupežima; svaki miluje mito i ide za darovima; siroti ne daju pravice, i parnica udovièka ne dolazi pred njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Zato govori Gospod, Gospod nad vojskama, silni Izrailjev: aha! izdovoljiæu se na protivnicima svojim, i osvetiæu se neprijateljima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I okrenuæu ruku svoju na te, i sažeæi æu troske tvoje da te preèistim, i ukloniæu sve olovo tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I postaviæu ti opet sudije kao prije, i savjetnike kao ispoèetka; tada æeš se zvati grad pravedni, grad vjerni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Sion æe se otkupiti sudom, i pravdom oni koji se u nj vrate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A odmetnici i grješnici svi æe se satrti, i koji ostavljaju Gospoda, izginuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Jer æete se posramiti od gajeva koje željeste, i zastidjeti se od vrtova koje izabraste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Jer æete biti kao hrast kojemu opada lišæe i kao vrt u kom nema vode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I biæe junak kao kuèine i djelo njegovo kao iskra, i oboje æe se zapaliti, i neæe biti nikoga da ugasi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/SNG/8.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "SNG",
+    "chapter": 8
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

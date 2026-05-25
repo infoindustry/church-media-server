@@ -1,0 +1,300 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A ovo su plemena sinova Nojevijeh, Sima, Hama i Jafeta, kojima se rodiše sinovi poslije potopa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Sinovi Jafetovi: Gamer i Magog i Madaj i Javan i Tovel i Meseh i Tiras."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A sinovi Gamerovi: Ashanas i Rifat i Togarma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A sinovi Javanovi: Elisa i Tarsis, Kitim i Dodanim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Od njih se razdijeliše ostrva narodna na zemljama svojim, svako po jeziku svojemu i po porodicama svojim, u narodima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A sinovi Hamovi: Hus i Mesrain, Fud i Hanan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A sinovi Husovi: Sava i Evila i Savata i Regma i Savataka. A sinovi Regmini: Sava i Dadan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Hus rodi i Nevroda; a on prvi bi silan na zemlji;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Bješe dobar lovac pred Gospodom; zato se kaže: dobar lovac pred Gospodom kao Nevrod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A poèetak carstvu njegovu bješe Vavilon i Oreh i Arhad i Halani u zemlji Senaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Iz te zemlje izaðe Asur, i sazida Nineviju i Rovot grad i Halah,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I Dasem izmeðu Ninevije i Halaha; to je grad velik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Mesrain rodi Ludeje i Enemeje i Laveje i Neftaleje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I Patroseje i Hasmeje, odakle izaðoše Filisteji i Gaftoreji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Hanan rodi Sidona, prvenca svojega, i Heta,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I Jevuseja i Amoreja i Gergeseja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I Eveja i Arukeja i Aseneja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I Aradeja i Samareja i Amateja. A poslije se rasijaše plemena Hananejska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I bjehu meðe Hananejske od Sidona iduæi na Gerar pa do Gaze, i iduæi na Sodom i Gomor i Adamu i Sevojim pa do Dasa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "To su sinovi Hamovi po porodicama svojim i po jezicima svojim, u zemljama svojim i u narodima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I Simu rodiše se sinovi, najstarijemu bratu Jafetovu, ocu svijeh sinova Everovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Sinovi Simovi bjehu: Elam i Asur i Arfaksad i Lud i Aram."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A sinovi Aramovi: Uz i Ul i Gater i Mas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A Arfaksad rodi Salu, a Sala rodi Evera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A Everu se rodiše dva sina: jednom bješe ime Falek, jer se u njegovo vrijeme razdijeli zemlja, a bratu njegovu ime Jektan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A Jektan rodi Elmodada i Saleta i Sarmota i Jaraha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I Odora i Evila i Deklu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I Evala i Avimaila i Savu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I Ufira i Evilu i Jovava; ti svi bjehu sinovi Jektanovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I življahu od Mase, kako se ide na Safir do gora istoènijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "To su sinovi Simovi po porodicama svojim i po jezicima svojim, u zemljama svojim i u narodima svojim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "To su porodice sinova Nojevijeh po plemenima svojim, u narodima svojim; i od njih se razdijeliše narodi po zemlji poslije potopa."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/10.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 10
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/11.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 11
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/9.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 9
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 32
+}

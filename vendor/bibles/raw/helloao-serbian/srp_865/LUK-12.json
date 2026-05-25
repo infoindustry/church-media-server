@@ -1,0 +1,489 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "srp_865",
+    "name": "Luki",
+    "commonName": "Luki",
+    "title": "Jevanðelje po Luki",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "71d24bae001865beafd9dc8b76f8e93d8f927bd8e33391ea4aebbf53673c6a27",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LUK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/LUK/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Kad se na njih skupiše hiljade naroda da stadoše gaziti jedan drugoga, onda poèe najprije govoriti uèenicima svojijem: èuvajte se kvasca farisejskoga, koji je licemjerje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer ništa nije sakriveno što se neæe otkriti, ni tajno što se neæe doznati;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer što u mraku rekoste, èuæe se na vidjelu; i što na uho šaptaste u klijetima, propovijedaæe se na krovovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ali vam kažem, prijateljima svojijem: ne bojte se od onijeh koji ubijaju tijelo i potom ne mogu ništa više uèiniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nego æu vam kazati koga da se bojite: bojte se onoga koji ima vlast pošto ubije baciti u pakao; da, kažem vam, onoga se bojte."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ne prodaje li se pet vrabaca za dva dinara? i nijedan od njih nije zaboravljen pred Bogom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A u vas je i kosa na glavi izbrojena. Ne bojte se dakle; vi ste bolji od mnogo vrabaca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Nego vam kažem: koji god prizna mene pred ljudima priznaæe i sin èovjeèij njega pred anðelima Božijim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A koji se odreèe mene pred ljudima njega æe se odreæi pred anðelima Božijim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I svaki koji reèe rijeè na sina èovjeèijega oprostiæe mu se, a koji huli na svetoga Duha neæe mu se oprostiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A kad vas dovedu u zbornice i na sudove i pred poglavare, ne brinite se kako æete ili šta odgovoriti, ili šta æete kazati;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer æe vas sveti Duh nauèiti u onaj èas šta treba reæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Reèe mu pak neki iz naroda: uèitelju! reci bratu mojemu da podijeli sa mnom dostojanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A on mu reèe: èovjeèe! ko je mene postavio sudijom ili kmetom nad vama?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A njima reèe: gledajte i èuvajte se od lakomstva; jer niko ne živi onijem što je suviše bogat."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Kaza im pak prièu govoreæi: u jednoga bogatog èovjeka rodi njiva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I mišljaše u sebi govoreæi: šta æu èiniti? nemam u što sabrati svoje ljetine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I reèe: evo ovo æu èiniti: pokvariæu žitnice svoje i naèiniæu veæe; i ondje æu sabrati sva svoja žita i dobro svoje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I kazaæu duši svojoj: dušo! imaš mnogo imanje na mnogo godina; poèivaj, jedi, pij, veseli se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Bog njemu reèe: bezumnièe! ovu noæ uzeæe dušu tvoju od tebe; a što si pripravio èije æe biti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tako biva onome koji sebi teèe blago a ne bogati se u Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A uèenicima svojijem reèe: zato vam kažem: ne brinite se dušom svojom šta æete jesti; ni tijelom u što æete se obuæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Duša je pretežnija od jela i tijelo od odijela."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Pogledajte gavrane kako ne siju, ni žanju, koji nemaju podruma ni žitnica, i Bog ih hrani: a koliko ste vi pretežniji od ptica?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A ko od vas brinuæi se može primaknuti rastu svojemu lakat jedan?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A kad ni najmanje što ne možete, zašto se brinete za ostalo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Pogledajte ljiljane kako rastu: ne trude se, niti predu; ali ja vam kažem da ni Solomun u svoj slavi svojoj ne obuèe se kao jedan od njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A kad travu po polju, koja danas jest a sjutra se u peæ baca, Bog tako odijeva, akamoli vas, malovjerni!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I vi ne ištite šta æete jesti ili šta æete piti, i ne brinite se;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Jer ovo sve ištu i neznabošci ovoga svijeta; a otac vaš zna da vama treba ovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Nego ištite carstva Božijega, i ovo æe vam se sve dodati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ne boj se, malo stado! jer bi volja vašega oca da vam da carstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Prodajite što imate i dajite milostinju; naèinite sebi torbe koje neæe ovetšati, haznu koja se nikad neæe isprazniti, na nebesima, gdje se lupež ne prikuèuje niti moljac jede."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Jer gdje je vaše blago ondje æe biti i srce vaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Neka budu vaša bedra zapregnuta i svijeæe zapaljene;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I vi kao ljudi koji èekaju gospodara svojega kad se vrati sa svadbe da mu odmah otvore kako doðe i kucne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Blago onijem slugama koje naðe gospodar kad doðe a oni straže. Zaista vam kažem da æe se zapregnuti, i posadiæe ih, i pristupiæe te æe im služiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I ako doðe u drugu stražu, i u treæu stražu doðe, i naðe ih tako, blago onijem slugama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Ali ovo znajte: kad bi znao domaæin u koji æe èas doæi lupež, èuvao bi i ne bi dao potkopati kuæe svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I vi dakle budite gotovi; jer u koji èas ne mislite doæi æe sin èovjeèij."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A Petar mu reèe: Gospode! govoriš li nama ovu prièu ili svima?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A Gospod reèe: ko je dakle taj vjerni i mudri pristav kojega postavi gospodar nad èeljadi svojom da im daje hranu na obrok?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Blago tome sluzi kojega došavši gospodar njegov naðe da izvršuje tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Zaista vam kažem: nad svijem svojijem imanjem postaviæe ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Ako li reèe sluga u srcu svojemu: neæe moj gospodar još zadugo doæi; i stane biti sluge i sluškinje, i jesti i piti, i opijati se;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Doæi æe gospodar toga sluge u dan kad se ne nada, i u èas kad ne misli, i rasjeæi æe ga, i dijel njegov metnuæe s nevjernima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "A onaj sluga koji zna volju gospodara svojega, i nije se pripravio, niti uèinio po volji njegovoj, biæe vrlo bijen;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "A koji ne zna pa zasluži boj, biæe malo bijen. Kome je god mnogo dano mnogo æe se iskati od njega; a kome predaše najviše najviše æe iskati od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Ja sam došao da bacim oganj na zemlju; i kako bi mi se htjelo da se veæ zapalio!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Ali se meni valja krstiti krštenjem, i kako mi je teško dok se ne svrši!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Mislite li da sam ja došao da dam mir na zemlju? Ne, kažem vam, nego razdor."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Jer æe otsele pet u jednoj kuæi biti razdijeljeni, ustaæe tri na dva, i dva na tri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Ustaæe otac na sina i sin na oca; mati na kæer i kæi na mater; svekrva na snahu svoju i snaha na svekrvu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "A narodu govoraše: kad vidite oblak gdje se diže od zapada odmah kažete: biæe dažd; i biva tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "I kad vidite jug gdje duva kažete: biæe vruæina; i biva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "Licemjeri! lice neba i zemlje umijete poznavati, a vremena ovoga kako ne poznajete?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "Zašto pak i sami od sebe ne sudite pravedno?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "Jer kad ideš sa svojijem suparnikom knezu, gledaj ne bi li se na putu s njim poravnao da te ne pritegne sudiji, i sudija da te ne preda sluzi, i sluga da te ne baci u tamnicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 59,
+        "content": [
+          "Kažem ti: neæeš odande iziæi dok ne daš i pošljednjega dinara."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LUK/12.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 12
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LUK/13.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 13
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LUK/11.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 11
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 59
+}

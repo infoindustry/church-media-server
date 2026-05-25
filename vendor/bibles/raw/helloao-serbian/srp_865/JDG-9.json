@@ -1,0 +1,475 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JDG",
+    "translationId": "srp_865",
+    "name": "Sudije",
+    "commonName": "Sudije",
+    "title": "Sudije",
+    "order": 7,
+    "numberOfChapters": 21,
+    "sha256": "b90b96d9ad07648b61c3175adb672cbdc04a1a389be225dc4596659462d0e4db",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JDG/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JDG/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 618
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I Avimeleh sin Jerovalov otide u Sihem k braæi matere svoje i reèe njima i svemu rodu otaèkoga doma matere svoje govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kažite svijem Sihemljanima: šta vam je bolje, da su vam gospodari sedamdeset ljudi, svi sinovi Jerovalovi, ili da vam je gospodar jedan èovjek? I opominjite se da sam ja kost vaša i tijelo vaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Tada rekoše braæa matere njegove za nj svijem Sihemljanima sve te rijeèi, i srce njihovo privi se k Avimelehu, jer rekoše: naš je brat."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I dadoše mu sedamdeset sikala srebra iz doma Val-Veritova, za koje najmi Avimeleh ljudi praznova i skitnica, te iðahu za njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I doðe u kuæu oca svojega u Ofru, i pobi braæu svoju, sinove Jerovalove, sedamdeset ljudi, na jednom kamenu; ali osta Jotam najmlaði sin Jerovalov, jer se sakri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tada se skupiše svi Sihemljani i sav dom Milov, i otidoše i postaviše Avimeleha carem kod hrasta koji stoji u Sihemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kad to javiše Jotamu, otide i stade navrh gore Garizina, i podigavši glas svoj povika i reèe im: èujte me, Sihemljani, tako vas Bog èuo!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Išla drveta da pomažu sebi cara, pa rekoše maslini: budi nam car."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A maslina im reèe: zar ja da ostavim pretilinu svoju, kojom se èast èini Bogu i ljudima, pa da idem da tumaram za druga drveta?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Potom rekoše drveta smokvi: hodi ti, budi nam car."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A smokva im reèe: zar ja da ostavim slast svoju i krasni rod svoj, pa da idem da tumaram za druga drveta?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada rekoše drveta vinovoj lozi: hodi ti, budi nam car."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A loza im reèe: zar ja da ostavim vino svoje, koje veseli Boga i ljude, pa da idem da tumaram za druga drveta?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Tada sva drveta rekoše trnu: hodi ti, budi nam car."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A trn odgovori drvetima: ako doista hoæete mene da pomažete sebi za cara, hodite sklonite se u hlad moj; ako li neæete, neka izide oganj iz trna i spali kedre Livanske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tako sada, jeste li pravo i pošteno radili postavivši Avimeleha carem? i jeste li dobro uèinili Jerovalu i domu njegovu? i jeste li mu uèinili kako vas je zadužio?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer je otac moj vojevao za vas i nije mario za život svoj, i izbavio vas je iz ruku Madijanskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A vi danas ustaste na dom oca mojega, i pobiste sinove njegove, sedamdeset ljudi, na jednom kamenu, i postaviste carem Avimeleha, sina sluškinje njegove, nad Sihemljanima zato što je brat vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ako ste pravo i pošteno radili danas prema Jerovalu i njegovu domu, veselite se s Avimeleha i on neka se veseli s vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ako li nijeste, neka izide oganj od Avimeleha i spali Sihemljane i dom Milov, i neka izide oganj od Sihemljana i od doma Milova i spali Avimeleha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tada pobježe Jotam, i pobjegav doðe u Vir, i ondje osta bojeæi se Avimeleha brata svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I vlada Avimeleh Izrailjem tri godine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ali Bog pusti zlu volju meðu Avimeleha i meðu Sihemljane; i Sihemljani iznevjeriše Avimeleha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Da bi se osvetila nepravda uèinjena na sedamdeset sinova Jerovalovijeh, i krv njihova da bi došla na Avimeleha brata njihova, koji ih ubi, i na Sihemljane, koji ukrijepiše ruku njegovu da ubije braæu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I Sihemljani pometaše mu zasjede po vrhovima gorskim, pa plijenjahu sve koji prolažahu mimo njih onijem putem. I bi javljeno Avimelehu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Potom doðe Gal sin Evedov sa svojom braæom, i uljezoše u Sihem, i Sihemljani se pouzdaše u nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I izašavši u polje braše vinograde svoje i gaziše grožðe, i veseliše se; i uðoše u kuæu boga svojega, i jedoše i piše, i psovaše Avimeleha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I Gal sin Evedov reèe: ko je Avimeleh i šta je Sihem, da mu služimo? Nije li sin Jerovalov? a Zevul nije li njegov pristav? Služite sinovima Emora oca Sihemova. A što bismo služili tomu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "O kad bi taj narod bio pod mojom rukom, da smetnem Avimeleha! I reèe Avimelehu: prikupi vojsku svoju, i izidi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A kad èu Zevul, upravitelj gradski, rijeèi Gala sina Evedova, razgnjevi se vrlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I posla tajno poslanike k Avimelehu i poruèi mu: evo Gal sin Evedov i braæa mu doðoše u Sihem, i evo pobuniše grad na te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Nego ustani noæu ti i narod što je s tobom, i zasjedi u polju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A ujutru kad sunce ograne, digni se i udari na grad; i evo on i narod koji je s njim izaæi æe preda te, pa uèini s njim što ti može ruka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I Avimeleh usta noæu i sav narod što bješe s njim; i zasjedoše Sihemu u èetiri èete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A Gal sin Evedov izide i stade pred vratima gradskim; a Avimeleh i narod što bješe s njim izide iz zasjede."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A Gal vidjev narod reèe Zevulu: eno narod slazi svrh gore. A Zevul mu odgovori: od sjena gorskoga èine ti se ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Opet progovori Gal i reèe: eno narod slazi s visa, i èeta jedna ide putem k šumi Meonenimskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A Zevul mu reèe: gdje su ti sada usta, kojima si govorio: ko je Avimeleh da mu služimo? Nije li to onaj narod koji si prezirao? Izidi sada, i bij se s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I izide Gal pred Sihemljanima, i pobi se s Avimelehom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Ali Avimeleh ga potjera, i on pobježe od njega; i padoše mnogi pobijeni do samijeh vrata gradskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I Avimeleh osta u Arumi; a Zevul istjera Gala i braæu njegovu, te ne mogahu sjedeti u Sihemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A sjutradan izide narod u polje, i bi javljeno Avimelehu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "A on uze narod svoj i razdijeli ga u tri èete, i namjesti ih u zasjedu u polju; i kad vidje gdje narod izlazi iz grada, skoèi na njih i pobi ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Jer Avimeleh i èeta koja bijaše s njim udariše i stadoše kod vrata gradskih; a druge dvije èete udariše na sve one koji bijahu u polju, i pobiše ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "I Avimeleh bijaše grad vas onaj dan, i uze ga, i pobi narod koji bješe u njemu, i raskopa grad, i posija so po njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "A kad to èuše koji bijahu u kuli Sihemskoj, uðoše u kulu kuæe boga Verita."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "I bi javljeno Avimelehu da su se ondje skupili svi koji bijahu u kuli Sihemskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Tada Avimeleh izide na goru Salmon, on i sav narod što bješe s njim; i uzev Avimeleh sjekiru u ruku otsijeèe granu od drveta i podiže je i metnu je na rame, i reèe narodu koji bijaše s njim: što vidjeste da sam ja uèinio, brzo èinite kao ja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "I svaki iz naroda otsijeèe sebi granu, i poðoše za Avimelehom i pometaše grane oko kule, i zapališe njima grad; i izgiboše svi koji bijahu u kuli Sihemskoj, oko tisuæu ljudi i žena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Potom otide Avimeleh na Teves, i stade u oko kod Tevesa, i uze ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "A bijaše tvrda kula usred grada, i u nju pobjegoše svi ljudi i žene i svi graðani, i zatvorivši se popeše se na krov od kule."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "A Avimeleh doðe do kule i udari na nju, i doðe do vrata od kule da je zapali ognjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Ali jedna žena baci komad žrvnja na glavu Avimelehu i razbi mu glavu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "A on brže viknu momka koji mu nošaše oružje, i reèe mu: izvadi maè svoj i ubij me, da ne reku za me: žena ga je ubila. I probode ga sluga njegov, te umrije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "A kad vidješe Izrailjci gdje pogibe Avimeleh, otidoše svaki u svoje mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "Tako plati Bog Avimelehu za zlo koje je uèinio ocu svojemu ubivši sedamdeset braæe svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "I sve zlo ljudi Sihemljana povrati Bog na njihove glave, i steèe im se kletva Jotama sina Jerovalova."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JDG/9.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 9
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JDG/10.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 10
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JDG/8.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 8
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 57
+}

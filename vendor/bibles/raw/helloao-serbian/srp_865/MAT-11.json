@@ -1,0 +1,286 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "srp_865",
+    "name": "Mateju",
+    "commonName": "Mateju",
+    "title": "Jevanðelje po Mateju",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "2282cb47d4ecce5bfb50178a05f4b87b8f4e94d2e2954aa2bd38500539980051",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/MAT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I kad svrši Isus zapovijesti dvanaestorici uèenika svojijeh, otide odande dalje da uèi i da propovijeda po gradovima njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A Jovan èuvši u tamnici djela Hristova posla dvojicu uèenika svojijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reèe mu: jesi li ti onaj što æe doæi, ili drugoga da èekamo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A Isus odgovarajuæi reèe im: idite i kažite Jovanu što èujete i vidite:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Slijepi progledaju i hromi hode, gubavi èiste se i gluhi èuju, mrtvi ustaju i siromašnima propovijeda se jevanðelje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I blago onome koji se ne sablazni o mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kad ovi otidoše, poèe Isus ljudima govoriti o Jovanu: šta ste izišli u pustinji da vidite? Trsku, koju ljulja vjetar?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ili šta ste izišli da vidite? Èovjeka u meke haljine obuèena? Eto, koji meke haljine nose po carskijem su dvorovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ili šta ste izišli da vidite? Proroka? Da, ja vam kažem, i više od proroka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer je ovo onaj za koga je pisano: eto, ja šaljem anðela svojega pred licem tvojijem, koji æe pripraviti put tvoj pred tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zaista vam kažem: nijedan izmeðu roðenijeh od žena nije izišao veæi od Jovana krstitelja; a najmanji u carstvu nebeskome veæi je od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A od vremena Jovana krstitelja dosad carstvo nebesko na silu se uzima, i siledžije dobijaju ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer su svi proroci i zakon proricali do Jovana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I ako hoæete vjerovati, on je Ilija što æe doæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Koji ima uši da èuje neka èuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ali kakav æu kazati da je ovaj rod? On je kao djeca koja sjede po ulicama i vièu svojijem drugovima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I govore: svirasmo vam, i ne igraste; žalismo vam se, i ne jaukaste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer Jovan doðe, koji ni jede ni pije, a oni kažu: ðavo je u njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Doðe sin èovjeèij, koji i jede i pije, a oni kažu: gle èovjeka izjelice i pijanice, druga carinicima i grješnicima. I opravdaše premudrost djeca njezina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Tada poèe Isus vikati na gradove u kojima su se dogodila najveæa èudesa njegova, pa se nijesu pokajali:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Teško tebi, Horazine! Teško tebi, Vitsaido! Jer da su u Tiru i Sidonu bila èudesa koja su bila u vama, davno bi se u vreæi i pepelu pokajali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ali vam kažem: Tiru i Sidonu lakše æe biti u dan strašnoga suda nego vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I ti, Kapernaume! koji si se do nebesa podigao do pakla æeš propasti: jer da su u Sodomu bila èudesa što su u tebi bila, ostao bi do današnjeg dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ali vam kažem da æe zemlji Sodomskoj lakše biti u dan strašnoga suda nego tebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "U to vrijeme odgovori Isus, i reèe: hvalim te, oèe, Gospode neba i zemlje, što si ovo sakrio od premudrijeh i razumnijeh a kazao si prostima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Da, oèe, jer je tako bila volja tvoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Sve je meni predao otac moj, i niko ne zna sina do otac; niti oca ko zna do sin i ako kome sin hoæe kazati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Hodite k meni svi koji ste umorni i natovareni, i ja æu vas odmoriti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Uzmite jaram moj na sebe, i nauèite se od mene; jer sam ja krotak i smjeran u srcu, i naæi æete pokoj dušama svojijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Jer je jaram moj blag, i breme je moje lako."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAT/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAT/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 30
+}

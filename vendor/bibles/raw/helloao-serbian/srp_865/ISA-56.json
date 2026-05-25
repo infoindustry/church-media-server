@@ -1,0 +1,160 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 56,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ovako veli Gospod: pazite na sud, i tvorite pravdu, jer æe skoro doæi spasenje moje, i pravda æe se moja objaviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Blago èovjeku koji tako èini, i sinu èovjeèijemu koji se drži toga èuvajuæi subotu da je ne oskvrni, èuvajuæi ruku svoju da ne uèini zla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I neka ne govori tuðin koji pristane uz Gospoda: Gospod me je odluèio od svoga naroda; i neka ne govori uškopljenik: gle, ja sam suho drvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer ovako veli Gospod za uškopljenike: koji drže subote moje i izbiraju što je meni ugodno, i drže zavjet moj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Njima æu dati u domu svom i meðu zidovima svojim mjesto i ime bolje nego sinova i kæeri, ime vjeèno daæu svakome od njih, koje se neæe zatrti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A tuðine koji pristanu uz Gospoda da mu služe i da ljube ime Gospodnje, da mu budu sluge, koji god drže subotu da je ne oskvrne i drže zavjet moj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Njih æu dovesti na svetu goru svoju i razveseliæu ih u domu svojem molitvenom; žrtve njihove paljenice i druge žrtve biæe ugodne na oltaru mom, jer æe se dom moj zvati dom molitve svijem narodima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Gospod Gospod govori, koji sabira prognanike Izrailjeve: još æu mu sabrati osim onijeh koji su sabrani."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Sve zvijeri poljske, hodite da jedete, sve zvijeri šumske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Svi su mu stražari slijepi, ništa ne znaju, svi su psi nijemi, ne mogu lajati, sanljivi su, leže, mio im je drijemež."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I psi su proždrljivi, koji ne znaju za sitost; i pastiri su koji ne znaju za razum, svaki se okreæe svojim putem, svaki za svojom korišæu sa svoga kraja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Hodite, uzeæu vina i napiæemo se silovita piæa, i sjutra æe biti kao danas, i još mnogo više."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/56.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 56
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/57.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 57
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/55.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 55
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 12
+}

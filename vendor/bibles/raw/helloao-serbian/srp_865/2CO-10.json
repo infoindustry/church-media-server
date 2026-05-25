@@ -1,0 +1,202 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CO",
+    "translationId": "srp_865",
+    "name": "2 Korinæanima",
+    "commonName": "2 Korinæanima",
+    "title": "2. Korinæanima Poslanica",
+    "order": 47,
+    "numberOfChapters": 13,
+    "sha256": "20ab07753b2c73bb7bdc0574326c0b6fe24b2223ed2a3ffc8ec06c7f3f7c18a8",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 13,
+    "lastChapterApiLink": "/api/srp_865/2CO/13.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CO",
+      "chapter": 13
+    },
+    "totalNumberOfVerses": 255
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A sam ja Pavle molim vas krotosti radi i tišine Hristove, koji sam pred vama ponižen prema vama, a kad nijesam kod vas, slobodan sam prema vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Molim pak da mi ne bude trijebe kad budem kod vas, onako slobodan biti kao što mislim da smijem protiv nekijeh koji misle za nas da po tijelu živimo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer ako i živimo u tijelu, ne borimo se po tijelu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer oružje našega vojevanja nije tjelesno, nego silno od Boga na raskopavanje gradova, da kvarimo pomisli"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I svaku visinu koja se podiže na poznanje Božije, i robimo svaki razum za pokornost Hristu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I u pripravnosti imamo osvetu za svaku nepokornost, kad se izvrši vaša pokornost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Gledate li na ono što vam je pred oèima? Ako se ko uzda da je Hristov neka misli opet u sebi da kako je on Hristov tako smo i mi Hristovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer ako se što i više pohvalim vlašæu našom koju nam dade Gospod na popravljanje, a ne na kvarenje vaše, neæu se postidjeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ali da se ne pokažem kao da vas plašim poslanicama;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer su poslanice, veli, teške i jake, a kad je tijelom pred nama, slab je, i rijeè njegova ne valja ništa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ovo neka pomisli takovi da kaki smo u rijeèi po poslanicama kad nijesmo kod vas, taki smo i u djelu kad smo tu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer ne smijemo sebe miješati ili se porediti s drugima koji hvale sami sebe; ali kad sami po sebi sebe mjere i porede sami sebe sa sobom, ne razumijevaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A mi se neæemo hvaliti preko mjere, nego po mjeri pravila kojega nam Bog mjeru razdijeli da dopremo i do vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer se mi daleko ne prostiremo, kao da ne dosežemo do vas; jer doprijesmo i do vas s jevanðeljem Hristovijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ne hvaleæi se preko mjere u tuðijem poslovima, imajuæi pak nad kad uzraste vjera vaša da æemo se u vama velièati po pravilu svojemu izobilno,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Da i u daljnijem stranama od vas propovjedimo jevanðelje, i da se ne pohvalimo onijem što je po tuðemu pravilu ureðeno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A koji se hvali, Gospodom neka se hvali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer onaj nije valjan koji se sam hvali, nego kojega Gospod hvali."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CO/10.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CO",
+    "chapter": 10
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CO/11.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CO",
+    "chapter": 11
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CO/9.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CO",
+    "chapter": 9
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

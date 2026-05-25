@@ -1,0 +1,181 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "3JN",
+    "translationId": "srp_865",
+    "name": "3 Jovanova",
+    "commonName": "3 Jovanova",
+    "title": "3. Jovanova Poslanica",
+    "order": 64,
+    "numberOfChapters": 1,
+    "sha256": "f54ee437468f1de778cee3b0b27ae687a6956a1442e8a398d2643376da2397c4",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/3JN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "3JN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 1,
+    "lastChapterApiLink": "/api/srp_865/3JN/1.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "3JN",
+      "chapter": 1
+    },
+    "totalNumberOfVerses": 15
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Od starješine Gaju ljubaznome, kojega ja ljubim vaistinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ljubazni! molim se Bogu da ti u svemu bude dobro, i da budeš zdrav, kao što je tvojoj duši dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Obradovah se vrlo kad doðoše braæa i posvjedoèiše tvoju istinu, kako ti u istini živiš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Nemam veæe radosti od ove da èujem moja djeca u istini da hode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ljubazni! vjerno radiš što èiniš braæi i gostima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Koji posvjedoèiše tvoju ljubav pred crkvom; i dobro æeš uèiniti ako ih spremiš kao što treba pred Bogom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer imena njegova radi iziðoše ne primivši ništa od neznabožaca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mi smo dakle dužni primati takove, da budemo pomagaèi istini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ja pisah crkvi; ali Diotref, koji želi da bude najstariji meðu njima, ne prima nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zato, ako doðem, spomenuæu njegova djela koja tvori ružeæi nas zlijem rijeèima; i nije mu to dosta, nego sam braæe ne prima, i zabranjuje onima koji bi htjeli da ih primaju, i izgoni ih iz crkve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ljubazni! ne ugledaj se na zlo, nego na dobro: koji dobro èini od Boga je, a koji zlo èini ne vidje Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Dimitriju svjedoèiše svi, i sama istina; a i mi svjedoèimo; i znate da je svjedoèanstvo naše istinito."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mnogo imadoh da pišem; ali neæu mastilom i perom da ti pišem;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Nego se nadam da æu te skoro vidjeti, i iz usta govoriti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Mir ti! pozdravljaju te prijatelji. Pozdravi prijatelje po imenu. Amin."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/3JN/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "3JN",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JUD/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JUD",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2JN/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2JN",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 15
+}

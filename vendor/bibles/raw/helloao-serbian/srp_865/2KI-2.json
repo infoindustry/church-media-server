@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2KI",
+    "translationId": "srp_865",
+    "name": "2. Kraljevima",
+    "commonName": "2. Kraljevima",
+    "title": "2. Kraljevima",
+    "order": 12,
+    "numberOfChapters": 25,
+    "sha256": "14b91a44508aa4c11af5ab27266f4e76ec99d09dd2f0f675edf6866e97186808",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2KI/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2KI",
+      "chapter": 1
+    },
+    "lastChapterNumber": 25,
+    "lastChapterApiLink": "/api/srp_865/2KI/25.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2KI",
+      "chapter": 25
+    },
+    "totalNumberOfVerses": 719
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad Gospod šæaše uzeti Iliju u vihoru na nebo, poðoše Ilija i Jelisije iz Galgala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I reèe Ilija Jelisiju: ostani ti ovdje, jer mene Gospod šalje do Vetilja. Ali Jelisije reèe: tako živ bio Gospod i tako živa bila duša tvoja, neæu te ostaviti. I doðoše u Vetilj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Tada doðoše k Jelisiju sinovi proroèki koji bijahu u Vetilju, i rekoše mu: znaš li da æe danas Gospod uzeti gospodara tvojega od tebe? A on reèe: znam, muèite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Opet mu reèe Ilija: Jelisije, ostani ti tu, jer me Gospod šalje u Jerihon. A on reèe: tako živ bio Gospod i tako živa bila duša tvoja, neæu te ostaviti. Tako doðoše u Jerihon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A sinovi proroèki koji bijahu u Jerihonu pristupiše k Jelisiju, i rekoše mu: znaš li da æe danas uzeti Gospod od tebe gospodara tvojega? A on reèe: znam, muèite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Opet mu reèe Ilija: ostani ti tu, jer me Gospod šalje na Jordan. A on reèe: tako živ bio Gospod i tako bila živa tvoja duša, neæu te ostaviti. Tako otidoše obojica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I pedeset ljudi izmeðu sinova proroèkih otidoše i stadoše prema njima izdaleka, a oni obojica ustaviše se kod Jordana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I uze Ilija plašt svoj, i saviv ga udari njim po vodi, a ona se rastupi tamo i amo, te prijeðoše obojica suhim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A kad prijeðoše, reèe Ilija Jelisiju: išti šta hoæeš da ti uèinim, dokle se nijesam uzeo od tebe. A Jelisije reèe: da budu dva dijela duha tvojega u mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A on mu reèe: zaiskao si tešku stvar; ali ako me vidiš kad se uzmem od tebe, biæe ti tako; ako li ne vidiš, neæe biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I kad iðahu dalje razgovarajuæi se, gle, ognjena kola i ognjeni konji rastaviše ih, i Ilija otide u vihoru na nebo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A Jelisije videæi to vikaše: oèe moj, oèe moj! kola Izrailjeva i konjici njegovi! I ne vidje ga više; potom uze haljine svoje i razdrije ih na dva komada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I podiže plašt Ilijin, koji bješe spao s njega, i vrativ se stade na brijegu Jordanskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I uzev plašt Ilijin, koji bješe spao s njega, udari po vodi i reèe: gdje je Gospod Bog Ilijin? A kad i on udari po vodi, rastupi se voda tamo i amo, i prijeðe Jelisije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A kad s druge strane vidješe sinovi proroèki, koji bijahu u Jerihonu, rekoše: poèinu duh Ilijin na Jelisiju. I sretoše ga i pokloniše mu se do zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I rekoše mu: evo ima u sluga tvojih pedeset junaka, neka idu i traže tvojega gospodara, da ga ne bude uzeo duh Gospodnji i bacio ga na kakvo brdo ili u kakav do. A on reèe: ne šaljite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ali oni navaljivahu na nj dokle mu se ne dosadi, te reèe: pošljite. I poslaše pedeset ljudi koji ga tražiše tri dana, ali ne naðoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I vratiše se k njemu, a on bijaše u Jerihonu, pa im reèe: nijesam li vam govorio da ne idete?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tada graðani rekoše Jelisiju: gle, dobro je živjeti u ovom gradu, kao što gospodar naš vidi; ali je voda zla i zemlja nerodna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A on im reèe: donesite mi nov kutao, i metnite u nj soli. I donesoše mu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A on izide na izvor i baci u nj so, govoreæi: ovako veli Gospod: iscijelih ovu vodu, da ne bude više od nje smrti ni nerodnosti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I voda posta zdrava do današnjega dana po rijeèi Jelisijevoj, koju izreèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Potom otide odande u Vetilj; i kad iðaše putem, izidoše mala djeca iz grada i rugahu mu se govoreæi mu: hodi, æelo! hodi, æelo!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A Jelisije obazre se i videæi ih prokle ih imenom Gospodnjim. Tada izidoše dvije medvjedice iz šume, i rastrgoše èetrdeset i dvoje djece."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Odande otide na goru Karmilsku, a odande se vrati u Samariju."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2KI/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2KI/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2KI/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

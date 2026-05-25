@@ -1,0 +1,244 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 71,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U tebe se, Gospode, uzdam, nemoj me ostaviti pod sramotom vjeènom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Pravdom svojom izbavi me, i oprosti me, prigni k meni uho svoje i pomozi mi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Budi mi grad gdje bih svagda dolazio da živim, uredi spasenje moje; jer si ti grad moj i krjepost moja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Bože moj! uzmi me iz ruke bezbožnikove, iz ruke bezakonikove i nasilnikove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer si ti nadanje moje, Gospod je Gospod pouzdanje moje od mladosti moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tebe se držim od roðenja, od utrobe matere moje ti si braniè moj; tobom se hvalim svagda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Èudo sam mnogima, a ti si utoèište moje jako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Usta su moja puna hvale tvoje, slave tvoje svaki dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nemoj me odbaciti pod starost, kad me izdaje snaga moja, nemoj me ostaviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer neprijatelji moji misle o meni, i koji vrebaju dušu moju dogovaraju se,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Govoreæi: Bog ga je ostavio, potjerajte i uhvatite ga, jer ga nema ko izbaviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Bože! Ne budi daleko od mene; Bože moj! pohitaj mi u pomoæ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nek se postide i poginu protivnici duše moje; neka popadne stid i sramota na one koji mi traže zla!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A ja æu se svagda uzdati, i ponavljaæu hvale tebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Usta æe moja kazivati pravdu tvoju, svaki dan dobroèinstva tvoja, jer im ne znam broja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Uæi æu u sili Gospoda Gospoda, i slaviæu samo tvoju pravdu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Bože! ti si me uèio od mladosti, i do danas kazujem èudesa tvoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ni u starosti i kad osijedjeh nemoj me ostaviti, Bože, eda bih kazivao mišicu tvoju natražju, svoj omladini silu tvoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Pravda je tvoja, Bože, do najviše visine; u velikim djelima, koja si uèinio, Bože, ko je kao ti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Koliko si me puta bacao u velike i ljute nevolje, pak si me opet ostavio meðu živima i iz bezdana me zemaljskih opet izvadio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Mnogo si me puta podizao i ponavljao utjehe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I ja te hvalim uz psaltir, tvoju vjernost, Bože moj; udaram ti u gusle, sveèe Izrailjev!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Raduju se usta moja kad pjevam tebi, i duša moja, koju si izbavio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I jezik moj svaki dan kazuje pravdu tvoju; jer su postiðeni i posramljeni koji mi traže zla."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/71.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 71
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/72.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 72
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/70.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 70
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 24
+}

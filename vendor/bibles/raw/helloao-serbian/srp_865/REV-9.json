@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "REV",
+    "translationId": "srp_865",
+    "name": "Apokalipsa",
+    "commonName": "Apokalipsa",
+    "title": "Otkrivenje Jovanovo — Apokalipsa",
+    "order": 66,
+    "numberOfChapters": 22,
+    "sha256": "03ca27b48572b751a11a8d2525edcfa3d35a43f752bf5506e16685bb264b5230",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/REV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 22,
+    "lastChapterApiLink": "/api/srp_865/REV/22.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 22
+    },
+    "totalNumberOfVerses": 404
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I peti anðeo zatrubi, i vidjeh zvijezdu gdje pade s neba na zemlju, i dade joj se kljuè od studenca bezdana;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I otvori studenac bezdana, i iziðe dim iz studenca kao dim velike peæi, i pocrnje sunce i nebo od dima studenèeva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I iz dima iziðoše skakavci na zemlju, i dade im se oblast, kao što i skorpije imaju oblast na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I reèe im se da ne ude travi zemaljskoj, niti ikakoj zeleni, niti ikaku drvetu, nego samo ljudima koji nemaju peèata Božijega na èelima svojima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I dade im se da ih ne ubijaju, nego da ih muèe pet mjeseci; i muèenje njihovo bijaše kao muèenje skorpijno kad ujede èovjeka;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I u te dane tražiæe ljudi smrt, i neæe je naæi; i željeæe da umru, i smrt æe od njih bježati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I skakavci bijahu kao konji spremljeni na boj; i na glavama njihovima kao krune od zlata, i lica njihova kao lica èovjeèija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I imahu kose kao kose ženske, i zubi njihovi bijahu kao u lavova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I imahu oklope kao oklope gvozdene, i glas krila njihovijeh bijaše kao glas kola kad mnogi konji trèe na boj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I imahu repove kao skorpijne, i žalci bijahu na repovima njihovima; i dana im bješe oblast da ude ljudima pet mjeseci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I imahu nad sobom cara anðela bezdana kojemu je ime Jevrejski Avadon, a Grèki Apolion."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jedno zlo proðe, evo idu još dva zla za ovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I šesti anðeo zatrubi, i èuh glas jedan od èetiri roglja zlatnoga oltara, koji je pred Bogom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Gdje govori šestome anðelu koji imaše trubu: odriješi èetiri anðela koji su svezani kod rijeke velike Eufrata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I biše odriješena èetiri anðela koji bijahu pripravljeni na sahat, i dan, i mjesec, i godinu, da pobiju treæinu ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I broj vojnika na konjma bijaše dvjesta hiljada hiljada; i èuh broj njihov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I tako vidjeh u utvari konje, i one što sjeðahu na njima, koji imahu oklope ognjene i plavetne i sumporne; i glave konja njihovijeh bijahu kao glave lavova, i iz usta njihovijeh izlažaše oganj i dim i sumpor."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I od ova tri zla pogibe treæina ljudi, od ognja i od dima i od sumpora što izlažaše iz usta njihovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer sila konja bješe u ustima njihovima, i u repovima njihovima; jer repovi njihovi bivahu kao zmije i imahu glave, i njima iðahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I ostali ljudi koji ne biše pobijeni zlima ovima, ne pokajaše se od djela ruku svojijeh da se ne poklanjaju ðavolima, ni idolima zlatnima i srebrnima i mjedenima i kamenima i drvenima, koji ni mogu vidjeti, ni èuti, ni hoditi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Niti se pokajaše od ubistva svojijeh, ni od èaranja svojijeh, ni od kurvarstva svojega, ni od kraða svojijeh."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/REV/9.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 9
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/REV/10.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 10
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/REV/8.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 8
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

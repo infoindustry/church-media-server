@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Pravedan si, Gospode, ako bih se pravdao s tobom; ali æu progovoriti o sudovima tvojim. Zašto je put bezbožnièki sreæan? zašto žive u miru svi koji èine nevjeru?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ti ih posadi, i oni se ukorijeniše, rastu i rod raðaju; ti si im blizu usta ali daleko od bubrega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ali, Gospode, ti me poznaješ, razgledaš me i okušao si srce moje kako je prema tebi; odvuci ih kao ovce na klanje, i pripravi ih za dan kad æe se ubiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Dokle æe tužiti zemlja, i trava svega polja sahnuti sa zloæe onijeh koji žive u njoj? nesta sve stoke i ptica, jer govore: ne vidi kraja našega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Kad si trèao s pješcima pa te umoriše, kako æeš se utrkivati s konjma? i kad ti je tako u zemlji mirnoj, u koju se uzdaš, šta æeš èiniti kad ustane Jordan?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer i braæa tvoja i dom oca tvojega, i oni te iznevjeriše, i oni vièu za tobom iza glasa. Ne vjeruj im, ako bi ti i prijateljski govorili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ostavih dom svoj, napustih našljedstvo svoje; što bijaše milo duši mojoj, dadoh ga u ruke neprijateljima njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Našljedstvo moje posta mi kao lav u šumi, pušta glas svoj na mene, zato mi omrznu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Našljedstvo moje posta mi ptica grabljiva; ptice, sletite se na nju, skupite se svi zvjerovi poljski, hodite da jedete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Pastiri mnogi pokvariæe moj vinograd, potlaèiæe dio moj, mili dio moj obratiæe u golu pustoš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Obratiæe ga u pustoš, opustošen plakaæe preda mnom; sva æe ta zemlja opustjeti, jer niko ne uzima na um."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Na sva visoka mjesta po pustinji doæi æe zatiraèi; jer æe maè Gospodnji proždirati od jednoga kraja zemlje do drugoga, neæe biti mira nijednom tijelu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Sijaæe pšenicu, a trnje æe žeti; muèiæe se, a koristi neæe imati, i stidjeæe se ljetine svoje, sa žestokoga gnjeva Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ovako govori Gospod za sve zle susjede moje, koji diraju našljedstvo što dadoh narodu svojemu Izrailju: evo, ja æu ih poèupati iz zemlje njihove, i dom Judin išèupaæu isred njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A kad ih išèupam, opet æu se smilovati na njih, i dovešæu opet svakoga njih na našljedstvo njegovo i svakoga u zemlju njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I ako dobro nauèe putove naroda mojega, da se zaklinju mojim imenom: tako da je živ Gospod! kao što su oni uèili moj narod da se kune Valom, tada æe se sazidati usred naroda mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ako li ne poslušaju, tada æu išèupati sasvijem taki narod i zatrti, govori Gospod."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/12.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 12
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/13.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 13
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/11.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 11
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

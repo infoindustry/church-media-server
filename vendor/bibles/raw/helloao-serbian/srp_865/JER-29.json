@@ -1,0 +1,300 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 29,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A ovo su rijeèi u poslanici koju posla prorok Jeremija iz Jerusalima k ostatku starješina zarobljenijeh i sveštenicima i prorocima i svemu narodu što ga preseli Navuhodonosor iz Jerusalima u Vavilon,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Pošto otide iz Jerusalima car Jehonija i carica i dvorani i knezovi Judini i Jerusalimski, i drvodjelje i kovaèi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Po Elasi sinu Safanovu i Gemariji sinu Helkijinu, koje sla Sedekija car Judin u Vavilon k Navuhodonosoru caru Vavilonskom; i u knjizi govoraše:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ovako veli Gospod nad vojskama, Bog Izrailjev, svemu roblju koje preselih iz Jerusalima u Vavilon:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Gradite kuæe i sjedite u njima; sadite vrtove i jedite rod njihov;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ženite se i raðajte sinove i kæeri; i sinove svoje ženite, i kæeri svoje udajite, neka raðaju sinove i kæeri, i množite se tu i ne umaljujte se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I tražite dobro gradu, u koji vas preselih, i molite se za nj Gospodu, jer u dobru njegovu biæe vama dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer ovako veli Gospod nad vojskama Bog Izrailjev: nemojte da vas varaju vaši proroci što su meðu vama i vaši vraèi, i ne gledajte na sne svoje što sanjate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer vam oni lažno prorokuju u moje ime, ja ih nijesam poslao, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer ovako veli Gospod: kad se navrši u Vavilonu sedamdeset godina, pohodiæu vas, i izvršiæu vam dobru rijeè svoju da æu vas vratiti na ovo mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer ja znam misli koje mislim za vas, govori Gospod, misli dobre a ne zle, da vam dam pošljedak kakav èekate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada æete me prizivati i iæi æete i moliæete mi se, i uslišiæu vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I tražiæete me, i naæi æete me, kad me potražite svijem srcem svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I daæu vam se da me naðete, govori Gospod, i vratiæu roblje vaše, i sabraæu vas iz svijeh naroda i iz svijeh mjesta u koja sam vas razagnao, govori Gospod, i dovešæu vas opet na mjesto, odakle sam vas iselio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer rekoste: Gospod nam podiže proroke u Vavilonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer ovako veli Gospod za cara koji sjedi na prijestolu Davidovu i za sav narod koji stoji u ovom gradu, za braæu vašu što ne otidoše s vama u ropstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ovako veli Gospod nad vojskama: evo, ja æu pustiti na njih maè, glad i pomor, i uèiniæu ih da budu kao smokve rðave, koje se ne mogu jesti, kako su rðave."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I goniæu ih maèem i glaðu i pomorom, i uèiniæu da se potucaju po svijem carstvima zemaljskim, da budu uklin i èudo i potsmijeh i rug u svijeh naroda, u koje ih proženem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer ne poslušaše mojih rijeèi, govori Gospod, kad slah k njima sluge svoje proroke zarana jednako; ali ne poslušaste, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Slušajte dakle rijeè Gospodnju vi svi zarobljeni, koje poslah iz Jerusalima u Vavilon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ovako veli Gospod nad vojskama Bog Izrailjev za Ahava sina Kolajina i za Sedekiju sina Masijina, koji vam prorokuju u moje ime laž: evo, ja æu ih predati u ruke Navuhodonosoru caru Vavilonskom, da ih pobije na vaše oèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I od njih æe se uzeti uklin meðu sve roblje Judino što je u Vavilonu, te æe govoriti: Gospod da uèini od tebe kao od Sedekije i kao od Ahava, koje ispeèe car Vavilonski na ognju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer uèiniše grdilo u Izrailju èineæi preljubu sa ženama bližnjih svojih i govoreæi laž na moje ime, što im ne zapovjedih; ja znam to, i svjedok sam, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I Semaji iz Nelama reci govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ovako veli Gospod nad vojskama Bog Izrailjev govoreæi: što si u svoje ime poslao knjige svemu narodu koji je u Jerusalimu, i Sofoniji sinu Masijinu svešteniku i svijem sveštenicima, govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Gospod te postavi sveštenikom na mjesto Jodaja sveštenika da pazite u domu Gospodnjem na svakoga èovjeka bezumna i koji se gradi prorok, da ih meæeš u tamnicu i u klade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Zašto dakle ne ukori Jeremije Anatoæanina, koji se gradi prorok meðu vama?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Jer posla k nama u Vavilon i poruèi: dugo æe trajati; gradite kuæe i sjedite u njima, i sadite vrtove i jedite rod njihov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I Sofonija sveštenik proèita tu knjigu pred prorokom Jeremijom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I doðe rijeè Gospodnja Jeremiji govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Pošlji ka svemu roblju i poruèi: ovako veli Gospod za Semaju iz Nelama: što vam prorokuje Semaja, a ja ga ne poslah, i èini da se uzdate u laž,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Zato ovako veli Gospod: evo, ja æu pohoditi Semaju Nelamljanina i sjeme njegovo, neæe od njega niko ostati u ovom narodu niti æe vidjeti dobra što æu ja uèiniti narodu svojemu, govori Gospod, jer kaziva odmet od Gospoda."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/29.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 29
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/30.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 30
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/28.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 28
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 32
+}

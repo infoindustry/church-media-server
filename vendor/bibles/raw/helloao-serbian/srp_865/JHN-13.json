@@ -1,0 +1,342 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JHN",
+    "translationId": "srp_865",
+    "name": "Jovanu",
+    "commonName": "Jovanu",
+    "title": "Jevanðelje po Jovanu",
+    "order": 43,
+    "numberOfChapters": 21,
+    "sha256": "b0467ac7d5635aaff73b88f7076ca219a8a790ad4b0c4ba876a7716c71658f8f",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JHN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JHN/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 879
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A pred praznik pashe, znajuæi Isus da mu doðe èas da prijeðe iz ovoga svijeta k ocu, kako je ljubio svoje koji bijahu na svijetu, do kraja ih ljubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I po veèeri kad veæ ðavo bješe metnuo u srce Judi Simonovu Iskariotskome da ga izda,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Znajuæi Isus da mu sve otac dade u ruke, i da od Boga iziðe, i k Bogu ide,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ustade od veèere, i skide svoje haljine, i uze ubrus te se zapreže;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Potom usu vodu u umivaonicu, i poèe prati noge uèenicima i otirati ubrusom kojijem bješe zapregnut."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Onda doðe k Simonu Petru, i on mu reèe: Gospode! zar ti moje noge da opereš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Isus odgovori i reèe mu: što ja èinim ti sad ne znaš, ali æeš poslije doznati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Reèe mu Petar: nikad ti neæeš oprati mojijeh nogu. Isus mu odgovori: ako te ne operem nemaš dijela sa mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Reèe mu Simon Petar: Gospode! ne samo noge moje, nego i ruke i glavu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Isus mu reèe: opranome ne treba do samo noge oprati, jer je sav èist; i vi ste èisti, ali ne svi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer znadijaše izdajnika svojega, zato reèe: nijeste svi èisti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A kad im opra noge, uze haljine svoje, i sjedavši opet za trpezu reèe im: znate li što ja uèinih vama?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Vi zovete mene uèiteljem i Gospodom; i pravo velite: jer jesam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Kad dakle ja oprah vama noge Gospod i uèitelj, i vi ste dužni jedan drugome prati noge."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer ja vam dadoh ugled da i vi tako èinite kao što ja vama uèinih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Zaista, zaista vam kažem: nije sluga veæi od gospodara svojega, niti je poslanik veæi od onoga koji ga je poslao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Kad ovo znate, blago vama ako ga izvršujete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ne govorim za sve vas, jer ja znam koje izbrah; nego da se zbude pismo: koji sa mnom hljeb jede podiže petu svoju na me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Sad vam kažem prije nego se zbude, da, kad se zbude, vjerujete da sam ja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Zaista, zaista vam kažem: koji prima onoga koga pošljem mene prima; a ko prima mene prima onoga koji me posla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Rekavši ovo Isus posta žalostan u duhu, i posvjedoèi i reèe: zaista, zaista vam kažem: jedan izmeðu vas izdaæe me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Onda se uèenici zgledahu meðu sobom, i èuðahu se za koga govori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A jedan od uèenika njegovijeh, kojega Isus ljubljaše, sjeðaše za trpezom na krilu Isusovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Onda namaže na njega Simon Petar da zapita ko bi to bio za koga govori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A on leže na prsi Isusove i reèe mu: Gospode! ko je to?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Isus odgovori: onaj je kome ja umoèivši zalogaj dam. I umoèivši zalogaj dade Judi Simonovu Iskariotskome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I po zalogaju tada uðe u njega sotona. Onda mu reèe Isus: šta èiniš èini brže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A ovo ne razumje niko od onijeh što sjeðahu za trpezom zašto mu reèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A neki mišljahu, buduæi da u Jude bješe kesa, da mu Isus reèe: kupi što treba za praznik; ili da da što siromašnima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A on uzevši zalogaj odmah iziðe; a bješe noæ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Kad on iziðe, onda Isus reèe: sad se proslavi sin èovjeèij, i Bog se proslavi u njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ako se Bog proslavi u njemu, i Bog æe njega proslaviti u sebi, i odmah æe ga proslaviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Djeèice! još sam malo s vama; tražiæete me, i kao što rekoh Judejcima: kuda ja idem vi ne možete doæi, i vama govorim sad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Novu vam zapovijest dajem da ljubite jedan drugoga, kao što ja vas ljubih, da se i vi ljubite meðu sobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Po tom æe svi poznati da ste moji uèenici ako uzimate ljubav meðu sobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Reèe mu Simon Petar: Gospode! kuda ideš? Isus mu odgovori: kuda ja idem ne možeš sad iæi za mnom, ali æeš poslije poæi za mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Petar mu reèe: Gospode! zašto sad ne mogu iæi za tobom? dušu æu svoju položiti za te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Odgovori mu Isus: dušu li æeš svoju položiti za me? Zaista, zaista ti kažem: neæe pijetao zapjevati dok me se triput ne odreèeš."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JHN/13.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 13
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JHN/14.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 14
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JHN/12.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 12
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 38
+}

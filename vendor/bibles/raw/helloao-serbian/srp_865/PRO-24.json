@@ -1,0 +1,314 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PRO",
+    "translationId": "srp_865",
+    "name": "Poslovice",
+    "commonName": "Poslovice",
+    "title": "Poslovice",
+    "order": 20,
+    "numberOfChapters": 31,
+    "sha256": "f56bab8aa62f0f40c0df66127a72bfe1a5502690bdb1dac94e5767df0572eee0",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PRO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PRO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/PRO/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PRO",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 915
+  },
+  "chapter": {
+    "number": 24,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ne zavidi zlijem ljudima niti želi da si s njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer o pogibli misli srce njihovo i usne njihove govore o muci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mudrošæu se zida kuæa i razumom utvrðuje se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I znanjem se pune klijeti svakoga blaga i dragocjena i mila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mudar je èovjek jak, i razuman je èovjek silan snagom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer mudrijem savjetom ratovaæeš, i izbavljenje je u mnoštvu savjetnika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Visoke su bezumnome mudrosti; neæe otvoriti usta svojih na vratima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ko misli zlo èiniti zvaæe se zlikovac."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Misao bezumnikova grijeh je, i potsmjevaè je gad ljudski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ako kloneš u nevolji, skratiæe ti se sila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Izbavljaj pohvatane na smrt; i koje hoæe da pogube, nemoj se ustegnuti od njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ako li reèeš: gle, nijesmo znali za to; neæe li razumjeti onaj koji ispituje srca, i koji èuva dušu tvoju neæe li doznati i platiti svakome po djelima njegovijem?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Sine moj, jedi med, jer je dobar, i sat, jer je sladak grlu tvojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Tako æe biti poznanje mudrosti duši tvojoj, kad je naðeš; i biæe plata, i nadanje tvoje neæe se zatrti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Bezbožnièe, ne vrebaj oko stana pravednikova, i ne kvari mu poèivanja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer ako i sedam puta padne pravednik, opet ustane, a bezbožnici propadaju u zlu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Kad padne neprijatelj tvoj, nemoj se radovati, i kad propadne, neka ne igra srce tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer bi vidio Gospod i ne bi mu bilo milo, i obratio bi gnjev svoj od njega na tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nemoj se žestiti radi nevaljalaca, nemoj zavidjeti bezbožnicima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer nema plate nevaljalcu, žižak æe se bezbožnicima ugasiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Boj se Gospoda, sine moj, i cara, i ne miješaj se s nemirnicima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer æe se ujedanput podignuti pogibao njihova, a ko zna propast koja ide od obojice?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I ovo je za mudarce: gledati ko je ko na sudu nije dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ko govori bezbožniku: pravedan si, njega æe proklinjati ljudi i mrziæe na nj narodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A koji ga karaju, oni æe biti mili, i doæi æe na njih blagoslov dobrijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ko govori rijeèi istinite, u usta ljubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Uredi svoj posao na polju, i svrši svoje na njivi, potom i kuæu svoju zidaj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ne budi svjedok na bližnjega svojega bez razloga, i ne varaj usnama svojima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ne govori: kako je on meni uèinio tako æu ja njemu uèiniti; platiæu ovom èovjeku po djelu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Iðah mimo njivu èovjeka lijena i mimo vinograd èovjeka bezumna;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I gle, bješe sve zaraslo u trnje i sve pokrio èkalj, i ograda im kamena razvaljena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I vidjevši uzeh na um, i gledah i pouèih se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Dok malo prospavaš, dok malo prodrijemlješ, dok malo sklopiš ruke da poèineš,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "U tom æe doæi siromaštvo tvoje kao putnik, i oskudica tvoja kao oružan èovjek."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PRO/24.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 24
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PRO/25.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 25
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PRO/23.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 23
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 34
+}

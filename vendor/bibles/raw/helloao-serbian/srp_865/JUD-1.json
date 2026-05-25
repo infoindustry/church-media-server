@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JUD",
+    "translationId": "srp_865",
+    "name": "Judina",
+    "commonName": "Judina",
+    "title": "Judina Poslanica",
+    "order": 65,
+    "numberOfChapters": 1,
+    "sha256": "7a3643283871957b77210d77baccea5b132c0c310fec71d8026bf868d1101477",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JUD/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JUD",
+      "chapter": 1
+    },
+    "lastChapterNumber": 1,
+    "lastChapterApiLink": "/api/srp_865/JUD/1.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JUD",
+      "chapter": 1
+    },
+    "totalNumberOfVerses": 25
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Od Jude, Isusa Hrista sluge, a brata Jakovljeva, zvanima, koji su osveæeni Bogom ocem i održani Isusom Hristom:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Milost i mir i ljubav da vam se umnoži."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ljubazni! starajuæi se jednako da vam pišem za opšte vaše spasenije, bi mi potrebno da vam pišem moleæi da se borite za pravednu vjeru, koja je jedanput dana svetima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer se uvukoše neki bezbožni ljudi, koji su davno odreðeni na ovo osuðenje, i Boga našega blagodat pretvaraju u neèistotu, i jedinoga gospodara Boga i Gospoda našega Isusa Hrista odrièu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ali æu vam napomenuti, kad i vi znate ovo jedanput, da Gospod izbavi narod iz zemlje Misirske, potom pogubi one koji ne vjerovaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I anðele koji ne držaše svojega starješinstva nego ostaviše svoj stan èuva u vjeènijem okovima pod mrakom za sud velikoga dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Kao što i Sodom i Gomor, i okolni njihovi gradovi, koji su se prokurvali onako kao i oni, i hodili za drugijem mesom, postaviše se za ugled i muèe se u vjeènom ognju:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tako dakle i ovi što sanjajuæi tijelo pogane, a poglavarstva se odrièu, i na slavu hule."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Mihailo Aranðel, kad se prepiraše s ðavolom i govoraše za Mojsijevo tijelo, ne smijaše prokleta suda da izgovori, nego reèe: Gospod neka ti zaprijeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A ovi hule na ono što ne znadu; a što znadu po prirodi kao nerazumna životinja, u onom se raspadaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Teško njima! jer putem Kainovijem poðoše i u prijevaru Valaamove plate padoše, i u buni Koreovoj izgiboše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ovo su oni što pogane vaše milostinje jeduæi s vama bez straha i gojeæi se; oblaci bezvodni, koje vjetrovi prenose; jesenska drveta nerodljiva, koja su dvaput umrla, i iz korijena išèupana;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Bijesni valovi morski, koji se pjene svojijem sramotama, zvijezde lažne, kojima se èuva mrak vjeène tame."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ali i za ovake prorokova Enoh, sedmi od Adama, govoreæi: gle, ide Gospod s hiljadama svetijeh anðela svojijeh"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Da uèini sud svima, i da pokara sve bezbožnike za sva njihova bezbožna djela kojima bezbožnost èiniše, i za sve ružne rijeèi njihove koje bezbožni grješnici govoriše na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ovo su nezadovoljni vikaèi, koji po željama svojijem žive, i usta njihova govore ponosite rijeèi, i za dobitak gledaju ko je ko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A vi, ljubazni, opominjite se rijeèi koje naprijed kazaše apostoli Gospoda našega Isusa Hrista,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer vam kazaše da æe u pošljednje vrijeme postati rugaèi, koji æe hoditi po svojijem željama i bezbožnostima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ovo su oni što se odvajaju od jedinosti vjere i jesu tjelesni, koji duha nemaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A vi, ljubazni, naziðujte se svojom svetom vjerom, i molite se Bogu Duhom svetijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I sami sebe držite u ljubavi Božijoj, èekajuæi milosti Gospoda našega Isusa Hrista za život vjeèni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I tako razlikujuæi jedne milujte,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A jedne strahom izbavljajte i iz ognja vadite; a karajte sa strahom, mrzeæi i na haljinu opoganjenu od tijela."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A onome koji vas može saèuvati bez grijeha i bez mane, i postaviti prave pred slavom svojom u radosti,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Jedinome premudrome Bogu i spasu našemu, kroz Isusa Hrista Gospoda našega, slava i velièanstvo, država i vlast prije sviju vijekova i sad i u sve vijekove. Amin."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JUD/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JUD",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/REV/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/3JN/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "3JN",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ali neæe se onako zamraèiti pritiješnjena zemlja kao prije kad se dotaèe zemlje Zavulonove i zemlje Neftalimove, ili kao poslije kad dosaðivaše na putu k moru s one strane Jordana Galileji neznabožaèkoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Narod koji hodi u tami vidjeæe vidjelo veliko, i onima koji sjede u zemlji gdje je smrtni sjen zasvijetliæe vidjelo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Umnožio si narod, a nijesi mu uvelièao radosti; ali æe se radovati pred tobom kao što se raduju o žetvi, kao što se vesele kad dijele plijen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer si slomio jaram u kom vucijaše, i štap kojim ga bijahu po pleæima i palicu nasilnika njegova kao u dan Madijanski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer æe obuæa svakoga ratnika koji se bije u graji i odijelo u krv uvaljano izgorjeti i biti hrana ognju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer nam se rodi dijete, sin nam se dade, kojemu je vlast na ramenu, i ime æe mu biti: divni, savjetnik, Bog silni, otac vjeèni, knez mirni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Bez kraja æe rasti vlast i mir na prijestolu Davidovu i u carstvu njegovu da se uredi i utvrdi sudom i pravdom otsada dovijeka. To æe uèiniti revnost Gospoda nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Gospod posla rijeè Jakovu, i ona pade u Izrailju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I znaæe sav narod, Jefrem i stanovnici Samarijski, koji oholo i ponosita srca govore:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Padoše opeke, ali æemo mi zidati od tesana kamena; dudovi su posjeèeni, ali æemo mi zamijeniti kedrima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ali æe Gospod podignuti protivnike Resinove na nj, i skupiæe neprijatelje njegove,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Sirce s istoka i Filisteje sa zapada, te æe ždrijeti Izrailja na sva usta. Kod svega toga neæe se odvratiti gnjev njegov, nego æe ruka njegova još biti podignuta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer se narod neæe obratiti k onomu ko ga bije, i neæe tražiti Gospoda nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Zato æe otsjeæi Gospod Izrailju glavu i rep, granu i situ u jedan dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Starješina i ugledan èovjek to je glava, a prorok koji uèi laž to je rep."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer koji vode taj narod, oni ga zavode, a koje vode, oni su propali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Zato se Gospod neæe radovati mladiæima njegovijem, i na sirote njegove i na udovice njegove neæe se smilovati, jer su svikoliki licemjeri i zlikovci, i svaka usta govore nevaljalstvo. Kod svega toga neæe se odvratiti gnjev njegov, nego æe ruka njegova još biti podignuta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer æe se razgorjeti bezbožnost kao oganj, koji sažeže èkalj i trnje, pa upali gustu šumu, te otide u dim visoko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Od gnjeva Gospoda nad vojskama zamraèiæe se zemlja i narod æe biti kao hrana ognju, niko neæe požaliti brata svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I zgrabiæe s desne strane, pa æe opet biti gladan, i ješæe s lijeve strane, pa se opet neæe nasititi; svaki æe jesti meso od mišice svoje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Manasija Jefrema, i Jefrem Manasiju, a obojica æe se složiti na Judu. Kod svega toga neæe se odvratiti gnjev njegov, nego æe ruka njegova još biti podignuta."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/9.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 9
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/10.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 10
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/8.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 8
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

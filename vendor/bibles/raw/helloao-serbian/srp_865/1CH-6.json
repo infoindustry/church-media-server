@@ -1,0 +1,643 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "srp_865",
+    "name": "1. Dnevnika",
+    "commonName": "1. Dnevnika",
+    "title": "1. Dnevnika",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "8ea0acc08b93472f39af29d769974347b255ab628ab40782b4687010563cbf90",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 29,
+    "lastChapterApiLink": "/api/srp_865/1CH/29.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 29
+    },
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Sinovi Levijevi bijahu: Girson, Kat i Merarije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A sinovi Katovi: Amram, Isar i Hevron i Ozilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A sinovi Amramovi: Aron i Mojsije, i kæi Marija. A sinovi Aronovi: Nadav i Avijud i Eleazar i Itamar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Eleazar rodi Finesa; a Fines rodi Avisuju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A Avisuja rodi Vukija; a Vukije rodi Oziju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A Ozija rodi Zeraju; a Zeraja rodi Merajota;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Merajot rodi Amariju; a Amarija rodi Ahitova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A Ahitov rodi Sadoka; a Sadok rodi Ahimasa;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Ahimas rodi Azariju; a Azarija rodi Joanana;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Joanan rodi Azariju, koji bi sveštenik u domu što sazida Solomun u Jerusalimu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Azarija rodi Amariju; a Amarija rodi Ahitova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A Ahitov rodi Sadoka; a Sadok rodi Saluma;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Salum rodi Helkiju; a Helkija rodi Azariju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Azarija rodi Seraju; a Seraja rodi Josedeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Josedek otide kad Gospod preseli Judeje i Jerusalim rukom Navuhodonosorovom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Sinovi Levijevi bijahu: Girson, Kat i Merarije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A ovo su imena sinovima Girsonovijem: Lovenije i Simej."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A sinovi Katovi bjehu: Amram i Isar i Hevron i Ozilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Sinovi Merarijevi: Molija i Musija. I ovo su porodice Levitske po ocima svojim:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Girsonova: Lovenije sin mu, a njegov sin Jat, a njegov sin Zima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A njegov sin Joah, a njegov sin Ido, a njegov sin Zera, a njegov sin Jetraj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Sinovi Katovi: Aminadav sin mu, a njegov sin Korej, a njegov sin Asir."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A njegov sin Elkana, a njegov sin Evijasaf, a njegov sin Asir,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A njegov sin Tahat, a njegov sin Urilo, a njegov sin Ozija, a njegov sin Saul."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A sinovi Elkanini: Amasaj i Ahimot,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Elkana; sinovi Elkanini: Sufija sin mu, a njegov sin Mahat;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A njegov sin Elijav, a njegov sin Jeroam, a njegov sin Elkana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A sinovi Samuilovi: Vasnija prvenac, pa Avija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Sinovi Merarijevi: Molija, a njegov sin Lovenije, a njegov sin Simej, a njegov sin Uza,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A njegov sin Simaja, a njegov sin Agija, a njegov sin Asaja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A ovo su koje postavi David da pjevaju u domu Gospodnjem, kad se namjesti kovèeg,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Koji služahu pred šatorom od sastanka pjevajuæi, dok ne sazida Solomun dom Gospodnji u Jerusalimu, i stajahu po redu svom u službi svojoj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ovi su što stajahu i sinovi njihovi: od sinova Katovijeh Eman pjevaè, sin Joila sina Samuila,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Sina Elkane, sina Jeroama, sina Elila, sina Toje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Sina Sufa, sina Elkane, sina Mata, sina Amasaja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Sina Elkane, sina Joila, sina Azarije, sina Sofonije,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Sina Tahate, sina Asira, sina Aviasafa, sina Koreja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Sina Isara, sina Kata, sina Levija, sina Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I brat mu Asaf, koji mu stajaše s desne strane; a Asaf bijaše sin Varahije, sina Simeje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Sina Mihaila, sina Vasije, sina Malhije,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Sina Etnija, sina Zera, sina Adaje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Sina Etana, sina Zime, sina Simeja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Sina Jata, sina Girsona, sina Levijeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "A sinovi Merarijevi, braæa njihova, stajahu s lijeve strane: Etan sin Kisije, sina Avdija, sina Maluha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Sina Asavije, sina Amasije, sina Helkije,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Sina Amsije, sina Vanije, sina Samira,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Sina Molije, sina Musije, sina Merarija, sina Levijeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "A braæa njihova, ostali Leviti, biše odreðeni na svu službu u šatoru doma Božijega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "A Aron i sinovi njegovi paljahu na oltaru za žrtve paljenice i na oltaru kadionom, vršeæi sve poslove u svetinji nad svetinjama, i èineæi oèišæenje za Izrailja po svemu kako je zapovjedio Mojsije sluga Božji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "A ovo su sinovi Aronovi: Eleazar sin mu, a njegov sin Fines, a njegov sin Avisuja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "A njegov sin Vukije, a njegov sin Ozije, a njegov sin Zeraja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "A njegov sin Merajot, a njegov sin Amarija, a njegov sin Ahitov,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "A njegov sin Sadok, a njegov sin Ahimas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "A ovo su im stanovi po gradovima njihovijem u meðama njihovijem: sinovima Aronovijem od porodice Katove dopade ždrijebom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "I dadoše im Hevron u zemlji Judinoj, i podgraða njegova oko njega;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "A polje gradsko i sela njegova dadoše Halevu sinu Jefonijinu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "Dadoše dakle sinovima Aronovijem gradove Judine: Hevron utoèište, i Livnu i podgraða njezina, i Jatir i Estemoju i podgraða njezina,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "I Ilon i podgraða njegova, Devir i podgraða njegova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 59,
+        "content": [
+          "I Asan i podgraða njegova, i Vet-Semes i podgraða njegova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 60,
+        "content": [
+          "A od plemena Venijaminova: Gavaju i podgraða njezina, i Alemet i podgraða njegova, i Anatot i podgraða njegova; svega gradova njihovijeh trinaest po porodicama njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 61,
+        "content": [
+          "I ostalijem sinovima Katovijem od porodice toga plemena daše ždrijebom od polovine plemena, od polovine Manasijine deset gradova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 62,
+        "content": [
+          "A sinovima Girsonovijem po porodicama njihovijem trinaest gradova od plemena Isaharova i od plemena Asirova i od plemena Neftalimova i od plemena Manasijina u Vasanu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 63,
+        "content": [
+          "Sinovima Merarijevim po porodicama njihovijem daše ždrijebom od plemena Ruvimova i od plemena Gadova i od plemena Zavulonova dvanaest gradova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 64,
+        "content": [
+          "Tako daše sinovi Izrailjevi Levitima te gradove i podgraða njihova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 65,
+        "content": [
+          "I daše ždrijebom od plemena sinova Judinijeh i od plemena sinova Simeunovijeh i od plemena sinova Venijaminovijeh te gradove, koje imenovaše poimence."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 66,
+        "content": [
+          "I onima koji bijahu od roda sinova Katovijeh a gradovi njihovi i meðe njihove bijahu u plemenu Jefremovu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 67,
+        "content": [
+          "Njima daše grad za utoèište Sihem i podgraða njegova u gori Jefremovoj, i Gezer i podgraða njegova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 68,
+        "content": [
+          "I Jokmeam i podgraða njegova, i Vet-Oron i podgraða njegova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 69,
+        "content": [
+          "I Ejalon i podgraða njegova, i Gat-Rimon i podgraða njegova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 70,
+        "content": [
+          "I od polovine plemena Manasijina Anir i podgraða njegova, i Vileam i podgraða njegova, porodicama sinova Katovijeh ostalijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 71,
+        "content": [
+          "A sinovima Girsonovijem daše od porodice polovine plemena Manasijina Golan u Vasanu i podgraða njegova, i Astarot i podgraða njegova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 72,
+        "content": [
+          "A od plemena Isaharova Kedes i podgraða njegova, Davrat i podgraða njegova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 73,
+        "content": [
+          "I Ramot i podgraða njegova, i Anim i podgraða njegova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 74,
+        "content": [
+          "A od plemena Asirova Masal i podgraða njegova, i Avdon i podgraða njegova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 75,
+        "content": [
+          "I Hukok i podgraða njegova, i Reov i podgraða njegova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 76,
+        "content": [
+          "A od plemena Neftalimova Kedes u Galileji i podgraða njegova, i Amon i podgraða njegova, i Kirijatajim i podgraða njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 77,
+        "content": [
+          "Sinovima Merarijevim ostalijem daše od plemena Zavulonova Rimon i podgraða njegova, Tavor i podgraða njegova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 78,
+        "content": [
+          "A preko Jordana prema Jerihonu na istoènoj strani Jordana, od plemena Ruvimova Vosor u pustinji i podgraða njegova, i Jasu i podgraða njezina,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 79,
+        "content": [
+          "I Kedimot i podgraða njegova, i Mifat i podgraða njegova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 80,
+        "content": [
+          "A od plemena Gadova Ramot u Galadu i podgraða njegova, i Mahanajim i podgraða njegova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 81,
+        "content": [
+          "I Esevon i podgraða njegova, i Jazir i podgraða njegova."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CH/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CH/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CH/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 81
+}

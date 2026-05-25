@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DAN",
+    "translationId": "srp_865",
+    "name": "Danilo",
+    "commonName": "Danilo",
+    "title": "Danilo",
+    "order": 27,
+    "numberOfChapters": 12,
+    "sha256": "a7cfcf76b959e48ff3096b5f1336feefdd92c2ade2010b0cbd670ebbe8f652f0",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DAN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DAN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 12,
+    "lastChapterApiLink": "/api/srp_865/DAN/12.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DAN",
+      "chapter": 12
+    },
+    "totalNumberOfVerses": 357
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Car Valtasar uèini veliku gozbu tisuæi knezova svojih, i pijaše vino pred tisuæom njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Napiv se vina Valtasar zapovjedi da se donesu sudovi zlatni i srebrni, koje bješe odnio Navuhodonosor otac mu iz crkve Jerusalimske, da iz njih piju car i knezovi mu, i žene njegove i inoèe njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I donesoše zlatne sudove koje bjehu odnijeli iz crkve doma Gospodnjega u Jerusalimu, i pijahu iz njih car i knezovi njegovi, žene njegove i inoèe njegove;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Pijahu vino, i hvaljahu bogove zlatne i srebrne i mjedene i drvene i kamene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "U taj èas izidoše prsti ruke èovjeèije, i pisahu prema svijetnjaku po okreèenom zidu od carskoga dvora, i car vidje ruku koja pisaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tada se promijeni lice caru, i misli ga njegove uznemiriše, i pojas se oko njega raspasa i koljena mu udarahu jedno o drugo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Povika car iza glasa; te dovedoše zvjezdare, Haldeje i gatare; i progovori car i reèe mudarcima Vavilonskim: ko proèita ovo pismo i kaže mi što znaèi, onaj æe se obuæi u skerlet, i nosiæe zlatnu verižicu o vratu, i biæe treæi gospodar u carstvu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tada pristupiše svi mudarci carevi; ali ne mogoše proèitati pisma niti kazati caru što znaèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tada se car Valtasar vrlo uznemiri i lice mu se sasvijem izmijeni; i knezovi se njegovi prepadoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Doðe carica radi toga što se dogodi caru i knezovima njegovijem u kuæu gdje bješe gozba, i progovori carica i reèe: care, da si živ dovijeka! da te ne uznemiruju misli tvoje i da ti se lice ne mijenja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ima èovjek u tvom carstvu, u kom je duh svetijeh bogova; i u vrijeme oca tvojega naðe se u njega vidjelo i razum i mudrost, kakova je u bogova, i car Navuhodonosor otac tvoj, care, postavi ga glavarem vraèarima, zvjezdarima, Haldejima i gatarima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer velik duh i znanje i razum za kazivanje sanova i pogaðanje zagonetaka i razmršivanje zamršenijeh stvari naðe se u Danila, kojemu car nadje ime Valtasar; neka sada dozovu Danila, i on æe kazati što znaèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada Danilo bi doveden pred cara. Car progovori Danilu i reèe: jesi li ti Danilo izmeðu roblja Judina koje dovede iz Judejske car otac moj?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Èuh za tebe da je duh svetijeh bogova u tebi, i vidjelo i razum i mudrost velika da se naðe u tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A sada su dovedeni preda me mudarci, zvjezdari, da proèitaju pismo i kažu mi što znaèi; ali ne mogu da kažu što to znaèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A za tebe ja èuh da možeš protumaèiti, i zamršene stvari razmrsiti. Ako dakle možeš proèitati ovo pismo i kazati mi što znaèi, obuæi æeš se u skerlet, i zlatnu verižicu nosiæeš o vratu, i biæeš treæi gospodar u carstvu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tada odgovori Danilo i reèe pred carem: darovi tvoji neka tebi, i podaj drugomu poklone svoje; a pismo æu ja proèitati caru i kazati što znaèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Care, Bog višnji dade carstvo i velièinu i slavu i èast Navuhodonosoru ocu tvojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I od velièine koju mu dade svi narodi, plemena i jezici drktahu pred njim i bojahu ga se; ubijaše koga hoæaše, i ostavljaše u životu koga hoæaše, uzvišivaše koga hoæaše, i poniživaše koga hoæaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ali kada mu se podiže srce i duh mu se posili u oholosti, bi smetnut s carskoga prijestola svojega, i uzeše mu slavu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I bi prognan izmeðu ljudi i srce mu posta kao u zvijeri, i stan mu bijaše s divljim magarcima, hraniše ga travom kao goveda, i rosa nebeska kvasi mu tijelo, dokle pozna da Bog višnji vlada carstvom ljudskim, i koga hoæe postavlja nad njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A ti, Valtasare, sine njegov, nijesi ponizio srca svojega premda si znao sve ovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Nego si se podigao na Gospoda nebeskoga, i sudove doma njegova donesoše preda te, i piste iz njih vino ti i knezovi tvoji, žene tvoje i inoèe tvoje, i ti hvali bogove srebrne i zlatne, mjedene, gvozdene, drvene i kamene, koji ne vide niti èuju niti razumiju, a ne slavi Boga, u èijoj je ruci duša tvoja i svi putovi tvoji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Zato od njega bi poslana ruka i ovo pismo bi napisano."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A ovo je pismo napisano: MENE, MENE, TEKEL, UFARSIN."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A ovo znaèe te rijeèi: MENE, brojio je Bog tvoje carstvo, i do kraja izbrojio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "TEKEL, izmjeren si na mjerila, i našao si se lak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "FERES, razdijeljeno je carstvo tvoje, i dano Midijanima i Persijanima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Tada zapovjedi Valtasar, te obukoše Danila u skerlet, i metnuše mu zlatnu verižicu oko vrata, i proglasiše za nj da je treæi gospodar u carstvu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Istu noæ bi ubijen Valtasar car Haldejski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A Darije Midijanin preuze carstvo, i bješe mu oko šezdeset i dvije godine."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DAN/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DAN/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DAN/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

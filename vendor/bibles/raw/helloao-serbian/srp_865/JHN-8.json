@@ -1,0 +1,489 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JHN",
+    "translationId": "srp_865",
+    "name": "Jovanu",
+    "commonName": "Jovanu",
+    "title": "Jevanðelje po Jovanu",
+    "order": 43,
+    "numberOfChapters": 21,
+    "sha256": "b0467ac7d5635aaff73b88f7076ca219a8a790ad4b0c4ba876a7716c71658f8f",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JHN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JHN/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 879
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Isus otide na goru Maslinsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A ujutru opet doðe u crkvu, i sav narod iðaše k njemu; i sjedavši uèaše ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A književnici i fariseji dovedoše k njemu ženu uhvaæenu u preljubi, i postavivši je na srijedu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Rekoše mu: uèitelju! ova je žena uhvaæena sad u preljubi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A Mojsije nam u zakonu zapovjedi da takove kamenjem ubijamo; a ti šta veliš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ovo pak rekoše kušajuæi ga da bi ga imali za što okriviti. A Isus saže se dolje i pisaše prstom po zemlji ne gledajuæi na njih)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kad ga jednako pitahu, ispravi se i reèe im: koji je meðu vama bez grijeha neka najprije baci kamen na nju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Pa se opet saže dolje i pisaše po zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A kad oni to èuše, i pokarani buduæi od svoje savjesti izlažahu jedan za drugijem poèevši od starješina do pošljednjijeh; i osta Isus sam i žena stojeæi na srijedi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A kad se Isus ispravi, i ne vidjevši nijednoga do samu ženu, reèe joj: ženo! gdje su oni što te tužahu? Nijedan te ne osudi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A ona reèe: nijedan, Gospode! A Isus joj reèe: ni ja te ne osuðujem, idi, i otsele više ne griješi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Isus im pak opet reèe: ja sam vidjelo svijetu: ko ide za mnom neæe hoditi po tami, nego æe imati vidjelo života."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada mu rekoše fariseji: ti sam za sebe svjedoèiš: svjedoèanstvo tvoje nije istinito."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Isus odgovori i reèe im: ako ja svjedoèim sam za sebe istinito je svjedoèanstvo moje: jer znam otkuda doðoh i kuda idem; a vi ne znate otkuda dolazim i kuda idem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Vi sudite po tijelu, ja ne sudim nikome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I ako sudim ja, sud je moj prav: jer nijesam sam, nego ja i otac koji me posla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A i u zakonu vašemu stoji napisano da je svjedoèanstvo dvojice ljudi istinito."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ja sam koji svjedoèim sam za sebe, i svjedoèi za mene otac koji me posla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tada mu govorahu: gdje je otac tvoj? Isus odgovori: ni mene znate ni oca mojega; kad biste znali mene, znali biste i oca mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ove rijeèi reèe Isus kod hazne Božije kad uèaše u crkvi; i niko ga ne uhvati, jer još ne bješe došao èas njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A Isus im opet reèe: ja idem, i tražiæete me; i pomrijeæete u svojemu grijehu; kud ja idem vi ne možete doæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Tada rekoše Jevreji: da se neæe sam ubiti, što govori: kud ja idem vi ne možete doæi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I reèe im: vi ste od nižijeh, ja sam od višijeh; vi ste od ovoga svijeta, ja nijesam od ovoga svijeta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Tako vam kazah da æete pomrijeti u grijesima svojima; jer ako ne uzvjerujete da sam ja, pomrijeæete u grijesima svojima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Tada mu govorahu: ko si ti? I reèe im Isus: poèetak, kako vam i kažem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Mnogo imam za vas govoriti i suditi; ali onaj koji me posla istinit je, i ja ono govorim svijetu što èuh od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ne razumješe dakle da im govoraše za oca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A Isus im reèe: kad podignete sina èovjeèijega, onda æete doznati da sam ja, i da ništa sam od sebe ne èinim; nego kako me nauèi otac moj onako govorim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I onaj koji me posla sa mnom je. Ne ostavi otac mene sama; jer ja svagda èinim što je njemu ugodno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Kad ovo govoraše, mnogi ga vjerovaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Tada Isus govoraše onijem Jevrejima koji mu vjerovaše: ako vi ostanete na mojoj besjedi, zaista æete biti uèenici moji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I poznaæete istinu, i istina æe vas izbaviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Odgovoriše i rekoše mu: mi smo sjeme Avraamovo, i nikome nijesmo robovali nikad; kako ti govoriš da æemo se izbaviti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Isus im odgovori: zaista, zaista vam kažem da je svaki koji èini grijeh rob grijehu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A rob ne ostaje u kuæi vavijek, sin ostaje vavijek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ako vas dakle sin izbavi, zaista æete biti izbavljeni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Znam da ste sjeme Avraamovo; ali gledate da me ubijete, jer moja besjeda ne može u vas da stane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Ja govorim što vidjeh od oca svojega; i vi tako èinite što vidjeste od oca svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Odgovoriše i rekoše mu: otac je naš Avraam. Isus im reèe: kad biste vi bili djeca Avraamova, èinili biste djela Avraamova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A sad gledate mene da ubijete, èovjeka koji vam istinu kazah koju èuh od Boga: tako Avraam nije èinio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Vi èinite djela oca svojega. Tada mu rekoše: mi nijesmo roðeni od kurvarstva: jednoga oca imamo Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A Isus im reèe: kad bi Bog bio vaš otac, ljubili biste mene; jer ja od Boga iziðoh i doðoh; jer ne doðoh sam od sebe, nego me on posla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Zašto ne razumijete govora mojega? Jer ne možete rijeèi mojijeh da slušate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Vaš je otac ðavo; i slasti oca svojega hoæete da èinite: on je krvnik ljudski od poèetka, i ne stoji na istini; jer nema istine u njemu; kad govori laž, svoje govori: jer je laža i otac laži."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "A meni ne vjerujete, jer ja istinu govorim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Koji me od vas kori za grijeh? Ako li istinu govorim, zašto mi vi ne vjerujete?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Ko je od Boga rijeèi Božije sluša; zato vi ne slušate, jer nijeste od Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Tada odgovoriše Jevreji i rekoše mu: ne govorimo li mi pravo da si ti Samarjanin, i da je ðavo u tebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Isus odgovori: u meni ðavola nema, nego poštujem oca svojega; a vi mene sramotite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "A ja ne tražim slave svoje; ima koji traži i sudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Zaista, zaista vam kažem: ko održi rijeè moju neæe vidjeti smrti dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Tada mu rekoše Jevreji: sad vidjesmo da je ðavo u tebi: Avraam umrije i proroci, a ti govoriš: ko održi rijeè moju neæe okusiti smrti dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Eda li si ti veæi od oca našega Avraama, koji umrije? I proroci pomriješe: ko se ti sam gradiš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "Isus odgovori: ako se ja sam slavim, slava je moja ništa: otac je moj koji me slavi, za kojega vi govorite da je vaš Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "I ne poznajete ga, a ja ga znam; i ako reèem da ga ne znam biæu laža kao vi. Nego ga znam, i rijeè njegovu držim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "Avraam, otac vaš, bio je rad da vidi dan moj; i vidje, i obradova se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "Tada mu rekoše Jevreji: još ti nema pedeset godina, i Avraama li si vidio?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "A Isus im reèe: zaista, zaista vam kažem: ja sam prije nego se Avraam rodio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 59,
+        "content": [
+          "Tada uzeše kamenje da bace na nj; a Isus se sakri, i iziðe iz crkve prošavši izmeðu njih i otide tako."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JHN/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JHN/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JHN/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 59
+}

@@ -1,0 +1,517 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOS",
+    "translationId": "srp_865",
+    "name": "Isus Navin",
+    "commonName": "Isus Navin",
+    "title": "Isus Navin",
+    "order": 6,
+    "numberOfChapters": 24,
+    "sha256": "ec9d0a794c17ba6296451b87fb16a4d34d8af2bfd446293b00f97a3bbb7257b2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOS/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/JOS/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 658
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A ovo bješe dio sinova Judinijeh po porodicama njihovijem: uz meðu Edomsku, pustinja Sin k jugu na kraju južne strane;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I bješe im južna meða od kraja slanoga mora, od zaliva koji ide k jugu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A otuda ide na jug na brdo Akravim, prelazi preko Sina, i pruža se od juga na Kadis-Varniju, i dopire do Esrona, a otuda ide na Adar i savija se na Karku;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Otuda iduæi do Aselmona izlazi na potok Misirski, i kraj toj meði udara u more. To vam je južna meða."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A meða k istoku slano more do kraja Jordana; a meða sa sjeverne strane od zaliva morskoga, do kraja Jordana;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Odatle ide ta meða na Vet-Oglu, i pruža se od sjevera do Vet-Arave; i odatle ide ta meða na kamen Voana sina Ruvimova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Odatle ide ta meða do Davira od doline Ahora, i na sjever ide na Galgal, prema brdu Adumimskom na južnoj strani potoka; potom ide ta meða do vode En-Semesa, i udara u studenac Rogil;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Odatle ide ta meða preko doline sinova Enomovijeh pokraj Jevuseja s juga, a to je Jerusalim; otuda ide meða na vrh gore koja je prema dolini Enomu k zapadu i koja je nakraj doline Rafajske k sjeveru;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Potom se savija meða s vrha te gore k izvoru vode Neftoje i izlazi na gradove u gori Efronu; a odatle se pruža meða do Vala, a to je Kirijat-Jarim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Potom ide meða od Vala na zapad ka gori Siru, i ide pokraj gore Jarima sa sjevera, a to je Hasalon, i spušta se na Vet-Semes, i dolazi do Tamne;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I ide meða pokraj Akarona k sjeveru, i dopire do Sikrona, i ide preko gore Vala i pruža se do Javnila, i izlazi ta meða na more."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A meða je zapadna pokraj velikoga mora i njegovijeh meða. To su meðe sinova Judinijih unaokolo po porodicama njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Halevu sinu Jefonijinu dade Isus dio meðu sinovima Judinijem, kao što mu zapovjedi Gospod: Kirijat-Arvu; a Arva je bio otac Enakov, i to je Hevron;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I odatle izagna Halev tri sina Enakova: Sesaja i Ahimana i Talmaja sinove Enakove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I odatle otide na Davirane; a Davir se prije zvaše Kirijat-Sefer."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I reèe Halev: ko savlada Kirijat-Sefer i uzme ga, daæu mu za ženu Ahsu kæer svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I uze ga Gotonilo sin Kenezov, brat Halevov; i dade mu Ahsu kæer svoju za ženu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I kad polažaše, nagovaraše ga da ište polje u oca njezina; pa skoèi s magarca. A Halev joj reèe: šta ti je?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A ona reèe: daj mi dar; kad si mi dao suhe zemlje, daj mi i izvora vodenijeh. I dade joj izvore gornje i izvore donje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ovo je našljedstvo plemena sinova Judinijeh po porodicama njihovijem;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ovo su gradovi po krajevima plemena sinova Judinijeh, duž meðe Edomske k jugu: Kavseil i Eder i Jagur,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I Kina i Dimona i Adada,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I Kades i Asor i Itnan,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Zif i Telem i Valot,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I Asor-Adata i Kiriot; Esron je Asor;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Amam i Sama i Molada,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I Asar-Gada i Esemon i Vet-Falet,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I Asar-Sual i Vir-Saveja i Viziotija,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Vala i Im i Asem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I Eltolad i Hesil i Orma,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I Siklag i Madmana i Sansana,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I Levaot i Sileim i Ajin i Rimon; svega dvadeset i devet gradova sa selima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "U ravni Estaol i Saraja i Asna,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I Zanoja i En-Ganim, Tafuja i Inam,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Jarmut i Odolam, Sohot i Azika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I Sagarim i Aditajim i Gedira i Gedirotajim; èetrnaest gradova sa selima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Sevan i Adasa i Magdal-Gad,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I Dilan i Mispa i Jokteil,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Lahis i Vaskat i Jeglon,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I Havon i Lamas i Hitlis,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I Gedirot, Vet-Dagon, i Nama i Makida; šesnaest gradova sa selima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Livna i Eter i Asan,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I Jefta i Asna i Nesiv,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "I Keila i Ahziv i Marisa; devet gradova sa selima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Akaron sa selima i zaseocima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Od Akarona do mora sve što je pokraj Azota sa selima svojim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Azot sa selima i zaseocima, Gaza sa selima i zaseocima do potoka Misirskoga i do velikoga mora s meðama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "A u gori: Samir i Jatir i Sohot,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "I Dana i Kirijat-Sana, a to je Davir,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "I Anav i Estemon i Anim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "I Gosen i Olon i Gilon; jedanaest gradova sa selima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Arav i Duma i Esan,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "I Janum i Vet-Tafuja i Afeka,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "I Humata i Kirijat-Arva, a to je Hevron, i Sior; devet gradova sa selima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "Maon, Karmel i Zif i Juta,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "Jezrael i Jogdeam i Zanoja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "Kajin, Gavaja i Tamna; deset gradova sa selima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "Alul, Vet-Sur i Gedor,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 59,
+        "content": [
+          "I Marat i Vet-Anot i Eltekon; šest gradova sa selima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 60,
+        "content": [
+          "Kirijat-Val, to je Kirijat-Jarim, i Rava; dva grada sa selima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 61,
+        "content": [
+          "U pustinji: Vet-Arava, Midin i Sehaha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 62,
+        "content": [
+          "I Nivsan, i grad soni, i Engadija; šest gradova sa selima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 63,
+        "content": [
+          "A Jevuseja koji življahu u Jerusalimu ne mogoše istjerati sinovi Judini; zato ostaše Jevuseji sa sinovima Judinijem u Jerusalimu do danas."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOS/15.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 15
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOS/16.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 16
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOS/14.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 14
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 63
+}

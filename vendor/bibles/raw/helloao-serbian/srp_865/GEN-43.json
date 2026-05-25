@@ -1,0 +1,314 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 43,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ali glad bješe vrlo velika u onoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Pa kad pojedoše žito koje bijahu donijeli iz Misira, reèe im otac: idite opet, i kupite nam malo hrane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Juda mu progovori i reèe: tvrdo nam se zarekao onaj èovjek govoreæi: neæete vidjeti lica mojega, ako ne bude s vama brat vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ako æeš pustiti s nama brata našega, iæi æemo i kupiæemo ti hrane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ako li neæeš pustiti, neæemo iæi, jer nam je kazao onaj èovjek: neæete vidjeti lica mojega, ako ne bude s vama brat vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A Izrailj reèe: što mi to zlo uèiniste i kazaste èovjeku da imate još jednoga brata?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A oni rekoše: èovjek je potanko raspitivao za nas i za rod naš govoreæi: je li vam jošte živ otac? imate li još braæe? a mi mu odgovarasmo kako nas pitaše. Jesmo li mogli kako znati da æe kazati: dovedite brata svojega?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I reèe Juda Izrailju ocu svojemu: pusti dijete sa mnom, pa æemo se podignuti i otiæi, da ostanemo živi i ne pomremo i mi i ti i naša djeca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ja ti se jamèim za nj, iz moje ga ruke išti; ako ti ga ne dovedem natrag i preda te ne stavim, da sam ti kriv dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Da nijesmo toliko oklijevali, do sada bismo se dva puta vratili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Onda reèe Izrailj otac njihov: kad je tako, uèinite ovo: uzmite što najljepše ima u ovoj zemlji u svoje vreæe, i ponesite èovjeku onom dar: malo tamjana i malo meda, mirisava korijenja i smirne, urme i badema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A novaca ponesite dvojinom, i uzmite novce što bijahu ozgo u vreæama vašim i odnesite natrag, može biti da je pogrješka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I uzmite brata svojega, pa ustanite i idite opet k onom èovjeku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Bog svemoguæi da vam da da naðete milost u onoga èovjeka, da vam pusti brata vašega drugoga i Venijamina; ako li ostanem bez djece, nek ostanem bez djece."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tada uzevši dare i novaca dvojinom, uzevši i Venijamina, podigoše se i otidoše u Misir, i izaðoše pred Josifa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Josif kad vidje s njima Venijamina, reèe èovjeku koji upravljaše kuæom njegovom: odvedi ove ljude u kuæu, pa nakolji mesa i zgotovi, jer æe u podne sa mnom jesti ovi ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I uèini èovjek kako Josif reèe, i uvede ljude u kuæu Josifovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A oni se bojahu kad ih èovjek voðaše u kuæu Josifovu, i rekoše: za novce koji preðe bjehu metnuti u vreæe naše vodi nas, dokle smisli kako æe nas okriviti, da nas zarobi i uzme naše magarce."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Pa pristupivši k èovjeku koji upravljaše kuæom Josifovom, progovoriše mu na vratima kuænim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I rekoše: èuj, gospodaru; došli smo bili i preðe, i kupismo hrane;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Pa kad doðosmo u jednu gostionicu i otvorismo vreæe, a to novci svakoga nas bijahu ozgo u vreæi njegovoj, novci naši na mjeru; i evo smo ih donijeli natrag;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A druge smo novce donijeli da kupimo hrane; ne znamo ko nam metnu novce naše u vreæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A on im reèe: budite mirni, ne bojte se; Bog vaš i Bog oca vašega metnuo je blago u vreæe vaše; novci su vaši bili u mene. I izvede im Simeuna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I uvede ih èovjek u kuæu Josifovu, i donese im vode te opraše noge, i magarcima njihovijem položi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I pripraviše dar èekajuæi dokle doðe Josif u podne, jer èuše da æe oni ondje objedovati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I kad Josif doðe kuæi, iznesoše mu dar koji imahu kod sebe, i pokloniše mu se do zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A on ih zapita kako su, i reèe: kako je otac vaš stari, za koga mi govoriste? je li jošte živ?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A oni rekoše: dobro je sluga tvoj, otac naš; još je živ. I pokloniše mu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A on pogledav vidje Venijamina brata svojega, sina matere svoje, i reèe: je li vam to najmlaði brat vaš za kojega mi govoriste? I reèe: Bog da ti bude milostiv, sinko!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A Josifu goraše srce od ljubavi prema bratu svojemu, te brže potraži gdje æe plakati, i ušav u jednu sobu plaka ondje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Poslije umiv se izaðe, i ustežuæi se reèe: dajte objed."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I donesoše njemu napose, i njima napose, i Misircima koji objedovahu u njega napose, jer ne mogahu Misirci jesti s Jevrejima, jer je to neèisto Misircima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A sjeðahu pred njim stariji po starješinstvu svojem a mlaði po mladosti svojoj. I zgledahu se od èuda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I uzimajuæi jela ispred sebe slaše njima, i Venijaminu dopade pet puta više nego drugima. I piše i napiše se s njim."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/43.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 43
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/44.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 44
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/42.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 42
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 34
+}

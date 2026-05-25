@@ -1,0 +1,153 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Potom povika iza glasa, te èuh, i reèe: pristupite koji ste poslani na grad svaki s oružjem svojim smrtnijem u ruci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I gle, šest ljudi doðe do visokih vrata, koja gledaju na sjever, svaki sa svojim oružjem smrtnijem u ruci, i meðu njima bješe jedan èovjek obuèen u platno s opravom pisarskom uz bedricu; i došavši stadoše kod oltara mjedenoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A slava Boga Izrailjeva podiže se s heruvima, na kojima bijaše, na prag od doma, i viknu èovjeka obuèenoga u platno koji imaše uz bedricu opravu pisarsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I reèe mu Gospod: proði posred grada, posred Jerusalima, i zabilježi biljegom èela onijem ljudima koji uzdišu i koji ridaju radi svijeh gadova što se èine usred njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A drugima reèe i èuh: proðite za njim po gradu, i pobijte, neka ne žali oko vaše niti se smilujte;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Starce i mladiæe, i djevojke i djecu i žene pobijte da se istrijebe; ali na kome god bude znak, k njemu ne pristupajte; i poènite od moje svetinje. I poèeše od starješina što bjehu pred domom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I reèe im: oskvrnite dom, i napunite trijemove pobijenijeh; idite. I izašavši stadoše ubijati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A kad ubijahu i ja ostah, padoh na lice svoje i povikah i rekoh: jaoh Gospode Gospode, eda li æeš zatrti sav ostatak Izrailjev izlivši gnjev svoj na Jerusalim?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A on mi reèe: bezakonje doma Izrailjeva i Judina preveliko je, i puna je zemlja krvi, i grad je pun opaèine; jer rekoše: Gospod je ostavio zemlju, i Gospod ne vidi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zato ni moje oko neæe žaliti, niti æu se smilovati; put njihov obratiæu na glavu njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I gle, èovjek, obuèen u platno, kojemu uz bedricu bijaše oprava pisarska, javi govoreæi: uèinio sam kako si mi zapovjedio."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/9.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 9
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/10.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 10
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/8.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 8
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 11
+}

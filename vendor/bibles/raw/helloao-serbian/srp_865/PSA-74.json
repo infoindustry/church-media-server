@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 74,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Zašto se, Bože, srdiš na nas dugo; dimi se gnjev tvoj na ovce paše tvoje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Opomeni se sabora svojega, koji si stekao od starine, iskupio sebi u našljednu državu, gore Siona, na kojoj si se naselio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Podigni stope svoje na stare razvaline: sve je razrušio neprijatelj u svetinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Rièu neprijatelji tvoji na mjestu sabora tvojih, svoje obièaje postavljaju mjesto naših obièaja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Vidiš, oni su kao onaj koji podiže sjekiru na spletene grane u drveta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Sve u njemu što je rezano razbiše sjekirama i bradvama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ognjem sažegoše svetinju tvoju; na zemlju obalivši oskvrniše stan imena tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Rekoše u srcu svojem: potrimo ih sasvijem. Popališe sva mjesta sabora Božijih na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Obièaja svojih ne vidimo, nema više proroka, i nema u nas ko bi znao dokle æe to trajati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Dokle æe se, Bože, rugati nasilnik? hoæe li dovijeka protivnik prkositi imenu tvojemu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zašto ustavljaš ruku svoju i desnicu svoju? Pruži iz njedara svojih, i istrijebi ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Bože, care moj, koji od starine tvoriš spasenje posred zemlje!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ti si silom svojom raskinuo more, i satro glave vodenim nakazama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ti si razmrskao glavu krokodilu, dao ga onima koji žive u pustinji da ga jedu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ti si otvorio izvore i potoke, ti si isušio rijeke koje ne presišu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tvoj je dan i tvoja je noæ, ti si postavio zvijezde i sunce."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ti si utvrdio sve krajeve zemaljske, ljeto i zimu ti si uredio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Opomeni se toga, neprijatelj se ruga Gospodu, i narod bezumni ne mari za ime tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ne daj zvijerima duše grlice svoje, nemoj zaboraviti stada stradalaca svojih zasvagda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Pogledaj na zavjet; jer su sve peæine zemaljske pune stanova bezakonja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Nevoljnik nek se ne vrati sramotan, ništi i ubogi neka hvale ime tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ustani, Bože, brani stvar svoju, opomeni se kako ti se bezumnik ruga svaki dan!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ne zaboravi obijesti neprijatelja svojih, vike, koju jednako dižu protivnici tvoji!"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/74.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 74
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/75.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 75
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/73.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 73
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

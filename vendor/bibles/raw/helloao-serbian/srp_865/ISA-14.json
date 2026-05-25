@@ -1,0 +1,300 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 14,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Jer æe se smilovati Gospod na Jakova, i opet æe izabrati Izrailja, i namjestiæe ih u zemlji njihovoj, i prilijepiæe se k njima došljaci i pridružiæe se domu Jakovljevu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer æe ih uzeti narodi i odvesti na mjesto njihovo, i naslijediæe ih Izrailjci u zemlji Gospodnjoj da im budu sluge i sluškinje, i zarobiæe one koji ih bjehu zarobili, i biæe gospodari svojim nasilnicima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I kad te smiri Gospod od truda tvojega i muke i od ljutoga ropstva u kom si robovao,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tada æeš izvoditi ovu prièu o caru Vavilonskom i reæi æeš: kako nesta nastojnika, nesta danka?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Slomi Gospod štap bezbožnicima, palicu vladaocima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Koja je ljuto bila narode bez prestanka, i gnjevno vladala nad narodima, i gonila nemilice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Sva zemlja poèiva i mirna je; pjevaju iza glasa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Vesele se s tebe i jele i kedri Livanski govoreæi: otkako si pao, ne dolazi niko da nas sijeèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Pakao dolje uskoleba se tebe radi da te srete kad doðeš, probudi ti mrtvace i sve knezove zemaljske, diže s prijestola njihovijeh sve careve narodne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Svi æe progovoriti i reæi tebi: i ti li si iznemogao kao mi? izjednaèio se s nama?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Spusti se u pakao ponos tvoj, zveka psaltira tvojih; prostrti su poda te moljci, a crvi su ti pokrivaè."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Kako pade s neba, zvijezdo danice, kæeri zorina? kako se obori na zemlju koji si gazio narode?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A govorio si u srcu svom: izaæi æu na nebo, više zvijezda Božijih podignuæu prijesto svoj, i sješæu na gori zbornoj na strani sjevernoj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Izaæi æu u visine nad oblake, izjednaèiæu se s višnjim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A ti se u pakao svrže, u dubinu grobnu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Koji te vide pogledaæe na te, i gledaæe te govoreæi: to li je onaj koji je tresao zemlju, koji je drmao carstva,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Koji je vasiljenu obraæao u pustinju, i gradove njezine raskopavao? roblje svoje nije otpuštao kuæi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Svi carevi narodni, svikoliki, leže slavno, svaki u svojoj kuæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A ti se izbaci iz groba svojega, kao gadna grana, kao haljina pobijenijeh, maèem pobodenijeh, koji slaze u jamu kamenu, kao pogaženi strv."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Neæeš se združiti s njima pogrebom, jer si zemlju svoju zatro, narod si svoj ubio; neæe se spominjati sjeme zlikovaèko dok je vijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Pripravite pokolj sinovima njegovijem za bezakonje otaca njihovijeh da se ne podignu i ne naslijede zemlje i ne napune vasiljene gradovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer æu ustati na njih, govori Gospod nad vojskama, i zatræu ime Vavilonu i ostatak, i sina i unuka, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I naèiniæu od njega stan æukovima i jezera vodena, i omešæu ga metlom pogibli, govori Gospod nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Zakle se Gospod nad vojskama govoreæi: doista, biæe kako sam smislio, i kako sam naumio izvršiæe se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Potræu Asirca u zemlji svojoj, na gorama svojim izgaziæu ga; tada æe se skinuti s njih jaram njegov, i breme njegovo s pleæa njihovijeh skinuæe se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "To je namišljeno svoj zemlji, i to je ruka podignuta na sve narode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jer je Gospod nad vojskama naumio, ko æe razbiti? i njegovu ruku podignutu ko æe odvratiti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Godine koje umrije car Ahaz bi objavljeno ovo breme:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Nemoj se radovati, zemljo Filistejska svakolika, što se slomi prut onoga koji te je bio; jer æe iz korijena zmijinjega niknuti zmija vasilinska, i plod æe mu biti zmaj ognjeni krilati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I prvenci siromaški nahraniæe se, i ubogi æe poèivati bez straha; a tvoj æu korijen umoriti glaðu, i ostatak tvoj on æe pobiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ridajte, vrata; vièi, grade; rastopila si se, sva zemljo Filistejska, jer sa sjevera ide dim i niko se neæe osamiti u zborovima njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I šta æe se odgovoriti poslanicima narodnijem? Da je Gospod osnovao Sion i da æe u nj utjecati nevoljnici naroda njegova."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/14.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 14
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/15.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 15
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/13.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 13
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 32
+}

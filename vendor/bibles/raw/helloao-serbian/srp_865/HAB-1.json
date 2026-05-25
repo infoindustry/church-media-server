@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "HAB",
+    "translationId": "srp_865",
+    "name": "Avakum",
+    "commonName": "Avakum",
+    "title": "Avakum",
+    "order": 35,
+    "numberOfChapters": 3,
+    "sha256": "c20a4246255927307b8baac3f6346d9b1098ca0c2e46de5cd50d0e26614ae76e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/HAB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "HAB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 3,
+    "lastChapterApiLink": "/api/srp_865/HAB/3.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "HAB",
+      "chapter": 3
+    },
+    "totalNumberOfVerses": 56
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Breme koje vidje prorok Avakum."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Dokle æu, Gospode, vapiti a ti neæeš da èuješ? dokle æu ti vikati: nasilje! a ti neæeš da izbaviš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Zašto puštaš da vidim bezakonje, i da gledam muku i grabež i nasilje pred sobom, i kako podižu svaðu i raspru?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Zato se ostavlja zakon, i sud ne izlazi nigda, jer bezbožnik optjeèe pravednika, zato sud izlazi izopaèen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Pogledajte po narodima i vidite, i èudite se i divite se, jer æu uèiniti djelo u vaše dane kojega neæete vjerovati kad se stane pripovijedati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer, evo, ja æu podignuti Haldejce, narod ljut i nagao, koji æe iæi po zemlji širom da osvoji naselja koja nijesu njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Žestok je i strašan, sud njegov i vlast njegova od njega izlazi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Konji æe mu biti brži od risova i ljuæi od vukova uveèe, veliko æe mnoštvo biti konjika njegovijeh, i iduæi izdaleka konjici njegovi doletjeæe kao orao kad hiti na lov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Svi æe doæi na grabež, s lica æe biti kao istoèni vjetar, pokupiæe roblje kao pijesak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I carevima æe se rugati i knezovi æe im biti potsmijeh, smijaæe se svakom gradu, nasuæe zemlje, i uzeæe ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tada æe mu se promijeniti duh, proæi æe i skriviæe; ta æe mu sila njegova biti od boga njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nijesi li ti od vijeka, Gospode Bože moj, sveèe moj? neæemo umrijeti; ti si ga, Gospode, odredio za sud; i utvrdio si ga, stijeno, za karanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Èiste su oèi tvoje da ne možeš gledati zla, i bezakonja ne možeš gledati; zašto gledaš bezakonike? muèiš, kad bezbožnik proždire pravijega od sebe?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I hoæeš li ostaviti ljude kao ribe morske, kao bubine, koje nemaju gospodara?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Izvlaèi ih sve udicom, hvata ih u mrežu svoju, i zgræe ih preðom svojom, zato se veseli i raduje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Zato prinosi žrtvu svojoj mreži, i kadi svojoj preði; jer je tijem dio njegov pretio i hrana mu izabrana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Hoæe li zato izvlaèiti mrežu svoju i jednako ubijati narode nemilice?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/HAB/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "HAB",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/HAB/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "HAB",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NAM/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NAM",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

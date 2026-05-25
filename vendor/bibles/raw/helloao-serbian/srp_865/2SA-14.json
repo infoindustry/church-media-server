@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2SA",
+    "translationId": "srp_865",
+    "name": "2. Samuelova",
+    "commonName": "2. Samuelova",
+    "title": "2. Samuelova",
+    "order": 10,
+    "numberOfChapters": 24,
+    "sha256": "e9bcfc863ad7bd2a939eb305126ad735f393202a88f773ac55550249ed219529",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/2SA/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 695
+  },
+  "chapter": {
+    "number": 14,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Joav sin Serujin opazi da se srce carevo obratilo k Avesalomu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I posla Joav u Tekuju te dozva otuda ženu lukavu, pa joj reèe: uèini se kao da si u žalosti, i obuci žalosne haljine, i nemoj se namazati uljem, nego budi kao žena koja odavna žali za mrtvijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I otidi k caru, i govori mu tako i tako. I nauèi je Joav šta æe govoriti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I kad otide žena Tekujanka k caru da govori, pade nièice na zemlju i pokloni se, i reèe: pomagaj, care!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A car joj reèe: što ti je? A ona reèe: udovica sam, umro mi je muž."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A imaše sluškinja tvoja dva sina, pa se svadiše u polju, a ne bješe nikoga da ih razvadi, te jedan udari drugoga i ubi ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I gle, sav dom usta na sluškinju tvoju govoreæi: daj toga što je ubio brata svojega da ga pogubimo za dušu brata njegova, kojega je ubio, i da istrijebimo našljednika; i tako hoæe da ugase iskru koja mi je ostala, da ne ostave imena mužu mojemu ni ostatka na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A car reèe ženi: idi kuæi svojoj, a ja æu narediti za te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A žena Tekujanka reèe caru: care gospodaru! neka na me i na dom oca mojega padne krivica, a car i njegov prijesto neka je prav."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A car reèe: ko uzgovori na te, dovedi ga k meni, i neæe te se više dotaæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A ona reèe: neka se opomene car Gospoda Boga svojega, da se ne umnože osvetnici koji ubijaju, i da ne ubiju sina mojega. A on reèe: tako živ bio Gospod, nijedna dlaka s tvojega sina neæe pasti na zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A žena reèe: da kaže sluškinja tvoja nešto caru gospodaru. A on reèe: govori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A žena reèe: a zašto si namislio taku stvar narodu Božijemu? jer car kao da je kriv govoreæi tako, jer neæe car da dozove natrag onoga koga je odagnao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer æemo doista pomrijeti, i jesmo kao voda koja se prospe na zemlju i više se ne može skupiti; jer mu Bog nije uzeo života, nego je naumio da odagnani ne ostane odagnan od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I tako doðoh da kažem ovo caru gospodaru svojemu, jer me narod uplaši; zato reèe sluškinja tvoja: da govorim caru, može biti da æe uèiniti car što sluškinja njegova kaže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer æe car uslišiti i izbaviti sluškinju svoju iz ruke onoga koji hoæe da istrijebi mene i sina mojega iz našljedstva Božijega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I sluškinja tvoja reèe: rijeè cara gospodara mojega biæe mi utjeha, jer je car gospodar moj kao anðeo Božji, te sluša i dobro i zlo, i Gospod æe Bog tvoj biti s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A car odgovori i reèe ženi: nemoj tajiti od mene što æu te pitati. A žena reèe: neka govori car gospodar moj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tada car reèe: da nije Joavov posao u svemu tome što èiniš? A žena odgovori i reèe: tako da je živa duša tvoja, care gospodaru, ne može se ni nadesno ni nalijevo od svega što kaza car gospodar moj; jer sluga tvoj Joav zapovijedio mi je i nauèio sluškinju tvoju sve ovo da govorim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Sluga je tvoj Joav uèinio, te sam ovako izvila besjedu svoju; ali je gospodar moj mudar kao anðeo Božji, te zna sve što biva na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tada reèe car Joavu: evo, ti si uèinio to, idi, dovedi natrag dijete Avesaloma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Tada pade Joav licem na zemlju, i pokloni se i blagoslovi cara, i reèe Joav: danas vidi sluga tvoj da sam našao milost pred tobom, care gospodaru, kad je car uèinio što mu sluga njegov reèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Potom se podiže Joav i otide u Gesur, i dovede natrag u Jerusalim Avesaloma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I car reèe: neka ide svojoj kuæi, a lica mojega da ne vidi. I otide Avesalom svojoj kuæi, i ne vidje lica careva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A ne bješe èovjeka tako lijepa kao Avesalom u svem Izrailju, da ga tako hvale; od pete do tjemena ne bješe na njemu mane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I kad bi strigao glavu a imaše obièaj svake godine striæi je, jer mu bijaše teško mjerio bi kosu s glave svoje, i bivaše je dvjesta sikala carskom mjerom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I rodiše se Avesalomu tri sina i jedna kæi, kojoj bijaše ime Tamara, i ona bijaše lijepa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I Avesalom osta cijele dvije godine u Jerusalimu, a lica careva ne vidje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Tada posla Avesalom po Joava da ga pošlje k caru; ali on ne htje doæi k njemu; i posla opet drugi put, ali on ne htje doæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Tada reèe slugama svojim: vidite li njivu Joavovu pored moje? na njoj je jeèam; idite i upalite je. I upališe sluge Avesalomove onu njivu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Tada se podiže Joav, i doðe k Avesalomu u kuæu, i reèe mu: zašto sluge tvoje upališe moju njivu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Avesalom reèe Joavu: eto slao sam k tebi govoreæi: hodi ovamo da te pošljem k caru da mu kažeš: zašto sam došao iz Gesura? bolje bi bilo da sam još ondje. Zato da vidim lice carevo; ako li ima kaka krivica na meni, neka me pogubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I otide Joav k caru, i kaza mu. I dozva Avesaloma; a on došavši k caru pokloni se licem do zemlje pred carem, i car cjelova Avesaloma."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2SA/14.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 14
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2SA/15.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 15
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2SA/13.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 13
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

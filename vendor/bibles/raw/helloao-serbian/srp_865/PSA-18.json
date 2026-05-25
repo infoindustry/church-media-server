@@ -1,0 +1,426 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ljubiæu te, Gospode, krjeposti moja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Gospode, grade moj, zaklone moj, koji se oboriti ne može, izbavitelju moj, Bože moj, kamena goro, na kojoj se ne bojim zla, štite moj, rože spasenja mojega, utoèište moje!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Prizivljem Gospoda, kojemu se klanjati valja, i opraštam se neprijatelja svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Obuzeše me smrtne bolesti, i potoci nevaljalijeh ljudi uplašiše me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Opkoliše me bolesti paklene, stegoše me zamke smrtne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "U svojoj tjeskobi prizvah Gospoda, i k Bogu svojemu povikah; on èu iz dvora svojega glas moj, i vika moja doðe mu do ušiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zatrese se i pokoleba se zemlja, zadrmaše se i pomjeriše iz temelja gore, jer se on razljuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Podiže se dim od gnjeva njegova, iz usta njegovijeh oganj, koji proždire, i živo ugljevlje otskakaše od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Savi nebesa i siðe. Mrak bješe pod nogama njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Sjede na heruvima i podiže se, i poletje na krilima vjetrnijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Od mraka naèini sebi krov, sjenicu oko sebe, od mraènijeh voda, oblaka vazdušnijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Od sijevanja pred njim kroz oblake njegove udari grad i živo ugljevlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zagrmje na nebesima Gospod, i višnji pusti glas svoj, grad i živo ugljevlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Pusti strijele svoje, i razmetnu ih; silu munja, i rasu ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I pokazaše se izvori vodeni, i otkriše se temelji vasionoj od prijetnje tvoje, Gospode, od dihanja duha gnjeva tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tada pruži s visine ruku, uhvati me, izvuèe me iz vode velike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Izbavi me od neprijatelja mojega silnoga i od mojih nenavidnika, kad bijahu jaèi od mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ustaše na me u dan nevolje moje, ali mi Gospod bi potpora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Izvede me na prostrano mjesto, i izbavi me, jer sam mu mio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Dade mi Gospod po pravdi mojoj, i za èistotu ruku mojih dariva me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer se držah putova Gospodnjih, i ne odmetnuh se Boga svojega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Nego su svi zakoni njegovi preda mnom, i zapovijesti njegovijeh ne uklanjam od sebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Bih mu vjeran, i èuvah se od bezakonja svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Dade mi Gospod po pravdi mojoj, po èistoti ruku mojih pred oèima njegovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Sa svetima postupaš sveto, s èovjekom vjernim vjerno,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "S èistim èisto, a s nevaljalim nasuprot njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jer ti pomažeš ljudima nevoljnim, a oèi ponosite ponižavaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ti raspaljuješ vidjelo moje; Gospod moj prosvjetljuje tamu moju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "S tobom razbijam vojsku, i s Bogom svojim skaèem preko zida."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Put je Božji vjeran, rijeè Gospodnja èista. On je štit svjema koji se u nj uzdaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Jer ko je Bog osim Gospoda, i ko je obrana osim Boga našega?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ovaj Bog opasuje me snagom, i èini mi vjeran put."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Daje mi noge kao u jelena, i na visine stavlja me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Uèi ruke moje boju, i mišice moje èini da su luk od mjedi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ti mi daješ štit spasenja svojega; desnica tvoja drži me, i milost tvoja èini me velika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ti širiš korak moj, te se ne spotièu noge moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Tjeram neprijatelje svoje i stižem ih, i ne vraæam se dok ih ne istrijebim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Obaram ih, i ne mogu ustati, padaju pod noge moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Jer me ti opasuješ snagom za boj, i koji ustanu na me, obaraš ih preda mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Neprijatelja mojih pleæi ti mi obraæaš, i potirem nenavidnike svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Oni vièu, ali nema pomagaèa, ka Gospodu, ali ih on ne sluša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Rasipam ih kao prah po vjetru, kao blato po ulicama gazim ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Ti me izbavljaš od bune narodne, postavljaš me da sam glava tuðim plemenima; narod kojega ne poznavah, služi mi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Po samome èuvenju slušaju me, tuðini pokorni su mi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Tuðini blijede, dršæu u gradovima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Živ je Gospod, i da je blagosloven braniè moj! Da se uzvisi Bog spasenja mojega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Bog, koji mi daje osvetu, i pokorava mi narode,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Koji me izbavlja od neprijatelja, podiže me nad one koji ustaju na me i od èovjeka žestoka izbavlja me!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Toga radi hvalim te, Gospode, pred narodima, i pojem imenu tvojemu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Koji slavno izbavljaš cara svojega, i èiniš milost pomazaniku svojemu Davidu i natražju njegovu dovijeka."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/18.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 18
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/19.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 19
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/17.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 17
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 50
+}

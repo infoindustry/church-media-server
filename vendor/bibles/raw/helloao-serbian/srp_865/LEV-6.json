@@ -1,0 +1,286 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Opet reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kad ko zgriješi i uèini zlo djelo Gospodu udarivši u bah bližnjemu svojemu za ostavu ili za stvar predanu u ruke ili otevši što ili zanesavši bližnjega svojega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ili naðe izgubljeno što, pa udari u bah, ili se krivo zakune za koju god stvar koju može èovjek uèiniti i ogriješiti se njom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Kad tako zgriješi i skrivi, neka vrati što je oteo ili prisvojio prijevarom ili što mu je bilo dano na ostavu ili što je izgubljeno našao,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ili za što se zakleo krivo, neka plati cijelo i još dometne peti dio onome èije je; neka mu da onaj dan kad prinese žrtvu za svoj grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A na žrtvu za grijeh svoj neka prinese Gospodu ovna zdrava, sa cijenom kojom precijeniš krivicu neka ga dovede svešteniku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I oèistiæe ga sveštenik pred Gospodom, i oprostiæe mu se svaka stvar koju je uèinio, te skrivio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Zapovjedi Aronu i sinovima njegovijem, i reci im: ovo je zakon za žrtvu paljenicu: žrtva paljenica neka stoji na ognju na oltaru cijelu noæ do jutra, i oganj na oltaru neka gori jednako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Sveštenik neka obuèe svoju haljinu lanenu, i gaæe lanene neka obuèe na tijelo svoje, i neka zgrne pepeo kad oganj spali na oltaru žrtvu paljenicu, i neka ga izruèi kod oltara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Potom neka svuèe haljine svoje i obuèe druge haljine, i neka iznese pepeo napolje iz okola na èisto mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A oganj što je na oltaru neka gori na njemu, neka se ne gasi, nego neka sveštenik loži na oganj drva svako jutro, i neka namješta na nj žrtvu paljenicu, i neka pali na njemu salo od žrtava zahvalnih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Oganj neka jednako gori na oltaru, neka se ne gasi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A ovo je zakon za dar: sinovi Aronovi neka ga prinose Gospodu pred oltarom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Uzevši šaku bijeloga brašna i ulja od dara i sav kad koji bude na daru, neka zapali na oltaru spomen njegov na ugodni miris Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A što preteèe, neka jede Aron i sinovi njegovi; neka se jede bez kvasca na svetom mjestu; u trijemu šatora od sastanka neka jedu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Neka se ne mijesi s kvascem; to im dadoh da im bude dio od žrtava mojih ognjenih; to je svetinja nad svetinjama kao žrtva za grijeh i kao žrtva za prijestup."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Svako muško izmeðu sinova Aronovijeh neka to jede zakonom vjeènim od koljena do koljena od žrtava koje se pale Gospodu; što se god dotakne toga, biæe sveto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ovo je žrtva Aronova i sinova njegovijeh, koju æe prinositi Gospodu onaj dan kad se koji pomaže: desetinu efe bijeloga brašna za dar svagdašnji, polovinu ujutru a polovinu uveèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "U tavi s uljem neka se gotovi; prženo neka donese; i pržene komade dara neka prinese na ugodni miris Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I sveštenik izmeðu sinova njegovijeh, koji bude pomazan nakon njega, neka èini tako isto zakonom vjeènim; neka se pali Gospodu sve to;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I svaki dar sveštenikov neka se sav spali, a neka se ne jede."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Kaži Aronu i sinovima njegovijem, i reci: ovo je zakon za žrtvu radi grijeha: na mjestu gdje se kolje žrtva paljenica, neka se kolje i žrtva za grijeh pred Gospodom; svetinja je nad svetinjama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Sveštenik koji prinese žrtvu za grijeh neka je jede; na svetom mjestu neka se jede, u trijemu od šatora od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Što se god dotakne mesa njezina, biæe sveto; i ako ko pokapa krvlju njezinom haljinu, ono što pokapa neka opere na svetom mjestu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I sud zemljani u kojem bude kuhano neka se razbije; ako li je kuhano u sudu mjedenom, neka se istre i vodom opere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Svako muško izmeðu sveštenika neka to jede; svetinja je nad svetinjama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ali nijedna žrtva za grijeh, od koje se krv unese u šator od sastanka da se uèini oèišæenje od grijeha u svetinji, neka se ne jede, nego neka se ognjem sažeže."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 30
+}

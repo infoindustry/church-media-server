@@ -1,0 +1,489 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Jošte reèe Gospod Mojsiju i Aronu govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Èovjek u koga bi na koži tijela njegova bio otok ili krasta ili bubuljica, i bilo bi na koži tijela njegova nalik na gubu, neka se dovede k Aronu svešteniku ili ka kojemu sinu njegovu svešteniku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I neka sveštenik vidi boljeticu na koži tijela njegova; ako dlaka na boljetici bude pobijeljela i boljetica bude na oèi niža od ostale kože tijela njegova, onda je guba; pa kad je vidi sveštenik proglasiæe ga da je neèist."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ako li bude bijela bubuljica na koži tijela njegova i ne bude na oèi niža od ostale kože niti dlaka na njoj pobijeljela, onda neka zatvori sveštenik za sedam dana èovjeka sa takom boljeticom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A sedmoga dana neka vidi sveštenik; ako opazi da je boljetica ostala kako je bila i nije se dalje razišla po koži, neka ga zatvori sveštenik opet za sedam dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I neka ga sveštenik opet vidi sedmoga dana, pa ako opazi da se boljetica smanjala i nije se dalje razišla po koži, proglasiæe ga sveštenik da je èist; krasta je; i on neka opere haljine svoje i biæe èist."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ako li se dalje raširi krasta po koži njegovoj, pošto ga sveštenik vidi i proglasi da je èist, nanovo neka se pokaže svešteniku;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ako vidi sveštenik da se krasta raširila po koži njegovoj, proglasiæe sveštenik da je neèist; guba je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Kad je guba na èovjeku, neka ga dovedu k svešteniku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I sveštenik neka ga vidi; ako bude bijel otok na koži i dlaka bude pobijeljela, ako bi i zdravo meso bilo na otoku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Guba je zastarjela na koži tijela njegova; zato æe ga sveštenik proglasiti da je neèist, i neæe ga zatvoriti, jer je neèist."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ako li se guba izaspe po koži i pokriju svu kožu èovjeku od glave do pete, gdje bi god sveštenik oèima pogledao,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Kad sveštenik vidi da je guba pokrila svu kožu na njemu, proglasiæe da je èovjek èist, jer je sve pobijeljelo, pa je èist."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ali ako se pokaže na njemu divlje meso, biæe neèist."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Pa kad sveštenik vidi divlje meso, proglasiæe ga da je neèist; ono je divlje meso neèisto, guba je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A kad bi se divlje meso promijenilo i pobijeljelo, neka doðe k svešteniku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I kad vidi sveštenik da je boljetica pobijeljela, sveštenik æe proglasiti da je èist; èist je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Kad u koga na koži bude èir, pa proðe,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A poslije na mjestu gdje je bio èir izaðe otok bijel ili bubuljica bijela i crvenkasta, neka se pokaže svešteniku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ako sveštenik vidi da je na oèi niža od ostale kože i dlaka na njoj pobijeljela, proglasiæe ga sveštenik da je neèist, guba je, izašla je iz èira."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ako li sveštenik gledajuæi vidi da nije dlaka na njoj pobijeljela niti je niža od kože, nego se smanjala, onda æe ga zatvoriti sveštenik za sedam dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ako se raširi po koži, onda æe ga sveštenik proglasiti da je neèist; bolest je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ako li ostane na svom mjestu bubuljica i ne raširi se, požiljak je od èira; zato æe ga sveštenik proglasiti da je èist."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ako se ko po koži ožeže ognjem, pa pošto se zalijeèi ostane bubuljica bijela i crvenkasta ili samo bijela,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Neka ga vidi sveštenik; ako dlaka na bubuljici bude pobijeljela i ako na oèi bude niža nego koža, guba je, izašla je iz ožegline; zato æe ga sveštenik proglasiti da je neèist; guba je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ako li sveštenik vidi da na bubuljici nema bijele dlake niti je niža od kože, nego se smanjala, zatvoriæe ga za sedam dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Pa æe je sedmoga dana pogledati sveštenik; ako se bude raširila po koži, tada æe ga sveštenik proglasiti da je neèist; guba je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ako li bubuljica bude ostala na svom mjestu, i ne bude se raširila po koži, nego se smanjala, onda je rana od toga što se ožegao; zato æe ga sveštenik proglasiti da je èist, jer je požiljak od ožegline."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ako u èovjeka ili u žene bude boljetica na glavi ili na bradi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Sveštenik neka vidi boljeticu; ako na oèi bude niža od ostale kože i na njojzi dlaka žuækasta i tanka, sveštenik æe proglasiti da je neèist; ospa je, guba na glavi ili na bradi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A kad sveštenik vidi boljeticu, i opazi da na oèi nije niža od ostale kože i da nema na njoj crne dlake, tada æe zatvoriti sveštenik za sedam dana onoga na kom je ospa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Pa kad sveštenik sedmi dan vidi a ospa se nije dalje razišla niti dlaka na njoj požutjela, niti je na oèi ospa niža od kože,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Tada neka se obrije, ali ospu da ne obrije, i sveštenik neka zatvori još za sedam dana onoga na kom je ospa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I sedmoga dana neka sveštenik opet vidi ospu; ako opazi da se ospa nije dalje razišla po koži niti je na oèi niža od ostale kože, tada æe ga proglasiti sveštenik da je èist, pa neka opere haljine svoje, i biæe èist."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ako li se raširi ospa po koži, pošto bude proglašen da je èist,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Tada neka ga vidi sveštenik; ako se bude raširila ospa po koži, neka više ne gleda sveštenik ima li žutijeh dlaka; neèist je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Ako li opazi da je ospa ostala gdje je bila i da je crna dlaka izrasla po njoj, zalijeèila se ospa, èist je, i sveštenik æe proglasiti da je èist."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Kad u èovjeka ili u žene budu bubuljice po koži tijela njihova, bubuljice bijele,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Sveštenik neka vidi; ako na koži tijela njihova budu bijele bubuljice male, bijela je ospa izašla po koži, èist je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Kome opadne kosa s glave, æelav je, èist je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Ako mu sprijeda opadne kosa s glave, pola je æelav, i èist je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Kad na glavi sasvijem æelavoj ili pola æelavoj bude bijela i crvenkasta boljetica, guba je, izašla na glavi svoj æelavoj ili pola æelavoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I neka ga vidi sveštenik; ako opazi da je bijel i crvenkast otok na glavi svoj æelavoj ili pola æelavoj nalik na gubu po koži ostaloga tijela,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Èovjek je gubav, neèist je, i sveštenik æe ga proglasiti da je neèist; guba mu je na glavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "A gubavac na kom je ta bolest, neka ide u haljinama razdrtijem i gologlav, i usta neka zastre, i neka vièe: neèist, neèist."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Dokle je god bolest na njemu, neka bude neèist; neèist je, neka živi sam, iza okola neka mu bude stan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "I ako na haljini bude guba, na haljini vunenoj ili lanenoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Ili na osnovi ili na pouèici od lana ili od vune, ili na koži, ili na èem god od kože,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "I ako boljetica bude zelenkasta ili crvenkasta na haljini ili na koži ili na osnovi ili na pouèici ili na èem god od kože, guba je, i neka se pokaže svešteniku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "I kad vidi sveštenik bolest, neka zatvori za sedam dana stvar na kojoj je guba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "I sedmoga dana ako vidi da se dalje razišla bolest po haljini ili po osnovi ili po pouèici ili po koži ili po èemu god od kože, ljuta je guba bolest ona, stvar je neèista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Zato neka spali onu haljinu ili osnovu ili pouèicu od vune ili od lana, ili što god bude od kože, na èem bude bolest; jer je ljuta guba, ognjem neka se spali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Ako li opazi sveštenik da se bolest nije razišla po haljini ili po osnovi ili pouèici, ili po èemu god od kože,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "Tada neka zapovjedi sveštenik da se opere ono na èem je bolest, pa onda neka zatvori opet za sedam dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "Pa neka vidi sveštenik pošto se opere stvar na kojoj je bolest, i ako opazi da bolest nije promijenila boje svoje, ako se i ne bude dalje razišla, stvar je neèista, spali je ognjem; jer je ljuta guba na gornjoj ili na donjoj strani."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "Ako li vidi sveštenik da se mjesto smanjalo pošto je oprano, onda neka ga otkine od haljine ili od kože ili od osnove ili od pouèice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "Ako li se opet pokaže na haljini ili na osnovi ili na pouèici ili na èem god od kože, guba je koja se širi, ognjem spali ono na èem bude."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "A haljinu ili osnovu ili pouèicu ili što mu drago od kože, kad opereš, pa otide s njega ta bolest, operi još jednom, i biæe èisto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 59,
+        "content": [
+          "Ovo je zakon za gubu na haljini vunenoj ili lanenoj, ili na osnovi ili na pouèici, ili na èem god od kože, kako se može znati je li što èisto ili neèisto."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/13.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 13
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/14.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 14
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/12.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 12
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 59
+}

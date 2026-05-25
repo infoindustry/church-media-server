@@ -1,0 +1,356 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CO",
+    "translationId": "srp_865",
+    "name": "1 Korinæanima",
+    "commonName": "1 Korinæanima",
+    "title": "1. Korinæanima Poslanica",
+    "order": 46,
+    "numberOfChapters": 16,
+    "sha256": "114ef2323a27d8e2c5bd8d2269293cc5ec228241cba7d2999cf2908b344e5d17",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/1CO/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CO",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 437
+  },
+  "chapter": {
+    "number": 14,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Držite se ljubavi, a starajte se za duhovne dare, a osobito da prorokujete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer koji govori jezike, ne govori ljudima nego Bogu: jer niko ne sluša, a on duhom govori tajne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A koji prorokuje govori ljudima za popravljanje i utjehu i utvrðenje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer koji govori jezike sebe popravlja, a koji prorokuje crkvu popravlja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ali ja bih htio da vi svi govorite jezike, a još više da prorokujete: jer je veæi onaj koji prorokuje negoli koji govori jezike, veæ ako ko kazuje, da se crkva popravlja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A sad, braæo, ako doðem k vama jezike govoreæi, kaku æu korist uèiniti ako vam ne govorim ili u otkrivenju, ili u razumu, ili u proroštvu, ili u nauci?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Kao neke stvari bezdušne koje daju glas, bila svirala ili gusle, ako razlièna glasa ne daju, kako æe se razumjeti šta se svira ili gudi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer ako truba da nerazgovijetan glas, ko æe se pripraviti na boj?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tako i vi ako nerazumljivu rijeè reèete jezikom, kako æe se razumjeti šta govorite? Jer æete govoriti u vjetar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ima na svijetu Bog zna koliko razliènijeh glasova, ali nijedan nije bez znaèenja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ako dakle ne znam sile glasa, biæu nijemac onome kome govorim, i onaj koji govori biæe meni nijemac."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tako i vi, buduæi da se starate za duhovne darove, gledajte da budete onima bogati koji su na popravljanje crkve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zato koji govori jezikom neka se moli Bogu da kazuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer ako se jezikom molim Bogu, moj se duh moli, a um je moj bez ploda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Šta æe se dakle èiniti? Moliæu se Bogu duhom, a moliæu se i umom; hvaliæu Boga duhom, a hvaliæu i umom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer kad blagosloviš duhom kako æe onaj koji stoji mjesto prostaka reæi amin po tvome blagoslovu, kad ne zna šta govoriš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ti dobro zahvaljuješ, ali se drugi ne popravlja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Hvala Bogu mojemu što govorim jezike veæma od sviju vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ali u crkvi volim pet rijeèi umom svojijem reæi, da se i drugi pomognu, negoli hiljadu rijeèi jezikom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Braæo! ne budite djeca umom, nego pakošæu djetinjite, a umom budite savršeni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "U zakonu piše: drugijem jezicima i drugijem usnama govoriæu narodu ovome, i ni tako me neæe poslušati, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Zato su jezici za znak ne onima koji vjeruju, nego koji ne vjeruju; a proroštvo ne onima koji ne vjeruju, nego koji vjeruju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ako se dakle skupi crkva sva na jedno mjesto, i svi uzgovorite jezicima, a doðu i prostaci, ili nevjernici, neæe li reæi da ste poludjeli?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A ako svi prorokuju, i doðe kakav nevjernik ili prostak, bude pokaran od sviju i suðen od sviju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I tako tajne srca njegova bivaju javljene, i tako padnuvši nièice pokloniæe se Bogu, i kazaæe da je zaista Bog s vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Šta æe se dakle èiniti, braæo? Kad se sabirate svaki od vas ima psalam, ima nauku, ima jezik, ima otkrivenje, ima kazivanje; a sve da biva na popravljanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ako govori ko jezikom, ili po dvojica, ili najviše po trojica, i to poredom; a jedan da kazuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ako li ne bude nikoga da kazuje, neka æuti u crkvi, a sebi neka govori i Bogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A proroci dva ili tri neka govore, i drugi neka rasuðuju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ako li se otkrije što drugome koji sjedi, neka èeka dok prvi uæuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Jer možete prorokovati svi, jedan po jedan, da se svi uèe, i svi da se tješe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I duhovi proroèki pokoravaju se prorocima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Jer Bog nije Bog bune, nego mira, kao po svima crkvama svetijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Žene vaše da æute u crkvama; jer se njima ne dopusti da govore, nego da slušaju, kao što i zakon govori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ako li hoæe èemu da se nauèe, kod kuæe muževe svoje neka pitaju; jer je ružno ženi da govori u crkvi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Eda li od vas rijeè Božija iziðe? ili samijem vama doðe?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Ako ko misli da je prorok ili duhovan, neka razumije što vam pišem, jer su Gospodnje zapovijesti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Ako li ko ne razumije, neka ne razumije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Zato, braæo moja, starajte se da prorokujete, i ne zabranjujte govoriti jezicima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A sve neka biva pošteno i uredno."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CO/14.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 14
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CO/15.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 15
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CO/13.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 13
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 40
+}

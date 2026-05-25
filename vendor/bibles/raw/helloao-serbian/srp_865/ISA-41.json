@@ -1,0 +1,279 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 41,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Umuknite preda mnom, ostrva; i narodi neka se potkrijepe, neka pristupe, i tada neka reku: hajdemo da se sudimo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ko je podigao pravdu s istoka? ko je dozvao da ide za njim ustopice? ko joj je pokorio narode i dao joj vlast nad carevima i uèinio te su kao prah maèu njezinu i kao razvijana pljeva luku njezinu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Pogna ih, proðe mirno putem, kojim ne bješe hodio nogama svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ko je uradio i uèinio to? i zove naraštaje od iskona? Ja, Gospod, prvi i pošljednji, ja isti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Vidješe ostrva i uplašiše se, krajevi zemaljski zadrktaše, približiše se i doðoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jedan drugom pomagaše, i bratu svojemu govoraše: budi hrabar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Drvodjelja hrabraše zlatara; koji kleplje hrabraše onoga koji kuje na nakovnju, govoreæi: dobro je za spajanje. I pritvrðivaše klincima da se ne pomièe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ali ti, Izrailju, slugo moj; Jakove, kojega izabrah, sjeme Avrama prijatelja mojega!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ti, kojega uzeh s krajeva zemaljskih, i izmeðu izbranijeh njezinijeh dozvah te, i rekoh ti: ti si moj sluga, ja te izabrah, i ne odbacih tebe;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ne boj se, jer sam ja s tobom; ne plaši se, jer sam ja Bog tvoj; ukrijepiæu te i pomoæi æu ti, i poduprijeæu te desnicom pravde svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Gle, postidjeæe se i posramiæe svi koji se ljute na tebe; biæe kao ništa i izginuæe protivnici tvoji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Potražiæeš suparnike svoje, ali ih neæeš naæi, biæe kao ništa, i koji vojuju na te, nestaæe ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer ja Gospod Bog tvoj držim te za desnicu, i kažem ti: ne boj se, ja æu ti pomagati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ne boj se, crviæu Jakovljev, narodiæu Izrailjev, ja æu ti pomagati, govori Gospod i izbavitelj tvoj, svetac Izrailjev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Gle, uèiniæu te da budeš kao sprava za vršenje nova sa zupcima: vrijeæi æeš gore i satræeš ih, i brda æeš obratiti u pljevu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Vijaæeš ih, i vjetar æe ih odnijeti i vihor æe ih rasuti, a ti æeš se veseliti u Gospodu i hvaliæeš se svecem Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Siromahe i uboge, koji traže vode a nje nema, kojima se jezik osušio od žeði, njih æu uslišiti ja Gospod, ja Bog Izrailjev neæu ih ostaviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Otvoriæu rijeke na visovima, i izvore usred dolina, pustinju æu obratiti u jezero vodeno, i suhu zemlju u izvore vodene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Posadiæu u pustinji kedar, sitim, mirtu i maslinu; posadiæu u pustoj zemlji jelu, brijest i šimšir,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Da vide i poznadu i da promisle i razumiju da je to uradila ruka Gospodnja, i svetac Izrailjev da je to stvorio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Iznesite parbu svoju, veli Gospod, pokažite razloge svoje, veli car Jakovljev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Neka doðu i neka nam objave šta æe biti; objavite nam šta je prvo bilo, da promislimo i poznamo šta æe biti iza toga; ili kažite nam šta æe biti unapredak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Kažite šta æe biti poslije, i poznaæemo da ste bogovi; ili uèinite što dobro ili zlo, i diviæemo se i gledati svi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Gle, vi nijeste ništa, i djelo vaše nije ništa; koji vas izbira, gad je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Podigoh jednoga sa sjevera, i doæi æe; od istoka sunèanoga prizivaæe ime moje, stupaæe po glavarima kao po kalu i kao što lonèar gazi blato."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ko je objavio od iskona, da bismo znali, ili od starina, da bismo rekli: istina je? Ali nema nikoga da bi objavio, niti ima koga da naprijed kazao, niti ima koga da bi èuo rijeèi vaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ja prvi Sionu kažem: eto, eto toga. U Jerusalimu æu dati ko æe javljati dobre glase."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Jer pogledam, ali nema nikoga, nema meðu njima nijednoga ko bi svjetovao; pitam ih, ali ne odgovaraju ni rijeèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Gle, svi su taština, ništa su djela njihova; liveni su likovi njihovi vjetar i ništavilo."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/41.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 41
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/42.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 42
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/40.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 40
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

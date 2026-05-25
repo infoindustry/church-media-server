@@ -1,0 +1,377 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MRK",
+    "translationId": "srp_865",
+    "name": "Marku",
+    "commonName": "Marku",
+    "title": "Jevanðelje po Marku",
+    "order": 41,
+    "numberOfChapters": 16,
+    "sha256": "c4e35f7fe68e45b5731573fc03ca93f2cb48eea346a1b1abc79ae9266aa9bd92",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MRK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MRK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/MRK/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MRK",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 678
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I doðoše preko mora u okolinu Gadarinsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I kad iziðe iz laðe, odmah ga srete èovjek s duhom neèistijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Koji življaše u grobovima i niko ga ne mogaše svezati ni verigama;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer je mnogo puta bio metnut u puta i u verige, pa je iskidao verige i puta izlomio; i niko ga ne mogaše ukrotiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I jednako dan i noæ bavljaše se u grobovima i u gorama vièuæi i bijuæi se kamenjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A kad vidje Isusa izdaleka, poteèe i pokloni mu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I povikavši iza glasa reèe: šta je tebi do mene, Isuse sine Boga višnjega? Zaklinjem te Bogom, ne muèi me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer mu govoraše: iziði, duše neèisti, iz èovjeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I pitaše ga: kako ti je ime? I odgovori mu: legeon mi je ime; jer nas je mnogo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I moliše ga mnogo da ih ne šalje iz one okoline."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A ondje po brijegu pasijaše veliki krd svinja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I moliše ga svi ðavoli govoreæi: pošlji nas u svinje da u njih uðemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I dopusti im Isus odmah. I izišavši duhovi neèisti uðoše u svinje; i navali krd s brijega u more; a bijaše ih oko dvije hiljade: i potopiše se u moru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A svinjari pobjegoše, i javiše u gradu i po selima. I iziðoše ljudi da vide šta je bilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I doðoše k Isusu, i vidješe bijesnoga u kome je bio legeon gdje sjedi obuèen i pametan; i uplašiše se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A oni što su vidjeli kazaše im šta bi od bijesnoga i od svinja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I poèeše ga moliti da ide iz njihovijeh krajeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I kad uðe u laðu, moljaše ga onaj što je bio bijesan da bude s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A Isus ne dade mu, veæ mu reèe: idi kuæi svojoj k svojima i kaži im šta ti Gospod uèini, i kako te pomilova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I otide i poèe pripovijedati u Deset Gradova šta mu uèini Isus; i svi se divljahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I kad prijeðe Isus u laði opet na onu stranu, skupi se narod mnogi oko njega; i bješe kraj mora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I gle, doðe jedan od starješina zbornièkijeh po imenu Jair; i vidjevši ga pade pred noge njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I moljaše ga vrlo govoreæi: kæi je moja na smrti; da doðeš i da metneš na nju ruke da ozdravi i živi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I poðe s njim; i za njim iðaše naroda mnogo i turkahu ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I žena nekakva koja je dvanaest godina bolovala od teèenja krvi"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I veliku muku podnijela od mnogijeh ljekara, i potrošila sve što je imala, i ništa joj nijesu pomogli, nego još gore naèinili,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Kad je èula za Isusa, doðe u narodu sastrag, i dotaèe se haljine njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Jer govoraše: ako se samo dotaknem haljina njegovijeh ozdraviæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I odmah presahnu izvor krvi njezine, i osjeti u tijelu da ozdravi od bolesti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I odmah Isus osjeti u sebi silu što iziðe iz njega, i obazrevši se na narod reèe: ko se to dotaèe mojijeh haljina?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I rekoše mu uèenici njegovi: vidiš narod gdje te turka, pa pitaš: ko se dotaèe mene?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I on se obziraše da vidi onu koja to uèini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A žena uplašivši se drktaše, i znajuæi što joj se dogodi, doðe i kleèe pred njim, i kaza mu svu istinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A on reèe joj: kæeri! vjera tvoja pomože ti; idi s mirom, i budi zdrava od bolesti svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Još on govoraše, a doðoše od starješine zbornièkoga govoreæi: kæi tvoja umrije; šta veæ trudiš uèitelja?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A Isus odmah èuvši rijeè što rekoše reèe starješini: ne boj se, samo vjeruj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I ne dade za sobom iæi nikome osim Petra i Jakova i Jovana brata Jakovljeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I doðe u kuæu starješine zbornièkoga, i vidje vrevu i plaè i jauk veliki."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I ušavši reèe im: šta ste uzavreli te plaèete? Djevojka nije umrla, nego spava."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I potsmijevahu mu se. A on istjeravši sve uze oca djevojèina i mater i koji bijahu s njim, i uðe gdje ležaše djevojka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I uzevši djevojku za ruku reèe joj: Talita kumi, koje znaèi: djevojko, tebi govorim, ustani."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I odmah usta djevojka i hoðaše; a bješe od dvanaest godina. I zaèudiše se èudom velikijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I zaprijeti im vrlo da niko ne dozna za to, i reèe: podajte joj nek jede."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MRK/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MRK/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MRK/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 43
+}

@@ -1,0 +1,468 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "srp_865",
+    "name": "Luki",
+    "commonName": "Luki",
+    "title": "Jevanðelje po Luki",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "71d24bae001865beafd9dc8b76f8e93d8f927bd8e33391ea4aebbf53673c6a27",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LUK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/LUK/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Poslije toga iðaše on po gradovima i po selima uèeæi i propovijedajuæi jevanðelje o carstvu Božijemu, i dvanaestorica s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I neke žene koje bijahu iscijeljene od zlijeh duhova i bolesti: Marija, koja se zvaše Magdalina, iz koje sedam ðavola iziðe,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I Jovana, žena Huze pristava Irodova, i Susana, i druge mnoge koje služahu njemu imanjem svojijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A kad se sabra naroda mnogo, i iz sviju gradova dolažahu k njemu, kaza u prièi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Iziðe sijaè da sije sjeme svoje; i kad sijaše, jedno pade kraj puta, i pogazi se, i ptice nebeske pozobaše ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A drugo pade na kamen, i iznikavši osuši se, jer nemaše vlage."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I drugo pade u trnje, i uzraste trnje, i udavi ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A drugo pade na zemlju dobru, i iznikavši donese rod sto puta onoliko. Govoreæi ovo povika: ko ima uši da èuje neka èuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A uèenici njegovi pitahu ga govoreæi: šta znaèi prièa ova?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A on reèe: vama je dano da znate tajne carstva Božijega; a ostalima u prièama, da gledajuæi ne vide, i èujuæi ne razumiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A prièa ova znaèi: sjeme je rijeè Božija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A koje je kraj puta to su oni koji slušaju, ali potom dolazi ðavo, i uzima rijeè iz srca njihovoga, da ne vjeruju i da se ne spasu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A koje je na kamenu to su oni koji kad èuju s radosti primaju rijeè; i ovi korijena nemaju koji za neko vrijeme vjeruju, a kad doðe vrijeme kušanja otpadnu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A koje u trnje pade to su oni koji slušaju, i otišavši od brige i bogatstva i slasti ovoga života zaguše se, i rod ne sazri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A koje je na dobroj zemlji to su oni koji rijeè slušaju, i u dobrome i èistom srcu drže, i rod donose u trpljenju. Ovo govoreæi povika: ko ima uši da èuje neka èuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Niko pak svijeæe ne poklapa sudom kad je zapali, niti meæe pod odar, nego je metne na svijeænjak da vide svjetlost koji ulaze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer nema ništa tajno što neæe biti javno, ni sakriveno što se neæe doznati i na vidjelo iziæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Gledajte dakle kako slušate; jer ko ima, daæe mu se, a ko nema, uzeæe se od njega i ono što misli da ima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Doðoše pak k njemu mati i braæa njegova, i ne mogahu od naroda da govore s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I javiše mu govoreæi: mati tvoja i braæa tvoja stoje napolju, hoæe da te vide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A on odgovarajuæi reèe im: mati moja i braæa moja oni su koji slušaju rijeè Božiju i izvršuju je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I dogodi se u jedan dan on uljeze s uèenicima svojijem u laðu, i reèe im: da prijeðemo na onu stranu jezera. I poðoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A kad iðahu oni on zaspa. I podiže se oluja na jezeru, i topljahu se, i bijahu u velikoj nevolji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I pristupivši probudiše ga govoreæi: uèitelju! uèitelju! izgibosmo. A on ustade, i zaprijeti vjetru i valovima; i prestadoše i posta tišina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A njima reèe: gdje je vjera vaša? A oni se poplašiše, i èuðahu se govoreæi jedan drugome: ko je ovaj što i vjetrovima i vodi zapovijeda, i slušaju ga?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I doðoše u okolinu Gadarinsku koja je prema Galileji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A kad iziðe on na zemlju, srete ga jedan èovjek iz grada u kome bijahu ðavoli od mnogo godina, i u haljine ne oblaèaše se, i ne življaše u kuæi, nego u grobovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A kad vidje Isusa, povika i pripade k njemu i reèe zdravo: što je tebi do mene, Isuse, sine Boga najvišega? Molim te, ne muèi me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Jer Isus zapovjedi duhu neèistome da iziðe iz èovjeka; jer ga muèaše odavno, i metahu ga u verige i u puta da ga èuvaju, i iskida sveze, i tjeraše ga ðavo po pustinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A Isus ga zapita govoreæi: kako ti je ime? A on reèe: legeon; jer mnogi ðavoli bijahu ušli u nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I moljahu ga da im ne zapovjedi da idu u bezdan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A ondje pasijaše po gori veliki krd svinja, i moljahu ga da im dopusti da u njih uðu. I dopusti im."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Tada iziðoše ðavoli iz èovjeka i uðoše u svinje; i navali krd s brijega u jezero, i utopi se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A kad vidješe svinjari što bi, pobjegoše i javiše u gradu i po selima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I iziðoše ljudi da vide šta je bilo, i doðoše k Isusu, i naðoše èovjeka iz koga ðavoli bijahu izišli a on sjedi obuèen i pametan kod nogu Isusovijeh; i uplašiše se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A oni što su vidjeli kazaše im kako se iscijeli bijesni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I moli ga sav narod iz okoline Gadarinske da ide od njih; jer se bijahu vrlo uplašili. A on uljeze u laðu i otide natrag."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Èovjek pak iz koga iziðoše ðavoli moljaše da bi s njim bio; ali ga Isus otpusti govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Vrati se kuæi svojoj, i kazuj šta ti uèini Bog. I otide propovijedajuæi po svemu gradu šta mu Isus uèini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A kad se vrati Isus, srete ga narod, jer ga svi oèekivahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I gle, doðe èovjek po imenu Jair, koji bješe starješina u zbornici, i pade pred noge Isusove, i moljaše ga da uðe u kuæu njegovu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Jer u njega bješe jedinica kæi od dvanaest godina, i ona umiraše. A kad iðaše Isus, turkaše ga narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I bješe jedna bolesna žena od teèenja krvi dvanaest godina, koja je sve svoje imanje potrošila na ljekare i nijedan je nije mogao izlijeèiti,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "I pristupivši sastrag dotaèe se skuta od haljine njegove, i odmah stade teèenje krvi njezine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "I reèe Isus: ko je to što se dotaèe mene? A kad se svi odgovarahu, reèe Petar i koji bijahu s njim: uèitelju! narod te opkolio i turka te, a ti kažeš: ko je to što se dotaèe mene?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "A Isus reèe: neko se dotaèe mene; jer ja osjetih silu koja iziðe iz mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "A kad vidje žena da se nije sakrila, pristupi drkæuæi, i pade pred njim, i kaza mu pred svijem narodom zašto ga se dotaèe i kako odmah ozdravi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "A on joj reèe: ne boj se, kæeri! vjera tvoja pomože ti; idi s mirom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Dok on još govoraše doðe neko od kuæe starješine zbornièkoga govoreæi mu: umrije kæi tvoja, ne trudi uèitelja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "A kad èu Isus, odgovori mu govoreæi: ne boj se, samo vjeruj, i oživljeæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "A kad doðe u kuæu, ne dade nijednome uæi osim Petra i Jovana i Jakova, i djevojèina oca i matere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "A svi plakahu i jaukahu za njom; a on reèe: ne plaèite, nije umrla nego spava."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "I potsmijevahu mu se znajuæi da je umrla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "A on izagnavši sve uze je za ruku, i zovnu govoreæi: djevojko! ustani!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "I povrati se duh njezin, i ustade odmah; i zapovjedi da joj dadu neka jede."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "I diviše se roditelji njezini. A on im zapovjedi da nikome ne kazuju šta je bilo."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LUK/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LUK/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LUK/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 56
+}

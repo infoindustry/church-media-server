@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 109,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Bože, slavo moja, nemoj muèati,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer se usta bezbožnièka i usta lukava na me otvoriše; govore sa mnom jezikom lažljivijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Rijeèima zlobnijem sa svijeh strana gone me, i oružaju se na me ni za što."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Za ljubav moju ustaju na mene, a ja se molim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Vraæaju mi zlo za dobro, i mržnju za ljubav moju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Postavi nad njim starješinu bezbožnika, i protivnik neka mu stane s desne strane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Kad se stane suditi, neka izaðe kriv, i molitva njegova neka bude grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Neka budu dani njegovi kratki, i vlast njegovu neka dobije drugi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Djeca njegova nek budu sirote, i žena njegova udovica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Djeca njegova nek se potucaju i prose, i neka traže hljeba izvan svojih pustolina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Neka mu uzme dužnik sve što ima, i neka razgrabe tuðini muku njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nek se ne naðe niko ko bi ga ljubio, ni ko bi se smilovao na sirote njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Natražje njegovo nek se zatre, u drugom koljenu neka pogine ime njihovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Bezakonje starijeh njegovijeh nek se spomene u Gospoda, i grijeh matere njegove nek se ne izbriše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Neka budu svagda pred Gospodom, i on neka istrijebi spomen njihov na zemlji;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Zato što se nije sjeæao èiniti milost, nego je gonio èovjeka ništega i ubogoga, i tužnome u srcu tražio smrt."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ljubio je kletvu, neka ga i stigne; nije mario za blagoslov, neka i otide od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nek se obuèe u kletvu kao u haljinu, i ona nek uðe u njega kao voda, i kao ulje u kosti njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nek mu ona bude kao haljina, u koju se oblaèi, i kao pojas, kojim se svagda paše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Taka plata nek bude od Gospoda onima koji me nenavide, i koji govore zlo na dušu moju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A meni, Gospode, Gospode, uèini što prilièi imenu tvojemu. Ti si dobar, milošæu svojom izbavi me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer sam nevoljan i ništ, i srce je moje ranjeno u meni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Nestaje me kao sjena, kad se odmièe; tjeraju me kao skakavce."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Koljena moja iznemogoše od posta, i tijelo moje omrša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Postadoh potsmijeh njima; videæi me mašu glavom svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Pomozi mi, Gospode, Bože moj, spasi me po milosti svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Neka poznadu da je ovo tvoja ruka, i ti, Gospode, da si ovo uèinio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Oni kunu, a ti blagoslovi; ustaju, ali nek se postide, i sluga se tvoj obraduje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Nek se protivnici moji obuku u sramotu, i kao haljinom nek se pokriju stidom svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Hvaliæu Gospoda veoma ustima svojima, i usred mnogih slaviæu ga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Jer stoji s desne strane ubogome, da bi ga spasao od onijeh koji osuðuju dušu njegovu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/109.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 109
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/110.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 110
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/108.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 108
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

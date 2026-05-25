@@ -1,0 +1,188 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 16,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ali Sara žena Avramova ne raðaše mu djece. A imaše robinju Misirku, po imenu Agaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Pa reèe Sara Avramu: Gospod me je zatvorio da ne rodim; nego idi k robinji mojoj, ne bih li dobila djece od nje. I Avram prista na rijeè Sarinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I Sara žena Avramova uze Agaru Misirku robinju svoju, i dade je za ženu Avramu mužu svojemu poslije deset godina otkako se nastani Avram u zemlji Hananskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I on otide k Agari, i ona zatrudnje; a kad vidje da je trudna, ponese se od gospoðe svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A Sara reèe Avramu: uvreda moja pada na tebe; ja ti metnuh na krilo robinju svoju, a ona vidjevši da je trudna ponese se od mene. Gospod æe suditi meni i tebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A Avram reèe Sari: eto, robinja je tvoja u tvojim rukama, èini s njom što ti je volja. I Sara je stade zlostaviti, te ona pobježe od nje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ali anðeo Gospodnji naðe je kod studenca u pustinji, kod studenca na putu u Sur."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I reèe joj: Agaro, robinjo Sarina, otkuda ideš, kuda li ideš? A ona reèe: bježim od Sare gospoðe svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A anðeo joj Gospodnji reèe: vrati se gospoði svojoj i pokori joj se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Opet joj reèe anðeo Gospodnji: umnožiæu veoma sjeme tvoje, da se neæe moæi prebrojiti od množine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jošte joj reèe anðeo Gospodnji: eto si trudna, i rodiæeš sina, i nadjeni mu ime Ismailo; jer je Gospod vidio muku tvoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A biæe èovjek ubojica; ruka æe se njegova dizati na svakoga a svaèija na njega, i nastavaæe na pogledu svoj braæi svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada Agara prizva ime Gospoda koji govori s njom: ti si Bog, koji vidi. Jer govoraše: zar još gledam iza onoga koji me vidje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Toga radi zove se studenac onaj studenac živoga koji me vidi; a on je izmeðu Kadisa i Varada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I rodi Agara Avramu sina; i nadjede Avram sinu svojemu, kojega mu rodi Agara, ime Ismailo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A bješe Avramu osamdeset i šest godina kad mu Agara rodi Ismaila."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/16.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 16
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/17.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 17
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/15.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 15
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

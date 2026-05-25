@@ -1,0 +1,398 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 26,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nemojte graditi sebi idola ni likova rezanijeh, niti stupova podižite, ni kamenja sa slikama meæite u svojoj zemlji da mu se klanjate; jer sam ja Gospod Bog vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Držite subote moje, i svetinju moju poštujte; ja sam Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ako uživite po mojim uredbama, i zapovijesti moje uzdržite i ušèinite,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Davaæu vam dažd na vrijeme, i zemlja æe raðati rod svoj, i drveta æe u polju raðati rod svoj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I vršidba æe vam stizati berbu vinogradsku, a berba æe vinogradska stizati sijanje, i ješæete hljeb svoj do sitosti, i živjeæete bez straha u zemlji svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer æu dati mir zemlji, te æete spavati a neæe biti nikoga da vas plaši; uèiniæu, te æe nestati zle zvijeri iz zemlje, i maè neæe prolaziti preko vaše zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nego æete tjerati neprijatelje svoje, i padaæe pred vama od maèa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Vas æe petorica tjerati stotinu, a vas stotina tjeraæe deset tisuæa, i padaæe neprijatelji vaši pred vama od maèa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I obratiæu se k vama, i uèiniæu vam da rastete, i umnožiæu vas, i utvrdiæu zavjet svoj s vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I ješæete žito staro, od mnogo godina, i izasipaæete staro kad doðe novo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I namjestiæu stan svoj meðu vama, i duša moja neæe mrziti na vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I hodiæu meðu vama, i biæu vam Bog, i vi æete biti moj narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ja sam Gospod Bog vaš, koji vas izvedoh iz zemlje Misirske da im ne robujete, i polomih palice jarma vašega, i ispravih vas da hodite pravo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ako li me ne uzaslušate, i ne ušèinite sve ove zapovijesti,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ako povrgnete uredbe moje i duši vašoj omrznu zakoni moji da ne tvorite sve zapovijesti moje, i raskinete zavjet moj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I ja æu vama uèiniti ovo: pustiæu na vas strah, suhu bolest i vruæicu, koje æe vam oèi iskvariti i dušu ucvijeliti; i zaludu æete sijati sjeme svoje, jer æe ga jesti neprijatelji vaši."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I okrenuæu lice svoje nasuprot vama, i sjeæi æe vas neprijatelji vaši, i koji mrze na vas biæe vam gospodari, i bježaæete kad vas niko ne tjera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ako me ni tada ne stanete slušati, karaæu vas još sedam puta više za grijehe vaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Potræu ponos sile vaše, i uèiniæu da nebo nad vama bude kao gvožðe a zemlja vaša kao mjed."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Snaga æe se vaša trošiti uzalud, jer zemlja vaša neæe raðati roda svojega, i drveta po zemlji neæe raðati roda svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ako mi uzidete nasuprot i ne htjedbudete slušati me, dodaæu vam sedam puta više muka prema grijesima vašim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Pustiæu na vas zvijeri poljske, koje æe vam djecu izjesti i stoku potrti i vas umaliti, i opustjeæe putovi vaši."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ako se ni od toga ne popravite, nego mi jošte uzidete nasuprot,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I ja æu vama iæi nasuprot, i biæu vas još sedam puta više za grijehe vaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Pustiæu na vas maè, koji æe osvetiti moj zavjet; a kad se sležete u gradove svoje, tada æu pustiti pomor meðu vas, i biæete predani u ruke neprijatelju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I kad vam slomim potporu u hljebu, deset æe žena peæi hljeb vaš u jednoj peæi, i davaæe vam hljeb vaš na mjeru, i ješæete a neæete se nasititi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ako me ni tako ne stanete slušati, nego mi uzidete nasuprot,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I ja æu vama s gnjevom iæi nasuprot, i sedam puta veæma karaæu vas za grijehe vaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I ješæete meso od sinova svojih, i meso od kæeri svojih ješæete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Razvaliæu visine vaše, i oboriæu idole vaše, i metnuæu trupove vaše na trupove gadnih bogova vaših, i mrziæe duša moja na vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I obratiæu gradove vaše u pustoš, i razoriæu svetinje vaše, i neæu više mirisati mirisa vašega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I opustiæu zemlju da æe joj se èuditi neprijatelji vaši, koji æe živjeti u njoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A vas æu rasijati po narodima, i uèiniæu da vas gone s golijem maèem; i zemlja æe vaša biti pusta i gradovi vaši raskopani."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Tada æe zemlji biti mile subote njezine za sve vrijeme dokle bude pusta; i kad budete u zemlji svojih neprijatelja, zemlja æe poèivati, i biæe joj mile subote njezine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Za sve vrijeme dokle bude pusta poèivaæe, jer nije poèivala u vaše subote, kad ste u njoj živjeli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A koji vas ostanu, metnuæu strah u srca njihova u zemljama neprijatelja njihovijeh, te æe ih goniti list kad šušne zaljuljavši se, i oni æe bježati kao ispred maèa, i padaæe a niko ih neæe tjerati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I padaæe jedan preko drugoga kao od maèa, a niko ih neæe tjerati; i neæete se moæi držati pred neprijateljima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Nego æete izginuti meðu narodima, i proždrijeæe vas zemlja neprijatelja vaših."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A koji vas ostanu, èiljeæe za bezakonje svoje u zemlji neprijatelja svojih, i za bezakonje otaca svojih èiljeæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Ali ako priznadu bezakonje svoje i bezakonje otaca svojih po grijesima, kojima mi griješiše i kojima mi idoše nasuprot,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Te i ja njima idoh nasuprot i odvedoh ih u zemlju neprijatelja njihovijeh; ako se tada ponizi srce njihovo neobrezano, i bude im pravo što su pokarani za bezakonje svoje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Tada æu se opomenuti zavjeta svojega s Jakovom, i zavjeta svojega s Isakom, i zavjeta svojega s Avramom opomenuæu se, i zemlje æu se opomenuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Kad se zemlja oprosti njih i budu joj mile subote njezine kad opusti s njih, i njima bude pravo što su pokarani za bezakonje svoje, jer sudove moje povrgoše i duši njihovoj omrzoše uredbe moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "A zato ni onda kad budu u zemlji neprijatelja svojih neæu ih povræi niti æu tako omrznuti na njih da ih potrem i raskinem zavjet svoj s njima; jer sam ja Gospod Bog njihov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Nego æu se njih radi opomenuti zavjeta sa starima njihovijem, koje izvedoh iz zemlje Misirske narodima na vidiku da im budem Bog, ja Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Ovo su uredbe i sudovi i zakoni, koje postavi Gospod izmeðu sebe i sinova Izrailjevih na gori Sinajskoj preko Mojsija."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/26.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 26
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/27.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 27
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/25.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 25
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 46
+}

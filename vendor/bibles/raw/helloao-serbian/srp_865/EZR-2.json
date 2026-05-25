@@ -1,0 +1,566 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZR",
+    "translationId": "srp_865",
+    "name": "Ezra",
+    "commonName": "Ezra",
+    "title": "Ezra",
+    "order": 15,
+    "numberOfChapters": 10,
+    "sha256": "bf548715db2388dddb04c845f0fa124e883e80ef31b6aa8bdd1683312fc367c1",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZR/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZR",
+      "chapter": 1
+    },
+    "lastChapterNumber": 10,
+    "lastChapterApiLink": "/api/srp_865/EZR/10.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZR",
+      "chapter": 10
+    },
+    "totalNumberOfVerses": 280
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A ovo su ljudi one zemlje što poðoše iz ropstva od onijeh koji biše preseljeni, koje preseli Navuhodonosor car Vavilonski u Vavilon, i vratiše se u Jerusalim i u Judeju, svaki u svoj grad:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Koji doðoše sa Zorovaveljem, s Isusom, Nemijom, Serajom, Relajom, Mardohejem, Vilsanom, Misparom, Vigvajem, Reumom i Vanom; na broj bješe ljudi naroda Izrailjeva:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Sinova Farosovijeh dvije tisuæe, sto i sedamdeset i dva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Sinova Sefatijinih trista i sedamdeset i dva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Sinova Arahovijeh sedam stotina i sedamdeset i pet;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Sinova Fat-Moavovijeh, od sinova Isusovijeh i Joavovijeh, dvije tisuæe osam stotina i dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Sinova Elamovijeh tisuæa i dvjesta i pedeset i èetiri;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Sinova Zatujevih devet stotina i èetrdeset i pet;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Sinova Zahajevih sedam stotina i šezdeset;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Sinova Vanijevih šest stotina i èetrdeset i dva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Sinova Vivajevih šest stotina i dvadeset i tri;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Sinova Azgadovijeh tisuæa i dvjesta i dvadeset i dva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Sinova Adonikamovih šest stotina i šezdeset i šest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Sinova Vigvajevih dvije tisuæe i pedeset i šest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Sinova Adinovijeh èetiri stotine i pedeset i èetiri;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Sinova Atirovijeh od Jezekije devedeset i osam;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Sinova Visajevih trista i dvadeset i tri;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Sinova Jorinijeh sto i dvanaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Sinova Asumovijeh dvjesta i dvadeset i tri;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Sinova Givarovijeh devedeset i pet;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Sinova Vitlejemskih sto i dvadeset i tri;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ljudi iz Netofata pedeset i šest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ljudi iz Anatota sto i dvadeset i osam;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Sinova Azmavetskih èetrdeset i dva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Sinova Kirijat-arimskih, Hefirskih i Virotskih sedam stotina i èetrdeset i tri;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Sinova Ramskih i Gavajskih šest stotina i dvadeset i jedan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ljudi iz Mihmasa sto i dvadeset i dva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ljudi iz Vetilja i Gaja dvjesta i dvadeset i tri;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Sinova Nevonskih pedeset i dva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Sinova Magvisovih sto i pedeset i šest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Sinova Elama drugoga tisuæa i dvjesta i pedeset i èetiri;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Sinova Harimovijeh trista i dvadeset;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Sinova Lodskih, Adidskih i Ononskih sedam stotina i dvadeset i pet;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Sinova Jerihonskih trista i èetrdeset i pet;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Sinova Senajskih tri tisuæe i šest stotina i trideset."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Sveštenika: sinova Jedajinih od doma Isusova devet stotina i sedamdeset i tri;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Sinova Imirovijeh tisuæa i pedeset i dva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Sinova Pashorovijeh tisuæa i dvjesta i èetrdeset i sedam;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Sinova Harimovijeh tisuæa i sedamnaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Levita: sinova Isusovih i Kadmilovih izmeðu sinova Odujinih sedamdeset i èetiri;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Pjevaèa: sinova Asafovijeh sto i dvadeset i osam;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Sinova vratarskih: sinova Salumovijeh, sinova Atirovijeh, sinova Talmonovijeh, sinova Akuvovijeh, sinova Atitinih, sinova Sovajevih, svega sto i trideset i devet;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Netineja: sinova Sišinijeh, sinova Asufinijeh, sinova Tavaotovijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Sinova Kirosovijeh, sinova Sijajinih, sinova Fadonovih,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Sinova Levaninih, sinova Agavinih, sinova Akuvovih,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Sinova Agavovijeh, sinova Samlajevih, sinova Ananovijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Sinova Gidilovijeh, sinova Garovijeh, sinova Reajinih,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Sinova Resinovijeh, sinova Nekodinijeh, sinova Gazamovijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Sinova Uzinijeh, sinova Fasejinih, sinova Visajevih,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Sinova Aseninih, sinova Meunimovijeh, sinova Nefusimovijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Sinova Vakvukovijeh, sinova Akufinijeh, sinova Arurovijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Sinova Vaslutovijeh, sinova Meidinijeh, sinova Arsinijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Sinova Varkosovijeh, sinova Sisarinijeh, sinova Taminijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "Sinova Nesijinih, sinova Atifinijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "Sinova sluga Solomunovijeh: sinova Sotajevih, sinova Soferetovijeh, sinova Ferudinijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "Sinova Jalinijeh, sinova Darkonovijeh, sinova Gidilovijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "Sinova Sefatijinijeh, sinova Atilovijeh, sinova Fohereta od Sevajima, sinova Amijevijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "Svega Netineja i sinova sluga Solomunovijeh trista i devedeset i dva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 59,
+        "content": [
+          "I ovi poðoše iz Tel-Melaha i Tel-Arise, Heruv, Adan i Imir, ali ne mogoše pokazati otaèkoga doma svojega i sjemena svojega, eda li su od Izrailja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 60,
+        "content": [
+          "I sinovi Delajini, sinovi Tovijini, sinovi Nekodini, njih šest stotina i pedeset i dva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 61,
+        "content": [
+          "I od sinova sveštenièkih: sinovi Avajini, sinovi Akosovi, sinovi Varzelaja, koji se oženi jednom izmeðu kæeri Varzelaja Galaðanina, te se prozva njihovijem imenom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 62,
+        "content": [
+          "Oni tražiše po knjigama da bi pokazali rod svoj, ali se ne naðoše, zato biše odluèeni od sveštenstva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 63,
+        "content": [
+          "I zaprijeti im Tirsata da ne jedu od svetinje nad svetinjama dokle ne nastane sveštenik s Urimom i Tumimom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 64,
+        "content": [
+          "Svega zbora skupa bješe èetrdeset i dvije tisuæe i tri stotine i šezdeset,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 65,
+        "content": [
+          "Osim sluga njihovijeh i sluškinja njihovijeh, kojih bijaše sedam tisuæa i tri stotine i trideset i sedam, a meðu njima bijaše dvjesta pjevaèa i pjevaèica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 66,
+        "content": [
+          "Imahu sedam stotina i trideset i šest konja, dvjesta i èetrdeset i pet masaka,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 67,
+        "content": [
+          "Èetiri stotine i trideset i pet kamila, šest tisuæa i sedam stotina i dvadeset magaraca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 68,
+        "content": [
+          "I neki izmeðu domova otaèkih došavši k domu Gospodnjemu u Jerusalimu priložiše dragovoljno da se gradi dom Božji na svom mjestu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 69,
+        "content": [
+          "Po moguæstvu svojemu dadoše u riznicu za posao: zlata šezdeset i jednu tisuæu drama, srebra pet tisuæa mina, i haljina sveštenièkih stotinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 70,
+        "content": [
+          "I tako se naseliše sveštenici i Leviti i neki iz naroda i pjevaèi i vratari i Netineji u gradovima svojim, i sav Izrailj u svojim gradovima."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZR/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZR/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZR/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 70
+}

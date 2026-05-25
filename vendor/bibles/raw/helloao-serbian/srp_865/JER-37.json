@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 37,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Potom carova Sedekija sin Josijin mjesto Honije sina Joakimova, kojega postavi carem u zemlji Judinoj Navuhodonosor car Vavilonski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ali ni on ni sluge njegove ni narod zemaljski ne slušahu rijeèi Gospodnjih koje govoraše preko Jeremije proroka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I posla car Sedekija Jeuhala sina Selemijina, i Sofoniju sina Masijina sveštenika k Jeremiji proroku, te mu rekoše: pomoli se za nas Gospodu Bogu našemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I Jeremija iðaše meðu narod i još ga ne bjehu metnuli u tamnicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I vojska Faraonova izide iz Misira, a Haldejci koji bijahu Jerusalim èuvši glas o njoj otidoše od Jerusalima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A rijeè Gospodnja doðe Jeremiji proroku govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ovako veli Gospod Bog Izrailjev: ovako recite caru Judinu, koji vas je poslao k meni da me pitate: evo vojska Faraonova koja poðe vama u pomoæ, vratiæe se u svoju zemlju, u Misir."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A Haldejci æe opet doæi i opkoliæe taj grad i uzeæe ga i spaliæe ga ognjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ovako veli Gospod: ne varajte se govoreæi: otiæi æe od nas Haldejci; jer neæe otiæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I da pobijete svu vojsku Haldejsku, koja æe se biti s vama, i da ih ostane nekoliko ranjenika, i oni æe ustati iz svojih šatora i spaliti taj grad ognjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A kad otide vojska Haldejska od Jerusalima radi vojske Faraonove,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Izide Jeremija iz Jerusalima da bi otišao u zemlju Venijaminovu i uklonio se odande meðu narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ali kad bijaše na vratima Venijaminovijem, ondje bijaše starješina stražarski po imenu Jereja sin Selemije sina Ananijina, te uhvati Jeremiju proroka govoreæi: ti bježiš ka Haldejcima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Jeremija reèe: nije istina, ne bježim ka Haldejcima. Ali ga ne htje slušati, nego uhvati Jereja Jeremiju i odvede ka knezovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A knezovi se razgnjeviše na Jeremiju, i izbiše ga, i metnuše ga u tamnicu u kuæi Jonatana pisara, jer od nje bijahu naèinili tamnicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A kad Jeremija uljeze u jamu, u tamnicu, osta ondje dugo vremena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Potom posla car Sedekija, te ga izvadi, i upita ga u svojoj kuæi nasamo, i reèe mu govoreæi: ima li rijeè od Gospoda? A Jeremija reèe: ima. Još reèe: biæeš predan u ruke caru Vavilonskomu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Potom reèe Jeremija caru Sedekiji: šta sam ti skrivio ili slugama tvojim ili tomu narodu, te me metnuste u tamnicu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I gdje su vaši proroci koji vam prorokuju govoreæi: neæe doæi car Vavilonski na vas ni na ovu zemlju?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Sada dakle poslušaj, care gospodaru moj, pusti preda se molbu moju, nemoj me vraæati u kuæu Jonatana pisara, da ne umrem ondje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tada zapovjedi car Sedekija da zatvore Jeremiju u trijem od tamnice i da mu daju svaki dan po hljeb s ulice hljebarske, dokle traje hljeba u gradu. Tako sjeðaše Jeremija u trijemu od tamnice."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/37.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 37
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/38.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 38
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/36.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 36
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

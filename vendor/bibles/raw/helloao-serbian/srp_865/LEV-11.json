@@ -1,0 +1,405 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I reèe Gospod Mojsiju i Aronu govoreæi im:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kažite sinovima Izrailjevim i recite: ovo su životinje koje æete jesti izmeðu svijeh životinja na zemlji:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Što god ima papke i papci su mu razdvojeni i preživa izmeðu životinja, to jedite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ali onijeh što samo preživaju ili što samo imaju papke razdvojene, ne jedite, kao što je kamila, jer preživa ali nema papaka razdvojenih; da vam je neèista;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I pitomi zec, jer preživa ali nema papaka razdvojenih; neèist da vam je;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I zec divlji, jer preživa ali nema papaka razdvojenih; neèist da vam je;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I svinja, jer ima papke razdvojene ali ne preživa; neèista da vam je;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mesa od njih ne jedite niti se strva njihova dodijevajte; jer vam je neèisto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A izmeðu svega što je u vodi ovo jedite: što god ima pera i ljusku u vodi, po moru i po rijekama, jedite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A što nema pera i ljuske u moru i u rijekama izmeðu svega što se mièe po vodi i živi u vodi, da vam je gadno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Gadno da vam je; mesa da im ne jedete, i na strv njihov da se gadite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Što god nema pera i ljuske u vodi, to da vam je gadno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A izmeðu ptica ove da su vam gadne i da ih ne jedete: orao i jastrijeb i morski orao,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Eja i kraguj po svojim vrstama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I svaki gavran po svojim vrstama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I sovuljaga i æuk i liska i kobac po svojim vrstama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I buljina i gnjurac i ušara,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I labud i gem i svraka,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I roda i èaplja po svojim vrstama, i pupavac i ljiljak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Što god gamiže a ima krila i ide na èetiri noge, da vam je gadno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ali izmeðu svega što gamiže a ima krila i ide na èetiri noge jedite što ima stegna na nogama svojim, kojima skaèe po zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Izmeðu njih jedite ove: arba po vrstama njegovim, salema po vrstama njegovim, argola po vrstama njegovim i agava po vrstama njegovim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A što još gamiže a ima krila i èetiri noge, da vam je gadno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I o njih æete se oskvrniti; ko se god dotakne mrtva tijela njihova, da je neèist do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I ko bi god nosio mrtva tijela njihova, neka opere haljine svoje, i da je neèist do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Svaka životinja koja ima papke ali nerazdvojene i ne preživa, da vam je neèista; ko ih se god dotakne, da je neèist."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I što god ide na šapama izmeðu svijeh životinja èetvoronogih, da vam je neèisto; ko bi se dotakao strva njihova, da je neèist do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I ko bi nosio strv njihov, neka opere haljine svoje, i da je neèist do veèera; to da vam je neèisto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I izmeðu životinja koje pužu po zemlji da su vam neèiste: lasica i miš i kornjaèa po svojim vrstama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I jež i gušter i tvor i puž i krtica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "To vam je neèisto izmeðu životinja koje pužu; ko ih se dotakne mrtvijeh, da je neèist do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I svaka stvar na koju padne koje od njih mrtvo biæe neèista, bila sprava drvena ili haljina ili koža ili torba, i svaka stvar koja treba za kakav posao, neka se metne u vodu, i da je neèista do veèera, poslije da je èista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A svaki sud zemljani, u koji padne što od toga, i što god u njemu bude, biæe neèist, i razbijte ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I svako jelo što se jede, ako na njega doðe onaka voda, da je neèisto, i svako piæe što se pije u svakom takom sudu, da je neèisto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I na što bi palo što od tijela njihova mrtva sve da je neèisto, i peæ i ognjište neka se razvali, jer je neèisto i neka vam je neèisto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A studenac i ubao, gdje se voda skuplja, biæe èist; ali što se dotakne strva njihova, biæe neèisto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Ako li što od strva njihova padne na sjeme, koje se sije, ono æe biti èisto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Ali ako bude polito sjeme vodom, pa onda padne što od strva njihova na sjeme, da vam je neèisto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I kad ugine životinja od onijeh koje jedete, ko se dotakne strva njezina, da je neèist do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A ko bi jeo od strva njezina, neka opere haljine svoje i da je neèist do veèera; i ko bi odnio strv njezin, neka opere haljine svoje, i da je neèist do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I sve što puže po zemlji, da vam je gadno, da se ne jede."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Što god ide na trbuhu i što god ide na èetiri noge ili ima više noga izmeðu svega što puže po zemlji, to ne jedite, jer je gad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Nemojte se poganiti nièim što gamiže i nemojte se skvrniti njima, da ne budete neèisti s njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Jer ja sam Gospod Bog vaš; zato se osveæujte i budite sveti, jer sam ja svet; i nemojte se skvrniti nièim što puže po zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Jer ja sam Gospod, koji sam vas izveo iz zemlje Misirske da vam budem Bog; budite dakle sveti, jer sam ja svet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Ovo je zakon za zvijeri i za ptice, i za sve životinje što se mièu po vodi, i za svaku dušu živu koja puže po zemlji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Da se raspoznaje neèisto od èistoga i životinja koja se jede od životinje koja se ne jede."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 47
+}

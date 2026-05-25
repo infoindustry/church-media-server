@@ -1,0 +1,356 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JDG",
+    "translationId": "srp_865",
+    "name": "Sudije",
+    "commonName": "Sudije",
+    "title": "Sudije",
+    "order": 7,
+    "numberOfChapters": 21,
+    "sha256": "b90b96d9ad07648b61c3175adb672cbdc04a1a389be225dc4596659462d0e4db",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JDG/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JDG/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 618
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A sinovi Izrailjevi èiniše što je zlo pred Gospodom, i Gospod ih dade u ruke Madijanima za sedam godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I osili ruka Madijanska nad Izrailjem, te od straha Madijanskoga naèiniše sebi sinovi Izrailjevi jame koje su po gorama, i peæine i ograde."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I kad bi Izrailjci posijali, dolažahu Madijani i Amalici i istoèni narod, dolažahu na njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I stavši u oko protiv njih, potirahu rod zemaljski dori do Gaze, i ne ostavljahu hrane u Izrailju, ni ovce ni vola ni magarca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer se podizahu sa stadima svojim i sa šatorima svojim, i dolažahu kao skakavci, tako mnogo, i ne bješe broja njima ni kamilama njihovijem, i dolazeæi u zemlju pustošahu je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tada osiromaši Izrailj veoma od Madijana, i povikaše ka Gospodu sinovi Izrailjevi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kad povikaše sinovi Izrailjevi ka Gospodu od Madijana,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Gospod posla proroka k sinovima Izrailjevijem, a on im reèe: ovako veli Gospod Bog Izrailjev: ja sam vas izveo iz Misira, i izveo sam vas iz doma ropskoga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I izbavio sam vas iz ruke Misirske i iz ruke svijeh onijeh koji vas muèahu; i odagnao sam ih ispred vas, i dao sam vama zemlju njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Pak vam rekoh: ja sam Gospod Bog vaš, na bojte se bogova Amoreja u kojih zemlji živite. Ali ne poslušaste glasa mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Potom doðe anðeo Gospodnji i sjede pod hrastom u Ofri koji bijaše Joasa Avijezerita; a sin njegov Gedeon vrsijaše pšenicu na gumnu, da bi pobjegao s njom od Madijana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I javi mu se anðeo Gospodnji, i reèe mu: Gospod je s tobom, hrabri junaèe!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Gedeon mu reèe: o gospodaru moj! kad je Gospod s nama, zašto nas snaðe sve ovo? i gdje su sva èudesa njegova, koja nam pripovijedaše oci naši govoreæi: nije li nas Gospod izveo iz Misira? a sada nas je ostavio Gospod i predao u ruke Madijanima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Gospod ga pogleda i reèe mu: idi u toj sili svojoj, i izbaviæeš Izrailja iz ruku Madijanskih. Ne poslah li te?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A on mu reèe: o Gospode, èim æu izbaviti Izrailja? eto, rod je moj najsiromašniji u plemenu Manasijinu, a ja sam najmanji u domu oca svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tada mu reèe Gospod: ja æu biti s tobom, te æeš pobiti Madijance kao jednoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A Gedeon mu reèe: ako sam našao milost pred tobom, daj mi znak da ti govoriš sa mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nemoj otiæi odavde dokle se ja ne vratim k tebi i donesem dar svoj i stavim preda te. A on reèe: èekaæu dokle se vratiš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tada otide Gedeon, i zgotovi jare i od efe brašna hljebove prijesne, i metnu meso u kotaricu a juhu u lonac, i donese mu pod hrast, i postavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A anðeo Božji reèe mu: uzmi to meso i te hljebove prijesne, i metni na onu stijenu, a juhu prolij. I on uèini tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tada anðeo Gospodnji pruži kraj od štapa koji mu bješe u ruci i dotaèe se mesa i hljebova prijesnijeh; i podiže se oganj sa stijene i spali meso i hljebove prijesne. I anðeo Gospodnji otide ispred oèiju njegovih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A Gedeon vidjeæi da bješe anðeo Gospodnji, reèe: ah Gospode Bože! zato li vidjeh anðela Gospodnjega licem k licu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A Gospod mu reèe: budi miran, ne boj se, neæeš umrijeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I Gedeon naèini ondje oltar Gospodu, i nazva ga mir Gospodnji. Stoji i danas u Ofri Avijezeritskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I istu noæ reèe mu Gospod: uzmi junca, koji je oca tvojega, junca drugoga od sedam godina; i raskopaj oltar Valov koji ima otac tvoj, i isijeci lug koji je kod njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I naèini oltar Gospodu Bogu svojemu navrh ove stijene, na zgodnu mjestu; pa onda uzmi drugoga junca, i prinesi žrtvu paljenicu na drvima onoga luga koji isijeèeš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Tada uze Gedeon deset ljudi izmeðu sluga svojih, i uèini kako mu zapovjedi Gospod; ali se bojaše doma oca svojega i mještana, te ne uèini danju nego uèini noæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A kad ujutru ustaše mještani, a to raskopan oltar Valov i lug kod njega isjeèen; a junac drugi prinesen na žrtvu paljenicu na oltaru naèinjenom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I rekoše jedan drugomu: ko to uèini? I traživši i raspitavši rekoše: Gedeon sin Joasov uèini to."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Pa rekoše mještani Joasu: izvedi sina svojega da se pogubi, što raskopa oltar Valov i što isijeèe lug kod njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A Joas reèe svjema koji stajahu oko njega: vi li hoæete da branite Vala? vi li hoæete da ga izbavite? ko ga brani, poginuæe jutros. Ako je bog, neka sam raspravi s njim što mu je raskopao oltar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I prozva ga onoga dana Jeroval govoreæi: neka raspravi s njim Val što mu raskopa oltar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A svi Madijani i Amalici i istoèni narod bijahu se skupili i prešavši preko Jordana bijahu stali u oko u dolini Jezraelu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A duh Gospodnji naoruža Gedeona, i on zatrubi u trubu, i skupi oko sebe porodicu Avijezerovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I posla glasnike po svemu plemenu Manasijinu, i skupiše se oko njega; posla glasnike i u pleme Asirovo i Zavulonovo i Neftalimovo, te i oni izidoše pred njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Tada reèe Gedeon Bogu: ako æeš ti izbaviti mojom rukom Izrailja, kao što si rekao,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Evo, ja æu metnuti runo na gumnu: ako rosa bude samo na runu a po svoj zemlji suho, onda æu znati da æeš mojom rukom izbaviti Izrailja, kao što si rekao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I bi tako; jer kad usta sjutradan, iscijedi runo, i isteèe rose iz runa puna zdjela."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Opet reèe Gedeon Bogu: nemoj se gnjeviti na me, da progovorim još jednom; da obidem runom još jednom, neka bude samo runo suho, a po svoj zemlji neka bude rosa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I Bog uèini tako onu noæ; i bi samo runo suho a po svoj zemlji bi rosa."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JDG/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JDG/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JDG/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 40
+}

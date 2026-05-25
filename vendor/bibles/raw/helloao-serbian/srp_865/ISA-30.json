@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 30,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Teško sinovima odmetnicima, govori Gospod, koji sastavljaju namjere koje nijesu od mene, zaklanjaju se za zaklon koji nije od moga duha, da domeæu grijeh na grijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Koji slaze u Misir ne pitajuæi šta æu ja reæi, da se ukrijepe silom Faraonovom i da se zaklone pod sjenom Misirskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer æe vam sila Faraonova biti na sramotu, i zaklon pod sjenom Misirskim na porugu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer knezovi njegovi biše u Soanu, i poslanici njegovi doðoše u Hanes."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ali æe se svi posramiti s naroda, koji im neæe pomoæi, niti æe im biti na korist ni na dobit, nego na sramotu i na porugu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tovar æe biti na stoci južnoj: u zemlju gdje je nevolja i muka, gdje su lavovi i laviæi, guje i zmajevi ognjeni krilati, odnijeæe blago svoje magarcima na ramenima i bogatstvo svoje kamilama na grbama, k narodu koji neæe pomoæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer æe Misirci uzalud i naprazno pomagati; zato vièem o tom: jaèina im je da sjede s mirom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Sada idi, napiši ovo pred njima na dašèicu, napiši u knjigu, da ostane za vremena koja æe doæi, dovijeka;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer su narod nepokoran, sinovi lažljivi, sinovi koji neæe da slušaju zakona Gospodnjega;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Koji govore vidiocima: nemojte viðati, i prorocima: nemojte nam prorokovati što je pravo, govorite nam mile stvari, prorokujte prijevaru;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Svrnite s puta, otstupite od staze, neka nestane ispred nas sveca Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zato ovako veli svetac Izrailjev: kad odbacujete ovu rijeè, i uzdate se u prijevaru i opaèinu i na nju se oslanjate,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zato æe vam to bezakonje biti kao pukotina u zidu koji hoæe da padne, koja izdigne zid visoko, te se naglo ujedanput obori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I razbiæe ga kao što se razbija razbijen sud lonèarski, ne žali se, te se ne naðe ni crijepa kad se razbije da uzmeš oganj s ognjišta ili da zahvatiš vode iz jame."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer ovako govori Gospod Gospod, svetac Izrailjev: ako se povratite i budete mirni, izbaviæete se, u miru i uzdanju biæe sila vaša; ali vi neæete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Nego govorite: ne; nego æemo na konjma pobjeæi. Zato æete bježati. Pojahaæemo brze konje. Zato æe biti brži koji æe vas tjerati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Bježaæe vas tisuæa kad jedan povièe; kad povièu petorica, bježaæete svi, dokle ne ostanete kao okresano drvo navrh gore i kao zastava na humu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A zato èeka Gospod da se smiluje na vas, i zato æe se uzvisiti da vas pomiluje; jer je Gospod pravedan Bog; blago svjema koji ga èekaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer æe narod nastavati u Sionu, u Jerusalimu; neæeš više plakati, doista æe te pomilovati kad povièeš; èim te èuje, odazvaæe ti se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Premda æe vam Gospod dati hljeba tužnoga i vode nevoljnièke; ali ti se više neæe uzimati uèitelji tvoji, nego æe oèi tvoje gledati uèitelje tvoje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I uši æe tvoje slušati rijeè iza tebe gdje govori: to je put, idite njim, ako biste svrnuli nadesno ili nalijevo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I oprzniæete posrebrene likove svoje rezane i zlatno odijelo likova livenijeh, i baciæete ih kao neèistotu, i reæi æeš im: odlazite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I daæe dažd sjemenu tvojemu koje posiješ na njivi, i hljeb od roda zemaljskoga biæe obilat i sit; tada æe stoka tvoja pasti na paši prostranoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Volovi i magarci, što rade zemlju, ješæe èistu zob ovijanu lopatom i rešetom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I na svakoj gori visokoj i na svakom humu visokom biæe izvori i potoci, kad bude pokolj veliki, kad popadaju kule."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I svjetlost æe mjeseèna biti kao svjetlost sunèana, a svjetlost æe sunèana biti sedam puta veæa, kao svjetlost od sedam dana, kad Gospod zavije ulom narodu svojemu i iscijeli rane koje mu je zadao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Gle, ime Gospodnje ide izdaleka, gnjev njegov gori i vrlo je težak; usne su mu pune ljutine i jezik mu je kao oganj koji sažiže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A duh mu je kao potok koji plavi i dopire do grla, da rasije narode da otidu u ništa, i biæe u èeljustima narodima uzda koja æe ih goniti da lutaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Pjevaæete kao noæu uoèi praznika, i veseliæete se od srca kao onaj koji ide sa sviralom na goru Gospodnju, k stijeni Izrailjevoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I Gospod æe pustiti da se èuje slava glasa njegova, i pokazaæe kako maše rukom svojom s ljutijem gnjevom i plamenom ognjenijem koji proždire, s raspom i sa silnijem daždem i s gradom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Jer æe se od glasa Gospodnjega prepasti Asirac, koji je bio palicom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I kuda god proðe palica pouzdana, kojom æe Gospod navaliti na nj, biæe bubnji i gusle, i ratovima žestokim ratovaæe na njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Jer je veæ pripravljen Tofet, i samom caru pripravljen je, naèinio je dubok i širok; mjesta, ognja i drva ima mnogo; dah Gospodnji kao potok sumporni upaliæe ga."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/30.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 30
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/31.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 31
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/29.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 29
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

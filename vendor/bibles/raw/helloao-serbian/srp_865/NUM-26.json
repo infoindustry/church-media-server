@@ -1,0 +1,531 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "srp_865",
+    "name": "Brojevi",
+    "commonName": "Brojevi",
+    "title": "Brojevi",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "5dc73b8a174fd63cb58a0932611fd5816a865be2dae8658fc6051a7a529e9415",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NUM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/NUM/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 26,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A poslije te pogibije reèe Gospod Mojsiju i Eleazaru sinu Aronovu svešteniku govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Izbrojte sav zbor sinova Izrailjevijeh od dvadeset godina i više po domovima otaca njihovijeh, sve koji mogu iæi na vojsku u Izrailju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reèe im Mojsije i Eleazar sveštenik u polju Moavskom na Jordanu prema Jerihonu govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Da se izbroje od dvadeset godina i više, kako zapovjedi Gospod Mojsiju i sinovima Izrailjevijem, koji izaðoše iz zemlje Misirske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ruvim bješe prvenac Izrailjev; a sinovi Ruvimovi: od Enoha porodica Enohova; od Faluja porodica Falujeva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Od Asrona porodica Asronova, od Harmije porodica Harmijina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "To su porodice Ruvimove; a izbrojenijeh bješe meðu njima èetrdeset i tri tisuæe i sedam stotina i trideset."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Sin Falujev bješe Elijav."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A sinovi Elijavovi: Namuilo i Datan i Aviron. Ovaj Datan i ovaj Aviron, koji bijahu od onijeh što se sazivahu na zbor, ustaše na Mojsija i Arona u buni Korejevoj, kad bješe buna na Gospoda;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I zemlja otvorivši usta svoja proždrije njih i Koreja, i izgibe ta gomila, i spali ih oganj dvjesta i pedeset ljudi, koji postaše ugled."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A sinovi Korejevi ne pogiboše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Sinovi Simeunovi po porodicama svojim: od Namuila porodica Namuilova; od Jamina porodica Jaminova; od Jahina porodica Jahinova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Od Zare porodica Zarina, od Saula porodica Saulova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "To su porodice Simeunove; od njih bješe dvadeset i dvije tisuæe i dvije stotine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A sinovi Gadovi po porodicama svojim: od Sifona porodica Sifonova; od Agija porodica Agijeva; od Sunija porodica Sunijeva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Od Azena porodica Azenova; od Irija porodica Irijeva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Od Aroda porodica Arodova; od Arilija porodica Arilijeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "To su porodice sinova Gadovijeh, a meðu njima bješe izbrojenijeh èetrdeset tisuæa i pet stotina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Sinovi Judini: Ir i Avnan; ali umriješe Ir i Avnan u zemlji Hananskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Bijahu pak sinovi Judini po porodicama svojim: od Siloma porodica Silomova; od Faresa porodica Faresova; od Zare porodica Zarina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A sinovi Faresovi bjehu: od Asrona porodica Asronova; od Jamuila porodica Jamuilova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "To su porodice Judine, a meðu njima bješe izbrojenijeh sedamdeset i šest tisuæa i pet stotina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A sinovi Isaharovi po porodicama svojim: od Tole porodica Tolina; od Fuve porodica Fuvina;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Od Jasuva porodica Jasuvova; od Amrama porodica Amramova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "To su porodice Isaharove; a meðu njima bješe izbrojenijeh šezdeset i èetiri tisuæe i tri stotine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Sinovi Zavulonovi po porodicama svojim: od Sareda porodica Saredova; od Alona porodica Alonova; od Alila porodica Alilova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "To su porodice Zavulonove, a meðu njima bješe izbrojenijeh šezdeset tisuæa i pet stotina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Sinovi Josifovi po porodicama svojim: Manasija i Jefrem;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Sinovi Manasijini: od Mahira porodica Mahirova; a Mahir rodi Galada, od kojega je porodica Galadova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ovo su sinovi Galadovi: od Ahijezera porodica Ahijezerova; od Heleka porodica Helekova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Od Esrila porodica Esrilova; od Sihema porodica Sihemova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Od Simaera porodica Simaerova; od Ofera porodica Oferova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A Salpad sin Oferov nemaše sinova nego kæeri, kojima su imena Mala i Nuja i Egla i Melha i Tersa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "To su porodice Manasijine, a od njih bješe izbrojenijeh pedeset i dvije tisuæe i sedam stotina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Sinovi pak Jefremovi po porodicama svojim: od Sutala porodica Sutalova; od Vehera porodica Veherova; od Tahana porodica Tahanova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A ovo su sinovi Sutalovi: od Erana porodica Eranova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "To su porodice sinova Jefremovijeh; a meðu njima bješe izbrojenijeh trideset i dvije tisuæe i pet stotina. To su sinovi Josifovi po porodicama svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A sinovi Venijaminovi po porodicama svojim: od Vele porodica Velina; od Asvila porodica Asvilova; od Ahirama porodica Ahiramova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Od Sufama porodica Sufamova; od Ufama porodica Ufamova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A Velini sinovi bjehu: Ader i Naman; od Adera porodica Aderova; od Namana porodica Namanova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "To su sinovi Venijaminovi po porodicama svojim, a meðu njima bješe izbrojenijeh èetrdeset i pet tisuæa i šest stotina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A ovo su sinovi Danovi po porodicama svojim: od Sameja porodica Samejeva; to je rod Danov po porodicama svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "U svijem porodicama Samejevijem bješe izbrojenijeh šezdeset i èetiri tisuæe i èetiri stotine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Sinovi Asirovi po porodicama svojim: od Jamina porodica Jaminova; od Jesuja porodica Jesujeva; od Verija porodica Verijina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Sinovi Verijini: od Hovera porodica Hoverova; od Melhila porodica Melhilova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "A kæeri Asirovoj bješe ime Sara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "To su porodice sinova Asirovijeh; a meðu njima bješe izbrojenijeh pedeset i tri tisuæe i èetiri stotine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Sinovi Neftalimovi po porodicama svojim: od Asila porodica Asilova; od Gunija porodica Gunijeva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Od Jesera porodica Jeserova; od Selima porodica Selimova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "To je rod Neftalimov po porodicama svojim, a meðu njima bješe izbrojenih èetrdeset i pet tisuæa i èetiri stotine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "To su izbrojeni meðu sinovima Izrailjevijem, šest stotina i jedna tisuæa i sedam stotina i trideset."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "A Gospod reèe Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Tijem neka se podijeli zemlja u našljedstvo prema broju imena;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "Kojih ima više, podaj im veæe našljedstvo, a kojih ima manje, njima manje; svi prema broju izbrojenijeh svojih neka imaju našljedstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "Ali ždrijebom neka se podijeli zemlja: po imenima plemena otaca svojih neka dobiju našljedstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "Ždrijebom neka se podijeli svakome plemenu, bilo veliko ili malo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "A ovo su izbrojeni izmeðu Levita po porodicama svojim: od Girsona porodica Girsonova; od Kata porodica Katova; od Merarija porodica Merarijeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "Ovo su porodice Levijeve: porodica Lovenijeva, porodica Hevronova, porodica Malijeva, porodica Musijeva, porodica Korejeva. A Kat je rodio Amrama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 59,
+        "content": [
+          "A ime je ženi Amramovoj Johaveta, kæi Levijeva, koja mu se rodila u Misiru; a ona rodi Amramu Arona i Mojsija, i Mariju sestru njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 60,
+        "content": [
+          "A Aronu se rodi Nadav i Avijud i Eleazar i Itamar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 61,
+        "content": [
+          "Ali Nadav i Avijud pogiboše kad prinesoše tuð oganj pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 62,
+        "content": [
+          "I bješe ih izbrojenijeh dvadeset i tri tisuæe, svega muškinja od jednoga mjeseca i više; i ne biše brojeni meðu sinove Izrailjeve, jer im nije dano našljedstvo meðu sinovima Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 63,
+        "content": [
+          "To su izbrojeni, kad Mojsije i Eleazar sveštenik izbrojiše sinove Izrailjeve u polju Moavskom na Jordanu prema Jerihonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 64,
+        "content": [
+          "A meðu njima ne bješe nijedan od onijeh koje izbrojiše Mojsije i Aron sveštenik kad brojiše sinove Izrailjeve u pustinji Sinajskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 65,
+        "content": [
+          "Jer Gospod bješe rekao za njih: pomrijeæe u pustinji. I ne osta ih ni jedan osim Haleva sina Jefonijina i Isusa sina Navina."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NUM/26.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 26
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NUM/27.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 27
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NUM/25.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 25
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 65
+}

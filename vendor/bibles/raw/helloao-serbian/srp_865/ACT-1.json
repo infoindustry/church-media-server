@@ -1,0 +1,258 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Prvu sam ti knjigu napisao o svemu, o Teofile, što poèe Isus i tvoriti i uèiti"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Do dana kad se uznese, pošto Duhom svetijem zapovjedi apostolima koje izabra,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Pred kojima i po stradanju svome pokaza sebe živa mnogijem i istinitijem znacima, i javlja im se èetrdeset dana, i govori o carstvu Božijemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I sabravši ih zapovjedi im da ne idu iz Jerusalima, nego da èekaju obeæanje oèino, koje èuste, reèe, od mene;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer je Jovan krstio vodom, a vi æete se krstiti Duhom svetijem ne dugo posle ovijeh dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A oni onda koji zajedno bijahu, pitahu ga govoreæi: Gospode! hoæeš li sad naèiniti carstvo Izrailjevo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A on im reèe: nije vaše znati vremena i ljeta koje otac zadrža u svojoj vlasti;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Nego æete primiti silu kad siðe Duh sveti na vas; i biæete mi svjedoci i u Jerusalimu i po svoj Judeji i Samariji i tja do kraja zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I ovo rekavši vidješe oni gdje se podiže i odnese ga oblak iz oèiju njihovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I kad gledahu za njim gdje ide na nebo, gle, dva èovjeka stadoše pred njima u bijelijem haljinama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Koji i rekoše: ljudi Galilejci! šta stojite i gledate na nebo? Ovaj Isus koji se od vas uze na nebo tako æe doæi kao što vidjeste da ide na nebo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada se vratiše u Jerusalim s gore koja se zove Maslinska, koja je blizu Jerusalima jedan subotni dan hoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I kad uðoše, popeše se u sobu gdje stajahu Petar i Jakov i Jovan i Andrija, Filip i Toma, Vartolomije i Matej, Jakov Alfejev i Simon Zilot, i Juda Jakovljev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ovi svi jednodušno bijahu jednako na molitvi i u moljenju sa ženama, i s Marijom materom Isusovom i braæom njegovom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I u dane one ustavši Petar izmeðu uèenika reèe a bijaše naroda zajedno oko sto i dvadeset imena):"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ljudi braæo! trebalo je da se izvrši ono pismo što proreèe Duh sveti ustima Davidovijem za Judu koji bješe pred onima što uhvatiše Isusa;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer se brojaše s nama, i bijaše primio dijel ove službe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "On dakle steèe njivu od plate nepravedne, i objesivši se puèe po srijedi, i izasu se sva utroba njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I postade znano svima koji žive u Jerusalimu da æe se ta njiva prozvati njihovijem jezikom Akeldama, koje znaèi njiva krvna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer se piše u knjizi psaltiru: da bude dvor njegov pust, i da ne bude nikoga ko bi življeo u njemu, i: vladièanstvo njegovo da primi drugi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Treba dakle od ovijeh ljudi koji su bili s nama za sve vrijeme kako meðu nas uðe i iziðe Gospod Isus,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Poèevši od krštenja Jovanova do dana kad se uze od nas, da bude s nama svjedok njegova vaskrsenija jedan od ovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I postaviše dvojicu, Josifa koji se zvaše Varsava prezimenom Just, i Matija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I pomolivši se Bogu rekoše: ti, Gospode! koji poznaješ srca sviju, pokaži jednoga od ove dvojice koga si izabrao,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Da primi dijel ove službe i apostolstva, iz koga ispade Juda da ide na mjesto svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I baciše kocke za njih, i pade kocka na Matija i primiše ga meðu jedanaest apostola."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JHN/21.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 21
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 26
+}

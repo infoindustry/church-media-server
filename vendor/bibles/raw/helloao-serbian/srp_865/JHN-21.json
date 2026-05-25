@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JHN",
+    "translationId": "srp_865",
+    "name": "Jovanu",
+    "commonName": "Jovanu",
+    "title": "Jevanðelje po Jovanu",
+    "order": 43,
+    "numberOfChapters": 21,
+    "sha256": "b0467ac7d5635aaff73b88f7076ca219a8a790ad4b0c4ba876a7716c71658f8f",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JHN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JHN/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 879
+  },
+  "chapter": {
+    "number": 21,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Poslije toga opet se javi Isus uèenicima svojijem na moru Tiverijadskom. A javi se ovako:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Bijahu zajedno Simon Petar i Toma koji se zvaše Blizanac, i Natanailo iz Kane Galilejske, i sinovi Zevedejevi, i druga dvojica od uèenika njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Reèe im Simon Petar: idem da lovim ribu. Rekoše mu: idemo i mi s tobom. Onda iziðoše i odmah sjedoše u laðu, i onu noæ ne uhvatiše ništa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A kad bi jutro, stade Isus na brijegu; ali uèenici ne poznaše da je Isus."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A Isus im reèe: djeco! eda što imate za jelo? Odgovoriše mu: nemamo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A on im reèe: bacite mrežu s desne strane laðe, i naæi æete. Onda baciše, i veæ ne mogahu izvuæi je od mnoštva ribe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Onda uèenik onaj koga ljubljaše Isus reèe Petru: to je Gospod. A Simon Petar kad èu da je Gospod, zapreže se košuljom, jer bješe go, i skoèi u more."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A drugi uèenici doðoše na laði, jer ne bješe daleko od zemlje nego oko dvjesta lakata, vukuæi mrežu s ribom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Kad dakle izljezoše na zemlju, vidješe oganj naložen, i na njemu metnutu ribu i hljeb."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Isus im reèe: prinesite od ribe što sad uhvatiste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Simon Petar uðe i izvuèe mrežu na zemlju punu velikijeh riba sto i pedeset i tri; i od tolikoga mnoštva ne prodrije se mreža."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Isus im reèe: hodite objedujte. A nijedan od uèenika ne smedijaše da ga pita: ko si ti? videæi da je Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A doðe i Isus, i uze hljeb, i dade im, tako i ribu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ovo se veæ treæi put javi Isus uèenicima svojijem pošto ustade iz mrtvijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A kad objedovaše, reèe Isus Simonu Petru: Simone Jonin! ljubiš li me veæma nego ovi? Reèe mu: da, Gospode! ti znaš da te ljubim. Reèe mu Isus: pasi jaganjce moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Reèe mu opet drugom: Simone Jonin! ljubiš li me? Reèe mu: da, Gospode! ti znaš da te ljubim. Reèe mu Isus: pasi ovce moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Reèe mu treæom: Simone Jonin! ljubiš li me? A Petar posta žalostan što mu reèe treæom: ljubiš li me? i reèe mu: Gospode! ti sve znaš, ti znaš da te ljubim. Reèe mu Isus: pasi ovce moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Zaista, zaista ti kažem: kad si bio mlad, opasivao si se sam i hodio si kuda si htio; a kad ostariš, širiæeš ruke svoje i drugi æe te opasati i odvesti kuda neæeš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A ovo reèe pokazujuæi kakom æe smrti proslaviti Boga. I rekavši ovo reèe mu: hajde za mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Petar obazrevši se vidje gdje za njim ide onaj uèenik koga Isus ljubljaše, koji i na veèeri leže na prsi njegove i reèe: Gospode! ko je taj koji æe te izdati?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Vidjevši Petar ovoga reèe Isusu: Gospode! a šta æe ovaj?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Isus mu reèe: ako hoæu da on ostane dok ja ne doðem, šta je tebi do toga? Ti hajde za mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Onda iziðe ova rijeè meðu braæom da onaj uèenik neæe umrijeti; ali Isus ne reèe njemu da neæe umrijeti, nego: ako hoæu da ostane dok ja ne doðem, što je tebi do toga?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ovo je onaj uèenik koji svjedoèi za ovo, koji i napisa ovo: i znamo da je svjedoèanstvo njegovo istinito."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A ima i drugo mnogo što uèini Isus, koje kad bi se redom popisalo, ni u sami svijet, mislim, ne bi mogle stati napisane knjige. Amin."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JHN/21.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 21
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JHN/20.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 20
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

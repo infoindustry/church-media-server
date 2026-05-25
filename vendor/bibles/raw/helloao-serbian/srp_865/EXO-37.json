@@ -1,0 +1,279 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 37,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I naèini Veseleilo kovèeg od drveta sitima, dva i po lakta dug i podrug lakta širok i podrug lakta visok."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I pokova ga èistijem zlatom iznutra i spolja; i naèini mu zlatan vijenac unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I sali mu èetiri bioèuga od zlata na èetiri ugla njegova: dva bioèuga s jedne strane a dva s druge."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I naèini poluge od drveta sitima, i okova ih zlatom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I provuèe poluge kroz bioèuge s obje strane kovèegu, da se može nositi kovèeg."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I naèini zaklopac od èistoga zlata, u dužinu od dva i po lakta, a u širinu od podrug lakta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I naèini dva heruvima od zlata, jednostavne naèini ih, na dva kraja zaklopcu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jednoga heruvima na kraju odovud, a drugoga heruvima na kraju odonud; zaklopcu na oba kraja naèini heruvime."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I u heruvima bjehu krila raširena u vis, i zaklanjahu krilima svojim zaklopac, i licem bjehu okrenuti jedan drugom, i gledahu prema zaklopcu heruvimi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I naèini sto od drveta sitima, u dužinu od dva lakta a u širinu od lakta, i od podrug lakta u visinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I pokova ga èistim zlatom, i naèini mu vijenac zlatan unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I naèini mu oplatu s podlanice unaokolo, i naèini vijenac zlatan uz oplatu unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I sali mu èetiri bioèuga od zlata, i metnu bioèuge na èetiri ugla, koji mu bijahu na èetiri noge."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Prema oplati bijahu bioèuzi, a u njima poluge, da se može nositi sto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A poluge naèini od drveta sitima, i okova ih zlatom, da se može nositi sto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I naèini od èistoga zlata posuðe što se meæe na sto: zdjele i èaše i kutliæe i vijedra, kojim æe se preljevati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I naèini svijetnjak od èistoga zlata, jednostavan naèini svijetnjak; stup mu i grane, èašice i jabuke i cvjetovi izlažahu iz njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Šest grana izlažahu mu sa strana; tri grane svijetnjaka s jedne strane a tri grane svijetnjaka s druge strane;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tri èašice kao badem na jednoj grani i jabuka i cvijet, a tri èašice kao badem na drugoj grani i jabuka i cvijet; tako na svijeh šest grana koje izlažahu iz svijetnjaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A na samom svijetnjaku bjehu èetiri èašice kao badem sa svojim jabukama i cvjetovima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jedna jabuka bješe pod dvije grane iz njega, i jedna jabuka pod druge dvije grane iz njega, i jedna jabuka pod druge dvije grane iz njega; tako pod šest grana koje izlažahu iz njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jabuke njihove i grane im izlažahu iz njega, sve bješe od èistoga zlata jednostavno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I naèini mu sedam žižaka i usekaèe i spremice za gar od èistoga zlata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Od talanta èistoga zlata naèini ga sa svijem spravama njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I naèini oltar kadioni od drveta sitima u dužinu od jednoga lakta, i u širinu od jednoga lakta, èetvorouglast, i od dva lakta u visinu; iz njega izlažahu mu rogovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I pokova ga èistijem zlatom ozgo i sa strane unaokolo, i rogove; i naèini mu vijenac od zlata unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I dva bioèuga od zlata naèini mu ispod vijenca na dva ugla njegova s obje strane, da u njima stoje poluge da se može nositi o njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A poluge naèini od drveta sitima, i okova ih zlatom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I naèini ulje za sveto pomazanje i èisti kad mirisni vještinom apotekarskom."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/37.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 37
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/38.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 38
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/36.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 36
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

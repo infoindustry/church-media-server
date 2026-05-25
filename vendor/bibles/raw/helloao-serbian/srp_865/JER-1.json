@@ -1,0 +1,209 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Rijeèi Jeremije sina Helkijina izmeðu sveštenika koji bijahu u Anatotu u zemlji Venijaminovoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kojemu doðe rijeè Gospodnja u vrijeme Josije sina Amonova, cara Judina, trinaeste godine carovanja njegova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I u vrijeme Joakima sina Josijina, cara Judina, do svršetka jedanaeste godine carovanja Sedekije sina Josijina nad Judom, dok ne bi preseljen Jerusalim, petoga mjeseca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I doðe mi rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Prije nego te sazdah u utrobi, znah te; i prije nego izide iz utrobe, posvetih te; za proroka narodima postavih te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A ja rekoh: oh, Gospode, Gospode! evo, ne znam govoriti, jer sam dijete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Gospod mi reèe: ne govori: dijete sam; nego idi kuda te god pošljem, i govori što ti god kažem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ne boj ih se, jer sam ja s tobom da te izbavljam, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I pruživši Gospod ruku svoju dotaèe se usta mojih, i reèe mi Gospod: eto, metnuh rijeèi svoje u tvoja usta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Vidi, postavljam te danas nad narodima i carstvima da istrebljuješ i obaraš, i da zatireš i raskopavaš, i da gradiš i da sadiš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Poslije mi doðe rijeè Gospodnja govoreæi: šta vidiš, Jeremija? I rekoh: vidim prut bademov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada mi reèe Gospod: dobro si vidio, jer æu nastati oko rijeèi svoje da je izvršim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Opet mi doðe rijeè Gospodnja drugom govoreæi: šta vidiš? I rekoh: vidim lonac gdje vri, i prednja mu je strana prema sjeveru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Tada mi reèe Gospod: sa sjevera æe navaliti zlo na sve stanovnike ove zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer, gle, ja æu sazvati sve porodice iz sjevernijeh carstava, veli Gospod, te æe doæi, i svaki æe metnuti svoj prijesto na vratima Jerusalimskim i oko svijeh zidova njegovijeh i oko svijeh gradova Judinijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I izreæi æu im sud svoj za svu zloæu njihovu što me ostaviše, i kadiše drugim bogovima, i klanjaše se djelu ruku svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ti dakle opaši se i ustani i govori im sve što æu ti zapovjediti; ne boj ih se, da te ne bih satro pred njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer evo ja te postavljam danas kao tvrd grad i kao stup gvozden i kao zidove mjedene svoj ovoj zemlji, carevima Judinijem i knezovima njegovijem i sveštenicima njegovijem i narodu zemaljskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Oni æe udariti na te, ali te neæe nadvladati, jer sam ja s tobom, veli Gospod, da te izbavljam."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/66.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 66
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 19
+}

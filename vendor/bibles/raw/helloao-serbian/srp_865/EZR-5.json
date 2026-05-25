@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZR",
+    "translationId": "srp_865",
+    "name": "Ezra",
+    "commonName": "Ezra",
+    "title": "Ezra",
+    "order": 15,
+    "numberOfChapters": 10,
+    "sha256": "bf548715db2388dddb04c845f0fa124e883e80ef31b6aa8bdd1683312fc367c1",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZR/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZR",
+      "chapter": 1
+    },
+    "lastChapterNumber": 10,
+    "lastChapterApiLink": "/api/srp_865/EZR/10.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZR",
+      "chapter": 10
+    },
+    "totalNumberOfVerses": 280
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada Agej prorok i Zaharija sin Idov prorok prorokovahu Judejcima koji bijahu u Judeji i u Jerusalimu u ime Boga Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I usta Zorovavelj sin Salatilov i Isus sin Josedekov, i poèeše opet zidati dom Božji u Jerusalimu, i bjehu s njima proroci Božji pomažuæi im."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "U to vrijeme doðe k njima Tatnaj upravitelj s ovu stranu rijeke, i Setar-Vosnaj i drugovi njihovi, i rekoše im ovako: ko vam je dao vlast da zidate tu kuæu i da opravljate te zidove?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tada im odgovorismo imenujuæi ljude koji graðahu tu graðevinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ali bješe oko Božije na starješinama Judejskim, te im ne zabraniše dokle ne otide stvar do Darija i donesu odgovor o tom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A ovo je prijepis od knjige koju posla caru Dariju Tatnaj upravitelj s ove strane rijeke i Setar-Vosnaj s drugovima svojim Afarsašanima koji bijahu s ove strane rijeke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Poslaše mu knjigu, a u njojzi bješe napisano ovako: Dariju caru svako dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Da je na znanje caru da doðosmo u Judejsku zemlju k domu Boga velikoga, koji zidaju od velikoga kamena, i drvlje meæu u zidove, i posao se brzo radi i napreduje u rukama njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I zapitasmo tamošnje starješine rekavši im: ko vam je dao vlast da zidate taj dom i da opravljate te zidove?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Pa ih i za imena njihova zapitasmo da bismo ti javili, i zapisasmo imena onijeh koji su glavari meðu njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A oni nam odgovoriše ovako govoreæi: mi smo sluge Boga nebeskoga i zemaljskoga, i zidamo dom koji je bio sazidan prije mnogo vremena, koji je zidao i podigao velik car Izrailjev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ali kad oci naši razgnjeviše Boga nebeskoga, dade ih u ruke Navuhodonosoru caru Vavilonskom Haldejcu, koji raskopa ovaj dom a narod preseli u Vavilon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ali prve godine Kira cara Vavilonskoga, car Kir zapovjedi da se sazida ovaj dom Božji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Još i sudove doma Božijega zlatne i srebrne koje Navuhodonosor bješe uzeo iz crkve Jerusalimske i odnio u crkvu Vavilonsku, iznese ih car Kir iz crkve Vavilonske, i biše dani po imenu Sasavasaru, kojega postavi upraviteljem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I reèe mu: uzmi ove sudove pa idi i odnesi ih u crkvu koja je u Jerusalimu, i dom Božji neka se sazida na svojem mjestu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Onda taj Sasavasar doðe i postavi temelj domu Božijemu u Jerusalimu; i od toga vremena dosad zida se i još nije dovršen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ako je dakle ugodno caru, neka se potraži u riznici carskoj u Vavilonu je li car Kir zapovjedio da se sazida ovaj dom Božji u Jerusalimu, i volju svoju o tom neka nam car pošlje."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZR/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZR/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZR/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

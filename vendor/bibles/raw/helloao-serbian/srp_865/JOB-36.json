@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOB",
+    "translationId": "srp_865",
+    "name": "Jov",
+    "commonName": "Jov",
+    "title": "Jov",
+    "order": 18,
+    "numberOfChapters": 42,
+    "sha256": "8862f4cbf1254f76fa7ea0a123da4bc2d61eebd46a2620b1499e0771fad0ee95",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 42,
+    "lastChapterApiLink": "/api/srp_865/JOB/42.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 42
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 36,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Još govori Elijuj i reèe:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Potrpi me malo, i pokazaæu ti, jer još ima što bih govorio za Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Poèeæu izdaleka besjedu svoju, i pokazaæu da je tvorac moj pravedan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Doista, neæe biti lažne rijeèi moje, kod tebe je koji pravo misli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Gle, Bog je silan, ali nikoga ne odbacuje, silan je snagom srèanom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ne da živjeti bezbožniku, a nevoljnicima èini pravdu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ne odvraæa od pravednika oèiju svojih, nego još s carevima na prijesto posaðuje ih navijek, te se uzvišuju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ako li su okovani u puta i svezani užima nevoljnièkim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tada im napominje djela njihova i bezakonja njihova kako su silna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I otvora im uho da bi se popravili, i govori im da se vrate od bezakonja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ako poslušaju i stanu mu služiti, dovršuju dane svoje u dobru i godine svoje u radosti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ako li ne poslušaju, ginu od maèa i umiru s bezumlja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A koji su licemjerna srca, navlaèe gnjev i ne vièu kad ih poveže;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Umire u mladosti duša njihova i život njihov meðu kurvama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Izbavlja nevoljnika iz nevolje njegove i otvora mu uho u muci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tako bi i tebe izveo iz tjeskobe na prostrano mjesto, gdje ništa ne dosaðuje, i mirni sto tvoj bio bi pun pretiline."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ali si zaslužio sud bezbožnièki; i sud i pravda snaðe te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Doista, gnjev je na tebi; gledaj da te ne odbaci u karanju, te te veliki otkup neæe izbaviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Hoæe li gledati na tvoje bogatstvo? neæe ni na zlato ni na kaku silu blaga tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ne uzdiši za noæu u koju narodi odlaze na svoje mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Èuvaj se da ne pogledaš na taštinu i voliš nju nego nevolju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Gle, Bog je najviši svojom silom, ko je uèitelj kao on?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ko mu je odredio put njegov? ili ko æe mu reæi: èiniš nepravo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Opominji se da velièaš djela njegova, koja gledaju ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Svi ljudi vide ih, svaki ih gleda izdaleka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Gle, Bog je velik, i ne možemo ga poznati, broj godina njegovijeh ne može se dokuèiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jer on steže kaplje vodene, koje liju dažd iz oblaka njegovijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Kad teku oblaci, kaplju na mnoštvo ljudsko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I ko bi razumio prostor oblacima i grmljavu u šatoru njegovu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Kako prostire nad njim svjetlost svoju, i dubine morske pokriva?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Tijem sudi narodima, daje hrane izobila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Rukama zaklanja svjetlost, i nareðuje koga da srete,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Javljajuæi prema njemu dobru volju svoju, i prema stoci i prema rodu zemaljskom."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOB/36.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 36
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOB/37.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 37
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOB/35.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 35
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

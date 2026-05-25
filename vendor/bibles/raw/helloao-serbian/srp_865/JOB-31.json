@@ -1,0 +1,356 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOB",
+    "translationId": "srp_865",
+    "name": "Jov",
+    "commonName": "Jov",
+    "title": "Jov",
+    "order": 18,
+    "numberOfChapters": 42,
+    "sha256": "8862f4cbf1254f76fa7ea0a123da4bc2d61eebd46a2620b1499e0771fad0ee95",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 42,
+    "lastChapterApiLink": "/api/srp_865/JOB/42.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 42
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 31,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Vjeru uèinih sa oèima svojim, pa kako bih pogledao na djevojku?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer kakav je dio od Boga ozgo? i kakvo našljedstvo od svemoguæega s visine?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Nije li pogibao nevaljalome i èudo onima koji èine bezakonje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ne vidi li on putove moje, i sve korake moje ne broji li?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ako hodih s lažju ili ako pohitje noga moja na prijevaru,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Neka me izmjeri na mjerilima pravijem, i neka Bog pozna dobrotu moju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ako su koraci moji zašli s puta, i ako je za oèima mojim pošlo srce moje, i za ruke moje prionulo štogod,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Neka ja sijem a drugi jede, i neka se iskorijene izdanci moji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ako se zanijelo srce moje za kojom ženom, i ako sam vrebao na vratima bližnjega svojega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Neka drugomu melje žena moja, i neka se drugi nad njom povijaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer je to grdilo i bezakonje za sudije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer bi to bio oganj koji bi proždirao do uništenja, i svu bi moju ljetinu iskorijenio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ako nijesam htio doæi na sud sa slugom svojim ili sa sluškinjom svojom, kad bi se tužili na mene;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer šta bih èinio kad bi se Bog podigao, i kad bi potražio, šta bih mu odgovorio?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Koji je mene stvorio u utrobi, nije li stvorio i njega? nije li nas on isti sazdao u materici?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ako sam odbio siromasima želju njihovu, i oèi udovici zamutio,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I ako sam zalogaj svoj sam jeo a nije ga jela i sirota,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer je od mladosti moje rasla sa mnom kao kod oca, i od utrobe matere svoje vodao sam je;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ako sam gledao koga gdje gine nemajuæi haljine, i siromaha gdje se nema èim pokriti,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ako me nijesu blagosiljala bedra njegova što se runom ovaca mojih utoplio,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ako sam izmahnuo rukom na sirotu, kad vidjeh na vratima pomoæ svoju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Neka mi ispadne rame iz pleæa, i ruka moja neka se otkine od zgloba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer sam se bojao pogibli od Boga, kojega velièanstvu ne bih odolio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ako sam polagao na zlato nadanje svoje, ili èistome zlatu govorio: uzdanico moja!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ako sam se veselio što mi je imanje veliko i što mnogo steèe ruka moja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ako sam gledao na sunce, kad sjaje, i na mjesec, kad ponosito hodi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I srce se moje potajno prevarilo i ruku moju poljubila usta moja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I to bi bilo bezakonje za sudije, jer bih se odrekao Boga ozgo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ako sam se radovao nesreæi nenavidnika svojega, i ako sam zaigrao kad ga je zlo zadesilo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Jer ne dadoh jeziku svojemu da griješi tražeæi dušu njegovu s proklinjanjem;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ako ne govorahu domašnji moji: ko bi nam dao mesa njegova? ne možemo se ni najesti;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Stranac nije noæivao na polju; vrata svoja otvorao sam putniku;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ako sam kao što èine ljudi tajio prijestupe svoje i krio svoje bezakonje u svojim njedrima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ako sam i mogao plašiti veliko mnoštvo, ipak od najmanjega u domu bijaše me strah; zato muèah i ne odlažah od vrata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "O da bih imao koga da me sasluša! Gle, želja je moja da mi svemoguæi odgovori i suparnik moj da mi napiše knjigu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Nosio bih je na ramenu svom, vezao bih je sebi kao vijenac,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Broj koraka svojih kazao bih mu, kao knez pristupio bih k njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Ako je na me vikala moja zemlja, i brazde njezine plakale,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Ako sam jeo roda njezina bez novaca i dosaðivao duši gospodara njezinijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Mjesto pšenice neka mi raða trnje, i mjesto jeèma kukolj. Svršiše se rijeèi Jovove."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOB/31.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 31
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOB/32.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 32
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOB/30.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 30
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 40
+}

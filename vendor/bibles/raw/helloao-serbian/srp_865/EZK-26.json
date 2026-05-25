@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 26,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A jedanaeste godine prvi dan mjeseca doðe mi rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Sine èovjeèji, što Tir govori za Jerusalim: ha, ha! razbiše se vrata narodima, obratiše se k meni, napuniæu se kad opustje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Zato ovako veli Gospod Gospod: evo mene na te, Tire, i dovešæu mnoge narode na te kao da bih doveo more s valima njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I oni æe obaliti zidove Tirske i kule u njemu raskopati, i omešæu prah njegov i pretvoriæu ga u go kamen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I postaæe mjesto da se razastiru mreže usred mora, jer ja govorih, veli Gospod Gospod, i biæe grabež narodima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I kæeri njegove po polju izginuæe od maèa, i poznaæe da sam ja Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer ovako veli Gospod Gospod: evo, ja æu dovesti na Tir Navuhodonosora cara Vavilonskoga sa sjevera, cara nad carevima, s konjma i s kolima i s konjicima i s vojskama i mnogim narodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Kæeri tvoje po polju pobiæe maèem, i naèiniæe prema tebi kule, i iskopaæe opkope prema tebi, i podignuæe prema tebi štitove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I namjestiæe ubojne sprave prema zidovima tvojim, i razvaliæe kule tvoje oružjem svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Od mnoštva konja njegovijeh pokriæe te prah, od praske konjika i toèkova i kola zatrešæe se zidovi tvoji, kad stane ulaziti na tvoja vrata kao što se ulazi u grad isprovaljivan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Kopitama konja svojih izgaziæe sve ulice tvoje, pobiæe narod tvoj maèem, i stupovi sile tvoje popadaæe na zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I poplijeniæe blago tvoje i razgrabiti trg tvoj, i razvaliæe zidove tvoje i lijepe kuæe tvoje razoriti, i kamenje tvoje i drva tvoja i prah tvoj baciæe u vodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I prekinuæu jeku pjesama tvojih, i glas kitara tvojih neæe se više èuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I uèiniæu od tebe go kamen, biæeš mjesto gdje se razastiru mreže, neæeš se više sazidati; jer ja Gospod govorih, veli Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ovako veli Gospod Gospod Tiru: neæe li se zadrmati ostrva od praske padanja tvojega, kad zajaoèu ranjenici, kad pokolj bude u tebi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Svi æe knezovi morski siæi s prijestola svojih i skinuæe sa sebe plašte i svuæi sa sebe vezene haljine, i obuæi æe se u strah; sjedeæe na zemlji, i drktaæe svaki èas i èuditi se tebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I naricaæe za tobom i govoriæe ti: kako propade, slavni grade! u kom življahu pomorci, koji bijaše jak na moru, ti i stanovnici tvoji, koji strah zadavahu svjema koji življahu u tebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Sad æe se uzdrhtati ostrva kad padneš, i smešæe se ostrva po moru od propasti tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer ovako veli Gospod Gospod: kad te uèinim pustijem gradom, kao što su gradovi u kojima se ne živi, kad pustim na te bezdanu, i velika te voda pokrije,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I kad te svalim s onima koji slaze u jamu k starom narodu, i namjestim te na najdonjim krajevima zemlje, u pustinji staroj s onima koji slaze u jamu, da se ne živi u tebi, tada æu opet postaviti slavu u zemlji živijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Uèiniæu da budeš strahota kad te nestane, i tražiæe te i neæeš se naæi dovijeka, govori Gospod Gospod."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/26.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 26
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/27.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 27
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/25.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 25
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

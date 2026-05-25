@@ -1,0 +1,342 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "srp_865",
+    "name": "Luki",
+    "commonName": "Luki",
+    "title": "Jevanðelje po Luki",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "71d24bae001865beafd9dc8b76f8e93d8f927bd8e33391ea4aebbf53673c6a27",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LUK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/LUK/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 21,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Pogledavši pak gore vidje bogate gdje meæu priloge svoje u haznu Božiju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A vidje i jednu siromašnu udovicu koja metaše ondje dvije lepte;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reèe: zaista vam kažem: ova siromašna udovica metnu više od sviju:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer svi ovi metnuše u prilog Bogu od suviška svojega, a ona od sirotinje svoje metnu svu hranu svoju što imaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I kad neki govorahu za crkvu da je ukrašena lijepijem kamenjem i zakladima, reèe:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Doæi æe dani u koje od svega što vidite neæe ostati ni kamen na kamenu koji se neæe razmetnuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zapitaše ga pak govoreæi: uèitelju! a kad æe to biti? i kakav je znak kad æe se to dogoditi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A on reèe: èuvajte se da vas ne prevare, jer æe mnogi doæi na ime moje govoreæi: ja sam, i vrijeme se približi. Ne idite dakle za njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A kad èujete ratove i bune, ne plašite se; jer to sve treba najprije da bude; ali još nije tada pošljedak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Tada im reèe: ustaæe narod na narod i carstvo na carstvo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I zemlja æe se tresti vrlo po svijetu, i biæe gladi i pomori i strahote i veliki znaci biæe na nebu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A prije svega ovoga metnuæe na vas ruke svoje i goniæe vas i predavati u zbornice i u tamnice; vodiæe vas pred careve i kraljeve imena mojega radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A to æe vam se dogoditi za svjedoèanstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Metnite dakle u srca svoja, da se prije ne pripravljate kako æete odgovarati:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer æu vam ja dati usta i premudrost kojoj se neæe moæi protiviti ni odgovoriti svi vaši protivnici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A predavaæe vas i roditelji i braæa i roðaci i prijatelji; i pobiæe neke od vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I svi æe omrznuti na vas imena mojega radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I dlaka s glave vaše neæe poginuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Trpljenjem svojijem spasavajte duše svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A kad vidite da Jerusalim opkoli vojska onda znajte da se približilo vrijeme da opusti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tada koji budu u Judeji neka bježe u gore, i koji budu u gradu neka izlaze napolje; i koji su napolju neka ne ulaze u njega:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer su ovo dani osvete, da se izvrši sve što je napisano."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ali teško trudnima i dojilicama u te dane! Jer æe biti velika nevolja na zemlji, i gnjev na ovom narodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I pašæe od oštrica maèa, i odvešæe se u ropstvo po svijem narodima; i Jerusalim æe gaziti neznabošci dok se ne izvrše vremena neznabožaca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I biæe znaci u suncu i u mjesecu i u zvijezdama; i ljudima na zemlji tuga od smetnje i od huke morske i valova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ljudi æe umirati od straha i od èekanja onoga što ide na zemlju; jer æe se i sile nebeske pokrenuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I tada æe ugledati sina èovjeèijega gdje ide na oblacima sa silom i slavom velikom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A kad se poène ovo zbivati, gledajte i podignite glave svoje; jer se približuje izbavljenje vaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I kaza im prièu: gledajte na smokvu i na sva drveta;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Kad vidite da veæ potjeraju, sami znate da je blizu ljeto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Tako i vi kad vidite ovo da se zbiva, znajte da je blizu carstvo Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Zaista vam kažem da ovaj naraštaj neæe proæi dok se ovo sve ne zbude."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Nebo i zemlja proæi æe, a rijeèi moje neæe proæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ali se èuvajte da kako vaša srca ne otežaju žderanjem i pijanstvom i brigama ovoga svijeta, i da vam ovaj dan ne doðe iznenada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Jer æe doæi kao zamka na sve koji žive po svoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Stražite dakle jednako i molite se Bogu da biste se udostojili uteæi od svega ovoga što æe se zbiti, i stati pred sinom èovjeèijim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I danju uèaše u crkvi, a noæu izlažaše i noæivaše na gori koja se zove Maslinska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I sav narod dolažaše izjutra k njemu u crkvu da ga slušaju."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LUK/21.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 21
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LUK/22.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 22
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LUK/20.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 20
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 38
+}

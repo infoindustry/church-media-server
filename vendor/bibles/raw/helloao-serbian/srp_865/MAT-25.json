@@ -1,0 +1,398 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "srp_865",
+    "name": "Mateju",
+    "commonName": "Mateju",
+    "title": "Jevanðelje po Mateju",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "2282cb47d4ecce5bfb50178a05f4b87b8f4e94d2e2954aa2bd38500539980051",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/MAT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 25,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada æe biti carstvo nebesko kao deset djevojaka koje uzeše žiške svoje i iziðoše na susret ženiku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Pet od njih bijahu mudre a pet lude."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I lude uzevši žiške svoje ne uzeše sa sobom ulja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A mudre uzeše ulje u sudovima sa žišcima svojima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A buduæi da ženik odocni, zadrijemaše sve, i pospaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A u ponoæi stade vika: eto ženika gdje ide, izlazite mu na susret."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tada ustaše sve djevojke one i ukrasiše žiške svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A lude rekoše mudrima: dajte nam od ulja svojega, jer naši žišci hoæe da se ugase."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A mudre odgovoriše govoreæi: da ne bi nedostalo i nama i vama, bolje je idite k trgovcima i kupite sebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A kad one otidoše da kupe, doðe ženik, i gotove uðoše s njim na svadbu, i zatvoriše se vrata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A poslije doðoše i one druge djevojke govoreæi: gospodaru! gospodaru! otvori nam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A on odgovarajuæi reèe im: zaista vam kažem: ne poznajem vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Stražite dakle, jer ne znate dana ni èasa u koji æe sin èovjeèij doæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer kako što èovjek polazeæi dozva sluge svoje i predade im blago svoje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I jednome dakle dade pet talanta, a drugome dva, a treæemu jedan, svakome prema njegovoj moæi; i otide odmah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A onaj što primi pet talanta otide te radi s njima, i dobi još pet talanta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tako i onaj što primi dva dobi i on još dva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A koji primi jedan otide te ga zakopa u zemlju i sakri srebro gospodara svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A po dugom vremenu doðe gospodar tijeh sluga, i stade se raèuniti s njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I pristupivši onaj što je primio pet talanta, donese još pet talanta govoreæi: gospodaru! predao si mi pet talanta; evo još pet talanta ja sam dobio s njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A gospodar njegov reèe mu: dobro, slugo dobri i vjerni! u malom bio si mi vjeran, nad mnogijem æu te postaviti; uði u radost gospodara svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A pristupivši i onaj što je primio dva talanta reèe: gospodaru! predao si mi dva talanta; evo još dva talanta ja sam dobio s njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A gospodar njegov reèe mu: dobro, slugo dobri i vjerni! u malom bio si mi vjeran, nad mnogijem æu te postaviti; uði u radost gospodara svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A pristupivši i onaj što je primio jedan talant reèe: gospodaru! znao sam da si ti tvrd èovjek: žnješ gdje nijesi sijao, i kupiš gdje nijesi vijao;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Pa se pobojah i otidoh te sakrih talant tvoj u zemlju; i evo ti tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A gospodar njegov odgovarajuæi reèe mu: zli i ljenivi slugo! znao si da ja žnjem gdje nijesam sijao, i kupim gdje nijesam vijao:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Trebalo je dakle moje srebro da daš trgovcima; i ja došavši uzeo bih svoje s dobitkom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Uzmite dakle od njega talant, i podajte onome što ima deset talanta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Jer svakome koji ima, daæe se, i preteæi æe mu; a od onoga koji nema, i što ima uzeæe se od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I nevaljaloga slugu bacite u tamu najkrajnju; ondje æe biti plaè i škrgut zuba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A kad doðe sin èovjeèij u slavi svojoj i svi sveti anðeli s njime, onda æe sjesti na prijestolu slave svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I sabraæe se pred njim svi narodi, i razluèiæe ih izmeðu sebe kao pastir što razluèuje ovce od jaraca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I postaviæe ovce s desne strane sebi, a jarce s lijeve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Tada æe reæi car onima što mu stoje s desne strane: hodite blagosloveni oca mojega; primite carstvo koje vam je pripravljeno od postanja svijeta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Jer ogladnjeh, i daste mi da jedem; ožednjeh, i napojiste me; gost bijah, i primiste me;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Go bijah, i odjenuste me; bolestan bijah, i obiðoste me; u tamnici bijah, i doðoste k meni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Tada æe mu odgovoriti pravednici govoreæi: Gospode! kad te vidjesmo gladna, i nahranismo? ili žedna, i napojismo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Kad li te vidjesmo gosta, i primismo? ili gola, i odjenusmo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Kad li te vidjesmo bolesna ili u tamnici, i doðosmo k tebi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I odgovarajuæi car reæi æe im: zaista vam kažem: kad uèiniste jednome od ove moje najmanje braæe, meni uèiniste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Tada æe reæi i onima što mu stoje s lijeve strane: idite od mene prokleti u oganj vjeèni pripravljeni ðavolu i anðelima njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Jer ogladnjeh, i ne dadoste mi da jedem; ožednjeh, i ne napojiste me;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Gost bijah, i ne primiste me; go bijah, i ne odjenuste me; bolestan i u tamnici bijah, i ne obiðoste me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Tada æe mu odgovoriti i oni govoreæi: Gospode! kad te vidjesmo gladna ili žedna, ili gosta ili gola, ili bolesna ili u tamnici, i ne poslužismo te?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Tada æe im odgovoriti govoreæi: zaista vam kažem: kad ne uèiniste jednome od ove moje male braæe, ni meni ne uèiniste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "I ovi æe otiæi u muku vjeènu, a pravednici u život vjeèni."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAT/25.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 25
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/26.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 26
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAT/24.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 24
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 46
+}

@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ROM",
+    "translationId": "srp_865",
+    "name": "Rimljanima",
+    "commonName": "Rimljanima",
+    "title": "Poslanica Rimljanima",
+    "order": 45,
+    "numberOfChapters": 16,
+    "sha256": "1fe4947b687992778ed830174635b188e37a5a7f483de9affcbbb4c949cc6571",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ROM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/ROM/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 433
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ili ne znate, braæo jer govorim onima koji znadu zakon da zakon vlada nad èovjekom dokle je živ?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer je udata žena privezana zakonom za muža dokle god on živi; a ako li muž njezin umre, razdriješi se od zakona muževljega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Zato dakle dok joj je muž živ biva preljuboèinica ako poðe za drugog muža; a ako joj umre muž prosta je od zakona da ne bude preljuboèinica ako poðe za drugoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Zato, braæo moja, i vi umrijeste zakonu tijelom Hristovijem, da budete drugoga, onoga što usta iz mrtvijeh, da plod donesemo Bogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer kad bijasmo u tijelu, bijahu slasti grjehovne, koje zakon raðahu u udima našima da se smrti plod donosi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A sad umrvši izbavismo se od zakona koji nas držaše, da služimo Bogu) u obnovljenju Duha a ne u starini slova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Šta æemo dakle reæi? Je li zakon grijeh? Bože saèuvaj! nego ja grijeha ne poznah osim kroz zakon; jer ne znadoh za želju da zakon ne kaza: ne zaželi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A grijeh uze poèetak kroz zapovijest, i naèini u meni svaku želju; jer je grijeh bez zakona mrtav."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A ja življah nekad bez zakona; a kad doðe zapovijest, onda grijeh oživlje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A ja umrijeh, i naðe se da mi zapovijest bi za smrt koja bješe data za život."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer grijeh uzevši poèetak kroz zapovijest prevari me, i ubi me njome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tako je dakle zakon svet i zapovijest sveta i pravedna i dobra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Dobro li dakle bi meni smrt? Bože saèuvaj! nego grijeh, da se pokaže grijeh dobrom èineæi mi smrt, da bude grijeh odviše grješan zapoviješæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer znamo da je zakon duhovan; a ja sam tjelesan, prodan pod grijeh:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer ne znam šta èinim, jer ne èinim ono šta hoæu, nego na što mrzim ono èinim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ako li ono èinim šta neæu, hvalim zakon da je dobar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A ovo više ja ne èinim nego grijeh koji živi u meni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer znam da dobro ne živi u meni, to jest u tijelu mojemu. Jer htjeti imam u sebi, ali uèiniti dobro ne nalazim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer dobro šta hoæu ne èinim, nego zlo što neæu ono èinim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A kad èinim ono što neæu, veæ ja to ne èinim nego grijeh koji živi u meni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Nalazim dakle zakon, kad hoæu dobro da èinim, da me na zlo nagoni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer imam radost u zakonu Božijemu po unutrašnjemu èovjeku;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ali vidim drugi zakon u udima svojima, koji se suproti zakonu uma mojega, i zarobljava me zakonom grjehovnijem koji je u udima mojima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ja nesreæni èovjek! Ko æe me izbaviti od tijela smrti ove?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Zahvaljujem Bogu svojemu kroz Isusa Hrista Gospoda našega. Tako dakle ja sam umom svojijem služim zakonu Božijemu a tijelom zakonu grjehovnome."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ROM/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ROM/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ROM/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

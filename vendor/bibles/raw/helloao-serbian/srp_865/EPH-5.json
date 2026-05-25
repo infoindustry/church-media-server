@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EPH",
+    "translationId": "srp_865",
+    "name": "Efežanima",
+    "commonName": "Efežanima",
+    "title": "Poslanica Efežanima",
+    "order": 49,
+    "numberOfChapters": 6,
+    "sha256": "7712b8f570a25c75c412d98fb0075a57221e64ee4d6feeff31d8738503a35eaf",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EPH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EPH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 6,
+    "lastChapterApiLink": "/api/srp_865/EPH/6.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EPH",
+      "chapter": 6
+    },
+    "totalNumberOfVerses": 155
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ugledajte se dakle na Boga, kao ljubazna djeca,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I živite u ljubavi, kao što je i Hristos ljubio nas, i predade sebe za nas u prilog i žrtvu Bogu na slatki miris."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A kurvarstvo i svaka neèistota i lakomstvo da se i ne spominje meðu vama, kao što se pristoji svetima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tako i sramotne i lude rijeèi, ili šale, što se ne pristoji; nego još zahvaljivanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer ovo da znate da nijedan kurvar, ili neèist, ili tvrdica koji je idolopoklonik neæe imati dijela u carstvu Hrista i Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Niko da vas ne vara praznijem rijeèima; jer ovijeh radi ide gnjev Božij na sinove nepokornosti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ne bivajte dakle zajednièari njihovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer bijaste negda tama, a sad ste vidjelo u Gospodu: kao djeca vidjela živite;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer je rod duhovni u svakoj dobroti i pravdi i istini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Istražujte što je Bogu ugodno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I ne pristajte na bezrodna djela tame, nego još karajte."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer je sramno i govoriti šta oni tajno èine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A sve za što se kara, vidjelo objavljuje; jer sve što se objavljuje, vidjelo je;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Zato govori: ustani ti koji spavaš i vaskrsni iz mrtvijeh, i obasjaæe te Hristos."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Gledajte dakle da uredno živite, ne kao nemudri, nego kao mudri;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Pazite na vrijeme, jer su dani zli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Toga radi ne budite nerazumni, nego poznajte što je volja Božija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I ne opijajte se vinom, u kome je kurvarstvo, nego se još ispunjavajte duhom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Govoreæi meðu sobom u psalmima i pojanju i pjesmama duhovnijem, pjevajuæi i pripijevajuæi u srcima svojijem Gospodu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Zahvaljujuæi za svašto u ime Gospoda našega Isusa Hrista Bogu i ocu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Slušajuæi se meðu sobom u strahu Božijemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Žene! slušajte svoje muževe kao Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer je muž glava ženi kao što je i Hristos glava crkvi, i on je spasitelj tijela."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "No kao što crkva sluša Hrista tako i žene svoje muževe u svemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Muževi! ljubite svoje žene kao što i Hristos ljubi crkvu, i sebe predade za nju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Da je osveti oèistivši je kupanjem vodenijem u rijeèi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Da je metne preda se slavnu crkvu, koja nema mane ni mrštine, ili takoga èega, nego da bude sveta i bez mane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Tako su dužni muževi ljubiti svoje žene kao svoja tjelesa; jer koji ljubi svoju ženu, sebe samoga ljubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Jer niko ne omrznu kad na svoje tijelo, nego ga hrani i grije, kao i Gospod crkvu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Jer smo udi tijela njegova, od mesa njegova, i od kostiju njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Toga radi ostaviæe èovjek oca svojega i mater, i prilijepiæe se k ženi svojoj, i biæe dvoje jedno tijelo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Tajna je ovo velika; a ja govorim za Hrista i za crkvu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ali i vi svaki da ljubi onako svoju ženu kao i sebe samoga; a žena da se boji svojega muža."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EPH/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EPH",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EPH/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EPH",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EPH/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EPH",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

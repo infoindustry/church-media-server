@@ -1,0 +1,139 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOS",
+    "translationId": "srp_865",
+    "name": "Isus Navin",
+    "commonName": "Isus Navin",
+    "title": "Isus Navin",
+    "order": 6,
+    "numberOfChapters": 24,
+    "sha256": "ec9d0a794c17ba6296451b87fb16a4d34d8af2bfd446293b00f97a3bbb7257b2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOS/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/JOS/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 658
+  },
+  "chapter": {
+    "number": 20,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Potom reèe Gospod Isusu govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kaži sinovima Izrailjevijem i reci: Odredite gradove za utoèišta, za koje sam vam govorio preko Mojsija,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Da onamo uteèe krvnik koji ubije koga nehotice, ne misleæi, da vam budu utoèišta od osvetnika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Pa kad ko uteèe u koji od tijeh gradova, neka stane pred vratima gradskim i neka kaže starješinama onoga grada stvar svoju, pa neka ga prime k sebi, i dadu mu mjesto da sjedi kod njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I ako doðe za njim osvetnik, neka mu ne dadu krvnika u ruke, jer je nehotice ubio bližnjega niti je prije mrzio na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nego neka sjedi u gradu onom dokle ne stane pred zbor na sud, do smrti poglavara sveštenièkoga koji bude onda, tada neka se krvnik vrati i ide u svoj grad i svojoj kuæi, u grad iz kojega je utekao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I odijeliše Kedes u Galileji u gori Neftalimovoj i Sihem u gori Jefremovoj i Kirijat-Arvu, to je Hevron, u gori Judinoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A preko Jordana od Jerihona na istok odrediše Vosor u pustinji, u ravni, od plemena Ruvimova, i Ramot u Galadu od plemena Gadova, i Golan u Vasanu od plemena Manasijina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "To su gradovi odreðeni svijem sinovima Izrailjevijem i došljaku koji se bavi meðu njima, da uteèe u njih ko god ubije koga nehotice i da ne pogine od ruke osvetnikove dokle ne stane pred zbor."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOS/20.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 20
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOS/21.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 21
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOS/19.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 19
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 9
+}

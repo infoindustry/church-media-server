@@ -1,0 +1,188 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1TI",
+    "translationId": "srp_865",
+    "name": "1 Timoteju",
+    "commonName": "1 Timoteju",
+    "title": "1. Timoteju Poslanica",
+    "order": 54,
+    "numberOfChapters": 6,
+    "sha256": "b8a491e7c81c06e14355bb1911b6ea929afb84f88e0ee6399f29f2291857d3c4",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1TI/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1TI",
+      "chapter": 1
+    },
+    "lastChapterNumber": 6,
+    "lastChapterApiLink": "/api/srp_865/1TI/6.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1TI",
+      "chapter": 6
+    },
+    "totalNumberOfVerses": 113
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Istinita je rijeè: ako ko vladièanstva želi dobru stvar želi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ali vladika treba da je bez mane, jedne žene muž, trijezan, pametan, pošten, gostoljubiv, vrijedan da uèi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ne pijanica, ne bojac, ne lakom, nego krotak, miran, ne srebroljubac;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Koji svojijem domom dobro upravlja, koji ima poslušnu djecu sa svakijem poštenjem;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A ako ko ne umije svojijem domom upravljati, kako æe se moæi starati za crkvu Božiju?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ne novokršten, da se ne bi naduo, i upao u sud ðavolji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A valja da ima i dobro svjedoèanstvo od onijeh koji su napolju, da ne bi upao u sramotu i u zamku ðavolju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tako i ðakoni treba da budu pošteni, ne dvojezièni, ne koji mnogo vina piju, ne lakomi na dobitak pogan,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Koji imaju tajnu vjere u èistoj savjesti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A i ovi da se kušaju najprije, pa onda da služe, ako su bez mane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tako i žene treba da su poštene, ne koje opadaju, trijezne, vjerne u svemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ðakoni da bivaju jedinijeh žena muževi, koji dobro upravljaju djecom i svojijem domovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer koji dobro služe oni dobivaju sebi dobar postup, i veliku slobodu u vjeri Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ovo ti pišem nadajuæi se da æu skoro doæi k tebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ako li se zabavim, da znaš kako treba življeti u domu Božijemu, koji je crkva Boga živoga, stup i tvrða istine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I, kao što je priznato, velika je tajna pobožnosti: Bog se javi u tijelu, opravda se u Duhu, pokaza se anðelima, propovjedi se neznabošcima, vjerova se na svijetu, uznese se u slavi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1TI/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1TI",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1TI/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1TI",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1TI/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1TI",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

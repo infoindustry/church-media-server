@@ -1,0 +1,321 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 23,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Pavle pogledavši na skupštinu reèe: ljudi braæo! ja sa svom dobrom savjesti življeh pred Bogom do samoga ovog dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A poglavar sveštenièki Ananija zapovjedi onima što stajahu kod njega da ga biju po ustima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Tada mu reèe Pavle: tebe æe Bog biti, zide okreèeni! I ti sjediš te mi sudiš po zakonu, a prestupajuæi zakon zapovijedaš da me biju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A oni što stajahu naokolo rekoše: zar psuješ Božijeg poglavara sveštenièkoga?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A Pavle reèe: ne znadoh, braæo, da je poglavar sveštenièki, jer stoji napisano: starješini naroda svojega da ne govoriš ružno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A znajuæi Pavle da je jedan dio sadukeja a drugi fariseja, povika na skupštini: ljudi braæo! ja sam farisej i sin farisejev: za nad i za vaskrsenije iz mrtvijeh doveden sam na sud."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kad on ovo reèe, postade raspra meðu sadukejima i farisejima, i razdijeli se narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer sadukeji govore da nema vaskrsenija, ni anðela ni duha; a fariseji priznaju oboje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I postade velika vika, i ustavši književnici od strane farisejske prepirahu se meðu sobom govoreæi: nikakvo zlo ne nalazimo na ovome èovjeku; ako li mu govori duh ili anðeo, da se ne suprotimo Bogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A kad posta raspra velika, pobojavši se vojvoda da Pavla ne raskinu, zapovjedi da siðu vojnici i da ga otmu izmeðu njih, i da ga odvedu u oko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A onu noæ stade Gospod predanjga i reèe: ne boj se, Pavle, jer kao što si svjedoèio za mene u Jerusalimu, tako ti valja i u Rimu svjedoèiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A kad bi dan, uèiniše neki od Jevreja vijeæu i zakleše se govoreæi da neæe ni jesti ni piti dokle ne ubiju Pavla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A bješe ih više od èetrdeset koji ovu kletvu uèiniše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ovi pristupivši ka glavarima sveštenièkijem i starješinama, rekoše: kletvom zaklesmo se da neæemo ništa okusiti dok ne ubijemo Pavla;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Sad dakle vi sa saborom kažite vojvodi da ga sjutra svede k vama, kao da biste htjeli doznati bolje za njega; a mi smo gotovi da ga ubijemo prije nego se on približi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A sin sestre Pavlove èuvši ovu zasjedu doðe i uðe u oko i kaza Pavlu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A Pavle dozvavši jednoga od kapetana reèe: ovo momèe odvedi k vojvodi, jer ima nešto da mu kaže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A on ga uze i dovede k vojvodi, i reèe: sužanj Pavle dozva me i zamoli da ovo momèe dovedem k tebi koje ima nešto da ti govori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A vojvoda uzevši ga za ruku, i otišavši nasamo, pitaše ga: šta je što imaš da mi kažeš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A ono reèe: Jevreji dogovoriše se da te zamole da sjutra svedeš Pavla k njima na skupštinu, kao da bi htjeli bolje ispitati za njega;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ali ti ih nemoj poslušati, jer ga èekaju od njih više od èetrdeset ljudi koji su se zakleli da neæe ni jesti ni piti dokle ga ne ubiju; i sad su gotovi, i èekaju tvoje obeæanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A vojvoda onda otpusti momèe zapovjedivši mu: nikom ne kazuj da si mi ovo javio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I dozvavši dvojicu od kapetana reèe: pripravite mi dvjesta vojnika da idu do Æesarije, i sedamdeset konjika i dvjesta strijelaca, po treæemu sahatu noæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I neka dovedu konje da posade Pavla, i da ga prate do Filiksa sudije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I napisa poslanicu u kojoj ovako govoraše:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Od Klaudija Lisije èestitome Filiksu pozdravlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Èovjeka ovoga uhvatiše Jevreji i šæahu da ga ubiju; ja pak doðoh s vojnicima i oteh ga doznavši da je Rimljanin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I želeæi doznati uzrok za koji ga krive svedoh ga na njihovu skupštinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Tada naðoh da ga krive za pitanja zakona njihova, a da nema nikakve krivice koja zaslužuje smrt ili okove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I doznavši ja ugovor Jevrejski o glavi ovoga èovjeka odmah ga poslah k tebi zapovjedivši i suparnicima njegovijem da pred tobom kažu što imaju na nj. Zdrav budi!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A vojnici onda, kao što im se zapovjedi, uzeše Pavla i odvedoše ga noæu u Antipatridu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A sjutradan ostavivši konjike da idu s njim, vratiše se u oko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A oni došavši u Æesariju, predaše poslanicu sudiji i izvedoše Pavla preda nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A sudija proèitavši poslanicu zapita odakle je; i doznavši da je iz Kilikije"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Reèe: ispitaæu te kad suparnici tvoji doðu. I zapovjedi da ga èuvaju u dvoru Irodovom."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/23.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 23
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/24.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 24
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/22.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 22
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

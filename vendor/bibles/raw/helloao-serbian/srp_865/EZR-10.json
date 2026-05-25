@@ -1,0 +1,384 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZR",
+    "translationId": "srp_865",
+    "name": "Ezra",
+    "commonName": "Ezra",
+    "title": "Ezra",
+    "order": 15,
+    "numberOfChapters": 10,
+    "sha256": "bf548715db2388dddb04c845f0fa124e883e80ef31b6aa8bdd1683312fc367c1",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZR/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZR",
+      "chapter": 1
+    },
+    "lastChapterNumber": 10,
+    "lastChapterApiLink": "/api/srp_865/EZR/10.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZR",
+      "chapter": 10
+    },
+    "totalNumberOfVerses": 280
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad se moljaše Jezdra i ispovijedaše grijehe plaèuæi i ležeæi pred domom Božjim, skupi se k njemu iz Izrailja veliko mnoštvo ljudi i žena i djece; i narod plakaše veoma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Tada progovori Sehanija sin Jehilov od sinova Elamovijeh i reèe Jezdri: mi smo sagriješili Bogu svojemu što uzesmo žene tuðinke iz naroda zemaljskih; ali još ima nadanja Izrailju za to."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Da uèinimo sada zavjet Bogu svojemu, da otpustimo sve žene i porod njihov po volji Gospodnjoj i onijeh koji se boje zapovijesti Boga našega, i po zakonu neka bude."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ustani, jer je ovo tvoj posao; a mi æemo biti uza te, budi slobodan i radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tada usta Jezdra, i zakle glavare sveštenièke i Levite i svega Izrailja da uèine tako. I zakleše se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Potom usta Jezdra ispred doma Božijega, i otide u klijet Joanana sina Eliasivova; i ušavši ne jede hljeba niti vode pi, jer tužaše radi prijestupa onijeh koji biše u ropstvu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Potom oglasiše po Judeji i Jerusalimu svijem koji se vratiše iz ropstva, da se skupe u Jerusalim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A ko ne bi došao za tri dana po dogovoru knezovskom i starješinskom, da se sve imanje njegovo razaspe a sam da se odluèi od zbora onijeh koji se vratiše iz ropstva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tako se skupiše svi ljudi od Jude i Venijamina u Jerusalim za tri dana, mjeseca devetoga. I sjeðaše sav narod na ulici pred domom Božjim dršæuæi radi te stvari i od dažda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Tada ustavši Jezdra sveštenik reèe im: vi sagriješiste što se oženiste tuðinkama, te umnožiste krivicu Izrailjevu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zato sada ispovjedite se Gospodu Bogu otaca svojih, i uèinite volju njegovu, i odvojte se od naroda zemaljskih i žena tuðinaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I sav zbor odgovori i reèe iza glasa: kako nam kaza uèiniæemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ali naroda ima mnogo i ide dažd, ne može se stajati napolju, a taj posao nije za jedan dan ni za dva, jer nas ima mnogo koji sagriješismo u tom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Da se odrede knezovi naši iz svega zbora, pa koji su god u gradovima našim oženjeni tuðinkama neka dolaze u odreðeno vrijeme i s njima starješine svakoga grada i sudije dokle ne odvratimo od sebe žestoki gnjev Boga svojega za tu stvar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I odreðen bi na to Jonatan sin Asailov i Jazija sin Tekujev; a Mesulam i Savetaj Leviti pomagaše im."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I uèiniše tako koji se vratiše iz ropstva. I odvojiše se Jezdra sveštenik i glavari domova otaèkih po domovima otaca svojih, svi poimence, i sjedoše prvoga dana desetoga mjeseca da izviðaju stvar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I do prvoga dana prvoga mjeseca svršiše sa svima onima koji se bijahu oženili tuðinkama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A naðoše se izmeðu sinova sveštenièkih oženjeni tuðinkama: izmeðu sinova Isusa sina Josedekova i braæe njegove: Masija i Elijezer i Jariv i Gedalija;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I dadoše ruke da æe pustiti žene svoje; i koji bijahu zgriješili prinesoše po jednoga ovna za krivicu svoju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I od sinova Imirovijeh Ananije i Zevadija;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I od sinova Harimovijeh Masija i Ilija i Semaja i Jehilo i Ozija,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I od sinova Pashorovijeh Elioinaj, Masija, Ismailo, Natanailo, Jozavad i Elasa,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I od Levita Jozavad i Simej i Kelaja, to je Kelita, i Petaja i Juda i Elijezer;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I od pjevaèa Elijasiv; i od vratara Salum i Telem i Urija;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A od Izrailja, od sinova Farosovijeh Ramija i Jezija i Malhije i Mijamin i Eleazar i Malhija i Venaja;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I od sinova Elamovijeh: Matanija, Zaharija i Jehilo i Avdija i Jeremot i Ilija;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I od sinova Zatovijeh Elioinaj, Elijasiv, Matanija i Jerimot i Zavad i Aziza;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I od sinova Vivajevijeh Joanan, Ananija, Zavaj, Atlaj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I od sinova Vanijevih Mesulam, Maluh i Adaja, Jasuv i Seal i Ramot;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I od sinova Fat-Moavovijeh Adna i Helal, Venaja, Masija, Matanija, Vezeleilo i Vinuj i Manasija;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I od sinova Harimovijeh Elijezer, Jesija, Malhija, Semaja, Simeun,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Venijamin, Maluh, Semarija;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Od sinova Asumovijeh Matenaj, Matata, Zavad, Elifelet, Jeremaj, Manasija, Simej;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Od sinova Vanijevih Madaja, Amram i Uilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Venaja, Vedeja, Heluj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Vanija, Merimot, Elijasiv,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Matanija, Matenaj i Jasav,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I Vanije, Vinuj, Simej,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I Selemija i Natan i Adaja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Mahnadevaj, Sasaj, Saraj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Azareilo i Selemija, Semarija,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Salum, Amarija, Josif;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Od sinova Nevovijeh: Jesilo, Matanija, Zavad, Zevina, Jadav, Joilo i Venaja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Svi se ovi bijahu oženili tuðinkama i neke izmeðu njih bijahu i djecu izrodile."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZR/10.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 10
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NEH/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NEH",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZR/9.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 9
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 44
+}

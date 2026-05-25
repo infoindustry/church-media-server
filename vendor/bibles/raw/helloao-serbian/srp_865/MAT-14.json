@@ -1,0 +1,328 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "srp_865",
+    "name": "Mateju",
+    "commonName": "Mateju",
+    "title": "Jevanðelje po Mateju",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "2282cb47d4ecce5bfb50178a05f4b87b8f4e94d2e2954aa2bd38500539980051",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/MAT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 14,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U to vrijeme doðe glas do Iroda èetverovlasnika o Isusu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I reèe slugama svojijem: to je Jovan krstitelj; on ustade iz mrtvijeh, i zato èini èudesa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer Irod uhvati Jovana, sveza ga i baci u tamnicu Irodijade radi žene Filipa brata svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer mu govoraše Jovan: ne možeš ti nje imati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I šæaše da ga ubije, ali se poboja naroda; jer ga držahu za proroka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A kad bijaše dan roðenja Irodova, igra kæi Irodijadina pred njima i ugodi Irodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zato i s kletvom obreèe joj dati šta god zaište."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A ona nauèena od matere svoje: daj mi, reèe, ovdje na krugu glavu Jovana krstitelja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I zabrinu se car; ali kletve radi i onijeh koji se gošæahu s njim, zapovjedi joj dati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I posla te posjekoše Jovana u tamnici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I donesoše glavu njegovu na krugu, i dadoše djevojci, i odnese je materi svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I došavši uèenici njegovi, uzeše tijelo njegovo i ukopaše ga; i doðoše Isusu te javiše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I èuvši Isus, otide odande u laði u pusto mjesto nasamo. A kad to èuše ljudi, idoše za njim pješice iz gradova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I izišavši Isus vidje mnogi narod, i sažali mu se za njih, i iscijeli bolesnike njihove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A pred veèe pristupiše k njemu uèenici njegovi govoreæi: ovdje je pusto mjesto, a dockan je veæ; otpusti narod neka ide u sela da kupi sebi hrane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Isus reèe im: ne treba da idu; podajte im vi neka jedu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A oni rekoše mu: nemamo ovdje do samo pet hljebova i dvije ribe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A on reèe: donesite mi ih ovamo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I zapovjedi narodu da posjedaju po travi; pa uze onijeh pet hljebova i dvije ribe, i pogledavši na nebo blagoslovi, i prelomivši dade uèenicima svojijem, a uèenici narodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I jedoše svi, i nasitiše se, i nakupiše komada što preteèe dvanaest kotarica punijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A onijeh što su jeli bješe ljudi oko pet hiljada, osim žena i djece."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I odmah natjera Isus uèenike svoje da uðu u laðu i naprijed da idu na onu stranu dok on otpusti narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I otpustivši narod pope se na goru sam da se moli Bogu. I uveèe bijaše ondje sam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A laða bješe nasred mora u nevolji od valova, jer bijaše protivan vjetar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A u èetvrtu stražu noæi otide k njima Isus iduæi po moru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I vidjevši ga uèenici po moru gdje ide, poplašiše se govoreæi: to je utvara; i od straha povikaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A Isus odmah reèe im govoreæi: ne bojte se; ja sam, ne plašite se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A Petar odgovarajuæi reèe: Gospode! ako si ti, reci mi da doðem k tebi po vodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A on reèe: hodi. I izišavši iz laðe Petar iðaše po vodi da doðe k Isusu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "No videæi vjetar veliki uplaši se, i poèevši se topiti, povika govoreæi: Gospode, pomagaj!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I odmah Isus pruživši ruku uhvati Petra, i reèe mu: malovjerni! zašto se posumnja?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I kad uðoše u laðu, presta vjetar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A koji bijahu u laði pristupiše i pokloniše mu se govoreæi: vaistinu ti si sin Božij."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I prešavši doðoše u zemlju Genisaretsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I poznavši ga ljudi iz onoga mjesta, poslaše po svoj onoj okolini, i donesoše k njemu sve bolesnike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I moljahu ga da se samo dotaknu skuta od njegove haljine; i koji se dotakoše ozdraviše."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAT/14.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 14
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/15.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 15
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAT/13.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 13
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 36
+}

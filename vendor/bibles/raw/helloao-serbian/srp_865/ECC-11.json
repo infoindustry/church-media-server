@@ -1,0 +1,146 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ECC",
+    "translationId": "srp_865",
+    "name": "Propovednik",
+    "commonName": "Propovednik",
+    "title": "Propovednik",
+    "order": 21,
+    "numberOfChapters": 12,
+    "sha256": "fe2dc33485c617d1c3f800f25752794cc56e27b2cfb10665b2db83a839e4fb36",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ECC/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ECC",
+      "chapter": 1
+    },
+    "lastChapterNumber": 12,
+    "lastChapterApiLink": "/api/srp_865/ECC/12.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ECC",
+      "chapter": 12
+    },
+    "totalNumberOfVerses": 222
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Baci hljeb svoj povrh vode; jer æeš ga naæi poslije mnogo vremena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Razdijeli sedmorici i osmorici; jer ne znaš kako æe zlo biti na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Kad se napune oblaci, prosipaju dažd na zemlju, i ako padne drvo na jug ili na sjever, gdje padne drvo ondje æe ostati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ko pazi na vjetar, neæe sijati, i ko gleda na oblake, neæe žeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Kako ne znaš koji je put vjetru ni kako postaju kosti u utrobi trudne žene, tako ne znaš djela Božijega i kako tvori sve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Izjutra sij sjeme svoje i uveèe nemoj da ti poèivaju ruke, jer ne znaš šta æe biti bolje, ovo ili ono, ili æe oboje biti jednako dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Slatka je svjetlost, i dobro je oèima gledati sunce;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ali da èovjek živi mnogo godina i svagda se veseli, pa se opomene dana tamnijeh kako æe ih biti mnogo, sve što je bilo biæe taština."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Raduj se, mladiæu, za mladosti svoje, i neka se veseli srce tvoje dok si mlad, i hodi kuda te srce tvoje vodi i kuda oèi tvoje gledaju; ali znaj da æe te za sve to Bog izvesti na sud."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ukloni dakle žalost od srca svojega, i odrini zlo od tijela svojega, jer je djetinjstvo i mladost taština."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ECC/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ECC/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ECC/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 10
+}

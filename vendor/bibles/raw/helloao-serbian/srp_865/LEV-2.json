@@ -1,0 +1,188 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad ko hoæe da prinese na žrtvu Gospodu dar, bijelo brašno neka bude žrtva njegova, i neka je polije uljem i metne na nju kad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I neka je donese sinovima Aronovijem sveštenicima, i neka sveštenik uzme toga brašna punu šaku i ulja i sav kad, i neka to zapali sveštenik na oltaru za spomen njezin; to je žrtva ognjena na ugodni miris Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A što ostane od toga dara, neka bude Aronu i sinovima njegovijem; to je svetinja nad svetinjama izmeðu žrtava koje se pale Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ako li hoæeš da prineseš dar peèen u peæi, neka budu pogaèe prijesne od bijeloga brašna, zamiješene s uljem, ili kolaèi prijesni, namazani uljem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ako li ti je dar peèeno što u tavi, neka je od bijeloga brašna bez kvasca zamiješeno s uljem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Razlomi ga na dijelove, i polij uljem; to je dar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ako li ti je dar gotovljen u kotliæu, neka je od bijeloga brašna s uljem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I donesi dar koji naèiniš od toga Gospodu, i podaj ga svešteniku, i on æe ga odnijeti na oltar;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I uzeæe sveštenik od dara spomen njegov, i zapaliæe ga na oltaru; to je žrtva ognjena na ugodni miris Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A što ostane od dara, neka bude Aronu i sinovima njegovijem; to je svetinja nad svetinjama izmeðu žrtava koje se pale Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nijedan dar koji prinosite Gospodu da ne bude s kvascem; jer ni kvasca ni meda ne treba da palite na žrtvu ognjenu Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Samo u žrtvi od prvina možete to prinijeti Gospodu; ali na oltar ne meæite za ugodni miris."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A svaki dar koji prinosiš osoli solju, i nemoj ostaviti dara svojega bez soli zavjeta Boga svojega; sa svakim darom svojim prinesi soli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A kad prinosiš dar od prvina Gospodu, klasove nove osuši na ognju, i što istreš iz klasova novih prinesi na dar od prvina svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I polij ga uljem i kad metni na nj; to je dar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I sveštenik uzevši istrvenoga žita i ulja sa svijem kadom neka zapali spomen. To je žrtva ognjena Gospodu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

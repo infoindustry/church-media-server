@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JAS",
+    "translationId": "srp_865",
+    "name": "Jakovljeva",
+    "commonName": "Jakovljeva",
+    "title": "Jakovljeva Poslanica",
+    "order": 59,
+    "numberOfChapters": 5,
+    "sha256": "21cfe09caf879d1b1a5ca12e171596d98f31cbc473e755a3e126b31a640fb831",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JAS/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JAS",
+      "chapter": 1
+    },
+    "lastChapterNumber": 5,
+    "lastChapterApiLink": "/api/srp_865/JAS/5.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JAS",
+      "chapter": 5
+    },
+    "totalNumberOfVerses": 108
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Otkuda ratovi i raspre meðu nama? Ne otuda li, od slasti vašijeh, koje se bore u vašijem udima?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Želite i nemate; ubijate i zavidite, i ne možete da dobijete; borite se i vojujete, i nemate, jer ne ištete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ištete, i ne primate, jer zlo ištete, da u slastima svojijem trošite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Preljuboèinci i preljuboèinice! ne znate li da je prijateljstvo ovoga svijeta neprijateljstvo Bogu? Jer koji hoæe svijetu prijatelj da bude, neprijatelj Božij postaje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ili mislite da pismo uzalud govori: duh koji u nama živi mrzi na zavist?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A on daje veæu blagodat. Jer govori: Gospod suproti se ponositima, a poniženima daje blagodat."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Pokorite se dakle Bogu, a protivite se ðavolu, i pobjeæi æe od vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Približite se k Bogu, i on æe se približiti k vama. Oèistite ruke, grješnici, popravite srca svoja, nepostojani."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Budite žalosni i plaèite i jauèite: smijeh vaš neka se pretvori u plaè, i radost u žalost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ponizite se pred Gospodom, i podignuæe vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ne opadajte jedan drugoga, braæo; jer ko opada brata ili osuðuje brata svojega opada zakon i osuðuje zakon, a ako zakon osuðuješ, nijesi tvorac zakona, nego sudija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jedan je zakonodavac i sudija, koji može spasti i pogubiti; a ti ko si što drugoga osuðuješ?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Slušajte sad vi koji govorite: danas ili sjutra poæi æemo u ovaj ili onaj grad, i sjediæemo ondje jednu godinu, i trgovaæemo i dobijaæemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Vi koji ne znate šta æe biti sjutra. Jer šta je vaš život? On je para, koja se za malo pokaže, a potom je nestane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Mjesto da govorite: ako Gospod htjedbude, i živi budemo, uèiniæemo ovo ili ono."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A sad se hvalite svojijem ponosom. Svaka je hvala takova zla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer koji zna dobro èiniti i ne èini, grijeh mu je."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JAS/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JAS",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JAS/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JAS",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JAS/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JAS",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

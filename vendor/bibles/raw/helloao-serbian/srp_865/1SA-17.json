@@ -1,0 +1,482 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada Filisteji skupiše vojsku svoju da vojuju, i skupiše se u Sokotu Judinu, i stadoše u oko izmeðu Sokota i Azike na meði Damimskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A Saul i Izrailjci skupiše se i stadoše u oko u dolini Ili, i uvrstaše se prema Filistejima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I Filisteji stajahu na brdu odonuda a Izrailjci stajahu na brdu odovuda, a meðu njima bješe dolina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I izide iz okola Filistejskoga jedan zatoènik po imenu Golijat iz Gata, visok šest lakata i ped."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I na glavi mu bješe kapa od mjedi, i oklop ploèast na njemu od mjedi; i bijaše oklop težak pet tisuæa sikala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I nogavice od mjedi bjehu mu na nogu, i štit od mjedi na ramenima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kopljaèa od koplja mu bješe kao vratilo, a gvožða u koplju mu bješe šest stotina sikala; i koji mu oružje nošaše iðaše pred njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "On stavši vikaše vojsku Izrailjsku, i govoraše im: što ste izašli uvrstavši se? nijesam li ja Filistejin a vi sluge Saulove? izberite jednoga izmeðu sebe, pa neka izaðe k meni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ako me nadjaèa i pogubi me, mi æemo vam biti sluge; ako li ja njega nadjaèam i pogubim ga, onda æete vi biti nama sluge, i služiæete nam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Još govoraše Filistejin: ja osramotih danas vojsku Izrailjsku; dajte mi èovjeka da se bijemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A kad Saul i sav Izrailj èu šta reèe Filistejin, prepadoše se i uplašiše se vrlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A bijaše David sin jednoga Efraæanina, iz Vitlejema Judina, kojemu ime bješe Jesej, koji imaše osam sinova i bijaše u vrijeme Saulovo star i vremenit meðu ljudima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I tri najstarija sina Jesejeva otidoše za Saulom na vojsku; a imena trojici sinova njegovijeh koji otidoše na vojsku bijahu prvencu Elijav a drugome Avinadav a treæemu Sama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A David bijaše najmlaði. I ona tri najstarija otidoše za Saulom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A David otide od Saula i vrati se u Vitlejem da pase ovce oca svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Filistejin izlažaše jutrom i veèerom, i staja èetrdeset dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A Jesej reèe Davidu sinu svojemu: uzmi sada za braæu svoju efu ovoga prženoga žita i ovijeh deset hljebova, i odnesi brže u oko braæi svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A ovijeh deset mladijeh siraca odnesi tisuæniku, i vidi braæu svoju kako su, i donesi od njih znak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A Saul i oni i sav Izrailj bijahu u dolini Ili ratujuæi s Filistejima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I tako David usta rano i ostavi ovce na èuvaru; pa uze i otide kako mu zapovjedi Jesej; i doðe na mjesto gdje bješe oko, i vojska izlažaše da se vrsta za boj, i podizaše ubojnu viku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I stajaše vojska Izrailjska i Filistejska jedna prema drugoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Tada ostavi David svoj prtljag kod èuvara, koji èuvaše prtljag, i otrèa u vojsku, i doðe i zapita braæu svoju za zdravlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I dokle govoraše s njima, gle, onaj zatoènik po imenu Golijat Filistejin iz Gata, izide iz vojske Filistejske i govoraše kao prije, i David èu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A svi Izrailjci kad vidješe toga èovjeka, uzbjegoše od njega, i bješe ih strah veoma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I govorahu Izrailjci: vidjeste li toga èovjeka što izide? Jer izide da sramoti Izrailja. A ko bi ga pogubio, car bi mu dao silno blago, i kæer svoju dao bi mu; i oslobodio bi dom oca njegova u Izrailju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Tada reèe David ljudima koji stajahu oko njega govoreæi: šta æe se uèiniti èovjeku koji pogubi toga Filistejina i skine sramotu s Izrailja? Jer ko je taj Filistejin neobrezani da sramoti vojsku Boga živoga?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A narod mu odgovori iste rijeèi govoreæi: to æe se uèiniti onome ko ga pogubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A kad èu Elijav brat njegov najstariji kako se razgovara s tijem ljudima, razljuti se Elijav na Davida, i reèe mu: što si došao? i na kom si ostavio ono malo ovaca u pustinji? znam ja obijest tvoju i zloæu srca tvojega; došao si da vidiš boj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A David reèe: šta sam sad uèinio? zapovjeðeno mi je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Potom okrenu se od njega k drugome i zapita kao prije; i narod mu odgovori kao prije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I kad se èuše rijeèi koje govoraše David, javiše ih Saulu, a on ga dozva k sebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I David reèe Saulu: neka se niko ne plaši od onoga; sluga æe tvoj izaæi i biæe se s Filistejinom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A Saul reèe Davidu: ne možeš ti iæi na Filistejina da se biješ s njim, jer si ti dijete a on je vojnik od mladosti svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A David reèe Saulu: sluga je tvoj pasao ovce oca svojega; pa kad doðe lav ili medvjed i odnese ovcu iz stada,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ja potrèah za njim, i udarih ga i oteh mu iz èeljusti; i kad bi skoèio na me, uhvatih ga za grlo, te ga bih i ubih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I lava i medvjeda ubijao je tvoj sluga, pa æe i taj Filistejin neobrezani proæi kao oni; jer osramoti vojsku Boga živoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Još reèe David: Gospod koji me je saèuvao od lava i medvjeda, on æe me saèuvati i od ovoga Filistejina. Tada reèe Saul Davidu: idi, i Gospod neka bude s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I Saul dade Davidu svoje oružje, i metnu mu na glavu kapu svoju od mjedi i metnu oklop na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I pripasa David maè njegov preko svojega odijela i poðe, ali ne bješe navikao, pa reèe David Saulu: ne mogu iæi s tijem, jer nijesam navikao. Pa skide David sa sebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I uze štap svoj u ruku, i izabra na potoku pet glatkih kamena i metnu ih u torbu pastirsku, koju imaše, i uze praæu svoju u ruku, i tako poðe ka Filistejinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A i Filistejin iðaše sve bliže k Davidu, a èovjek koji mu nošaše oružje, iðaše pred njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A kad Filistejin pogleda i vidje Davida, potsmjehnu mu se, što bješe mlad i smeð i lijepa lica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I reèe Filistejin Davidu: eda li sam pseto, te ideš na me sa štapom? I proklinjaše Filistejin Davida bogovima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "I reèe Filistejin Davidu: hodi k meni da dam tijelo tvoje pticama nebeskim i zvijerima zemaljskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "A David reèe Filistejinu: ti ideš na me s maèem i s kopljem i sa štitom; a ja idem na te u ime Gospoda nad vojskama, Boga vojske Izrailjeve, kojega si ružio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Danas æe te Gospod dati meni u ruke, i ubiæu te, i skinuæu glavu s tebe, i daæu danas tjelesa vojske Filistejske pticama nebeskim i zvijerima zemaljskim, i poznaæe sva zemlja da je Bog u Izrailju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "I znaæe sav ovaj zbor da Gospod ne spasava maèem ni kopljem, jer je rat Gospodnji, zato æe vas dati nama u ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "A kad se Filistejin podiže i doðe bliže k Davidu, David brže istrèa na bojište pred Filistejina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "I David turi ruku svoju u torbu svoju, i izvadi iz nje kamen, i baci ga iz praæe, i pogodi Filistejina u èelo i uðe mu kamen u èelo, te pade nièice na zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Tako David praæom i kamenom nadjaèa Filistejina, i udari Filistejina i ubi ga; a nemaše David maèa u ruci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "I pritrèav David stade na Filistejina, i zgrabi maè njegov i izvuèe ga iz korica i pogubi ga i otsijeèe mu glavu. A Filisteji kad vidješe gdje pogibe junak njihov pobjegoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "A Izrailjci i Judejci ustaše i povikaše i potjeraše Filisteje do doline i do vrata Akaronskih; i padaše pobijeni Filisteji po putu Sarajimskom do Gata i do Akarona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Potom se vratiše sinovi Izrailjevi tjeravši Filisteje, i oplijeniše oko njihov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "A David uze glavu Filistejinovu, i odnese je u Jerusalim, a oružje njegovo ostavi u svojoj kolibi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "A kad Saul vidje Davida gdje ide pred Filistejina, reèe Aveniru vojvodi: èiji je sin taj mladiæ, Avenire? A Avenir reèe: kako je živa duša tvoja, care, ne znam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "A car reèe: pitaj èiji je sin taj mladiæ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "A kad se vrati David pogubivši Filistejina, uze ga Avenir i izvede ga pred Saula, a u ruci mu bješe glava Filistejinova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "I Saul reèe mu: èiji si sin, dijete? A David reèe: ja sam sin sluge tvojega Jeseja Vitlejemca."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/17.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 17
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/18.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 18
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/16.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 16
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 58
+}

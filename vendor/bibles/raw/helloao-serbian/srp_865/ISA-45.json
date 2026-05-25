@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 45,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ovako govori Gospod pomazaniku svojemu Kiru, kojega držim za desnicu, da oborim pred njim narode i careve raspašem, da se otvoraju vrata pred njim i da ne budu vrata zatvorena:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ja æu iæi pred tobom, i putove neravne poravniæu, vrata mjedena razbiæu i prijevornice gvozdene slomiæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I daæu ti blago tajno i bogatstvo sakriveno, da poznaš da sam ja Gospod Bog Izrailjev, koji te zovem po imenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Radi sluge svojega Jakova i Izrailja izbranika svojega prozvah te imenom tvojim i prezimenom, premda me ne znaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ja sam Gospod, i nema drugoga, osim mene nema boga; opasah te, premda me ne znaš,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Da bi poznali od istoka sunèanoga i od zapada da nema drugoga osim mene; ja sam Gospod i nema drugoga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Koji pravim svjetlost i stvaram mrak, gradim mir i stvaram zlo; ja Gospod èinim sve to."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Rosite, nebesa, ozgo, i oblaci neka kaplju pravdom, neka se otvori zemlja i neka rodi spasenjem i zajedno neka uzraste pravda; ja Gospod stvorih to."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Teško onom ko se svaða s tvorcem svojim; crijep s drugim crepovima neka se svaða; ali hoæe li kao reæi lonèaru svojemu: šta radiš? za tvoj posao nema ruku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Teško onom ko govori ocu: što raðaš? i ženi: što se poraðaš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ovako veli Gospod svetac Izrailjev i tvorac njegov: pitajte me što æe biti; za sinove moje i za djelo ruku mojih nareðujte mi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ja sam naèinio zemlju i èovjeka na njoj stvorio, ja sam razapeo nebesa svojim rukama, i svoj vojsci njihovoj dao zapovijest."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ja ga podigoh u pravdi, i sve putove njegove poravniæu; on æe sazidati moj grad i roblje moje otpustiæe, ne za novce ni za darove, veli Gospod nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ovako veli Gospod: trud Misirski i trgovina Etiopska i Savaca ljudi visoka rasta doæi æe k tebi i biti tvoja; za tobom æe pristati, u okovima æe iæi, i tebi æe se klanjati, tebi æe se moliti govoreæi: doista, Bog je u tebi, i nema drugoga Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Da, ti si Bog, koji se kriješ, Bog Izrailjev, spasitelj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Oni æe se svi postidjeti i posramiti, otiæi æe sa sramotom svikoliki koji grade likove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A Izrailja æe spasti Gospod spasenjem vjeènijem, neæete se postidjeti niti æete se osramotiti dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer ovako veli Gospod, koji je stvorio nebo, Bog, koji je sazdao zemlju i naèinio je i utvrdio, i nije je stvorio naprazno, nego je naèinio da se na njoj nastava: ja sam Gospod, i nema drugoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nijesam govorio tajno ni na mraènu mjestu na zemlji, nijesam rekao sjemenu Jakovljevu: tražite me uzalud. Ja Gospod govorim pravdu, javljam što je pravo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Skupite se i doðite, pristupite svi koji ste se izbavili izmeðu naroda. Ništa ne znaju koji nose drvo od svojega lika i mole se bogu koji ne može pomoæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Oglasite, i dovedite, neka vijeæaju zajedno: ko je to od starine kazao? ko je javio još onda? Nijesam li ja, Gospod? Nema osim mene drugoga Boga, nema Boga pravednoga i spasitelja drugoga osim mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Pogledajte u mene, i spašæete se svi krajevi zemaljski; jer sam ja Bog, i nema drugoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Sobom se zakleh; izide iz usta mojih rijeè pravedna, i neæe se poreæi, da æe mi se pokloniti svako koljeno, i zaklinjati se svaki jezik,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I govoriæe: u Gospodu je pravda i sila; k njemu æe doæi; ali æe se posramiti svi koji se gnjeve na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "U Gospodu æe se opravdati i proslaviti sve sjeme Izrailjevo."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/45.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 45
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/46.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 46
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/44.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 44
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

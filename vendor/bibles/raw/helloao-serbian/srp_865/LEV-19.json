@@ -1,0 +1,335 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 19,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kaži svemu zboru sinova Izrailjevih, i reci im: budite sveti, jer sam ja svet, Gospod Bog vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Svaki da se boji matere svoje i oca svojega; i držite subote moje; ja sam Gospod Bog vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ne obraæajte se k idolima, i bogova livenijeh ne gradite sebi; ja sam Gospod Bog vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A kad prinosite žrtvu zahvalnu Gospodu, prinosite je drage volje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "U koji je dan prinesete, neka se jede, i sjutradan; a što ostane do treæega dana, neka se ognjem sažeže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A ako bi se što jelo treæi dan, gad je, neæe biti ugodna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ko bi je god jeo, nosiæe svoje bezakonje, jer oskvrni svetinju Gospodu; zato æe se istrijebiti ona duša iz naroda svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A kad žanjete rod zemlje svoje, nemoj požeti sasvijem njive svoje, niti pabirèi po žetvi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ni vinograda svojega nemoj pabirèiti, i nemoj kupiti zrna koja padnu po vinogradu tvojem; nego ostavi siromahu i došljaku. Ja sam Gospod Bog vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ne kradite; ne lažite i ne varajte bližnjega svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ne kunite se imenom mojim krivo; jer æeš oskvrniti ime Boga svojega. Ja sam Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ne zakidaj bližnjega svojega i ne otimaj mu; plaæa nadnièarova da ne prenoæi kod tebe do jutra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Nemoj psovati gluha, ni pred slijepca metati što da se spotakne; nego se boj Boga svojega; ja sam Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ne èinite nepravde na sudu, ne gledaj što je ko siromah, niti se povodi za bogatijem; pravo sudi bližnjemu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ne idi kao opadaè po narodu svojem, i ne ustaj na krv bližnjega svojega; ja sam Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Nemoj mrziti na brata svojega u srcu svojem; slobodno iskaraj bližnjega svojega, i nemoj trpjeti grijeha na njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ne budi osvetljiv, i ne nosi srdnje na sinove naroda svojega; nego ljubi bližnjega svojega kao sebe samoga; ja sam Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Uredbe moje držite; živinèeta svojega ne puštaj na živinèe druge vrste; ne zasijevaj njive svoje dvojakim sjemenom, i ne oblaèi na se haljine od dvojakih stvari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ako bi ko obležao robinju koja je isprošena ali nije otkupljena ni osloboðena, oboje da se šibaju, ali da se ne pogube; jer nije bila osloboðena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I neka on prinese Gospodu žrtvu za prijestup svoj na vrata šatora od sastanka, ovna za prijestup."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I neka ga oèisti pred Gospodom sveštenik ovnom prinesenim za prijestup od grijeha koji je uèinio; i oprostiæe mu se grijeh njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A kad doðete u zemlju i nasadite svakojakoga voæa, obrežite mu okrajak, rod njegov; tri godine neka vam je neobrezano, i ne jedite ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A èetvrte godine neka bude sav rod njegov posveæen u hvalu Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Pa tek pete godine jedite voæe s njega, da bi vam se umnožio rod njegov. Ja sam Gospod Bog vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ništa ne jedite s krvlju. Nemojte vraèati, ni gatati po vremenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ne strizite kose svoje uokrug, ni grdite brade svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Za mrtvacem ne režite tijela svojega, ni udarajte na se kakvih biljega. Ja sam Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Nemoj skvrniti kæeri svoje puštajuæi je da se kurva, da se ne bi zemlja prokurvala i napunila se bezakonja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Držite subote moje, i svetinju moju poštujte. Ja sam Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ne obraæajte se k vraèarima i gatarima, niti ih pitajte, da se ne skvrnite o njih. Ja sam Gospod Bog vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Pred sijedom glavom ustani, i poštuj lice starèevo, i boj se Boga svojega. Ja sam Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ako je u tebe došljak u zemlji vašoj, ne èini mu krivo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ko je došljak meðu vama, neka vam bude kao onaj koji se rodio meðu vama, i ljubi ga kao sebe samoga; jer ste i vi bili došljaci u zemlji Misirskoj. Ja sam Gospod Bog vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ne èinite nepravde u sudu, ni mjerom za dužinu, ni mjerom za težinu, ni mjerom za stvari koje se sipaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Mjerila neka su vam prava, kamenje pravo, efa prava, in prav. Ja sam Gospod Bog vaš, koji sam vas izveo iz zemlje Misirske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Držite dakle sve uredbe moje i sve zakone moje, i vršite ih. Ja sam Gospod."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/19.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 19
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/20.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 20
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/18.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 18
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 37
+}

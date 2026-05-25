@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada Samuilo uze uljanicu, i izli mu ulje na glavu, pa ga cjelova, i reèe mu: eto, nije li te pomazao Gospod nad našljedstvom svojim da mu budeš voð?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kad otideš danas od mene, naæi æeš dva èovjeka kod groba Rahiljina u kraju Venijaminovu u Selsi, koji æe ti reæi: našle su se magarice, koje si pošao da tražiš, i evo otac tvoj ne mareæi za magarice zabrinuo se za vas govoreæi: šta æu èiniti poradi sina svojega?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I otišavši odande dalje kad doðeš u ravnicu Tavorsku, srešæe te ondje tri èovjeka iduæi k Bogu u Vetilj, noseæi jedan tri jareta, a drugi noseæi tri hljeba, a treæi noseæi mješinu vina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Pa æe te upitati za zdravlje, i daæe ti dva hljeba, koje primi iz ruku njihovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Potom æeš doæi na hum Božji, gdje je straža Filistejska, i kad uðeš u grad, srešæe te gomila proroka slazeæi s gore, a pred njima psaltiri i bubnji i svirale i gusle; i oni æe prorokovati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I siæi æe na te duh Gospodnji, te æeš prorokovati s njima, i postaæeš drugi èovjek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I kad ti doðu ti znaci, èini što ti doðe na ruku, jer je Bog s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Potom æeš otiæi prije mene u Galgal, i gle, ja æu doæi k tebi da prinesem žrtve paljenice i da prinesem žrtve zahvalne. Sedam dana èekaj dokle doðem k tebi i kažem ti šta æeš èiniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I kad se okrete da ide od Samuila, Bog mu dade drugo srce; i svi se oni znaci zbiše onaj dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I kad doðoše na hum, gle, srete ga gomila proroka, i doðe na nj duh Božji, i prorokova meðu njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I kad ga vidješe svi koji ga poznavahu od preðe gdje prorokuje s prorocima, rekoše jedan drugome: šta to bi od sina Kisova? eda li je i Saul meðu prorocima?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A jedan odande odgovori i reèe: ko li im je otac? Otuda posta prièa: eda li je i Saul meðu prorocima?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I prestavši prorokovati doðe na goru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A stric Saulov reèe njemu i momku njegovu: kuda ste išli? A on odgovori: da tražimo magarice; i kad vidjesmo da ih nigdje nema, otidosmo k Samuilu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A stric Saulov reèe: kaži mi šta vam je rekao Samuilo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Saul reèe stricu svojemu: kazao nam je da su se našle magarice. Ali mu ne reèe za carstvo što mu je kazao Samuilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A Samuilo sazva narod u Mispu ka Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I reèe sinovima Izrailjevijem: ovako veli Gospod Bog Izrailjev: ja izvedoh Izrailja iz Misira, i izbavih vas iz ruku Misirskih i iz ruku svijeh carstava koja vas muèahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A vi danas odbaciste Boga svojega, koji vas sam izbavlja od svijeh zala vaših i nevolja vaših, i rekoste mu: postavi cara nad nama. Sada dakle stanite pred Gospodom po plemenima svojim i po tisuæama svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I privede Samuilo sva plemena Izrailjeva, i pade na pleme Venijaminovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Potom privede pleme Venijaminovo po porodicama njegovijem, i pade na porodicu Matrijevu; potom pade na Saula sina Kisova. I tražiše ga, ali se ne naðe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Tada opet upitaše Gospoda: hoæe li još doæi ovamo taj èovjek? A Gospod reèe: eto sakrio se za prtljagom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Tada otrèaše, i dovedoše ga odande. I stade usred naroda, i bijaše glavom viši od svega naroda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I reèe Samuilo svemu narodu: vidite li koga je izabrao Gospod da niko nije kao on u svemu narodu? I sav narod povika i reèe: da živi car!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Tada Samuilo kaza narodu prava carska i napisa u knjigu, i metnu je pred Gospodom. Potom Samuilo raspusti narod da ide svak svojoj kuæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I Saul takoðer otide svojoj kuæi u Gavaju, i s njim otidoše vojnici, kojima Bog taknu srca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A ljudi nevaljali rekoše: taj li æe nas izbaviti? I prezirahu ga, niti mu donesoše dara. Ali se on uèini kao da nije èuo."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/10.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 10
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/11.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 11
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/9.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 9
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

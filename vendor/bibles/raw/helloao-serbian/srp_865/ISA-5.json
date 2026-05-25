@@ -1,0 +1,286 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Zapjevaæu sada dragome svojemu pjesmu dragoga svojega o vinogradu njegovu. Dragi moj ima vinograd na rodnu brdašcu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I ogradi ga, i otrijebi iz njega kamenje, i nasadi ga plemenitom lozom, i sazida kulu usred njega, i iskopa pivnicu u njemu, i poèeka da rodi grožðem, a on rodi vinjagom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Pa sada, stanovnici Jerusalimski i ljudi Judejci, sudite izmeðu mene i vinograda mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Što je još trebalo èiniti vinogradu mojemu što mu ne uèinih? kad èekah da rodi grožðem, zašto rodi vinjagom?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Sada æu vam kazati što æu uèiniti vinogradu svojemu. Oboriæu mu ogradu, neka opusti; razvaliæu mu zid, neka se pogazi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Uparložiæu ga, neæe se rezati ni kopati, nego æe rasti èkalj i trnje, i zapovjediæu oblacima da ne puštaju više dažda na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Da, vinograd je Gospoda nad vojskama dom Izrailjev, i ljudi su Judejci mili sad njegov; on èeka sud, a gle nasilja, èeka pravdu, a gle vike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Teško onima koji sastavljaju kuæu s kuæom, i njivu na njivu nastavljaju, da veæ ne bude mjesta i vi sami ostanete u zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Od Gospoda nad vojskama èuh: mnoge kuæe opustjeæe, u velikim i lijepijem neæe biti nikoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer æe deset rala vinograda dati jedan vat, i gomer sjemena daæe efu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Teško onima koji rane, te idu na silovito piæe i ostaju do mraka dok ih vino raspali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I na gozbama su im gusle i psaltiri i bubnji i svirale i vino; a ne gledaju na djela Gospodnja i ne vide rada ruku njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zato se narod moj odvede u ropstvo što ne znaju, i koje poštuje gladuju, i ljudstvo njegovo gine od žeði."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Zato se raširio grob i razvalio ždrijelo svoje preveæ, i siæi æe u nj slava njegova i mnoštvo njegovo i vreva njegova i koji se vesele u njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I pognuæe se prost èovjek, i visoki æe se poniziti, i ponosite oèi oboriæe se;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Gospod nad vojskama uzvisiæe se sudom, i Bog sveti posvetiæe se pravdom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I jaganjci æe pasti po svom obièaju, i došljaci æe jesti s pustijeh mjesta pretilinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Teško onima koji vuku bezakonje uzicama od taštine, i grijeh kao užem kolskim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Koji govore: neka pohiti, neka brzo doðe djelo njegovo, da vidimo, i neka se približi i doðe što je naumio svetac Izrailjev, da poznamo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Teško onima koji zlo zovu dobro, a dobro zlo, koji prave od mraka svjetlost a od svjetlosti mrak, koji prave od gorkoga slatko a od slatkoga gorko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Teško onima koji misle da su mudri, i sami su sebi razumni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Teško onima koji su jaki piti vino i junaci u miješanju silovita piæa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Koji pravdaju bezbožnika za poklon, a pravednima uzimaju pravdu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Zato kao što oganj proždire strnjiku i slame nestaje u plamenu, tako æe korijen njihov biti kao trulež i cvijet njihov otiæi æe kao prah, jer odbaciše zakon Gospoda nad vojskama i prezreše rijeè sveca Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Zato se raspali gnjev Gospodnji na narod njegov, i mahnuv rukom svojom na nj udari ga da se gore zadrmaše i mrtva tjelesa njegova biše kao blato po ulicama. Kod svega toga gnjev se njegov ne odvrati, nego je ruka njegova još podignuta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I podignuæe zastavu narodima daljnijem, i zazviždaæe im s kraja zemlje; i gle, oni æe doæi odmah, brzo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Neæe biti meðu njima umorna ni sustala, ni dremljiva ni sanljiva, nikome se neæe raspasati pojas oko njega, niti æe se kome otkinuti remen na obuæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Strijele æe im biti oštre, i svi lukovi njihovi zapeti; kopita u konja njihovijeh biæe kao kremen i toèkovi njihovi kao vihor."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Rika æe im biti kao u lava, i rikaæe kao laviæi; buèaæe i ugrabiæe plijen i odnijeti ga, i neæe biti nikoga da otme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Buèaæe nad njim u to vrijeme kao što more buèi. Tada æe pogledati na zemlju, a to mrak i strah, i svjetlost æe se pomraèiti nad pogiblju njihovom."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 30
+}

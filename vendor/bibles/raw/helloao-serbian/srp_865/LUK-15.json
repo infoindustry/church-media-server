@@ -1,0 +1,300 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "srp_865",
+    "name": "Luki",
+    "commonName": "Luki",
+    "title": "Jevanðelje po Luki",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "71d24bae001865beafd9dc8b76f8e93d8f927bd8e33391ea4aebbf53673c6a27",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LUK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/LUK/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I približavahu se k njemu svi carinici i grješnici da ga èuju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I vikahu na njega fariseji i književnici govoreæi: ovaj prima grješnike i jede s njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A on im kaza prièu ovu govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Koji èovjek od vas imajuæi sto ovaca i izgubivši jednu od njih ne ostavi devedeset i devet u pustinji i ne ide za izgubljenom dok je ne naðe?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I našavši digne je na ramo svoje radujuæi se,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I došavši kuæi sazove prijatelje i susjede govoreæi im: radujte se sa mnom: ja naðoh svoju ovcu izgubljenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Kažem vam da æe tako biti veæa radost na nebu za jednoga grješnika koji se kaje, negoli za devedeset i devet pravednika kojima ne treba pokajanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ili koja žena imajuæi deset dinara, ako izgubi jedan dinar, ne zapali svijeæe, i ne pomete kuæe, i ne traži dobro dok ne naðe?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I našavši sazove drugarice i susjede govoreæi: radujte se sa mnom: ja naðoh dinar izgubljeni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Tako, kažem vam, biva radost pred anðelima Božijima za jednoga grješnika koji se kaje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I reèe: jedan èovjek imaše dva sina,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I reèe mlaði od njih ocu: oèe! daj mi dio od imanja što pripada meni. I otac im podijeli imanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I potom do nekoliko dana pokupi mlaði sin sve svoje, i otide u daljnu zemlju; i onamo prosu imanje svoje živeæi besputno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A kad potroši sve, postade velika glad u onoj zemlji, i on se naðe u nevolji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I otišavši pribi se kod jednoga èovjeka u onoj zemlji; i on ga posla u polje svoje da èuva svinje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I željaše napuniti trbuh svoj rošèiæima koje svinje jeðahu, i niko mu ih ne davaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A kad doðe k sebi, reèe: koliko najamnika u oca mojega imaju hljeba i suviše, a ja umirem od gladi!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ustaæu i idem ocu svojemu, pa æu mu reæi: oèe! sagriješih nebu i tebi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I veæ nijesam dostojan nazvati se sin tvoj: primi me kao jednoga od svojijeh najamnika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I ustavši otide ocu svojemu. A kad je još podaleko bio, ugleda ga otac njegov, i sažali mu se, i potrèavši zagrli ga i cjeliva ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A sin mu reèe: oèe, sagriješih nebu i tebi, i veæ nijesam dostojan nazvati se sin tvoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A otac reèe slugama svojijem: iznesite najljepšu haljinu i obucite ga, i podajte mu prsten na ruku i obuæu na noge."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I dovedite tele ugojeno te zakoljite, da jedemo i da se veselimo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer ovaj moj sin bješe mrtav, i oživlje; i izgubljen bješe, i naðe se. I stadoše se veseliti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A sin njegov stariji bijaše u polju, i dolazeæi kad se približi kuæi èu pjevanje i podvikivanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I dozvavši jednoga od slugu zapita: šta je to?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A on mu reèe: brat tvoj doðe; i otac tvoj zakla tele ugojeno, što ga je zdrava vidio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A on se rasrdi i ne šæadijaše da uðe. Tada iziðe otac njegov i moljaše ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A on odgovarajuæi reèe ocu: eto te služim toliko godina, i nikad ne prestupih tvoje zapovijesti, pa meni nikad nijesi dao jareta da bih se proveselio sa svojijem društvom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A kad doðe taj tvoj sin koji ti je imanje prosuo s kurvama, zaklao si mu tele ugojeno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A on mu reèe: sine! ti si svagda sa mnom, i sve je moje tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Trebalo se razveseliti i obradovati, jer ovaj brat tvoj mrtav bješe, i oživlje; i izgubljen bješe i naðe se."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LUK/15.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 15
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LUK/16.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 16
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LUK/14.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 14
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 32
+}

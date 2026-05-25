@@ -1,0 +1,153 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZR",
+    "translationId": "srp_865",
+    "name": "Ezra",
+    "commonName": "Ezra",
+    "title": "Ezra",
+    "order": 15,
+    "numberOfChapters": 10,
+    "sha256": "bf548715db2388dddb04c845f0fa124e883e80ef31b6aa8bdd1683312fc367c1",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZR/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZR",
+      "chapter": 1
+    },
+    "lastChapterNumber": 10,
+    "lastChapterApiLink": "/api/srp_865/EZR/10.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZR",
+      "chapter": 10
+    },
+    "totalNumberOfVerses": 280
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Prve godine Kira cara Persijskoga, da bi se ispunila rijeè Gospodnja, koju reèe na usta Jeremijina, podiže Gospod duh Kira cara Persijskoga, te oglasi po svemu carstvu svojemu i raspisa govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ovako veli Kir car Persijski: sva carstva zemaljska dao mi je Gospod Bog nebeski, i on mi je zapovjedio da mu sazidam dom u Jerusalimu u Judeji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ko je izmeðu vas od svega naroda njegova? Bog nebeski neka bude s njim, pa nek ide u Jerusalim u Judeji, i neka zida dom Gospoda Boga Izrailjeva, Boga koji je u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A ko bi ostao u kojem god mjestu gdje se bavi, neka ga ljudi onoga mjesta potpomognu srebrom i zlatom i imanjem i stokom osim dragovoljnoga priloga na dom Božji u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tada ustaše glavari porodica otaèkih od Jude i Venijamina, i sveštenici i Leviti i svi kojima Bog podiže duh da idu da zidaju dom Gospodnji u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I potpomogoše ih svi koji bijahu oko njih sudovima srebrnijem i zlatnijem, imanjem i stokom i stvarima skupocjenijem osim svega što dragovoljno priložiše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I car Kir izdade sudove doma Gospodnjega koje bijaše odnio iz Jerusalima car Navuhodonosor i metnuo u dom svojih bogova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A izdade ih Kir car Persijski preko Mitridata riznièara, koji ih izbroji Sasavasaru knezu Judejskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A ovo im je broj: zdjela zlatnijeh trideset, zdjela srebrnijeh tisuæa, noževa dvadeset i devet,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Èaša zlatnijeh trideset, drugih èaša srebrnijeh èetiri stotine i deset, drugih sudova tisuæa;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Svega sudova zlatnijeh i srebrnijeh pet tisuæa i èetiri stotine; sve to ponese Sasavasar kad se vrati iz Vavilona u Jerusalim."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZR/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZR/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CH/36.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 36
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 11
+}

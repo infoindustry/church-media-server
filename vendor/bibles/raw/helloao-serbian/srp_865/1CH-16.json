@@ -1,0 +1,377 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "srp_865",
+    "name": "1. Dnevnika",
+    "commonName": "1. Dnevnika",
+    "title": "1. Dnevnika",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "8ea0acc08b93472f39af29d769974347b255ab628ab40782b4687010563cbf90",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 29,
+    "lastChapterApiLink": "/api/srp_865/1CH/29.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 29
+    },
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 16,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I kad donesoše kovèeg Božji, namjestiše ga usred šatora, koji mu razape David; i prinesoše žrtve paljenice i žrtve zahvalne pred Bogom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Potom prinesavši David žrtve paljenice i žrtve zahvalne, blagoslovi narod u ime Gospodnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I razdade svijem Izrailjcima, i ljudima i ženama, svakom po jedan hljeb i komad mesa i vrè vina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Potom postavi pred kovèegom Gospodnjim sluge izmeðu Levita da pominju i slave i hvale Gospoda Boga Izrailjeva:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Asafa poglavara, a drugoga za njim Zahariju, i Jeila i Semiramota i Jehila i Matatiju i Elijava i Venaju i Ovid-Edoma; i Jeilo udaraše u psaltire i gusle, a Asaf u kimvale,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A Venaja i Jazilo sveštenici bijahu jednako s trubama pred kovèegom zavjeta Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "U taj dan naredi David prvi put da hvale Gospoda Asaf i braæa njegova:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Hvalite Gospoda; glasite ime njegovo; javljajte po narodima djela njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Pjevajte mu, slavite ga, kazujte sva èudesa njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Hvalite se svetijem imenom njegovijem; neka se veseli srce onijeh koji traže Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tražite Gospoda i silu njegovu; tražite lice njegovo bez prestanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Pamtite èudesa njegova, koja je uèinio, znake njegove i sudove usta njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Sjeme Izrailjevo sluge su njegove, sinovi Jakovljevi izbrani njegovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "On je Gospod Bog naš, po svoj su zemlji sudovi njegovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Pamtite uvijek zavjet njegov, rijeè koju je dao na tisuæu koljena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Što je zavjetovao Avramu i za što se kleo Isaku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "To je postavio Jakovu za zakon i Izrailju za zavjet vjeèni,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Govoreæi: tebi æu dati zemlju Hanansku u našljedni dio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tada vas još bijaše malo na broj, bijaše vas malo, i bijaste došljaci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Iðahu od naroda do naroda, i iz jednoga carstva k drugomu plemenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ne dade nikomu da im naudi, i karaše za njih careve:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ne dirajte u pomazanike moje, i prorocima mojim ne èinite zla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Pjevaj Gospodu, sva zemljo! javljajte od dana na dan spasenje njegovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Kazujte po narodima slavu njegovu, po svijem plemenima èudesa njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Jer je velik Gospod i valja ga hvaliti veoma; strašniji je od svijeh bogova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jer su svi bogovi u naroda ništa; a Gospod je nebesa stvorio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Slava je i velièanstvo pred njim, sila i radost u stanu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Dajte Gospodu, plemena narodna, dajte Gospodu slavu i èast."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Dajte Gospodu slavu prema imenu njegovu, nosite dare i idite preda nj, poklonite se Gospodu u svetoj krasoti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Strepi pred njim, sva zemljo; zato je vasiljena tvrda i neæe se pomjestiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Nek se vesele nebesa i zemlja se raduje; i neka govore po narodima: Gospod caruje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Neka pljeska more i što je u njemu; neka skaèe polje i sve što je na njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Tada neka se raduju drveta šumska pred Gospodom, jer ide da sudi zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Hvalite Gospoda, jer je dobar, jer je dovijeka milost njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I recite: spasi nas, Bože spasenja našega, i skupi nas i izbavi nas od naroda da slavimo sveto ime tvoje, da se hvalimo tvojom slavom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Blagosloven Gospod Bog Izrailjev od vijeka i do vijeka. Tada sav narod reèe: amin; i hvališe Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I ostavi ondje pred kovèegom zavjeta Gospodnjega Asafa i braæu njegovu da služe pred kovèegom bez prestanka kao što treba od dana na dan,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I Ovid-Edoma i braæu njegovu, šezdeset i osam, Ovid-Edoma sina Jedutunova i Osu, da budu vratari;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A Sadoka sveštenika i braæu njegovu sveštenike pred šatorom Gospodnjim na visini u Gavaonu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Da prinose žrtve paljenice Gospodu na oltaru za žrtve paljenice bez prestanka jutrom i veèerom, i da èine sve što je napisano u zakonu Gospodnjem što je zapovjedio Izrailju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I s njima Emana i Jedutuna i druge izabrane, koji biše poimence imenovani da hvale Gospoda, jer je dovijeka milost njegova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "S njima Emana i Jedutuna, da trube u trube i udaraju u kimvale i u druge sprave muzièke Bogu; a sinove Jedutunove da budu vratari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Potom se razide sav narod, svak svojoj kuæi, a David se vrati da blagoslovi dom svoj."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CH/16.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 16
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CH/17.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 17
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CH/15.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 15
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 43
+}

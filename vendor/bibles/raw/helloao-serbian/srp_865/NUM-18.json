@@ -1,0 +1,300 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "srp_865",
+    "name": "Brojevi",
+    "commonName": "Brojevi",
+    "title": "Brojevi",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "5dc73b8a174fd63cb58a0932611fd5816a865be2dae8658fc6051a7a529e9415",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NUM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/NUM/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Gospod reèe Aronu: ti i sinovi tvoji i dom oca tvojega s tobom nosite grijehe o svetinju; ti i sinovi tvoji s tobom nosite grijehe sveštenstva svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I braæu svoju, pleme Levijevo, pleme oca svojega uzmi k sebi da budu uza te i služe ti; a ti æeš i sinovi tvoji s tobom služiti pred šatorom od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Neka dobro slušaju zapovijesti tvoje i rade što treba u svem šatoru; ali k sudovima od svetinje k oltaru neka ne pristupaju, da ne izginu i oni i vi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Neka budu dakle uza te, i neka rade sve što treba u šatoru od sastanka u svakoj službi u njemu; ali niko drugi da ne pristupi s vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A vi radite što treba u svetinji i što treba na oltaru, da više ne doðe gnjev na sinove Izrailjeve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer evo ja uzeh braæu vašu Levite izmeðu sinova Izrailjevijeh, i vama su dani na dar za Gospoda, da vrše službu u šatoru od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A ti i sinovi tvoji s tobom vršite sveštenièku službu svoju u svemu što pripada k oltaru i što biva iza zavjesa, i služite; sveštenstvo darovah vam, zato ko bi drugi pristupio, da se pogubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Još reèe Gospod Aronu: evo, dajem ti i prinose svoje što se u vis podižu, izmeðu svijeh stvari koje posveæuju sinovi Izrailjevi dajem ih tebi radi pomazanja i sinovima tvojim zakonom vjeènim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "To neka je tvoje od stvari posveæenijeh, koje se ne sažižu; svaki prinos njihov izmeðu svijeh darova njihovijeh i izmeðu svijeh prinosa za grijeh i svijeh prinosa za krivicu, koje mi donesu, svetinja nad svetinjama da je tvoja i sinova tvojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "U svetinji ga jedi, sve muškinje neka ga jede, sveta stvar da ti je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tvoje su dakle žrtve darova njihovijeh koje se u vis podižu; i svaku žrtvu sinova Izrailjevijeh koja se obræe tebi dajem i sinovima tvojim i kæerima tvojim s tobom zakonom vjeènim; ko je god èist u domu tvojem, neka jede."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Najbolje od ulja i najbolje od vina i žita, prvine koje daju Gospodu, tebi dajem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Prvine od svega što rodi u zemlji njihovoj, koje donesu Gospodu, tvoje neka budu; ko je god èist u domu tvojem neka jede."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Sve zavjetovano Bogu i Izrailju, tvoje neka je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Što god otvora matericu izmeðu svakoga tijela koje prinose Gospodu, i izmeðu ljudi i izmeðu stoke, tvoje da bude; ali prvenac èovjeèji neka se otkupljuje; i prvenac neèiste stoke neka se otkupljuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A otkup neka mu bude kad bude od mjeseca dana po tvojoj cijeni pet sikala srebra, po siklu svetom; u njemu je dvadeset gera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A prvenca od krave ili prvenca od ovce ili prvenca od koze ne daj da se otkupi; svete su stvari; krvlju njihovom pokropi oltar, i salo njihovo zapali, da bude žrtva ognjena za miris ugodni Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A meso od njih da je tvoje, kao grudi što se obræu i kao pleæe desno, da je tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Sve prinose što se podižu od posveæenijeh stvari, što prinose sinovi Izrailjevi Gospodu, dajem tebi i sinovima tvojim i kæerima tvojim s tobom zakonom vjeènim; to æe biti zavjet osoljen, vjeèan pred Gospodom tebi i sjemenu tvojemu s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Još reèe Gospod Aronu: u zemlji njihovoj da nemaš našljedstva, ni dijela meðu njima da nemaš; ja sam dio tvoj i tvoje našljedstvo meðu sinovima Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A sinovima Levijevim evo dajem u našljedstvo sve desetke od Izrailja za službu njihovu što služe u šatoru od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A sinovi Izrailjevi neka više ne pristupaju k šatoru od sastanka, da se ne ogriješe i ne izginu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Nego sami Leviti neka služe službu u šatoru od sastanka, i oni neka nose grijeh svoj zakonom vjeènim od koljena do koljena, pa da nemaju našljedstva meðu sinovima Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer desetke sinova Izrailjevijeh, što æe donositi Gospodu na žrtvu što se podiže, dajem Levitima u našljedstvo; toga radi rekoh za njih: meðu sinovima Izrailjevijem da nemaju našljedstva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Reci Levitima i kaži im: kad uzmete od sinova Izrailjevijeh desetak koji vam dadoh od njih za našljedstvo vaše, onda prinesite od njega prinos što se podiže Gospodu, deseto od desetoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I primiæe vam se prinos vaš kao žito s gumna i kao vino iz kace."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Tako i vi prinosite prinos što se podiže Gospodu od svijeh desetaka svojih, koje æete uzimati od sinova Izrailjevijeh, i dajite od njih prinos Gospodnji Aronu svešteniku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Od svega što vam se da prinosite svaki prinos što se podiže Gospodu, od svega što bude najbolje sveti dio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I reci im: kad prinesete najbolje od toga, tada æe se primiti Levitima kao dohodak od gumna i kao dohodak od kace."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A jesti možete to na svakom mjestu i vi i porodice vaše, jer vam je plata za službu vašu u šatoru od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I neæete za to navuæi na se grijeha, kad stanete prinositi što je najbolje, i neæete oskvrniti svetijeh stvari sinova Izrailjevijeh, i neæete izginuti."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NUM/18.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 18
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NUM/19.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 19
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NUM/17.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 17
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 32
+}

@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 42,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Evo sluge mojega, kojega podupirem, izbranika mojega, koji je mio duši mojoj; metnuæu duh svoj na njega, sud narodima javljaæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Neæe vikati ni podizati, niti æe se èuti glas njegov po ulicama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Trske stuèene neæe prelomiti, i svještila koje se puši neæe ugasiti; javljaæe sud po istini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Neæe mu dosaditi, niti æe se umoriti, dokle ne postavi sud na zemlji, i ostrva æe èekati nauku njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ovako govori Bog Gospod, koji je stvorio nebesa i razapeo ih, koji je rasprostro zemlju i što ona raða, koji daje disanje narodu što je na njoj i duh onima što hode po njoj:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ja Gospod dozvah te u pravdi, i držaæu te za ruku, i èuvaæu te, i uèiniæu te da budeš zavjet narodu, vidjelo narodima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Da otvoriš oèi slijepcima, da izvedeš sužnje iz zatvora i iz tamnice koji sjede u tami."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ja sam Gospod, to je ime moje, i slave svoje neæu dati drugome ni hvale svoje likovima rezanijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Evo, preðašnje doðe, i ja javljam novo, prije nego nastane kazujem vam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Pjevajte Gospodu pjesmu novu, hvalu njegovu od kraja zemlje, koji se plavite po moru i sve što je u njemu, ostrva i koji živite na njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Pustinja i gradovi njezini, sela gdje stanuje Kidar, neka podignu glas, neka pjevaju koji žive po stijenama, neka klikuju savrh gora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Neka daju slavu Gospodu, i hvalu njegovu neka javljaju po ostrvima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Gospod æe izaæi kao junak, podignuæe revnost svoju kao vojnik, vikaæe i klikovati, nadvladaæe neprijatelje svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Muèah dugo, èinjah se gluh, ustezah se; ali æu sada vikati kao žena kad se poraða, i sve æu potrti i istrijebiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Opustiæu gore i bregove, i svaku travu na njima osušiæu, i od rijeka æu naèiniti ostrva, i jezera æu isušiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I vodiæu slijepce putem kojega nijesu znali; vodiæu ih stazama kojih nijesu znali; obratiæu pred njima mrak u svjetlost i što je neravno u ravno. To æu im uèiniti, i neæu ih ostaviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tada æe se vratiti natrag i posramiti se koji se uzdaju u lik rezani, koji govore likovima livenijem: vi ste naši bogovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Èujte, gluhi; progledajte, slijepi, da vidite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ko je slijep osim sluge mojega? i ko je gluh kao poslanik moj kojega šaljem? ko je slijep kao savršeni? ko je slijep kao sluga Gospodnji?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Gledaš mnogo, ali ne vidiš; otvorene su ti uši, ali ne èuješ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Gospodu bijaše mio radi pravde njegove, uèini zakon velikim i slavnim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A narod je oplijenjen i potlaèen, svi su koliki povezani u peæinama i sakriveni u tamnicama; postaše plijen, a nema nikoga da bi izbavio; postaše grabež, a nema nikoga da bi rekao: vrati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ko izmeðu vas èuje ovo i pazi i sluša za poslije?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ko je dao Jakova da se potlaèi i Izrailja otimaèima? Nije li Gospod, kojemu zgriješismo? Jer ne htješe hoditi putovima njegovijem niti slušaše zakona njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Zato izli na njih žestoku jarost svoju i silan rat, i zapali ga unaokolo, ali on ne razumje; zapali ga, ali on ne mari."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/42.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 42
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/43.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 43
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/41.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 41
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

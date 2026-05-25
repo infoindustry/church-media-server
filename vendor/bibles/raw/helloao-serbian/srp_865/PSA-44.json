@@ -1,0 +1,258 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 44,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Bože, svojim ušima slušasmo, oci nam naši pripovijedaše djelo koje si uèinio u njihovo vrijeme, u staro vrijeme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Rukom svojom izgnao si narode, a njih posadio; iskorijenio si plemena, a njih namnožio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer ne zadobiše zemlje svojim maèem, niti im mišica njihova pomože, nego tvoja desnica i tvoja mišica, i svjetlost lica tvojega, jer ti bijahu omiljeli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Bože, care moj, ti si onaj isti, pošlji pomoæ Jakovu!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "S tobom æemo izbosti neprijatelje svoje, i s imenom tvojim izgaziæemo one koji ustaju na nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer se ne uzdam u luk svoj, niti æe mi maè moj pomoæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nego æeš nas ti izbaviti od neprijatelja našijeh, i nenavidnike naše posramiæeš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Bogom æemo se hvaliti svaki dan, i ime tvoje slaviæemo dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ali sad si nas povrgao i posramio, i ne ideš s vojskom našom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Obraæaš nas te bježimo ispred neprijatelja, i neprijatelji nas naši haraju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Dao si nas kao ovce da nas jedu, i po narodima rasijao si nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "U bescjenje si prodao narod svoj, i nijesi mu podigao cijene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Dao si nas na potsmijeh susjedima našijem, da nam se rugaju i sramote nas koji žive oko nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Naèinio si od nas prièu u naroda, gledajuæi nas mašu glavom tuðinci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Svaki je dan sramota moja preda mnom, i stid je popao lice moje"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Od rijeèi potsmjevaèevih i rugaèevih, i od pogleda neprijateljevih i osvetljivèevih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Sve ovo snaðe nas; ali ne zaboravismo tebe, niti prestupismo zavjeta tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ne otstupi natrag srce naše, i stope naše ne zaðoše s puta tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Kad si nas bio u zemlji zmajevskoj, i pokrivao nas sjenom smrtnijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Onda da bijasmo zaboravili ime Boga svojega i podigli ruke svoje k Bogu tuðemu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ne bi li Bog iznašao to? Jer on zna tajne u srcu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A ubijaju nas za tebe svaki dan; s nama postupaju kao s ovcama klanicama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ustani, što spavaš, Gospode! Probudi se, nemoj odbaciti zasvagda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Zašto kriješ lice svoje? zaboravljaš nevolju i muku našu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Duša naša pade u prah, tijelo je naše baèeno na zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ustani, pomoæi naša, i izbavi nas radi milosti svoje."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/44.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 44
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/45.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 45
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/43.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 43
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 26
+}

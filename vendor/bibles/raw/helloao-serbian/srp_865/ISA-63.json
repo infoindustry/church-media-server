@@ -1,0 +1,209 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 63,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ko je ono što ide iz Edoma, iz Vosora, u crvenijem haljinama? krasno odjeven, koraèajuæi u velièini sile svoje? Ja sam, koji govorim pravdu i vrijedan sam spasti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Zašto ti je crveno odijelo i haljine ti kao u onoga koji gazi u kaci?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Gazih sam u kaci, i niko izmeðu naroda ne bješe sa mnom; ali ih izgazih u gnjevu svom i potlaèih u ljutini svojoj; i krv njihova poprska mi haljine i iskaljah sve odijelo svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer je dan od osvete u srcu mom, i doðe godina da se moji iskupe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Pogledah, a nikoga ne bješe da pomože, i zaèudih se što nikoga ne bješe da podupre; ali me desnica moja izbavi i jarost moja poduprije me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I izgazih narode u gnjevu svom, i opojih ih jarošæu svojom, i prolih na zemlju krv njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Pominjaæu dobrotu Gospodnju, hvalu Gospodnju za sve što nam je uèinio Gospod, i mnoštvo dobra što je uèinio domu Izrailjevu po milosti svojoj i po velikoj dobroti svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer reèe: doista su moj narod, sinovi, koji neæe iznevjeriti. I bi im spasitelj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "U svakoj tuzi njihovoj on bješe tužan, i anðeo, koji je pred njim, spase ih. Ljubavi svoje radi i milosti svoje radi on ih izbavi, i podiže ih i nosi ih sve vrijeme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ali se odmetaše i žalostiše sveti duh njegov; zato im posta neprijatelj, i ratova na njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ali se opomenu starijeh vremena, Mojsija, naroda svojega: gdje je onaj koji ih izvede iz mora s pastirem stada svojega? gdje je onaj što metnu usred njih sveti duh svoj?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Koji ih vodi slavnom mišicom svojom za desnicu Mojsijevu? koji razdvoji vodu pred njima, da steèe sebi vjeèno ime?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Koji ih vodi preko bezdana kao konja preko pustinje, da se ne spotakoše?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Duh Gospodnji vodi ih tiho, kao kad stoka slazi u dolinu; tako si vodio svoj narod da steèeš sebi slavno ime."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Pogledaj s neba, i vidi iz stana svetinje svoje i slave svoje, gdje je revnost tvoja i sila tvoja, mnoštvo milosrða tvojega i milosti tvoje? eda li æe se meni ustegnuti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ti si zaista otac naš, ako i ne zna Avram za nas, i Izrailj nas ne poznaje; ti si, Gospode, otac naš, ime ti je otkako je vijeka izbavitelj naš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Zašto si nam dao da zaðemo, Gospode, s putova tvojih? da nam otvrdne srce da te se ne bojimo? Vrati se radi sluga svojih, radi plemena našljedstva svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Za malo naslijedi narod svetosti tvoje; neprijatelji naši pogaziše svetinju tvoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Postasmo kao oni kojima nijesi nigda vladao niti je prizivano ime tvoje nad njima."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/63.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 63
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/64.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 64
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/62.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 62
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 19
+}

@@ -1,0 +1,174 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 58,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Vièi iz grla, ne usteži se, podigni glas svoj kao truba, i objavi narodu mojemu bezakonja njegova i domu Jakovljevu grijehe njihove,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Premda me svaki dan traže i radi su znati putove moje, kao narod koji tvori pravdu i ne ostavlja suda Boga svojega; ištu od mene sudove pravedne, žele približiti se k Bogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Zašto postismo, vele, a ti ne pogleda, muèismo duše svoje, a ti ne htje znati? Gle, kad postite, èinite svoju volju i izgonite sve što vam je ko dužan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Eto postite da se prete i svaðate i da bijete pesnicom bezbožno. Nemojte postiti tako kao danas, da bi se èuo gore glas vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Taki li je post koji izabrah da èovjek muèi dušu svoju jedan dan? da savija glavu svoju kao sita i da stere poda se kostrijet i pepeo? To li æeš zvati post i dan ugodan Gospodu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A nije li ovo post što izabrah: da razvežeš sveze bezbožnosti, da razdriješiš remenje od bremena, da otpustiš potlaèene, i da izlomite svaki jaram?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nije li da prelamaš hljeb svoj gladnome, i siromahe prognane da uvedeš u kuæu? kad vidiš gola, da ga odjeneš, i da se ne kriješ od svoga tijela?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tada æe sinuti vidjelo tvoje kao zora, i zdravlje æe tvoje brzo procvasti, i pred tobom æe iæi pravda tvoja, slava Gospodnja biæe ti zadnja straža."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tada æeš prizivati, i Gospod æe te èuti: vikaæeš, i reæi æe: evo me. Ako izbaciš izmeðu sebe jaram i prestaneš pružati prst i govoriti zlo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I ako otvoriš dušu svoju gladnome, i nasitiš dušu nevoljnu; tada æe zasjati u mraku vidjelo tvoje i tama æe tvoja biti kao podne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer æe te Gospod voditi vazda, i sitiæe dušu tvoju na suši, i kosti tvoje krijepiæe, i biæeš kao vrt zaliven i kao izvor kojemu voda ne presiše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I tvoji æe sazidati stare pustoline, i podignuæeš temelje koji æe stajati od koljena do koljena, i prozvaæeš se: koji sazida razvaline i opravi putove za naselje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ako odvratiš nogu svoju od subote da ne èiniš što je tebi drago na moj sveti dan, i ako prozoveš subotu milinom, sveti dan Gospodnji slavnijem, i budeš ga slavio ne iduæi svojim putovima i ne èineæi što je tebi drago, ni govoreæi rijeèi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Tada æeš se veseliti u Gospodu, i izvešæu te na visine zemaljske, i daæu ti da jedeš našljedstvo Jakova oca svojega; jer usta Gospodnja rekoše."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/58.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 58
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/59.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 59
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/57.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 57
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 14
+}

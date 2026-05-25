@@ -1,0 +1,377 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 36,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A ovo je pleme Isavovo, a on je Edom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Isav se oženi izmeðu kæeri Hananejskih Adom kæerju Eloma Hetejina, i Olivemom kæerju Ane sina Sevegona Evejina,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I Vasematom kæerju Ismailovom, sestrom Navaotovom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I rodi Ada Isavu Elifasa, a Vasemata rodi Raguila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A Olivema rodi Jeusa i Jegloma i Koreja. To su sinovi Isavovi, koji mu se rodiše u zemlji Hananskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I Isav uze žene svoje i sinove svoje i kæeri svoje i sve domašnje svoje, i stada svoja i svu stoku svoju i sve blago svoje što bješe stekao u zemlji Hananskoj; pa otide u drugu zemlju daleko od Jakova brata svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer im blago bijaše vrlo veliko, te ne mogahu živjeti zajedno; niti ih zemlja gdje bijahu došljaci mogaše nositi od množine stoke njihove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I Isav življaše na planini Siru. Isav je Edom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A ovo je pleme Isava oca Edomcima na planini Siru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ovo su imena sinova Isavovijeh: Elifas sin Ade žene Isavove, i Raguilo sin Vasemate žene Isavove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Elifasovi sinovi bjehu: Teman, Omar, Sofar, Gotom i Kenez."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A Tamna bješe inoèa Elifasu sinu Isavovu, i rodi Elifasu Amalika. To su sinovi Ade žene Isavove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A ovo su sinovi Raguilovi: Nahot, Zare, Some i Moze. To bjehu sinovi Vasemate žene Isavove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A ovo su sinovi Oliveme kæeri Ane sina Sevegonova, žene Isavove. Ona rodi Isavu Jeusa i Jegloma i Koreja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ovo su starješine sinovima Isavovijem: sinovi Elifasa prvenca Isavova: starješina Teman, starješina Omar, starješina Sofar, starješina Kenez,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Starješina Korej, starješina Gotim, starješina Amalik. To su starješine od Elifasa u zemlji Edomskoj. To su sinovi Adini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A sinovi Raguila sina Isavova: starješina Nahot, starješina Zare, starješina Some, starješina Moze. To su starješine od Raguila u zemlji Edomskoj. To su sinovi Vasemate žene Isavove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A sinovi Oliveme žene Isavove: starješina Jeus, starješina Jeglom, starješina Korej. To su starješine od Oliveme kæeri Anine, žene Isavove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "To su sinovi Isavovi, i to su starješine njihove; a on je Edom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A ovo su sinovi Sira Horejina, koji življahu u onoj zemlji: Lotan i Soval i Sevegon i Ana,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I Dison i Asar i Rison. To su starješine Horejima, sinovi Sirovi u zemlji Edomskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A sinovi Lotanovi bjehu Horija i Eman, a sestra Lotanova bješe Tamna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A ovo su sinovi Savalovi: Golam i Manahat i Gevil i Sofar i Omar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A ovo su sinovi Sevegonovi: Aije i Ana. A taj je Ana koji pronaðe tople izvore u pustinji pasuæi magarce Sevegona oca svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A ovo su djeca Anina: Dison i Olivema kæi Anina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A ovo su sinovi Disonovi: Amada i Asvan i Itran i Haran."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A ovo su sinovi Asarovi: Valam i Zavan i Akan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A ovo su sinovi Risonovi: Uz i Aran."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I ovo su starješine Horejima: starješina Lotan, starješina Soval, starješina Sevegon, starješina Ana,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Starješina Dison, starješina Asar, starješina Rison. To su starješine Horejima, kako im starješovahu u zemlji Siru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A ovo su carevi koji carovaše u zemlji Edomskoj prije nego se zacari car nad sinovima Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Carova u Edomskoj Valak sin Veorov, a gradu mu bješe ime Denava."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A kad umrije Valak, zacari se na njegovo mjesto Jovav sin Zarin od Vosore."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A kad umrije Jovav, zacari se na njegovo mjesto Asom od zemlje Temanovske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A kad umrije Asom, zacari se na njegovo mjesto Adad sin Varadov, koji isijeèe Madijance u polju Moavskom, a gradu mu bješe ime Geten."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A kad umrije Adad, zacari se na njegovo mjesto Samada iz Masekasa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A kad umrije Samada, zacari se na njegovo mjesto Saul iz Rovota na rijeci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A kad umrije Saul, zacari se na njegovo mjesto Valenon sin Ahovorov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A kad umrije Valenon sin Ahovorov, zacari se na njegovo mjesto Adar, a grad mu se zvaše Fogor, a ženi mu bješe ime Meteveilja, koja bješe kæi Matraide kæeri Mezevove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I ovo su imena starješinama od Isava po porodicama njihovijem, po mjestima njihovijem, po imenima njihovijem: starješina Tamna, starješina Gola, starješina Jeter,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Starješina Olivema, starješina Ila, starješina Finon,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Starješina Kenez, starješina Teman, starješina Mazar,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Starješina Magedilo, starješina Zafoj. To su starješine Edomske kako nastavahu u svojoj zemlji. Ovaj Isav bi otac Edomcima."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/36.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 36
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/37.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 37
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/35.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 35
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 43
+}

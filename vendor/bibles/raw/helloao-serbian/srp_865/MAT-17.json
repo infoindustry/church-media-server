@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "srp_865",
+    "name": "Mateju",
+    "commonName": "Mateju",
+    "title": "Jevanðelje po Mateju",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "2282cb47d4ecce5bfb50178a05f4b87b8f4e94d2e2954aa2bd38500539980051",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/MAT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I poslije šest dana uze Isus Petra i Jakova i Jovana brata njegova, i izvede ih na goru visoku same."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I preobrazi se pred njima, i zasja se lice njegovo kao sunce a haljine njegove postadoše bijele kao svijet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I gle, ukazaše im se Mojsije i Ilija, koji s njim govorahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A Petar odgovarajuæi reèe Isusu: Gospode! dobro nam je ovdje biti; ako hoæeš da naèinimo ovdje tri sjenice: tebi jednu, a Mojsiju jednu, a jednu Iliji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Dok on još govoraše, gle, oblak sjajan zakloni ih; i gle, glas iz oblaka govoreæi: ovo je sin moj ljubazni, koji je po mojoj volji; njega poslušajte."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I èuvši uèenici padoše nièice, i uplašiše se vrlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I pristupivši Isus dohvati ih se, i reèe: ustanite, i ne bojte se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A oni podignuvši oèi svoje nikoga ne vidješe do Isusa sama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I silazeæi s gore zapovjedi im Isus govoreæi: nikom ne kazujte što ste vidjeli dok sin èovjeèij iz mrtvijeh ne ustane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I zapitaše ih uèenici njegovi govoreæi: zašto dakle književnici kažu da Ilija najprije treba da doðe?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Isus odgovarajuæi reèe im: Ilija æe doæi najprije i urediti sve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ali vam kažem da je Ilija veæ došao, i ne poznaše ga; nego uèiniše s njime šta htješe: tako i sin èovjeèij treba da postrada od njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada razumješe uèenici da im govori za Jovana krstitelja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I kad doðoše k narodu, pristupi k njemu èovjek klanjajuæi mu se"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I govoreæi: Gospode! pomiluj sina mojega; jer o mijeni bjesni i muèi se vrlo; jer mnogo puta pada u vatru, i mnogo puta u vodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I dovedoh ga uèenicima tvojijem, i ne mogoše ga iscijeliti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A Isus odgovarajuæi reèe: o rode nevjerni i pokvareni! dokle æu biti s vama? dokle æu vas trpljeti? Dovedite mi ga amo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I zaprijeti mu Isus; i ðavo iziðe iz njega; i ozdravi momèe od onoga èasa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tada pristupiše uèenici k Isusu i nasamo rekoše mu: zašto ga mi ne mogosmo izgnati?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Isus reèe im: za nevjerstvo vaše. Jer vam kažem zaista: ako imate vjere koliko zrno gorušièno, reæi æete gori ovoj: prijeði odavde tamo, i prijeæi æe, i ništa neæe vam biti nemoguæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A ovaj se rod izgoni samo molitvom i postom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A kad su hodili po Galileji, reèe im Isus: predaæe se sin èovjeèij u ruke ljudske;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I ubiæe ga, i treæi dan ustaæe. I neveseli bijahu vrlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A kad doðoše u Kapernaum, pristupiše k Petru oni što kupe didrahme, i rekoše: zar vaš uèitelj neæe dati didrahme?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Petar reèe: hoæe. I kad uðe u kuæu, preteèe ga Isus govoreæi: šta misliš Simone? Carevi zemaljski od koga uzimaju poreze i haraèe, ili od svojijeh sinova ili od tuðijeh?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Reèe njemu Petar: od tuðijeh. Reèe mu Isus: dakle ne plaæaju sinovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ali da ih ne sablaznimo, idi na more, i baci udicu, i koju prvu uhvatiš ribu, uzmi je; i kad joj otvoriš usta naæi æeš statir; uzmi ga te im podaj za me i za se."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAT/17.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 17
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/18.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 18
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAT/16.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 16
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

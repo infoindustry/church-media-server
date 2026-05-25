@@ -1,0 +1,398 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "srp_865",
+    "name": "Mateju",
+    "commonName": "Mateju",
+    "title": "Jevanðelje po Mateju",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "2282cb47d4ecce5bfb50178a05f4b87b8f4e94d2e2954aa2bd38500539980051",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/MAT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 22,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I odgovarajuæi Isus opet reèe im u prièama govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Carstvo je nebesko kao èovjek car koji naèini svadbu sinu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I posla sluge svoje da zovu zvanice na svadbu; i ne htješe doæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Opet posla druge sluge govoreæi: kažite zvanicama: evo sam objed svoj ugotovio, junci moji i hranjenici poklani su, i sve je gotovo; doðite na svadbu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A oni ne marivši otidoše ovaj u polje svoje, a ovaj k trgovini svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A ostali uhvatiše sluge njegove, izružiše ih, i pobiše ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kad to èu car onaj, razgnjevi se i poslavši vojsku svoju pogubi krvnike one, i grad njihov zapali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tada reèe slugama svojima: svadba je dakle gotova, a zvanice ne biše dostojne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Idite dakle na raskršæa i koga god naðete, dozovite na svadbu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I izišavši sluge one na raskršæa sabraše sve koje naðoše, zle i dobre; i stolovi napuniše se gostiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Izišavši pak car da vidi goste ugleda ondje èovjeka neobuèena u svadbeno ruho."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I reèe mu: prijatelju! kako si došao amo bez svadbenoga ruha? a on oæutje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada reèe car slugama: svežite mu ruke i noge, pa ga uzmite te bacite u tamu najkrajnju; ondje æe biti plaè i škrgut zuba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer su mnogi zvani, ali je malo izbranijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tada otidoše fariseji i naèiniše vijeæu kako bi ga uhvatili u rijeèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I poslaše k njemu uèenike svoje s Irodovcima, te rekoše: uèitelju! znamo da si istinit, i putu Božijemu zaista uèiš, i ne mariš ni za koga, jer ne gledaš ko je ko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Kaži nam dakle šta misliš ti? treba li dati haraè æesaru ili ne?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Razumjevši Isus lukavstvo njihovo reèe: što me kušate, licemjeri?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Pokažite mi novac haraèki. A oni donesoše mu novac."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I reèe im: èij je obraz ovaj i natpis?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I rekoše mu: æesarev. Tada reèe im: podajte dakle æesarevo æesaru, i Božije Bogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I èuvši diviše se, i ostavivši ga otidoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Taj dan pristupiše k njemu sadukeji koji govore da nema vaskrsenija, i upitaše ga"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Govoreæi: uèitelju! Mojsije reèe: ako ko umre bez djece, da uzme brat njegov ženu njegovu i da podigne sjeme bratu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "U nas bješe sedam braæe; i prvi oženivši se umrije, i ne imavši poroda ostavi ženu svoju bratu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A tako i drugi, i treæi, tja do sedmoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A poslije sviju umrije i žena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "O vaskrseniju dakle koga æe od sedmorice biti žena? jer je za svima bila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A Isus odgovarajuæi reèe im: varate se, ne znajuæi pisma ni sile Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Jer o vaskrseniju niti æe se ženiti ni udavati; nego su kao anðeli Božiji na nebu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A za vaskrsenije mrtvijeh nijeste li èitali što vam je rekao Bog govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ja sam Bog Avraamov, i Bog Isakov, i Bog Jakovljev? Nije Bog Bog mrtvijeh, nego živijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I èuvši narod divljaše se nauci njegovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A fariseji èuvši da posrami sadukeje sabraše se zajedno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I upita jedan od njih zakonik kušajuæi ga i govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Uèitelju! koja je zapovijest najveæa u zakonu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A Isus reèe mu: ljubi Gospoda Boga svojega svijem srcem svojijem, i svom dušom svojom, i svom misli svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Ovo je prva i najveæa zapovijest."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A druga je kao i ova: ljubi bližnjega svojega kao samoga sebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "O ovima dvjema zapovijestima visi sav zakon i proroci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A kad se sabraše fariseji, upita ih Isus"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Govoreæi: šta mislite za Hrista, èij je sin? Rekoše mu: Davidov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Reèe im: kako dakle David njega duhom naziva Gospodom govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Reèe Gospod Gospodu mojemu: sjedi meni s desne strane, dok položim neprijatelje tvoje podnožje nogama tvojima?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Kad dakle David naziva njega Gospodom, kako mu je sin?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "I niko mu ne mogaše odgovoriti rijeèi; niti smijaše ko od toga dana da ga zapita više."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAT/22.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 22
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/23.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 23
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAT/21.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 21
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 46
+}

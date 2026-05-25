@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "srp_865",
+    "name": "1. Dnevnika",
+    "commonName": "1. Dnevnika",
+    "title": "1. Dnevnika",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "8ea0acc08b93472f39af29d769974347b255ab628ab40782b4687010563cbf90",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 29,
+    "lastChapterApiLink": "/api/srp_865/1CH/29.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 29
+    },
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A poslije toga pobi David Filisteje i pokori ih, i uze Gat i sela njegova iz ruku Filistejskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Pobi i Moavce, i postaše Moavci sluge Davidove i plaæahu mu danak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Razbi David i Adar-Ezera cara Sovskoga u Ematu izašav da raširi vlast svoju do rijeke Efrata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I uze mu David tisuæu kola i sedam tisuæa konjika i dvadeset tisuæa pješaka, i podreza David žile svijem konjma kolskim, samo ostavi za sto kola."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A bijahu došli Sirci iz Damaska u pomoæ Adar-Ezeru caru Sovskomu, i David pobi dvadeset i dvije tisuæe Siraca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I namjesti David vojsku u Siriji što je pod Damaskom, i Sirci postaše sluge Davidove plaæajuæi mu danak. I Gospod èuvaše Davida kuda god iðaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I David uze zlatne štitove koje imahu sluge Adar-Ezerove, i donese ih u Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I iz Tivata i iz Huna gradova Adar-Ezerovijeh odnese David silnu mjed, od koje Solomun naèini more mjedeno i stupove i posuðe mjedeno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A kad èu Toja car Ematski da je David pobio svu vojsku Adar-Ezera cara Sovskoga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Posla Adorama sina svojega k caru Davidu da ga pozdravi i da mu èestita što je vojevao na Adar-Ezera i ubio ga, jer Toja imaše rat s Adar-Ezerom, i svakojakih zaklada zlatnijeh i srebrnijeh i mjedenijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Pa i to car David posveti Gospodu sa srebrom i zlatom što bješe uzeo od svijeh naroda, od Edomaca i od Moavaca i od sinova Amonovijeh i od Filisteja i od Amalika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I Avisaj sin Serujin pobi osamnaest tisuæa Idumejaca u slanoj dolini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I namjesti vojsku po Idumeji, i svi Idumejci postaše sluge Davidove. I Gospod èuvaše Davida kuda god iðaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Tako carova David nad svijem Izrailjem sudeæi i dajuæi pravdu svemu narodu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I Joav sin Serujin bješe nad vojskom, a Josafat sin Ahiludov pametar,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Sadok sin Ahitovov i Avimeleh sin Avijatarov sveštenici, a Susa pisar,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A Venaja sin Jodajev bješe nad Heretejima i Feletejima, a sinovi Davidovi prvi do cara."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CH/18.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 18
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CH/19.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 19
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CH/17.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 17
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

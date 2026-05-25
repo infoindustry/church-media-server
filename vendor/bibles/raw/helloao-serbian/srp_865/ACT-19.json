@@ -1,0 +1,356 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 19,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Dogodi se pak, kad bješe Apolos u Korintu, da Pavle prolažaše gornje zemlje, i doðe u Efes, i našavši neke uèenike"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Reèe im: jeste li primili Duha svetoga kad ste vjerovali? A oni mu rekoše: nijesmo ni èuli da ima Duh sveti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A on im reèe: na što se dakle krstiste? A oni rekoše: na krštenje Jovanovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A Pavle reèe: Jovan krsti krštenjem pokajanja, govoreæi narodu da vjeruju onoga koji æe za njim doæi, to jest, Hrista Isusa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A kad to èuše, krstiše se u ime Gospoda Isusa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A kad Pavle metnu ruke na njih, siðe Duh sveti na njih, i govorahu jezike i proricahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A bijaše ljudi svega oko dvanaest."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I ušavši u zbornicu govoraše slobodno tri mjeseca uèeæi i uvjeravajuæi za carstvo Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I kad neki bijahu otvrdnuli i svaðahu se huleæi na put Gospodnji pred narodom, otstupi od njih i odluèi uèenike, pa se prepiraše svaki dan u školi nekoga Tirana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I ovo je bivalo dvije godine, tako da svi koji življahu u Aziji, i Jevreji i Grci, èuše rijeè Gospoda Isusa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I Bog èinjaše ne mala èudesa rukama Pavlovijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tako da su i èalme i ubrušèiæe znojave od tijela njegova nosili na bolesnike, i oni se iscjeljivahu od bolesti, i duhovi zli izlažahu iz njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I poèeše neki od Jevreja, koji se skitahu i zaklinjahu ðavole, spominjati nad onima u kojima bijahu zli duhovi ime Gospoda Isusa govoreæi: zaklinjemo vas Isusom koga Pavle propovijeda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A bijahu nekijeh sedam sinova Skeve Jevrejina, poglavara sveštenièkoga, koji ovo èinjahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A duh zli odgovarajuæi reèe: Isusa poznajem, i Pavla znam; ali vi ko ste?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I skoèivši na njih èovjek u kome bješe zli duh nadvlada ih, i pritište ih poda se tako da goli i izranjeni utekoše iz one kuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I ovo doznadoše svi koji življahu u Efesu, i Jevreji i Grci; i uðe strah u sve njih, i velièaše se ime Gospoda Isusa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I mnogi od onijeh što vjerovahu, dolažahu te se ispovijedahu i kazivahu šta su uèinili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A mnogi od onijeh koji èarahu, sabravši knjige svoje spaljivahu ih pred svima; i proraèuniše i naðoše da su vrijedele pedeset hiljada groša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Tako zdravo rastijaše i nadvlaðivaše rijeè Gospodnja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I kad se ovo svrši, namisli Pavle da proðe preko Maæedonije i Ahaje, i da ide u Jerusalim, i reèe: pošto budem tamo, valja mi i Rim vidjeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I posla u Maæedoniju dvojicu od onijeh koji ga služahu, Timotija i Erasta; a on osta neko vrijeme u Aziji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A u ono vrijeme podiže se ne mala buna puta radi Gospodnjega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer nekakav zlatar, po imenu Dimitrije, koji graðaše Dijani srebrne crkvice i davaše majstorima ne mali posao,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "On skupi ove i drugijeh ovakovijeh stvari majstore, i reèe: ljudi! vi znate da od ovoga posla mi imamo dobitak za svoje življenje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I vidite i èujete da ne samo u Efesu nego gotovo po svoj Aziji ovaj Pavle odvrati narod mnogi, govoreæi: to nijesu bogovi što se rukama èovjeèijim grade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I ne samo što æe ova nesreæa doæi na naš zanat da ne prolazi, nego se neæe mariti ni za crkvu velike boginje Dijane, i propašæe velièanstvo one koju sva Azija i vasioni svijet poštuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A kad oni ovo èuše, napuniše se gnjeva, i vikahu govoreæi: velika je Dijana Efeska!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I sav se grad napuni bune: i navalivši jednodušno na zborište uhvatiše Gaja i Aristarha iz Maæedonije, drugove Pavlove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A kad Pavle šæaše da ide meðu narod, ne dadoše mu uèenici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A neki i od Azijskijeh poglavara koji mu bijahu prijatelji, poslaše k njemu svjetujuæi ga da ne izlazi na zborište."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Jedni pak vikahu jedno a drugi drugo; jer bijaše sabor smuæen, i najviše ih ne znadijahu zašto su se skupili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A jedni od naroda izvukoše Aleksandra, kad ga Jevreji izvedoše. A Aleksandar mahnuvši rukom šæaše da odgovori narodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A kad ga poznaše da je Jevrejin, povikaše svi u glas, i vikahu oko dva sahata: velika je Dijana Efeska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A pisar utišavši narod reèe: ljudi Efesci! Ko je taj èovjek koji ne zna da grad Efes slavi veliku boginju Dijanu i njezin kip nebeski?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Kad dakle to ne može niko odreæi, valja vi da budete mirni, i ništa naglo da ne èinite;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Jer dovedoste ove ljude koji niti su crkvu Dijaninu pokrali, niti hule na vašu boginju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A Dimitrije i majstori koji su s njim ako imaju kakvu tužbu, imaju sudovi, i imaju namjesnici, neka tuže jedan drugoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Ako li što drugo ištete, neka se izvidi na pravoj skupštini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Jer se bojimo da ne budemo tuženi za današnju bunu; a nijednoga uzroka nema kojijem bismo se mogli opravdati za ovu bunu. I ovo rekavši raspusti narod koji se bješe sabrao."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/19.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 19
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/20.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 20
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/18.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 18
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 40
+}

@@ -1,0 +1,349 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "srp_865",
+    "name": "Luki",
+    "commonName": "Luki",
+    "title": "Jevanðelje po Luki",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "71d24bae001865beafd9dc8b76f8e93d8f927bd8e33391ea4aebbf53673c6a27",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LUK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/LUK/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Jedanput pak kad narod naleže k njemu da slušaju rijeè Božiju on stajaše kod jezera Genisaretskoga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I vidje dvije laðe gdje stoje u kraju, a ribari bijahu izišli iz njih i ispirahu mreže:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I uljeze u jednu od laði koja bješe Simonova, i zamoli ga da malo odmakne od kraja; i sjedavši uèaše narod iz laðe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A kad presta govoriti, reèe Simonu: hajde na dubinu, i bacite mreže svoje te lovite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I odgovarajuæi Simon reèe mu: uèitelju! svu noæ smo se trudili, i ništa ne uhvatismo: ali po tvojoj rijeèi baciæu mrežu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I uèinivši to uhvatiše veliko mnoštvo riba, i mreže im se prodriješe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I namagoše na društvo koje bješe na drugoj laði da doðu da im pomognu; i doðoše, i napuniše obje laðe tako da se gotovo potope."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A kad vidje Simon Petar, pripade ka koljenima Isusovijem govoreæi: iziði od mene, Gospode! ja sam èovjek griješan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer bijaše ušao strah u njega i u sve koji bijahu s njim od mnoštva riba koje uhvatiše;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A tako i u Jakova i Jovana, sinove Zevedejeve, koji bijahu drugovi Simonovi. I reèe Isus Simonu: ne boj se; otsele æeš ljude loviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I izvukavši obje laðe na zemlju ostaviše sve, i otidoše za njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I kad bješe Isus u jednom gradu, i gle, èovjek sav u gubi: i vidjevši Isusa pade nièice moleæi mu se i govoreæi: Gospode! ako hoæeš možeš me oèistiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I pruživši ruku dohvati ga se, i reèe: hoæu, oèisti se. I odmah guba spade s njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I on mu zapovjedi da nikom ne kazuje: nego idi i pokaži se svešteniku, i prinesi dar za oèišæenje svoje, kako je zapovjedio Mojsije za svjedoèanstvo njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ali se glas o njemu još veæma razlažaše, i mnoštvo naroda stjecaše se da ga slušaju i da ih iscjeljuje od njihovijeh bolesti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A on odlažaše u pustinju i moljaše se Bogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I jedan dan uèaše on, i ondje sjeðahu fariseji i zakonici koji bijahu došli iz sviju sela Galilejskijeh i Judejskijeh i iz Jerusalima; i sila Gospodnja iscjeljivaše ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I gle, ljudi donesoše na odru èovjeka koji bješe uzet, i tražahu da ga unesu i metnu preda nj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I ne našavši kuda æe ga unijeti od naroda, popeše se na kuæu i kroz krov spustiše ga s odrom na srijedu pred Isusa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I vidjevši vjeru njihovu reèe mu: èovjeèe! opraštaju ti se grijesi tvoji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I poèeše pomišljati književnici i fariseji govoreæi: ko je ovaj što huli na Boga? Ko može opraštati grijehe osim jednoga Boga?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A kad razumje Isus pomisli njihove, odgovarajuæi reèe im: šta mislite u srcima svojijem?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Šta je lakše reæi: opraštaju ti se grijesi tvoji? ili reæi: ustani i hodi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Nego da znate da vlast ima sin èovjeèij na zemlji opraštati grijehe, reèe uzetome:) tebi govorim: ustani i uzmi odar svoj i idi kuæi svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I odmah ustade pred njima, i uze na èemu ležaše, i otide kuæi svojoj hvaleæi Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I svi se upropastiše, i hvaljahu Boga, i napunivši se straha govorahu: èuda se nagledasmo danas!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I potom iziðe, i vidje carinika po imenu Levija gdje sjedi na carini, i reèe mu: hajde za mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I ostavivši sve, ustade i poðe za njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I zgotovi mu Levije kod kuæe svoje veliku èast; i bješe mnogo carinika i drugijeh koji sjeðahu s njim za trpezom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I vikahu na njega književnici i fariseji govoreæi uèenicima njegovijem: zašto s carinicima i grješnicima jedete i pijete?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I odgovarajuæi Isus reèe im: ne trebaju zdravi ljekara nego bolesni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ja nijesam došao da dozovem pravednike nego grješnike na pokajanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A oni mu rekoše: zašto uèenici Jovanovi poste èesto i mole se Bogu, tako i farisejski; a tvoji jedu i piju?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A on im reèe: možete li svatove natjerati da poste dok je ženik s njima?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Nego æe doæi dani kad æe se oteti od njih ženik, i onda æe postiti u one dane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Kaza im pak i prièu: niko ne meæe zakrpe od nove haljine na staru haljinu, inaèe æe i novu razdrijeti, i staroj ne lièi što je od novoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I niko ne ljeva vina novoga u mjehove stare; inaèe prodre novo vino mjehove i ono se prolije, i mjehovi propadnu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Nego vino novo u mjehove nove treba ljevati, i oboje æe se saèuvati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I niko pivši staro neæe odmah novoga; jer veli: staro je bolje."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LUK/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LUK/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LUK/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 39
+}

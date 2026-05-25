@@ -1,0 +1,174 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ZEC",
+    "translationId": "srp_865",
+    "name": "Zaharija",
+    "commonName": "Zaharija",
+    "title": "Zaharija",
+    "order": 38,
+    "numberOfChapters": 14,
+    "sha256": "8d31bf129645529bbf86e696983cf67d27bb2c635d0ea09244c13074734b3eef",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ZEC/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ZEC",
+      "chapter": 1
+    },
+    "lastChapterNumber": 14,
+    "lastChapterApiLink": "/api/srp_865/ZEC/14.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ZEC",
+      "chapter": 14
+    },
+    "totalNumberOfVerses": 211
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Breme rijeèi Gospodnje za Izrailja. Govori Gospod, koji je razapeo nebesa i osnovao zemlju, i stvorio èovjeku duh koji je u njemu:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Evo, ja æu uèiniti Jerusalim èašom za opijanje svijem narodima unaokolo, koji æe opsjesti Jerusalim ratujuæi na Judu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I u taj æu dan uèiniti Jerusalim teškim kamenom svijem narodima; koji ga god htjedbudu dignuti, satræe se, ako bi se i svi narodi zemaljski sabrali na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "U taj æu dan, govori Gospod, uèiniti da svi konji budu plašljivi i svi konjanici bezumni; i otvoriæu oèi svoje na dom Judin, i oslijepiæu sve konje narodima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Te æe govoriti glavari Judini u srcu svom: jaki su mi stanovnici Jerusalimski Gospodom nad vojskama, Bogom svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "U onaj æu dan uèiniti da glavari Judini budu kao ognjište u drvima i kao luè zapaljen u snopovima, te æe proždrijeti i nadesno i nalijevo sve narode unaokolo, a Jerusalim æe još ostati na svom mjestu, u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I Gospod æe saèuvati šatore Judine najprije, da se ne diže nad Judom slava doma Davidova i slava stanovnika Jerusalimskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "U onaj æe dan Gospod zaklanjati stanovnike Jerusalimske, i najslabiji meðu njima biæe u taj dan kao David, i dom æe Davidov biti kao Bog, kao anðeo Gospodnji pred njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I u taj dan tražiæu da istrijebim sve narode koji doðu na Jerusalim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I izliæu na dom Davidov i na stanovnike Jerusalimske duh milosti i molitava, i pogledaæe na mene kojega probodoše; i plakaæe za njim kao za jedincem, i tužiæe za njim kao za prvencem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "U ono æe vrijeme biti tužnjava velika u Jerusalimu kao tužnjava u Adadrimonu u polju Megidonskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I tužiæe zemlja, svaka porodica napose; porodica doma Davidova napose, i žene njihove napose; porodica doma Natanova napose, i žene njihove napose;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Porodica doma Levijeva napose, i žene njihove napose; porodica Semejeva napose, i žene njihove napose;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Sve ostale porodice, svaka napose, i žene njihove napose."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ZEC/12.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEC",
+    "chapter": 12
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ZEC/13.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEC",
+    "chapter": 13
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ZEC/11.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEC",
+    "chapter": 11
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 14
+}

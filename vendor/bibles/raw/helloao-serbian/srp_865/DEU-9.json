@@ -1,0 +1,279 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "srp_865",
+    "name": "Ponovljeni Zakon",
+    "commonName": "Ponovljeni Zakon",
+    "title": "Ponovljeni Zakon",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "b000b6651908c9448c65c662cec1fa45977205b236e0922d505241ab679311df",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DEU/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 1
+    },
+    "lastChapterNumber": 34,
+    "lastChapterApiLink": "/api/srp_865/DEU/34.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 34
+    },
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Èuj, Izrailju! ti danas prelaziš preko Jordana da uðeš i naslijediš narode veæe i jaèe od sebe, gradove velike i ograðene do neba;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Velik i visok narod, sinove Enakove, koje znaš i za koje si slušao: ko ce odoljeti sinovima Enakovijem?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Znaj dakle danas da je Gospod Bog tvoj, koji ide pred tobom, oganj koji spaljuje; on æe ih istrijebiti i on æe ih oboriti pred tobom, i izagnaæeš ih i istrijebiti brzo, kao što ti je kazao Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Kad ih Gospod Bog tvoj otjera ispred tebe, nemoj da reèeš u srcu svom: za pravdu moju uvede me Gospod u ovu zemlju da je naslijedim; jer Gospod tjera one narode ispred tebe za nevaljalstvo njihovo!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ne ideš za pravdu svoju ni za èistotu srca svojega da naslijediš tu zemlju; nego za nevaljalstvo tijeh naroda Gospod Bog tvoj tjera ih ispred tebe, i da održi rijeè za koju se zakleo ocima tvojim, Avramu, Isaku i Jakovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Znaj dakle da ti Gospod Bog tvoj ne daje te dobre zemlje za pravdu tvoju da je naslijediš, jer si tvrdovrat narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Pamti i ne zaboravi kako si gnjevio Gospoda Boga svojega u pustinji; od onoga dana kad izidoste iz zemlje Misirske pa dokle doðoste na ovo mjesto, nepokorni bijaste Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I kod Horiva razgnjeviste Gospoda, i od gnjeva šæaše vas Gospod da istrijebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Kad izidoh na goru da primim ploèe kamene, ploèe zavjeta, koji s vama uèini Gospod, tada stajah na gori èetrdeset dana i èetrdeset noæi hljeba ne jeduæi ni vode pijuæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I dade mi Gospod dvije ploèe kamene, ispisane prstom Gospodnjim, na kojima bijahu rijeèi sve koje vam izgovori Gospod na gori isred ognja na dan zbora vašega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Poslije èetrdeset dana i èetrdeset noæi dade mi Gospod dvije ploèe kamene, ploèe zavjetne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I reèe mi Gospod: ustani, siði brže odavde; jer se pokvari narod tvoj koji si izveo iz Misira, siðoše brzo s puta koji im zapovjedih, i naèiniše sebi liven lik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Još mi reèe Gospod govoreæi: pogledah ovaj narod, i eto je narod tvrda vrata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Pusti me da ih istrijebim i ime njihovo zatrem pod nebom; a od tebe æu uèiniti narod jaèi i veæi nego što je ovaj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I ja se vratih i siðoh s gore, a gora ognjem goraše, i dvije ploèe zavjetne bijahu mi u ruku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I pogledah, a to zgriješiste Gospodu Bogu svojemu salivši sebi tele, i brzo siðoste s puta koji vam bješe zapovjedio Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tada uzeh one dvije ploèe i bacih ih iz ruku svojih, i razbih ih pred vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Potom padoh i ležah pred Gospodom kao prije, èetrdeset dana i èetrdeset noæi, hljeba ne jeduæi ni vode pijuæi, radi svijeh grijeha vaših, kojima se ogriješiste uèinivši što je zlo pred Gospodom i razgnjevivši ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer se bojah gnjeva i jarosti, kojom se bješe Gospod razljutio na vas da vas istrijebi; i usliši me Gospod i tada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Bješe se Gospod i na Arona razgnjevio veoma da ga šæaše ubiti; ali se molih tada i za Arona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I uzeh grijeh vaš koji uèiniste, tele, i sažegoh ga ognjem, i razbih ga i satrh ga u prah, i prosuh prah njegov u potok, koji teèe s one gore."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I u Taveri i u Masi i u Kivrot-Atavi gnjeviste Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I kad vas posla Gospod iz Kadis-Varnije govoreæi: idite i uzmite tu zemlju koju sam vam dao, opet se suprotiste rijeèi Gospoda Boga svojega, i ne vjerovaste mu i ne poslušaste glasa njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Nepokorni bijaste Gospodu otkad vas poznah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Zato padoh i ležah pred Gospodom èetrdeset dana i èetrdeset noæi, jer bješe rekao Gospod da æe vas potrti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I molih se Gospodu i rekoh: Gospode, Gospode! nemoj potrti naroda svojega i našljedstva svojega, koje si izbavio velièanstvom svojim, koje si izveo iz Misira krjepkom rukom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Opomeni se sluga svojih Avrama, Isaka i Jakova, ne gledaj na tvrðu naroda ovoga, na nevaljalstvo njegovo i na grijehe njegove;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Da ne reku koji žive u zemlji odakle si nas izveo: nije ih mogao Gospod uvesti u zemlju koju im obeæa, ili mrzio je na njih, zato ih izvede da ih pobije u pustinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Jer su tvoj narod i tvoje našljedstvo, koje si izveo silom svojom velikom i mišicom svojom podignutom."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DEU/9.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 9
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DEU/10.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 10
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DEU/8.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 8
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

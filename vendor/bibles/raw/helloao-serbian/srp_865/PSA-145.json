@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 145,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Uzvišivaæu te, Bože moj, care moj, blagosiljaæu ime tvoje od vijeka do vijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Svaki æu te dan blagosiljati, i hvaliæu ime tvoje dovijeka i bez prestanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Velik je Gospod, i valja ga slaviti, i velièanstvo njegovo ne može se dosegnuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Od koljena do koljena hvaliæe djela tvoja, i silu tvoju kazivati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "O visokoj slavi tvojega velièanstva, i o divnim djelima tvojim razmišljam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Pripovijedaæe silu èudesa tvojih, i ja æu velièanstvo tvoje kazivati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Hvaliæe veliku dobrotu tvoju i pravdu tvoju pjevaæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Podatljiv je i milosrdan Gospod, dugo trpi i velike je milosti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Dobar je Gospod prema svima, i žalostiv na sva djela svoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Neka te slave, Gospode, sva djela tvoja, i sveci tvoji neka te blagosiljaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Neka kazuju slavu carstva tvojega, i silu tvoju pripovijedaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Da bi javili sinovima ljudskim silu tvoju, i visoku slavu carstva tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Carstvo je tvoje carstvo svijeh vijekova, i vlada tvoja na sva koljena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Gospod prihvata sve koji padaju, i ispravlja sve pognute."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Oèi su svijeh k tebi upravljene, i ti im daješ hranu na vrijeme;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Otvoraš ruku svoju, i sitiš svašta živo po želji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Pravedan je Gospod u svijem putovima svojim, i svet u svijem djelima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Gospod je blizu svijeh koji ga prizivaju, svijeh, koji ga prizivaju u istini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Želju ispunja onima koji ga se boje, tužnjavu njihovu èuje, i pomaže im."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Èuva Gospod sve koji ga ljube, a bezbožnike sve æe istrijebiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Hvalu Gospodu neka govore usta moja, i neka blagosilja svako tijelo sveto ime njegovo uvijek i bez prestanka."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/145.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 145
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/146.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 146
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/144.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 144
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

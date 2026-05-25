@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 30,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I treæi dan doðe David sa svojim ljudima u Siklag, a Amalici bijahu udarili na južnu stranu i na Siklag, i razvalili Siklag i ognjem ga spalili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I bjehu zarobili ženskinje koje bješe ondje, i malo i veliko; ali ne bjehu ubili nikoga, nego ih bjehu odveli i otišli svojim putem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I kad David doðe sa svojim ljudima u grad, a to grad spaljen ognjem, i žene njihove i sinovi i kæeri njihove zarobljene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I podiže David i narod koji bijaše s njim glas svoj, i plakaše dokle veæ ne mogoše plakati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I obje žene Davidove zarobiše se, Ahinoama iz Jezraela i Avigeja iz Karmila žena Navalova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I David bješe na muci velikoj, jer narod govoraše da ga zaspu kamenjem; jer žalostan bješe sav narod, svaki za sinovima svojim i za kæerima svojim; ali se David ohrabri u Gospodu Bogu svojem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I reèe David Avijataru svešteniku sinu Ahimelehovu: uzmi opleæak za me. I uze Avijatar opleæak za Davida."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I upita David Gospoda govoreæi: hoæu li potjerati tu èetu? hoæu li je stignuti? A Gospod mu reèe: potjeraj, jer æeš zacijelo stignuti i izbaviæeš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I poðe David sa šest stotina ljudi što bijahu s njim, i doðoše do potoka Vosora; i ondje ostaše jedni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A David sa èetiri stotine ljudi potjera dalje, a dvjesta ljudi osta, koji sustaše te ne mogoše prijeæi preko potoka Vosora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I naðoše jednoga Misirca u polju, i dovedoše ga k Davidu, i dadoše mu hljeba da jede i vode da pije,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I dadoše mu grudu smokava i dva grozda suha. I pojedavši oporavi se, jer tri dana i tri noæi ne bješe ništa jeo niti vode pio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada mu reèe David: èiji si ti? i odakle si? A on reèe: ja sam rodom Misirac, sluga jednoga Amalika, a gospodar me ostavi, jer se razboljeh prije tri dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Udarismo na južnu stranu Heretejsku i na Judinu i na južnu stranu Halevovu, i Siklag spalismo ognjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A David mu reèe: bi li me mogao odvesti k toj èeti? A on reèe: zakuni mi se Bogom da me neæeš pogubiti ni izdati u ruke mojemu gospodaru, pa æu te odvesti k toj èeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I odvede ga; i gle, oni se bijahu raširili po svoj zemlji onoj jeduæi i pijuæi i veseleæi se velikim plijenom koji zaplijeniše iz zemlje Filistejske i iz zemlje Judine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I David ih bi od veèera do veèera drugoga dana, te niko ne uteèe, osim èetiri stotine mladiæa, koji sjedavši na kamile pobjegoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I tako izbavi David sve što bijahu uzeli Amalici, i obje žene svoje izbavi David."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I ništa ne izgubiše, ni malo ni veliko, ni sinove ni kæeri, ni što od plijena i od svega što im bijahu uzeli; sve povrati David."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Takoðer uze David i ostale sve ovce i volove, koje goneæi pred svojom stokom govorahu: ovo je plijen Davidov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I kad se vrati David k onijem dvjesta ljudi koji bjehu sustali te ne mogoše iæi za Davidom, i koje ostavi na potoku Vosoru, izidoše na susret Davidu i narodu koji bijaše s njim. I David pristupivši k narodu pozdravi ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Tada progovoriše svi zli i nevaljali ljudi izmeðu onijeh koji su išli s Davidom, i rekoše: što nijesu išli s nama, zato da im ne damo od plijena koji izbavismo, nego svaki ženu svoju i sinove svoje neka uzmu, pa nek idu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ali David reèe: nemojte tako èiniti, braæo moja, s onijem što nam je dao Gospod koji nas je saèuvao i dao nam u ruke èetu koja bješe izašla na nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I ko æe vas poslušati u tome? jer kakav je dio onome koji ide u boj taki je i onome koji ostane kod prtljaga; jednako treba da podijele."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Tako bi od toga dana unapredak, i to posta uredba i zakon u Izrailju do danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I kad doðe David u Siklag, posla od plijena starješinama Judinijem, prijateljima svojim, govoreæi: evo vam dar od plijena neprijatelja Gospodnjih;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Onima u Vetilju, i onima u Ramotu na jugu, i onima u Jatiru,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I onima u Aroiru, i onima u Sifmotu, i onima u Estemoji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I onima u Rahalu, i onima u gradovima Jerameilskim, i onima u gradovima Kenejskim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I onima u Ormi, i onima u Hor-Asanu, i onima u Atahu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I onima u Hevronu i po svijem mjestima u koja je dolazio David s ljudima svojim."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/30.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 30
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/31.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 31
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/29.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 29
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

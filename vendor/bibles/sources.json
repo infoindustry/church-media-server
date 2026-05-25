@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "id": "ru_synodal_rst",
+      "language": "ru",
+      "name": "Russian Synodal Translation / Синодальный перевод",
+      "repository": "https://github.com/bibleonline/rst",
+      "recommendedPath": "parsed66 or usfm",
+      "licenseNote": "Public Domain according to repository README"
+    },
+    {
+      "id": "en_kjv",
+      "language": "en",
+      "name": "King James Version",
+      "repository": "https://github.com/farskipper/kjv",
+      "recommendedPath": "json/verses-1769.json",
+      "licenseNote": "Public Domain / Unlicense according to repository README"
+    }
+  ]
+}

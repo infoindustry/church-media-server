@@ -1,0 +1,349 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "srp_865",
+    "name": "Mateju",
+    "commonName": "Mateju",
+    "title": "Jevanðelje po Mateju",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "2282cb47d4ecce5bfb50178a05f4b87b8f4e94d2e2954aa2bd38500539980051",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/MAT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 23,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada Isus reèe k narodu i uèenicima svojima"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Govoreæi: na Mojsijevu stolicu sjedoše književnici i fariseji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Sve dakle što vam reku da držite, držite i tvorite; ali što oni èine ne èinite; jer govore a ne èine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Nego vežu bremena teška i nezgodna za nošenje, i tovare na pleæa ljudska; a prstom svojijem neæe da ih prihvate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A sva djela svoja èine da ih vide ljudi: raširuju svoje amajlije, i grade velike skute na haljinama svojima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I traže zaèelje na gozbama i prva mjesta po zbornicama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I da im se klanja po ulicama, i da ih ljudi zovu: ravi! ravi!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A vi se ne zovite ravi; jer je u vas jedan ravi Hristos, a vi ste svi braæa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I ocem ne zovite nikoga na zemlji; jer je u vas jedan otac koji je na nebesima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Niti se zovite uèitelji; jer je u vas jedan uèitelj Hristos."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A najveæi izmeðu vas da vam bude sluga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer koji se podiže, poniziæe se, a koji se ponižuje, podignuæe se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Teško vama književnici i fariseji, licemjeri, što zatvorate carstvo nebesko od ljudi; jer vi ne ulazite niti date da ulaze koji bi htjeli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Teško vama književnici i fariseji, licemjeri, što jedete kuæe udovièke, i lažno se Bogu molite dugo; zato æete veæma biti osuðeni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Teško vama književnici i fariseji, licemjeri, što prehodite more i zemlju da bi prisvojili jednoga, i kad ga prisvojite, èinite ga sinom paklenijem udvoje veæijem od sebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Teško vama voði slijepi koji govorite: ako se ko kune crkvom ništa je; a ko se kune zlatom crkvenijem kriv je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Budale slijepe! šta je veæe, ili zlato, ili crkva koja zlato osveti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I ako se ko kune oltarom ništa je to, a koji se kune darom koji je na njemu kriv je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Budale slijepe! šta je veæe, ili dar, ili oltar koji dar osveti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Koji se dakle kune oltarom, kune se njim i svijem što je na njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I koji se kune crkvom, kune se njom i onijem koji živi u njoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I koji se kune nebom, kune se prijestolom Božijem i onijem koji sjedi na njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Teško vama književnici i fariseji, licemjeri, što dajete desetak od metvice i od kopra i od kima, a ostaviste što je najpretežnije u zakonu: pravdu i milost i vjeru; a ovo je trebalo èiniti i ono ne ostavljati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Voði slijepi koji ocjeðujete komarca a kamilu proždirete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Teško vama književnici i fariseji, licemjeri, što èistite spolja èašu i zdjelu a iznutra su pune grabeža i nepravde."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Fariseju slijepi! Oèisti najprije iznutra èašu i zdjelu da budu i spolja èiste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Teško vama književnici i fariseji, licemjeri, što ste kao okreèeni grobovi, koji se spolja vide lijepi a unutra su puni kostiju mrtvaèkijeh i svake neèistote."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Tako i vi spolja se pokazujete ljudima pravedni, a iznutra ste puni licemjerja i bezakonja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Teško vama književnici i fariseji, licemjeri, što zidate grobove prorocima i krasite rake pravednika,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I govorite: da smo mi bili u vrijeme svojijeh otaca, ne bismo s njima pristali u krv proroka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Tijem samo svjedoèite za sebe da ste sinovi onijeh koji su pobili proroke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I vi dopunite mjeru otaca svojijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Zmije, porodi aspidini! kako æete pobjeæi od presude u oganj pakleni?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Zato evo ja æu k vama poslati proroke i premudre i književnike; i vi æete jedne pobiti i raspeti, a jedne biti po zbornicama svojima i goniti od grada do grada,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Da doðe na vas sva krv pravedna što je prolivena na zemlji od krvi Avelja pravednoga do krvi Zarije sina Varahijna, kojega ubiste meðu crkvom i oltarom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Zaista vam kažem da æe ovo sve doæi na rod ovaj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Jerusalime, Jerusalime, koji ubijaš proroke i zasipaš kamenjem poslane k sebi! koliko puta htjeh da skupim èeda tvoja, kao što kokoš skuplja piliæe svoje pod krila, i ne htjeste!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Eto æe vam se ostaviti vaša kuæa pusta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Jer vam kažem: neæete mene vidjeti otsele dok ne reèete: blagosloven koji ide u ime Gospodnje."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAT/23.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 23
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/24.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 24
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAT/22.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 22
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 39
+}

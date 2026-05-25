@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad se ljudi poèeše množiti na zemlji, i kæeri im se narodiše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Videæi sinovi Božji kæeri èovjeèije kako su lijepe uzimaše ih za žene koje htješe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Gospod reèe: neæe se duh moj dovijeka preti s ljudima, jer su tijelo; neka im još sto i dvadeset godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A bijaše tada divova na zemlji; a i poslije, kad se sinovi Božji sastajahu sa kæerima èovjeèijim, pa im one raðahu sinove; to bijahu silni ljudi, od starine na glasu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I Gospod videæi da je nevaljalstvo ljudsko veliko na zemlji, i da su sve misli srca njihova svagda samo zle,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Pokaja se Gospod što je stvorio èovjeka na zemlji, i bi mu žao u srcu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I reèe Gospod: hoæu da istrijebim sa zemlje ljude, koje sam stvorio, od èovjeka do stoke i do sitne životinje i do ptica nebeskih; jer se kajem što sam ih stvorio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ali Noje naðe milost pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ovo su dogaðaji Nojevi: Noje bješe èovjek pravedan i bezazlen svojega vijeka; po volji Božjoj svagda življaše Noje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I rodi Noje tri sina: Sima, Hama i Jafeta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A zemlja se pokvari pred Bogom, i napuni se zemlja bezakonja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I pogleda Bog na zemlju, a ona bješe pokvarena; jer svako tijelo pokvari put svoj na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I reèe Bog Noju: kraj svakome tijelu doðe preda me, jer napuniše zemlju bezakonja; i evo hoæu da ih zatrem sa zemljom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Naèini sebi kovèeg od drveta gofera, i naèini pregratke u kovèegu; i zatopi ga smolom iznutra i spolja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I naèini ga ovako: u dužinu neka bude trista lakata, u širinu pedeset lakata, i u visinu trideset lakata;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Pusti dosta svjetlosti u kovèeg; i krov mu svedi ozgo od lakta; i udari vrata kovèegu sa strane; i naèini ga na tri boja: donji, drugi i treæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer evo pustiæu potop na zemlju, da istrijebim svako tijelo, u kojem ima živa duša pod nebom; što je god na zemlji sve æe izginuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ali æu s tobom uèiniti zavjet svoj: i uæi æeš u kovèeg ti i sinovi tvoji i žena tvoja i žene sinova tvojih s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I od svega živa, od svakoga tijela, uzeæeš u kovèeg po dvoje, da saèuvaš u životu sa sobom, a muško i žensko neka bude."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Od ptica po vrstama njihovijem, od stoke po vrstama njezinijem, i od svega što se mièe na zemlji po vrstama njegovijem, od svega po dvoje neka uðe s tobom, da ih saèuvaš u životu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I uzmi sa sobom svega što se jede, i èuvaj kod sebe, da bude hrane tebi i njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I Noje uèini, kako mu zapovjedi Bog, sve onako uèini."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

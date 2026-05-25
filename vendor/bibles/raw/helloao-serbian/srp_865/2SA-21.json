@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2SA",
+    "translationId": "srp_865",
+    "name": "2. Samuelova",
+    "commonName": "2. Samuelova",
+    "title": "2. Samuelova",
+    "order": 10,
+    "numberOfChapters": 24,
+    "sha256": "e9bcfc863ad7bd2a939eb305126ad735f393202a88f773ac55550249ed219529",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/2SA/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 695
+  },
+  "chapter": {
+    "number": 21,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I bi glad za vremena Davidova tri godine zasopce. I David potraži lice Gospodnje; a Gospod mu reèe: to je sa Saula i s doma njegova krvnièkoga, što pogubi Gavaonjane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Tada car sazva Gavaonjane i govori im. A Gavaonjani ne bjehu od sinova Izrailjevijeh, nego ostatak od Amoreja, kojima se bjehu zakleli sinovi Izrailjevi, ali Saul gledaše da ih pobije revnujuæi za sinove Izrailjeve i Judine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reèe David Gavaonjanima: šta da vam uèinim i èim da vas namirim, da blagoslovite dostojanje Gospodnje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A Gavaonjani mu rekoše: ne tražimo ni srebra ni zlata od Saula ili od doma njegova, niti da se ko pogubi u Izrailju. A on reèe: šta dakle velite da vam uèinim?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tada rekoše caru: ko nas je potro i radio da nas istrijebi, da nas ne bude nigdje u meðama Izrailjevijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Od njegovijeh sinova neka nam se da sedam ljudi da ih objesimo Gospodu u Gavaji Saula izbranika Gospodnjega. I reèe car: ja æu dati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ali car poštjede Mefivosteja sina Jonatana sina Saulova radi zakletve Gospodnje, koja bi meðu njima, meðu Davidom i Jonatanom sinom Saulovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I uze car dva sina Resfe kæeri Ajine, koje rodi Saulu, Armonija i Mefivosteja, i pet sinova Mihale kæeri Saulove, koje rodi Adrilu sinu Varzelaja Meolaæanina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I dade ih u ruke Gavaonjanima, a oni ih objesiše na gori pred Gospodom; i sva sedmorica pogiboše zajedno; a biše ubijeni prvijeh dana žetve, u poèetku jeèmene žetve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Resfa kæi Ajina uze vreæu, i prostrije po stijeni u poèetku žetve dokle ne pade na njih dažd s neba, i ne dadijaše pticama nebeskim da padaju na njih danju ni zvjerima poljskim noæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I javiše Davidu šta uèini Resfa kæi Ajina, inoèa Saulova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I David otide te uze kosti Saulove i kosti Jonatana sina njegova od graðana u Javisu Galadovu, koji ih bijahu ukrali s ulice Vet-Sanske, gdje ih objesiše Filisteji kad ubiše Filisteji Saula na Gelvuji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I odnese odande kosti Saulove i kosti Jonatana sina njegova, pa skupiše i kosti obješenijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I pogreboše ih s kostima Saulovijem i Jonatana sina njegova u zemlji Venijaminovoj u Sili u grobu Kisa oca njegova, i uèiniše sve kako zapovjedi car. Tako se poslije toga umilostivi Gospod zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I nasta opet rat izmeðu Filisteja i Izrailja, i David otide sa slugama svojim, i biše se s Filistejima tako da David susta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tada Jesvi-Venov, koji bješe od sinova Rafajevijeh, i u koplju mu bješe trista sikala mjedi, i imaše novo oružje, šæaše da ubije Davida."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ali mu pomože Avisaj sin Serujin, i udari Filistejina i ubi ga. Tada se zakleše ljudi Davidovi rekavši mu: neæeš više iæi s nama u boj da ne ugasiš vidjela Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Poslije toga nasta opet rat s Filistejima u Govu; i tada Sivehaj Husaæanin ubi Safa, koji bijaše od sinova Rafajevih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I opet nasta drugi rat u Govu s Filistejima; i tada Elhanan sin Jare-Oregimov Vitlejemac ubi brata Golijata Getejina, kojemu kopljaèa bješe kao vratilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I opet nasta rat u Gatu, gdje bijaše jedan èovjek vrlo visok, koji imaše po šest prsta na rukama i na nogama, svega dvadeset i èetiri, i on bijaše takoðer roda Rafajeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I ružaše Izrailja, te ga ubi Jonatan sin Same brata Davidova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ta èetvorica bijahu sinovi istoga Rafaja iz Gata, i pogiboše od ruke Davidove i od ruke sluga njegovijeh."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2SA/21.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 21
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2SA/22.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 22
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2SA/20.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 20
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

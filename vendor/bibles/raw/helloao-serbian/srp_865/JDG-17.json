@@ -1,0 +1,167 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JDG",
+    "translationId": "srp_865",
+    "name": "Sudije",
+    "commonName": "Sudije",
+    "title": "Sudije",
+    "order": 7,
+    "numberOfChapters": 21,
+    "sha256": "b90b96d9ad07648b61c3175adb672cbdc04a1a389be225dc4596659462d0e4db",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JDG/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JDG/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 618
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A bijaše jedan èovjek iz gore Jefremove po imenu Miha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "On reèe materi svojoj: tisuæa i sto srebrnika, što su ti ukradeni, za koje si klela i govorila preda mnom, evo, to je srebro u mene, ja sam ga uzeo. A mati mu reèe: Gospod da te blagoslovi, sine!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A kad vrati tisuæu i sto srebrnika materi svojoj, reèe mati njegova: to sam srebro posvetila Gospodu iz svoje ruke za tebe, sine moj, da se naèini od njega lik rezan i liven; zato ti ga sada dajem natrag."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ali on opet dade srebro materi svojoj, a mati uze dvjesta srebrnika i dade zlataru, a on naèini od njega lik rezan i liven, te bijaše u kuæi Mišinoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I taj Miha imaše kuæu za bogove, i naèini opleæak i likove, i posveti jednoga izmeðu sinova svojih da mu bude sveštenik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "U to vrijeme ne bješe cara u Izrailju: svaki èinjaše što mu bijaše drago."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A bješe jedan mladiæ iz Vitlejema Judina, od porodice Judine, koji bješe Levit i ondje boravljaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "On otide iz toga grada, Vitlejema Judina, da se nastani gdje može; i iduæi svojim putem doðe u goru Jefremovu do kuæe Mišine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Miha mu reèe: otkuda ideš? Odgovori mu Levit: iz Vitlejema Judina, idem da se nastanim gdje mogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Miha mu reèe: ostani kod mene, i budi mi otac i sveštenik, a ja æu ti dati deset srebrnika na godinu i dvoje haljine i hranu. I otide Levit k njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I Levitu bi po volji da ostane kod njega, i bi mu taj mladiæ kao da mu je sin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I Miha posveti Levita da mu je sveštenik taj mladiæ, i osta u kuæi Mišinoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada reèe Miha: sada znam da æe mi Gospod uèiniti dobro zato što imam Levita sveštenika."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JDG/17.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 17
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JDG/18.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 18
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JDG/16.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 16
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 13
+}

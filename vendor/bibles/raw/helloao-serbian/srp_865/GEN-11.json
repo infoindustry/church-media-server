@@ -1,0 +1,300 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A bijaše na cijeloj zemlji jedan jezik i jednake rijeèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A kad otidoše od istoka, naðoše ravnicu u zemlji Senarskoj, i naseliše se ondje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Pa rekoše meðu sobom: hajde da pravimo ploèe i da ih u vatri peèemo. I bjehu im opeke mjesto kamena i smola zemljana mjesto kreèa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Poslije rekoše: hajde da sazidamo grad i kulu, kojoj æe vrh biti do neba, da steèemo sebi ime, da se ne bismo rasijali po zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A Gospod siðe da vidi grad i kulu, što zidahu sinovi èovjeèiji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I reèe Gospod: gle, narod jedan, i jedan jezik u svijeh, i to poèeše raditi, i neæe im smetati ništa da ne urade što su naumili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Hajde da siðemo, i da im pometemo jezik, da ne razumiju jedan drugoga što govore."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tako ih Gospod rasu odande po svoj zemlji, te ne sazidaše grada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Zato se prozva Vavilon, jer ondje pomete Gospod jezik cijele zemlje, i odande ih rasu Gospod po svoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ovo je pleme Simovo: bijaše Simu sto godina, kad rodi Arfaksada, druge godine poslije potopa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A rodiv Arfaksada poživje Sim pet stotina godina, raðajuæi sinove i kæeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A Arfaksad poživje trideset i pet godina, i rodi Salu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A rodiv Salu poživje Arfaksad èetiri stotine i tri godine, raðajuæi sinove i kæeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Sala poživje trideset godina, i rodi Evera;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A rodiv Evera poživje Sala èetiri stotine i tri godine, raðajuæi sinove i kæeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Ever poživje trideset i èetiri godine, i rodi Faleka;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A rodiv Faleka poživje Ever èetiri stotine i trideset godina, raðajuæi sinove i kæeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A Falek poživje trideset godina i rodi Ragava;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A rodiv Ragava poživje Falek dvjesta i devet godina, raðajuæi sinove i kæeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Ragav poživje trideset i dvije godine i rodi Seruha;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A rodiv Seruha poživje Ragav dvjesta i sedam godina, raðajuæi sinove i kæeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A Seruh poživje trideset godina, i rodi Nahora;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A rodiv Nahora poživje Seruh dvjesta godina, raðajuæi sinove i kæeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A Nahor poživje dvadeset i devet godina, i rodi Taru;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A rodiv Taru poživje Nahor sto i devetnaest godina, raðajuæi sinove i kæeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A Tara poživje sedamdeset godina, i rodi Avrama, Nahora i Arana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A ovo je pleme Tarino: Tara rodi Avrama, Nahora i Arana; a Aran rodi Lota."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I umrije Aran prije Tare oca svojega na postojbini svojoj, u Uru Haldejskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I oženi se Avram i Nahor, i ženi Avramovoj bješe ime Sara a ženi Nahorovoj ime Melha, kæi Arama oca Melhe i Jeshe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A Sara bješe nerotkinja, i ne imaše poroda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I uze Tara sina svojega Avrama i Lota sina Aranova, unuka svojega, i Saru snahu svoju, ženu Avrama sina svojega; i poðoše zajedno iz Ura Haldejskoga da idu u zemlju Hanansku, i doðoše do Harana, i ondje se nastaniše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I poživje Tara svega dvjesta i pet godina; i umrije Tara u Haranu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 32
+}

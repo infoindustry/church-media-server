@@ -1,0 +1,370 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JHN",
+    "translationId": "srp_865",
+    "name": "Jovanu",
+    "commonName": "Jovanu",
+    "title": "Jevanðelje po Jovanu",
+    "order": 43,
+    "numberOfChapters": 21,
+    "sha256": "b0467ac7d5635aaff73b88f7076ca219a8a790ad4b0c4ba876a7716c71658f8f",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JHN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JHN/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 879
+  },
+  "chapter": {
+    "number": 19,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada dakle Pilat uze Isusa i šiba ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I vojnici spletavši vijenac od trnja metnuše mu na glavu, i obukoše mu skerletnu haljinu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I govorahu: zdravo, care Judejski! i bijahu ga po obrazima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Onda Pilat iziðe opet napolje, i reèe im: evo ga izvodim k vama napolje, da vidite da na njemu ne nalazim nikakve krivice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A Isus iziðe napolje pod vijencem od trnja i u skerletnoj haljini. I reèe im Pilat: evo èovjeka!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A kad ga vidješe glavari sveštenièki i momci, povikaše govoreæi: raspni ga, raspni. Pilat im reèe: uzmite ga vi i raspnite, jer ja ne nalazim na njemu krivice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Odgovoriše mu Jevreji: mi imamo zakon i po zakonu našemu valja da umre, jer naèini sebe sinom Božijim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Kad dakle Pilat èu ovu rijeè, poboja se veæma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I opet uðe u sudnicu, i reèe Isusu: odakle si ti? A Isus mu ne dade odgovora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Pilat mu reèe: zar meni ne govoriš? ne znaš li da imam vlast raspeti te, i vlast imam pustiti te?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Isus odgovori: ne bi imao vlasti nikakve nada mnom kad ti ne bi bilo dano odozgo; zato onaj ima veæi grijeh koji me predade tebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Od tada gledaše Pilat da ga pusti. Ali Jevreji vikahu govoreæi: ako ovoga pustiš nijesi prijatelj æesaru. Svaki koji sebe carem gradi protivi se æesaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Pilat dakle èuvši ovu rijeè izvede Isusa napolje, i sjede na sudijnsku stolicu na mjestu koje se zove kaldrma a Jevrejski Gavata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A bješe petak uoèi pashe oko šestoga sahata; i Pilat reèe Jevrejima: evo car vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A oni vikahu: uzmi, uzmi, raspni ga. Pilat im reèe: zar cara vašega da razapnem? Odgovoriše glavari sveštenièki: mi nemamo cara osim æesara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tada im ga dakle predade da se razapne. A oni uzeše Isusa i odvedoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I noseæi krst svoj iziðe na mjesto koje se zove košturnica a Jevrejski Golgota."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ondje ga razapeše, i s njim drugu dvojicu s jedne i s druge strane, a Isusa u srijedi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Pilat pak napisa i natpis i metnu na krst; i bješe napisano: Isus Nazareæanin car Judejski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I onaj natpis èitaše mnogi od Jevreja; jer mjesto bješe blizu grada gdje razapeše Isusa; i bješe napisano Jevrejski, Grèki, Latinski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A Jevrejski glavari sveštenièki govorahu Pilatu: ne piši: car Judejski, nego da sam reèe: ja sam car Judejski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Pilat odgovori: što pisah pisah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A vojnici kad razapeše Isusa uzeše njegove haljine i naèiniše èetiri dijela, svakome vojniku po dijel, i dolamu; a dolama ne bješe šivena nego izatkana sva s vrha do dna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Onda rekoše meðu sobom: da je ne deremo, nego da bacimo kocke za nju kome æe dopasti. Da se zbude pismo koje govori: razdijeliše haljine moje meðu sobom, i za dolamu moju baciše kocke. Vojnici dakle tako uèiniše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A stajahu kod krsta Isusova mati njegova, i sestra matere njegove Marija Kleopova, i Marija Magdalina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A Isus vidjevši mater i uèenika koga ljubljaše gdje stoji reèe materi svojoj: ženo! eto ti sina!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Potom reèe uèeniku: eto ti matere! I od onoga èasa uze je uèenik k sebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Potom znajuæi Isus da se veæ sve svrši, da se zbude pismo reèe: žedan sam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ondje stajaše sud pun octa; a oni napuniše sunðer octa, i nataknuvši na trsku, prinesoše k ustima njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A kad primi Isus ocat reèe: svrši se. I preklonivši glavu predade duh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A buduæi da bješe petak, pa da ne bi tijela ostala na krstu u subotu jer bijaše veliki dan ona subota Jevreji moliše Pilata da im prebiju golijeni pa da ih skinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Onda doðoše vojnici, i prvome dakle prebiše golijeni i drugome raspetome s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A došavši na Isusa, kad ga vidješe da je veæ umro, ne prebiše mu golijeni;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Nego jedan od vojnika probode mu rebra kopljem; i odmah iziðe krv i voda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I onaj što vidje posvjedoèi, i svjedoèanstvo je njegovo istinito; i on zna da istinu govori da vi vjerujete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Jer se ovo dogodi da se zbude pismo: kost njegova da se ne prelomi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I opet drugo pismo govori: pogledaæe onoga koga probodoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A potom Josif iz Arimateje, koji bješe uèenik Isusov ali kradom od straha Jevrejskoga, moli Pilata da uzme tijelo Isusovo, i dopusti Pilat. Onda doðe i uze tijelo Isusovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A doðe i Nikodim, koji prije dolazi k Isusu noæu, i donese pomiješane smirne i aloja oko sto litara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I uzeše tijelo Isusovo, i obaviše ga platnom s mirisima, kao što je obièaj u Jevreja da ukopavaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A bijaše blizu onoga mjesta gdje bješe razapet, vrt, i u vrtu grob nov, u koji niko nikad ne bješe metnut."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Ondje dakle petka radi Jevrejskoga, jer bješe blizu grob, metnuše Isusa."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JHN/19.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 19
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JHN/20.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 20
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JHN/18.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 18
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 42
+}

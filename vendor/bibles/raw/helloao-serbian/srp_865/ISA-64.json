@@ -1,0 +1,160 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 64,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "O da bi razdro nebesa i sišao, da se rastope gore od tebe,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kao što se na ognju razgori granje i voda uzavri od ognja, da ime tvoje poznadu neprijatelji tvoji i da narodi drkæu od tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Kad si èinio strahote kojima se ne nadasmo, ti si slazio, i gore se rastapahu od tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Otkako je vijeka ne èu se, niti se ušima dozna, niti oko vidje Boga osim tebe da bi tako uèinio onima koji ga èekaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Sretao si onoga koji se raduje tvoreæi pravdu; pominju te na putovima tvojim; gle, ti si se razgnjevio što griješismo; da na njima jednako ostasmo, bismo se spasli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ali svi bijasmo kao neèisto što, i sva naša pravda kao neèista haljina; zato opadosmo svi kao list, i bezakonja naša kao vjetar odnesoše nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nikoga ne bi da priziva ime tvoje, da ustane da se tebe drži, jer si sakrio lice svoje od nas i rastopio si nas bezakonjem našim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ali sada, Gospode, ti si naš otac; mi smo kao, a ti si naš lonèar, i svi smo djelo ruku tvojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Gospode, ne gnjevi se veoma, i ne pominji dovijeka bezakonja; evo, pogledaj; mi smo svi tvoj narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Gradovi svetosti tvoje opustješe; Sion opustje, Jerusalim posta pustoš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Dom naše svetinje i naše krasote, u kom te slaviše oci naši, izgorje ognjem, i sve što nam bješe drago potrveno je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Hoæeš li se na to uzdržati, Gospode, i muèati, i jednako nas muèiti?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/64.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 64
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/65.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 65
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/63.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 63
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 12
+}

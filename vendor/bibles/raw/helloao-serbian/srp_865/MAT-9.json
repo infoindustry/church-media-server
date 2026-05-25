@@ -1,0 +1,342 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "srp_865",
+    "name": "Mateju",
+    "commonName": "Mateju",
+    "title": "Jevanðelje po Mateju",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "2282cb47d4ecce5bfb50178a05f4b87b8f4e94d2e2954aa2bd38500539980051",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/MAT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I ušavši u laðu prijeðe i doðe u svoj grad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I gle, donesoše mu uzeta koji ležaše na odru. I vidjevši Isus vjeru njihovu reèe uzetome: ne boj se, sinko, opraštaju ti se grijesi tvoji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I gle, neki od književnika rekoše u sebi: ovaj huli na Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I videæi Isus pomisli njihove reèe: zašto zlo mislite u srcima svojijem?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer šta je lakše reæi: opraštaju ti se grijesi; ili reæi: ustani i hodi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ali da znate da vlast ima sin èovjeèij na zemlji opraštati grijehe tada reèe uzetome): ustani, uzmi odar svoj i idi doma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I ustavši otide doma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A ljudi videæi èudiše se, i hvališe Boga, koji je dao vlast takovu ljudima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I odlazeæi Isus odande vidje èovjeka gdje sjedi na carini, po imenu Mateja, i reèe mu: hajde za mnom. I ustavši otide za njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I kad jeðaše u kuæi, gle, mnogi carinici i grješnici doðoše i jeðahu s Isusom i s uèenicima njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I vidjevši to fariseji govorahu uèenicima njegovijem: zašto s carinicima i grješnicima uèitelj vaš jede i pije?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A Isus èuvši to reèe im: ne trebaju zdravi ljekara nego bolesni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nego idite i nauèite se šta znaèi: milosti hoæu, a ne priloga. Jer ja nijesam došao da zovem pravednike no grješnike na pokajanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Tada pristupiše k njemu uèenici Jovanovi govoreæi: zašto mi i fariseji postimo mnogo, a uèenici tvoji ne poste?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Isus reèe im: eda li mogu svatovi plakati dok je s njima ženik? Nego æe doæi vrijeme kad æe se oteti od njih ženik, i onda æe postiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer niko ne meæe nove zakrpe na staru haljinu; jer æe zakrpa odadrijeti od haljine, i gora æe rupa biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Niti se ljeva vino novo u mjehove stare; inaèe mjehovi prodru se i vino se prolije, i mjehovi propadnu. Nego se ljeva vino novo u mjehove nove, i oboje se saèuva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Dok on tako govoraše njima, gle, knez nekakav doðe i klanjaše mu se govoreæi: kæi moja sad umrije; nego doði i metni na nju ruku svoju, i oživljeæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I ustavši Isus za njim poðe i uèenici njegovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I gle, žena koja je dvanaest godina bolovala od teèenja krvi pristupi sastrag i dohvati mu se skuta od haljine njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer govoraše u sebi: samo ako se dotaknem haljine njegove, ozdraviæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A Isus obazrevši se i vidjevši je reèe: ne boj se, kæeri; vjera tvoja pomogla ti je. I ozdravi žena od toga èasa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I došavši Isus u dom knežev i vidjevši sviraèe i ljude zabunjene"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Reèe im: otstupite, jer djevojka nije umrla, nego spava. I potsmijevahu mu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A kad istjera ljude, uðe, i uhvati je za ruku, i usta djevojka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I otide glas ovaj po svoj zemlji onoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A kad je Isus odlazio odande, za njim iðahu dva slijepca vièuæi i govoreæi: pomiluj nas, sine Davidov!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A kad doðe u kuæu, pristupiše k njemu slijepci, i reèe im Isus: vjerujete li da mogu to uèiniti? A oni mu rekoše: da, Gospode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Tada dohvati se oèiju njihovijeh govoreæi: po vjeri vašoj neka vam bude."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I otvoriše im se oèi. I zaprijeti im Isus govoreæi: gledajte da niko ne dozna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A oni izišavši razglasiše ga po svoj zemlji onoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Kad oni pak iziðu, gle, dovedoše k njemu èovjeka nijema i bijesna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I pošto izgna ðavola, progovori nijemi. I divljaše se narod govoreæi: nigda se toga nije vidjelo u Izrailju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A fariseji govorahu: pomoæu kneza ðavolskog izgoni ðavole."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I prohoðaše Isus po svijem gradovima i selima uèeæi po zbornicama njihovijem i propovijedajuæi jevanðelje o carstvu, i iscjeljujuæi svaku bolest i svaku nemoæ po ljudima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A gledajuæi ljude sažali mu se, jer bijahu smeteni i rasijani kao ovce bez pastira."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Tada reèe uèenicima svojijem: žetve je mnogo, a poslenika malo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Molite se dakle gospodaru od žetve da izvede poslenike na žetvu svoju."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAT/9.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 9
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/10.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 10
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAT/8.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 8
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 38
+}

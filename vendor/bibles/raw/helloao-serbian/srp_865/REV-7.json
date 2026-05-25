@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "REV",
+    "translationId": "srp_865",
+    "name": "Apokalipsa",
+    "commonName": "Apokalipsa",
+    "title": "Otkrivenje Jovanovo — Apokalipsa",
+    "order": 66,
+    "numberOfChapters": 22,
+    "sha256": "03ca27b48572b751a11a8d2525edcfa3d35a43f752bf5506e16685bb264b5230",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/REV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 22,
+    "lastChapterApiLink": "/api/srp_865/REV/22.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 22
+    },
+    "totalNumberOfVerses": 404
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I potom vidjeh èetiri anðela gdje stoje na èetiri ugla zemlje, i drže èetiri vjetra zemaljska, da ne duše vjetar na zemlju, ni na more, niti na ikako drvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I vidjeh drugoga anðela gdje se penje od istoka sunèanoga, koji imaše peèat Boga živoga; i povika glasom velikijem na èetiri anðela kojima bješe dano da kvare zemlju i more, govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ne kvarite ni zemlje, ni mora, ni drveta, dokle zapeèatim sluge Boga našega na èelima njihovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I èuh broj zapeèaæenijeh, sto i èetrdeset i èetiri hiljade zapeèaæenijeh od sviju koljena sinova Izrailjevijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Od koljena Judina dvanaest hiljada zapeèaæenijeh; od koljena Ruvimova dvanaest hiljada zapeèaæenijeh; od koljena Gadova dvanaest hiljada zapeèaæenijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Od koljena Asirova dvanaest hiljada zapeèaæenijeh; od koljena Neftalimova dvanaest hiljada zapeèaæenijeh; od koljena Manasijna dvanaest hiljada zapeèaæenijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Od koljena Simeunova dvanaest hiljada zapeèaæenijeh; od koljena Levijeva dvanaest hiljada zapeèaæenijeh; od koljena Isaharova dvanaest hiljada zapeèaæenijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Od koljena Zavulonova dvanaest hiljada zapeèaæenijeh; od koljena Josifova dvanaest hiljada zapeèaæenijeh; od koljena Venijaminova dvanaest hiljada zapeèaæenijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Potom vidjeh, i gle, narod mnogi, kojega ne može niko izbrojiti, od svakoga jezika i koljena i naroda i plemena, stajaše pred prijestolom i pred jagnjetom, obuèen u haljine bijele, i palme u rukama njihovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I povikaše glasom velikijem govoreæi: spasenije Bogu našemu, koji sjedi na prijestolu, i jagnjetu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I svi anðeli stajahu oko prijestola i starješine i èetiri životinje, i padoše na lice pred prijestolom, i pokloniše se Bogu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Govoreæi: amin; blagoslov i slava i premudrost i hvala i èast i sila i jaèina Bogu našemu va vijek vijeka. Amin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I odgovori jedan od starješina govoreæi mi: ovi obuèeni u bijele haljine ko su, i otkuda doðoše?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I rekoh mu: gospodaru! ti znaš. I reèe mi: ovo su koji doðoše od nevolje velike, i opraše haljine svoje i ubijeliše haljine svoje u krvi jagnjetovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zato su pred prijestolom Božijim, i služe mu dan i noæ u crkvi njegovoj; i onaj što sjedi na prijestolu useliæe se u njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Više neæe ogladnjeti ni ožednjeti, i neæe na njih pasti sunce, niti ikakva vruæina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer jagnje, koje je nasred prijestola, pašæe ih, i uputiæe ih na izvore žive vode; i Bog æe otrti svaku suzu od oèiju njihovijeh."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/REV/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/REV/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/REV/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

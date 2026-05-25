@@ -1,0 +1,202 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "srp_865",
+    "name": "2. Dnevnika",
+    "commonName": "2. Dnevnika",
+    "title": "2. Dnevnika",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "712160a45a7d7fb40ad6e8f55f27c6bc71cf3a3fca70d89afd22674733ec70a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/2CH/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad proðe dvadeset godina, u koje sazida Solomun dom Gospodnji i dom svoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Pogradi Solomun gradove, koje mu dade Hiram, i naseli onuda sinove Izrailjeve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Potom otide Solomun na Emat Sovski, i osvoji ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I sazida Tadmor u pustinji i sve gradove za žitnice sazida u Ematu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Sazida i Vet-Oron gornji i Vet-Oron donji, tvrde gradove, sa zidovima, vratima i prijevornicama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I Valat i sve gradove u kojima Solomun imaše žitnice, i gradove u kojima mu bijahu kola, i gradove u kojima bijahu konjici, i što god Solomunu bi volja zidati u Jerusalimu i na Livanu i u svoj zemlji carstva svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I sav narod što bješe ostao od Heteja i od Amoreja i od Ferezeja i od Jeveja i od Jevuseja, koji ne bijahu od Izrailja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Od sinova njihovijeh koji bjehu ostali iza njih u zemlji, kojih ne potrše sinovi Izrailjevi, njih nagna Solomun da plaæaju danak do današnjega dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A od sinova Izrailjevijeh, kojih ne uèini Solomun robovima za svoj posao, nego bijahu vojnici i poglavari nad vojvodama njegovijem, i zapovjednici nad kolima i konjicima njegovijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Od njih bijaše glavnijeh nastojnika, koje imaše car Solomun, dvjesta i pedeset, koji upravljahu narodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I kæer faraonovu preseli Solomun iz grada Davidova u dom koji joj sazida, jer reèe: neæe sjedjeti žena moja u domu Davida cara Izrailjeva, jer je svet što je došao u nj kovèeg Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada prinošaše Solomun žrtve paljenice Gospodu na oltaru Gospodnjem koji naèini pred trijemom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Što trebaše od dana na dan prinositi po zapovijesti Mojsijevoj, u subote i na mladine i na praznike, tri puta u godini, na praznik prijesnijeh hljebova i na praznik sedmica i na praznik sjenica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I postavi po naredbi Davida oca svojega redove sveštenièke prema službi njihovoj, i Levitske prema dužnosti njihovoj, da hvale Boga i služe pred sveštenicima kako treba svaki dan, i vratare po redovima njihovijem nad svakim vratima; jer taka bijaše zapovijest Davida èovjeka Božijega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I ne otstupiše od zapovijesti careve za sveštenike i Levite ni u èem, ni za riznice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tako se svrši sve djelo Solomunovo od onoga dana kad bi osnovan dom Gospodnji pa dokle ga ne dovrši, i gotov bi dom Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tada otide Solomun u Esion-Gaver i u Elot na brijegu morskom u zemlji Edomskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A Hiram posla mu po svojim slugama laðe i sluge vješte moru, i otidoše sa slugama Solomunovijem u Ofir i uzeše odande èetiri stotine i pedeset talanata zlata i donesoše caru Solomunu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CH/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CH/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CH/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

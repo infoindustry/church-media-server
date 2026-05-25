@@ -1,0 +1,321 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Samuilo reèe Saulu: Gospod me je poslao da te pomažem za cara nad narodom njegovijem, nad Izrailjem; slušaj dakle rijeèi Gospodnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ovako veli Gospod nad vojskama: opomenuh se šta je uèinio Amalik Izrailju, kako mu se opro na putu kad je išao iz Misira."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Zato idi, i pobij Amalika, i zatri kao prokleto sve što god ima; ne žali ga, nego pobij i ljude i žene i djecu i što je na sisi i volove i ovce i kamile i magarce."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tada Saul sazva narod, i izbroji ih u Telaimu, i bješe ih dvjesta tisuæa pješaka i deset tisuæa ljudi od Jude."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I doðe Saul do grada Amalièkoga, i namjesti zasjedu u potoku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I reèe Saul Kenejima: idite, odvojte se, uklonite se od Amalika, da vas ne bih potro s njima; jer ste vi uèinili milost svijem sinovima Izrailjevijem kad su išli iz Misira. I otidoše Keneji od Amalika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I Saul pobi Amalike od Avile do Sura, koji je prema Misiru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I uhvati Agaga cara Amalièkoga živa, a sav narod njegov pobi oštrijem maèem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I Saul i narod njegov poštedje Agaga i najbolje ovce i najbolje volove i ugojenu stoku i jaganjce i sve što bijaše dobro, i ne htješe pobiti; nego što bijaše zlo i bez cijene, ono samo pobiše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zato doðe rijeè Gospodnja k Samuilu govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Kajem se što sam Saula postavio carem, jer je otstupio od mene, i nije izvršio mojih rijeèi. I rasrdi se Samuilo vrlo, i vikaše ka Gospodu svu noæ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I ustavši rano Samuilo poðe pred Saula. I javiše Samuilu govoreæi: Saul doðe u Karmil, i eno podiže sebi spomenik, pa se vrati odande i otide dalje i siðe u Galgal."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Kad Samuilo doðe k Saulu, reèe mu Saul: blagosloven da si Gospodu! izvršio sam rijeè Gospodnju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Samuilo reèe: kakva je to bleka ovaca u ušima mojim? i rika volova koju èujem?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Saul reèe: od Amalika dognaše ih; jer narod poštedje najbolje ovce i najbolje volove da prinese na žrtvu Gospodu Bogu tvojemu; ostalo pak pobismo kao prokleto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Samuilo reèe Saulu: stani da ti kažem što mi je rekao Gospod noæas. Reèe mu: govori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tada reèe Samuilo: nijesi li bio mali sam u svojim oèima, pak si postao glava plemenima Izrailjevijem, i Gospod te pomaza za cara nad Izrailjem?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I Gospod te posla na ovaj put i reèe: idi, pobij grješne Amalike, i vojuj na njih dokle ih ne istrijebite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Zašto dakle ne posluša glasa Gospodnjega, nego se naklopi na plijen, i uèini zlo pred Gospodom?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Saul odgovori Samuilu: ta poslušao sam glas Gospodnji, i išao sam putem kojim me posla Gospod, i doveo sam Agaga cara Amalièkoga, a Amalike sam istrijebio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Nego narod uze od plijena ovce i volove, najbolje izmeðu prokletijeh stvari, da prinese na žrtvu Gospodu Bogu tvojemu u Galgalu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ali Samuilo reèe: zar su mile Gospodu žrtve paljenice i prinosi kao kad se sluša glas njegov? gle, poslušnost je bolja od žrtve i pokornost od pretiline ovnujske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer je neposlušnost kao grijeh od èaranja, i nepokornost kao sujevjerstvo i idolopoklonstvo. Odbacio si rijeè Gospodnju, zato je i on tebe odbacio da ne budeš više car."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Tada reèe Saul Samuilu: zgriješio sam što sam prestupio zapovijest Gospodnju i tvoje rijeèi; jer pobojah se naroda i poslušah glas njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Nego sada oprosti mi grijeh moj, i vrati se sa mnom da se poklonim Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A Samuilo reèe Saulu: neæu se vratiti s tobom, jer si odbacio rijeè Gospodnju, i zato je tebe Gospod odbacio da ne budeš više car nad Izrailjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I Samuilo se okrete da ide, ali ga Saul uhvati za skut od plašta njegova, te se odadrije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Tada mu reèe Samuilo: odadro je Gospod carstvo Izrailjevo od tebe danas, i dao ga bližnjemu tvojemu, koji je bolji od tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I doista junak Izrailjev neæe slagati, niti æe se raskajati; jer nije èovjek da se kaje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A on reèe: zgriješio sam; ali mi sad uèini èast pred starješinama naroda mojega i pred Izrailjem, i vrati se sa mnom da se poklonim Gospodu Bogu tvojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I vrativši se Samuilo otide za Saulom, i pokloni se Saul Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Potom reèe Samuilo: dovedite mi Agaga cara Amalièkoga. I doðe k njemu Agag veseo, jer govoraše Agag: zaista, prošla je gorèina smrtna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ali Samuilo reèe: kako je tvoj maè uèinio te su žene ostale bez djece, tako æe ostati bez djece tvoja majka meðu ženama. I isijeèe Samuilo Agaga pred Gospodom u Galgalu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Potom otide Samuilo u Ramu, a Saul otide kuæi svojoj u Gavaju Saulovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I Samuilo više ne vidje Saula do svoje smrti, i plakaše Samuilo za Saulom, što se Gospod pokaja što je postavio Saula carem nad Izrailjem."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/15.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 15
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/16.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 16
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/14.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 14
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

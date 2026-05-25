@@ -1,0 +1,174 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "REV",
+    "translationId": "srp_865",
+    "name": "Apokalipsa",
+    "commonName": "Apokalipsa",
+    "title": "Otkrivenje Jovanovo — Apokalipsa",
+    "order": 66,
+    "numberOfChapters": 22,
+    "sha256": "03ca27b48572b751a11a8d2525edcfa3d35a43f752bf5506e16685bb264b5230",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/REV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 22,
+    "lastChapterApiLink": "/api/srp_865/REV/22.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 22
+    },
+    "totalNumberOfVerses": 404
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I vidjeh u desnici onoga što sjeðaše na prijestolu knjigu napisanu iznutra i spolja, zapeèaæenu sa sedam peèata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I vidjeh anðela jaka gdje propovijeda glasom velikijem: ko je dostojan da otvori knjigu i da razlomi peèate njezine?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I niko ne mogaše ni na nebu ni na zemlji, ni pod zemljom da otvori knjige ni da zagleda u nju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I ja plakah mnogo što se niko ne naðe dostojan da otvori i da proèita knjigu, niti da zagleda u nju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I jedan od starješina reèe mi: ne plaèi, evo je nadvladao lav, koji je od koljena Judina, korijen Davidov, da otvori knjigu i razlomi sedam peèata njezinijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I vidjeh, i gle, nasred prijestola i èetiri životinje, i posred starješina jagnje stajaše kao zaklano, i imaše sedam rogova, i sedam oèiju, koje su sedam duhova Božijih poslanijeh po svemu svijetu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I doðe i uze knjigu iz desnice onoga što sjeðaše na prijestolu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I kad uze knjigu, èetiri životinje i dvadeset i èetiri starješine padoše pred jagnjetom, imajuæi svaki gusle, i zlatne èaše pune tamjana, koje su molitve svetijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I pjevahu pjesmu novu govoreæi: dostojan si da uzmeš knjigu, i da otvoriš peèate njezine; jer si se zaklao, i iskupio si nas Bogu krvlju svojom od svakoga koljena i jezika i naroda i plemena,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I uèinio si nas Bogu našemu careve i sveštenike, i carovaæemo na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I vidjeh, i èuh glas anðela mnogijeh oko prijestola i životinja i starješina, i bješe broj njihov hiljada hiljada,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Govoreæi glasom velikijem: dostojno je jagnje zaklano da primi silu i bogatstvo i premudrost i jaèinu i èast i slavu i blagoslov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I svako stvorenje, što je na nebu, i na zemlji, i pod zemljom, i što je na moru, i što je u njima, sve èuh gdje govore: onome što sjedi na prijestolu, i jagnjetu blagoslov i èast i slava i država va vijek vijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I èetiri životinje govorahu: amin. I dvadeset i èetiri starješine padoše i pokloniše se onome što živi va vijek vijeka."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/REV/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/REV/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/REV/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 14
+}

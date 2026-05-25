@@ -1,0 +1,321 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 34,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I reèe Gospod Mojsiju: isteši sebi dvije ploèe od kamena kao što su bile prve, da napišem na tijem ploèama rijeèi koje su bile na prvijem ploèama, koje si razbio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I budi gotov za sjutra da rano izaðeš na goru Sinajsku, i staneš preda me na vrh gore."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ali neka niko ne ide s tobom, i niko neka se ne pokaže na svoj gori, ni ovce ni goveda da ne pasu blizu gore."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I istesa Mojsije dvije ploèe od kamena kao što su bile prve, i ustavši rano izaðe na goru Sinajsku, kao što mu zapovjedi Gospod, i uze u ruku svoju dvije ploèe kamene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A Gospod siðe u oblaku, i stade ondje s njim, i povika po imenu: Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer prolazeæi Gospod ispred njega vikaše: Gospod, Gospod, Bog milostiv, žalostiv, spor na gnjev i obilan milosrðem i istinom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Koji èuva milost tisuæama, prašta bezakonja i nepravde i grijehe, koji ne pravda krivoga, i pohodi grijehe otaèke na sinovima i na unucima do treæega i èetvrtoga koljena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A Mojsije brže savi glavu do zemlje i pokloni se,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I reèe: ako sam našao milost pred tobom, Gospode, neka ide Gospod posred nas, jer je narod tvrdovrat; i oprosti nam bezakonje naše i grijeh naš, i uzmi nas za našljedstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A on reèe: evo postavljam zavjet; pred cijelim narodom tvojim uèiniæu èudesa, koja nijesu uèinjena nigdje na zemlji ni u kom narodu, i vidjeæete djelo Gospodnje sav narod, meðu kojim si, jer æe biti strašno što æu ja uèiniti s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Drži što ti danas zapovjedam; evo, ja æu izagnati ispred tebe Amoreje i Hananeje i Heteje i Ferezeje i Jeveje i Jevuseje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Èuvaj se da ne hvataš vjere s onima koji žive u zemlji u koju æeš doæi, da ti ne budu zamka usred tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nego oltare njihove oborite, i likove njihove izlomite, i gajeve njihove isijecite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer ne valja da se klanjaš drugomu bogu: jer se Gospod zove revnitelj, Bog je revnitelj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Nemoj hvatati vjere s onima koji žive u onoj zemlji, da ne bi èineæi preljubu za bogovima svojim i prinoseæi žrtvu bogovima svojim pozvali te, i ti jeo žrtve njihove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I da ne bi kæerima njihovijem ženio sinove svoje, i da ne bi kæeri njihove èineæi preljubu za bogovima svojim uèinile da sinovi tvoji èine preljubu za bogovima njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Livenih bogova ne gradi sebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Praznik prijesnijeh hljebova drži; sedam dana jedi prijesne hljebove, kao što sam ti zapovjedio, na vrijeme, mjeseca Aviva, jer si toga mjeseca izašao iz Misira."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Sve što otvora matericu moje je, i svako muško u stoci tvojoj što otvora matericu, goveèe ili sitna stoka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ali magare koje otvori matericu otkupi jagnjetom ili jaretom; ako li ga ne bi otkupio, slomi mu vrat; i svakoga prvenca izmeðu sinova svojih otkupi; i da se niko ne pokaže prazan preda mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Šest dana radi, a u sedmi dan poèini, i od oranja i od žetve poèini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Praznuj praznik sedmica, prvina žetve pšeniène, i praznik berbe na svršetku godine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Tri puta u godini da se svako muško izmeðu vas pokaže pred Gospodom Bogom Izrailjevim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer æu izagnati narode ispred tebe, i meðe tvoje raširiæu, i niko neæe poželjeti zemlje tvoje, kad staneš dolaziti da se pokažeš pred Gospodom Bogom svojim tri puta u godini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Nemoj prinositi krvi od žrtve moje uz hljebove kisele, i da ne prenoæi do jutra žrtva praznika pashe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Prvine od prvoga roda zemlje svoje donesi u kuæu Gospoda Boga svojega; nemoj kuhati jareta u mlijeku majke njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I reèe Gospod Mojsiju: napiši sebi te rijeèi; jer po tijem rijeèima uèinih zavjet s tobom i s Izrailjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I Mojsije osta ondje kod Gospoda èetrdeset dana i èetrdeset noæi, hljeba ne jeduæi ni vode pijuæi; i napisa Gospod na ploèe rijeèi zavjeta, deset rijeèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I kad Mojsije slažaše s gore Sinajske, i držaše u ruci dvije ploèe svjedoèanstva slazeæi s gore, ne znaðaše da mu koža na licu posta svijetla dokle govoraše s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I vidje Aron i svi sinovi Izrailjevi Mojsija, a to mu se svijetli koža na licu, i ne smješe pristupiti k njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ali ih zovnu Mojsije, i vratiše se k njemu Aron i svi glavari u zboru, i govori s njima Mojsije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Potom pristupiše svi sinovi Izrailjevi, i zapovjedi im sve što mu kaza Gospod na gori Sinajskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A kad im Mojsije izgovori, zastrije lice svoje pokrivalom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ali kad Mojsije dolažaše pred Gospoda da s njim govori, skidaše pokrivalo dokle ne bi izašao; a izašavši kazivaše sinovima Izrailjevijem što mu se zapovjedaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Tada viðahu sinovi Izrailjevi lice Mojsijevo, gdje se svijetli koža na licu njegovu, te Mojsije opet zastiraše pokrivalom lice svoje dokle ne bi opet ušao da govori s njim."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/34.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 34
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/35.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 35
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/33.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 33
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

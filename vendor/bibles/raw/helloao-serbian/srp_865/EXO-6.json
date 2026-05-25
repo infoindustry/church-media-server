@@ -1,0 +1,286 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Gospod reèe Mojsiju: sad æeš vidjeti šta æu uèiniti Faraonu; jer pod rukom krjepkom pustiæe ih, i istjeraæe ih iz zemlje svoje pod rukom krjepkom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Još govori Bog Mojsiju i reèe mu: ja sam Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I javio sam se Avramu, Isaku i Jakovu imenom Bog svemoguæi, a imenom svojim Gospod ne bih im poznat."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I uèinih zavjet svoj s njima da æu im dati zemlju Hanansku, zemlju u kojoj bijahu došljaci, u kojoj življahu kao stranci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I èuh uzdisanje sinova Izrailjevijeh, koje Misirci drže u ropstvu, i opomenuh se zavjeta svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Zato kaži sinovima Izrailjevijem: ja sam Gospod, i izvešæu vas ispod bremena Misirskih, i oprostiæu vas ropstva njihova, i izbaviæu vas mišicom podignutom i sudovima velikim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I uzeæu vas da mi budete narod, i ja æu vam biti Bog, te æete poznati da sam ja Gospod Bog vaš, koji vas izvodim ispod bremena Misirskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Pak æu vas odvesti u svoju zemlju, za koju podigoh ruku svoju zaklinjuæi se da æu je dati Avramu, Isaku i Jakovu; i daæu vam je u našljedstvo, ja Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I Mojsije kaza tako sinovima Izrailjevijem; ali ne poslušaše Mojsija od slabosti duha svojega i od ljutoga ropstva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I Gospod reèe Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Idi, kaži Faraonu caru Misirskom neka pusti sinove Izrailjeve iz zemlje svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A Mojsije progovori pred Gospodom i reèe: eto, sinovi Izrailjevi ne poslušaše me, a kako æe me poslušati Faraon, kad sam neobrezanijeh usana?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ali Gospod govori Mojsiju i Aronu, i zapovjedi im da idu k sinovima Izrailjevijem i k Faraonu, da izvedu sinove Izrailjeve iz zemlje Misirske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ovo su poglavice u domovima otaca svojih: sinovi Ruvima prvenca Izrailjeva: Enoh i Faluj, Asron i Harmija; to su porodice Ruvimove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A sinovi Simeunovi: Jemuilo i Jamin i Aod i Ahin i Sar i Saul, sin neke Hananejke; to su porodice Simeunove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A ovo su imena sinova Levijevih po porodicama njihovijem: Girson i Kat i Merarije; a Levije poživje sto i trideset i sedam godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A ovo su sinovi Girsonovi: Lovenije i Semej po porodicama svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A sinovi Katovi: Amram i Isar i Hevron i Ozilo; a Kat poživje sto i trideset i tri godine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A sinovi Merarijevi: Molija i Musija. To su porodice Levijeve po lozama svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Amram se oženi Johavedom bratuèedom svojom, i ona mu rodi Arona i Mojsija. A poživje Amram sto i trideset i sedam godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A sinovi Isarovi bjehu: Korej i Nafek i Zehrija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A sinovi Ozilovi: Misailo i Elisafan i Segrija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A Aron se oženi Jelisavetom kæerju Aminadavovom, sestrom Nasonovom; i ona mu rodi Nadava i Avijuda i Eleazara i Itamara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A sinovi Korejevi bjehu: Asir i Elkana i Avijasar. To su porodice Korejeve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I Eleazar sin Aronov oženi se jednom od kæeri Futilovijeh, i ona mu rodi Finesa. To su poglavice izmeðu otaca Levitskih po svojim porodicama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "To je Aron i Mojsije, kojima reèe Gospod: izvedite sinove Izrailjeve iz zemlje Misirske u èetama njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "To su koji govoriše Faraonu caru Misirskom da izvedu sinove Izrailjeve iz Misira; to je Mojsije i to je Aron."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I kad Gospod govoraše Mojsiju u zemlji Misirskoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Reèe Gospod Mojsiju govoreæi: ja sam Gospod; kaži Faraonu caru Misirskom sve što sam ti kazao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I Mojsije reèe pred Gospodom: evo sam neobrezanijeh usana, pa kako æe me poslušati Faraon?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 30
+}

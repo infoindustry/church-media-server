@@ -1,0 +1,419 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "srp_865",
+    "name": "Ponovljeni Zakon",
+    "commonName": "Ponovljeni Zakon",
+    "title": "Ponovljeni Zakon",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "b000b6651908c9448c65c662cec1fa45977205b236e0922d505241ab679311df",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DEU/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 1
+    },
+    "lastChapterNumber": 34,
+    "lastChapterApiLink": "/api/srp_865/DEU/34.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 34
+    },
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A sada, Izrailju, èuj uredbe i zakone, koje vas uèim da tvorite, da biste poživjeli i ušli u zemlju koju vam daje Gospod Bog otaca vaših i da biste je naslijedili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ništa ne dodajte k rijeèi koju vam ja zapovijedam, niti oduzmite od nje, da biste saèuvali zapovijesti Gospoda Boga svojega koje vam ja zapovijedam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Oèi su vaše vidjele šta uèini Gospod s Velfegora; jer svakoga èovjeka koji poðe za Velfegorom istrijebi Gospod Bog tvoj izmeðu tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A vi koji se držaste Gospoda Boga svojega, vi ste svi živi danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Gle, uèio sam vas uredbama i zakonima, kao što mi zapovjedi Gospod Bog moj, da biste tako tvorili u zemlji u koju idete da je naslijedite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Držite dakle i izvršujte ih, jer je to mudrost vaša i razum vaš pred narodima, koji æe kad èuju sve ove uredbe reæi: samo je ovaj veliki narod narod mudar i razuman."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer koji je veliki narod kojemu je Bog blizu kao što je Gospod Bog naš kad ga god zazovemo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I koji je narod veliki koji ima uredbe i zakone pravedne kao što je sav ovaj zakon koji iznosim danas pred vas?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Samo pazi na se i dobro èuvaj dušu svoju, da ne zaboraviš onijeh stvari koje su vidjele oèi tvoje, i da ne izidu iz srca tvojega dokle si god živ; nego da ih obznaniš sinovima svojim i sinovima sinova svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Onaj dan kad stajaste pred Gospodom Bogom svojim kod Horiva, kad mi Gospod reèe: saberi mi narod da im kažem rijeèi svoje, kojima æe se nauèiti da me se boje dok su živi na zemlji, i da uèe tome i sinove svoje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Kad pristupiste i stajaste pod gorom, a gora ognjem goraše do samoga neba i bješe na njoj tama i oblak i mrak;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I progovori Gospod k vama isred ognja; glas od rijeèi èuste, ali osim glasa lika ne vidjeste;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I objavi vam zavjet svoj, koji vam zapovjedi da držite, deset rijeèi, koje napisa na dvije ploèe kamene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I meni zapovjedi onda Gospod da vas uèim uredbama i zakonima da ih tvorite u zemlji u koju idete da je naslijedite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zato èuvajte dobro duše svoje; jer ne vidjeste nikakoga lika u onaj dan kad vam govori Gospod na Horivu isred ognja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Da se ne biste pokvarili i naèinili sebi lik rezan ili kaku god sliku od èovjeka ili od žene,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Sliku od kakoga živinèeta koje je na zemlji, ili sliku od kake ptice krilate koja leti ispod neba;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Sliku od èega što puže po zemlji, ili sliku od kake ribe koja je u vodi pod zemljom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I da ne bi podigavši oèi svoje k nebu i vidjevši sunce i mjesec i zvijezde, svu vojsku nebesku, prevario se i klanjao im se i služio im; jer ih Gospod Bog tvoj dade svijem narodima pod cijelijem nebom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A vas uze Gospod i izvede vas iz peæi gvozdene, iz Misira, da mu budete narod našljedni, kao što se vidi danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ali se Gospod razgnjevi na me za vaše rijeèi, i zakle se da neæu prijeæi preko Jordana ni uæi u dobru zemlju, koju ti Gospod Bog tvoj daje u našljedstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I ja æu umrijeti u ovoj zemlji i neæu prijeæi preko Jordana; a vi æete prijeæi i naslijediti onu dobru zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Pazite da ne zaboravite zavjeta Gospoda Boga svojega, koji uèini s vama, i da ne gradite sebi lika rezanoga, slike od koje god tvari, kao što ti je zabranio Gospod Bog tvoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer je Gospod Bog tvoj oganj koji spaljuje i Bog koji revnuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Kad izrodiš sinove i unuke, i ostarite u onoj zemlji, ako se pokvarite i naèinite sliku rezanu od kake tvari i uèinite što nije ugodno Gospodu Bogu vašemu, dražeæi ga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Svjedoèim vam danas nebom i zemljom da æe vas brzo nestati sa zemlje u koju idete preko Jordana da je naslijedite, neæete biti dugo u njoj, nego æete se istrijebiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ili æe vas rasijati Gospod meðu narode, i malo æe vas ostati meðu narodima u koje vas odvede Gospod;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I služiæete ondje bogovima koje su naèinile ruke èovjeèije, od drveta i od kamena, koji ne vide ni èuju, niti jedu ni mirišu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ali ako i ondje potražiš Gospoda Boga svojega, naæi æeš ga, ako ga potražiš svijem srcem svojim i svom dušom svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Kad budeš u nevolji i sve te to snaðe, ako se u pošljednje vrijeme obratiš ka Gospodu Bogu svojemu, i poslušaš glas njegov,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Gospod je Bog tvoj milostiv Bog, neæe te ostaviti ni istrijebiti, jer neæe zaboraviti zavjeta s ocima tvojim, za koji im se zakleo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Jer zapitaj sada za stara vremena, koja su bila prije tebe, od onoga dana kad stvori Bog èovjeka na zemlji, i od jednoga kraja neba do drugoga, je li kad bila ovaka stvar velika, i je li se kad èulo što tako?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Je li kad èuo koji narod glas Božji gdje govori isred ognja, kao što si ti èuo i ostao živ?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ili, je li Bog pokušao da doðe te uzme sebi narod iz drugoga naroda kušanjem, znacima i èudesima i ratom i rukom krjepkom i mišicom podignutom i strahotama velikim, kao što je uèinio sve to za vas Gospod Bog naš u Misiru na vaše oèi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Tebi je to pokazano da poznaš da je Gospod Bog, i da nema drugoga osim njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Dao ti je da èuješ glas njegov s neba da bi te nauèio, i pokazao ti je na zemlji oganj svoj veliki, i rijeèi njegove èuo si isred ognja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I što mu mili bijahu oci tvoji, zato izabra sjeme njihovo nakon njih, i izvede te sam velikom silom svojom iz Misira,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Da otjera ispred tebe narode veæe i jaèe od tebe, i da tebe uvede u njihovu zemlju i dade ti je u našljedstvo, kao što se vidi danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Znaj dakle i pamti u srcu svojem da je Gospod Bog, gore na nebu i dolje na zemlji, nema drugoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I drži uredbe njegove i zapovijesti njegove, koje ti ja danas zapovijedam, da bi dobro bilo tebi i sinovima tvojim nakon tebe, da bi ti se produljili dani na zemlji koju ti Gospod Bog tvoj daje zasvagda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Tada odijeli Mojsije tri grada s ovu stranu Jordana prema istoku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Da bi utjecao u njih krvnik koji ubije bližnjega svojega nehotice ne mrzivši prije na nj, i kad uteèe u koji od tijeh gradova, da bi ostao živ:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Vosor u pustinji, na ravnici u zemlji plemena Ruvimova, i Ramot u Galadu u plemenu Gadovu, Golan u Vasanskoj u plemenu Manasijinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Ovo je zakon koji postavi Mojsije sinovima Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Ovo su svjedoèanstva i uredbe i zakoni, koje kaza Mojsije sinovima Izrailjevijem kad izidoše iz Misira,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "S ovu stranu Jordana u dolini prema Vet-Fegoru u zemlji Siona cara Amorejskoga, koji življaše u Esevonu, kojega ubi Mojsije i sinovi Izrailjevi kad izidoše iz Misira,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "I osvojiše zemlju njegovu i zemlju Oga cara Vasanskoga, dva cara Amorejska, koja je s ovu stranu Jordana prema istoku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Od Aroira, koji je na potoku Arnonu, do gore Siona, a to je Ermon,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "I sve polje s ovu stranu Jordana prema istoku do mora uz ravnicu pod Azdot-Fazgom."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DEU/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DEU/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DEU/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 49
+}

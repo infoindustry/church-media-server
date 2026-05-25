@@ -1,0 +1,209 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I kad ko zgriješi što èuje kletvu i bude joj svjedok vidjevši ili èuvši, pa ne kaže, nosiæe svoje bezakonje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ili kad se ko dotakne neèiste stvari, strva od neèiste zvijerke ili strva od neèista živinèeta ili strva od neèiste životinje koja gamiže, ako i u neznanju uèini, ipak æe se oskvrniti, i biæe kriv."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ili kad se dotakne neèistote èovjeèije, bila neèistota njegova kaka mu drago, kojom se oskvrni, znajuæi ili ne znajuæi, kriv je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ili kad se ko zakune govoreæi svojim ustima da æe uèiniti što zlo ili dobro, a za koju god stvar za koju èovjek govori zaklinjuæi se, znao ili ne znao, kriv je za jednu od tijeh stvari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Kad bude kriv za koju od tijeh stvari, neka prizna grijeh svoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I neka dovede na žrtvu Gospodu za grijeh, što je zgriješio, žensko od sitne stoke, jagnje ili jare, za grijeh; i sveštenik æe ga oèistiti od grijeha njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ako li ne bi mogao prinijeti jagnjeta ili jareta, onda neka donese na žrtvu Gospodu za prijestup, kojim je zgriješio, dvije grlice ili dva golubiæa, jedno na žrtvu za grijeh a drugo na žrtvu paljenicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Neka donese svešteniku, a on neka prinese prvo ono što je za grijeh, i noktom neka mu zasijeèe glavu k šiji, ali da ne razdvoji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I krvlju od žrtve za grijeh neka pokropi strane oltaru; a što ostane krvi neka se iscijedi na podnožje oltaru. To je žrtva za grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A od drugoga neka naèini žrtvu paljenicu po obièaju; tako æe ga oèistiti sveštenik od grijeha njegova, koji je uèinio, i oprostiæe mu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ako li ne bi mogao prinijeti ni dvije grlice ili dva golubiæa, onda neka za žrtvu za to što je zgriješio donese desetinu efe bijeloga brašna da bude žrtva za grijeh, a neka ne dodaje ulja i ne meæe kada, jer je žrtva za grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I kad donese k svešteniku, neka uzme sveštenik punu šaku za spomen njezin, i neka zapali na oltaru pored žrtve ognjene Gospodu. To je žrtva za grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I oèistiæe ga sveštenik od grijeha, kojim se ogriješio u èem god od ovoga, i oprostiæe mu se; a ostatak æe biti svešteniku kao od dara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Opet reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ko se prevari, te se ogriješi nehotice o stvari posveæene Gospodu, neka prinese na žrtvu Gospodu za prijestup svoj ovna zdrava s cijenom, kojom ti precijeniš svetu stvar na sikle srebrne, po siklima svetim, prema prijestupu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I tako koliko se ogriješio o svetu stvar neka naknadi, i na to još neka dometne peti dio, i neka da svešteniku; a sveštenik æe ga oèistiti ovnom prinesenijem na žrtvu za prijestup, i oprostiæe mu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ko zgriješi i uèini štogod što je Gospod zabranio da se ne èini, ako i nije znao, ipak je kriv, i nosiæe svoje bezakonje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Neka dovede k svešteniku ovna zdrava s cijenom kojom precijeniš prijestup; i oèistiæe ga sveštenik od grijeha njegova, koji je uèinio ne znajuæi, i oprostiæe mu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Prijestup je; zgriješio je Gospodu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 19
+}

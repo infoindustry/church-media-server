@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 44,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I odvede me opet k vratima spoljašnjim od svetinje, koja gledaju na istok, a ona bjehu zatvorena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I reèe mi Gospod: ova vrata neka budu zatvorena i da se ne otvoraju, i niko da ne ulazi na njih, jer je Gospod Bog Izrailjev ušao na njih; zato neka budu zatvorena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Za kneza su; sam knez neka sjeda na njima da jede hljeb pred Gospodom; kroz trijem od ovijeh vrata neka ulazi i istijem putem neka izlazi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I odvede me k sjevernijem vratima pred dom; i vidjeh, i gle, dom Gospodnji bješe pun slave Gospodnje, i padoh na lice svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I reèe mi Gospod: sine èovjeèji, pazi srcem svojim i vidi oèima svojim i slušaj ušima svojim, što æu ti kazati za sve uredbe doma Gospodnjega i za sve zakone njegove; pazi srcem svojim na sve ulaze u dom i na sve izlaze iz svetinje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I reci odmetnièkom domu Izrailjevu: ovako veli Gospod Gospod: dosta je gadova vaših, dome Izrailjev,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Što uvodiste tuðince neobrezana srca i neobrezana tijela da budu u mojoj svetinji da skvrne dom moj, i prinosiste moj hljeb, pretilinu i krv, i tako prestupaše moj zavjet osim svijeh gadova vaših;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I ne izvršivaste što treba za moju svetinju, nego postaviste ljude po svojoj volji da izvršuju što treba u mojoj svetinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ovako veli Gospod Gospod: nijedan tuðin neobrezana srca i neobrezana tijela da ne dolazi u moju svetinju, nijedan od svijeh tuðinaca koji su meðu sinovima Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Leviti koji otstupiše od mene kad zaðe Izrailj, koji zaðoše od mene za gadnijem bogovima svojim, nosiæe bezakonje svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I biæe sluge u mojoj svetinji u službi na vratima od doma služeæi domu; oni æe klati žrtve paljenice i druge žrtve narodu, i stajaæe pred njima služeæi im."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Što im služiše pred gadnijem bogovima njihovijem i biše domu Izrailjevu spoticanje na bezakonje, zato podigoh ruku svoju na njih, govori Gospod Gospod, da æe nositi bezakonje svoje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I neæe pristupati k meni da mi vrše sveštenièku službu, niti kojoj svetinji mojoj, ni svetinji nad svetinjama neæe pristupati, nego æe nositi sramotu svoju i gadove svoje, koje èiniše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Nego æu ih postaviti za èuvare domu na svaku službu njegovu i na sve što biva u njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A sveštenici Leviti sinovi Sadokovi, koji izvršivahu što treba u mojoj svetinji, kad sinovi Izrailjevi zaðoše od mene, oni æe pristupati k meni da mi služe, i stajaæe preda mnom prinoseæi mi pretilinu i krv, govori Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Oni neka ulaze u moju svetinju i oni neka pristupaju k stolu mojemu da mi služe i neka izvršuju što sam zapovjedio da se izvršuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I kad ulaze na vrata unutrašnjega trijema, neka obuku lanene haljine, i ništa da ne bude na njima vuneno kad služe na vratima unutrašnjega trijema i u njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Na glavama neka im budu kape lanene i gaæe lanene po bedrima, i da se ne pašu nièim oda šta bi se znojili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A kad izlaze u trijem spoljašnji, u spoljašnji trijem k narodu, neka svuku sa sebe haljine u kojima služe, i ostave ih u klijetima svetijem, pa neka obuku druge haljine, da ne osveæuju naroda haljinama svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I glave svoje da ne briju, a ni kose da ne ostavljaju, nego neka strigu glave svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I vina da ne pije nijedan sveštenik kad hoæe da uðe u unutrašnji trijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I udovicom ni puštenicom da se ne žene, nego djevojkom od sjemena doma Izrailjeva ili udovicom sveštenièkom neka se žene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I narod moj neka uèe što je sveto što li nije sveto, i neka ih uèe raspoznavati neèisto od èistoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A u raspri neka stanu da sude, po mojim zakonima neka sude, i zakone moje i uredbe moje neka drže o svijem praznicima mojim, i subote moje neka svetkuju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I k mrtvacu da ne idu da se ne oskvrne; samo za ocem i za materom i za sinom i za kæerju, za bratom i za sestrom neudatom mogu se oskvrniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A kad se oèisti, neka mu se broji sedam dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I u koji bi dan ušao u svetinju, u trijem unutrašnji, da služi u svetinji, neka prinese žrtvu za grijeh svoj, govori Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A našljedstvo što æe imati, ja sam njihovo našljedstvo; i vi im ne dajte dostojanja u Izrailju, ja sam njihovo dostojanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Dar i žrtvu za grijeh i žrtvu za krivicu oni æe jesti; i sve zavjetovano u Izrailju njihovo æe biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I prvine od svakoga prvoga roda i svi prinosi podizani od svega izmeðu svijeh prinosa vaših biæe sveštenicima; i prvine od tijesta svojega davaæete svešteniku da bi poèivao blagoslov na domovima vašim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Sveštenici da ne jedu mrcinoga ni što zvjerka raskine, bilo ptica ili što od stoke."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/44.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 44
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/45.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 45
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/43.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 43
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

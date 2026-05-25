@@ -1,0 +1,363 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2KI",
+    "translationId": "srp_865",
+    "name": "2. Kraljevima",
+    "commonName": "2. Kraljevima",
+    "title": "2. Kraljevima",
+    "order": 12,
+    "numberOfChapters": 25,
+    "sha256": "14b91a44508aa4c11af5ab27266f4e76ec99d09dd2f0f675edf6866e97186808",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2KI/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2KI",
+      "chapter": 1
+    },
+    "lastChapterNumber": 25,
+    "lastChapterApiLink": "/api/srp_865/2KI/25.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2KI",
+      "chapter": 25
+    },
+    "totalNumberOfVerses": 719
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Dvanaeste godine carovanja Ahazova nad Judom zacari se u Samariji nad Izrailjem Osija sin Ilin, i carova devet godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I èinjaše što je zlo pred Gospodom, ali ne kao carevi Izrailjevi koji biše prije njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Na njega doðe Salmanasar car Asirski, i Osija mu posta sluga, te mu plaæaše danak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ali car Asirski opazi da Osija hoæe da se odmetne, jer Osija posla poslanike k Soju caru Misirskom i ne posla danka godišnjega caru Asirskom; zato ga opkoli car Asirski i svezavši baci ga u tamnicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I car Asirski proðe svu zemlju i doðe na Samariju, i bi je tri godine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Devete godine Osijine uze car Asirski Samariju i odvede Izrailja u Asiriju i naseli u Alaju i u Avoru na vodi Gozanu i u gradovima Midskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A to bi što sinovi Izrailjevi griješiše Gospodu Bogu svojemu, koji ih je izveo iz zemlje Misirske ispod ruke Faraona cara Misirskoga, i bojaše se drugih bogova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I hodiše po uredbama naroda koje odagna Gospod ispred sinova Izrailjevijeh, i kako èiniše carevi Izrailjevi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I tajno èiniše sinovi Izrailjevi što nije pravo pred Gospodom Bogom njihovijem, i pogradiše visine po svijem gradovima svojim, od kule stražarske do gradova ozidanijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I podigoše likove i lugove na svakom visokom humu i pod svakim zelenijem drvetom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I kaðahu onuda po svijem visinama kao narodi koje odagna Gospod ispred njih, i èinjahu zle stvari gnjeveæi Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I služahu gadnijem bogovima, za koje im bješe Gospod rekao: ne èinite to."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I Gospod opominjaše Izrailja i Judu preko svijeh proroka i svijeh vidjelaca govoreæi: vratite se sa zlijeh putova svojih i držite zapovijesti moje i uredbe moje po svemu zakonu koji sam zapovjedio ocima vašim i koji sam vam poslao po slugama svojim prorocima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ali ne poslušaše; nego bjehu tvrdovrati kao i oci njihovi, koji ne vjerovaše Gospodu Bogu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I odbaciše uredbe njegove i zavjet njegov, koji uèini s ocima njihovijem, i svjedoèanstva njegova, kojima im svjedoèaše, i hodiše za ništavilom i postaše ništavi, i za narodima koji bijahu oko njih, za koje im bješe zapovjedio Gospod da ne èine kao oni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I ostaviše sve zapovijesti Gospoda Boga svojega, i naèiniše sebi livene likove, dva teleta, i lugove, i klanjaše se svoj vojsci nebeskoj, i služiše Valu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I provodiše sinove svoje i kæeri svoje kroz oganj, i davaše se na vraèanje i gatanje, i prodaše se da èine zlo pred Gospodom gnjeveæi ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Zato se Gospod razgnjevi vrlo na Izrailja, i odbaci ih od sebe, te ne osta nego samo pleme Judino."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Pa ni Juda ne držaše zapovijesti Gospoda Boga svojega, nego hoðaše po uredbama koje naèiniše Izrailjci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Zato Gospod povrže sve sjeme Izrailjevo, i muèi ih, i predade ih u ruke onima koji ih plijene, dokle ih i odbaci od sebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer se ocijepiše Izrailjci od doma Davidova, i postaviše carem Jerovoama sina Navatova, a Jerovoam odbi Izrailjce od Gospoda i navede ih da griješe grijehom velikim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I hodiše sinovi Izrailjevi u svijem grijesima Jerovoamovijem koje je on èinio, i ne otstupiše od njih;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Dokle Gospod ne odbaci Izrailja od sebe kao što je govorio preko svijeh sluga svojih proroka, i tako preseljen bi Izrailj iz zemlje svoje u Asirsku do današnjega dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Potom dovede car Asirski ljude iz Vavilona i iz Hute i iz Ave i iz Emata i iz Sefarvima, i naseli ih u gradovima Samarijskim mjesto Izrailjaca, i naslijediše Samariju, i življahu po gradovima njezinijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A kad poèeše živjeti ondje, ne bojahu se Gospoda, a Gospod posla na njih lavove, koji ih davljahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Zato rekoše caru Asirskom govoreæi: ovi narodi koje si doveo i naselio u gradovima Samarijskim ne znaju zakona Boga one zemlje; zato posla na njih lavove, koji ih eto more, jer ne znaju zakona Boga one zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Tada zapovjedi car Asirski i reèe: odvedite onamo jednoga od sveštenika koje ste doveli odande, pa neka ide i sjedi ondje, neka ih uèi zakonu Boga one zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I tako jedan od sveštenika, koje bijahu odveli iz Samarije, doðe i nastani se u Vetilju, i uèaše ih kako æe se bojati Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ali naèiniše sebi svaki narod svoje bogove, i pometaše ih u kuæe visina, koje bijahu naèinili Samarijani, svaki narod u svojim gradovima u kojima življahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Jer Vavilonjani naèiniše Sokot-Venotu, a Huæani naèiniše Nergala, a Emaæani naèiniše Asima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I Avljani naèiniše Nivaza i Tartaka, a Sefarvimci spaljivahu sinove svoje ognjem Adramelehu i Anamelehu bogovima Sefarvimskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ali se bojahu Gospoda, i postaviše izmeðu sebe sveštenike visinama, koji im služahu u domovima visina;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Bojahu se Gospoda, ali i svojim bogovima služahu po obièaju onijeh naroda iz kojih ih preseliše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I do današnjega dana rade po starijem obièajima; ne boje se Gospoda a ne rade ni po svojim uredbama i obièajima, ni po zakonu i zapovijesti što je zapovjedio Gospod sinovima Jakova, kojemu nadje ime Izrailj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "S kojima uèini Gospod zavjet i zapovjedi im i reèe: ne bojte se drugih bogova niti im se klanjajte niti im služite niti im prinosite žrtava;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Nego Gospoda, koji vas je izveo iz zemlje Misirske silom velikom i mišicom podignutom, njega se bojte i njemu se klanjajte i njemu prinosite žrtve;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I uredbe i pravila i zakon i zapovijesti što vam je napisao držite izvršujuæi ih vazda, i ne bojte se drugih bogova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I ne zaboravljajte zavjeta koji je uèinio s vama, i ne bojte se drugih bogova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Nego Gospoda Boga svojega bojte se, i on æe vas izbaviti iz ruku svijeh neprijatelja vaših."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Ali ne poslušaše, nego radiše po starom svom obièaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Tako ovi narodi bojahu se Gospoda i idolima svojim služahu; i sinovi njihovi i sinovi sinova njihovijeh èine do današnjega dana onako kako su èinili oci njihovi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2KI/17.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 17
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2KI/18.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 18
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2KI/16.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 16
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 41
+}

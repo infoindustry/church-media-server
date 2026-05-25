@@ -1,0 +1,335 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "srp_865",
+    "name": "Ponovljeni Zakon",
+    "commonName": "Ponovljeni Zakon",
+    "title": "Ponovljeni Zakon",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "b000b6651908c9448c65c662cec1fa45977205b236e0922d505241ab679311df",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DEU/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 1
+    },
+    "lastChapterNumber": 34,
+    "lastChapterApiLink": "/api/srp_865/DEU/34.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 34
+    },
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Potom se vratismo, i idosmo u pustinju k Crvenome Moru, kao što mi zapovjedi Gospod, i obilazismo goru Sir dugo vremena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I reèe mi Gospod:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Dosta ste obilazili tu goru, obrnite se na sjever."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I zapovjedi narodu i reci: sada æete prijeæi preko meðe braæe svoje, sinova Isavovih, koji žive u Siru; i oni æe vas se bojati, ali se i vi dobro èuvajte."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nemojte zametati boja s njima, jer vam neæu dati zemlje njihove ni stope, jer sam dao Isavu goru Sir u našljedstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jela kupujte od njih za novce, i jedite; i vodu kupujte od njih za novce, i pijte."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer te je Gospod Bog tvoj blagoslovio u svakom poslu ruku tvojih; i zna put tvoj po ovoj velikoj pustinji, i ovo èetrdeset godina bijaše s tobom Gospod Bog tvoj, i ništa ti nije nedostajalo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I proðosmo braæu svoju, sinove Isavove, koji žive u Siru, poljem od Elata i od Gesion-Gavera; i odande savivši udarismo preko pustinje Moavske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I Gospod mi reèe: nemoj pakostiti Moavcima ni zametati boja s njima, jer ti neæu dati zemlje njihove u našljedstvo; jer dadoh sinovima Lotovijem u našljedstvo Ar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Preðe življahu ondje Emeji, narod velik i jak i visok kao Enakimi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "O njima se mislilo da su divovi kao i Enakimi; ali ih Moavci zvahu Emeji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I Horeji življahu preðe u Siru, ali ih sinovi Isavovi istjeraše i istrijebiše ispred sebe i naseliše se na njihovo mjesto, kao što uèini Izrailj u zemlji svojega našljedstva, koje mu dade Gospod.)"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A sada ustanite i prijeðite preko potoka Zareda. I prijeðosmo preko potoka Zareda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A vremena za koje idosmo od Kadis-Varnije pa dokle prijeðosmo preko potoka Zareda, bješe trideset i osam godina, dokle ne izumrije u okolu sav onaj naraštaj, ljudi za vojsku, kao što im se bješe zakleo Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer i ruka Gospodnja bijaše protivu njih potiruæi ih iz okola dokle ne pomriješe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I kad svi ti ljudi za vojsku pomriješe u narodu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Reèe mi Gospod govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ti æeš danas prijeæi preko meðe Moavske kod Ara;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I doæi æeš blizu sinova Amonovijeh; nemoj im pakostiti ni zametati boja sa njima, jer ti neæu dati zemlje Amonske u našljedstvo, jer je dadoh sinovima Lotovim u našljedstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I za nju se mislilo da je zemlja divovska; u njoj preðe življahu divovi, koje Amonci zvahu Zamzumi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Bijahu narod velik i jak i visok kao Enakimi; ali ih istrijebi Gospod ispred njih, te oni preuzeše zemlju njihovu i naseliše se na njihovo mjesto;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Kao što uèini sinovima Isavovijem, koji življahu u Siru, jer istrijebi Horeje ispred njih, i preuzeše zemlju njihovu i ostaše na njihovu mjestu do danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I Aveje, koji življahu u Asirotu pa do Gaze, istrijebiše Kaftoreji, koji izaðoše od Kaftora, i naseliše se na njihovo mjesto.)"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ustanite, idite i prijeðite preko potoka Arnona; gle, dao sam ti u ruke Siona Amorejina cara Esevonskoga i zemlju njegovu; poèni uzimati našljedstvo, i zavojšti na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Danas poèinjem zadavati strah i trepet od tebe narodima pod cijelijem nebom; koji god èuju za te, drktaæe i prepadaæe se od tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I poslah poslanike iz pustinje Kedamota k Sionu caru Esevonskom s mirnijem rijeèima govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Da prijeðem preko tvoje zemlje; upravo æu putem iæi, neæu svrtati ni nadesno ni nalijevo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Hranu da mi daješ za novce da jedem, i vodu za novce da mi daješ da pijem, samo da proðem pješice,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Kao što mi uèiniše sinovi Isavovi koji žive u Siru, i Moavci, koji žive u Aru, dokle ne prijeðem preko Jordana u zemlju koju nam daje Gospod Bog naš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ali ne htje Sion car Esevonski pustiti da proðemo kroz njegovu zemlju, jer Gospod Bog tvoj uèini te otvrdnu duh njegov i srce njegovo posta uporno, da bi ga predao u tvoje ruke, kao što se vidi danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I reèe mi Gospod: gledaj, poèeh predavati tebi Siona i zemlju njegovu; poèni uzimati zemlju njegovu da je naslijediš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I izide pred nas Sion i sav narod njegov na boj u Jasu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I dade nam ga Gospod Bog naš, i ubismo ga sa sinovima njegovijem i svijem narodom njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I uzesmo tada sve gradove njegove, i pobismo ljude po svijem tijem gradovima, i žene i djecu, ne ostavismo živa nijednoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Samo stoku zaplijenismo za se i plijen što bješe po gradovima koje uzesmo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Od Aroira koji je na potoku Arnonu, i od grada koji je u dolini, pa do Galada ne bješe grada koji bi nam odolio: sve to dade nam Gospod Bog naš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Samo k zemlji sinova Amonovih nisi pristupio niti ka kojemu kraju na potoku Javoku, ni ka gradovima u gori niti kojemu mjestu što je zabranio Gospod Bog naš."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DEU/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DEU/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DEU/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 37
+}

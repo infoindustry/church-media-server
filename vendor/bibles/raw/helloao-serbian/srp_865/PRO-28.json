@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PRO",
+    "translationId": "srp_865",
+    "name": "Poslovice",
+    "commonName": "Poslovice",
+    "title": "Poslovice",
+    "order": 20,
+    "numberOfChapters": 31,
+    "sha256": "f56bab8aa62f0f40c0df66127a72bfe1a5502690bdb1dac94e5767df0572eee0",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PRO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PRO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/PRO/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PRO",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 915
+  },
+  "chapter": {
+    "number": 28,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Bježe bezbožnici kad ih niko ne goni, a pravednici su kao laviæi bez straha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kad se u zemlji zla èine, nastaju joj mnogi knezovi; ali kad se naðe èovjek razuman i vješt, ostaje dugo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Èovjek siromah koji èini krivo ubogima jest kao silan dažd iza kojega nestaje hljeba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Koji ostavljaju zakon, hvale bezbožnike; a koji drže zakon, protive im se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Zli ljudi ne razumiju što je pravo; a koji traže Gospoda, razumiju sve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Bolji je siromah koji hodi u bezazlenosti svojoj nego ko ide krivijem putovima ako je i bogat."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ko èuva zakon, sin je razuman; a ko se druži s izjelicama, sramoti oca svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ko umnožava dobro svoje ujmom i pridavkom, sabira onome koji æe razdavati siromasima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ko odvraæa uho svoje da ne èuje zakona, i molitva je njegova mrska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ko zavodi prave na zao put, pašæe u jamu svoju, a bezazleni naslijediæe dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Bogat èovjek misli da je mudar, ali razuman siromah ispituje ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Kad se raduju pravedni, velika je slava; a kad se podižu bezbožnici, traži se èovjek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ko krije prijestupe svoje, neæe biti sreæan; a ko priznaje i ostavlja, dobiæe milost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Blago èovjeku koji se svagda boji; a ko je tvrdoglav, upada u zlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Bezbožnik koji vlada narodom siromašnijem, lav je koji rièe i medvjed gladan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Knez bez razuma èini mnogo nepravde, a koji mrzi na lakomstvo, živjeæe dugo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Èovjek koji èini nasilje krvi ljudskoj, bježaæe do groba, a niko ga neæe zadržati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ko hodi u bezazlenosti, spašæe se; a ko je opak na putovima, pašæe u jedan mah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ko radi svoju zemlju, biæe sit hljeba; a ko ide za besposlicama, nasitiæe se sirotinje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Èovjek vjeran obiluje blagoslovima; a ko nagli da se obogati, neæe biti bez krivice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Nije dobro gledati ko je ko, jer za zalogaj hljeba èovjek æe uèiniti zlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Nagli da se obogati èovjek zavidljiv, a ne zna da æe mu doæi siromaštvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ko ukorava èovjeka naæi æe poslije veæu milost nego koji laska jezikom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ko krade oca svojega i mater svoju, i govori: nije grijeh, on je drug krvniku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Oholi zameæe svaðu; a ko se uzda u Gospoda, izobilovaæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ko se uzda u svoje srce, bezuman je; a ko hodi mudro, izbaviæe se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ko daje siromahu, neæe mu nedostajati; a ko odvraæa oèi svoje, biæe mu mnogo kletava."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Kad se podižu bezbožnici, sakriva se èovjek; a kad ginu, umnožavaju se pravedni."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PRO/28.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 28
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PRO/29.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 29
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PRO/27.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 27
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

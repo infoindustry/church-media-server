@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 22,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kaži Aronu i sinovima njegovijem da se èuvaju od svetijeh stvari sinova Izrailjevih, da ne bi oskvrnili sveto ime moje u onom što mi oni posveæuju; ja sam Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Reci im: ko bi god iz sjemena vašega od koljena na koljeno pristupio k svetijem stvarima, koje bi posvetili sinovi Izrailjevi Gospodu, kad je neèistota njegova na njemu, taj neka se istrijebi ispred lica mojega; ja sam Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ko bi god iz sjemena Aronova bio gubav ili bi išlo sjeme od njega, neka ne jede svetijeh stvari dokle ne bude èist; tako i koji bi se dotakao koga neèista od mrtva tijela ili onoga od koga je izašlo sjeme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ili ko bi se dotakao èega što gamiže po zemlji, od èega bi se oskvrnio, ili èovjeka od kojega bi se oskvrnio kakve mu drago radi neèistote njegove,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ko bi se dotakao takoga èega, biæe neèist do veèera; zato neka ne jede svetijeh stvari ako ne okupa tijela svojega u vodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kad zaðe sunce, biæe èist, i onda može jesti od svetijeh stvari; jer mu je hrana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mrcinoga ili što raskine zvjerka neka ne jede, da se njim ne skvrni; ja sam Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tako neka drže što sam uredio da se drži, da ne navuku na se grijeha i ne umru od njega oskvrnivši se. Ja sam Gospod, koji ih posveæujem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Niko drugi da ne jede svetijeh stvari, ni ukuæanin sveštenikov ni nadnièar da ne jede svetijeh stvari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A kad sveštenik kupi koga za novce, taj neka ih jede, i koji se rodi u kuæi njegovoj; oni neka jedu jela njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ali kæi sveštenièka kad se uda za èovjeka drugoga plemena, ona da ne jede od žrtava podignutijeh svetijeh stvari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A kæi sveštenièka ako obudovi, ili je pusti muž, ako nema poroda, neka se vrati kuæi oca svojega kao što je bila u djetinjstvu svojem, hljeb oca svojega neka jede; ali niko drugoga plemena da ga ne jede."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A ko bi nehotice jeo svetu stvar, neka dometne peti dio i naknadi svešteniku svetu stvar,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Da ne bi skvrnili svetijeh stvari sinova Izrailjevih, koje prinose Gospodu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I da ne bi navlaèili na njih kara za prijestup jeduæi svete stvari njihove, jer sam ja Gospod, koji ih posveæujem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Kaži Aronu i sinovima njegovijem i svijem sinovima Izrailjevijem, i reci im: ko god od doma Izrailjeva ili izmeðu stranaca koji su u Izrailju hoæe da prinese žrtvu svoju po kakvom god zavjetu svom, ili od dobre volje svoje dar, što se prinosi Gospodu na žrtvu paljenicu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Neka prinese drage volje muško zdravo od goveda ili od ovaca ili od koza."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Na èem bi bila mana, ono ne prinosite, jer vam se ne bi primilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I kad ko hoæe da prinese žrtvu zahvalnu Gospodu, izvršujuæi zavjet ili od svoje volje dajuæi dar, od goveda ili od sitne stoke, neka bude zdravo, da bi bilo primljeno; nikake mane da nema na njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Slijepo ili kojemu je što slomljeno ili odbijeno, ni gutavo ni krastavo ni lišajivo, što je tako ne prinosite Gospodu, i ne meæite ih na oltar Gospodnji za žrtvu ognjenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A vola ili ovcu ili kozu s udom kojim prevelikim ili premalim možeš prinijeti za dobrovoljni dar; ali za zavjet neæe se primiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ujalovljeno uvrtanjem, tuèenjem, kidanjem ili rezanjem, ne prinosite Gospodu; i ne èinite toga u zemlji svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I iz ruke tuðinske nemojte uzimati nijedne stvari da prinesete hljeb Bogu svojemu; jer je kvar njihov u njima; imaju manu, neæe vam se primiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Tele i jagnje i jare kad se omladi, neka bude sedam dana kod majke svoje, pa od osmoga dana i poslije biæe ugodno za žrtvu ognjenu Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A krave ni ovce ni koze ne koljite u jedan dan s mladetom njezinijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I kad prinosite Gospodu žrtvu radi hvale, prinesite je dragovoljno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Neka se jede istoga dana, i ne ostavljajte ništa do jutra; ja sam Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Zato držite zapovijesti moje, i vršite ih; ja sam Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I nemojte skvrniti svetoga imena mojega, i ja æu se svetiti meðu sinovima Izrailjevim; ja sam Gospod, koji vas posveæujem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Koji sam vas izveo iz zemlje Misirske da vam budem Bog; ja sam Gospod."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/22.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 22
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/23.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 23
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/21.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 21
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

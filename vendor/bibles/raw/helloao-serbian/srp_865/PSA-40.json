@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 40,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Dugo èekah Gospoda, i saže se k meni, i èu viku moju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Izvadi me iz jame, koja buèi, i iz gliba, i postavi na kamen noge moje, i utvrdi stope moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I metnu u usta moja pjesmu novu, hvalu Bogu našemu. Vide mnogi, i poèinju se bojati Gospoda, i uzdati se u njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Blago onome koji na Gospoda stavlja nadanje svoje, i ne obraæa se oholima i onijem koji teže na laž."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mnoga su èudesa tvoja, koja si uèinio, Gospode, Bože moj, i mnoge su misli tvoje s nama. Nema ti ravna. Htio bih javljati i kazivati, ali im broja nema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Žrtve i darova neæeš; ti si mi uši otvorio; žrtve paljenice i koja se za grijeh prinosi ne tražiš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I po tome rekoh: evo idem, kao što je u knjizi pisano za mene;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Hoæu èiniti volju tvoju, Bože moj, i zakon je tvoj meni u srcu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Kazujem pravdu na saboru velikom; evo, usta svojih ne ustavljam; Gospode, ti znaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Pravde tvoje ne sakrivam u srcu svom, kazujem vjernost tvoju i spasenje tvoje; i ne tajim milosti tvoje i istine tvoje od sabora velikog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Gospode, nemoj zatvoriti srca svojega od mene; milost tvoja i istina tvoja jednako neka me èuvaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer me opkoliše zla nebrojena; stigoše me nepravde moje, da ne mogu gledati; ima ih više nego kose na glavi mojoj, srce me moje ostavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Gospode, voljan budi izbaviti me, Gospode, pohitaj mi u pomoæ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Nek se postide i posrame svi koji traže pogibao duši mojoj! Nek se vrate natrag i postide koji mi žele zlo!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Nek se povrate u smetnji svojoj koji mi govore: ha! ha!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Neka se tješe i vesele tobom svi koji traže tebe, Gospode, i koji ljube spasenje tvoje, neka jednako govore: velik Gospod!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ja sam nesreæan i ništ, neka se Gospod postara za me! Ti si pomoæ moja i izbavitelj moj, Bože moj, ne èasi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/40.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 40
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/41.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 41
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/39.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 39
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

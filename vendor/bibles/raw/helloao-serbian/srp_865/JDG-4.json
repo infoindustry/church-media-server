@@ -1,0 +1,244 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JDG",
+    "translationId": "srp_865",
+    "name": "Sudije",
+    "commonName": "Sudije",
+    "title": "Sudije",
+    "order": 7,
+    "numberOfChapters": 21,
+    "sha256": "b90b96d9ad07648b61c3175adb672cbdc04a1a389be225dc4596659462d0e4db",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JDG/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JDG/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 618
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A po smrti Aodovoj opet sinovi Izrailjevi èiniše što je zlo pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I Gospod ih dade u ruke Javinu caru Hananskom, koji vladaše u Asoru, a vojsci njegovoj bješe vojvoda Sisara, koji življaše u Arosetu neznabožaèkom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I sinovi Izrailjevi vapiše ka Gospodu; jer on imaše devet stotina gvozdenijeh kola, i veoma pritješnjavaše sinove Izrailjeve dvadeset godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "U to vrijeme Devora proroèica, žena Lafidotova, suðaše Izrailju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I Devora stanovaše pod palmom izmeðu Rame i Vetilja u gori Jefremovoj, i dolažahu k njoj sinovi Izrailjevi na sud."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A ona poslavši dozva Varaka sina Avinejemova iz Kedesa Neftalimova, i reèe mu: nije li zapovjedio Gospod Bog Izrailjev: idi, skupi narod na goru Tavor, i uzmi sa sobom deset tisuæa ljudi izmeðu sinova Neftalimovijeh i sinova Zavulonovijeh?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer æu dovesti k tebi na potok Kison Sisaru vojvodu Javinova i kola njegova i ljudstvo njegovo, i predaæu ga tebi u ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A Varak joj reèe: ako æeš ti iæi sa mnom, iæi æu; ako li neæeš iæi sa mnom, neæu iæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A ona reèe: ja æu iæi s tobom, ali neæeš imati slave na putu kojim æeš iæi; jer æe ženi u ruku dati Gospod Sisaru. I ustavši Devora otide s Varakom u Kedes."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I Varak sazvavši sinove Zavulonove i Neftalimove u Kedes, povede za sobom deset tisuæa ljudi; i Devora iðaše s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Ever Kenejin bješe se odvojio od Keneja, od sinova Ovava tasta Mojsijeva, i bješe razapeo svoj šator kod hrastova Zanajimskih, a to je kod Kedesa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I javiše Sisari da je izašao Varak sin Avinejemov na goru Tavor."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I Sisara skupi sva kola svoja, devet stotina kola gvozdenijeh, i sav narod koji bijaše s njim od Aroseta neznabožaèkoga do potoka Kisona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Tada reèe Devora Varaku: ustani, jer je ovo dan, u koji ti dade Gospod Sisaru u ruke. Ne ide li Gospod pred tobom? I Varak siðe s gore Tavora, i deset tisuæa ljudi za njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I Gospod smete Sisaru i sva kola njegova i svu vojsku oštrim maèem pred Varakom; i Sisara siðe s kola svojih i pobježe pješice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Varak potjera kola i vojsku do Aroseta neznabožaèkoga; i pade sva vojska Sisarina od oštroga maèa, ne osta nijedan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A Sisara uteèe pješice do šatora Jailje žene Evera Kenejina; jer bijaše mir meðu Javinom carem Asorskim i domom Evera Kenejina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I izide Jailja na susret Sisari, i reèe mu: skloni se, gospodaru, skloni se kod mene; ne boj se. I on se skloni kod nje u šator, i ona ga pokri pokrivaèem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A on joj reèe: daj mi malo vode da se napijem, jer sam žedan. A ona otvori mijeh mlijeka i napoji ga, pa ga pokri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A on joj reèe: stoj na vratima od šatora, i ako ko doðe i zapita te i reèe: ima li tu ko? reci: nema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tada Jailja žena Everova uze kolac od šatora, i uze malj u ruku, i pristupi k njemu polako, i satjera mu kolac kroz slijepe oèi, te proðe u zemlju, kad spavaše tvrdo umoran, i umrije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I gle, Varak tjeraše Sisaru, i Jailja mu izide na susret, i reèe mu: hodi da ti pokažem èovjeka kojega tražiš. I uðe k njoj, i gle, Sisara ležaše mrtav, i kolac mu u slijepijem oèima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Tako pokori Bog u onaj dan Javina cara Hananskoga pred sinovima Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I ruka sinova Izrailjevijeh bivaše sve teža Javinu caru Hananskom, dokle ne istrijebiše Javina cara Hananskoga."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JDG/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JDG/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JDG/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 24
+}

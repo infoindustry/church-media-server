@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Jotor sveštenik Madijamski, tast Mojsijev, èu sve što uèini Gospod Mojsiju i Izrailju narodu svojemu, kako izvede Gospod Izrailja iz Misira;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I uze Jotor tast Mojsijev Seforu ženu Mojsijevu, koju bješe poslao natrag,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I dva sina njezina, od kojih jednom bješe ime Girsam, jer reèe: tuðin sam u zemlji tuðoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A drugom bješe ime Eliezer, jer, reèe, Bog oca mojega bi mi u pomoæi i ote me od maèa Faraonova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I poðe Jotor tast Mojsijev sa sinovima njegovijem i sa ženom njegovom k Mojsiju u pustinju, gdje bješe u okolu pod gorom Božijom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I poruèi Mojsiju: ja tast tvoj Jotor idem k tebi i žena tvoja i oba sina njezina s njom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I Mojsije izide na susret tastu svojemu i pokloni mu se i cjeliva ga; i upitaše se za zdravlje, pa uðoše pod šator njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I pripovjedi Mojsije tastu svojemu sve što uèini Gospod Faraonu i Misircima radi Izrailja, i sve nevolje, koje ih nalaziše putem, i kako ih izbavi Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I radovaše se Jotor svemu dobru što uèini Gospod Izrailju izbavivši ga iz ruke Misirske;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I reèe Jotor: blagosloven da je Gospod, koji vas izbavi iz ruke Misirske i iz ruke Faraonove, koji izbavi narod iz ropstva Misirskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Sad vidim da je Gospod veæi od svijeh bogova, jer èim se ponošahu onijem ih samijem nadvisi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I uze Jotor tast Mojsijev i prinese Bogu žrtvu paljenicu i prinos; i doðe Aron i sve starješine Izrailjske, i jedoše s tastom Mojsijevijem pred Bogom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A sjutradan sjede Mojsije da sudi narodu; i stajaše narod pred Mojsijem od jutra do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A tast Mojsijev gledajuæi sve šta radi s narodom, reèe: šta to radiš s narodom? zašto sjediš sam, a vas narod stoji pred tobom od jutra do veèera?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Mojsije reèe tastu svojemu: jer dolazi narod k meni da pita Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Kad imaju što meðu sobom, dolaze k meni, te im sudim i kazujem naredbe Božje i zakone njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A tast Mojsijev reèe mu: nije dobro što radiš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Umoriæeš se i ti i narod koji je s tobom; jer je to teško za tebe, neæeš moæi sam vršiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nego poslušaj mene; ja æu te svjetovati, i Bog æe biti s tobom; ti budi pred Bogom za narod, i stvari njihove javljaj Bogu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I uèi ih naredbama i zakonima njegovijem, i pokazuj im put kojim æe iæi i šta æe raditi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A iz svega naroda izberi ljude poštene, koji se boje Boga, ljude pravedne, koji mrze na mito, pa ih postavi nad njima za poglavare, tisuænike, stotinike, pedesetnike i desetnike;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Oni neka sude narodu u svako doba; pa svaku stvar veliku neka javljaju tebi, a svaku stvar malu neka raspravljaju sami; tako æe ti biti lakše, kad i oni stanu nositi teret s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ako to uèiniš, i Bog ti zapovjedi, možeš se održati, i sav æe narod doæi mirno na svoje mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I Mojsije posluša tasta svojega, i uèini sve što reèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I izabra Mojsije iz svega Izrailja ljude poštene, i postavi ih za poglavare nad narodom, tisuænike, stotinike, pedesetnike i desetnike,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Koji suðahu narodu u svako doba, a stvari teške javljahu Mojsiju, a male stvari raspravljahu sami."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Poslije otpusti Mojsije tasta svojega, koji se vrati u svoju zemlju."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/18.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 18
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/19.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 19
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/17.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 17
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

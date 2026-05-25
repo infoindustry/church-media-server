@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Potom doðe mi rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Sine èovjeèji, ovako kaže Gospod Gospod za zemlju Izrailjevu: kraj, doðe kraj na èetiri strane zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Doðe ti kraj, i pustiæu gnjev svoj na te, i sudiæu ti po putovima tvojim i obratiæu na te sve gadove tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I oko moje neæe te požaliti, niti æu se smilovati, nego æu putove tvoje obratiti na te, i gadovi æe tvoji biti usred tebe, i poznaæete da sam ja Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ovako veli Gospod Gospod: zlo, jedno zlo, evo ide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Kraj doðe, kraj doðe, usta na te, evo doðe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Doðe jutro tebi, stanovnièe zemaljski, doðe vrijeme, približi se dan, kad æe biti polom a ne jeka gorska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Sada æu odmah izliti jarost svoju na te, i navršiæu gnjev svoj na tebi, i sudiæu ti po tvojim putovima, i obratiæu na te sve gadove tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Neæe žaliti oko moje, niti æu se smilovati, daæu ti po putovima tvojim, i gadovi æe tvoji biti usred tebe, i poznaæete da sam ja Gospod, koji bije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Evo dana, evo doðe, jutro nasta, procvate prut, ponositost napupi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nasilje naraste prut bezakonja, niko neæe ostati od njih ni od mnoštva njihova ni od buke njihove, niti æe biti naricanja za njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Doðe vrijeme, prispje dan; ko kupuje neka se ne raduje, i ko prodaje neka ne žali, jer æe doæi gnjev na sve ljudstvo njihovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer ko prodaje, neæe opet doæi do onoga što proda, ako i ostane živ; jer utvara za sve mnoštvo njihovo neæe se vratiti natrag, i niko se neæe okrijepiti bezakonjem svojim da saèuva život svoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Zatrubiše u trube, i spremiše sve; ali nema nikoga da izaðe u boj, jer se gnjev moj raspalio na sve ljudstvo njihovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Napolju maè, a unutra pomor i glad; ko bude u polju, poginuæe od maèa; a ko bude u gradu, njega æe glad i pomor proždrijeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A koji ih uteku, izbaviæe se i biæe po gorama kao golubovi iz dolina, svi æe uzdisati, svaki za svoje bezakonje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Sve æe ruke klonuti i sva æe koljena postati kao voda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I pripasaæe oko sebe kostrijet, i drhat æe ih popasti, i na svakom æe licu biti stid, i sve æe im glave biti æelave."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Srebro æe svoje pobacati po ulicama, i zlato æe njihovo biti kao neèistota; srebro njihovo i zlato njihovo neæe ih moæi izbaviti u dan gnjeva Gospodnjega; neæe nasititi duše svoje niti æe napuniti trbuha svojega, jer im je bezakonje njihovo spoticanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer slavni nakit svoj obratiše na oholost, i naèiniše od njega likove gadova svojih, gnusobe svoje; zato uèinih da im je neèistota."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I daæu ga u ruke inostrancima da ga razgrabe, i bezbožnicima na zemlji da je plijen, i oskvrniæe ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I odvratiæu lice svoje od njih, i oskvrniæe svetinju moju, i uæi æe u nju lupeži i oskvrniæe je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Naèini verige, jer je zemlja puna krvnoga suda, i grad je pun nasilja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Zato æu dovesti najgore izmeðu naroda da naslijede kuæe njihove, i ukinuæu oholost silnijeh, i sveta mjesta njihova oskvrniæe se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ide pogibao; oni æe tražiti mira, ali ga neæe biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Nevolja za nevoljom dolaziæe, i glas za glasom stizaæe; i oni æe tražiti utvaru od proroka; zakona æe nestati u sveštenika i svjeta u staraca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Car æe tužiti, i knezovi æe se obuæi u žalost, i ruke narodu zemaljskom drktaæe; uèiniæu im po putovima njihovijem i sudiæu im prema sudovima njihovijem; i poznaæe da sam ja Gospod."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

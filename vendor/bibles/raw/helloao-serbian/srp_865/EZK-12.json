@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Opet mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Sine èovjeèji, usred doma odmetnièkoga sjediš, koji ima oèi da vidi i ne vidi, ima uši da èuje i ne èuje; jer su dom odmetnièki."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Zato ti, sine èovjeèji, spremi što treba za seobu, i seli se obdan na njihove oèi; i iseli se iz svojega mjesta na drugo mjesto na njihove oèi, ne bi li vidjeli, jer su dom odmetnièki."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I iznesi stvari svoje kao kad se ko seli obdan na njihove oèi, a sam izidi uveèe na njihove oèi kao oni koji se sele."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Na njihove oèi prokopaj zid, i iznesi svoje stvari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Na njihove oèi digni na ramena i iznesi po mraku, lice svoje pokrij da ne vidiš zemlje, jer te dadoh da budeš znak u domu Izrailjevu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I uèinih tako kako mi se zapovjedi; stvari svoje iznesoh obdan kao kad se seli; a uveèe prokopah zid rukom; i po mraku iznesoh na ramenima noseæi na njihove oèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A ujutru doðe mi rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Sine èovjeèji, reèe li ti dom Izrailjev, dom odmetnièki: što radiš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Reci im: ovako veli Gospod Gospod: ovo je breme za kneza koji je u Jerusalimu i za sav dom Izrailjev što je ondje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Reci: ja sam vam znak, kako ja uèinih tako æe im biti; preseliæe se i otiæi u ropstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I knez koji je meðu njima noseæi na ramenima po mraku æe izaæi; oni æe prokopati zid da iznesu; on æe pokriti lice svoje da ne vidi zemlje oèima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ali æu mu razapeti mrežu svoju i uhvatiæe se u zamku moju, i odvešæu ga u Vavilon, u zemlju Haldejsku, ali je neæe vidjeti, a ondje æe umrijeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I sve koji su oko njega, pomoænike njegove, i svu vojsku njegovu rasijaæu u sve vjetrove, i izvuæi æu maè za njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I poznaæe da sam ja Gospod kad ih rasijem po narodima i razaspem po zemljama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A ostaviæu ih nekoliko ljudi koji æe ostati od maèa i od gladi i od pomora da pripovijedaju sve gadove svoje meðu narodima u koje otidu; i poznaæe da sam ja Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Opet mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Sine èovjeèji, hljeb svoj jedi prezajuæi i vodu svoju pij drkæuæi i brinuæi se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I reci narodu zemaljskom: ovako veli Gospod Gospod za stanovnike Jerusalimske, za zemlju Izrailjevu: hljeb æe svoj jesti u brizi i vodu æe svoju piti prepadajuæi se, jer æe zemlja opustjeti i ostati bez svega što je u njoj za bezakonje svijeh koji žive u njoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I gradovi u kojima žive opustjeæe, i zemlja æe biti pusta, i poznaæete da sam ja Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Opet mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Sine èovjeèji, kaka je to prièa u vas o zemlji Izrailjevoj što govorite: protežu se dani, i od utvare neæe biti ništa?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Zato im reci: ovako veli Gospod Gospod: ukinuæu tu prièu i neæu je više govoriti u Izrailju; nego im reci: blizu su dani i rijeè svake utvare."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer neæe više biti u domu Izrailjevu zaludne utvare ni gatanja kojim se laska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Jer æu ja Gospod govoriti, i što reèem zbiæe se; neæe se više odgaðati, nego za vašega vremena, dome odmetnièki, reæi æu rijeè i izvršiæu je, govori Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Opet mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Sine èovjeèji, gle, dom Izrailjev govori: utvara koju taj vidi, do nje ima mnogo vremena, i za daleko vrijeme taj prorokuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Zato im reci: ovako veli Gospod Gospod: neæe se više odgaðati nijedna moja rijeè; rijeè koju reèem zbiæe se, govori Gospod Gospod."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/12.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 12
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/13.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 13
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/11.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 11
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "srp_865",
+    "name": "Mateju",
+    "commonName": "Mateju",
+    "title": "Jevanðelje po Mateju",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "2282cb47d4ecce5bfb50178a05f4b87b8f4e94d2e2954aa2bd38500539980051",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/MAT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada Isusa odvede Duh u pustinju da ga ðavo kuša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I postivši se dana èetrdeset i noæi èetrdeset, napošljetku ogladnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I pristupi k njemu kušaè i reèe: ako si sin Božij, reci da kamenje ovo hljebovi postanu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A on odgovori i reèe: pisano je: ne živi èovjek o samom hljebu, no o svakoj rijeèi koja izlazi iz usta Božijih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tada odvede ga ðavo u sveti grad i postavi ga navrh crkve;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Pa mu reèe: ako si sin Božij, skoèi dolje, jer u pismu stoji da æe anðelima svojijem zapovjediti za tebe, i uzeæe te na ruke, da gdje ne zapneš za kamen nogom svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Isus reèe njemu: ali i to stoji napisano: nemoj kušati Gospoda Boga svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Opet uze ga ðavo i odvede na goru vrlo visoku, i pokaza mu sva carstva ovoga svijeta i slavu njihovu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I reèe mu: sve ovo daæu tebi ako padneš i pokloniš mi se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Tada reèe njemu Isus: idi od mene, sotono; jer stoji napisano: Gospodu Bogu svojemu poklanjaj se i njemu jedinome služi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tada ostavi ga ðavo, i gle, anðeli pristupiše i služahu mu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A kad èu Isus da je Jovan predan, otide u Galileju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I ostavivši Nazaret doðe i namjesti se u Kapernaumu primorskome na meði Zavulonovoj i Neftalimovoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Da se zbude što je rekao Isaija prorok govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zemlja Zavulonova i zemlja Neftalimova, na putu k moru s one strane Jordana, Galileja neznabožaèka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ljudi koji sjede u tami, vidješe vidjelo veliko, i onima što sjede na strani i u sjenu smrtnome, zasvijetli vidjelo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Od tada poèe Isus uèiti i govoriti: pokajte se, jer se približi carstvo nebesko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I iduæi pokraj mora Galilejskog vidje dva brata, Simona, koji se zove Petar, i Andriju brata njegova, gdje meæu mreže u more, jer bijahu ribari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I reèe im: hajdete za mnom, i uèiniæu vas lovcima ljudskijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A oni taj èas ostaviše mreže i za njim otidoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I otišavši odatle vidje druga dva brata, Jakova Zevedejeva, i Jovana brata njegova, u laði sa Zevedejem ocem njihovijem gdje krpe mreže svoje, i pozva ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A oni taj èas ostaviše laðu i oca svojega i za njim otidoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I prohoðaše po svoj Galileji Isus uèeæi po zbornicama njihovijem, i propovijedajuæi jevanðelje o carstvu, i iscjeljujuæi svaku bolest i svaku nemoæ po ljudima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I otide glas o njemu po svoj Siriji i privedoše mu sve bolesne od razliènijeh bolesti i s razliènijem mukama, i bijesne, i mjeseènjake, i uzete, i iscijeli ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I za njim iðaše naroda mnogo iz Galileje, i iz Deset Gradova, i iz Jerusalima, i Judeje, i ispreko Jordana."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAT/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAT/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

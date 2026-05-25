@@ -1,0 +1,475 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 41,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A poslije dvije godine dana usni Faraon, a on stoji na jednoj rijeci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I gle, iz rijeke izaðe sedam krava lijepijeh i debelijeh, i stadoše pasti po obali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I gle, iza njih izaðe iz rijeke sedam drugih krava, ružnijeh i mršavijeh, i stadoše pored onijeh krava na obali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I ove krave ružne i mršave pojedoše onijeh sedam krava lijepijeh i debelijeh. U tom se probudi Faraon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Pa opet zaspav usni drugom, a to sedam klasova izraste iz jednoga stabla jedrijeh i lijepijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A iza njih isklija sedam klasova malijeh i šturijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Pa ovi klasovi mali pojedoše onijeh sedam velikijeh i jedrijeh. U tom se probudi Faraon i vidje da je san."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I kad bi ujutru, on se zabrinu u duhu, i poslav sazva sve gatare Misirske i sve mudarce, i pripovjedi im šta je snio; ali niko ne može kazati Faraonu šta znaèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tada progovori starješina nad peharnicima Faraonu i reèe: danas se opomenuh grijeha svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Kad se Faraon rasrdi na sluge svoje i baci u tamnicu u kuæi zapovjednika stražarskoga mene i starješinu nad hljebarima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Usnismo u jednu noæ ja i on, svaki za sebe po znaèenju sna svojega usnismo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A ondje bijaše s nama momèe Jevrejèe, sluga zapovjednika stražarskoga, i mi mu pripovjedismo sne, a on nam kaza šta èiji san znaèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I zbi se kako nam kaza: mene povrati Faraon u službu, a onoga objesi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Tada Faraon posla po Josifa, i brže ga izvedoše iz tamnice, a on se obrija i preobuèe se, te izaðe pred Faraona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Faraon reèe Josifu: usnih san, pa mi niko ne umije da kaže šta znaèi; a za tebe èujem da umiješ kazivati sne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Josif odgovori Faraonu i reèe: to nije u mojoj vlasti, Bog æe javiti dobro Faraonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I reèe Faraon Josifu: usnih, a ja stojim kraj rijeke na obali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I gle, iz rijeke izaðe sedam krava debelijeh i lijepijeh, te stadoše pasti po obali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I gle, iza njih izaðe sedam drugih krava rðavijeh, i vrlo ružnijeh i mršavijeh, kakvijeh nijesam vidio u cijeloj zemlji Misirskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I ove krave mršave i ružne pojedoše onijeh sedam debelijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I kad im biše u trbuhu, ne poznavaše se da su im u trbuhu, nego opet bjehu onako ružne kao prije. U tom se probudih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Pa opet usnih, a to sedam klasova izraste iz jednoga stabla jedrijeh i lijepijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A iza njih isklija sedam malijeh, tankijeh i šturijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I ovi tanki klasovi proždriješe onijeh sedam lijepijeh. I ovo pripovjedih gatarima, ali mi nijedan ne zna kazati šta znaèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A Josif reèe Faraonu: oba su sna Faraonova jednaka; Bog javlja Faraonu šta je naumio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Sedam lijepijeh krava jesu sedam godina, i sedam lijepijeh klasova jesu sedam godina; oba su sna jednaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A sedam krava mršavijeh i ružnijeh, što izaðoše iza onijeh, jesu sedam godina; i sedam klasova sitnijeh i šturijeh biæe sedam godina gladnijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "To je što rekoh Faraonu: Bog kaže Faraonu šta je naumio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Evo doæi æe sedam godina vrlo rodnijeh svoj zemlji Misirskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A iza njih nastaæe sedam gladnijeh godina, gdje æe se zaboraviti sve obilje u zemlji Misirskoj, jer æe glad satrti zemlju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Te se neæe znati to obilje u zemlji od gladi potonje, jer æe biti vrlo velika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A što je dva puta zasopce Faraon snio, to je zato što je zacijelo Bog tako naumio, i naskoro æe to uèiniti Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Nego sada neka potraži Faraon èovjeka mudra i razumna, pa neka ga postavi nad zemljom Misirskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I neka gleda Faraon da postavi starješine po zemlji, i pokupi petinu po zemlji Misirskoj za sedam rodnijeh godina;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Neka skupljaju od svakoga žita za rodnijeh godina koje idu, i neka snesu pod ruku Faraonovu svakoga žita u sve gradove, i neka èuvaju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Da se naðe hrane zemlji za sedam godina gladnijeh, kad nastanu, da ne propadne zemlja od gladi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I ovo se uèini dobro Faraonu i svijem slugama njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I reèe Faraon slugama svojim: možemo li naæi èovjeka kakav je ovaj, u kojem bi bio duh Božji?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Pa reèe Faraon Josifu: kad je tebi javio Bog sve ovo, nema nikoga tako mudra i razumna kao što si ti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Ti æeš biti nad domom mojim, i sav æe ti narod moj usta ljubiti; samo æu ovijem prijestolom biti veæi od tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I još reèe Faraon Josifu: evo, postavljam te nad svom zemljom Misirskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I skide Faraon prsten s ruke svoje i metnu ga Josifu na ruku, i obuèe ga u haljine od tankoga platna, i objesi mu zlatnu verižicu o vratu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I posadi ga na kola koja bijahu druga za njegovijem, i zapovjedi da pred njim vièu: klanjajte se! i da ga je postavio nad svom zemljom Misirskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "I još reèe Faraon Josifu: ja sam Faraon, ali bez tebe neæe niko maæi ruke svoje ni noge svoje u svoj zemlji Misirskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "I nadje Faraon Josifu ime Psontomfanih, i oženi ga Asenetom kæerju Potifere sveštenika Onskoga. I poðe Josif po zemlji Misirskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "A bijaše Josifu trideset godina kad izaðe pred Faraona cara Misirskoga. I otišav od Faraona obiðe svu zemlju Misirsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "I za sedam rodnijeh godina rodi zemlja svašta izobila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "I stade Josif kupiti za tijeh sedam godina svakoga žita što bješe po zemlji Misirskoj, i snositi žito u gradove; u svaki grad snošaše žito s njiva koje bjehu oko njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Tako nakupi Josif žita vrlo mnogo koliko je pijeska morskoga, tako da ga presta mjeriti, jer mu ne bješe broja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "I dokle još ne nasta gladna godina, rodiše se Josifu dva sina, koje mu rodi Aseneta kæi Potifere sveštenika Onskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "I prvencu nadjede Josif ime Manasija, govoreæi: jer mi Bog dade da zaboravim svu muku svoju i sav dom oca svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "A drugome nadjede ime Jefrem, govoreæi: jer mi Bog dade da rastem u zemlji nevolje svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Ali proðe sedam godina rodnijeh u zemlji Misirskoj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "I nasta sedam godina gladnijeh, kao što je Josif naprijed kazao. I bješe glad po svijem zemljama, a po svoj zemlji Misirskoj bješe hljeba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "Ali najposlije nasta glad i po svoj zemlji Misirskoj, i narod povika k Faraonu za hljeb; a Faraon reèe svima Misircima: idite k Josifu, pa što vam on kaže ono èinite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "I kad glad bješe po svoj zemlji, otvori Josif sve žitnice, i prodavaše Misircima. I glad posta vrlo velika u zemlji Misirskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "I iz svijeh zemalja dolažahu u Misir k Josifu da kupuju; jer posta velika glad u svakoj zemlji."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/41.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 41
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/42.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 42
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/40.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 40
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 57
+}

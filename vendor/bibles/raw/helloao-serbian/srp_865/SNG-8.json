@@ -1,0 +1,174 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "SNG",
+    "translationId": "srp_865",
+    "name": "Pesma nad pesmama",
+    "commonName": "Pesma nad pesmama",
+    "title": "Pesma nad pesmama",
+    "order": 22,
+    "numberOfChapters": 8,
+    "sha256": "af3cfd2e645cad0b116a0f29d9f60ede5ded39d17d4e952244af1a28d2d49ea2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/SNG/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "SNG",
+      "chapter": 1
+    },
+    "lastChapterNumber": 8,
+    "lastChapterApiLink": "/api/srp_865/SNG/8.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "SNG",
+      "chapter": 8
+    },
+    "totalNumberOfVerses": 117
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "O da bi mi brat bio, da bi sao sise matere moje! našavši te na polju poljubila bih te, i ne bih bila prijekorna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Povela bih te i dovela bih te u kuæu matere svoje; ti bi me uèio, a ja bih te pojila vinom mirisavijem, sokom od šipaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Lijeva je ruka njegova meni pod glavom a desnom me grli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Zaklinjem vas, kæeri Jerusalimske, ne budite ljubavi moje, ne budite je, dokle joj ne bude volja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ko je ona što ide gore iz pustinje naslanjajuæi se na dragoga svoga? Pod jabukom probudih te, gdje te rodi mati tvoja, gdje te rodi roditeljka tvoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Metni me kao peèat na srce svoje, kao peèat na mišicu svoju. Jer je ljubav jaka kao smrt, i ljubavna sumnja tvrda kao grob; žar je njezin kao žar ognjen, plamen Božji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Mnoga voda ne može ugasiti ljubavi, niti je rijeke potopiti. Da ko daje sve imanje doma svojega za tu ljubav, osramotio bi se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Imamo sestru malenu, koja još nema dojaka. Šta æemo èiniti sa sestrom svojom kad bude rijeè o njoj?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ako je zid, sagradiæemo na njemu dvor od srebra; ako li vrata, utvrdiæemo ih daskama kedrovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ja sam zid i dojke su moje kao kule. Tada postah u oèima njegovijem kao ona koja naðe mir."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Vinograd imaše Solomun u Valamonu; dade vinograd èuvarima da svaki donosi za rod njegov po tisuæu srebrnika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Moj vinograd koji ja imam, preda mnom je. Neka tebi, Solomune, tisuæa, i dvije stotine onima koji èuvaju rod njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Koja nastavaš u vrtovima! drugovi slušaju glas tvoj, daj mi da ga èujem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Brže, dragi moj! i budi kao srna ili kao jelenèe na gorama mirisnijem."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/SNG/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "SNG",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/SNG/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "SNG",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 14
+}

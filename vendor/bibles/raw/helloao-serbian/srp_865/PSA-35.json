@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 35,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Gospode! budi suparnik suparnicima mojim; udri one koji udaraju na me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Uzmi oružje i štit, i digni se meni u pomoæ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Potegni koplje, i presijeci put onima koji me gone, reci duši mojoj: ja sam spasenje tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Neka se postide i posrame koji traže dušu moju; neka se odbiju natrag i postide koji mi zlo hoæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Neka budu kao prah pred vjetrom, i anðeo Gospodnji neka ih progoni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Neka bude put njihov taman i klizav, i anðeo Gospodnji neka ih tjera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer ni za što zastriješe mrežom jamu za mene, ni za što iskopaše jamu duši mojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Neka doðe na njega pogibao nenadna, i mreža koju je namjestio neka ulovi njega, neka on u nju padne na pogibao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A duša æe se moja radovati o Gospodu, i veseliæe se za pomoæ njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Sve æe kosti moje reæi: Gospode! ko je kao ti, koji izbavljaš stradalca od onoga koji mu dosaðuje, i ništega i ubogoga od onoga koji ga upropašæuje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ustaše na me lažni svjedoci; što ne znam, za ono me pitaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Plaæaju mi zlo za dobro, i sirotovanje duši mojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ja se u bolesti njihovoj oblaèih u vreæu, muèih postom dušu svoju, i molitva se moja vraæaše u prsima mojima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Kao prijatelj, kao brat postupah; bijah sjetan i s oborenom glavom kao onaj koji za materom žali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A oni se raduju kad se ja spotaknem, i kupe se, kupe se na me, zadaju rane, ne znam zašto, èupaju i ne prestaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "S nevaljalijem i podrugljivijem besposlièarima škrguæu na me zubima svojima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Gospode! hoæeš li dugo gledati? Otmi dušu moju od napadanja njihova, od ovijeh lavova jedinicu moju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Priznavaæu te u saboru velikom, usred mnogoga naroda hvaliæu te:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Da mi se ne bi svetili koji mi zlobe nepravedno, i namigivali oèima koji mrze na me ni za što."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer oni ne govore o miru, nego na mirne na zemlji izmišljaju lažne stvari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Razvaljuju na me usta svoja, i govore: dobro! dobro! vidi oko naše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Vidiš, Gospode! nemoj muèati; Gospode! nemoj otstupiti od mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Probudi se, ustani na sud moj, Bože moj i Gospode, i na parnicu moju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Sudi mi po pravdi svojoj, Gospode, Bože moj, da mi se ne svete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ne daj da govore u srcu svojem: dobro! to smo htjeli! Ne daj da govore: proždrijesmo ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Nek se postide i posrame svi koji se raduju zlu mojemu, nek se obuku u stid i u sram koji se razmeæu nada mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Neka se raduju i vesele koji mi žele pravdu, i govore jednako: velik Gospod, koji želi mira sluzi svojemu!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I moj æe jezik kazivati pravdu tvoju, i hvalu tebi svaki dan."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/35.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 35
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/36.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 36
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/34.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 34
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

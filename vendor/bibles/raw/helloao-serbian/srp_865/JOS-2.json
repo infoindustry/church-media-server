@@ -1,0 +1,244 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOS",
+    "translationId": "srp_865",
+    "name": "Isus Navin",
+    "commonName": "Isus Navin",
+    "title": "Isus Navin",
+    "order": 6,
+    "numberOfChapters": 24,
+    "sha256": "ec9d0a794c17ba6296451b87fb16a4d34d8af2bfd446293b00f97a3bbb7257b2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOS/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/JOS/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 658
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Isus sin Navin posla iz Sitima potajno dvije uhode rekavši im: idite, vidite zemlju i Jerihon. I oni otidoše, i doðoše u kuæu jednoj kurvi, kojoj ime bješe Rava, i poèinuše ondje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ali bi javljeno caru Jerihonskom i kazano: evo, ljudi doðoše ovamo noæas izmeðu sinova Izrailjevih da uhode zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I posla car Jerihonski k Ravi i poruèi: izvedi ljude koji su došli k tebi i ušli u tvoju kuæu, jer su došli da uhode svu zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ali žena uzevši ona dva èovjeka sakri ih; pa reèe: jest istina da su ljudi došli k meni, ali ja ne znah odakle bijahu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I kad se vrata zatvorahu u sumrak, ljudi izidoše; ne znam kuda otidoše; idite brzo za njima; stignuæete ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A ona ih bješe izvela na krov, i sakrila ih pod lan netrven, koji bijaše razastrla po krovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I ljudi poðoše za njima u potjeru put Jordana do broda; i vrata se zatvoriše kad izide potjera za njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Oni pak još ne bjehu pospali, a ona doðe k njima na krov,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I reèe im: znam da vam je Gospod dao ovu zemlju, jer nas popade strah od vas, i prepali su se od vas svi koji žive u ovoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer èusmo kako je Gospod osušio pred vama Crveno More kad izidoste iz Misira, i šta ste uèinili od dva cara Amorejska koji bijahu preko Jordana, od Siona i Oga, koje pobiste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I kad to èusmo, rastopi se srce naše, i ni u kome veæ nema junaštva od straha vašega; jer je Gospod, Bog vaš, Bog gore na nebu i dolje na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nego sada zakunite mi se Gospodom da æete uèiniti milost domu oca mojega kao što ja vama uèinih milost, i dajte mi znak istinit,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Da æete saèuvati život mojemu ocu i mojoj materi i mojoj braæi i mojim sestrama i svjema njihovijem, i da æete izbaviti duše naše od smrti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A ljudi joj odgovoriše: mi æemo izginuti za vas, ako ne izdate ove naše stvari; i kad nam Gospod da ovu zemlju, uèiniæemo ti milost i vjeru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tada ih ona spusti kroz prozor po konopcu; jer kuæa njezina bješe na zidu gradskom, i ona na zidu nastavaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I reèe im: idite u goru da ne naiðe na vas potjera, i ondje se krijte tri dana dokle se ne vrati potjera, pa onda idite svojim putem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A ljudi joj rekoše: biæemo prosti od ove tvoje zakletve kojom si nas zaklela;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Evo, kad doðemo u zemlju, veži ovu vrvcu od skerleta na prozor, kroz koji si nas spustila, i skupi kod sebe u tu kuæu oca svojega i mater i braæu i sav dom oca svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I ko bi god izašao iz tvoje kuæe, krv njegova neka bude na njegovu glavu, a mi da nijesmo krivi; a ko god bude s tobom u kuæi, krv njegova neka doðe na naše glave, ako ga se ko rukom dotakne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ali ako izdaš ovu stvar našu, tada æemo biti prosti od tvoje zakletve, kojom si nas zaklela."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A ona odgovori: kako rekoste tako neka bude. Tada ih pusti, i otidoše; i ona veza vrvcu od skerleta na prozor."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A oni otišavši doðoše u goru, i ostaše ondje tri dana dokle se ne vrati potjera; jer ih potjera tražaše po svijem putovima, ali ih ne naðe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I vratiše se ona dva èovjeka, i sišavši s gore prebrodiše i doðoše k Isusu sinu Navinu, i pripovjediše mu sve što im se dogodilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I rekoše Isusu: zaista dao nam je Gospod u ruke svu tu zemlju, i svi stanovnici one zemlje uplašili su se od nas."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOS/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOS/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOS/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 24
+}

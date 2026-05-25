@@ -1,0 +1,328 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 69,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Pomozi mi, Bože, jer doðe voda do duše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Propadam u dubokom glibu, gdje nema dna; tonem vodi u dubine, i vali me zatrpavaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Iznemogoh vièuæi, promuèe mi grlo, pobijelješe mi oèi pogledajuæi Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Onijeh koji mrze na me ni za što ima više nego kose na glavi mojoj; osiliše koji hoæe da me pogube, lažljivi neprijatelji moji. Što nijesam otimao, valja da vratim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Bože! ti znaš je li u meni bezumlje, i krivice moje nijesu sakrivene od tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nemoj da se postide u meni koji se uzdaju u tebe, Gospode, Gospode nad vojskama! Nemoj da se posrame u meni koji traže tebe, Bože Izrailjev!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer tebe radi podnosim rug, i sramota popade lice moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tuðin postadoh braæi svojoj, i neznan sinovima matere svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer revnost za kuæu tvoju jede me i ruženja onijeh koji tebe ruže padaju na me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Plaèem, postim se dušom svojom, i to mi se prima za zlo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Mjesto haljine oblaèim vreæu, i bivam im prièa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "O meni se razgovaraju sjedeæi na vratima, pijuæi vino pjevaju me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A ja se molim tebi, Gospode; vrijeme je da se smiluješ, Bože; po velikoj milosti svojoj usliši me, jer je istinito spasenje tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Izvadi me iz gliba, da ne propadnem; da se izbavim od nenavidnika i iz duboke vode;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Da me ne uzme voda na maticu, da me ne proždre puèina, i da ne sklopi jama nada mnom ždrijela svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Usliši me, Gospode, jer je blagost tvoja milosrdna, po velikoj dobroti svojoj pogledaj me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Nemoj odvratiti lica svojega od sluge svojega; jer me je tuga; pohitaj, usliši me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Približi se duši mojoj, izbavi je; nasuprot neprijateljima mojim izbavi me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ti znaš pod kakvim sam rugom, stidom i sramotom; pred tobom su svi neprijatelji moji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Sramota satr srce moje, iznemogoh; èekam hoæe li se kome sažaliti, ali nema nikoga; hoæe li me ko potješiti, ali ne nalazim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Daju mi žuè da jedem, i u žeði mojoj poje me octom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Trpeza njihova neka im bude mreža i zamka, to neka im bude plata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Neka im potamne oèi njihove, da ne vide, i njihove bedre raslabi zasvagda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Izlij na njih jarost svoju, i plamen gnjeva tvojega neka ih obuzme!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Stan njihov neka opusti, i u njihovijem šatorima neka ne bude nikoga da živi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jer koga si ti porazio, oni gone, i umnožavaju jade onima koje si ti ranio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Meæi na njih krivicu za krivicom, da ne doðu do pravde tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Neka se izbrišu iz knjige živijeh, i s pravednicima nek ne budu zapisani."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A ja sam ništ i bolan; pomoæ tvoja, Bože, nek me zakloni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Slaviæu ime Božije u pjesmi, velièaæu ga u hvali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "To je Bogu milije od vola, od teleta s rogovima i s papcima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Vidjeæe ništi i radovaæe se. Koji tražite Boga, oživjeæe srce vaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Jer Bog èuje uboge, i sužanja svojih ne ogluša se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Neka ga hvale nebesa i zemlja, mora i sve što se u njima mièe!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Jer æe Bog spasti Sion, sazidaæe gradove Judine; i ljudi æe se ondje naseliti i naslijediæe ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I natražje æe se sluga njegovijeh utvrditi u njemu, i koji ljube ime njegovo nastavaæe na njemu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/69.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 69
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/70.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 70
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/68.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 68
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 36
+}

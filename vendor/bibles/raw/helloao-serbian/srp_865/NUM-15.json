@@ -1,0 +1,363 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "srp_865",
+    "name": "Brojevi",
+    "commonName": "Brojevi",
+    "title": "Brojevi",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "5dc73b8a174fd63cb58a0932611fd5816a865be2dae8658fc6051a7a529e9415",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NUM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/NUM/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Opet reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Reci sinovima Izrailjevijem i kaži im: kad doðete u zemlju gdje æete nastavati, koju æu vam ja dati,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I stanete prinositi žrtvu ognjenu Gospodu, žrtvu paljenicu ili žrtvu zavjeta radi ili od drage volje, ili o praznicima svojim, gotoveæi miris ugodni Gospodu od krupne ili od sitne stoke,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tada ko prinese prinos svoj Gospodu, neka donese uza nj dar, desetinu efe bijeloga brašna pomiješana s èetvrtinom ina ulja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I vina èetvrt ina za naljev donesi uz žrtvu paljenicu ili uz drugu žrtvu, na svako jagnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A uz ovna donesi dar, dvije desetine bijeloga brašna pomiješana s treæinom ina ulja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I vina za naljev treæinu ina prinijeæeš za miris ugodni Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A kad prinosiš tele na žrtvu paljenicu ili na žrtvu radi zavjeta ili na žrtvu zahvalnu Gospodu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Onda neka se donese uz tele dar, tri desetine efe bijeloga brašna pomiješana s po ina ulja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I vina donesi za naljev po ina; to je žrtva ognjena za miris ugodni Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tako neka bude uza svakoga vola i uza svakoga ovna i uza svako živinèe izmeðu ovaca ili koza."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Prema broju koliko prinesete, uèinite tako uza svako, koliko ih bude."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Svaki domorodac tako neka èini prinoseæi žrtvu paljenicu za miris ugodni Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Tako ako bude meðu vama i došljak ili ko bi se bavio meðu vama, pa bi prinio žrtvu ognjenu za miris ugodni Gospodu, neka èini onako kako vi èinite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zbore! vama i došljaku koji je meðu vama jedan da je zakon, zakon vjeèan od koljena na koljeno; došljak æe biti kao i vi pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jedan zakon i jedna uredba da bude vama i došljaku, koji je meðu vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Kaži sinovima Izrailjevijem i reci im: kad doðete u zemlju, u koju æu vas ja odvesti,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Pa stanete jesti hljeb one zemlje, tada prinesite prinos Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Od prvina tijesta svojega prinosite u prinos kolaè, kao prinos od gumna tako ga prinosite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Od prvina tijesta svojega dajite Gospodu prinos od koljena do koljena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A kad biste pogriješili, te ne biste uèinili svijeh ovijeh zapovijesti, koje kaza Gospod Mojsiju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Sve što vam je zapovjedio Gospod preko Mojsija, od dana kad zapovjedi Gospod i poslije od koljena do koljena,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ako se bude uèinilo pogrješkom, da zbor ne zna, onda sav zbor neka prinese na žrtvu paljenicu za miris ugodni Gospodu tele s darom njegovijem i s naljevom njegovijem po uredbi, i jedno jare na žrtvu za grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I sveštenik neka oèisti sav zbor sinova Izrailjevijeh, i oprostiæe im se, jer je pogrješka i oni donesoše pred Gospoda svoj prinos za žrtvu ognjenu Gospodu i prinos za grijeh svoj radi pogrješke svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Oprostiæe se svemu zboru sinova Izrailjevijeh i došljaku koji se bavi meðu njima, jer je pogrješka svega naroda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ako li jedna duša zgriješi ne znajuæi, neka prinese kozu od godine na žrtvu za grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I sveštenik neka oèisti dušu koja bude zgriješila ne znajuæi pred Gospodom, i kad je oèisti oprostiæe joj se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I za roðenoga u zemlji sinova Izrailjevijeh i za došljaka, koji se bavi meðu vama, jedan zakon da bude kad ko zgriješi ne znajuæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ali ko od sile zgriješi izmeðu roðenijeh u zemlji ili izmeðu došljaka, on ruži Gospoda; neka se istrijebi ona duša iz naroda svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Jer prezre rijeè Gospodnju, i zapovijest njegovu pogazi; neka se istrijebi ona duša; bezakonje je njezino na njoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A kad bijahu sinovi Izrailjevi u pustinji, naðoše jednoga gdje kupi drva u subotu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I koji ga naðoše gdje kupi drva, dovedoše ga k Mojsiju i k Aronu i ka svemu zboru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I metnuše ga pod stražu, jer ne bješe kazano šta æe se èiniti s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A Gospod reèe Mojsiju: neka se pogubi taj èovjek; neka ga zaspe kamenjem sav zbor iza okola."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I sav zbor izvede ga iza okola i zasuše ga kamenjem, i umrije, kao što zapovjedi Gospod Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Reci sinovima Izrailjevijem i kaži im, neka udaraju rese po skutovima od haljina svojih od koljena do koljena, i nad rese neka meæu vrvcu plavu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I imaæete rese zato da se gledajuæi ih opominjete svijeh zapovijesti Gospodnjih i tvorite ih, i da se ne zanosite za srcem svojim i za oèima svojima, za kojima èinite preljubu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Nego da pamtite i tvorite sve zapovijesti moje, i budete sveti Bogu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Ja sam Gospod Bog vaš, koji sam vas izveo iz zemlje Misirske, da vam budem Bog. Ja sam Gospod Bog vaš."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NUM/15.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 15
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NUM/16.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 16
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NUM/14.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 14
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 41
+}

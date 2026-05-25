@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DAN",
+    "translationId": "srp_865",
+    "name": "Danilo",
+    "commonName": "Danilo",
+    "title": "Danilo",
+    "order": 27,
+    "numberOfChapters": 12,
+    "sha256": "a7cfcf76b959e48ff3096b5f1336feefdd92c2ade2010b0cbd670ebbe8f652f0",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DAN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DAN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 12,
+    "lastChapterApiLink": "/api/srp_865/DAN/12.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DAN",
+      "chapter": 12
+    },
+    "totalNumberOfVerses": 357
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Prve godine Valtasara cara Vavilonskoga usni Danilo san i vidje utvaru glave svoje na postelji; tada napisa san i pripovjedi ukratko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Danilo progovori i reèe: vidjeh u utvari svojoj noæu, a to èetiri vjetra nebeska udariše se na velikom moru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I èetiri velike zvijeri izidoše iz mora, svaka drugaèija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Prva bijaše kao lav, i imaše krila orlova; gledah dokle joj se krila poskuboše i podiže se sa zemlje i stade na noge kao èovjek, i srce ljudsko dade joj se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Potom, gle, druga zvijer bijaše kao medvjed, i stade s jedne strane, i imaše tri rebra u ustima meðu zubima svojim, i govoraše joj se: ustani, jedi mnogo mesa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Potom vidjeh, i gle, druga, kao ris, imaše na leðima èetiri krila kao ptica, i èetiri glave imaše zvijer, i dade joj se vlast."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Potom vidjeh u utvarama noænijem, i gle, èetvrta zvijer, koje se trebaše bojati, strašna i vrlo jaka, i imaše velike zube gvozdene, jeðaše i satiraše, i gažaše nogama ostatak, i razlikovaše se od svijeh zvijeri preðašnjih, i imaše deset rogova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Gledah rogove, i gle, drugi mali rog izraste meðu onijema, i tri prva roga išèupaše se pred njim; i gle, oèi kao oèi èovjeèije bjehu na tom rogu, i usta koja govorahu velike stvari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Gledah dokle se postaviše prijestoli, i starac sjede, na kom bješe odijelo bijelo kao snijeg, i kosa na glavi kao èista vuna, prijesto mu bijaše kao plamen ognjeni, toèkovi mu kao oganj razgorio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Rijeka ognjena izlažaše i tecijaše ispred njega, tisuæa tisuæa služaše mu, i deset tisuæa po deset tisuæa stajahu pred njim; sud sjede, i knjige se otvoriše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tada gledah radi glasa velikih rijeèi koje govoraše onaj rog; i gledah dokle ne bi ubijena zvijer i tijelo joj se rašèini i dade se da izgori ognjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I ostalijem zvijerima uze se vlast, jer duljina životu bješe im odreðena do vremena i do roka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Vidjeh u utvarama noænijem, i gle, kao sin èovjeèji iðaše s oblacima nebeskim, i doðe do starca i stade pred njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I dade mu se vlast i slava i carstvo da mu služe svi narodi i plemena i jezici; vlast je njegova vlast vjeèna, koja neæe proæi, i carstvo se njegovo neæe rasuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Meni Danilu prenemože duh moj u tijelu mom, i utvare glave moje uznemiriše me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Pristupih k jednome od onijeh koji stajahu ondje, i zamolih ga za istinu od svega toga. I progovori mi i kaza mi šta to znaèi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ove èetiri velike zvijeri jesu èetiri cara, koji æe nastati na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ali æe sveci višnjega preuzeti carstvo, i držaæe carstvo navijek i dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tada zaželjeh znati istinu o èetvrtoj zvijeri, koja se razlikovaše od svijeh i bijaše vrlo strašna, i imaše zube gvozdene i nokte mjedene, i jeðaše i satiraše, a ostatak nogama gažaše,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I o deset rogova što joj bjehu na glavi, i o drugom koji izraste i tri otpadoše pred njim, o rogu koji imaše oèi i usta koja govorahu velike stvari i bijaše po viðenju veæi od drugih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Gledah, i taj rog vojevaše sa svecima i nadvlaðivaše ih,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Dokle doðe starac, i dade se sud svecima višnjega, i prispje vrijeme da sveci preuzmu carstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ovako reèe: èetvrta zvijer biæe èetvrto carstvo na zemlji, koje æe se razlikovati od svijeh carstava, i izješæe svu zemlju i pogaziti i satrti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I deset rogova jesu deset careva, koji æe nastati iz toga carstva, a poslije njih nastaæe drugi, i on æe se razlikovati od preðašnjih, i pokoriæe tri cara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I govoriæe rijeèi na višnjega, i potiraæe svece višnjega, i pomišljaæe da promijeni vremena i zakone; i daæe mu se u ruke za vrijeme i za vremena i za po vremena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Potom æe sjesti sud, i uzeæe mu se vlast, te æe se istrijebiti i zatrti sasvijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A carstvo i vlast i velièanstvo carsko pod svijem nebom daæe se narodu svetaca višnjega; njegovo æe carstvo biti vjeèno carstvo, i sve æe vlasti njemu služiti i slušati ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ovdje je kraj ovoj rijeèi. A mene Danila vrlo uznemiriše misli moje, i lice mi se sve promijeni; ali rijeè saèuvah u srcu svom."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DAN/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DAN/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DAN/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

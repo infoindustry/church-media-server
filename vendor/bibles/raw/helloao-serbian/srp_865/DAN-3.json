@@ -1,0 +1,286 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DAN",
+    "translationId": "srp_865",
+    "name": "Danilo",
+    "commonName": "Danilo",
+    "title": "Danilo",
+    "order": 27,
+    "numberOfChapters": 12,
+    "sha256": "a7cfcf76b959e48ff3096b5f1336feefdd92c2ade2010b0cbd670ebbe8f652f0",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DAN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DAN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 12,
+    "lastChapterApiLink": "/api/srp_865/DAN/12.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DAN",
+      "chapter": 12
+    },
+    "totalNumberOfVerses": 357
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Car Navuhodonosor naèini zlatan lik, kojemu visina bješe šezdeset lakata, a širina šest lakata; i namjesti ga u polju Duri u zemlji Vavilonskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I posla car Navuhodonosor da saberu knezove, upravitelje i vojvode, starješine, riznièare, sudije, nastojnike i sve vlastelje zemaljske, da doðu da se osveti lik što ga postavi car Navuhodonosor."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Tada se skupiše knezovi, upravitelji i vojvode, starješine, riznièari, sudije, nastojnici, i svi vlastelji zemaljski, da se osveti lik što ga postavi car Navuhodonosor; i stadoše pred likom što ga postavi Navuhodonosor."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A glasnik povika iza glasa: narodi, plemena i jezici, vama se govori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Kad èujete rog, svirale, kitare, gusle, psaltire, pjevanje i svakojake svirke, popadajte i poklonite se zlatnomu liku, koji postavi car Navuhodonosor."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A ko ne bi pao i poklonio se, onaj èas biæe baèen u peæ ognjenu užarenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zato svi narodi kako èuše rog, svirale, kitare, gusle, psaltire i svakojake svirke, popadaše svi narodi, plemena i jezici, i pokloniše se zlatnome liku koji postavi car Navuhodonosor."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A neki Haldeji taj èas doðoše i tužiše Jevreje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I progovoriše i rekoše caru Navuhodonosoru: care, da si živ dovijeka!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ti si, care, zapovjedio, svaki ko èuje rog, svirale, kitare, gusle, psaltire, i pjevanje i svakojake svirke, da padne i pokloni se zlatnome liku;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A ko ne bi pao i poklonio se, da se baci u peæ ognjenu užarenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A imaju ljudi Jevreji, koje si postavio nad poslovima zemlje Vavilonske, Sedrah, Misah i Avdenago; ti ljudi, care, ne haju za te, ne poštuju tvojih bogova, i ne klanjaju se zlatnom liku, koji si postavio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada Navuhodonosor u gnjevu i ljutini zapovjedi da dovedu Sedraha, Misaha i Avdenaga. I dovedoše te ljude pred cara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Navuhodonosor progovori i reèe im: je li istina, Sedraše, Misaše i Avdenago, da vi ne služite mojim bogovima i da se ne klanjate zlatnome liku koji postavih?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jeste li dakle gotovi, kad èujete rog, svirale, kitare, gusle, psaltire i pjevanje i svakojake svirke, da padnete i poklonite se liku koji naèinih? ako li se ne poklonite, onaj èas biæete baèeni u peæ ognjenu užarenu; a koji je bog što æe vas izbaviti iz mojih ruku?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Odgovoriše Sedrah, Misah i Avdenago, i rekoše caru Navuhodonosoru: nije nam trijebe da ti odgovorimo na to."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Evo, Bog naš, kojemu mi služimo, može nas izbaviti iz peæi ognjene užarene; i izbaviæe nas iz tvojih ruku, care."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A i da ne bi, znaj, care, da bogovima tvojim neæemo služiti niti æemo se pokloniti zlatnom liku, koji si postavio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tada se Navuhodonosor napuni gnjeva, i lice mu se promijeni na Sedraha, Misaha i Avdenaga, i odgovarajuæi zapovjedi da se užari peæ sedam puta veæma nego što bješe obièaj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I zapovjedi najjaèim ljudima što bijahu u vojsci njegovoj da svežu Sedraha, Misaha i Avdenaga, i da ih bace u peæ ognjenu užarenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tada svezaše one ljude u plaštima njihovijem i u obuæi i pod kapama i u svemu odijelu njihovu, i baciše ih u peæ ognjenu užarenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Kako zapovijest careva bješe hitna i peæ vrlo užarena, plamen ognjeni ubi one ljude koji bacahu Sedraha, Misaha i Avdenaga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A ta tri èovjeka, Sedrah, Misah i Avdenago, padoše usred peæi ognjene užarene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Tada se prepade car Navuhodonosor, i brže ustav progovori i reèe svojim dvoranima: ne bacismo li tri èovjeka svezana u oganj? Odgovoriše i rekoše caru: da, care."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Odgovori i reèe: eno, vidim èetiri èovjeka odriješena gdje hode posred ognja i nije im ništa, i èetvrti kao da je sin Božji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Tada pristupi Navuhodonosor na vrata ognjenoj peæi užarenoj, i progovori i reèe: Sedraše, Misaše i Avdenago, sluge Boga višnjega, izidite i hodite. Tada Sedrah, Misah i Avdenago izidoše isred ognja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I sabraše se knezovi i upravitelji i vojvode i vijeænici carevi, i vidješe te ljude gdje im tijelu oganj ništa ne može, niti im se kosa na glavi opali, niti im se plašti što promijeniše, niti zadah od ognja prionu za njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Progovori Navuhodonosor i reèe: da je blagosloven Bog Sedrahov, Misahov i Avdenagov, koji posla anðela svojega i izbavi sluge svoje, koje se u nj pouzdaše i ne poslušaše zapovijesti careve i dadoše tjelesa svoja da ne bi služili niti se poklonili drugom bogu osim svojega Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Zato zapovijedam da se svaki kojega mu drago naroda i plemena i jezika, koji bi pohulio na Boga Sedrahova, Misahova i Avdenagova, da se isijeèe i kuæa da mu bude bunište, jer nema drugoga boga koji može tako izbaviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Tada car uzvisi Sedraha, Misaha i Avdenaga u zemlji Vavilonskoj."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DAN/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DAN/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DAN/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 30
+}

@@ -1,0 +1,377 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 107,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Hvalite Gospoda, jer je dobar; jer je dovijeka milost njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Tako neka reku koje je izbavio Gospod, koje je izbavio iz ruke neprijateljeve,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Skupio ih iz zemalja, od istoka i zapada, od sjevera i mora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Lutaše po pustinji gdje se ne živi, puta gradu naseljenome ne nahodiše;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Bjehu gladni i žedni, i duša njihova iznemagaše u njima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ali zavikaše ka Gospodu u tuzi svojoj; i izbavi ih iz nevolje njihove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I izvede ih na prav put, koji ide u grad naseljeni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Neka hvale Gospoda za milost njegovu, i za èudesa njegova radi sinova ljudskih!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer siti dušu taštu, i dušu gladnu puni dobra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Sjedješe u tami i u sjenu smrtnom, okovani u tugu i u gvožðe;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer ne slušaše rijeèi Božijih, i ne mariše za volju višnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "On poništi srce njihovo stradanjem; spotakoše se, i ne bješe ko da pomože."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ali zavikaše ka Gospodu u tuzi svojoj, i izbavi ih iz nevolje njihove;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Izvede ih iz tame i sjena smrtnoga, i raskide okove njihove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Neka hvale Gospoda za milost njegovu, i za èudesa njegova radi sinova ljudskih!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer razbi vrata mjedena, i prijevornice gvozdene slomi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Bezumnici stradaše za nevaljale putove svoje, i za nepravde svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Svako se jelo gadilo duši njihovoj, i doðoše do vrata smrtnijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ali zavikaše ka Gospodu u tuzi svojoj, i izbavi ih iz nevolje njihove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Posla rijeè svoju i iscijeli ih, i izbavi ih iz groba njihova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Neka hvale Gospoda za milost njegovu, i za èudesa njegova radi sinova ljudskih!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I neka prinesu žrtvu za hvalu, i kazuju djela njegova u pjesmama!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Koji plove po moru na korabljima, i rade na velikim vodama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Oni su vidjeli djela Gospodnja, i èudesa njegova u dubini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Kaže, i diže se silan vjetar, i ustaju vali na njemu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Dižu se do nebesa i spuštaju do bezdana: duša se njihova u nevolji razliva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Posræu i ljuljaju se kao pijani; sve mudrosti njihove nestaje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ali zavikaše ka Gospodu u tuzi svojoj, i izvede ih iz nevolje njihove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "On obraæa vjetar u tišinu, i vali njihovi umuknu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Vesele se kad se stišaju, i vodi ih u pristanište koje žele."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Neka hvale Gospoda za milost njegovu, i za èudesa njegova radi sinova ljudskih!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Neka ga uzvišuju na saboru narodnom, na skupštini starješinskoj slave ga!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "On pretvara rijeke u pustinju, i izvore vodene u suhotu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Rodnu zemlju u slanu pustaru za nevaljalstvo onijeh koji žive na njoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "On pretvara pustinju u jezera, i suhu zemlju u izvore vodene,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I naseljava onamo gladne. Oni zidaju gradove za življenje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Siju polja, sade vinograde i sabiraju ljetinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Blagosilja ih i množe se jako, i stoke im ne umaljuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Prije ih bijaše malo, padahu od zla i nevolje, što ih stizaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "On sipa sramotu na knezove, i ostavlja ih da lutaju po pustinji gdje nema putova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "On izvlaèi ubogoga iz nevolje, i plemena množi kao stado."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Dobri vide i raduju se, a svako nevaljalstvo zatiskuje usta svoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Ko je mudar, neka zapamti ovo, i neka poznadu milosti Gospodnje."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/107.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 107
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/108.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 108
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/106.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 106
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 43
+}

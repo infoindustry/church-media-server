@@ -1,0 +1,461 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 25,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Još reèe Gospod Mojsiju na gori Sinajskoj govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kaži sinovima Izrailjevim, i reci im: kad doðete u zemlju koju vam ja dajem, neka praznuje zemlja subotu Gospodnju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Šest godina zasijevaj njivu svoju, i šest godina reži vinograd svoj i sabiraj rod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A sedma godina neka bude subota za odmor zemlji, subota Gospodnja; nemoj sijati u polju svojem ni rezati vinograda svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Što samo od sebe rodi iza žetve tvoje nemoj žeti, i grožða u vinogradu svojem nerezanom nemoj brati; neka bude godina odmora zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ali što rodi zemlja za poèivanja svojega, ono neka vam bude hrana, tebi i sluzi tvojemu i sluškinji tvojoj i najamniku tvojemu i ukuæaninu tvojemu koji je kod tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I stoci tvojoj i svijem životinjama što su u tvojoj zemlji, sav rod njezin neka bude hrana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I nabroj sedam sedmina godina, sedam puta po sedam godina, tako da ti sedam sedmina godina bude èetrdeset i devet godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tada zapovjedi neka zatrubi truba deseti dan sedmoga mjeseca, na dan oèišæenja neka trubi truba po svoj zemlji vašoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I posvetite godinu pedesetu, i proglasite slobodu u zemlji svima koji žive u njoj; to neka vam je oprosna godina, i tada se vratite svaki na svoju baštinu, i svaki u rod svoj vratite se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Oprosna godina da vam je ta pedeseta godina; nemojte sijati, niti žanjite što samo rodi te godine, niti berite grožða u vinogradima nerezanim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer je oprosna godina; neka vam je sveta; sa svakoga polja jedite rod njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Te godine oprosne vratite se svaki na svoju baštinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I ako prodaš što bližnjemu svojemu ili kupiš što od bližnjega svojega, ne varajte jedan drugoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Prema broju godina po oprosnoj godini kupuj od bližnjega svojega, i prema broju godina u koje æeš brati rod neka ti prodaje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Što više bude godina to æe cijena biti veæa onome što kupuješ, a što manje bude godina to æe manja biti cijena, jer ti se prodaje broj ljetina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Zato ne varajte jedan drugoga, nego se bojte Boga svojega; jer sam ja Gospod Bog vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Držite uredbe moje i èuvajte zakone moje i vršite ih, pa æete živjeti u zemlji bez straha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I zemlja æe raðati rod svoj, i ješæete ga, i biæete siti, i živjeæete u njoj bez straha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I ako biste rekli: šta æemo jesti sedme godine, eto neæemo sijati niti æemo brati ljetine?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Pustiæu blagoslov svoj na vas šeste godine, te æe roditi za tri godine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I sijaæete osme godine, a ješæete ljetinu staru do devete godine, dokle ne prispije rod njezin, ješæete stari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ali da se zemlja ne prodaje za svagda, jer je moja zemlja, a vi ste došljaci i ukuæani kod mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Zato po svoj zemlji države vaše neka se otkupljuju zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ako osiromaši brat tvoj i proda nešto od baštine svoje, a poslije doðe ko od roda njegova najbliži njemu da otkupi, neka otkupi što brat njegov prodade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ako li ne bi imao nikoga da otkupi, nego bi se pomogao i zglavio koliko treba za otkup,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Onda neka odbije godine otkako je prodao, pa što ostane neka isplati onome kome je prodao, i tako neka opet doðe do svoje baštine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ako li nema koliko bi trebalo vratiti, onda ostaje stvar prodana u onoga ko je kupio do godine oprosne, a oprosne godine ostaviæe se, i on æe se vratiti na svoju baštinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ko proda kuæu u kojoj se sjedi u mjestu ograðenu zidom, vlastan je otkupiti je dokle se ne navrši godina dana otkako je proda; cijelu godinu dana ima vlast otkupiti je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A ako je ne otkupi za godinu dana, onda ostaje kuæa u mjestu ograðenu zidom onome ko je kupio sasvijem od koljena na koljeno, i neæe je ostaviti oprosne godine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A kuæe po selima, koja nijesu ograðena zidom, neka se uzimaju kao njive, mogu se otkupiti, i godine oprosne vraæaju se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A mjesta Levitska i kuæe u mjestima njihovijem, svagda mogu otkupiti Leviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ali ko kupi od Levita, neka oprosne godine ostavi kupljenu kuæu i što je imao u mjestu; jer kuæe po mjestima Levitskim jesu njihove meðu sinovima Izrailjevim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ali polje pod mjestima njihovijem da se ne prodaje; jer je njihovo dostojanje dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ako osiromaši brat tvoj i iznemogne ruka njegova pored tebe, prihvati ga, i kao stranac i došljak neka poživi uz tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Nemoj uzimati od njega kamate ni dobiti; nego se boj Boga, da bi poživio brat tvoj uz tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Novaca nemoj mu davati na kamatu, niti mu hrane svoje pozaimaj radi dobiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Ja sam Gospod Bog vaš, koji sam vas izveo iz zemlje Misirske da vam dam zemlju Hanansku i da vam budem Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I ako osiromaši brat tvoj kod tebe tako da ti se proda, nemoj ga držati kao roba;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Kao najamnik i kao došljak neka bude kod tebe; do oprosne godine neka služi kod tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A onda neka ide od tebe sa sinovima svojim, neka se vrati u rod svoj, i na baštinu otaca svojih neka se vrati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Jer su moje sluge, koje sam izveo iz zemlje Misirske, neka se ne prodaju kao robovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Nemoj gospodariti nad njim žestoko, nego se boj Boga svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "A rob tvoj i robinja tvoja što æeš imati neka budu od onijeh naroda koji æe biti oko vas, od njih kupujte roba i robinju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "I izmeðu sinova stranaca koji budu kod vas, izmeðu njih kupujte i iz porodica onijeh koji budu kod vas, koji se rode u zemlji vašoj, i ti neka vam budu imanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Oni æe postati vaši i sinova vaših nakon vas, i biæe vam dostojanje, da vam svaku službu vrše do vijeka; ali nad braæom svojom, sinovima Izrailjevim, niko nad bratom svojim da ne gospodari žestoko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Ako li se obogati došljak ili gost koji živi s tobom, a brat tvoj osiromaši kod njega tako da se proda došljaku, koji živi s tobom, ili kome god od tuðega roda,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Kad se proda, može se otkupiti; kogod od braæe njegove neka ga otkupi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Ili stric njegov, ili sin strica njegova neka ga otkupi, ili ko drugi od krvi njegove u rodu njegovu neka ga otkupi; ili ako se pomogne, neka se sam otkupi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Neka se proraèuna s kupcem svojim od godine kad se prodao do godine oprosne, da cijena za koju se prodao doðe prema broju godina; kao nadnièaru neka mu se raèuna vrijeme koje je otslužio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Ako ostaje još mnogo godina, prema njima neka plati otkup od cijene za koju je kupljen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Ako li ostaje malo godina do oprosne godine, neka se proraèuna s njim i neka plati otkup prema tijem godinama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Kao najamnik godišnji neka bude u njega, i neka ne gospodari nad njim žestoko na tvoje oèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "Ako li se ovako ne otkupi, neka otide godine oprosne i on i sinovi njegovi s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "Jer su sinovi Izrailjevi moje sluge, moje su sluge, koje sam izveo iz zemlje Misirske; ja sam Gospod Bog vaš."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/25.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 25
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/26.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 26
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/24.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 24
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 55
+}

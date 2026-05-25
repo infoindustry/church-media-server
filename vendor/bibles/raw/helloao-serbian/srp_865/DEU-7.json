@@ -1,0 +1,258 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "srp_865",
+    "name": "Ponovljeni Zakon",
+    "commonName": "Ponovljeni Zakon",
+    "title": "Ponovljeni Zakon",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "b000b6651908c9448c65c662cec1fa45977205b236e0922d505241ab679311df",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DEU/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 1
+    },
+    "lastChapterNumber": 34,
+    "lastChapterApiLink": "/api/srp_865/DEU/34.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 34
+    },
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Kad te Gospod Bog tvoj uvede u zemlju u koju ideš da je naslijediš, i otjera ispred tebe narode mnoge, Heteje i Gergeseje i Amoreje i Hananeje i Ferezeje i Jeveje i Jevuseje, sedam naroda veæih i jaèih od tebe,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I preda ih Gospod Bog tvoj tebi, i ti ih razbiješ, potri ih, ne hvataj s njima vjere, niti se smiluj na njih;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Niti se prijatelji s njima; kæeri svoje ne daji za sina njihova, niti kæeri njihove uzimaj za sina svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer bi otpadila sina tvojega od mene, i služio bi bogovima drugim, te bi se razgnjevio Gospod na vas i potro vas brzo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nego ovo im uèinite: oltare njihove raskopajte, i likove njihove polomite, lugove njihove isijecite, i rezane bogove njihove ognjem spalite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer si ti narod svet Gospodu Bogu svojemu, tebe je izabrao Gospod Bog tvoj da mu budeš narod osobit mimo sve narode na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ne zato što bi vas bilo više nego drugih naroda prihvati vas Gospod i izabra vas; jer vas bijaše manje nego ikojega drugoga naroda;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Nego što vas Gospod miluje i što drži zakletvu kojom se zakleo ocima vašim, zato vas je Gospod izveo rukom krjepkom i izbavio vas iz kuæe ropske, iz ruke Faraona cara Misirskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I tako znaj da je Gospod Bog tvoj Bog, Bog vjeran, koji drži zavjet svoj i milost svoju do tisuæu koljena onima koji ga ljube i drže zapovijesti njegove,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I plaæa onima koji mrze na nj, svakome istrebljujuæi ga, i ne odgaða onome koji mrzi na nj, plaæa svakome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zato drži zapovjesti i uredbe i zakone, koje ti danas ja zapovijedam, da ih tvoriš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I ako ove zakone uzaslušate i uzdržite i ustvorite, i Gospod æe Bog tvoj držati tebi zavjet i milost, za koju se zakleo ocima tvojim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I milovaæe te i blagosloviæe te i umnožiæe te; blagosloviæe plod utrobe tvoje i plod zemlje tvoje, žito tvoje i vino tvoje i ulje tvoje, plod goveda tvojih i stada ovaca tvojih u zemlji za koju se zakleo ocima tvojim da æe ti je dati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Biæeš blagosloven mimo sve narode: neæe biti u tebe ni muškoga ni ženskoga neplodna, ni meðu stokom tvojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I ukloniæe od tebe Gospod svaku bolest, i od ljutih zala Misirskih koja znaš neæe nijednoga pustiti na tebe, nego æe ih pustiti na one sve koji mrze na te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I istrijebi sve narode koje ti Gospod Bog tvoj preda, neka ih ne požali oko tvoje, i nemoj služiti bogovima njihovijem, jer bi ti to bilo zamka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ako bi rekao u srcu svom: veæi su ovi narodi od mene, kako ih mogu izagnati?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ne boj ih se; pamti dobro što je uèinio Gospod Bog tvoj s Faraonom i sa svijem Misircima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Velika kušanja, koja vidješe oèi tvoje, i znake i èudesa i ruku krjepku i mišicu podignutu, kojom te izvede Gospod Bog tvoj; onako æe uèiniti Gospod Bog tvoj sa svijem narodima od kojih bi se uplašio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I stršljene æe poslati Gospod Bog tvoj na njih dokle ne izginu koji bi ostali i sakrili se od tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ne plaši se od njih, jer je Gospod Bog tvoj usred tebe, Bog veliki i strašni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Gospod æe Bog tvoj malo pomalo potrti te narode ispred tebe; neæeš ih moæi odjedanput istrijebiti, da se ne bi umnožilo na tebe zvijerje poljsko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ali æe ih predati Gospod Bog tvoj tebi, i zatiraæe ih zatiranjem velikim dokle se ne zatru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I predaæe careve njihove u tvoje ruke da zatreš ime njihovo pod nebom, neæe se nijedan održati pred tobom, dokle ih ne potreš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Rezane bogove njihove spali ognjem, nemoj da se polakomiš na srebro ili zlato što je na njima i da ga uzmeš, da ti ne bude zamka, jer je gadno pred Gospodom Bogom tvojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I nemoj da uneseš gada u dom svoj, da ne budeš proklet kao i on, nego se gadi na nj i grozi se od njega, jer je prokleto."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DEU/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DEU/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DEU/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 26
+}

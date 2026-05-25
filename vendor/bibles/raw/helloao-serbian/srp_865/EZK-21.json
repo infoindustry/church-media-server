@@ -1,0 +1,335 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 21,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Opet mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Sine èovjeèji, okreni lice svoje na jug i pokaplji prema jugu, i prorokuj na šumu u južnom polju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reci šumi južnoj: èuj rijeè Gospodnju, ovako veli Gospod Gospod: evo ja æu raspaliti u tebi oganj koji æe proždrijeti u tebi svako drvo zeleno i svako drvo suho; plamen razgorjeli neæe se ugasiti, i izgorjeæe od njega sve od juga do sjevera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I svako æe tijelo vidjeti da sam ja zapalio; neæe se ugasiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A ja rekoh: jaoh Gospode Gospode, oni govore za me: ne govori li taj same prièe?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I doðe mi rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Sine èovjeèji, okreni lice svoje prema Jerusalimu, i pokaplji prema svetijem mjestima, i prorokuj protiv zemlje Izrailjeve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I reci zemlji Izrailjevoj: ovako veli Gospod: evo me na te; izvuæi æu maè svoj iz korica, i istrijebiæu iz tebe pravednoga i bezbožnoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Da istrijebim iz tebe pravednoga i bezbožnoga, zato æe izaæi maè moj iz korica svojih na svako tijelo od juga do sjevera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I poznaæe svako tijelo da sam ja Gospod izvukao maè svoj iz korica njegovijeh, neæe se više vratiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A ti, sine èovjeèji, uzdiši kao da su ti bedra polomljena, i gorko uzdiši pred njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A kada ti reku: zašto uzdišeš? ti reci: za glas što ide, od kojega æe se rastopiti svako srce i klonuti sve ruke i svakoga æe duha nestati, i svaka æe koljena postati kao voda; evo, ide, i navršiæe se, govori Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Potom doðe mi rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Sine èovjeèji, prorokuj i reci: ovako veli Gospod Gospod: reci: maè, maè je naoštren, i uglaðen je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Naoštren je da kolje, uglaðen je da sijeva; hoæemo li se radovati kad prut sina mojega ne haje ni za kako drvo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Dao ga je da se ugladi da se uzme u ruku; maè je naoštren i uglaðen, da se da u ruku ubici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Vièi i ridaj, sine èovjeèji; jer on ide na narod moj, na sve knezove Izrailjeve; pod maè æe biti okrenuti s narodom mojim, zato udri se po bedru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Kad bješe karanje, šta bi? eda li ni od pruta koji ne haje neæe biti ništa? govori Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ti dakle, sine èovjeèji, prorokuj i pljeskaj rukama, jer æe maè doæi i drugom i treæom, maè koji ubija, maè koji velike ubija, koji prodire u klijeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Da se rastope srca i umnoži pogibao, metnuo sam na sva vrata njihova strah od maèa; jaoh! pripravljen je da sijeva, naoštren da kolje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Stegni se, udri nadesno, nalijevo, kuda se god obrneš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer æu i ja pljeskati rukama, i namiriæu gnjev svoj. Ja Gospod rekoh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Još mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A ti, sine èovjeèji, naèini dva puta, kuda æe doæi maè cara Vavilonskoga; iz jedne zemlje neka izlaze oba; i izberi stranu, gdje se poèinje put gradski, izberi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Naèini put, kojim æe doæi maè na Ravu sinova Amonovijeh, i u Judeju na tvrdi Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jer æe car Vavilonski stati na rasputici, gdje poèinju dva puta, te æe vraèati, gladiæe strijele, pitaæe likove, gledaæe u jetru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Nadesno æe mu vraèanje pokazati Jerusalim da namjesti ubojne sprave, da otvori usta na klanje, da podigne glas podvikujuæi, da namjesti ubojne sprave prema vratima, da naèini opkope, da pogradi kule."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I uèiniæe se vraèanje zaludno zakletima, a to æe napomenuti bezakonje da se uhvate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Zato ovako veli Gospod Gospod: što napominjete svoje bezakonje, te se otkriva nevjera vaša i grijesi se vaši vide u svijem djelima vašim, zato što doðoste na pamet, biæete pohvatani rukom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A ti, neèisti bezbožnièe, kneže Izrailjev, kome doðe dan kad bi na kraju bezakonje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ovako veli Gospod Gospod: skini tu kapu i svrzi taj vijenac, neæe ga biti; niskoga æu uzvisiti a visokoga æu poniziti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Uništiæu, uništiæu, uništiæu ga, i neæe ga biti, dokle ne doðe onaj kome pripada, i njemu æu ga dati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A ti, sine èovjeèji, prorokuj i reci: ovako veli Gospod Gospod za sinove Amonove i za njihovu sramotu; reci dakle: maè, maè je izvuèen, uglaðen da kolje, da zatire, da sijeva,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Dokle ti viðaju taštinu, dokle ti gataju laž, da te metnu na vratove pobijenijem bezbožnicima, kojima doðe dan kad bi kraj bezakonju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ostavi maè u korice; na mjestu gdje si se rodio, u zemlji gdje si postao, sudiæu ti;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I izliæu na te gnjev svoj, ognjem gnjeva svojega dunuæu na te i predaæu te u ruke žestokim ljudma, vještim u zatiranju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Ognju æeš biti hrana, krv æe ti biti posred zemlje, neæeš se spominjati, jer ja Gospod rekoh."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/21.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 21
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/22.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 22
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/20.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 20
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 37
+}

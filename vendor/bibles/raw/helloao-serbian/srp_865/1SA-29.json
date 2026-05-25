@@ -1,0 +1,153 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 29,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Filisteji skupiše svu vojsku svoju kod Afeka, a Izrailj stade u oko kod izvora u Jezraelu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I knezovi Filistejski iðahu sa stotinama i tisuæama; a David i njegovi ljudi iðahu najposlije s Ahisom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I rekoše knezovi Filistejski: što æe ti Jevreji? A Ahis reèe knezovima Filistejskim: nije li ovo David sluga cara Izrailjskoga Saula, koji je kod mene toliko vremena, toliko godina, i ne naðoh na njemu ništa otkako je dobjegao do ovoga dana?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ali se rasrdiše na nj knezovi Filistejski, i rekoše mu knezovi Filistejski: pošlji natrag toga èovjeka, neka se vrati u svoje mjesto gdje si ga postavio, i neka ne ide s nama u boj, da se ne okrene na nas u boju; jer èim bi se opet umilio gospodaru svojemu ako ne glavama ovijeh ljudi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nije li to David o kojem se pjevalo igrajuæi i govorilo: zgubi Saul svoju tisuæu, ali David svojih deset tisuæa?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tada Ahis dozva Davida, i reèe mu: tako bio živ Gospod, ti si pošten, i milo mi je da hodiš sa mnom u boj; jer ne naðoh nikakoga zla na tebi otkako si došao k meni do ovoga dana; ali nijesi po volji knezovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nego vrati se i idi s mirom da ne uèiniš što što ne bi bilo milo knezovima Filistejskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A David reèe Ahisu: ali šta sam uèinio? šta li si našao na sluzi svojem otkako sam kod tebe do ovoga dana, da ne idem da se bijem s neprijateljima gospodara svojega cara?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Ahis odgovarajuæi reèe Davidu: znam; doista si mi mio kao anðeo Božji; ali knezovi Filistejski rekoše: neka ne ide s nama u boj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nego ustani sjutra rano sa slugama gospodara svojega koje su došle s tobom; ustanite rano èim svane, pa idite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I urani David i ljudi njegovi, i otide rano, i vrati se u zemlju Filistejsku; a Filisteji otidoše u Jezrael."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/29.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 29
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/30.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 30
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/28.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 28
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 11
+}

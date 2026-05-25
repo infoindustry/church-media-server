@@ -1,0 +1,279 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "srp_865",
+    "name": "Brojevi",
+    "commonName": "Brojevi",
+    "title": "Brojevi",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "5dc73b8a174fd63cb58a0932611fd5816a865be2dae8658fc6051a7a529e9415",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NUM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/NUM/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 34,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Zapovjedi sinovima Izrailjevijem i reci im: kad doðete u zemlju Hanansku, ta æe vam zemlja pripasti u našljedstvo, zemlja Hananska s meðama svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Južni kraj da vam je od pustinje Sina, uz meðu Edomsku, i da vam je južna meða od brijega slanoga mora na istok;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I ta meða neka se savije od juga k Akravimu i ide do Sina, i neka se pruži od juga preko Kadis-Varne, a otuda neka izide na selo Adar i ide do Aselmona;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Potom neka se savije ta meða od Aselmona do potoka Misirskoga i ide do mora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A zapadna meða da vam bude veliko more; to da vam je zapadna meða."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A sjeverna meða ovo da vam bude: od velikoga mora povucite sebi meðu do gore Ora;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A od gore Ora povucite sebi meðu kako se ide u Emat, i ta meða neka ide na Sedad;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I neka ide ta meða do Zefrona, i kraj neka joj bude kod sela Enana; to da vam bude sjeverna meða."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A s istoka povucite sebi meðu od sela Enana do Sefama;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A od Sefama neka ide ta meða k Rivli, s istoka Ainu, i neka ide dalje ta meða dokle doðe do mora Hinerota k istoku;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I neka se spusti ta meða ka Jordanu, i neka izaðe na slano more. Ta æe zemlja biti vaša s meðama svojim unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I kaza Mojsije sinovima Izrailjevijem govoreæi: to je zemlja koju æete dobiti u našljedstvo ždrijebom, za koju je zapovjedio Gospod da je dobije devet plemena i po."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer pleme sinova Ruvimovijeh po porodicama otaca svojih, i pleme sinova Gadovijeh po porodicama otaca svojih, i polovina plemena Manasijina primiše svoje našljedstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ova dva plemena i po primiše našljedstvo svoje s ovu stranu Jordana prema Jerihonu s istoène strane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Opet reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ovo su imena ljudi koji æe vam razdijeliti u našljedstvo zemlju: Eleazar sveštenik i Isus sin Navin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I po jednoga kneza iz svakoga plemena uzmite da dijeli zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A ovo su imena tijeh ljudi: od plemena Judina Halev sin Jefonijin,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Od plemena sinova Simeunovijeh Samuilo sin Emijudov,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Od plemena Venijaminova Eldad sin Haslonov,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Od plemena sinova Danovijeh knez Vokor sin Jeklinov,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Od sinova Josifovijeh: od plemena sinova Manasijinih knez Anilo sin Sufidov,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Od plemena sinova Jefremovijeh, knez Kamuilo sin Saftanov,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Od plemena sinova Zavulonovijeh knez Elisafan sin Harnahov,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Od plemena sinova Isaharovijeh knez Faltilo sin Ozainov,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Od plemena sinova Asirovijeh knez Ahior sin Selemijin,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I od plemena Neftalimova knez Fadailo sin Amijudov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ovima zapovjedi Gospod da razdijele našljedstvo sinovima Izrailjevijem u zemlji Hananskoj."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NUM/34.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 34
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NUM/35.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 35
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NUM/33.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 33
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

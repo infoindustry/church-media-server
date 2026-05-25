@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 24,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Gle, Gospod æe isprazniti zemlju i opustiti je, prevrnuæe je i rasijaæe stanovnike njezine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I biæe sveštenik kao narod, gospodar kao sluga, gospoða kao sluškinja, prodavac kao kupac, koji daje u zajam kao koji uzima u zajam, koji uzima dobit kao koji daje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Sasvijem æe se isprazniti zemlja, i sasvijem æe se oplijeniti. Jer Gospod reèe ovu rijeè."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tužiæe zemlja i opasti, iznemoæi æe vasiljena i opasti; iznemoæi æe glavari naroda zemaljskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer se zemlja oskvrni pod stanovnicima svojim, jer prestupiše zakone, izmijeniše uredbe, raskidoše zavjet vjeèni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Zato æe prokletstvo proždrijeti zemlju, i zatræe se stanovnici njezini; zato æe izgorjeti stanovnici zemaljski, i malo æe ljudi ostati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tužiæe vino, uvenuæe loza vinova, uzdisaæe svi koji su vesela srca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Prestaæe veselje uz bubnje, nestaæe graje onijeh koji se vesele, prestaæe veselje uz gusle."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Neæe piti vina uz pjesme, ogrknuæe silovito piæe onima koji ga piju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Razbiæe se pusti grad, zatvorene æe biti sve kuæe da niko ne ulazi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tužnjava æe biti po ulicama radi vina, proæi æe svako veselje, otiæi æe radost zemaljska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Pustoš æe ostati u gradu, i vrata æe se razvaliti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer æe biti u zemlji i u narodima kao kad se oberu masline, i kao kad se paljetkuje poslije berbe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ovi æe podignuti glas svoj i pjevaæe, radi velièanstva Gospodnjega podvikivaæe od mora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zato slavite Gospoda u dolinama, na ostrvima morskim ime Gospoda Boga Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "S kraja zemlje èusmo pjesme u slavu pravednome; ali rekoh: ološah! ološah! teško meni! nevjernici nevjeru èine, baš nevjernici nevjeru èine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Strahota i jama i zamka pred tobom je, stanovnièe zemaljski!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I ko uteèe èuvši za strahotu, pašæe u jamu; a ko ižljeze iz jame, uhvatiæe se u zamku; jer æe se ustave na visini otvoriti i zatrešæe se temelji zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Sva æe se zemlja razbiti, sva æe se zemlja raspasti, sva æe se zemlja uskolebati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Sva æe se zemlja ljuljati kao pijan èovjek, i premjestiæe se kao koliba, jer æe joj otežati bezakonje njezino, te æe pasti i neæe više ustati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I u to æe vrijeme pohoditi Gospod na visini vojsku visoku i na zemlji sve careve zemaljske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I skupiæe se kao što se skupljaju sužnji u jamu, i biæe zatvoreni u tamnicu, i poslije mnogo vremena biæe pohoðeni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I posramiæe se mjesec i sunce æe se zastidjeti kad Gospod nad vojskama stane carovati na gori Sionu i u Jerusalimu, i pred starješinama svojim proslavi se."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/24.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 24
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/25.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 25
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/23.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 23
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

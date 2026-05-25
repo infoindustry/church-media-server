@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ROM",
+    "translationId": "srp_865",
+    "name": "Rimljanima",
+    "commonName": "Rimljanima",
+    "title": "Poslanica Rimljanima",
+    "order": 45,
+    "numberOfChapters": 16,
+    "sha256": "1fe4947b687992778ed830174635b188e37a5a7f483de9affcbbb4c949cc6571",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ROM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/ROM/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 433
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Dužni smo dakle mi jaki slabosti slabijeh nositi, i ne sebi ugaðati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I svaki od vas da ugaða bližnjemu na dobro za dobar ugled."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer i Hristos ne ugodi sebi, nego kao što je pisano: ruženja onijeh koji tebe ruže padoše na me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer što se naprijed napisa za našu se nauku napisa, da trpljenjem i utjehom pisma nad imamo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A Bog trpljenja i utjehe da vam da da složno mislite meðu sobom po Hristu Isusu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Da jednodušno jednijem ustima slavite Boga i oca Gospoda našega Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zato primajte jedan drugoga kao što i Hristos primi vas na slavu Božiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ali kažem da je Isus Hristos bio sluga obrezanja istine radi Božije, da utvrdi obeæanje ocevima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A neznabošci po milosti da proslave Boga, kao što stoji napisano: zato æu te hvaliti meðu neznabošcima, Gospode, i pjevaæu ime tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I opet govori: veselite se neznabošci s narodom njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I opet: hvalite Gospoda svi neznabošci, i slavite ga svi narodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I opet Isaija govori: biæe korijen Jesejev, i koji ustane da vlada nad neznabošcima u onoga æe se uzdati neznabošci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Bog nada da ispuni vas svake radosti i mira u vjeri, da imate izobilje u nadu silom Duha svetoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A ja sam i sam uvjeren za vas, braæo, da ste i vi sami puni blagodati, napunjeni svakoga razuma, da možete druge nauèiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ali vam opet, braæo, slobodno pisah nekoliko da vam napomenem radi blagodati koja mi je dana od Boga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Da budem sluga Isusa Hrista u neznabošcima, da služim jevanðelju Božijemu, da budu neznabošci prinos povoljan i osveæen Duhom svetijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Imam dakle hvalu u Hristu Isusu kod Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer ne smijem govoriti što koje Hristos ne uèini kroza me za poslušanje neznabožaca rijeèju i djelom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "U sili znaka i èudesa silom Duha Božijega; tako da od Jerusalima i naokolo tja do Ilirika napunih jevanðeljem Hristovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I tako se potrudih da propovjedim jevanðelje ne gdje se spominjaše Hristos, da na tuðoj zakopini ne zidam;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Nego kao što je pisano: kojima se ne javi za njega, vidjeæe; i koji ne èuše razumjeæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "To me i zadrža mnogo puta da ne doðem k vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A sad više ne imajuæi mjesta u ovijem zemljama, a imajuæi želju od mnogo godina da doðem k vama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ako poðem u Španjolsku, doæi æu vam; jer se nadam da æu tuda proæi i vas vidjeti, i vi æete me otpratiti onamo kad se najprije nekoliko nasitim vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A sad idem u Jerusalim služeæi svetima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jer Maæedonija i Ahaja uèiniše dragovoljno neku porezu za siromahe svete koji žive u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Oni uèiniše dragovoljno, a i dužni su im; jer kad neznabošci dobiše dijel u njihovijem duhovnijem imanjima, dužni su i oni njima u tjelesnima poslužiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Kad ovo dakle svršim, i ovaj im plod zapeèatim, poæi æu preko vas u Španjolsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A znam da kad doðem k vama, doæi æu s obilnijem blagoslovom jevanðelja Hristova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ali vas molim, braæo, zaradi Gospoda našega Isusa Hrista, i zaradi ljubavi Duha, pomozite mi u molitvama za me k Bogu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Da se izbavim od onijeh koji se protive u Judeji, i da služba moja za Jerusalim bude po volji svetima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Da s radošæu doðem k vama, s voljom Božijom, i da se razveselim s vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A Bog mira sa svima vama. Amin."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ROM/15.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 15
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ROM/16.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 16
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ROM/14.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 14
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

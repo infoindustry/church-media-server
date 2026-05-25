@@ -1,0 +1,328 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 37,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Jakov življaše u zemlji gdje mu je otac bio došljak, u zemlji Hananskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ovo su dogaðaji Jakovljevi. Josif kad bješe momak od sedamnaest godina, pasijaše stoku s braæom svojom, koju rodiše Vala i Zelfa žene oca njegova; i donošaše Josif zle glasove o njima ocu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Izrailj ljubljaše Josifa najveæma izmeðu svijeh sinova svojih, jer mu se rodio pod starost; i naèini mu šarenu haljinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A braæa videæi gdje ga otac ljubi najveæma izmeðu sve braæe njegove, stadoše mrziti na nj tako da mu ne mogahu lijepe rijeèi progovoriti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Uz to usni Josif san i pripovjedi braæi svojoj, te oni još veæma omrznu na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer im reèe: da èujete san što sam snio:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Vezasmo snoplje u polju, pa moj snop usta i ispravi se, a vaši snopovi iðahu unaokolo i klanjahu se snopu mojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tada mu braæa rekoše: da neæeš još biti car nad nama i zapovijedati nam? Stoga još veæma stadoše mrziti na nj radi sanova njegovijeh i radi rijeèi njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Poslije opet usni drugi san, i pripovjedi braæi svojoj govoreæi: usnih opet san, a to se sunce i mjesec i jedanaest zvijezda klanjahu meni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A pripovjedi i ocu svojemu i braæi svojoj; ali ga otac prekori i reèe mu: kakav je to san što si snio? eda li æemo doæi ja i mati tvoja i braæa tvoja da se klanjamo tebi do zemlje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I zaviðahu mu braæa; ali otac njegov èuvaše ove rijeèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A kad braæa njegova otidoše da pasu stoku oca svojega kod Sihema,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Reèe Izrailj Josifu: ne pasu li braæa tvoja stoku kod Sihema? hajde da te pošljem k njima. A on reèe: evo me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A on mu reèe: idi, vidi kako su braæa tvoja i kako je stoka, pa doði da mi javiš. I opravi ga iz doline Hevronske, i on otide put Sihema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I èovjek jedan naðe ga a on luta po polju, te ga zapita govoreæi: šta tražiš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A on reèe: tražim braæu svoju; kaži mi, molim te, gdje su sa stokom?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A èovjek reèe: otišli su odavde, jer èuh gdje rekoše: hajdemo u Dotaim. I otide Josif za braæom svojom, i naðe ih u Dotaimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A oni ga ugledaše izdaleka; i dok još ne doðe blizu njih, stadoše se dogovarati da ga ubiju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I rekoše meðu sobom: gle, evo onoga što sne sanja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Hajde sada da ga ubijemo i da ga bacimo u koju od ovijeh jama, pa æemo kazati: ljuta ga je zvjerka izjela. Onda æemo vidjeti šta æe biti od njegovijeh sanova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ali Ruvim kad èu to, izbavi ga iz ruku njihovijeh rekav: nemojte da ga ubijemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I još im reèe Ruvim: nemojte krvi proljevati; bacite ga u ovu jamu u pustinji, a ne dižite ruke na nj. A on ga šæaše izbaviti iz ruku njihovijeh i odvesti k ocu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I kad Josif doðe k braæi svojoj, svukoše s njega haljinu njegovu, haljinu šarenu, koju imaše na sebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I uhvativši ga baciše ga u jamu; a jama bješe prazna, ne bješe vode u njoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Poslije sjedoše da jedu. I podigavši oèi ugledaše, a to gomila Ismailjaca iðaše od Galada s kamilama natovarenim mirisavoga korijenja i tamjana i smirne, te nošahu u Misir."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I reèe Juda braæi svojoj: kaka æe biti korist što æemo ubiti brata svojega i zatajiti krv njegovu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Hajde da ga prodamo ovijem Ismailjcima pa da ne dižemo ruke svoje na nj, jer nam je brat, naše je tijelo. I poslušaše ga braæa njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Pa kad trgovci Madijamski bijahu pored njih, oni izvukoše i izvadiše Josifa iz jame, i prodadoše Josifa Ismailjcima za dvadeset srebrnika; i oni odvedoše Josifa u Misir."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A kad se Ruvim vrati k jami, a to nema Josifa u jami; tada razdrije haljine svoje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Pa se vrati k braæi svojoj, i reèe: nema djeteta; a ja kuda æu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Tada uzeše haljinu Josifovu, i zaklavši jare zamoèiše haljinu u krv,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Pa onda poslaše šarenu haljinu ocu njegovu poruèivši: naðosmo ovu haljinu, vidi je li haljina sina tvojega ili nije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A on je pozna i reèe: sina je mojega haljina; ljuta ga je zvjerka izjela; Josif je doista raskinut."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I razdrije Jakov haljine svoje, i veza kostrijet oko sebe; i tužaše za sinom svojim dugo vremena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I svi sinovi njegovi i sve kæeri njegove ustadoše oko njega tješeæi ga, ali se on ne dadijaše utješiti, nego govoraše: s tugom æu u grob leæi za sinom svojim. Pa i njegov otac plakaše za njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A Madijanci prodadoše ga u Misir Petefriju, dvoraninu Faraonovu, zapovjedniku stražarskom."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/37.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 37
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/38.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 38
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/36.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 36
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 36
+}

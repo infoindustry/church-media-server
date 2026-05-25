@@ -1,0 +1,160 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 53,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ko vjerova propovijedanju našemu, i mišica Gospodnja kome se otkri?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer iznièe pred njim kao šibljika, i kao korijen iz suhe zemlje; ne bi oblièja ni ljepote u njega; i vidjesmo ga, i ne bješe ništa na oèima, èega radi bismo ga poželjeli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Prezren bješe i odbaèen izmeðu ljudi, bolnik i vièan bolestima, i kao jedan od koga svak zaklanja lice, prezren da ga ni za što ne uzimasmo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A on bolesti naše nosi i nemoæi naše uze na se, a mi mišljasmo da je ranjen, da ga Bog bije i muèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ali on bi ranjen za naše prijestupe, izbijen za naša bezakonja; kar bješe na njemu našega mira radi, i ranom njegovom mi se iscijelismo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Svi mi kao ovce zaðosmo, svaki nas se okrenu svojim putem, i Gospod pusti na nj bezakonje svijeh nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Muèen bi i zlostavljen, ali ne otvori usta svojih; kao jagnje na zaklanje voðen bi i kao ovca nijema pred onijem koji je striže ne otvori usta svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Od tjeskobe i od suda uze se, a rod njegov ko æe iskazati? jer se istrže iz zemlje živijeh i za prijestupe naroda mojega bi ranjen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Odrediše mu grob sa zloèincima, ali na smrti bi s bogatijem, jer ne uèini nepravde, niti se naðe prijevara u ustima njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ali Gospodu bi volja da ga bije, i dade ga na muke; kad položi dušu svoju u prinos za grijeh, vidjeæe natražje, produljiæe dane, i što je Gospodu ugodno napredovaæe njegovom rukom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Vidjeæe trud duše svoje i nasitiæe se; pravedni sluga moj opravdaæe mnoge svojim poznanjem, i sam æe nositi bezakonja njihova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zato æu mu dati dio za mnoge, i sa silnima æe dijeliti plijen, jer je dao dušu svoju na smrt, i bi metnut meðu zloèince, i sam nosi grijehe mnogih, i za zloèince se moli."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/53.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 53
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/54.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 54
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/52.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 52
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 12
+}

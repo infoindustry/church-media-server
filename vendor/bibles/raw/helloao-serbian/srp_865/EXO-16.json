@@ -1,0 +1,328 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 16,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Od Elima se podigoše, i sav zbor sinova Izrailjevijeh doðe u pustinju Sin, koja je izmeðu Elima i Sinaja, petnaestoga dana drugoga mjeseca pošto izidoše iz zemlje Misirske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I stade vikati sav zbor sinova Izrailjevijeh na Mojsija i na Arona u pustinji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I rekoše im sinovi Izrailjevi: kamo da smo pomrli od ruke Gospodnje u zemlji Misirskoj, kad sjeðasmo kod lonaca s mesom i jeðasmo hljeba izobila! jer nas izvedoste u ovu pustinju da pomorite sav ovaj zbor glaðu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A Gospod reèe Mojsiju: evo uèiniæu da vam daždi iz neba hljeb, a narod neka izlazi i kupi svaki dan koliko treba na dan, da ga okušam hoæe li hoditi po mome zakonu ili neæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A šestoga dana neka zgotove što donesu, a neka bude dvojinom onoliko koliko nakupe svaki dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I reèe Mojsije i Aron svijem sinovima Izrailjevijem: doveèe æete poznati da vas je Gospod izveo iz zemlje Misirske;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A sjutra æete vidjeti slavu Gospodnju; jer je èuo viku vašu na Gospoda. Jer šta smo mi da vièete na nas?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I reèe Mojsije: doveèe æe vam dati Gospod mesa da jedete a ujutru hljeba da se nasitite; jer je èuo Gospod viku vašu, kojom vièete na nj. Jer što smo mi? Nije na nas vaša vika nego na Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I reèe Mojsije Aronu: kaži svemu zboru sinova Izrailjevih: pristupite pred Gospoda, jer je èuo viku vašu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I kad reèe Aron svemu zboru sinova Izrailjevih, pogledaše u pustinju, i gle, slava Gospodnja pokaza se u oblaku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I Gospod reèe Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Èuo sam viku sinova Izrailjevih. Kaži im i reci: doveèe æete jesti mesa, a sjutra æete se nasititi hljeba, i poznaæete da sam ja Gospod Bog vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I uveèe doletješe prepelice i prekriliše oko, a ujutru pade rosa oko okola;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A kad se diže rosa, a to po pustinji nešto sitno okruglo, sitno kao slana po zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I kad vidješe sinovi Izrailjevi, govorahu jedan drugomu: šta je ovo? Jer ne znadijahu šta bješe. A Mojsije im reèe: to je hljeb što vam dade Gospod da jedete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "To je za što zapovjedi Gospod: kupite ga svaki dan koliko kome treba za jelo, po gomor na glavu, po broju duša vaših, svaki neka uzme za one koji su mu u šatoru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I uèiniše tako sinovi Izrailjevi; i nakupiše koji više koji manje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Pa mjeriše na gomor, i ne doðe više onom koji nakupi mnogo, niti manje onom koji nakupi malo, nego svaki nakupi koliko mu je trebalo da jede."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I reèe im Mojsije: niko da ne ostavlja od toga za sjutra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ali ne poslušaše Mojsija, nego neki ostaviše od toga za sjutra, te se ucrva i usmrdje. I rasrdi se Mojsije na njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tako ga kupljahu svako jutro, svaki koliko mu trebaše za jelo; a kad sunce ogrijevaše, tada se rastapaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A u šesti dan nakupiše hljeba dvojinom, po dva gomora na svakoga; i doðoše sve starješine od zbora, i javiše Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A on im reèe: ovo kaza Gospod: sjutra je subota, odmor svet Gospodu; što æete peæi, pecite, i što æete kuhati, kuhajte danas; a što preteèe, ostavite i èuvajte za sjutra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I ostaviše za sjutra, kao što zapovjedi Mojsije, i ne usmrdje se niti bješe crva u njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I reèe Mojsije: jedite to danas, jer je danas subota Gospodnja, danas neæete naæi u polju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Šest æete dana kupiti, a sedmi je dan subota, tada ga neæe biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I u sedmi dan izidoše neki od naroda da kupe, ali ne naðoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A Gospod reèe Mojsiju: dokle æete se protiviti zapovjestima mojim i zakonima mojim?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Vidite, Gospod vam je dao subotu, zato vam daje šestoga dana hljeba na dva dana. Stojte svaki na svom mjestu, i neka ne odlazi niko sa svojega mjesta u sedmi dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I poèinu narod u sedmi dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I dom Izrailjev prozva taj hljeb mana; a bijaše kao sjeme korijandrovo, bijela, i na jeziku kao medeni kolaèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I reèe Mojsije: ovo je zapovjedio Gospod: napuni gomor toga, neka se èuva od koljena do koljena vašega, da vide hljeb, kojim sam vas hranio u pustinji kad vas izvedoh iz zemlje Misirske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I reèe Mojsije Aronu: uzmi krèag i naspi pun gomor mane, i metni pred Gospoda da se èuva od koljena do koljena vašega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I ostavi ga Aron pred svjedoèanstvom da se èuva, kao što zapovjedi Gospod Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A sinovi Izrailjevi jedoše manu èetrdeset godina dok ne doðoše u zemlju u kojoj æe živjeti; jedoše manu dok ne doðoše na meðu zemlje Hananske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A gomor je desetina efe."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/16.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 16
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/17.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 17
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/15.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 15
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 36
+}

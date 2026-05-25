@@ -1,0 +1,258 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Jer gle, Gospod, Gospod nad vojskama uzeæe Jerusalimu i Judi potporu i pomoæ, svaku potporu u hljebu i svaku potporu u vodi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Junaka i vojnika, sudiju i proroka, i mudarca i starca,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Pedesetnika i ugledna èovjeka, i savjetnika i vješta umjetnika i èovjeka rjeèita."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I daæu im knezove mladiæe, i djeca æe im biti gospodari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I èiniæe silu u narodu jedan drugome i svaki bližnjemu svojemu; dijete æe ustajati na starca i nepošten èovjek na poštena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I èovjek æe uhvatiti brata svojega iz kuæe oca svojega govoreæi: imaš haljinu, budi nam knez, ovaj rasap neka je pod tvojom rukom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A on æe se zakleti u onaj dan govoreæi: neæu biti ljekar, niti imam kod kuæe hljeba ni haljine, ne postavljajte me knezom narodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer se obori Jerusalim i Juda pade, jer se jezik njihov i djela njihova protive Gospodu da draže oèi slave njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Što se vidi na licu njihovu svjedoèi na njih, razglašuju grijeh svoj kao Sodom, ne taje; teško duši njihovoj! jer sami sebi èine zlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Recite pravedniku da æe mu dobro biti, jer æe jesti plod od djela svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Teško bezbožniku! zlo æe mu biti, jer æe mu se naplatiti ruke njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Narodu mojemu èine silu djeca, i žene su im gospodari. Narode moj! koji te vode, zavode te, i kvare put hoda tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ustaje Gospod na parbu, stoji da sudi narodima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Gospod æe doæi na sud sa starješinama naroda svojega i s knezovima njegovijem, jer vi potrste vinograd, grabež od siromaha u vašim je kuæama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zašto gazite narod moj i lice siromasima satirete? govori Gospod, Gospod nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Još govori Gospod: što se poniješe kæeri Sionske i idu opružena vrata i namigujuæi oèima, sitno koraèaju i zvekeæu nogama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Zato æe Gospod uèiniti da oæelavi tjeme kæerima Sionskim, i otkriæe Gospod golotinju njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Tada æe Gospod skinuti nakit s obuæe i vezove i mjeseèiæe,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nizove i lanèiæe i trepetljike,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ukosnike i podveze i pojase i stakalca mirisna i oboce,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Prstene i poèeonike,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Sveèane haljine i ogrtaèe i prijevjese i toboce,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I ogledala i košuljice i oglavlja i pokrivala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I mjesto mirisa biæe smrad, i mjesto pojasa raspojasina, mjesto pletenica æela, mjesto širokih skuta pripasana vreæa, i mjesto ljepote ogorjelina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Tvoji æe ljudi pasti od maèa i junaci tvoji u ratu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I tužiæe i plakaæe vrata njegova, a on æe pust ležati na zemlji."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 26
+}

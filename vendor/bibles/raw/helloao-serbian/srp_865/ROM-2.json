@@ -1,0 +1,279 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ROM",
+    "translationId": "srp_865",
+    "name": "Rimljanima",
+    "commonName": "Rimljanima",
+    "title": "Poslanica Rimljanima",
+    "order": 45,
+    "numberOfChapters": 16,
+    "sha256": "1fe4947b687992778ed830174635b188e37a5a7f483de9affcbbb4c949cc6571",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ROM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/ROM/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 433
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Zato se ne možeš izgovoriti, o èovjeèe koji god sudiš! jer kojijem sudom sudiš drugome, sebe osuðuješ; jer to èiniš sudeæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A znamo da je sud Božij prav na one koji to èine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Nego pomišljaš li, o èovjeèe koji sudiš onima koji to èine, i sam èiniš to! da æeš ti pobjeæi od suda Božijega?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ili ne mariš za bogatstvo njegove dobrote i krotosti i trpljenja, ne znajuæi da te dobrota Božija na pokajanje vodi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nego svojom drvenosti i nepokajanijem srcem sabiraš sebi gnjev za dan gnjeva u koji æe se pokazati pravedni sud Boga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Koji æe dati svakome po djelima njegovijem:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Onima dakle koji su trpljenjem djela dobroga tražili slavu i èast i neraspadljivost, život vjeèni;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A onima koji se uz prkos suprote istini a pokoravaju se nepravdi, nemilost i gnjev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nevolja i tuga na svaku dušu èovjeka koji èini zlo, a najprije Jevrejina i Grka;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A slava i èast i mir svakome koji èini dobro, a najprije Jevrejinu i Grku;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer Bog ne gleda ko je ko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer koji bez zakona sagriješiše, bez zakona æe i izginuti; i koji u zakonu sagriješiše, po zakonu æe se osuditi"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer pred Bogom nijesu pravedni oni koji slušaju zakon, nego æe se oni opravdati koji ga tvore;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer kad neznabošci ne imajuæi zakona sami od sebe èine što je po zakonu, oni zakona ne imajuæi sami su sebi zakon:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Oni dokazuju da je ono napisano u srcima njihovijem što se èini po zakonu, buduæi da im savjest svjedoèi, i misli meðu sobom tuže se ili pravdaju)"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Na dan kad Bog uzasudi tajne ljudske po jevanðelju mojemu preko Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Gle, ti se zoveš Jevrejin, a oslanjaš se na zakon i hvališ se Bogom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I poznaješ volju, i izbiraš što je bolje, jer si nauèen od zakona;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I misliš da si voð slijepima, vidjelo onima koji su u mraku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Nakazatelj bezumnima, uèitelj djeci, koji imaš ugled razuma i istine u zakonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Uèeæi dakle drugoga sebe ne uèiš;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Propovijedajuæi da se ne krade, kradeš; govoreæi: ne èini preljube, èiniš preljubu; gadeæi se na idole, kradeš svetinju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Koji se hvališ zakonom, a prijestupom zakona sramotiš Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer se ime Božije zbog vas huli u neznabošcima, kao što stoji napisano."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Obrezanje pomaže ako zakon držiš; ako li si prestupnik zakona, obrezanje je tvoje neobrezanje postalo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ako dakle neobrezanje pravdu zakona drži, zašto se ne bi njegovo neobrezanje za obrezanje uzelo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I onaj koji je od roda neobrezan i izvršuje zakon, osudiæe tebe koji si sa slovima i obrezanjem prestupnik zakona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Jer ono nije Jevrejin koji je spolja Jevrejin, niti je ono obrezanje koje je spolja na tijelu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Nego je ono Jevrejin koji je iznutra, i obrezanje srca duhom a ne slovima, to je obrezanje; kome je hvala ne od ljudi nego od Boga."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ROM/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ROM/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ROM/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

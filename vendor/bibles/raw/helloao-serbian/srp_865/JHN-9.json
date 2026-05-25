@@ -1,0 +1,363 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JHN",
+    "translationId": "srp_865",
+    "name": "Jovanu",
+    "commonName": "Jovanu",
+    "title": "Jevanðelje po Jovanu",
+    "order": 43,
+    "numberOfChapters": 21,
+    "sha256": "b0467ac7d5635aaff73b88f7076ca219a8a790ad4b0c4ba876a7716c71658f8f",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JHN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JHN/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 879
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I prolazeæi vidje èovjeka slijepa od roðenja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I zapitaše ga uèenici njegovi govoreæi: Ravi! ko sagriješi, ili ovaj ili roditelji njegovi, te se rodi slijep?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Isus odgovori: ni on sagriješi ni roditelji njegovi, nego da se jave djela Božija na njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Meni valja raditi djela onoga koji me posla dok je dan: doæi æe noæ kad niko ne može raditi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Dok sam na svijetu vidjelo sam svijetu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Rekavši ovo pljunu na zemlju i naèini kao od pljuvanke, i pomaza kalom oèi slijepome,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I reèe: idi umij se u banji Siloamskoj koje znaèi poslan). Otide dakle i umi se, i doðe gledajuæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A susjedi i koji ga bijahu vidjeli prije da bješe slijep govorahu: nije li ovo onaj što sjeðaše i prošaše?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jedni govorahu: on je; a drugi: nalik je na nj. A on govoraše: ja sam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Tada mu govorahu: kako ti se otvoriše oèi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "On odgovori i reèe: èovjek koji se zove Isus naèini kao, i pomaza oèi moje, i reèe mi: idi u banju Siloamsku i umij se. A kad otidoh i umih se, progledah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada mu rekoše: gdje je on? Reèe: ne znam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada ga povedoše k farisejima, onoga što bješe nekad slijep."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A bješe subota kad naèini Isus kao i otvori mu oèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tada ga opet pitahu i fariseji kako progleda. A on im reèe: kao metnu mi na oèi, i umih se, i vidim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tada govorahu neki od fariseja: nije ovaj èovjek od Boga, jer ne svetkuje subote. Drugi govorahu: kako može èovjek grješan takova èudesa èiniti? I posta raspra meðu njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Rekoše dakle opet slijepcu: šta veliš ti za njega što ti otvori oèi tvoje? A on reèe: prorok je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Tada Jevreji ne vjerovaše za njega da bješe slijep i progleda, dok ne dozvaše roditelje onoga što je progledao,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I zapitaše ih govoreæi: je li ovo vaš sin za koga vi govorite da se rodi slijep? kako dakle sad vidi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A roditelji njegovi odgovoriše im i rekoše: znamo da je ovo sin naš i da se rodi slijep;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A kako sad vidi ne znamo; ili ko mu otvori oèi mi ne znamo; on je veliki, pitajte njega neka sam kaže za sebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ovo rekoše roditelji njegovi, jer se bojahu Jevreja; jer se Jevreji bijahu dogovorili da bude odluèen od zbornice ko ga prizna za Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Zato rekoše roditelji njegovi: on je veliki, pitajte njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Tada po drugi put dozvaše èovjeka koji je bio slijep, i rekoše mu: podaj Bogu slavu; mi znamo da je èovjek ovaj grješan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A on odgovori i reèe: je li grješan ne znam; samo znam da ja bijah slijep, a sad vidim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Tada mu opet rekoše: šta ti uèini? kako otvori oèi tvoje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Odgovori im: ja vam veæ kazah, i ne slušaste; šta æete opet slušati? Veæ ako i vi hoæete uèenici njegovi da budete?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A oni ga ukoriše, i rekoše mu: ti si uèenik njegov, a mi smo uèenici Mojsijevi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Mi znamo da s Mojsijem govori Bog; a ovoga ne znamo otkuda je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Èovjek odgovori i reèe im: to i jest za èudo, što vi ne znate otkuda je a on otvori oèi moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A znamo da Bog ne sluša grješnika; nego ako ko poštuje Boga i volju njegovu tvori onoga sluša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Otkako je svijeta nije èuveno da ko otvori oèi roðenom slijepcu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Kad on ne bi bio od Boga ne bi mogao ništa èiniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Odgovoriše i rekoše mu: ti si se rodio sav u grijesima, pa zar ti nas da uèiš? I istjeraše ga napolje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Èu Isus da ga istjeraše napolje; i našavši ga reèe mu: vjeruješ li ti sina Božijega?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "On odgovori i reèe: a koje je, Gospode, da ga vjerujem?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A Isus mu reèe: i vidio si ga, i koji govori s tobom on je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A on reèe: vjerujem, Gospode! I pokloni mu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I reèe Isus: ja doðoh na sud na ovaj svijet, da vide koji ne vide, i koji vide da postanu slijepi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I èuše ovo neki od fariseja koji bijahu s njim, i rekoše mu: eda li smo i mi slijepi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Reèe im Isus: kad biste bili slijepi, ne biste imali grijeha, a sad govorite da vidite, tako vaš grijeh ostaje."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JHN/9.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 9
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JHN/10.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 10
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JHN/8.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 8
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 41
+}

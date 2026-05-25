@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 20,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Još reci sinovima Izrailjevim: ko god izmeðu sinova Izrailjevih ili izmeðu došljaka koji se bave u Izrailju, da od sjemena svojega Molohu, neka se pogubi, narod u zemlji neka ga zaspe kamenjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I ja æu okrenuti lice svoje nasuprot takom èovjeku, i istrijebiæu ga iz naroda njegova, što od sjemena svojega dade Molohu, i zaprzni svetinju moju i oskvrni sveto ime moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ako li narod kakogod zatvori oèi da ne vidi toga èovjeka kad da od svojega sjemena Molohu, i ne ubiju ga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ja æu okrenuti lice svoje nasuprot onom èovjeku i nasuprot domu njegovu, i istrijebiæu ga, i sve koji za njim èine preljubu èineæi preljubu za Molohom, iz naroda njihova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A ko se obrati k vraèarima i gatarima da èini preljubu za njima, okrenuæu lice svoje nasuprot njemu, i istrijebiæu ga iz naroda njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zato posveæujte se, i budite sveti, jer sam ja Gospod Bog vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I èuvajte uredbe moje i vršite ih. Ja sam Gospod koji vas posveæujem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ko opsuje oca svojega ili mater svoju, da se pogubi; opsovao je oca svojega ili mater svoju; krv njegova na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A èovjek koji uèini preljubu s tuðom ženom, što je uèinio preljubu sa ženom bližnjega svojega, da se pogubi i preljuboèinac i preljuboèinica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ko bi spavao sa ženom oca svojega, otkrio je golotinju oca svojega; oboje da se pogube; krv njihova na njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ko bi spavao sa ženom sina svojega, oboje da se pogube; uèiniše sramotu; krv njihova na njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ko bi muškarca obležao kao ženu, uèiniše gadnu stvar obojica; da se pogube; krv njihova na njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I ko bi uzeo ženu i mater njezinu, zlo je, ognjem da se spali on i ona, da ne bude zla meðu vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ko bi obležao živinèe, da se pogubi; ubijte i živinèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I ako bi žena legla pod živinèe, ubij i ženu i živinèe, neka poginu, krv njihova na njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ko bi uzeo sestru svoju, kæer oca svojega ili kæer matere svoje, vidio bi golotinju njezinu i ona bi vidjela golotinju njegovu, sramota je; zato da se istrijebe ispred sinova naroda svojega; otkrio je golotinju sestre svoje, neka nosi bezakonje svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I ko bi spavao sa ženom kad ima vrijeme i otkrio golotinju njezinu otkrivši teèenje njezino, i ona bi otkrila teèenje krvi svoje, da se istrijebe oboje iz naroda svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Golotinje sestre matere svoje i sestre oca svojega ne otkrij, jer bi otkrio svoju krv; neka nose bezakonje svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A ko bi spavao sa ženom strica svojega, otkrio bi golotinju strica svojega; neka nose oboje grijeh svoj, neka pomru bez djece."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ko bi uzeo ženu brata svojega, ružno je, otkrio je golotinju brata svojega; bez djece da budu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Èuvajte sve uredbe moje i sve zakone moje, i vršite ih, da vas zemlja ne izmetne, u koju vas vodim da živite u njoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Nemojte živjeti po uredbama naroda koje æu otjerati ispred vas, jer su èinili sve to, zato mi omrzoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I rekoh vam: vi æete naslijediti zemlju njihovu i ja æu vam je dati u državu, zemlju u kojoj teèe mlijeko i med. Ja sam Gospod Bog vaš, koji vas odvojih od drugih naroda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Zato razlikujte stoku èistu od neèiste, i pticu èistu od neèiste, i nemojte skvrniti duša svojih stokom ili pticom ili èim god što puže po zemlji, što sam vam odvojio da je neèisto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I biæete mi sveti, jer sam svet ja, Gospod, i odvojih vas od drugih naroda da budete moji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A èovjek ili žena, u kojima bi bio duh vraèarski ili gatarski, da se pogube, kamenjem da se zaspu, krv njihova na njih."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/20.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 20
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/21.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 21
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/19.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 19
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

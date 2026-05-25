@@ -1,0 +1,188 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "HEB",
+    "translationId": "srp_865",
+    "name": "Jevrejima",
+    "commonName": "Jevrejima",
+    "title": "Poslanica Jevrejima",
+    "order": 58,
+    "numberOfChapters": 13,
+    "sha256": "dd0af6a7bfa1e81c89f066ec55bf573f0bd87cd93a901a2b8a825a622650c258",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/HEB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "HEB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 13,
+    "lastChapterApiLink": "/api/srp_865/HEB/13.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "HEB",
+      "chapter": 13
+    },
+    "totalNumberOfVerses": 303
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Da se bojimo dakle da kako dok je još ostavljeno obeæanje da se ulazi u pokoj njegov, ne odocni koji od vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer je nama objavljeno kao i onima; ali onima ne pomaže èuvena rijeè, jer ne vjerovaše oni koji èuše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer mi koji vjerovasmo ulazimo u pokoj, kao što reèe: zato se zakleh u gnjevu svojemu da neæe uæi u pokoj moj, ako su djela i bila gotova od postanja svijeta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer negdje reèe za sedmi dan ovako: i poèinu Bog u dan sedmi od sviju djela svojijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I na ovom mjestu opet: neæe uæi u pokoj moj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Buduæi pak da neki imaju da uðu u njega, i oni kojima je najprije javljeno ne uðoše za neposlušanje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Opet odredi jedan dan, danas, govoreæi u Davidu po tolikom vremenu, kao što se prije kaza: danas ako glas njegov èujete, ne budite drvenastijeh srca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer da je Isus one doveo u pokoj, ne bi za drugi dan govorio potom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Daklem je ostavljeno još poèivanje narodu Božijemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer koji uðe u pokoj njegov, i on poèiva od djela svojijeh, kao i Bog od svojijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Da se postaramo dakle uæi u taj pokoj, da ne upadne ko u onu istu gatku nevjerstva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer je živa rijeè Božija, i jaka, i oštrija od svakoga maèa oštra s obje strane, i prolazi tja do rastavljanja i duše i duha, i zglavaka i mozga, i sudi mislima i pomislima srdaènijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I nema tvari nepoznate pred njim, nego je sve golo i otkriveno pred oèima onoga kojemu govorimo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Imajuæi dakle velikoga poglavara sveštenièkoga, koji je prošao nebesa, Isusa sina Božijega, da se držimo priznanja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer nemamo poglavara sveštenièkoga koji ne može postradati s našijem slabostima, nego koji je u svaèemu iskušan kao i mi, osim grijeha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Da pristupimo dakle slobodno k prijestolu blagodati, da primimo milost i naðemo blagodat za vrijeme kad nam zatreba pomoæ."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/HEB/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/HEB/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/HEB/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

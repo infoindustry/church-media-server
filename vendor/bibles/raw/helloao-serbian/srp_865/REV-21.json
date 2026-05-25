@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "REV",
+    "translationId": "srp_865",
+    "name": "Apokalipsa",
+    "commonName": "Apokalipsa",
+    "title": "Otkrivenje Jovanovo — Apokalipsa",
+    "order": 66,
+    "numberOfChapters": 22,
+    "sha256": "03ca27b48572b751a11a8d2525edcfa3d35a43f752bf5506e16685bb264b5230",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/REV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 22,
+    "lastChapterApiLink": "/api/srp_865/REV/22.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 22
+    },
+    "totalNumberOfVerses": 404
+  },
+  "chapter": {
+    "number": 21,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I vidjeh nebo novo i zemlju novu; jer prvo nebo i prva zemlja proðoše, i mora više nema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I ja Jovan vidjeh grad sveti, Jerusalim nov, gdje silazi od Boga s neba, pripravljen kao nevjesta ukrašena mužu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I èuh glas veliki s neba gdje govori: evo skinije Božije meðu ljudima, i življeæe s njima, i oni æe biti narod njegov, i sam Bog biæe s njima Bog njihov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I Bog æe otrti svaku suzu od oèiju njihovijeh, i smrti neæe biti više, ni plaèa, ni vike, ni bolesti neæe biti više; jer prvo proðe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I reèe onaj što sjeðaše na prijestolu: evo sve novo tvorim. I reèe mi: napiši, jer su ove rijeèi istinite i vjerne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I reèe mi: svrši se. Ja sam alfa i omega, poèetak i svršetak. Ja æu žednome dati iz izvora vode žive zabadava."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Koji pobijedi, dobiæe sve, i biæu mu Bog, i on æe biti moj sin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A strašljivima i nevjernima i poganima i krvnicima, i kurvarima, i vraèarima, i idolopoklonicima, i svima lažama, njima je dijel u jezeru što gori ognjem i sumporom; koje je smrt druga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I doðe k meni jedan od sedam anðela koji imahu sedam èaša napunjenijeh sedam zala pošljednjijeh, i reèe mi govoreæi: hodi da ti pokažem nevjestu, jagnjetovu ženu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I odvede me u duhu na goru veliku i visoku, i pokaza mi grad veliki, sveti Jerusalim, gdje silazi s neba od Boga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I imaše slavu Božiju; i svjetlost njegova bijaše kao dragi kamen, kao kamen jaspis svijetli,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I imaše zid veliki i visok, i imaše dvanaestora vrata, i na vratima dvanaest anðela, i imena napisana, koja su imena dvanaest koljena Izrailjevijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Od istoka vrata troja, i od sjevera vrata troja, od juga vrata troja, i od zapada vrata troja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I zid gradski imaše dvanaest temelja, i na njima imena dvanaest apostola jagnjetovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I onaj što govoraše sa mnom, imaše trsku zlatnu da izmjeri grad i vrata njegova i zidove njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I grad na èetiri ugla stoji, i dužina je njegova tolika kolika i širina. I izmjeri grad trskom na dvanaest hiljada potrkališta: dužina i širina i visina jednaka je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I razmjeri zid njegov na sto i èetrdeset i èetiri lakta, po mjeri èovjeèijoj, koja je anðelova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I bješe graða zida njegova jaspis, i grad zlato èisto, kao èisto staklo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I temelji zidova gradskijeh bijahu ukrašeni svakijem dragijem kamenjem: prvi temelj bijaše jaspis, drugi sapfir, treæi halkidon, èetvrti smaragd,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Peti sardoniks, šesti sard, sedmi hrisolit, osmi viril, deveti topaz, deseti hrisopras, jedanaesti jakint, dvanaesti ametist."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I dvanaest vrata, dvanaest zrna bisera: svaka vrata bijahu od jednoga zrna bisera: i ulice gradske bijahu zlato èisto, kao staklo presvijetlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I crkve ne vidjeh u njemu: jer je njemu crkva Gospod Bog svedržitelj, i jagnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I grad ne potrebuje sunca ni mjeseca da svijetle u njemu; jer ga slava Božija prosvijetli, i žižak je njegov jagnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I narodi koji su spaseni hodiæe u vidjelu njegovu, i carevi zemaljski donijeæe slavu i èast svoju u njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I vrata njegova neæe se zatvorati danju, jer ondje noæi neæe biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I donijeæe slavu i èast neznabožaca u njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I neæe u njega uæi ništa pogano, i što èini mrzost i laž, nego samo koji su napisani u životnoj knjizi jagnjeta."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/REV/21.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 21
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/REV/22.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 22
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/REV/20.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 20
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

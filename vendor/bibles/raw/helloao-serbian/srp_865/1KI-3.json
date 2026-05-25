@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1KI",
+    "translationId": "srp_865",
+    "name": "1. Kraljevima",
+    "commonName": "1. Kraljevima",
+    "title": "1. Kraljevima",
+    "order": 11,
+    "numberOfChapters": 22,
+    "sha256": "876ee89adf3ca9c88149d73fc7a5fe2947fa3921a637898e9d808d4c90bad1b4",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1KI/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1KI",
+      "chapter": 1
+    },
+    "lastChapterNumber": 22,
+    "lastChapterApiLink": "/api/srp_865/1KI/22.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1KI",
+      "chapter": 22
+    },
+    "totalNumberOfVerses": 817
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Solomun se oprijatelji s Faraonom carem Misirskim, i oženi se kæerju Faraonovom, i dovede je u grad Davidov dokle ne dovrši svoj dom i dom Gospodnji i zid oko Jerusalima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ali narod prinošaše žrtve na visinama; jer još ne bješe sazidan dom imenu Gospodnjemu do tada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Solomun ljubljaše Gospoda hodeæi po uredbama oca svojega Davida, samo što na visinama prinošaše žrtve i kaðaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Zato otide car u Gavaon da ondje prinese žrtvu, jer to bijaše velika visina; i Solomun prinese tisuæu žrtava paljenica na onom oltaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I javi se Gospod Solomunu u Gavaonu noæu u snu, i reèe Bog: išti što hoæeš da ti dam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A Solomun reèe: ti si uèinio veliku milost sluzi svojemu Davidu ocu mojemu, kao što je hodio pred tobom vjerno i pravedno i s pravijem srcem prema tebi; i saèuvao si mu ovu veliku milost, te mu dao sina da sjedi na prijestolu njegovu, kao što se vidi danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I tako, Gospode Bože moj, ti si postavio slugu svojega carem na mjesto Davida oca mojega, a ja sam mlad, niti znam polaziti ni dolaziti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I tvoj je sluga meðu narodom tvojim, koji si izabrao, narodom velikim, koji se ne može izbrojiti ni proraèunati od množine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Daj dakle sluzi svojemu srce razumno da može suditi narodu tvojemu i raspoznavati dobro i zlo. Jer ko može suditi narodu tvojemu tako velikom?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I bi milo Gospodu što Solomun to zaiska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I reèe mu Bog: kad to išteš, a ne išteš duga života niti išteš blaga niti išteš duša neprijatelja svojih nego išteš razuma da umiješ suditi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Evo uèinih po tvojim rijeèima; evo ti dajem srce mudro i razumno da takoga kakav si ti ni prije tebe nije bilo niti æe poslije tebe nastati taki kakav si ti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A svrh toga dajem ti i što nijesi iskao, i blago i slavu, da takoga kakav æeš ti biti neæe biti meðu carevima svega vijeka tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I ako uzideš mojim putovima držeæi uredbe moje i zapovijesti moje, kao što je išao David otac tvoj, produljiæu dane tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tada se probudi Solomun, i gle, ono bješe san. I doðe u Jerusalim, i stavši pred kovèeg zavjeta Gospodnjega prinese žrtve paljenice i žrtve zahvalne, i poèasti sve sluge svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tada doðoše dvije žene kurve k caru, i stadoše pred njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I reèe jedna žena: ah, gospodaru; ja i ova žena sjedimo u jednoj kuæi, i porodih se kod nje u istoj kuæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A treæi dan poslije moga poroðaja porodi se i ova žena, i bijasmo zajedno i ne bijaše niko drugi s nama u kuæi, samo nas dvije bijasmo u kuæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I umrije sin ove žene noæas, jer ona leže na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Pa ustavši u po noæi uze sina mojega iskraj mene, kad sluškinja tvoja spavaše, i stavi ga sebi u naruèje, a svoga sina mrtvoga stavi meni u naruèje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A kad ustah ujutru da podojim sina svojega, a to, mrtav; ali kad razgledah ujutru, a to, ne bješe moj sin, kojega ja rodih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Tada reèe druga žena: nije tako; nego je moj sin ovaj živi, a tvoj je sin onaj mrtvi. Ali ona reèe: nije tako, nego je tvoj sin onaj mrtvi, a moj je sin ovaj živi. Tako govorahu pred carem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A car reèe: ova kaže: ovaj je živi moj sin, a tvoj je sin ovaj mrtvi; a ona kaže: nije tako, nego je tvoj sin onaj mrtvi, a moj je sin ovaj živi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I reèe car: dajte mi maè. I donesoše maè pred cara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Tada reèe car: rasijecite živo dijete na dvoje, i podajte polovinu jednoj i polovinu drugoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Tada žena kojoj sin bješe živi reèe caru, jer joj se uskoleba utroba za sinom: ah, gospodaru, podajte njojzi dijete živo, a nemojte ga ubijati. A ona reèe: neka ne bude ni meni ni tebi, rasijecite ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Tada odgovori car i reèe: podajte onoj živo dijete, nemojte ga ubiti, ona mu je mati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I sav Izrailj èu sud koji izreèe car, i pobojaše se cara; jer vidješe da je u njemu mudrost Božija da sudi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1KI/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1KI",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1KI/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1KI",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1KI/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1KI",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

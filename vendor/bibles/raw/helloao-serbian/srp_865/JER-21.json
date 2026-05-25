@@ -1,0 +1,174 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 21,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Rijeè koja doðe Jeremiji od Gospoda kad posla k njemu car Sedekija Pashora sina Melhijina i Sofoniju sina Masijina sveštenika, i poruèi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Upitaj Gospoda za nas, jer Navuhodonosor car Vavilonski zavojšti na nas; eda bi nam uèinio Gospod po svijem èudesima svojim, da otide od nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Jeremija im reèe: ovako recite Sedekiji:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ovako veli Gospod Bog Izrailjev: evo, ja æu okrenuti natrag oružje što je u vašim rukama, kojim se bijete s carem Vavilonskim i s Haldejcima koji su vas opkolili iza zidova, i skupiæu ih usred toga grada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I ja æu vojevati na vas rukom podignutom i mišicom krjepkom i gnjevom i jarošæu i žestinom velikom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I pobiæu stanovnike toga grada, i ljude i stoku; od pomora velikoga pomrijeæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A poslije, veli Gospod, daæu Sedekiju cara Judina i sluge njegove i narod, one koji ostanu u tom gradu od pomora, od maèa i od gladi, u ruke Navuhodonosoru caru Vavilonskom i u ruke neprijateljima njihovijem i u ruke onima koji traže dušu njihovu, te æe ih pobiti maèem, neæe ih žaliti ni štedjeti niti æe se smilovati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A narodu tome reci: ovako veli Gospod: evo ja stavljam pred vas put k životu i put k smrti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ko ostane u tom gradu, poginuæe od maèa ili od gladi ili od pomora; a ko izaðe i preda se Haldejcima koji su vas opkolili, ostaæe živ, i duša æe mu biti mjesto plijena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer okretoh lice svoje tome gradu na zlo a ne na dobro, govori Gospod; u ruke caru Vavilonskom biæe predan, i on æe ga spaliti ognjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A za dom cara Judina èujte rijeè Gospodnju:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Dome Davidov, tako veli Gospod, sudite svako jutro, i kome se otima izbavljajte ga iz ruku nasilnikovijeh da ne izaðe kao oganj gnjev moj i razgori se da ga niko ne može ugasiti za zloæu djela vaših."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Evo me na tebe, koji sjediš u dolini, kao stijena u ravnici, govori Gospod, na vas, koji govorite: ko æe doæi na nas? i ko æe uæi u stanove naše?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer æu vas pokarati po plodu djela vaših, veli Gospod, i raspaliæu oganj u šumi njegovoj, koji æe proždrijeti sve što je oko njega."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/21.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 21
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/22.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 22
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/20.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 20
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 14
+}

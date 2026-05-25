@@ -1,0 +1,153 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ZEC",
+    "translationId": "srp_865",
+    "name": "Zaharija",
+    "commonName": "Zaharija",
+    "title": "Zaharija",
+    "order": 38,
+    "numberOfChapters": 14,
+    "sha256": "8d31bf129645529bbf86e696983cf67d27bb2c635d0ea09244c13074734b3eef",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ZEC/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ZEC",
+      "chapter": 1
+    },
+    "lastChapterNumber": 14,
+    "lastChapterApiLink": "/api/srp_865/ZEC/14.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ZEC",
+      "chapter": 14
+    },
+    "totalNumberOfVerses": 211
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Potom opet podigoh oèi svoje i vidjeh, a to knjiga leæaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I on mi reèe: šta vidiš? A ja rekoh: vidim knjigu gdje leti, dužina joj dvadeset lakata a širina deset lakata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Tada mi reèe: to je prokletstvo koje izaðe na svu zemlju, jer svaki koji krade istrijebiæe se po njoj s jedne strane, i koji se god kune krivo istrijebiæe se po njoj s druge strane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ja æu je pustiti, govori Gospod nad vojskama, te æe doæi na kuæu lupežu i na kuæu onome koji se kune mojim imenom krivo, i stajaæe mu usred kuæe i satræe je, i drvlje joj i kamenje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Potom izide anðeo koji govoraše sa mnom, i reèe mi: podigni oèi svoje i vidi šta je ovo što izlazi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A ja rekoh: šta je? A on reèe: to je efa što izlazi. I reèe: to im je oko po svoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I gle, podizaše se talanat olova, i jedna žena sjeðaše usred efe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I on reèe: to je bezbožnost. I vrže je usred efe, i vrže onaj komad olova ozgo na ždrijelo joj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I podigoh oèi svoje i vidjeh, a to dvije žene izlažahu, i vjetar im bijaše pod krilima, a krila im bijahu kao u rode, i digoše efu meðu zemlju i nebo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I rekoh anðelu koji govoraše sa mnom: kuda one nose efu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A on mi reèe: da joj naèine kuæu u zemlji Senaru; i ondje æe se namjestiti i postaviti na svoje podnožje."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ZEC/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEC",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ZEC/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEC",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ZEC/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEC",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 11
+}

@@ -1,0 +1,181 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ZEC",
+    "translationId": "srp_865",
+    "name": "Zaharija",
+    "commonName": "Zaharija",
+    "title": "Zaharija",
+    "order": 38,
+    "numberOfChapters": 14,
+    "sha256": "8d31bf129645529bbf86e696983cf67d27bb2c635d0ea09244c13074734b3eef",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ZEC/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ZEC",
+      "chapter": 1
+    },
+    "lastChapterNumber": 14,
+    "lastChapterApiLink": "/api/srp_865/ZEC/14.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ZEC",
+      "chapter": 14
+    },
+    "totalNumberOfVerses": 211
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Potom opet podigoh oèi svoje, i vidjeh, a to èetvora kola izlažahu izmeðu dvije gore, a te gore bijahu od mjedi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "U prvijem kolima bjehu konji riði, a u drugim kolima konji vrani,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A u treæim kolima konji bijeli, a u èetvrtijem kolima konji šareni, jaki."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I progovoriv rekoh anðelu koji govoraše sa mnom: šta je to, gospodaru moj?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A anðeo odgovori i reèe mi: to su èetiri vjetra nebeska, koji izlaze ispred Gospoda sve zemlje, gdje stajaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Konji vrani što su u jednijem, oni idu u sjevernu zemlju; a bijeli idu za njima; a šareni idu u zemlju južnu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I jaki izašavši šæahu da idu i prolaze zemlju; i reèe: idite, prolazite zemlju. I stadoše prolaziti zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tada me zovnu, i reèe mi: vidi, koji otidoše u zemlju sjevernu, umiriše duh moj u zemlji sjevernoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Potom mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Uzmi od roblja, od Heldaja i od Tovije i od Jedaje, koji doðoše iz Vavilonske, pa doði istoga dana i uði u dom Josije sina Sofonijina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Uzmi srebra i zlata, i naèini vijence, i metni na glavu Isusu sinu Josedekovu, poglavaru sveštenièkom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I reci mu govoreæi: ovako veli Gospod nad vojskama: evo èovjeka, kojemu je ime klica, koja æe klijati s mjesta svoga i sagradiæe crkvu Gospodnju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer æe on sagraditi crkvu Gospodnju, i nosiæe slavu, i sjedjeæe i vladati na svom prijestolu, i biæe sveštenik na prijestolu svom, i svjet mirni biæe meðu objema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I vijenci neka budu Elemu i Toviji i Jedaji i Henu sinu Sofonijinu za spomen u crkvi Gospodnjoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I koji su daleko, doæi æe i gradiæe crkvu Gospodnju, i poznaæete da me je Gospod nad vojskama poslao k vama. I to æe biti ako uzaslušate glas Gospoda Boga svojega."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ZEC/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEC",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ZEC/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEC",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ZEC/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEC",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 15
+}

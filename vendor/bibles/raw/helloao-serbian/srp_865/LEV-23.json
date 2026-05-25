@@ -1,0 +1,384 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 23,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kaži sinovima Izrailjevim, i reci im: praznici Gospodnji, koje æete zvati sveti sabori, ovo su praznici moji:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Šest dana radi, a sedmi dan, koji je subota za poèivanje, neka bude sveti sabor, ne radite nijednoga posla; subota je Gospodnja po svijem stanovima vašim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ovo su praznici Gospodnji, sabori sveti, na koje æete se sabirati u vrijeme njihovo:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Èetrnaestoga dana prvoga mjeseca uveèe pasha je Gospodnja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A petnaestoga dana istoga mjeseca praznik je prijesnijeh hljebova Gospodu; sedam dana jedite hljebove prijesne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Prvi dan neka vam bude sabor sveti, nikakvoga posla ropskoga ne radite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Nego za sedam dana prinosite Gospodu žrtve ognjene; a sedmi dan neka je sabor sveti; ne radite nijednoga posla ropskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Kaži sinovima Izrailjevim, i reci im: kad doðete u zemlju koju æu vam dati, i stanete žeti u njoj, tada donesite snop prvina od žetve svoje k svešteniku;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A on neka obræe snop pred Gospodom, da bi vam se primio; sjutradan po suboti neka ga obræe sveštenik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A isti dan kad budete obrtali snop, prinesite jagnje od godine dana zdravo na žrtvu paljenicu Gospodu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I dar uza nj, dvije desetine efe bijeloga brašna zamiješena s uljem, da bude žrtva ognjena Gospodu na ugodni miris; i naljev uza nj, vina èetvrt ina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A hljeba, ni zrna pržena ni zrna u klasu nemojte jesti do onoga dana kad prinesete žrtvu Bogu svojemu; to da vam je vjeèna uredba od koljena do koljena po svijem stanovima vašim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Potom od prvoga dana po suboti, od dana kad prinesete snop za žrtvu obrtanu, brojte sedam nedjelja punijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Do prvoga dana po sedmoj nedjelji nabrojte pedeset dana; onda prinesite nov dar Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Iz stanova svojih donesite dva hljeba za žrtvu obrtanu; od dvije desetine efe bijeloga brašna da budu, s kvascem neka budu peèeni; to su prvine Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A s tijem hljebom prinesite sedam jaganjaca od godine zdravijeh, i jedno tele i dva ovna, da bude žrtva paljenica Gospodu s darovima svojim i naljevima svojim, da bude žrtva ognjena na ugodni miris Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Zakoljite i jarca jednoga za grijeh i dva jagnjeta od godine za žrtvu zahvalnu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I sveštenik neka to obrne tamo i amo s hljebom od prvina i sa dva jagnjeta na žrtvu obrtanu pred Gospodom; i biæe svete stvari Gospodu za sveštenika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I saberite se u taj dan, sabor sveti da vam je; nijednoga posla ropskoga ne radite zakonom vjeènim po svijem stanovima svojim od koljena do koljena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A kad stanete žeti u zemlji svojoj, nemoj sasvijem požeti njive svoje, ni pabirèi po žetvi; ostavi siromahu i došljaku; ja sam Gospod Bog vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Kaži sinovima Izrailjevim, i reci: prvi dan sedmoga mjeseca neka vam je odmor, spomen trubni, sabor sveti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Nijednoga posla ropskoga nemojte raditi, nego prinesite žrtvu ognjenu Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A deseti je dan toga mjeseca sedmoga dan oèišæenja; sabor sveti neka vam je, i muèite duše svoje, i prinesite Gospodu žrtvu ognjenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "U taj dan nemojte raditi nijednoga posla, jer je dan oèišæenja, da se oèistite pred Gospodom Bogom svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A svaka duša koja se ne bi muèila u taj dan, da se istrijebi iz naroda svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I svaku dušu koja bi radila kakav posao u taj dan, ja æu zatrti dušu onu u narodu njezinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Nijednoga posla nemojte raditi; to da je vjeèna uredba od koljena do koljena u svijem stanovima vašim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Subota poèivanja neka vam bude, i muèite duše svoje; devetoga dana istoga mjeseca kad bude veèe, od veèera do veèera praznujte poèinak svoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Kaži sinovima Izrailjevim, i reci: petnaestoga dana sedmoga mjeseca praznik je sjenica za sedam dana Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Prvi dan neka bude sabor sveti, nijednoga posla ropskoga nemojte raditi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Za sedam dana prinosite žrtve ognjene Gospodu; osmi dan neka vam bude sabor sveti, i prinesite žrtve ognjene Gospodu; praznik je, nijednoga posla ropskoga nemojte raditi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "To su praznici Gospodnji, koje æete praznovati na saborima svetim da prinesete žrtve ognjene Gospodu: žrtvu paljenicu i dar i žrtvu zahvalnu i naljev, sve kad je èemu dan,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Osim subota Gospodnjih i osim darova vaših i osim svijeh zavjeta vaših i osim svijeh dobrovoljnijeh prinosa vaših, koje æete davati Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Ali petnaesti dan toga mjeseca sedmoga, kad saberete rod zemaljski, praznujte praznik Gospodu sedam dana; u prvi je dan odmor i u osmi je dan odmor."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "U prvi dan uzmite voæa s lijepijeh drveta, i grana palmovijeh i grana s gustijeh drveta i vrbe s potoka, i veselite se pred Gospodom Bogom svojim sedam dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I praznujte taj praznik Gospodu sedam dana svake godine zakonom vjeènim od koljena do koljena, sedmoga mjeseca praznujte ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I pod sjenicama budite sedam dana, ko je god roðen u Izrailju neka bude pod sjenicama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Da bi znalo natražje vaše da sam ja uèinio da žive pod sjenicama sinovi Izrailjevi kad sam ih izveo iz zemlje Misirske. Ja sam Gospod Bog vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "I Mojsije kaza praznike Gospodnje sinovima Izrailjevijem."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/23.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 23
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/24.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 24
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/22.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 22
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 44
+}

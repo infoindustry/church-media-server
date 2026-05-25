@@ -1,0 +1,405 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MRK",
+    "translationId": "srp_865",
+    "name": "Marku",
+    "commonName": "Marku",
+    "title": "Jevanðelje po Marku",
+    "order": 41,
+    "numberOfChapters": 16,
+    "sha256": "c4e35f7fe68e45b5731573fc03ca93f2cb48eea346a1b1abc79ae9266aa9bd92",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MRK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MRK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/MRK/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MRK",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 678
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I odmah ujutru uèiniše vijeæu glavari sveštenièki sa starješinama i književnicima, i sav sabor, i svezavši Isusa odvedoše ga i predadoše Pilatu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I upita ga Pilat: jesi li ti car Judejski? A on odgovarajuæi reèe mu: ti kažeš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I tužahu ga glavari sveštenièki vrlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A Pilat opet upita ga govoreæi: zar ništa ne odgovaraš? Gledaj šta svjedoèe na tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ali Isus više ne odgovori ništa tako da se divljaše Pilat."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A o svakom prazniku puštaše im po jednoga sužnja koga iskahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A bijaše jedan zatvoren, po imenu Varava, sa svojijem drugarima koji su u buni uèinili krv."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I povikavši narod stade iskati što im svagda èinjaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Pilat im odgovori govoreæi: hoæete li da vam pustim cara Judejskoga?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer znadijaše da su ga iz zavisti predali glavari sveštenièki."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ali glavari sveštenièki podgovoriše narod bolje Varavu da ištu da im pusti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A Pilat opet odgovarajuæi reèe im: a šta hoæete da èinim s tijem što ga zovete carem Judejskijem?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A oni opet povikaše: raspni ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Pilat im reèe: a kakvo je zlo uèinio? A oni iza glasa vikahu: raspni ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Pilat želeæi ugoditi narodu pusti im Varavu, a Isusa šibavši predade da ga razapnu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A vojnici ga odvedoše u sudnicu, i sazvaše svu èetu vojnika,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I obukoše mu skerletnu kabanicu, i opletavši vijenac od trnja metnuše na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I stadoše ga pozdravljati govoreæi: zdravo, care Judejski!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I bijahu ga po glavi trskom, i pljuvahu na nj, i padajuæi na koljena poklanjahu mu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I kad mu se narugaše, svukoše s njega skerletnu kabanicu, i obukoše ga u njegove haljine i izvedoše ga da ga razapnu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I natjeraše nekoga Simona iz Kirine, oca Aleksandrova i Rufova, koji iðaše iz polja, da mu ponese krst."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I dovedoše ga na mjesto Golgotu, koje æe reæi: košturnica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I davahu mu da pije vino sa smirnom, a on ne uze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I kad ga razapeše, razdijeliše haljine njegove bacajuæi kocke za njih ko æe šta uzeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A bijaše sahat treæi kad ga razapeše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I bijaše natpis njegove krivice natpisan: car Judejski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I s njim raspeše dva hajduka, jednoga s desne a jednoga s lijeve strane njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I izvrši se pismo koje govori: i metnuše ga meðu zloèince."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I koji prolažahu huljahu na nj mašuæi glavama svojima i govoreæi: aha! ti što crkvu razvaljuješ i za tri dana naèinjaš,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Pomozi sam sebi i siði s krsta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Tako i glavari sveštenièki s književnicima rugahu se govoreæi jedan drugome: drugima pomože, a sebi ne može pomoæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Hristos car Izrailjev neka siðe sad s krsta da vidimo, pa æemo mu vjerovati. I oni što bijahu s njim razapeti rugahu mu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A u šestome sahatu bi tama po svoj zemlji do sahata devetoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I u devetome sahatu povika Isus iza glasa govoreæi: Eloi! Eloi! lama savahtani? koje znaèi: Bože moj! Bože moj! zašto si me ostavio?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I neki od onijeh što stajahu ondje èuvši to govorahu: eno zove Iliju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A jedan otrèa te napuni sunðer octa, pa nataknuvši na trsku pojaše ga govoreæi: stanite da vidimo hoæe li doæi Ilija da ga skine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A Isus povika iza glasa, i izdahnu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I zavjes crkveni razdrije se nadvoje s vrha do na dno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A kad vidje kapetan koji stajaše prema njemu da s takom vikom izdahnu, reèe: zaista èovjek ovaj sin Božij bješe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A bijahu i žene koje gledahu izdaleka, meðu kojima bješe i Marija Magdalina i Marija Jakova maloga i Josije mati, i Solomija,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Koje iðahu za njim i kad bješe u Galileji, i služahu mu; i druge mnoge koje bijahu došle s njim u Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I kad bi uveèe jer bijaše petak, to jest uoèi subote"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Doðe Josif iz Arimateje, pošten savjetnik, koji i sam carstva Božijega èekaše, i usudi se te uðe k Pilatu i zaiska tijelo Isusovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "A Pilat se zaèudi da je veæ umro; i dozvavši kapetana zapita ga: je li davno umro?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "I doznavši od kapetana, dade tijelo Josifu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "I kupivši platno, i skinuvši ga, obavi platnom, i metnu ga u grob koji bješe isjeèen u kamenu, i navali kamen na vrata od groba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "A Marija Magdalina i Marija Josijna gledahu gdje ga metahu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MRK/15.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 15
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MRK/16.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 16
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MRK/14.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 14
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 47
+}

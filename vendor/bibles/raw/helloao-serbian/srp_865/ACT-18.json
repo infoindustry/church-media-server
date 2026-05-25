@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A potom se odluèi Pavle od Atine i doðe u Korint,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I naðe jednoga Jevrejina, po imenu Akilu, rodom iz Ponta, koji bješe skoro došao iz Talijanske sa ženom svojom Priskilom jer bješe zapovjedio Klaudije da svi Jevreji idu iz Rima i doðe k njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I buduæi da bješe onoga istog zanata, osta kod njih i raðaše, jer bijahu æilimarskog zanata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A prepiraše se u zbornicama svake subote, i nadgovaraše Jevreje i Grke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I kad siðoše iz Maæedonije Sila i Timotije, navali Duh na Pavla da svjedoèi Jevrejima da je Isus Hristos."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A kad se oni protivljahu i huljahu, otrese haljine svoje i reèe im: krv vaša na vaše glave; ja sam èist, otsad idem u neznabošce."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I otišavši odande doðe u kuæu nekoga po imenu Justa, koji poštovaše Boga, i kojega kuæa bješe kraj zbornice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A Krisp, starješina zbornièki, vjerova Gospoda sa svijem domom svojijem; i od Korinæana mnogi koji slušahu vjerovaše i krstiše se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Gospod reèe Pavlu noæu u utvari: ne boj se, nego govori, i da ne uæutiš;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer sam ja s tobom, i niko se neæe usuditi da ti što uèini; jer ja imam veliki narod u ovome gradu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I on sjedi ondje godinu i šest mjeseci uèeæi ih rijeèi Božijoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A kad bješe Galion namjesnik u Ahaji, napadoše Jevreji jednodušno na Pavla i dovedoše ga na sud"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Govoreæi: ovaj nagovara ljude da poštuju Boga protiv zakona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A kad Pavle šæaše da otvori usta, reèe Galion Jevrejima: da je kakva nepravda bila ili zlo djelo, po dužnosti poslušao bih vas, o Jevreji!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ali kad su prepiranja za rijeèi i za imena i za zakon vaš, gledajte sami; jer ja sudija tome neæu da budem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I izagna ih iz sudnice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Onda svi Grci uhvatiše Sostena, starješinu zbornièkoga, i biše ga pred sudnicom; i Galion nije za to ništa mario."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A Pavle osta još pozadugo, i oprostivši se s braæom otplovi u Siriju i s njime Priskila i Akila, i ostriže glavu u Kenhreji, jer se bješe zavjetovao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I doðe u Efes; i njih ostavi ondje, a on uðe u zbornicu, i prepiraše se s Jevrejima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A kad ga oni moliše da ostane kod njih više vremena, ne htjede,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Nego se oprosti s njima govoreæi: valja mi, makar kako bilo, ovaj praznik što ide provesti u Jerusalimu; nego, ako Bog htjedbude, vratiæu se opet k vama. I odveze se iz Efesa; a Akila i Priskila ostaše u Efesu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I došavši u Æesariju, iziðe i pozdravi se s crkvom, i siðe u Antiohiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I provedavši nekoliko vremena iziðe i proðe redom Galatijsku zemlju i Frigiju utvrðujuæi sve uèenike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A doðe u Efes jedan Jevrejin, po imenu Apolos, rodom iz Aleksandrije, èovjek rjeèit i silan u knjigama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ovaj bješe upuæen na put Gospodnji, i goreæi duhom, govoraše i uèaše pravo o Gospodu, a znadijaše samo krštenje Jovanovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I ovaj poèe slobodno propovijedati po zbornicama. A kad ga èuše Akila i Priskila, primiše ga i još mu bolje pokazaše put Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A kad on šæaše da prijeðe u Ahaju, poslaše braæa naprijed i pisaše uèenicima da ga prime. I on došavši onamo pomože mnogo onima koji vjerovahu blagodaæu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Jer zdravo nadvlaðivaše Jevreje jednako pred narodom dokazujuæi iz pisma da je Isus Hristos."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/18.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 18
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/19.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 19
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/17.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 17
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

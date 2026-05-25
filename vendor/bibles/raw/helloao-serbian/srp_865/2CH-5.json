@@ -1,0 +1,174 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "srp_865",
+    "name": "2. Dnevnika",
+    "commonName": "2. Dnevnika",
+    "title": "2. Dnevnika",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "712160a45a7d7fb40ad6e8f55f27c6bc71cf3a3fca70d89afd22674733ec70a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/2CH/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I tako se svrši sav posao što uradi Solomun za dom Gospodnji; i unese Solomun što bješe posvetio David otac njegov, i srebro i zlato i sudove, i ostavi u riznicu doma Božijega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Tada sabra Solomun starješine Izrailjeve i sve glavare plemenske, knezove domova otaèkih sinova Izrailjevijeh u Jerusalim da prenesu kovèeg zavjeta Gospodnjega iz grada Davidova, koje je Sion."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I skupiše se k caru svi ljudi Izrailjevi na praznik koji biva sedmoga mjeseca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I kad doðoše sve starješine Izrailjeve, uzeše Leviti kovèeg."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I prenesoše kovèeg i šator od sastanka i sve sudove svete što bjehu u šatoru, prenesoše sveštenici i Leviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A car Solomun i sav zbor Izrailjski koji se sabra k njemu prinesoše pred kovèegom na žrtvu ovaca i goveda toliko da se ne mogaše od mnoštva ni izbrojiti ni proraèunati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I unesoše sveštenici kovèeg zavjeta Gospodnjega na mjesto njegovo, u unutrašnji dom, u svetinju nad svetinjama, pod krila heruvimima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer heruvimima bijahu raširena krila nad mjestom gdje æe stajati kovèeg i zaklanjahu heruvimi kovèeg i poluge njegove ozgo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I povukoše mu poluge tako da im se krajevi viðahu od kovèega na prednjoj strani svetinje nad svetinjama, ali se napolje ne viðahu, i ostaše ondje do danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "U kovèegu ne bješe ništa osim dvije ploèe koje metnu Mojsije na Horivu kad Gospod uèini zavjet sa sinovima Izrailjevijem pošto izidoše iz Misira."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A kad sveštenici izidoše iz svetinje, jer sveštenici koji se naðoše osveštaše se ne pazeæi na red,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I Leviti pjevaèi svi, koji bijahu uz Asafa i Emana i Jedutuna, i sinovi njihovi i braæa njihova, obuèeni u tanko platno, stajahu s kimvalima i psaltirima i s guslama s istoène strane oltaru, i s njima sto i dvadeset sveštenika, koji trubljahu u trube,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I kad oni koji trubljahu u trube i koji pjevahu, složno jednijem glasom hvaljahu i slavljahu Gospoda, i kad podizahu glas uz trube i kimvale i gusle, hvaleæi Gospoda da je dobar, da je dovijeka milost njegova, tada se napuni oblaka dom Gospodnji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Te ne mogahu sveštenici stajati da služe od oblaka, jer se slave Gospodnje napuni dom Božji."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CH/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CH/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CH/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 14
+}

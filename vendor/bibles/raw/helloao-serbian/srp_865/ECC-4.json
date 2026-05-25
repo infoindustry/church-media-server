@@ -1,0 +1,188 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ECC",
+    "translationId": "srp_865",
+    "name": "Propovednik",
+    "commonName": "Propovednik",
+    "title": "Propovednik",
+    "order": 21,
+    "numberOfChapters": 12,
+    "sha256": "fe2dc33485c617d1c3f800f25752794cc56e27b2cfb10665b2db83a839e4fb36",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ECC/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ECC",
+      "chapter": 1
+    },
+    "lastChapterNumber": 12,
+    "lastChapterApiLink": "/api/srp_865/ECC/12.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ECC",
+      "chapter": 12
+    },
+    "totalNumberOfVerses": 222
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Opet vidjeh sve nepravde koje se èine pod suncem, i gle, suze onijeh kojima se èini nepravda, i nemaju ko bi ih potješio ni snage da se izbave iz ruku onijeh koji im èine nepravdu; nemaju nikoga da ih potješi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Zato hvalih mrtve koji veæ pomriješe više nego žive koji još žive."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ali je bolji i od jednijeh i od drugih onaj koji još nije postao, koji nije vidio zla što biva pod suncem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer vidjeh svaki trud i svako dobro djelo da od njega biva zavist èovjeku od bližnjega njegova. I to je taština i muka duhu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Bezumnik sklapa ruke svoje, i jede svoje tijelo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Bolja je jedna grst u miru nego obje grsti s trudom i mukom u duhu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Opet vidjeh taštinu pod suncem:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ima ko je sam, inokosan, nema ni sina ni brata, i opet nema kraja trudu njegovu, i oèi njegove ne mogu da se nasite bogatstva; a ne misli: za koga se muèim i oduzimam svojoj duši dobra? I to je taština i zao posao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Bolje je dvojici nego jednomu, jer imaju dobru dobit od svoga truda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer ako jedan padne, drugi æe podignuti druga svojega; a teško jednomu! ako padne, nema drugoga da ga podigne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jošte ako dvojica spavaju zajedno, grije jedan drugoga; a jedan kako æe se zgrijati?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I ako bi ko nadjaèao jednoga, dvojica æe mu odoljeti; i trostruka vrvca ne kida se lako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Bolje je dijete ubogo a mudro nego car star a bezuman, koji se veæ ne zna pouèiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer jedan izlazi iz tamnice da caruje, a drugi koji se rodi da caruje osiromaši."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Vidjeh sve žive koji hode pod suncem gdje pristaju za djetetom drugim, koje æe stupiti na njegovo mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Nema kraja narodu koji bijaše pred njim, a koji poslije nastanu neæe se radovati njemu. I to je taština i muka duhu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ECC/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ECC/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ECC/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

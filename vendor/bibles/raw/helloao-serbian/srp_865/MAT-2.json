@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "srp_865",
+    "name": "Mateju",
+    "commonName": "Mateju",
+    "title": "Jevanðelje po Mateju",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "2282cb47d4ecce5bfb50178a05f4b87b8f4e94d2e2954aa2bd38500539980051",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/MAT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad se rodi Isus u Vitlejemu Judejskome, za vremena cara Iroda, a to doðu mudarci od istoka u Jerusalim, i kažu:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Gdje je car Judejski što se rodio? Jer smo vidjeli njegovu zvijezdu na istoku i došli smo da mu se poklonimo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Kad to èuje car Irod, uplaši se, i sav Jerusalim s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I sabravši sve glavare sveštenièke i književnike narodne, pitaše ih: gdje æe se roditi Hristos?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A oni mu rekoše: u Vitlejemu Judejskome; jer je tako prorok napisao:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I ti Vitlejeme, zemljo Judina! ni po èem nisi najmanji u državi Judinoj; jer æe iz tebe iziæi èelovoða koji æe pasti narod moj Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Onda Irod tajno dozva mudarce, i ispitivaše ih kad se pojavila zvijezda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I poslavši ih u Vitlejem, reèe: idite i raspitajte dobro za dijete, pa kad ga naðete, javite mi, da i ja idem da mu se poklonim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I oni saslušavši cara, poðoše: a to i zvijezda koju su vidjeli na istoku, iðaše pred njima dok ne doðe i stade odozgo gdje bješe dijete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A kad vidješe zvijezdu gdje je stala, obradovaše se veoma velikom radosti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I ušavši u kuæu, vidješe dijete s Marijom materom njegovom, i padoše i pokloniše mu se; pa otvoriše dare svoje i darivaše ga: zlatom, i tamjanom, i smirnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I primivši u snu zapovijest da se ne vraæaju k Irodu, drugijem putem otidoše u svoju zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A pošto oni otidu, a to anðeo Gospodnji javi se Josifu u snu i kaza mu: ustani, uzmi dijete i mater njegovu pa bježi u Misir, i budi onamo dok ti ne kažem; jer æe Irod tražiti dijete da ga pogubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I on ustavši uze dijete i mater njegovu noæu i otide u Misir."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I bi tamo do smrti Irodove: da se izvrši što je Gospod rekao preko proroka koji govori: iz Misira dozvah sina svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tada Irod kad vidje da su ga mudarci prevarili, razgnjevi se vrlo i posla te pobiše svu djecu po Vitlejemu i po svoj okolini njegovoj od dvije godine i niže, po vremenu koje je dobro doznao od mudaraca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tada se zbi što je kazao prorok Jeremija govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Glas u Rami èu se, plaè, i ridanje, i jaukanje mnogo: Rahila plaèe za svojom djecom, i neæe da se utješi, jer ih nema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A po smrti Irodovoj, gle, anðeo Gospodnji u snu javi se Josifu u Misiru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I reèe: ustani, i uzmi dijete i mater njegovu i idi u zemlju Izrailjevu; jer su izumrli koji su tražili dušu djetinju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I on ustavši, uze dijete i mater njegovu, i doðe u zemlju Izrailjevu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ali èuvši da Arhelaj caruje u Judeji mjesto Iroda oca svojega, poboja se onamo iæi; nego primivši u snu zapovijest, otide u krajeve Galilejske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I došavši onamo, namjesti se u gradu koji se zove Nazaret, da se zbude kao što su kazali proroci da æe se Nazareæanin nazvati."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAT/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAT/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

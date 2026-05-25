@@ -1,0 +1,356 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 23,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Teško pastirima koji potiru i razmeæu stado paše moje! govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Zato ovako veli Gospod Bog Izrailjev za pastire koji pasu narod moj: vi razmetnuste ovce moje i razagnaste ih, i ne obilaziste ih; evo, ja æu vas obiæi za zloæu djela vaših, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I ostatak ovaca svojih ja æu skupiti iz svijeh zemalja, u koje ih razagnah, i vratiæu ih u torove njihove, gdje æe se naploditi i umnožiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I postaviæu im pastire, koji æe ih pasti, da se ne boje više i ne plaše i da ne pogine nijedna, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Gle, idu dani, govori Gospod, u koje æu podignuti Davidu klicu pravednu, koja æe carovati i biti sreæna i èiniti sud i pravdu na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "U njegove dane spašæe se Juda, i Izrailj æe stanovati u miru, i ovo mu je ime kojim æe se zvati: Gospod pravda naša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zato, evo, idu dani, govori Gospod, u koje se neæe više govoriti: tako da je živ Gospod, koji je izveo sinove Izrailjeve iz zemlje Misirske;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Nego: tako da je živ Gospod, koji je izveo i doveo sjeme doma Izrailjeva iz sjeverne zemlje i iz svijeh zemalja, u koje ih bijah razagnao. I oni æe sjedjeti u svojoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Radi proroka puca srce u meni, trepeæu sve kosti moje, kao pijan sam i kao èovjek kojega je osvojilo vino, Gospoda radi i njegovijeh radi svetijeh rijeèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer je zemlja puna preljuboèinaca, i s kletava tuži zemlja, posušiše se paše u pustinji; trk je njihov zao i moæ njihova neprava."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer i prorok i sveštenik skvrne je, nalazim i u domu svom zloæu njihovu, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zato æe put njihov biti kao klizavica po tami, gdje æe popuznuti i pasti; jer æu pustiti na njih zlo godine pohoðenja njihova, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "U proroka Samarijskih vidio sam bezumlje, prorokovahu Valom, prelašæivahu narod moj Izrailja;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ali u proroka Jerusalimskih vidim strahotu: èine preljubu i hode u laži, ukrjepljuju ruke zlikovcima da se niko ne vrati od svoje zloæe; svi su mi kao Sodom, i stanovnici njegovi kao Gomor."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zato ovako veli Gospod nad vojskama o tijem prorocima: evo, ja æu ih nahraniti pelenom i napojiæu ih žuèi; jer od proroka Jerusalimskih izide oskvrnjenje po svoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ovako veli Gospod nad vojskama: ne slušajte što govore proroci koji vam prorokuju; varaju vas, govore utvare svojega srca, ne iz usta Gospodnjih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jednako govore onima koji ne mare za me: Gospod je rekao: imaæete mir; i svakome koji ide po misli srca svojega govore: neæe doæi na vas zlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer ko je stajao u vijeæu Gospodnjem, i vidio ili èuo rijeè njegovu? ko je pazio na rijeè njegovu i èuo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Evo, vihor Gospodnji, gnjev, iziæi æe vihor, koji ne prestaje, pašæe na glavu bezbožnicima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Neæe se odvratiti gnjev Gospodnji dokle ne uèini i izvrši što je u srcu naumio; najposlije æete razumjeti to sasvijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ne slah tijeh proroka, a oni trèaše; ne govorih im, a oni prorokovaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Da su stajali u mom vijeæu, tada bi kazivali moje rijeèi narodu mojemu, i odvraæali bi ih s puta njihova zloga i od zloæe djela njihovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jesam li ja Bog izbliza, govori Gospod, a nijesam Bog i izdaleka?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Može li se ko sakriti na tajno mjesto da ga ja ne vidim? govori Gospod; ne ispunjam li ja nebo i zemlju? govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Èujem što govore ti proroci koji u ime moje prorokuju laž govoreæi: snio sam, snio sam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Dokle æe to biti u srcu prorocima koji prorokuju laž, i prijevaru srca svojega prorokuju?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Koji misle da æe uèiniti da narod moj zaboravi ime moje uza sne njihove, koje pripovijedaju jedan drugomu, kao što zaboraviše oci njihovi ime moje uz Vala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Prorok koji sni, neka pripovijeda san; a u koga je rijeè moja, neka govori rijeè moju istinito; šta æe pljeva sa pšenicom? govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Nije li rijeè moja kao oganj, govori Gospod, i kao malj koji razbija kamen?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Zato, evo me na te proroke, govori Gospod, koji kradu moje rijeèi jedan od drugoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Evo me na te proroke, veli Gospod, koji dižu jezik svoj i govore: on veli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Evo me na one koji prorokuju lažne sne, veli Gospod, i pripovijedajuæi ih zavode narod moj lažima svojim i hitrinom svojom; a ja ih nijesam poslao niti sam im zapovjedio; i neæe ništa pomoæi tome narodu, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ako te zapita ovaj narod ili koji prorok ili sveštenik govoreæi: kako je breme Gospodnje? tada im reci: kako breme? ostaviæu vas, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A proroka i sveštenika i narod koji reèe: breme Gospodnje, ja æu pokarati toga èovjeka i dom njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Nego ovako govorite svaki bližnjemu svojemu i svaki bratu svojemu: šta odgovori Gospod? i: šta reèe Gospod?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A bremena Gospodnjega ne pominjite više, jer æe svakome biti breme rijeè njegova, jer izvræete rijeèi Boga živoga, Gospoda nad vojskama, Boga našega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Ovako reci proroku: šta ti odgovori Gospod? i: šta ti reèe Gospod?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Ali kad kažete: breme Gospodnje, zato ovako veli Gospod: šta govorite tu rijeè: breme Gospodnje, a ja slah k vama da vam kažu: ne govorite: breme Gospodnje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Zato evo me, ja æu vas zaboraviti sasvijem i odbaciæu od sebe vas i grad koji sam dao vama i ocima vašim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I navaliæu na vas porugu vjeènu i sramotu vjeènu koja se neæe zaboraviti."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/23.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 23
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/24.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 24
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/22.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 22
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 40
+}

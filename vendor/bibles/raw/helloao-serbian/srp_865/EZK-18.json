@@ -1,0 +1,300 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Opet mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Šta hoæete vi koji govorite prièu o zemlji Izrailjevoj govoreæi: oci jedoše kiselo grožðe, a sinovima trnu zubi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Tako ja bio živ, govori Gospod Gospod, neæete više govoriti te prièe u Izrailju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Gle, sve su duše moje, kako duša oèina tako i duša sinovlja moja je, koja duša zgriješi ona æe poginuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer ako je ko pravedan i èini sud i pravdu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Na gorama ne jede i oèiju svojih ne podiže ka gadnijem bogovima doma Izrailjeva, i ne skvrni žene bližnjega svojega i ne ide k ženi odvojenoj radi neèistote,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I nikome ne èini nasilja, zalog dužniku svojemu vraæa, ništa ne otima, hljeb svoj daje gladnome i gologa odijeva,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ne daje na dobit i ne uzima pridavka, od nepravde usteže ruku svoju, i pravo sudi izmeðu jednoga èovjeka i drugoga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Po uredbama mojim hodi, i drži zakone moje tvoreæi istinu; taj je pravedan, doista æe živjeti, govori Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ako rodi sina lupeža, koji bi krv proljevao ili bi èinio tako što,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A ne bi èinio svega onoga, nego bi jeo na gorama, i ženu bližnjega svojega skvrnio,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Siromahu i ubogome nasilje èinio, otimao što, zaloga ne bi vraæao, i ka gadnijem bogovima podizao bi oèi svoje èineæi gad,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Davao bi na dobit, i uzimao pridavak; hoæe li taj živjeti? Neæe živjeti; uèinio je sve te gadove, doista æe poginuti, krv æe njegova na njemu biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ali gle, ako rodi sina koji bi vidio sve grijehe oca svojega što èini, i uzeo bi na um, te ne bi èinio onako,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ne bi jeo na gorama, niti bi oèiju svojih podizao ka gadnijem bogovima doma Izrailjeva, žene bližnjega svojega ne bi skvrnio,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I nikome ne bi èinio nasilja, zaloga ne bi uzimao i ne bi ništa otimao, davao bi hljeb svoj gladnome i gologa bi odijevao,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Od siromaha bi ustezao ruku svoju, ne bi uzimao dobiti ni pridavka, zakone bi moje izvršivao i po uredbama mojim hodio; taj neæe poginuti za bezakonje oca svojega, doista æe živjeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A otac njegov, što je èinio nasilje, otimao od brata svojega i èinio što nije dobro u narodu svom, gle, on æe poginuti za svoje bezakonje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ali govorite: zašto da ne nosi sin bezakonja oèina? Jer sin èini sud i pravdu, sve uredbe moje drži i izvršuje; doista æe živjeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Koja duša zgriješi ona æe umrijeti, sin neæe nositi bezakonja oèina niti æe otac nositi bezakonja sinovljega; na pravedniku æe biti pravda njegova, a na bezbožniku æe biti bezbožnost njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ako li bi se bezbožnik obratio od svijeh grijeha svojih koje uèini, i držao bi sve uredbe moje i tvorio sud i pravdu, doista æe živjeti, neæe poginuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Bezakonja njegova što ih je god uèinio neæe mu se više spominjati, u pravdi svojoj koju èini živjeæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Eda li je meni milo da pogine bezbožnik? govori Gospod, a ne da se odvrati od putova svojih i bude živ?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ali kad bi se pravednik odvratio od pravde svoje i èinio nepravdu, i radio po svijem gadovima koje èini bezbožnik, hoæe li on živjeti? pravedna djela njegova, što je god èinio, neæe se spomenuti; za bezakonje svoje koje uèini i za grijeh svoj kojim zgriješi poginuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Još govorite: nije prav put Gospodnji. Èujte, dome Izrailjev, moj li put nije prav? nijesu li vaši putovi nepravi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Kad se pravednik odvrati od pravde svoje i èini zlo i umre zato, umrijeæe za zlo svoje koje uèini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A kad se bezbožnik odvrati od bezbožnosti svoje koju je èinio, i èini sud i pravdu, on æe saèuvati u životu dušu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Jer uzevši na um vrati se od svijeh bezakonja svojih koja uèini; doista æe živjeti, i neæe poginuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ali dom Izrailjev veli: put Gospodnji nije prav. Moji li putovi nijesu pravi? dome Izrailjev, nijesu li vaši putovi nepravi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Zato, dome Izrailjev, sudiæu vam svakome po putovima njegovijem, govori Gospod; obratite se i proðite se svijeh grijeha svojih, i neæe vam bezakonje biti na spoticanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Odbacite od sebe sva bezakonja koja èiniste, i naèinite sebi novo srce i nov duh; i zašto da mrete? dome Izrailjev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Jer mi nije mila smrt onoga koji mre, govori Gospod Gospod; obratite se dakle i budite živi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/18.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 18
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/19.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 19
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/17.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 17
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 32
+}

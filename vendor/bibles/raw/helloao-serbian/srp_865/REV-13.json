@@ -1,0 +1,202 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "REV",
+    "translationId": "srp_865",
+    "name": "Apokalipsa",
+    "commonName": "Apokalipsa",
+    "title": "Otkrivenje Jovanovo — Apokalipsa",
+    "order": 66,
+    "numberOfChapters": 22,
+    "sha256": "03ca27b48572b751a11a8d2525edcfa3d35a43f752bf5506e16685bb264b5230",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/REV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 22,
+    "lastChapterApiLink": "/api/srp_865/REV/22.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 22
+    },
+    "totalNumberOfVerses": 404
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I stadoh na pijesku morskome; i vidjeh zvijer gdje izlazi iz mora, koja imaše sedam glava, i rogova deset, i na rogovima njezinijem deset kruna, a na glavama njezinijem imena hulna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I zvijer koju vidjeh bijaše kao ris, i noge joj kao u medvjeda, i usta njezina kao usta lavova, i dade joj zmija silu svoju, i prijestol svoj, i oblast veliku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I vidjeh jednu od glava njezinijeh kao ranjenu na smrt, i rana smrti njezine izlijeèi se. I èudi se sva zemlja iza zvijeri, i pokloniše se zmiji, koja dade oblast zvijeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I pokloniše se zvijeri govoreæi: ko je kao zvijer? i ko može ratovati s njom?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I dana joj biše usta koja govore velike stvari i huljenja, i dana joj bi oblast da èini èetrdeset i dva mjeseca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I otvori usta svoja za huljenje na Boga, da huli na ime njegovo, i na kuæu njegovu, i na one koji žive na nebu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I dano joj bi da se bije sa svetima, i da ih pobijedi; i dana joj bi oblast nad svakijem koljenom i narodom i jezikom i plemenom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I pokloniše joj se svi koji žive na zemlji kojima imena nijesu zapisana u životnoj knjizi jagnjeta, koje je zaklano od postanja svijeta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ako ko ima uho neka èuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ko u ropstvo vodi, biæe u ropstvo odveden; ko nožem ubije valja da on nožem bude ubijen. Ovdje je trpljenje i vjera svetijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I vidjeh drugu zvijer gdje izlazi iz zemlje, i imaše dva roga kao u jagnjeta; i govoraše kao aždaha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I svu vlast prve zvijeri èinjaše pred njom; i uèini da zemlja i koji žive na njoj pokloni se prvoj zvijeri kojoj se iscijeli rana smrtna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I uèini èudesa velika, i uèini da i oganj silazi s neba na zemlju pred ljudima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I vara one koji žive na zemlji znacima, koji joj biše dani da èini pred zvijeri, govoreæi onima što žive na zemlji da naèine ikonu zvijeri koja imade ranu smrtnu i osta živa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I bi joj dano da dade duh ikoni zvijerinoj, da progovori ikona zvijerina, i da uèini da se pobiju koji se god ne poklone ikoni zvijerinoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I uèini sve, male i velike, bogate i siromašne, slobodnjake i robove, te im dade žig na desnoj ruci njihovoj ili na èelima njihovima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Da niko ne može ni kupiti ni prodati, osim ko ima žig, ili ime zvijeri, ili broj imena njezina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ovdje je mudrost. Ko ima um neka izraèuni broj zvijeri: jer je broj èovjekov i broj njezin šest stotina i šezdeset i šest."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/REV/13.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 13
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/REV/14.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 14
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/REV/12.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 12
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

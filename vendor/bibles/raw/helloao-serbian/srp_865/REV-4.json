@@ -1,0 +1,153 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "REV",
+    "translationId": "srp_865",
+    "name": "Apokalipsa",
+    "commonName": "Apokalipsa",
+    "title": "Otkrivenje Jovanovo — Apokalipsa",
+    "order": 66,
+    "numberOfChapters": 22,
+    "sha256": "03ca27b48572b751a11a8d2525edcfa3d35a43f752bf5506e16685bb264b5230",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/REV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 22,
+    "lastChapterApiLink": "/api/srp_865/REV/22.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 22
+    },
+    "totalNumberOfVerses": 404
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Potom vidjeh: i gle, vrata otvorena na nebu, i glas prvi koji èuh kao trubu gdje govori sa mnom, reèe: popni se amo, i pokazaæu ti šta æe biti za ovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I odmah bih u duhu; i gle, prijesto stajaše na nebu, i na prijestolu sjeðaše neko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I onaj što sjeðaše bijaše po viðenju kao kamen jaspis i sard; i oko prijestola bješe duga po viðenju kao smaragd."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I oko prijestola bijahu dvadeset i èetiri prijestola; i na prijestolima vidjeh dvadeset i èetiri starješine gdje sjede, obuèene u bijele haljine, i imahu krune zlatne na glavama svojima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I od prijestola izlažahu munje i gromovi i glasovi; i sedam žižaka ognjenijeh gorahu pred prijestolom, koje su sedam duhova Božijih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I pred prijestolom bijaše stakleno more, kao kristal; i nasred prijestola i oko prijestola èetiri životinje, pune oèiju sprijed i sastrag."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I prva životinja bješe kao lav, i druga životinja kao tele, i treæa životinja imaše lice kao èovjek, i èetvrta životinja bješe kao orao kad leti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I svaka od èetiri životinje imaše po šest krila naokolo, i unutra puna oèiju, i mira ne imaju dan i noæ govoreæi: svet, svet, svet Gospod Bog svedržitelj, koji bješe, i koji jest, i koji æe doæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I kad daše životinje slavu i èast i hvalu onome što sjeðaše na prijestolu, što živi va vijek vijeka,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Padoše dvadeset i èetiri starješine pred onijem što sjeðaše na prijestolu, i pokloniše se onome što živi va vijek vijeka, i metnuše krune svoje pred prijestolom govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Dostojan si, Gospode, da primiš slavu i èast i silu; jer si ti sazdao sve, i po volji tvojoj jest i stvoreno je."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/REV/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/REV/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/REV/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 11
+}

@@ -1,0 +1,160 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Filisteji uzeše kovèeg Božji, i odnesoše iz Even-Ezera u Azot."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I uzevši Filisteji kovèeg Božji unesoše ga u dom Dagonov, i namjestiše ga do Dagona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A sjutradan kad ustaše Azoæani rano, a to Dagon ležaše nièice na zemlji pred kovèegom Gospodnjim; i oni uzeše Dagona i metnuše ga opet na njegovo mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A kad sjutradan rano ustaše, gle, opet Dagon ležaše nièice na zemlji pred kovèegom Gospodnjim, a glava Dagonu i obje ruke otsjeèene bijahu na pragu; samo trup od Dagona bješe ostao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Zato sveštenici Dagonovi i koji god ulaze u dom Dagonov ne staju na prag Dagonov u Azotu do danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tada oteža ruka Gospodnja Azoæanima, i moraše ih i udaraše ih šuljevima u Azotu i meðama njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kad Azoæani vidješe šta je, rekoše: da ne stoji kod nas kovèeg Boga Izrailjeva; jer je ruka njegova teška nad nama i nad Dagonom bogom našim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I poslaše, te sabraše k sebi sve knezove Filistejske, i rekoše im: što æemo èiniti s kovèegom Boga Izrailjeva? A oni rekoše: da se prenese u Gat kovèeg Boga Izrailjeva. I prenesoše kovèeg Boga Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A kad ga prenesoše, bi ruka Gospodnja na gradu s mukom vrlo velikom, i stade biti graðane od maloga do velikoga, i doðoše na njih tajni šuljevi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zato poslaše kovèeg Božji u Akaron; a kad doðe kovèeg Božji u Akaron, povikaše Akaronjani govoreæi: donesoše k nama kovèeg Boga Izrailjeva da pomori nas i naš narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zato poslaše, te sabraše sve knezove Filistejske, i rekoše: pošljite kovèeg Boga Izrailjeva neka se vrati na svoje mjesto, da ne pomori nas i naroda našega. Jer bijaše smrtan strah po cijelom gradu, i vrlo teška bijaše ruka Gospodnja ondje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer ljudi koji ostajahu živi bolovahu od šuljeva tako da se vika u gradu podizaše do neba."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 12
+}

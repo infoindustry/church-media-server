@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EPH",
+    "translationId": "srp_865",
+    "name": "Efežanima",
+    "commonName": "Efežanima",
+    "title": "Poslanica Efežanima",
+    "order": 49,
+    "numberOfChapters": 6,
+    "sha256": "7712b8f570a25c75c412d98fb0075a57221e64ee4d6feeff31d8738503a35eaf",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EPH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EPH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 6,
+    "lastChapterApiLink": "/api/srp_865/EPH/6.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EPH",
+      "chapter": 6
+    },
+    "totalNumberOfVerses": 155
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Toga sam radi ja Pavle sužanj Isusa Hrista za vas neznabošce,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Buduæi da èuste službu blagodati Božije koja je meni dana meðu vama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Da se meni po otkrivenju kaza tajna; kao što gore napisah ukratko,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Odakle možete èitajuæi poznati moj razum u tajni Hristovoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Koja se u drugijem naraštajima ne kaza sinovima èovjeèijim, kako se sad otkri svetijem njegovijem apostolima i prorocima Duhom svetijem;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Da neznabošci kroz jevanðelje postanu sunašljednici i sutjelesnici i zajednièari u obeæanju njegovom u Hristu Isusu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Kojemu postadoh sluga po daru blagodati Božije, koja mi je dana po èinjenju sile njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Meni najmanjemu od sviju svetijeh dade se ova blagodat da objavim meðu neznabošcima neiskazano bogatstvo Hristovo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I da otkrijem svima što je služba tajne od postanja svijeta sakrivene u Bogu, koji je sazdao sve kroz Isusa Hrista;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Da se kroz crkvu sad obznani poglavarstvima i vlastima na nebu mnogorazlièna premudrost Božija,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Po naredbi vijekova, koju uèini u Hristu Isusu Gospodu našemu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "U kome imamo slobodu i pristup u nadu vjerom njegovom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zato vas molim da se ne oslabite zbog nevolja mojijeh za vas, koje su slava vaša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Toga radi preklanjam koljena svoja pred ocem Gospoda našega Isusa Hrista,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Po kome se sva èeljad i na nebesima i na zemlji zovu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Da vam da silu po bogatstvu slave svoje, da se utvrdite Duhom njegovijem za unutrašnjeg èovjeka,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Da se Hristos useli vjerom u srca vaša, da budete u ljubavi ukorijenjeni i utemeljeni;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Da biste mogli razumjeti sa svima svetima što je širina i dužina i dubina i visina,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I poznati pretežniju od razuma ljubav Hristovu, da se ispunite svakom puninom Božijom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A onome koji može još izobilnije sve èiniti što ištemo ili mislimo, po sili koja èini u nama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Onome slava u crkvi po Hristu Isusu u sve naraštaje va vijek vijeka. Amin."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EPH/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EPH",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EPH/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EPH",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EPH/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EPH",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

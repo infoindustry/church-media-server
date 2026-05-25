@@ -1,0 +1,370 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "srp_865",
+    "name": "2. Dnevnika",
+    "commonName": "2. Dnevnika",
+    "title": "2. Dnevnika",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "712160a45a7d7fb40ad6e8f55f27c6bc71cf3a3fca70d89afd22674733ec70a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/2CH/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada reèe Solomun: Gospod je rekao da æe nastavati u mraku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A ja sazidah dom tebi za stan i mjesto da u njemu nastavaš dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I okrenuvši se licem svojim car blagoslovi sav zbor Izrailjev, a sav zbor Izrailjev stajaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I reèe: blagosloven da je Gospod Bog Izrailjev, koji je govorio svojim ustima Davidu ocu mojemu i ispunio rukom svojom, govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Od onoga dana kad izvedoh narod svoj iz zemlje Misirske, ne izabrah grada meðu svijem plemenima Izrailjevijem da se sazida dom gdje bi bilo ime moje, niti izabrah èovjeka koji bi bio voð narodu mojemu Izrailju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nego izabrah Jerusalim da u njemu bude ime moje, i izabrah Davida da bude nad narodom mojim Izrailjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I naumi David otac moj da sazida dom imenu Gospoda Boga Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ali Gospod reèe Davidu ocu mojemu: što si naumio sazidati dom imenu mojemu, dobro si uèinio što si to naumio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ali neæeš ti sazidati toga doma, nego sin tvoj koji æe izaæi iz bedara tvojih, on æe sazidati dom imenu mojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I tako ispuni Gospod rijeè svoju koju je rekao, jer ustah na mjesto oca svojega Davida i sjedoh na prijesto Izrailjev, kao što je rekao Gospod, i sazidah ovaj dom imenu Gospoda Boga Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I namjestih ovdje kovèeg, u kom je zavjet Gospodnji što je uèinio sa sinovima Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Potom stade Solomun pred oltar Gospodnji pred svijem zborom Izrailjevijem, i podiže ruke svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A bješe naèinio Solomun podnožje od mjedi i metnuo ga nasred trijema, pet lakata dugo i pet lakata široko, a tri lakta visoko; pa stade na nj, i kleèe na koljena pred svijem zborom Izrailjevijem, i podiže ruke svoje k nebu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I reèe: Gospode Bože Izrailjev! nema Boga takoga kakav si ti ni na nebu ni na zemlji, koji èuvaš zavjet i milost slugama svojim, koje hode pred tobom svijem srcem svojim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Koji si ispunio sluzi svojemu Davidu ocu mojemu što si mu rekao; što si ustima svojim rekao to si rukom svojom ispunio, kao što se vidi danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Sada dakle, Gospode Bože Izrailjev, drži Davidu ocu mojemu što si mu rekao govoreæi: neæe ti nestati èovjeka ispred mene koji bi sjedio na prijestolu Izrailjevu, samo ako ušèuvaju sinovi tvoji put svoj hodeæi po zakonu mojemu, kao što si ti hodio preda mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Sada dakle, Gospode Bože Izrailjev, neka se potvrdi rijeè tvoja koju si rekao sluzi svojemu Davidu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ali hoæe li doista Bog stanovati s èovjekom na zemlji? Eto, nebo, i nebesa nad nebesima ne mogu te obuhvatiti, akamoli ovaj dom što ga sazidah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ali pogledaj na molitvu sluge svojega i na molbu njegovu, Gospode Bože moj, èuj viku i molitvu kojom ti se danas moli sluga tvoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Da budu oèi tvoje otvorene nad domom ovijem danju i noæu, nad ovijem mjestom, gdje si rekao da æeš namjestiti ime svoje, da èuješ molitvu kojom æe se moliti sluga tvoj na ovom mjestu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Èuj molbe sluge svojega i naroda svojega Izrailja, kojima æe se moliti na ovom mjestu, èuj s mjesta gdje stanuješ, s neba, èuj i smiluj se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Kad ko zgriješi bližnjemu svojemu, te mu se da zakletva, da se zakune, i zakletva doðe pred tvoj oltar u ovom domu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ti èuj s neba, i uèini, i sudi slugama svojim plaæajuæi krivcu i djela njegova obraæajuæi na njegovu glavu, a pravoga pravdajuæi i plaæajuæi mu po pravdi njegovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I kad se razbije pred neprijateljem narod tvoj Izrailj zato što ti zgriješe, pa se obrate i dadu slavu imenu tvojemu i pomole ti se i zamole te u ovom domu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ti èuj s neba, i oprosti grijeh narodu svojemu Izrailju, i dovedi ih opet u zemlju, koju si dao njima i ocima njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Kad se zatvori nebo, te ne bude dažda zato što zgriješe tebi, pa ti se zamole na ovom mjestu i dadu slavu imenu tvojemu i od grijeha se svojega obrate, kad ih namuèiš,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ti èuj s neba, i oprosti grijeh slugama svojim i narodu svojemu Izrailju pokazav im put dobri kojim æe hoditi, i pusti dažd na zemlju svoju koju si dao narodu svojemu u našljedstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Kad bude glad u zemlji, kad bude pomor, suša ili medljika, skakavci ili gusjenice kad budu, ili ga stegne neprijatelj njegov u zemlji njegovoj vlastitoj, ili kako god zlo i kaka god bolest,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Svaku molbu i svaku molitvu, koja bude od koga god èovjeka ili od svega naroda tvojega Izrailja, ko pozna muku svoju i bol svoj i podigne ruke svoje u ovom domu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ti èuj s neba, iz stana svojega, i oprosti i podaj svakome po putovima njegovijem, što znaš u srcu njegovu, jer ti sam znaš srca sinova èovjeèijih;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Da te se boje hodeæi putovima tvojim dokle su god živi na zemlji, koju si dao ocima našim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I inostranac koji nije od naroda tvojega Izrailja, nego doðe iz daleke zemlje imena radi tvojega velikoga i ruke tvoje krjepke i mišice tvoje podignute, kad doðe i pomoli se u ovom domu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ti èuj s neba, iz stana svojega, i uèini sve za što povièe k tebi onaj stranac, da bi poznali svi narodi na zemlji ime tvoje i bojali se tebe kao narod tvoj Izrailj, i da bi znali da je ime tvoje prizvano nad ovaj dom, koji sazidah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Kad narod tvoj izide na vojsku na neprijatelje svoje putem kojim ga pošlješ, i pomole ti se okrenuvši se ka gradu ovomu, koji si izabrao, i k ovomu domu, koji sam sazidao imenu tvojemu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Èuj s neba molbu njihovu i molitvu njihovu, i dobavi im pravicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Kad ti zgriješe, jer nema èovjeka koji ne griješi, i razgnjevivši se na njih daš ih neprijateljima, te ih zarobe i odvedu u zemlju daljnu ili koja je blizu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Ako se dozovu u zemlji u koju budu odvedeni u ropstvo, i obrate se i stanu ti se moliti u zemlji ropstva svojega, i reku: sagriješismo i zlo uèinismo i skrivismo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I tako se obrate k tebi svijem srcem svojim i svom dušom svojom u zemlji ropstva svojega, u koju budu odvedeni u ropstvo, i pomole ti se okrenuvši se k zemlji svojoj, koju si dao ocima njihovijem, i ka gradu, koji si izabrao, i k domu, koji sam sazidao imenu tvojemu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Tada èuj s neba, iz stana svojega, molbu njihovu i molitvu njihovu, i dobavi im pravicu, i oprosti narodu svojemu što ti budu zgriješili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Tako, Bože moj, neka budu oèi tvoje otvorene i uši tvoje prignute na molbu u ovom mjestu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I tako, stani, Gospode Bože, na poèivalištu svojem, ti i kovèeg sile tvoje; sveštenici tvoji, Gospode Bože, neka se obuku u spasenje, i sveci tvoji neka se raduju dobru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Gospode Bože, nemoj odvratiti lica svojega od pomazanika svojega; opominji se milosti obeæane Davidu sluzi tvojemu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CH/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CH/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CH/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 42
+}

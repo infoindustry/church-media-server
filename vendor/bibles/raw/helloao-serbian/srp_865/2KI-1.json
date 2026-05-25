@@ -1,0 +1,202 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2KI",
+    "translationId": "srp_865",
+    "name": "2. Kraljevima",
+    "commonName": "2. Kraljevima",
+    "title": "2. Kraljevima",
+    "order": 12,
+    "numberOfChapters": 25,
+    "sha256": "14b91a44508aa4c11af5ab27266f4e76ec99d09dd2f0f675edf6866e97186808",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2KI/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2KI",
+      "chapter": 1
+    },
+    "lastChapterNumber": 25,
+    "lastChapterApiLink": "/api/srp_865/2KI/25.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2KI",
+      "chapter": 25
+    },
+    "totalNumberOfVerses": 719
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A po smrti Ahavovoj odmetnuše se Moavci od Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A Ohozija pade kroz rešetku iz gornje sobe svoje u Samariji, i razbolje se; pa posla poslanike i reèe im: idite, pitajte Velzevula boga Akaronskoga hoæu li ozdraviti od ove bolesti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ali anðeo Gospodnji reèe Iliji Tesviæaninu: ustani, izidi na susret poslanicima cara Samarijskoga i reci im: eda li nema Boga u Izrailju, te idete da pitate Velzevula boga u Akaronu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A zato ovako veli Gospod: neæeš se dignuti sa postelje na koju si legao, nego æeš umrijeti. Potom otide Ilija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A sluge se vratiše k Ohoziji, i on im reèe: što ste se vratili?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A oni mu rekoše: srete nas jedan èovjek, i reèe nam: idite, vratite se k caru koji vas je poslao, i recite mu: ovako veli Gospod: eda li nema Boga u Izrailju, te šalješ da pitaš Velzevula boga u Akaronu? Zato neæeš se dignuti s postelje na koju si legao, nego æeš umrijeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A on im reèe: kakav bješe na oèi taj èovjek koji vas srete i to vam reèe?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A oni mu odgovoriše: bješe sav kosmat i opasan kožnijem pojasom. A on reèe: to je Ilija Tesviæanin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tada posla k njemu pedesetnika s njegovom pedesetoricom; i on otide k njemu; i gle, on sjeðaše navrh gore; i pedesetnik mu reèe: èovjeèe Božji, car je zapovjedio, siði."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Ilija odgovarajuæi reèe pedesetniku: ako sam èovjek Božji, neka siðe oganj s neba i proždre tebe i tvoju pedesetoricu. I siðe oganj s neba i proždrije njega i njegovu pedesetoricu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Opet posla k njemu drugog pedesetnika s njegovom pedesetoricom, koji progovori i reèe mu: èovjeèe Božji, car je tako zapovjedio, siði brže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A Ilija odgovori i reèe im: ako sam èovjek Božji, neka siðe oganj s neba i proždre tebe i tvoju pedesetoricu. I siðe oganj Božji s neba i proždrije njega i njegovu pedesetoricu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada opet posla treæega pedesetnika s njegovom pedesetoricom. A ovaj treæi pedesetnik kad doðe, kleèe na koljena svoja pred Ilijom, i moleæi ga reèe mu: èovjeèe Božji, da ti je draga duša moja i duša ove pedesetorice, sluga tvojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Eto, sišao je oganj s neba i proždro prva dva pedesetnika s njihovom pedesetoricom; ali sada da ti je draga duša moja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A anðeo Gospodnji reèe Iliji: idi s njim, i ne boj ga se. I usta Ilija i otide s njim k caru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I reèe mu: ovako veli Gospod: zato što si slao poslanike da pitaju Velzevula boga u Akaronu kao da nema Boga u Izrailju da bi ga pitao, neæeš se dignuti s postelje na koju si legao, nego æeš umrijeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I umrije po rijeèi Gospodnjoj, koju reèe Ilija, a na njegovo se mjesto zacari Joram druge godine carovanja Jorama sina Josafatova nad Judom, jer on nema sina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A ostala djela Ohozijina što je èinio, nijesu li zapisana u dnevniku careva Izrailjevih?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2KI/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2KI/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1KI/22.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1KI",
+    "chapter": 22
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

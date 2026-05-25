@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LAM",
+    "translationId": "srp_865",
+    "name": "Jeremijine tužbalice",
+    "commonName": "Jeremijine tužbalice",
+    "title": "Jeremijine tužbalice",
+    "order": 25,
+    "numberOfChapters": 5,
+    "sha256": "f93abc5333c96bf1fa5a0fb1987be79caa7833bf1fc807f6928ecd471c901ab2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LAM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LAM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 5,
+    "lastChapterApiLink": "/api/srp_865/LAM/5.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LAM",
+      "chapter": 5
+    },
+    "totalNumberOfVerses": 154
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Opomeni se, Gospode, što nas zadesi; pogledaj i vidi sramotu našu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Našljedstvo naše privali se tuðincima, domovi naši inostrancima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Postasmo sirote, bez oca, matere naše kao udovice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Svoju vodu pijemo za novce, svoja drva kupujemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Na vratu nam je jaram, i gone nas; umoreni nemamo odmora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Pružamo ruku k Misircima i Asircima, da se nasitimo hljeba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Oci naši zgriješiše, i nema ih, a mi nosimo bezakonja njihova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Robovi nam gospodare, nema nikoga da izbavi iz ruku njihovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Sa strahom za život svoj od maèa u pustinji donosimo sebi hljeb."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Koža nam pocrnje kao peæ od ljute gladi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Sramote žene na Sionu i djevojke po gradovima Judinijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Knezove vješaju svojim rukama, ne poštuju lica staraèkoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mladiæe uzimaju pod žrvnje, i djeca padaju pod drvima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Staraca nema više na vratima, ni mladiæa na pjevanju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Nesta radosti srcu našemu, igra naša pretvori se u žalost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Pade vijenac s glave naše; teško nama, što zgriješismo!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Stoga je srce naše žalosno, stoga oèi naše potamnješe,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Sa gore Siona, što opustje, i lisice idu po njoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ti, Gospode, ostaješ dovijeka, prijesto tvoj od koljena do koljena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Zašto hoæeš da nas zaboraviš dovijeka, da nas ostaviš zadugo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Obrati nas, Gospode, k sebi, i obratiæemo se; ponovi dane naše kako bijahu prije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer eda li æeš nas sasvijem odbaciti i gnjeviti se na nas veoma?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LAM/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LAM",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LAM/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LAM",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

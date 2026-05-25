@@ -1,0 +1,181 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MIC",
+    "translationId": "srp_865",
+    "name": "Mihej",
+    "commonName": "Mihej",
+    "title": "Mihej",
+    "order": 33,
+    "numberOfChapters": 7,
+    "sha256": "1dfa85f7e9da3eddf6409061eb84b76e832c4df0a95545ecbfebbcb0fafba227",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MIC/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MIC",
+      "chapter": 1
+    },
+    "lastChapterNumber": 7,
+    "lastChapterApiLink": "/api/srp_865/MIC/7.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MIC",
+      "chapter": 7
+    },
+    "totalNumberOfVerses": 105
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Saberi se sada u èete, èetnice, opsjedi nas, neka biju prutom po obrazu sudiju Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A ti, Vitlejeme Efrato, ako i jesi najmanji meðu tisuæama Judinijem, iz tebe æe mi izaæi koji æe biti gospodar u Izrailju, kojemu su izlasci od poèetka, od vjeènijeh vremena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Zato æe ih ostaviti dokle ne rodi ona koja æe roditi; tada æe se ostatak braæe njegove vratiti sa sinovima Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I stajaæe i pašæe ih silom Gospodnjom, velièanstvom imena Gospoda Boga svojega; i oni æe nastavati, jer æe on tada biti velik do krajeva zemaljskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I on æe biti mir; kad doðe Asirac u našu zemlju, i kad stupi u dvore naše, tada æemo podignuti na nj sedam pastira i osam knezova iz naroda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I oni æe opasti zemlju Asirsku maèem i zemlju Nevrodovu na vratima njegovijem; i on æe nas izbaviti od Asirca kad doðe u našu zemlju i kad stupi na meðu našu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I ostatak æe Jakovljev biti usred mnogih naroda kao rosa od Gospoda i kao sitan dažd po travi, koja ne èeka èovjeka niti se uzda u sinove èovjeèije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I ostatak æe Jakovljev biti meðu narodima, usred mnogih naroda, kao lav meðu zvijerima šumskim, kao laviæ meðu stadima ovaca, koji kad ide tlaèi i rastrže i nema nikoga da izbavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ruka æe ti se uzvisiti nad protivnicima tvojim, i svi æe se neprijatelji tvoji istrijebiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I u ono æu vrijeme, govori Gospod, istrijebiti konje isred tebe i potræu kola tvoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I zatræu gradove u tvojoj zemlji, i razvaliæu sva tvrda mjesta tvoja;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I istrijebiæu vraèanje iz ruku tvojih, i neæeš imati gatara;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I istrijebiæu likove tvoje rezane i stupove tvoje isred tebe, i neæeš se više klanjati djelu ruku svojih;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I iskorijeniæu gajeve tvoje isred tebe, i raskopaæu gradove tvoje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I izvršiæu osvetu s gnjevom i ljutinom na narodima koji ne slušaše."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MIC/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MIC",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MIC/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MIC",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MIC/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MIC",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 15
+}

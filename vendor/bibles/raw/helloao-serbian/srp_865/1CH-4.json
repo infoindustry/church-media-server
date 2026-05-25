@@ -1,0 +1,377 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "srp_865",
+    "name": "1. Dnevnika",
+    "commonName": "1. Dnevnika",
+    "title": "1. Dnevnika",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "8ea0acc08b93472f39af29d769974347b255ab628ab40782b4687010563cbf90",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 29,
+    "lastChapterApiLink": "/api/srp_865/1CH/29.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 29
+    },
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Sinovi Judini bjehu: Fares, Esron i Harmija i Or i Soval."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A Reaja sin Sovalov rodi Jata, a Jat rodi Ahumaja i Lada. To su porodice Saratske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A ovo su od oca Itama: Jezrael i Jesma i Jedvas, a sestri njihovoj bješe ime Aselelfonija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I Fanuilo bješe otac Gedoru, i Eser otac Husin. To bijahu sinovi Ora prvenca Efrate oca Vitlejemcima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A Ashor otac Tekujanima imaše dvije žene, Elu i Naru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I Nara mu rodi Ahuzama i Efera i Temana i Ahastara. To su sinovi Narini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A sinovi Elini: Sered, Jesoar i Etnan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A Kos rodi Anuva i Sovivu i porodice Aharila sina Arumova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Javis bješe slavniji od svoje braæe, i mati mu nadje ime Javis govoreæi: rodih ga s bolom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I Javis prizva Boga Izrailjeva govoreæi: o da bi me blagoslovio i raširio meðe moje, i ruka tvoja da bi bila sa mnom, i da bi me saèuvao oda zla da me ne ucvijeli! I uèini Bog za što ga moli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Heluv brat Sujin rodi Mehira. On bi otac Estonov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A Eston rodi Vet-Rafu i Feseju i Tehinu oca gradu Nasu. To su ljudi Rihavovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A sinovi Kenezovi bjehu Gotonilo i Seraja. A sinovi Gotonilovi: Atat."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Meonotaj rodi Ofru; a Seraja rodi Joava, oca onijeh što žive u dolini drvodjeljskoj, jer bijahu drvodjelje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A sinovi Haleva sina Jefonijina bijahu Ir, Ila i Nam. A sin Ilin bješe Kenez."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A sinovi Jeleleilovi: Zif i Zifa, Tirija i Asareilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A sinovi Ezrini: Jeter i Mered i Efer i Jalon; a žena Meredova rodi Marijama i Samaja i Jesvu, oca Estemoji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A žena njegova Judija rodi Jereda oca Gedoru, i Evera oca Sohotu, i Jekutila oca Zanoji. A to bijahu sinovi Vitije kæeri Faraonove, kojom se oženi Mered."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A sinovi žene Odijine sestre Nama oca Keili bijahu Garmija i Estemoja Mahaæanin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A sinovi Simonovi: Amnon i Rina i Ven-Anan i Tilon. A sinovi Jesejevi: Zohet i Ven-Zohet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A sinovi Sile sina Judina: Ir otac Lihu, i Lada otac Marisi, i porodice doma platnarskoga, doma Asvejina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I Jokim i Hasivljani, i Joas i Saraf, koji vladahu u Moavskoj, i Jasuvi-Lehem. Ali to su stare stvari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "To bijahu lonèari i življahu u sadovima i zabranima, i bijahu ondje kod cara za njegove poslove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Sinovi Simeunovi: Nemuilo i Jamin, Jariv, Zera, Saul;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A njegov sin Salum, a njegov sin Mivsam, a njegov sin Misma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A sinovi Mismini: Amuilo sin mu, i njegov sin Zahur, i njegov sin Simej."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A Simej imaše šesnaest sinova i šest kæeri; a braæa njegova nemahu mnogo sinova, i sve porodice njihove ne bješe tako mnogo kao sinova Judinijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A življahu u Virsaveji i Moladi i Asar-Sualu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I u Vali i u Asemu i u Toladu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I u Vetuilu i u Ormi i u Siklagu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I u Vet-Marhavotu i u Asar-Susimu i u Vet-Vireju i u Saraimu. To bjehu gradovi njihovi do cara Davida."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A sela njihova bijahu Itam i Ajin, Rimon i Tohen i Asan, pet gradova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I sva sela njihova što bijahu oko tijeh gradova do Vala. To bijahu stanovi njihovi po rodu njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A Mesovav i Jamlih i Josa sin Amasijin,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I Joilo i Juj sin Josivije sina Seraje sina Asilova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I Elioinaj i Jakova i Jesohaja i Asaja i Adilo i Jesimilo i Venaja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I Zisa sin Sifija sina Alona sina Jedaje sina Simrija sina Semajina;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Ti imenovani bijahu knezovi u porodicama svojim, i domovi otaca njihovijeh umnožiše se veoma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I zato otidoše u Gedor do istoène strane doline da traže pašu stoci svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I naðoše pašu obilatu i dobru i zemlju prostranu i mirnu i rodnu, jer prije ondje življahu koji bijahu od Hama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Ti dakle zapisani po imenu došavši za Jezekije cara Judina razbiše šatore njihove i stanovnike koji se naðoše ondje, i pobiše ih kao proklete da ne osta nijedan do danas, i naseliše se mjesto njih, jer ondje bijaše paše za stoku njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A izmeðu njih, sinova Simeunovijeh, izide na goru Sir pet stotina ljudi, a poglavice im bijahu Felatija i Nearija i Refaja i Ozilo, sinovi Jesejevi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I pobiše ostatak što bijahu utekli izmeðu Amalika, i naseliše se ondje do današnjega dana."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CH/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CH/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CH/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 43
+}

@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOL",
+    "translationId": "srp_865",
+    "name": "Joil",
+    "commonName": "Joil",
+    "title": "Joil",
+    "order": 29,
+    "numberOfChapters": 3,
+    "sha256": "30b409d50c386969cb290888ccee9e9135015a7269a540f5c4583d1b147a0723",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOL/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOL",
+      "chapter": 1
+    },
+    "lastChapterNumber": 3,
+    "lastChapterApiLink": "/api/srp_865/JOL/3.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOL",
+      "chapter": 3
+    },
+    "totalNumberOfVerses": 73
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Jer, gle, u one dane i u ono vrijeme, kad vratim roblje Judino i Jerusalimsko,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Sabraæu sve narode, i svešæu ih u dolinu Josafatovu, i ondje æu se suditi s njima za svoj narod i za našljedstvo svoje Izrailja, kojega rasijaše meðu narode i razdijeliše zemlju moju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I za moj narod bacaše ždrijeb, i davaše dijete za kurvu, i prodavaše djevojku za vino, te piše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I šta hoæete vi sa mnom, Tire i Sidone, i svi krajevi Palestinski? hoæete li da mi platite? i hoæete li da mi vratite? Odmah æu vam bez oklijevanja platiti platu vašu na vašu glavu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer uzeste srebro moje i zlato moje, i najljepše zaklade moje unesoste u svoje crkve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I sinove Judine i sinove Jerusalimske prodadoste sinovima Grèkim da biste ih otjerali daleko od meðe njihove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Evo, ja æu ih dignuti s mjesta kuda ih prodadoste, i platiæu vam platu vašu na vašu glavu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I prodaæu vaše sinove i vaše kæeri u ruke sinovima Judinijem, i oni æe ih prodati Savejcima u narod daljni, jer Gospod reèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Objavite ovo po narodima, oglasite rat, podignite junake neka doðu i idu svi vojnici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Raskujte raonike svoje na maèeve, i srpove svoje na koplja; ko je slab, neka reèe: junak sam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Skupite se i hodite, svi narodi unaokolo, i saberite se; tamo svedi, Gospode, junake svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Neka se podignu i doðu narodi u dolinu Josafatovu; jer æu ondje sjesti da sudim svijem narodima unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zamahnite srpom, jer je žetva uzrela; hodite, siðite, jer je tijesak pun, kace se preljevaju; jer je zloæa njihova velika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Gomile, gomile u dolini sudskoj; jer je dan Gospodnji blizu u dolini sudskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Sunce æe i mjesec pomrknuti, i zvijezde æe ustegnuti svoju svjetlost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I Gospod æe riknuti sa Siona, i iz Jerusalima æe pustiti glas svoj, i zatrešæe se nebo i zemlja; ali æe Gospod biti utoèište svome narodu i krjepost sinovima Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I poznaæete da sam ja Gospod Bog vaš, koji nastavam u Sionu, u svetoj gori svojoj; i Jerusalim æe biti svet, i tuðinci neæe više iæi po njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I tada æe gore kapati slatkim vinom, i humovi æe se topiti od mlijeka, i svijem potocima Judinijem teæi æe voda, i izaæi æe izvor iz doma Gospodnjega i natopiæe dolinu Sitim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Misir æe opustjeti, i Edomska æe biti pusta pustinja za nasilje uèinjeno sinovima Judinijem, jer proliše krv pravu u zemlji njihovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Juda æe stajati dovijeka i Jerusalim od koljena do koljena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I oèistiæu krv njihovu, koje ne oèistih; i Gospod æe nastavati u Sionu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOL/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOL",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/AMO/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "AMO",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOL/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOL",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

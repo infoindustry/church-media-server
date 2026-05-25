@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A poslije izide Mojsije i Aron pred Faraona, i rekoše mu: ovako veli Gospod Bog Izrailjev: pusti narod moj da mi praznuju praznik u pustinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ali Faraon reèe: ko je Gospod da poslušam glas njegov i pustim Izrailja? Ne znam Gospoda, niti æu pustiti Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A oni rekoše: Bog Jevrejski srete nas; molimo ti se da otidemo tri dana hoda u pustinju da prinesemo žrtvu Gospodu Bogu svojemu, da ne pošlje na nas pomor ili maè."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A car Misirski reèe im: Mojsije i Arone, zašto odvlaèite narod od rada njegova? Idite na svoj posao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Još reèe Faraon: eto, naroda je mnogo u zemlji; a vi još hoæete da ostavlja svoje poslove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I u isti dan zapovjedi Faraon nastojnicima nad narodom i upraviteljima njegovijem, i reèe:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Otsele nemojte davati narodu pljeve za opeke kao doslije, neka idu sami i kupe sebi pljevu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A koliko su opeka doslije naèinjali toliko izgonite i otsele, niti što smanjite; jer besposlièe, i zato vièu govoreæi: da idemo da prinesemo žrtvu Bogu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Valja navaliti poslove na te ljude, pa æe raditi i neæe slušati lažljivijeh rijeèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I izašavši nastojnici narodni i upravitelji rekoše narodu govoreæi: tako veli Faraon: ja vam neæu davati pljeve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Idite sami i kupite sebi pljeve gdje naðete, a od posla vam se neæe popustiti ništa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I razide se narod po svoj zemlji Misirskoj da èupa strnjiku mjesto pljeve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A nastojnici navaljivahu govoreæi: svršujte poslove svoje koliko dolazi na dan, kao kad je bilo pljeve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I upravitelji sinova Izrailjevijeh, koje postaviše nad njima nastojnici Faraonovi, dopadahu boja, i govoraše im se: zašto ni juèe ni danas ne naèiniste onoliko opeka koliko vam je odreðeno, kao prije?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I otidoše upravitelji sinova Izrailjevijeh, i povikaše k Faraonu govoreæi: zašto èiniš tako slugama svojim?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Pljeva se ne daje slugama tvojim, pa opet kažu nam: gradite opeke. I evo biju sluge tvoje, a kriv je tvoj narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A on reèe: besposlièite, besposlièite, i zato govorite: da idemo da prinesemo žrtvu Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nego idite, radite; pljeva vam se neæe davati, a opeke da dajete na broj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I upravitelji sinova Izrailjevijeh vidješe da je zlo po njih što im se kaza: da ne bude opeka manje na dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I otišavši od Faraona sretoše Mojsija i Arona, koji izidoše pred njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Pa im rekoše: Gospod neka vas vidi i sudi, što nas omraziste Faraonu i slugama njegovijem, i dadoste im maè u ruku da nas pobiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I Mojsije se vrati ka Gospodu i reèe: Gospode, zašto si navukao to zlo na narod? zašto si me poslao?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer otkako izidoh pred Faraona i progovorih u tvoje ime, još gore postupa s narodom ovijem, a ti ne izbavi naroda svojega."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

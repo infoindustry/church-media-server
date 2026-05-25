@@ -1,0 +1,363 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I neki sišavši iz Judeje uèahu braæu: ako se ne obrežete po obièaju Mojsijevu, ne možete se spasti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A kad posta raspra, i Pavle i Varnava ne malo se prepiraše s njima, odrediše da Pavle i Varnava i drugi neki od njih idu gore k apostolima i starješinama u Jerusalim za ovo pitanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A oni onda spremljeni od crkve, prolažahu kroz Finikiju i Samariju kazujuæi obraæanje neznabožaca, i èinjahu veliku radost svoj braæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A kad doðoše u Jerusalim, primi ih crkva i apostoli i starješine, i kazaše sve što uèini Bog s njima, i kako otvori neznabošcima vrata vjere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Onda ustaše neki od jeresi farisejske koji bijahu vjerovali, i govorahu da ih valja obrezati, i zapovjediti da drže zakon Mojsijev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A apostoli i starješine sabraše se da izvide ovu rijeè."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I po mnogom vijeæanju usta Petar i reèe: ljudi braæo! vi znate da Bog od prvijeh dana izabra izmeðu nas da iz mojijeh usta èuju neznabošci rijeè jevanðelja i da vjeruju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I Bog, koji poznaje srca, posvjedoèi im i dade im Duha svetoga kao i nama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I ne postavi nikakve razlike meðu nama i njima, oèistivši vjerom srca njihova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Sad dakle šta kušate Boga, i hoæete da metnete uèenicima jaram na vrat, kojega ni ocevi naši ni mi mogosmo ponijeti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nego vjerujemo da æemo se spasti blagodaæu Gospoda Isusa Hrista kao i oni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Onda umuèe sve mnoštvo, i slušahu Varnavu i Pavla koji pripovijedahu kolike znake i èudesa uèini Bog u neznabošcima preko njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A kad oni umukoše, odgovori Jakov govoreæi: ljudi braæo! poslušajte mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Simon kaza kako Bog najprije pohodi i primi iz neznabožaca narod k imenu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I s ovijem se udaraju rijeèi proroka, kao što je napisano:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Potom æu se vratiti, i sazidaæu dom Davidov, koji je pao, i njegove razvaline popraviæu, i podignuæu ga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Da potraže Gospoda ostali ljudi i svi narodi u kojima se ime moje spomenu, govori Gospod koji tvori sve ovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Bogu su poznata od postanja svijeta sva djela njegova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Zato ja velim da se ne dira u neznabošce koji se obraæaju k Bogu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Nego da im se zapovjedi da se èuvaju od priloga idolskijeh i od kurvarstva i od udavljenoga i od krvi, i što njima nije milo drugima da ne èine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer Mojsije ima od starijeh vremena u svijem gradovima koji ga propovijedaju, i po zbornicama èita se svake subote."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Tada naðoše za dobro apostoli i starješine sa svom crkvom da izberu izmeðu sebe dvojicu i da pošlju u Antiohiju s Pavlom i Varnavom, Judu koji se zvaše Varsava, i Silu, ljude znamenite meðu braæom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I napisaše rukama svojima ovo: Apostoli i starješine i braæa pozdravljaju braæu koja su po Antiohiji i Siriji i Kilikiji što su od neznabožaca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Buduæi da mi èusmo da neki od nas izišavši smetoše vas rijeèima, i raslabiše duše vaše govoreæi vam da se obrezujete i da držite zakon, kojima mi ne zapovjedismo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Zato naðosmo za dobro mi jednodušno sabrani izbrane ljude poslati vama s ljubaznijem našijem Varnavom i Pavlom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "S ljudima koji su predali duše svoje za ime Gospoda našega Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Poslasmo dakle Judu i Silu, koji æe to i rijeèima kazati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Jer naðe za dobro sveti Duh i mi da nikakvijeh tegoba više ne meæemo na vas osim ovijeh potrebnijeh:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Da se èuvate od priloga idolskijeh i od krvi i od udavljenoga i od kurvarstva, i što neæete da se èini vama ne èinite drugima; od èega ako se èuvate, dobro æete èiniti. Budite zdravi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A kad ih opremiše, doðoše u Antiohiju, i sabravši narod predaše poslanicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A kad proèitaše, obradovaše se utjesi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A Juda i Sila, koji i proroci bijahu, mnogijem rijeèima utješiše braæu i utvrdiše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I pošto biše onamo neko vrijeme, otpustiše ih braæa s mirom k apostolima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "No Sila naðe za dobro da ostane onamo, a Juda se vrati u Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A Pavle i Varnava življahu u Antiohiji i uèahu i propovijedahu rijeè Gospodnju s mnogima drugijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A poslije nekoliko dana reèe Pavle Varnavi: hajde da se vratimo i da obiðemo braæu po svijem gradovima po kojima propovijedasmo rijeè Gospodnju kako žive."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A Varnava šæaše da uzmu sa sobom Jovana prozvanoga Marka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Pavle pak govoraše: onoga koji nas je odustao u Pamfiliji i nije išao s nama na djelo na koje smo bili odreðeni, da ne uzimamo sa sobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Tako postade raspra da se oni razdvojiše, i Varnava uzevši Marka otplovi u Kipar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A Pavle izbravši Silu iziðe predan blagodati Božijoj od braæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I prolažaše kroz Siriju i Kilikiju utvrðujuæi crkve."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/15.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 15
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/16.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 16
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/14.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 14
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 41
+}

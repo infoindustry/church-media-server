@@ -1,0 +1,286 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I kad svrši razgovor sa Saulom, duša Jonatanova prionu za dušu Davidovu, i Jonatan ga zapazi kao svoju dušu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I uze ga Saul taj dan, i ne dade mu da se vrati kuæi oca svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I Jonatan uèini vjeru s Davidom, jer ga ljubljaše kao svoju dušu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I skide Jonatan sa sebe plašt, koji nošaše, i dade ga Davidu, i odijelo svoje i maè svoj i luk svoj i pojas svoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I iðaše David na što ga god Saul pošiljaše, i bijaše sreæan, i postavi ga Saul nad vojnicima, i omilje svemu narodu, pa i slugama Saulovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A kad se vraæahu, i kad se David vraæaše ubivši Filistejina, izlaziše žene iz svakoga grada Izrailjeva pjevajuæi i igrajuæi na susret caru Saulu, s bubnjima i s veseljem i guslama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I otpijevajuæi žene jedne drugima uza svirke govorahu: Saul zgubi svoju tisuæu, ali David svojih deset tisuæa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I razgnjevi se Saul vrlo, i ne biše mu po volji te rijeèi, i reèe: Davidu dadoše deset tisuæa, a meni dadoše tisuæu; još mu samo carstvo treba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I od toga dana Saul gledaše poprijeko Davida."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A sjutradan napade Saula zli duh Božji, te prorokovaše u kuæi, a David mu udaraše rukom svojom u gusle kao prije: a Saulu u ruci bješe koplje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I Saul baci koplje govoreæi: da prikujem Davida za zid. Ali mu se David izmaèe dva puta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I Saula bješe strah od Davida, jer Gospod bješe s njim, a od Saula bješe otstupio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zato ga ukloni Saul od sebe, i postavi ga tisuænikom; i on odlažaše i dolažaše pred narodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I David bijaše sreæan u svemu što èinjaše, jer Gospod bijaše s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Saul videæi da je veoma sreæan, bojaše ga se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A sav Izrailj i Juda ljubljaše Davida, jer on odlažaše i dolažaše pred njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I reèe Saul Davidu: evo, kæer svoju stariju Meravu daæu ti za ženu, samo mi budi hrabar i vodi ratove Gospodnje. Jer Saul govoraše: neæu da se digne moja ruka na nj, nego Filistejska ruka neka se digne na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A David reèe Saulu: ko sam ja i kakav je život moj ili dom oca mojega u Izrailju, da budem zet carev?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A kad doðe vrijeme da Meravu kæer Saulovu dadu Davidu, dadoše je Adrilu Meolaæaninu za ženu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ali Davida ljubljaše Mihala kæi Saulova; a kad to javiše Saulu, bi mu po volji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I reèe Saul: daæu mu je da mu bude zamka i da se diže na nj ruka Filistejska. A Davidu reèe Saul: biæeš mi danas zet s drugom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I zapovjedi Saul slugama svojim: recite Davidu tajno i govorite: gle, omilio si caru, i sve sluge njegove ljube te; budi sada zet carev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I sluge Saulove rekoše te rijeèi Davidu, a David reèe: mislite li da je lako biti zet carev? ta ja sam siromah i mali èovjek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I Saulu javiše ovo sluge njegove govoreæi: ovako reèe David."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A Saul reèe: ovako recite Davidu: ne traži car uzdarja, nego sto okrajaka Filistejskih, da se car osveti svojim neprijateljima. A Saul mišljaše kako bi David pao u ruke Filistejima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I sluge njegove kazaše Davidu te rijeèi, i Davidu bi po volji da postane carev zet. I vrijeme se još ne navrši."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A David usta i otide sa svojim ljudima, i pobi dvjesta Filisteja. I donese David okrajke njihove, i dadoše ih na broj caru da bi postao carev zet. I Saul mu dade za ženu Mihalu kæer svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I Saul vidje i pozna da je Gospod sa Davidom; i Mihala kæi Saulova ljubljaše ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A Saul se još veæma poboja Davida; i bijaše Saul jednako neprijatelj Davidu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A knezovi Filistejski udarahu; i kad god udarahu, David bijaše sreæniji od svijeh sluga Saulovijeh, i ime se njegovo vrlo proslavi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/18.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 18
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/19.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 19
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/17.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 17
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 30
+}

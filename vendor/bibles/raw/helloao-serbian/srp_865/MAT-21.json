@@ -1,0 +1,398 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "srp_865",
+    "name": "Mateju",
+    "commonName": "Mateju",
+    "title": "Jevanðelje po Mateju",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "2282cb47d4ecce5bfb50178a05f4b87b8f4e94d2e2954aa2bd38500539980051",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/MAT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 21,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I kad se približiše k Jerusalimu i doðoše u Vitfagu k Maslinskoj gori, onda Isus posla dva uèenika"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Govoreæi im: idite u selo što je prema vama, i odmah æete naæi magaricu privezanu i magare s njom: odriješite je i dovedite mi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I ako vam ko reèe što, kažite da oni trebaju Gospodu; i odmah æe ih poslati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A ovo je sve bilo da se zbude što je kazao prorok govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Kažite kæeri Sionovoj: evo car tvoj ide tebi krotak, i jaše na magarcu, i magaretu sinu magarièinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I uèenici otidoše, i uèinivši kako im zapovjedi Isus"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Dovedoše magaricu i magare, i metnuše na njih haljine svoje, i posadiše ga na njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A ljudi mnogi prostriješe haljine svoje po putu; a drugi rezahu granje od drveta i prostirahu po putu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A narod koji iðaše pred njim i za njim, vikaše govoreæi: Osana sinu Davidovu! Blagosloven koji ide u ime Gospodnje! Osana na visini!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I kad on uðe u Jerusalim, uzbuni se sav grad govoreæi: ko je to?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A narod govoraše: ovo je Isus prorok iz Nazareta Galilejskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I uðe Isus u crkvu Božiju, i izgna sve koji prodavahu i kupovahu po crkvi, i ispremeta trpeze onijeh što mijenjahu novce, i klupe onijeh što prodavahu golubove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I reèe im: u pismu stoji: dom moj dom molitve neka se zove; a vi naèiniste od njega peæinu hajduèku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I pristupiše k njemu hromi i slijepi u crkvi, i iscijeli ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A kad vidješe glavari sveštenièki i književnici èudesa što uèini, i djecu gdje vièu u crkvi i govore: Osana sinu Davidovu, rasrdiše se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I rekoše mu: èuješ li što ovi govore? A Isus reèe im: da! zar nijeste nikad èitali: iz usta male djece i koja sisaju naèinio si sebi hvalu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I ostavivši ih iziðe napolje iz grada u Vitaniju, i zanoæi ondje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A ujutru vraæajuæi se u grad ogladnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I ugledavši smokvu jednu kraj puta doðe k njoj, i ne naðe ništa na njoj do lišæa sama, i reèe joj: da nikad na tebi ne bude roda dovijeka. I odmah usahnu smokva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I vidjevši to uèenici diviše se govoreæi: kako odmah usahnu smokva!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A Isus odgovarajuæi reèe im: zaista vam kažem: ako imate vjeru i ne posumnjate, ne samo smokveno uèiniæete, nego i gori ovoj ako reèete: digni se i baci se u more, biæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I sve što uzištete u molitvi vjerujuæi, dobiæete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I kad doðe u crkvu i stade uèiti, pristupiše k njemu glavari sveštenièki i starješine narodne govoreæi: kakvom vlasti to èiniš? i ko ti dade vlast tu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A Isus odgovarajuæi reèe im: i ja æu vas upitati jednu rijeè, koju ako mi kažete, i ja æu vama kazati kakvom vlasti ovo èinim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Krštenje Jovanovo otkuda bi? ili s neba, ili od ljudi? A oni pomišljavahu u sebi govoreæi: ako reèemo: s neba, reæi æe nam: zašto mu dakle ne vjerovaste?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ako li reèemo: od ljudi, bojimo se naroda; jer svi Jovana držahu za proroka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I odgovarajuæi Isusu rekoše: ne znamo. Reèe i on njima: ni ja vama neæu kazati kakvom vlasti ovo èinim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Šta vam se èini? Èovjek neki imaše dva sina; i došavši k prvome reèe: sine! idi danas radi u vinogradu mome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A on odgovarajuæi reèe: neæu; a poslije se raskaja i otide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I pristupivši k drugome reèe tako. A on odgovarajuæi reèe: hoæu, gospodaru; i ne otide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Koji je od ove dvojice ispunio volju oèinu? Rekoše mu: prvi. Reèe im Isus: zaista vam kažem da æe carinici i kurve prije vas uæi u carstvo Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Jer doðe k vama Jovan putem pravednijem, i ne vjerovaste mu; a carinici i kurve vjerovaše mu; i vi pošto vidjeste to, ne raskajaste se da mu vjerujete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Drugu prièu èujte: bijaše èovjek domaæin koji posadi vinograd, i ogradi ga plotom, i iskopa u njemu pivnicu, i naèini kulu, i dade ga vinogradarima, i otide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A kad se približi vrijeme rodovima, posla sluge svoje k vinogradarima da prime rodove njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I vinogradari pohvatavši sluge njegove jednoga izbiše, a jednoga ubiše, a jednoga zasuše kamenjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Opet posla druge sluge, više nego prije, i uèiniše im tako isto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A potom posla k njima sina svojega govoreæi: postidjeæe se sina mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A vinogradari vidjevši sina rekoše meðu sobom: ovo je našljednik; hodite da ga ubijemo, i da nama ostane dostojanje njegovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I uhvatiše ga, pa izvedoše napolje iz vinograda, i ubiše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Kad doðe dakle gospodar od vinograda šta æe uèiniti vinogradarima onijem?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Rekoše mu: zloèince æe zlom smrti pomoriti; a vinograd daæe drugijem vinogradarima, koji æe mu davati rodove u svoje vrijeme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Reèe im Isus: zar nijeste nikad èitali u pismu: kamen koji odbaciše zidari, onaj posta glava od ugla; to bi od Gospoda i divno je u vašijem oèima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Zato vam kažem da æe se od vas uzeti carstvo Božije, i daæe se narodu koji njegove rodove donosi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "I ko padne na ovaj kamen razbiæe se; a na koga on padne satræe ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "I èuvši glavari sveštenièki i fariseji prièe njegove razumješe da za njih govori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "I gledahu da ga uhvate, ali se pobojaše naroda, jer ga držahu za proroka."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAT/21.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 21
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/22.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 22
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAT/20.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 20
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 46
+}

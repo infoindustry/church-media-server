@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Rijeè koja doðe Jeremiji od Gospoda govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ustani, i siði u kuæu lonèarevu, i ondje æu ti kazati rijeèi svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Tada siðoh u kuæu lonèarevu, i gle, on raðaše posao na svom kolu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I pokvari se u ruci lonèaru sud koji graðaše od kala, pa naèini iznova od njega drugi sud, kako bijaše volja lonèaru da naèini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tada doðe mi rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ne mogu li èiniti od vas kao ovaj lonèar, dome Izrailjev? govori Gospod; gle, što je kao u ruci lonèarevoj, to ste vi u mojoj ruci, dome Izrailjev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Kad bih rekao za narod i za carstvo da ga istrijebim i razorim i zatrem;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ako se obrati narod oda zla, za koje bih rekao, i meni æe biti žao sa zla, koje mišljah da mu uèinim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A kad bih rekao za narod i za carstvo da ga sazidam i nasadim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ako uèini što je zlo preda mnom ne slušajuæi glasa mojega, i meni æe biti žao dobra koje rekoh da mu uèinim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zato sada reci Judejcima i Jerusalimljanima govoreæi: ovako veli Gospod: evo spremam na vas zlo, i mislim misli na vas; vratite se dakle svaki sa svojega puta zloga, i popravite putove svoje i djela svoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A oni rekoše: nema ništa od toga, nego æemo iæi za svojim mislima i èiniæemo svaki po misli srca svojega zloga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zato ovako govori Gospod: pitajte po narodima je li ko èuo tako što? grdilo veliko uèini djevojka Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ostavlja li snijeg Livanski sa stijene moja polja? ostavljaju li se vode studene, koje teku?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A narod moj mene zaboravi, kadi taštini, i spotièu se na svojim putovima, na starijem stazama, da hode stazama puta neporavnjena,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Da bih obratio zemlju njihovu u pustoš, na vjeènu sramotu, da se èudi ko god proðe preko nje i maše glavom svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Kao ustokom razmetnuæu ih pred neprijateljem; leða a ne lice pokazaæu im u nevolji njihovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A oni rekoše: hodite da smislimo što Jeremiji, jer neæe nestati zakona svešteniku ni svjeta mudarcu ni rijeèi proroku; hodite ubijmo ga jezikom i ne pazimo na rijeèi njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Pazi na me, Gospode, i èuj glas mojih protivnika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Eda li æe se zlo vratiti za dobro, kad mi kopaju jamu? Opomeni se da sam stajao pred tobom govoreæi za njihovo dobro, da bih odvratio gnjev tvoj od njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Zato predaj sinove njihove gladi i uèini da izginu od maèa, i žene njihove da budu sirote i udove, i muževi njihovi da se pogube, mladiæe njihove da pobije maè u boju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Neka se èuje vika iz kuæa njihovijeh, kad dovedeš na njih vojsku iznenada; jer iskopaše jamu da me uhvate, i zamke namjestiše nogama mojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A ti, Gospode, znaš sve što su naumili meni da me ubiju, nemoj im oprostiti bezakonja ni grijeha njihova izbrisati ispred sebe; nego neka popadaju pred tobom, u gnjevu svom radi suprot njima."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/18.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 18
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/19.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 19
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/17.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 17
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

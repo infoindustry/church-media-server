@@ -1,0 +1,440 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "srp_865",
+    "name": "Luki",
+    "commonName": "Luki",
+    "title": "Jevanðelje po Luki",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "71d24bae001865beafd9dc8b76f8e93d8f927bd8e33391ea4aebbf53673c6a27",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LUK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/LUK/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U to vrijeme pak iziðe zapovijest od æesara Avgusta da se prepiše sav svijet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ovo je bio prvi prijepis za vladanja Kirinova Sirijom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I poðoše svi da se prepišu svaki u svoj grad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tada poðe i Josif iz Galileje iz grada Nazareta u Judeju u grad Davidov koji se zvaše Vitlejem, jer on bijaše iz doma i plemena Davidova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Da se prepiše s Marijom, isprošenom za njega ženom, koja bješe trudna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I kad onamo bijahu, doðe vrijeme da ona rodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I rodi sina svojega prvenca, i povi ga, i metnu ga u jasli; jer im ne bijaše mjesta u gostionici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I bijahu pastiri u onome kraju koji èuvahu noænu stražu kod stada svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I gle, anðeo Gospodnji stade meðu njima, i slava Gospodnja obasja ih; i uplašiše se vrlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I reèe im anðeo: ne bojte se; jer gle, javljam vam veliku radost koja æe biti svemu narodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer vam se danas rodi spas, koji je Hristos Gospod, u gradu Davidovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I eto vam znaka: naæi æete dijete povito gdje leži u jaslima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I ujedanput postade s anðelom mnoštvo vojnika nebeskijeh, koji hvaljahu Boga govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Slava na visini Bogu, i na zemlji mir, meðu ljudima dobra volja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I kad anðeli otidoše od njih na nebo, pastiri govorahu jedan drugome: hajdemo do Vitlejema, da vidimo to što se tamo dogodilo što nam kaza Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I doðoše brzo, i naðoše Mariju i Josifa i dijete gdje leži u jaslima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A kad vidješe, kazaše sve što im je kazano za to dijete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I svi koji èuše diviše se tome što im kazaše pastiri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A Marija èuvaše sve rijeèi ove i slagaše ih u srcu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I vratiše se pastiri slaveæi i hvaleæi Boga za sve što èuše i vidješe kao što im bi kazano."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I kad se navrši osam dana da ga obrežu, nadjenuše mu ime Isus, kao što je anðeo rekao dok se još nije bio ni zametnuo u utrobi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I kad doðe vrijeme da idu na molitvu po zakonu Mojsijevu, doniješe ga u Jerusalim da ga metnu pred Gospoda,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Kao što je napisano u zakonu Gospodnjemu: da se svako dijete muško koje najprije otvori matericu posveti Gospodu;)"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I da prinesu prilog, kao što je reèeno u zakonu Gospodnjemu, dvije grlice, ili dva golubiæa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I gle, bijaše u Jerusalimu èovjek po imenu Simeun, i taj èovjek bješe pravedan i pobožan, koji èekaše utjehe Izrailjeve, i Duh sveti bijaše u njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I njemu bješe sveti Duh kazao da neæe vidjeti smrti dok ne vidi Hrista Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I kaza mu Duh te doðe u crkvu; i kad donesoše roditelji dijete Isusa da svrše za njega zakon po obièaju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I on ga uze na ruke svoje, i hvali Boga i reèe:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Sad otpuštaš s mirom slugu svojega, Gospode, po rijeèi svojoj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Jer vidješe oèi moje spasenije tvoje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Koje si ugotovio pred licem sviju naroda,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Vidjelo, da obasja neznabošce, i slavu naroda tvojega Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I Josif i mati njegova èuðahu se tome što se govoraše za njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I blagoslovi ih Simeun, i reèe Mariji materi njegovoj: gle, ovaj leži da mnoge obori i podigne u Izrailju, i da bude znak protiv koga æe se govoriti"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A i tebi samoj probošæe nož dušu da se otkriju misli mnogijeh srca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I bješe Ana proroèica, kæi Fanuilova, od koljena Asirova; ona je ostarjela, a sedam je godina življela s mužem od djevojaštva svojega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I udova oko osamdeset i èetiri godine, koja ne odlažaše od crkve, i služaše Bogu dan i noæ postom i molitvama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I ona u taj èas doðe, i hvaljaše Gospoda i govoraše za njega svima koji èekahu spasenija u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I kad svršiše sve po zakonu Gospodnjemu, vratiše se u Galileju u grad svoj Nazaret."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A dijete rastijaše i jaèaše u duhu, i punjaše se premudrosti, i blagodat Božija bješe na njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I roditelji njegovi iðahu svake godine u Jerusalim o prazniku pashe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I kad mu bi dvanaest godina, doðoše oni u Jerusalim po obièaju praznika;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I kad dane provedoše i oni se vratiše, osta dijete Isus u Jerusalimu; i ne znade Josif i mati njegova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Nego misleæi da je s društvom, otidoše dan hoda, i stadoše ga tražiti po rodbini i po znancima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "I ne našavši ga vratiše se u Jerusalim da ga traže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "I poslije tri dana naðoše ga u crkvi gdje sjedi meðu uèiteljima, i sluša ih, i pita ih,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "I svi koji ga slušahu divljahu se njegovu razumu i odgovorima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "I vidjevši ga zaèudiše se, i mati njegova reèe mu: sine! šta uèini nama tako? Evo otac tvoj i ja sa strahom tražismo te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "I reèe im: zašto ste me tražili? Zar ne znate da meni treba u onom biti što je oca mojega?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "I oni ne razumješe rijeèi što im reèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "I siðe s njima i doðe u Nazaret; i bijaše im poslušan. I mati njegova èuvaše sve rijeèi ove u srcu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "I Isus napredovaše u premudrosti i u rastu i u milosti kod Boga i kod ljudi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LUK/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LUK/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LUK/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 52
+}

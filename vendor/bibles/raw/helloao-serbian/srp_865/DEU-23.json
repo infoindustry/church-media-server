@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "srp_865",
+    "name": "Ponovljeni Zakon",
+    "commonName": "Ponovljeni Zakon",
+    "title": "Ponovljeni Zakon",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "b000b6651908c9448c65c662cec1fa45977205b236e0922d505241ab679311df",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DEU/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 1
+    },
+    "lastChapterNumber": 34,
+    "lastChapterApiLink": "/api/srp_865/DEU/34.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 34
+    },
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 23,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U sabor Gospodnji da ne ulazi ni utuèen ni uškopljen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "U sabor Gospodnji da ne ulazi kopile, ni deseto koljeno njegovo da ne ulazi u sabor Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ni Amonac ni Moavac da ne ulazi u sabor Gospodnji, ni deseto koljeno njihovo, da ne ulazi u sabor Gospodnji dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Zato što ne izidoše pred vas s hljebom i vodom na putu kad ste išli iz Misira, i što najmiše za novce na vas Valama sina Veorova iz Fetore u Mesopotamiji da te prokune,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Premda ne htje Gospod Bog tvoj poslušati Valama, nego ti Gospod Bog tvoj obrati prokletstvo u blagoslov, jer te milova Gospod Bog tvoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ne traži mira njihova ni dobra njihova nigda za svoga vijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nemoj se gaditi na Idumejca, jer ti je brat; nemoj se gaditi na Misirca, jer si bio došljak u zemlji njegovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Sinovi koji se rode od njih u treæem koljenu neka dolaze u sabor Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Kad otideš na vojsku na neprijatelje svoje, tada se èuvaj od svake zle stvari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ako se meðu vama ko oskvrni od èega što mu se noæu dogodi, neka izide iza okola i ne ulazi u oko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A pred veèe neka se opere vodom, pa kad sunce zaðe neka uðe u oko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I imaj mjesto iza okola gdje æeš izlaziti napolje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I imaj lopaticu u opravi svojoj, pa kad izideš napolje, zakopaj njom, a kad poðeš natrag, zagrni neèist svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer Gospod Bog tvoj ide usred okola tvojega da te izbavi i da ti preda neprijatelje tvoje; zato neka je oko tvoj svet, da ne vidi u tebe nikakve neèistote, da se ne bi odvratio od tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Nemoj izdati sluge gospodaru njegovu, koji uteèe k tebi od gospodara svojega;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Nego neka ostane kod tebe, usred tebe, u mjestu koje izbere u kojem gradu tvom, gdje mu bude drago; nemoj ga cvijeliti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Da ne bude kurve izmeðu kæeri Izrailjevijeh, ni adžuvana izmeðu sinova Izrailjevih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ne nosi u dom Gospoda Boga svojega ni po kakom zavjetu plate kurvine ni cijene od psa, jer je oboje gad pred Gospodom Bogom tvojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ne daji na dobit bratu svojemu ni novaca ni hrane niti išta što se daje na dobit."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Strancu podaj na dobit, ali bratu svojemu nemoj davati na dobit, da bi te blagoslovio Gospod Bog tvoj u svemu zašto se prihvatiš rukom svojom u zemlji u koju ideš da je naslijediš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Kad uèiniš zavjet Gospodu Bogu svojemu, ne oklijevaj ispuniti ga, jer æe ga tražiti od tebe Gospod Bog tvoj, i biæe na tebi grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ako li se ne zavjetuješ, neæe biti na tebi grijeha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Što ti izide iz usta, ono drži i uèini, kao što zavjetuješ Gospodu Bogu svojemu dragovoljno, što izreèeš ustima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Kad uðeš u vinograd bližnjega svojega, možeš jesti grožða po volji dok se nasitiš; ali ga ne meæi u sud svoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Kad uðeš u usjev bližnjega svojega, možeš trgati klasje rukom svojom; ali da ne zažnješ srpom u usjev bližnjega svojega."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DEU/23.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 23
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DEU/24.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 24
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DEU/22.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 22
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

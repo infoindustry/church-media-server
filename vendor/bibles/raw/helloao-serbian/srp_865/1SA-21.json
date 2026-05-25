@@ -1,0 +1,181 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 21,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada David doðe u Nov k Ahimelehu svešteniku; a Ahimeleh se uplaši i istrèa pred Davida, i reèe mu: zašto si sam, i nema nikoga s tobom?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A David reèe Ahimelehu svešteniku: car mi nešto zapovjedi, i reèe mi: niko da ne dozna zašto te šaljem i šta sam ti zapovjedio. A sluge sam opravio u to i to mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Nego šta imaš pri ruci? daj mi pet hljebova, ili šta imaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A sveštenik odgovori Davidu i reèe: nemam pri ruci obiènoga hljeba; nego ima svetoga hljeba; ali jesu li se momci èuvali od žena?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A David odgovori svešteniku i reèe mu: nije bilo žena kod nas ni juèe ni onomadne, otkako sam pošao, i sudovi su u momaka bili sveti. A ako bi put i neèist bio, osvetiæe se danas sudovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tada mu dade sveštenik hljebove svete, jer ne bješe hljeba osim hljebova postavljenijeh, koji bijahu uzeti ispred Gospoda da se postave hljebovi topli onaj dan kad se oni uzeše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A ondje bijaše onaj dan jedan od sluga Saulovijeh baveæi se pred Gospodom, kojemu ime bješe Doik Idumejac, starješina nad pastirima Saulovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I David reèe Ahimelehu: imaš li tu kako koplje ili maè? jer ni maèa svojega ni oružja ne ponesoh, jer stvar careva bijaše hitna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A sveštenik reèe: ovdje je maè Golijata Filistejina, kojega si ubio u dolini Ili, uvijen u platno iza opleæka; ako hoæeš, uzmi ga, jer drugoga osim njega nema ovdje. A David reèe: takoga više nema, daj mi ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Potom se podiže David, i pobježe onaj dan od Saula, i doðe k Ahisu caru Gatskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Ahisu rekoše sluge njegove: nije li ovo David car zemaljski? Nijesu li o njemu pjevali igrajuæi i govoreæi: Saul zgubi svoju tisuæu, a David svojih deset tisuæa?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I David metnu ove rijeèi u srce svoje, i poboja se veoma Ahisa cara Gatskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I pretvori se pred njima i uèini se lud u rukama njihovijem; i šaraše po vratima, i bacaše pjenu niz bradu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I Ahis reèe slugama svojim: eto, vidite da je èovjek lud; što ste mi ga doveli?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zar nemam dosta ludijeh, nego mi dovedoste toga da luduje preda mnom? zar æe taj uæi u kuæu moju?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/21.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 21
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/22.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 22
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/20.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 20
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 15
+}

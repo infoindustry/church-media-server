@@ -1,0 +1,209 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 35,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Rijeè koja doðe Jeremiji od Gospoda u vrijeme Joakima sina Josijina cara Judina, govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Idi k domu sinova Rihavovijeh i govori s njima, te ih dovedi u dom Gospodnji, u koju klijet, i podaj im vina neka piju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Tada uzeh Jazaniju sina Jeremije sina Hovasijina i braæu njegovu i sve sinove i sav dom sinova Rihavovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I dovedoh ih u dom Gospodnji, u klijet sinova Anana sina Igdalijina èovjeka Božijega, koja je do klijeti knezovske, nad klijeæu Masije sina Salumova, vratara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I metnuh pred sinove doma Rihavova krèage pune vina, i èaše, pa im rekoh: pijte vino."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A oni rekoše: neæemo piti vina, jer Jonadav, sin Rihavov, otac naš zabranio nam je rekavši: ne pijte vina, ni vi ni sinovi vaši dovijeka;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I kuæe ne gradite, ni sjemena sijte, ni vinograda sadite niti ga držite, nego u šatorima živite svega vijeka svojega, da biste dugo živjeli na zemlji, gdje ste došljaci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I poslušasmo glas Jonadava sina Rihavova oca svojega u svemu što nam zapovjedi da ne pijemo vina svega vijeka svojega, ni mi ni naše žene, ni sinovi naši ni kæeri naše,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ni da gradimo kuæa da u njima živimo, ni da imamo vinograda ni njive ni usjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nego živimo u šatorima, i slušamo i èinimo sve kako nam je zapovjedio Jonadav otac naš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A kad doðe Navuhodonosor car Vavilonski u ovu zemlju, rekosmo: hajde da otidemo u Jerusalim ispred vojske Haldejske i vojske Sirske; i tako ostasmo u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada doðe rijeè Gospodnja Jeremiji govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ovako veli Gospod nad vojskama Bog Izrailjev: idi reci Judejcima i Jerusalimljanima: zar neæete da primite nauke da slušate rijeèi moje? govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Izvršuju se rijeèi Jonadava sina Rihavova, koji zabrani sinovima svojim da ne piju vina, i ne piju vina do danas, nego slušaju zapovijest oca svojega; a ja vam govorih zarana jednako, a vi me ne poslušaste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I slah k vama sve sluge svoje proroke zarana jednako govoreæi: vratite se svaki sa svoga puta zloga, i popravite djela svoja i ne idite za drugim bogovima služeæi im, pak æete ostati u zemlji koju sam dao vama i ocima vašim, ali ne prignuste uha svojega niti me poslušaste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Da, sinovi Jonadava sina Rihavova izvršuju zapovijest oca svojega što im je zapovjedio, a taj narod ne sluša mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Zato ovako veli Gospod Bog nad vojskama, Bog Izrailjev: evo, ja æu pustiti na Judu i na sve stanovnike Jerusalimske sve zlo što izrekoh za njih; jer im govorih a oni ne poslušaše, i zvah ih a oni se ne odazvaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A porodici Rihavovoj reèe Jeremija: ovako veli Gospod nad vojskama Bog Izrailjev: što slušate zapovijest Jonadava oca svojega i držite sve zapovijesti njegove i èinite sve kako vam je zapovjedio,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Zato ovako veli Gospod nad vojskama Bog Izrailjev: neæe nestati Jonadavu sinu Rihavovu èovjeka koji bi stajao preda mnom dovijeka."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/35.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 35
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/36.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 36
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/34.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 34
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 19
+}

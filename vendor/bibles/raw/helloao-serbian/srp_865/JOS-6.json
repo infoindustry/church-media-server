@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOS",
+    "translationId": "srp_865",
+    "name": "Isus Navin",
+    "commonName": "Isus Navin",
+    "title": "Isus Navin",
+    "order": 6,
+    "numberOfChapters": 24,
+    "sha256": "ec9d0a794c17ba6296451b87fb16a4d34d8af2bfd446293b00f97a3bbb7257b2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOS/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/JOS/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 658
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Jerihon se zatvori, i èuvaše se od sinova Izrailjevih; niko ne izlažaše, niti ko ulažaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A Gospod reèe Isusu: evo, dajem ti u ruke Jerihon i cara njegova i junake njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Zato obidite oko grada svi vojnici, iduæi oko grada jedanput na dan; tako uèini šest dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A sedam sveštenika neka nose sedam truba od rogova ovnujskih pred kovèegom; a sedmoga dana obidite oko grada sedam puta, i sveštenici neka trube u trube."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Pa kad otežuæi zatrube u rogove ovnujske, èim èujete glas od trube, neka povièe sav narod iza glasa; i zidovi æe gradski popadati na svojem mjestu, a narod neka ulazi, svaki naprema se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tada Isus sin Navin dozva sveštenike, i reèe im: uzmite kovèeg zavjetni, a sedam sveštenika neka nose sedam truba od rogova ovnujskih pred kovèegom Gospodnjim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A narodu reèe: idite i obidite oko grada, i vojnici neka idu pred kovèegom Gospodnjim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A kad Isus reèe narodu, sedam sveštenika noseæi sedam truba od rogova ovnujskih poðoše pred Gospodom, i zatrubiše u trube, a kovèeg zavjeta Gospodnjega poðe za njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A vojnici poðoše pred sveštenicima, koji trubljahu u trube, a ostali poðoše za kovèegom; iduæi trubljahu u trube."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A narodu zapovjedi Isus govoreæi: ne vièite, i nemojte da vam se èuje glas, i nijedna rijeè da ne izide iz usta vaših do dana kad vam ja kažem: vièite; tada æete vikati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tako obide kovèeg Gospodnji oko grada jednom; pa se vratiše u oko, i noæiše u okolu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A sjutradan usta Isus rano, i sveštenici uzeše kovèeg Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I sedam sveštenika noseæi sedam truba od rogova ovnujskih iðahu pred kovèegom Gospodnjim, i iduæi trubljahu u trube; a vojnici iðahu pred njima, a ostali iðahu za kovèegom Gospodnjim; iduæi trubljahu u trube."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I obidoše oko grada jednom drugoga dana, pa se vratiše u oko; tako uèiniše šest dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A sedmoga dana ustaše zorom, i obidoše oko grada isto onako sedam puta; samo toga dana obidoše oko grada sedam puta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A kad bi sedmi put da zatrube sveštenici u trube, Isus reèe narodu: vièite, jer vam Gospod dade grad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A grad da bude proklet Gospodu i što je god u njemu; samo Rava kurva nek ostane u životu i svi koji budu kod nje u kuæi, jer sakri poslanike koje bijasmo poslali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ali se èuvajte od prokletijeh stvari da i sami ne budete prokleti uzevši što prokleto, i da ne navuèete prokletstvo na oko Izrailjev i smetete ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nego sve srebro i zlato i posuðe od mjedi i od gvožða neka bude sveto Gospodu, neka uðe u riznicu Gospodnju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Tada povika narod i zatrubiše trube, i kad narod èu glas trubni i povika iza glasa, popadaše zidovi na mjestu svom; i narod uðe u grad, svaki naprema se; i uzeše grad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I pobiše kao prokleto oštrijem maèem sve što bješe u gradu, i žene i ljude, i djecu i starce, i volove i ovce i magarce."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A onoj dvojici što uhodiše zemlju reèe Isus: idite u kuæu one žene kurve, i izvedite nju i sve što je njezino, kao što ste joj se zakleli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I otišavši oni momci što uhodiše zemlju, izvedoše Ravu i oca joj i mater joj i braæu joj i što god bješe njezino, i sav rod njezin izvedoše, i ostaviše ih iza okola Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A grad spališe ognjem i što bješe u njemu; samo srebro i zlato i posuðe od mjedi i od gvožða metnuše u riznicu doma Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A Ravu kurvu i dom oca njezina i sve što bješe njezino ostavi u životu Isus, i ona osta meðu Izrailjcima do danas, jer sakri poslanike koje posla Isus da uhode Jerihon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I u to vrijeme prokle Isus govoreæi: proklet da je pred Gospodom èovjek koji bi ustao da gradi ovaj grad Jerihon! na prvencu svom osnovao ga, i na mjezincu svom postavio mu vrata!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I Gospod bijaše s Isusom, i razglasi se ime njegovo po svoj zemlji."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOS/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOS/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOS/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

@@ -1,0 +1,188 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CO",
+    "translationId": "srp_865",
+    "name": "2 Korinæanima",
+    "commonName": "2 Korinæanima",
+    "title": "2. Korinæanima Poslanica",
+    "order": 47,
+    "numberOfChapters": 13,
+    "sha256": "20ab07753b2c73bb7bdc0574326c0b6fe24b2223ed2a3ffc8ec06c7f3f7c18a8",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 13,
+    "lastChapterApiLink": "/api/srp_865/2CO/13.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CO",
+      "chapter": 13
+    },
+    "totalNumberOfVerses": 255
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Imajuæi dakle ovaka obeæanja, o ljubazni! da oèistimo sebe od svake poganštine tijela i duha, i da tvorimo svetinju u strahu Božijemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Primite nas, nikome ne uèinismo nažao, nikoga ne pokvarismo, nikoga ne zanesosmo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ne govorim na osuðenje, jer prije rekoh da ste u srcima našijem, da bih s vama i umro i življeo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Vrlo slobodno govorim k vama, mnogo se hvalim vama, napunio sam se utjehe, izobilan sam radošæu pored sviju briga našijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer kad doðosmo u Maæedoniju, nikaka mira nemaše tijelo naše, nego u svemu bijaše u nevolji: spolja borbe, iznutra strah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ali Bog, koji tješi ponižene, utješi nas dolaskom Titovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A ne samo dolaskom njegovijem, nego i utjehom kojom se on utješi za vas kazujuæi vašu želju, vaše plakanje, vaše staranje za mene, tako da se još veæma obradovah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer ako sam vas i ražalio poslanicom, ne kajem se, ako se i bijah raskajao: jer vidim da ona poslanica, ako i za malo, ražali vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ali se sad radujem, ne što biste žalosni, nego što se ožalostiste na pokajanje: jer se ožalostiste po Bogu, da od nas ni u èemu ne štetujete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer žalost koja je po Bogu donosi za spasenije pokajanje, za koje se nigda ne kaje; a žalost ovoga svijeta smrt donosi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer, gle, ovo samo što se po Bogu ožalostiste, koliko uèini staranje meðu vama? kakovo pravdanje, kaku nepovoljnost, kakav strah, kaku želju, kaku revnost, kaku osvetu? U svemu pokazaste se da ste èisti u djelu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer ako vam i pisah, ne onoga radi koji je skrivio, niti onoga radi kome je krivo uèinjeno, nego da se pokaže meðu vama staranje naše za vas pred Bogom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zato se utješismo utjehom vašom; a još se veæma obradovasmo radosti Titovoj, jer vi svi umiriste duh njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer što sam mu se za vas pohvalio, nijesam se posramio; nego kako je sve istina što govorismo vama, tako i pohvala naša k Titu istinita bi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I srce je njegovo puno ljubavi k vama kad se opominje poslušanja sviju vas, kako ste ga sa strahom i drktanjem primili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Radujem se dakle što se u svemu smijem osloniti na vas."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CO/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CO",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CO/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CO",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CO/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CO",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

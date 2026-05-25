@@ -1,0 +1,524 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 51,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ovako govori Gospod: evo, ja æu podignuti na Vavilon i na one koji žive usred onijeh koji ustaju na me vjetar koji mori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Poslaæu na Vavilon vijaèe koji æe ga razvijati i zemlju njegovu isprazniti, jer æe ga opkoliti sa svijeh strana u dan nevolje njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Strijelac neka nateže luk na strijelca i na onoga koji se ponosi svojim oklopom; i ne žalite mladiæa njegovijeh, potrite mu svu vojsku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Neka padnu pobijeni u zemlji Haldejskoj i izbodeni na ulicama njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer nije ostavio Izrailja i Jude Bog njihov, Gospod nad vojskama, ako i jest zemlja njihova puna krivice svecu Izrailjevu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Bježite iz Vavilona i izbavite svaki dušu svoju da se ne istrijebite u bezakonju njegovu, jer je vrijeme osvete Gospodnje, plaæa mu što je zaslužio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Vavilon bijaše zlatna èaša u ruci Gospodnjoj, kojom opoji svu zemlju; vina njegova piše narodi, zato poludješe narodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ujedanput pade Vavilon i razbi se; ridajte za njim; donesite balsama za rane njegove, ne bi li se iscijelio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Lijeèismo Vavilon, ali se ne iscijeli; ostavite ga, i da idemo svaki u svoju zemlju; jer do neba dopire sud njegov i diže se do oblaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Gospod je iznio pravdu našu; hodite, da pripovijedamo na Sionu djelo Gospoda Boga svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Èistite strijele, uzmite štitove; Gospod podiže duh careva Midskih, jer je Vavilonu namislio da ga zatre; jer je osveta Gospodnja, osveta crkve njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Na zidovima Vavilonskim podignite zastavu, utvrdite stražu, postavite stražare, namjestite zasjede; jer je Gospod namislio, i uèiniæe što je rekao za stanovnike Vavilonske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "O ti, što stanuješ kraj vode velike i imaš mnogo blaga! doðe kraj tvoj i svršetak lakomstvu tvojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Gospod nad vojskama zakle se sobom: napuniæu te ljudima kao skakavcima, i oni æe ti pjevati pjesmu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "On je stvorio zemlju silom svojom, utvrdio vasiljenu mudrošæu svojom, i razumom svojim razapeo nebesa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Kad pusti glas svoj, buèe vode na nebesima, podiže paru s krajeva zemaljskih, i pušta munje s daždem, i izvodi vjetar iz staja njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Svaki èovjek posta bezuman od znanja, svaki se zlatar osramoti likom rezanijem; jer su laž likovi njegovi liveni i nema duha u njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Taština su, djelo prijevarno; kad ih pohodim poginuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nije taki dio Jakovljev; jer je on tvorac svemu i on je dio našljedstva njegova; ime mu je Gospod nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ti si mi bio malj, oružje ubojno, i tobom satrh narode i tobom rasuh carstva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I tobom satrh konja i jahaèa njegova; i tobom satrh kola i koji sjeðahu na njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I tobom satrh èovjeka i ženu, i satrh tobom starca i dijete, i satrh tobom momka i djevojku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I tobom satrh pastira i stado njegovo, i tobom satrh oraèa i volove njegove ujarmljene, i satrh tobom knezove i vlastelje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I platiæu Vavilonu i svijem stanovnicima Haldejskim za sve zlo koje uèiniše Sionu, na vaše oèi, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Evo mene na tebe, goro, koja zatireš, govori Gospod, koja zatireš svu zemlju, i zamahnuæu rukom svojom na te i svaliæu te sa stijena, i naèiniæu od tebe goru izgorjelu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I neæe uzeti od tebe kamena za ugao ni kamena za temelj, jer æeš biti pustoš vjeèna, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Podignite zastavu u zemlji, zatrubite u trube meðu narodima, pripravite narode na nj, sazovite na nj carstvo Araratsko, Minijsko i Ashanansko; postavite vojvodu suprot njemu, dovedite konje kao skakavce bodljikaste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Pripravite narode suprot njemu, careve Midske i vojvode njihove i sve vlastele njihove i svu zemlju države njihove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I zemlja æe se zatresti i uzmuèiti, jer æe se misao Gospodnja izvršiti na Vavilonu da obrati zemlju Vavilonsku u pustinju da niko ne živi u njoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Prestaše vojevati junaci Vavilonski, stoje u gradu, nesta sile njihove, postaše kao žene, izgorješe stanovi njihovi, prijevornice njihove polomiše se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Glasnik æe sretati glasnika, i poslanik æe sretati poslanika da jave caru Vavilonskom da mu je uzet grad sa svijeh krajeva,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I da se brodovi uzeše i jezera izgorješe ognjem i vojnici se prepali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Jer ovako veli Gospod nad vojskama Bog Izrailjev: kæi je Vavilonska kao gumno; vrijeme je da se nabije, još malo, pa æe doæi vrijeme da se požnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Izjede me i potr me Navuhodonosor car Vavilonski, naèini od mene nepotreban sud, proždrije me kao zmaj, napuni trbuh svoj milinama mojim, i otjera me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Nepravda koja se èini meni i mojemu tijelu neka doðe na Vavilon, reæi æe stanovnica Sionska, i krv moja na stanovnike Haldejske, govoriæe Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Zato ovako veli Gospod: evo, ja æu raspraviti parbu tvoju i osvetiæu te; i osušiæu more njegovo, i izvore æu njegove osušiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I Vavilon æe postati gomila, stan zmajevski, èudo i potsmijeh, da niko neæe živjeti u njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Rikaæe svi kao lavovi i viti kao laviæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Kad se ugriju, iznijeæu im da piju, i opojiæu ih da se razvesele i zaspe vjeènijem snom, da se ne probude, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Svešæu ih na zaklanje kao jaganjce, kao ovnove s jarcima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Kako se predobi Sisah i uze se hvala sve zemlje? kako Vavilon posta èudo meðu narodima?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "More usta na Vavilon, pokri ga mnoštvo vala njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Gradovi njegovi postaše pustoš, zemlja sasušena i pusta, zemlja gdje niko ne živi, niti prolazi kroz nju sin èovjeèji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "I pohodiæu Vila u Vavilonu i izvuæi æu iz usta njegovijeh što je proždro, i neæe se više stjecati k njemu narodi, i zid æe Vavilonski pasti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Izidi iz njega, narode moj, i izbavite svaki svoju dušu od žestokoga gnjeva Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Nemojte da odmekne srce vaše i da se uplašite od glasa koji æe se èuti u zemlji; a doæi æe glas jedne godine, a poslije njega drugi glas druge godine, i nasilje æe biti u zemlji, i gospodar æe ustati na gospodara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Zato evo idu dani kad æu pohoditi rezane likove Vavilonske, i sva æe se zemlja njegova posramiti, i svi æe pobijeni njegovi pasti usred njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Nebo i zemlja i sve što je u njima pjevaæe nad Vavilonom, jer æe doæi na nj sa sjevera zatiraè, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "I kao što je Vavilon uèinio da padnu pobijeni Izrailjevi, tako æe pasti u Vavilonu pobijeni sve zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Koji utekoste od maèa, idite, ne stojte; pominjite Gospoda izdaleka, i Jerusalim neka vam je u srcu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Posramismo se, što èusmo rug, stid popade lice naše, što tuðini uðoše u svetinju doma Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Zato, gle, idu dani, govori Gospod, kad æu pohoditi rezane likove njegove, i po svoj zemlji njegovoj jeèaæe ranjenici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Da se Vavilon i na nebo popne, i na visini da utvrdi silu svoju, doæi æe od mene na nj zatiraèi, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "Èuje se velika vika iz Vavilona, i velik polom iz zemlje Haldejske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "Jer Gospod zatire Vavilon, i ukida u njemu veliku vrevu; i vali æe njihovi buèati kao velika voda, vika æe se njihova razlijegati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "Jer doðe na nj, na Vavilon, zatiraè, junaci se njegovi zarobiše, lukovi se njihovi potrše; jer je Gospod Bog koji plaæa, doista æe platiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "Opojiæu knezove njegove i mudarce njegove, vojvode njegove i vlastelje njegove i junake njegove, da æe zaspati vjeènijem snom i neæe se probuditi, govori car kojemu je ime Gospod nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "Ovako veli Gospod nad vojskama: široki zidovi Vavilonski sasvijem æe se raskopati, i visoka vrata njegova ognjem æe se spaliti, te æe ljudi biti uzalud radili, i narodi se trudili za oganj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 59,
+        "content": [
+          "Rijeè što zapovjedi prorok Jeremija Seraji sinu Nirije sina Masijina, kad poðe od Sedekije cara Judina u Vavilon èetvrte godine carovanja njegova; a Seraja bješe glavni posteljnik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 60,
+        "content": [
+          "A Jeremija napisa u jednu knjigu sve zlo koje šæaše doæi na Vavilon, sve ove rijeèi što su napisane za Vavilon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 61,
+        "content": [
+          "I reèe Jeremija Seraji: kad doðeš u Vavilon, tada gledaj i proèitaj sve ove rijeèi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 62,
+        "content": [
+          "I reci: Gospode, ti si govorio za ovo mjesto da æeš ga zatrti da niko ne živi u njemu, ni èovjek ni živinèe, nego da je pustoš dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 63,
+        "content": [
+          "A kad proèitaš ovu knjigu, veži kamen za nju, i baci je u Efrat."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 64,
+        "content": [
+          "I reci: tako æe potonuti Vavilon i neæe se podignuti oda zla koje æu pustiti na nj, i oni æe iznemoæi. Dovde su rijeèi Jeremijine."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/51.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 51
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/52.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 52
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/50.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 50
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 64
+}

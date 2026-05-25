@@ -1,0 +1,384 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 25,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U tom umrije Samuilo i sabra se sav Izrailj, i plakaše za njim, i pogreboše ga u domu njegovu u Rami. A David usta i siðe u pustinju Faransku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A bijaše jedan èovjek u Maonu, a stoka mu bijaše na Karmilu; i bijaše èovjek vrlo bogat, jer imaše tri tisuæe ovaca i tisuæu koza, i tada strizijaše ovce svoje na Karmilu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I bješe ime tomu èovjeku Naval, a ženi mu ime Avigeja; i ona bijaše žena razumna i lijepa, a on bijaše tvrda srca i opak, a bijaše od roda Halevova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I David èu u pustinji da Naval striže ovce."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I posla David deset momaka, i reèe David momcima: idite na Karmil, i otidite k Navalu, i pozdravite ga od mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I recite mu: zdravo! i mir da ti je, i domu tvojemu da je mir, i svemu što imaš da je mir!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Èuo sam da strižeš ovce; pastiri su tvoji bivali kod nas, i ne uèinismo im nepravde, i ništa im nije nestalo dokle god bijahu na Karmilu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Pitaj sluge svoje, i kazaæe ti. Neka ovi momci naðu milost pred tobom, jer doðosmo u dobar dan. Daj slugama svojim i Davidu sinu svojemu što ti doðe do ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I doðoše momci Davidovi, i kazaše Navalu u ime Davidovo sve ove rijeèi, i umuèaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Naval odgovori slugama Davidovijem i reèe: ko je David? i ko je sin Jesejev? Danas ima mnogo sluga koje bježe od svojih gospodara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Eda li æu uzeti hljeb svoj i vodu svoju i meso što sam poklao za ljude koji mi strigu ovce, pa dati ljudima kojih ne znam odakle su?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada se vratiše momci Davidovi svojim putem, vratiše se, i došavši kazaše mu sve ove rijeèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A David reèe svojim ljudima: pripašite svaki svoj maè. I pripasaše svaki svoj maè, i David pripasa svoj maè; i poðe za Davidom do èetiri stotine ljudi, a dvjesta ostaše kod prtljaga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ali Avigeji ženi Navalovoj kaza jedan izmeðu sluga njegovijeh govoreæi: evo, David posla iz pustinje poslanike da pozdravi gospodara našega, a on ih otjera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A ti su nam ljudi bili vrlo dobri, niti nam uèiniše krivo, niti nam èega nesta dokle god bijasmo kod njih u polju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Nego nam bijahu zidovi i noæu i danju, dokle god bijasmo kod njih pasuæi ovce."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Zato sada gledaj i promisli šta æeš èiniti, jer je gotovo zlo gospodaru našemu i svemu domu njegovu; a on je zao èovjek, da mu se ne može govoriti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Tada Avigeja brže uze dvjesta hljebova i dvije mješine vina i pet ovaca zgotovljenijeh i pet mjerica pržena žita, i sto grozdova suhoga grožða i dvjesta gruda suhih smokava, i metnu na magarce."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I reèe momcima svojim: hajdete naprijed, a ja æu iæi za vama. A mužu svojemu Navalu ništa ne reèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I sjedavši na magarca iðaše ispod gore, a gle, David i ljudi njegovi slažahu pred nju, i sukobi se s njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A David govoraše: ele sam zaludu èuvao sve što je taj imao u pustinji da mu ništa ne bješe nestalo od svega što ima; jer mi vrati zlo za dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "To neka uèini Bog neprijateljima Davidovijem i to neka doda, ako mu do zore od svega što ima ostavim i ono što mokri uza zid."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A kad Avigeja ugleda Davida, brže siðe s magarca, i pade pred Davidom na lice svoje i pokloni se do zemlje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I padnuvši mu k nogama reèe: na meni, gospodaru, neka bude ta krivica; ali da progovori sluškinja tvoja tebi, i èuj rijeèi sluškinje svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Neka gospodar moj ne gleda na toga nevaljaloga èovjeka, Navala, jer je kao ime što mu je; Naval mu je ime, i bezumlje je kod njega. A ja sluškinja tvoja nijesam vidjela momaka gospodara svojega, koje si slao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Zato sada, gospodaru, tako živ bio Gospod i tako živa bila duša tvoja, Gospod ti ne da da ideš na krv i da se osvetiš svojom rukom. Zato sada neka bude neprijateljima tvojim kao Navalu i svjema koji traže zla gospodaru mojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Evo dar što je donijela sluškinja gospodaru svojemu, da se da momcima koji idu za gospodarom mojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Oprosti sluškinji svojoj krivicu; jer æe Gospod zacijelo naèiniti tvrdu kuæu gospodaru mojemu; jer ratove Gospodnje vodi gospodar moj i nije se našlo zlo na tebi nikad tvoga vijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I da ustane èovjek da te goni i traži dušu tvoju, duša æe gospodara mojega biti vezana u svežnju živijeh kod Gospoda Boga tvojega, a duše æe neprijatelja tvojih baciti kao iz praæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I kad Gospod uèini gospodaru mojemu svako dobro koje ti je obrekao, i postavi te voðem Izrailju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Neæe ti biti spoticanja ni sablazni srcu gospodara mojega da je prolio krv ni za što i da se sam osvetio gospodar moj. I kad uèini Gospod dobro gospodaru mojemu, opomenuæeš se sluškinje svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Tada reèe David Avigeji: da je blagosloven Gospod Bog Izrailjev, koji te danas posla meni na susret!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I da su blagoslovene rijeèi tvoje, i ti da si blagoslovena, koja me odvrati danas da ne idem na krv i osvetim se svojom rukom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Doista, tako živ bio Gospod Bog Izrailjev, koji mi ne dade da ti uèinim zlo, da mi nijesi brže izašla na susret, ne bi ostalo Navalu do zore ni ono što uza zid mokri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I primi David iz ruke njezine što mu bješe donijela, i reèe joj: idi s mirom kuæi svojoj; eto, poslušah te, i pogledah na te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Potom se Avigeja vrati k Navalu; a gle, kod njega gozba u kuæi, kao carska gozba, i srce Navalu bješe veselo, i bijaše pijan vrlo. Zato mu ona ne reèe ništa do jutra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A ujutru, kad se Naval otrijezni, kaza mu žena sve ovo; a u njemu obamrije srce njegovo, i on posta kao kamen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A kad proðe do deset dana, udari Gospod Navala, te umrije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A kad David èu da je umro Naval, reèe: da je blagosloven Gospod, koji osveti sramotu moju od Navala, i zadrža slugu svojega oda zla, a obrati Gospod Navalu na glavu zloæu njegovu. Potom posla David i poruèi Avigeji da æe je uzeti za ženu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I sluge Davidove doðoše k Avigeji na Karmil, i rekoše joj govoreæi: David nas posla k tebi da te uzme za ženu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A ona usta i pokloni se licem do zemlje, i reèe: evo sluškinje tvoje, da služi i da pere noge slugama gospodara svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Potom brže usta Avigeja, i sjede na magarca, i pet djevojaka njezinijeh poðe za njom, i otide za poslanicima Davidovijem, i posta mu žena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "A David uze i Ahinoamu iz Jezraela, i obje mu bjehu žene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Jer Saul dade Mihalu kæer svoju, ženu Davidovu, Faltiju sinu Laisovu iz Galima."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/25.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 25
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/26.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 26
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/24.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 24
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 44
+}

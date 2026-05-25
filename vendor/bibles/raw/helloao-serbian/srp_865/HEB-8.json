@@ -1,0 +1,167 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "HEB",
+    "translationId": "srp_865",
+    "name": "Jevrejima",
+    "commonName": "Jevrejima",
+    "title": "Poslanica Jevrejima",
+    "order": 58,
+    "numberOfChapters": 13,
+    "sha256": "dd0af6a7bfa1e81c89f066ec55bf573f0bd87cd93a901a2b8a825a622650c258",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/HEB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "HEB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 13,
+    "lastChapterApiLink": "/api/srp_865/HEB/13.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "HEB",
+      "chapter": 13
+    },
+    "totalNumberOfVerses": 303
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A ovo je glava od toga što govorimo: imamo takovoga poglavara sveštenièkoga koji sjede s desne strane prijestola velièine na nebesima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Koji je sluga svetinjama i istinitoj skiniji, koju naèini Gospod, a ne èovjek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer se svaki poglavar sveštenièki postavlja da prinosi dare i žrtve; zato valja da i ovaj što ima što æe prinijeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer da je na zemlji, ne bi bio sveštenik, kad imaju sveštenici koji prinose dare po zakonu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Koji služe oblièju i sjenu nebeskijeh stvari, kao što bi reèeno Mojsiju kad šæaše skiniju da naèini: gledaj, reèe, da naèiniš sve po prilici koja ti je pokazana na gori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A sad dobi bolju službu, kao što je i posrednik boljega zavjeta, koji se na boljijem obeæanjima utvrdi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer da je onaj prvi bez mane bio, ne bi se drugome tražilo mjesta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer kudeæi ih govori: evo dani idu, govori Gospod, i naèiniæu s domom Izrailjevijem i s domom Judinijem nov zavjet;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ne po zavjetu koji naèinih s ocevima njihovima u onaj dan kad ih uzeh za ruku da ih izvedem iz zemlje Misirske; jer oni ne ostaše u zavjetu mome, i ja ne marih za njih, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer je ovo zavjet koji æu naèiniti s domom Izrailjevijem poslije onijeh dana, govori Gospod: daæu zakone svoje u misli njihove, i na srcima njihovima napisaæu ih, i biæu im Bog, i oni æe biti meni narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I nijedan neæe uèiti svojega bližnjega, i nijedan brata svojega, govoreæi: poznaj Gospoda; jer æe me svi poznati od maloga do velikoga meðu njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer æu biti milostiv nepravdama njihovima, i grijeha njihovijeh i bezakonja njihovijeh neæu više spominjati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A kad veli: nov zavjet, prvi naèini vethijem; a što je vetho i ostarjelo, blizu je kraja."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/HEB/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/HEB/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/HEB/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 13
+}

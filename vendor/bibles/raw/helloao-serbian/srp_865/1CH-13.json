@@ -1,0 +1,174 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "srp_865",
+    "name": "1. Dnevnika",
+    "commonName": "1. Dnevnika",
+    "title": "1. Dnevnika",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "8ea0acc08b93472f39af29d769974347b255ab628ab40782b4687010563cbf90",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 29,
+    "lastChapterApiLink": "/api/srp_865/1CH/29.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 29
+    },
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I David uèini vijeæe s tisuænicima i sa stotinicima i sa svijem vojvodama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I reèe David svemu zboru Izrailjevu: ako vam je po volji, i ako je od Gospoda Boga našega, da pošaljemo na sve strane k braæi svojoj ostaloj po svijem krajevima Izrailjevijem, i k sveštenicima i Levitima po gradovima i podgraðima njihovijem, da se skupe k nama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Pa da donesemo k sebi kovèeg Boga svojega, jer ga ne tražismo za vremena Saulova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A sav zbor reèe da se tako uèini, jer to bi po volji svemu narodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I tako David sabra sav narod Izrailjev od Sihora Misirskoga dori do Emata, da donesu kovèeg Božji iz Kirijat-Jarima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I otide David sa svijem Izrailjem u Valu, u Kirijat-Jarim Judin, da prenesu odande kovèeg Boga Gospoda, koji sjedi na heruvimima, èije se ime prizivlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I povezoše kovèeg Božji na novijem kolima iz kuæe Avinadavove; a Uza i Ahijo upravljahu kolima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A David i sav narod Izrailjev igrahu pred Bogom iz sve snage pjevajuæi i udarajuæi u gusle i u psaltire i u bubnje i u kimvale i trubeæi u trube."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A kad doðoše do gumna Hidonova, Uza se maši rukom da prihvati kovèeg, jer volovi potegoše na stranu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I Gospod se razgnjevi na Uzu, i udari ga što se maši rukom za kovèeg, te umrije ondje pred Bogom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I ožalosti se David što Gospod ubi Uzu: zato se prozva ono mjesto Fares-Uza do danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I uplaši se David od Boga u onaj dan, i reèe: kako æu donijeti k sebi kovèeg Božji?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I ne prenese David kovèega k sebi u grad Davidov, nego ga skloni u kuæu Ovid-Edoma Getejina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I osta kovèeg Božji kod porodice Ovid-Edomove u kuæi njegovoj tri mjeseca. I Gospod blagoslovi dom Ovid-Edomov i sve što imaše."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CH/13.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 13
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CH/14.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 14
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CH/12.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 12
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 14
+}

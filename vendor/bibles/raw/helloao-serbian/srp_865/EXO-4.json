@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Mojsije odgovori i reèe: ali neæe mi vjerovati ni poslušati glasa mojega; jer æe reæi: nije ti se Gospod javio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A Gospod mu reèe: šta ti je to u ruci? A on odgovori: štap."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Bog mu reèe: baci ga na zemlju. I baci ga na zemlju, a on posta zmija. I Mojsije pobježe od nje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A Gospod reèe Mojsiju: pruži ruku svoju, pa je uhvati za rep. I pruži ruku svoju, i uhvati je, i opet posta štap u ruci njegovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "To uèini, reèe Bog, da vjeruju da ti se javio Gospod Bog otaca njihovijeh, Bog Avramov, Bog Isakov i Bog Jakovljev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I opet mu reèe Gospod: turi sada ruku svoju u njedra svoja. I on turi ruku svoju u njedra svoja; a kad je izvadi iz njedara, a to ruka mu gubava, bijela kao snijeg."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Bog mu reèe: turi opet ruku svoju u njedra svoja. I opet turi ruku svoju u njedra svoja; a kad je izvadi iz njedara, a to opet postala kao i ostalo tijelo njegovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tako, reèe Bog, ako ti ne uzvjeruju i ne poslušaju glasa tvojega za prvi znak, poslušaæe za drugi znak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ako li ne uzvjeruju ni za ta dva znaka i ne poslušaju glasa tvojega, a ti zahvati vode iz rijeke, i prolij na zemlju, i pretvoriæe se voda koju zahvatiš iz rijeke, i provræi æe se u krv na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Mojsije reèe Gospodu: molim ti se, Gospode, nijesam rjeèit èovjek, niti sam prije bio niti sam otkako si progovorio sa slugom svojim, nego sam sporijeh usta i spora jezika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Gospod mu reèe: ko je dao usta èovjeku? ili ko može stvoriti nijema ili gluha ili okata ili slijepa? zar ne ja, Gospod?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Idi dakle, ja æu biti s ustima tvojim, i uèiæu te šta æeš govoriti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Mojsije reèe: molim te, Gospode, pošlji onoga koga treba da pošlješ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I razgnjevi se Gospod na Mojsija, i reèe mu: nije li ti brat Aron Levit? znam da je on rjeèit; i evo on æe te sresti, i kad te vidi obradovaæe se u srcu svojem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Njemu æeš kazati i metnuæeš ove rijeèi u usta njegova, i ja æu biti s tvojim ustima i s njegovijem ustima, i uèiæu vas šta æete èiniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I on æe mjesto tebe govoriti narodu, i on æe biti tebi mjesto usta a ti æeš biti njemu mjesto Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A taj štap uzmi u ruku svoju, njim æeš èiniti èudesa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I otide Mojsije, i vrati se k Jotoru tastu svojemu, i reèe mu: pusti me da idem, da se vratim k braæi svojoj u Misiru, da vidim jesu li jošte u životu. I reèe Jotor Mojsiju: idi s mirom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I reèe Gospod Mojsiju u zemlji Madijamskoj: idi, vrati se u Misir, jer su pomrli svi koji su tražili dušu tvoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I uze Mojsije ženu svoju i sinove svoje, i posadi ih na magarca, i poðe natrag u zemlju Misirsku. I uze Mojsije štap Božji u ruku svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I reèe Gospod Mojsiju: kad otideš i vratiš se u Misir, gledaj da uèiniš pred Faraonom sva èudesa koja ti metnuh u ruku: a ja æu uèiniti da mu otvrdne srce i ne pusti naroda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A ti æeš reæi Faraonu: ovako kaže Gospod: Izrailj je sin moj, prvenac moj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I kazah ti: pusti sina mojega da mi posluži. A ti ga ne htje pustiti; evo ja æu ubiti sina tvojega, prvenca tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I kad bijaše na putu u gostionici, doðe k njemu Gospod i šæaše da ga ubije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A Sefora uze oštar nož, i obreza sina svojega, i okrajak baci k nogama njegovijem govoreæi: ti si mi krvav zaruènik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Tada ga ostavi Gospod; a ona radi obrezanja reèe: krvav zaruènik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A Gospod reèe Aronu: izidi u pustinju na susret Mojsiju. I otide i srete ga na gori Božijoj, i poljubi ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I Mojsije kaza Aronu sve rijeèi Gospodnje, za koje ga posla, i sve znake koje mu zapovjedi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I otidoše Mojsije i Aron, i skupiše sve starješine sinova Izrailjevijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I Aron kaza sve rijeèi, koje bješe rekao Gospod Mojsiju, a Mojsije uèini znake pred narodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I narod vjerova; i razumješe da je Gospod pohodio sinove Izrailjeve i vidio nevolju njihovu; i savivši se pokloniše se."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

@@ -1,0 +1,454 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "srp_865",
+    "name": "Brojevi",
+    "commonName": "Brojevi",
+    "title": "Brojevi",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "5dc73b8a174fd63cb58a0932611fd5816a865be2dae8658fc6051a7a529e9415",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NUM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/NUM/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Još reèe Gospod Mojsiju u pustinji Sinajskoj u šatoru od sastanka prvi dan drugoga mjeseca druge godine po izlasku njihovu iz zemlje Misirske, govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Izbrojte sav zbor sinova Izrailjevih po porodicama njihovijem i po domovima otaca njihovijeh i po imenima njihovijem, sve muškinje, glavu po glavu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Od dvadeset godina i više, sve koji mogu iæi na vojsku u Izrailju, izbrojte ih po èetama njihovijem ti i Aron;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I s vama neka bude po jedan èovjek od svakoga plemena, koji je poglavar u domu otaca svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A ovo su imena ljudi koji æe biti s vama: od plemena Ruvimova Elisur sin Sedijurov;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Od Simeunova Salamilo sin Surisadejev;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Od Judina Nason sin Aminadavov;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Od Isaharova Natanailo sin Sogarov;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Od Zavulonova Elijav sin Helonov;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Od sinova Josifovijeh: od plemena Jefremova Elisama sin Emijudov; od Manasijina Gamalilo sin Fadasurov;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Od Venijaminova Avidan sin Gadeonijev;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Od Danova Ahijezer sin Amisadajev;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Od Asirova Fagailo sin Ehranov;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Od Gadova Elisaf sin Raguilov;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Od Neftalimova Ahirej sin Enanov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "To su koji se sazivahu na zbor, knezovi u plemenima otaca svojih, tisuænici Izrailjevi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I uze Mojsije i Aron te ljude, koji biše imenovani."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I sabraše sav zbor prvi dan drugoga mjeseca, i prepisaše ih po porodicama njihovijem i po domovima otaca njihovijeh i po imenima njihovijem od dvadeset godina i više, glavu po glavu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Kako bješe Gospod zapovjedio Mojsiju, tako ih izbroji u pustinji Sinajskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I bješe sinova prvenca Izrailjeva Ruvima, roda njihova po porodicama njihovijem i po domovima otaca njihovijeh, kad se izbroji po imenima s glave na glavu sve muškinje od dvadeset godina i više, što mogaše iæi na vojsku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Bješe ih izbrojenijeh od plemena Ruvimova èetrdeset i šest tisuæa i pet stotina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Sinova Simeunovijeh, roda njihova po porodicama njihovijem i po domovima otaca njihovijeh, kad se izbroji po imenima s glave na glavu sve muškinje od dvadeset godina i više, što mogaše iæi na vojsku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Bješe ih izbrojenijeh od plemena Simeunova pedeset i devet tisuæa i tri stotine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Sinova Gadovijeh, roda njihova po porodicama njihovijem i po domovima otaca njihovijeh, kad se izbrojiše po imenima od dvadeset godina i više svi što mogahu iæi na vojsku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Bješe ih izbrojenijeh od plemena Gadova èetrdeset i pet tisuæa, šest stotina i pedeset."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Sinova Judinijeh, roda njihova po porodicama njihovijem i po domovima otaca njihovijeh, kad se izbrojiše po imenima od dvadeset godina i više svi što mogahu iæi na vojsku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Bješe ih izbrojenijeh od plemena Judina sedamdeset i èetiri tisuæe i šest stotina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Sinova Isaharovijeh, roda njihova po porodicama njihovijem i po domovima otaca njihovijeh, kad se izbrojiše po imenima od dvadeset godina i više svi što mogahu iæi na vojsku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Bješe ih izbrojenijeh od plemena Isaharova pedeset i èetiri tisuæe i èetiri stotine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Sinova Zavulonovijeh, roda njihova po porodicama njihovijem i po domovima otaca njihovijeh, kad se izbrojiše po imenima od dvadeset godina i više svi što mogahu iæi na vojsku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Bješe ih izbrojenijeh od plemena Zavulonova pedeset i sedam tisuæa i èetiri stotine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Od sinova Josifovijeh: sinova Jefremovijeh, roda njihova po porodicama njihovijem i po domovima otaca njihovijeh, kad se izbrojiše po imenima od dvadeset godina i više svi što mogahu iæi na vojsku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Bješe ih izbrojenijeh od plemena Jefremova èetrdeset tisuæa i pet stotina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Sinova Manasijinih, roda njihova po porodicama njihovijem i po domovima otaca njihovijeh, kad se izbrojiše po imenima od dvadeset godina i više svi što mogahu iæi na vojsku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Bješe ih izbrojenijeh od plemena Manasijina trideset i dvije tisuæe i dvjesta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Sinova Venijaminovijeh, roda njihova po porodicama njihovijem i po domovima otaca njihovijeh, kad se izbrojiše po imenima od dvadeset godina i više svi što mogahu iæi na vojsku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Bješe ih izbrojenijeh od plemena Venijaminova trideset i pet tisuæa i èetiri stotine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Sinova Danovijeh, roda njihova po porodicama njihovijem i po domovima otaca njihovijeh, kad se izbrojiše po imenima od dvadeset godina i više svi što mogahu iæi na vojsku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Bješe ih izbrojenijeh od plemena Danova šezdeset i dvije tisuæe i sedam stotina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Sinova Asirovijeh, roda njihova po porodicama njihovijem i po domovima otaca njihovijeh, kad se izbrojiše po imenima od dvadeset godina i više svi što mogahu iæi na vojsku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Bješe ih izbrojenijeh od plemena Asirova èetrdeset i jedna tisuæa i pet stotina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Sinova Neftalimovijeh, roda njihova po porodicama njihovijem i po domovima otaca njihovijeh, kad se izbrojiše po imenima od dvadeset godina i više svi što mogahu iæi na vojsku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Bješe ih izbrojenijeh od plemena Neftalimova pedeset i tri tisuæe i èetiri stotine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Ovo su oni koje Mojsije i Aron izbrojiše s knezovima Izrailjskim, s dvanaest ljudi, koji bijahu po jedan za svaki dom otaca svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "I svega bješe sinova Izrailjevijeh izbrojenijeh po domovima otaca svojih od dvadeset godina i više, svijeh što mogahu iæi na vojsku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Bješe ih izbrojenijeh šest stotina i tri tisuæe i pet stotina i pedeset."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Ali Leviti po plemenu otaca svojih ne biše brojeni meðu njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Jer Gospod reèe Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Plemena Levijeva nemoj brojati, niti broja njihova sastaviti sa sinovima Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Nego postavi Levite nad šatorom od svjedoèanstva i nad svijem posuðem u njemu i nad svijem što pripada njemu; oni neka nose šator i sve posuðe njegovo, neka služe u njemu, i staju oko šatora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "I kad se šator krene, neka ga slože Leviti; i kad šator stane, onda neka ga razapnu Leviti. A ko bi drugi pristupio, da se pogubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "I sinovi Izrailjevi neka staju svaki u svom okolu i svaki kod svoje zastave po èetama svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "A Leviti neka staju oko šatora od svjedoèanstva, da ne doðe gnjev na zbor sinova Izrailjevijeh; i neka Leviti rade što treba oko šatora od svjedoèanstva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "I uèiniše sinovi Izrailjevi kako Gospod zapovjedi, sve tako uèiniše."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NUM/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NUM/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/27.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 27
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 54
+}

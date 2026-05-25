@@ -1,0 +1,391 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MRK",
+    "translationId": "srp_865",
+    "name": "Marku",
+    "commonName": "Marku",
+    "title": "Jevanðelje po Marku",
+    "order": 41,
+    "numberOfChapters": 16,
+    "sha256": "c4e35f7fe68e45b5731573fc03ca93f2cb48eea346a1b1abc79ae9266aa9bd92",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MRK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MRK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/MRK/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MRK",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 678
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Poèetak jevanðelja Isusa Hrista sina Božijega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kao što stoji u proroka: evo ja šaljem anðela svojega pred licem tvojijem, koji æe pripraviti put tvoj pred tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Glas onoga što vièe u pustinji: pripravite put Gospodnji, poravnite staze njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Pojavi se Jovan krsteæi u pustinji, i propovijedajuæi krštenje pokajanja za oproštenje grijeha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I izlažaše k njemu sva Judejska zemlja i Jerusalimljani; i kršæavaše ih sve u Jordanu rijeci, i ispovijedahu grijehe svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A Jovan bijaše obuèen u kamilju dlaku, i imaše pojas kožan oko sebe; i jeðaše skakavce i med divlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I propovijedaše govoreæi: ide za mnom jaèi od mene, pred kim ja nijesam dostojan sagnuti se i odriješiti remena na obuæi njegovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ja vas kršæavam vodom, a on æe vas krstiti Duhom svetijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I u to vrijeme doðe Isus iz Nazareta Galilejskoga, i krsti ga Jovan u Jordanu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I odmah izlazeæi iz vode vidje nebo gdje se otvori, i Duh kao golub siðe na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I glas doðe s neba: ti si sin moj ljubazni koji je po mojoj volji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I odmah Duh izvede ga u pustinju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I bi ondje u pustinji dana èetrdeset, i kuša ga sotona, i bi sa zvjerinjem, i anðeli služahu mu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A pošto predadoše Jovana, doðe Isus u Galileju propovijedajuæi jevanðelje o carstvu Božijemu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I govoreæi: iziðe vrijeme i približi se carstvo Božije; pokajte se i vjerujte jevanðelje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I hodeæi pokraj mora vidje Simona, i Andriju brata njegova gdje bacaju mreže u more; jer bijahu ribari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I reèe im Isus: hajdete za mnom, i uèiniæu vas lovcima ljudskijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I odmah ostavivši mreže svoje poðoše za njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I otišavši malo odande ugleda Jakova Zevedejeva, i Jovana brata njegova, i oni u laði krpljahu mreže;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I odmah pozva ih; i ostavivši oca svojega Zevedeja u laði s najamnicima poðoše za njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I doðoše u Kapernaum; i odmah u subotu ušavši u zbornicu uèaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I divljahu se nauci njegovoj; jer ih uèaše kao onaj koji vlast ima a ne kao književnici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I bijaše u zbornici njihovoj èovjek s duhom neèistijem, i povika"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Govoreæi: proði se, što je tebi do nas, Isuse Nazareæanine? Došao si da nas pogubiš? Znam te ko si, svetac Božij."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I zaprijeti mu Isus govoreæi: umukni, i iziði iz njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I strese ga duh neèisti, i povika iza glasa, i iziðe iz njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I uplašiše se svi tako da pitahu jedan drugoga govoreæi: šta je ovo? i kakva je ovo nauka nova, da s vlasti i duhovima neèistijem zapovijeda, i slušaju ga?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I otide glas o njemu odmah po svoj okolini Galilejskoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I odmah izišavši iz zbornice doðoše u dom Simonov i Andrijin s Jakovom i Jovanom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A tašta Simonova ležaše od groznice; i odmah kazaše mu za nju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I pristupivši podiže je uzevši je za ruku i pusti je groznica odmah, i služaše im."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A kad bi pred veèe, pošto sunce zaðe, donošahu k njemu sve bolesnike i bijesne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I sav grad bijaše se sabrao k vratima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I iscijeli mnoge bolesnike od razliènijeh bolesti, i ðavole mnoge istjera, i ne dadijaše ðavolima da kazuju da ga poznavahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A ujutru vrlo rano ustavši iziðe, i otide nasamo, i ondje se moljaše Bogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I za njim potrèaše Simon i koji bijahu s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I našavši ga rekoše mu: traže te svi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I reèe im: hajdemo u obližnja sela i gradove da i tamo propovjedim: jer sam ja na to došao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I propovijeda po zbornicama njihovijem po svoj Galileji, i ðavole izgoni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I doðe k njemu gubavac moleæi ga i na koljenima kleèeæi pred njim i reèe mu: ako hoæeš, možeš me oèistiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A Isus smilovavši se pruži ruku, i dohvativši ga se reèe mu: hoæu, oèisti se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I tek što mu to reèe, a guba otide s njega, i osta èist."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I zaprijetivši mu odmah istjera ga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "I reèe mu: gledaj da nikome ništa ne kažeš, nego idi te se pokaži svešteniku, i prinesi za oèišæenje svoje što je zapovjedio Mojsije za svjedoèanstvo njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "A on izišavši poèe mnogo propovijedati i kazivati šta je bilo tako da Isus ne može javno u grad uæi, nego bijaše napolju u pustijem mjestima, i dolažahu k njemu sa sviju strana."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MRK/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MRK/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAT/28.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 28
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 45
+}

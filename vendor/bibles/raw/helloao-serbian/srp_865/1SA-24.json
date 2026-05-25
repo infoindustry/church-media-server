@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 24,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A David otišavši odande stade na tvrdijem mjestima Engadskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I kad se Saul vrati odagnavši Filisteje, rekoše mu govoreæi: eno Davida u pustinji Engadskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Tada uze Saul tri tisuæe ljudi izabranijeh iz svega Izrailja, i otide da traži Davida i ljude njegove po vrletima gdje su divokoze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I doðe k torovima ovèijim ukraj puta gdje bijaše peæina; i Saul uðe u nju rad sebe; a David i njegovi ljudi sjeðahu u kraju u peæini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I rekoše Davidu ljudi njegovi: evo dana, za koji ti reèe Gospod: evo ja ti predajem neprijatelja tvojega u ruke da uèiniš s njim što ti je volja. I David usta, te polako otsijeèe skut od plašta Saulova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A poslije zadrhta srce Davidu što otsijeèe skut Saulu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I reèe svojim ljudima: ne dao Bog da to uèinim gospodaru svojemu, pomazaniku Gospodnjemu, da podignem ruku svoju na nj. Jer je pomazanik Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I odvrati rijeèima David ljude svoje i ne dade im da ustanu na Saula. I Saul izašav iz peæine poðe svojim putem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Potom David usta, i izašav iz peæine stade vikati za Saulom govoreæi: care gospodine! A Saul se obazre, a David se savi licem do zemlje i pokloni se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I reèe David Saulu: zašto slušaš što ti kažu ljudi koji govore: eto David traži zlo tvoje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Evo, danas vidješe oèi tvoje da te je Gospod bio predao danas u moje ruke u ovoj peæini, i rekoše mi da te ubijem: ali te poštedjeh, i rekoh: neæu dignuti ruke svoje na gospodara svojega, jer je pomazanik Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Evo, oèe moj, evo vidi skut od plašta svojega u mojoj ruci; otsjekoh skut od plašta tvojega, a tebe ne ubih; poznaj i vidi da nema zla ni nepravde u ruci mojoj, i da ti nijesam zgriješio; a ti vrebaš dušu moju da je uzmeš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Gospod neka sudi izmeðu mene i tebe, i neka me osveti od tebe; ali ruka se moja neæe podignuti na te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Kako kaže stara prièa: od bezbožnijeh izlazi bezbožnost; zato se ruka moja neæe podignuti na te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Za kim je izašao car Izrailjev? koga goniš? mrtva psa, buhu jednu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Gospod neka bude sudija, i neka rasudi izmeðu mene i tebe; on neka vidi i raspravi moju parnicu i izbavi me iz ruke tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A kad izgovori David ove rijeèi Saulu, reèe Saul: je li to tvoj glas, sine Davide? I podigavši Saul glas svoj zaplaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I reèe Davidu: praviji si od mene, jer si mi vratio dobro za zlo koje sam ja tebi uèinio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I danas si mi pokazao da mi dobro èiniš; jer me Gospod dade tebi u ruke, a ti me opet ne ubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I ko bi našavši neprijatelja svojega pustio ga da ide dobrijem putem? Gospod neka ti vrati dobro za ovo što si mi uèinio danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I sada, evo, znam da æeš zacijelo biti car, i jako æe biti u tvojoj ruci carstvo Izrailjevo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Zato mi se sada zakuni Gospodom da neæeš istrijebiti sjemena mojega poslije mene, ni imena mojega zatrti u domu oca mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I zakle se David Saulu; i Saul otide kuæi svojoj, a David i ljudi njegovi otidoše na tvrdo mjesto."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/24.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 24
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/25.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 25
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/23.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 23
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

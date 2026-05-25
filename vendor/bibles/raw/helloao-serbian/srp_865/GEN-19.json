@@ -1,0 +1,342 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 19,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A uveèe doðoše dva anðela u Sodom; a Lot sjeðaše na vratima Sodomskim; i kad ih ugleda, ustade te ih srete, i pokloni se licem do zemlje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I reèe: hodite, gospodo, u kuæu sluge svojega, i prenoæite i operite noge svoje; pa sjutra rano kad ustanete poðite svojim putem. A oni rekoše: ne, nego æemo prenoæiti na ulici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ali on navali na njih, te se uvratiše k njemu i uðoše u kuæu njegovu, i on ih ugosti, i ispeèe hljebova prijesnijeh, i jedoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I još ne bjehu legli, a graðani Sodomljani slegoše se oko kuæe, staro i mlado, sav narod sa svijeh krajeva,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I vikahu Lota i govorahu mu: gdje su ljudi što doðoše sinoæ k tebi? izvedi ih k nama da ih poznamo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A Lot izide k njima pred vrata zatvoriv vrata za sobom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I reèe im: nemojte, braæo, èiniti zla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Evo imam dvije kæeri, koje još ne poznaše èovjeka; njih æu vam izvesti, pa èinite s njima što vam je volja; samo ne dirajte u one ljude, jer su zato ušli pod moj krov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A oni mu rekoše: hodi amo. Pa onda rekoše: ovaj je sam došao amo da živi kao došljak, pa još hoæe da nam sudi; sad æemo tebi uèiniti gore nego njima. Pa navališe jako na èovjeka, na Lota, i stadoše istavljati vrata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A ona dva èovjeka digoše ruke, i uvukoše Lota k sebi u kuæu, i zatvoriše vrata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A ljudi što bijahu pred vratima kuænim ujedanput oslijepiše od najmanjega do najveæega, te ne mogahu naæi vrata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada ona dva èovjeka rekoše Lotu: ako imaš ovdje još koga svoga, ili zeta ili sina ili kæer, ili koga god svoga u ovom gradu, gledaj nek idu odavde;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer hoæemo da zatremo mjesto ovo, jer je vika njihova velika pred Gospodom, pa nas posla Gospod da ga zatremo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I izide Lot, i kaza zetovima svojim, za koje šæaše dati kæeri svoje, i reèe im: ustajte, idite iz mjesta ovoga, jer æe sada zatrti Gospod grad ovaj. Ali se zetovima njegovijem uèini da se šali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A kad zora zabijelje, navališe anðeli na Lota govoreæi: ustani, uzmi ženu svoju i dvije kæeri svoje koje su tu, da ne pogineš u bezakonju grada toga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A on se stade šèinjati, te ljudi uzeše za ruku njega i ženu njegovu i dvije kæeri njegove, jer ga bješe žao Gospodu, i izvedoše ga i pustiše iza grada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I kad ih izvedoše napolje, reèe jedan: izbavi dušu svoju i ne obziri se natrag, i u cijeloj ovoj ravni da nijesi stao; bježi na ono brdo, da ne pogineš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A Lot im reèe: nemoj, Gospode!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Gle, sluga tvoj naðe milosti pred tobom, i milost je tvoja prevelika koju mi uèini saèuvavši mi život; ali ne mogu uteæi na brdo da me ne stigne zlo i ne poginem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Eno grad blizu; onamo se može uteæi, a mali je; da bježim onamo; ta mali je, te æu ostati živ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A on mu reèe: eto poslušaæu te i zato, i neæu zatrti grada, za koji reèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Brže bježi onamo; jer ne mogu èiniti ništa dokle ne stigneš onamo. Zato se prozva onaj grad Sigor."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I kad sunce ogranu po zemlji, Lot doðe u Sigor."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Tada pusti Gospod na Sodom i na Gomor od Gospoda s neba dažd od sumpora i ognja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I zatr one gradove i svu onu ravan, i sve ljude u gradovima i rod zemaljski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ali žena Lotova bješe se obazrela iduæi za njim, i posta slan kamen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A sjutradan rano ustavši Avram, otide na mjesto gdje je stajao pred Gospodom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I pogleda na Sodom i Gomor i svu okolinu po onoj ravni, i ugleda, a to se dizaše dim od zemlje kao dim iz peæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ali kad Bog zatiraše gradove u onoj ravni, opomenu se Bog Avrama, i izvede Lota iz propasti kad zatr gradove gdje življaše Lot."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A Lot otide iz Sigora, i stani se na onom brdu s dvije kæeri svoje, jer se bojaše ostati u Sigoru; i življaše u peæini s dvije kæeri svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A starija reèe mlaðoj: naš je otac star, a nema nikoga na zemlji da doðe k nama kao što je obièaj po svoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Hajde da damo ocu vina neka se opije, pa da legnemo s njim, eda bismo saèuvale sjeme ocu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I dadoše ocu vina onu noæ; i došavši starija leže s ocem svojim, i on ne osjeti ni kad ona leže ni kad ustade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A sjutradan reèe starija mlaðoj: gle, noæas spavah s ocem svojim. Da mu damo vina i doveèe, pa idi ti i lezi s njim, eda bismo saèuvale sjeme ocu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Pa i to veèe dadoše ocu vina i ustavši mlaða leže s njim, i on ne osjeti ni kad ona leže ni kad ustade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I obje kæeri Lotove zatrudnješe od oca svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I starija rodi sina, i nadjede mu ime Moav; od njega su Moavci do današnjega dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Pa i mlaða rodi sina, i nadjede mu ime Ven-Amije; od njega su Amonci do današnjega dana."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/19.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 19
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/20.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 20
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/18.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 18
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 38
+}

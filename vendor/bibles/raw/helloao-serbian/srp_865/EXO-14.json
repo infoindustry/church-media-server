@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 14,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kaži sinovima Izrailjevijem neka saviju i stanu u oko pred Pi-Airot izmeðu Migdola i mora prema Vel-Sefonu; prema njemu neka stanu u oko pokraj mora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer æe Faraon reæi za sinove Izrailjeve: zašli su u zemlju, zatvorila ih je pustinja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I uèiniæu da otvrdne srce Faraonu, te æe poæi u potjeru za vama, i ja æu se proslaviti na njemu i na svoj vojsci njegovoj, i Misirci æe poznati da sam ja Gospod. I uèiniše tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A kad bi javljeno caru Misirskom da je pobjegao narod, promijeni se srce Faraonovo i sluga njegovijeh prema narodu, te rekoše: šta uèinismo, te pustismo Izrailja da nam ne služi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I upreže u kola svoja, i uze narod svoj sa sobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I uze šest stotina kola izabranih i što još bješe kola Misirskih, i nad svjema vojvode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I Gospod uèini, te otvrdnu srce Faraonu caru Misirskom, i poðe u potjeru za sinovima Izrailjevijem, kad sinovi Izrailjevi otidoše pod rukom visokom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I tjeravši ih Misirci stigoše ih, sva kola Faraonova, konjici njegovi i vojska njegova, kad bjehu u okolu na moru kod Pi-Airota prema Vel-Sefonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I kad se približi Faraon, podigoše sinovi Izrailjevi oèi svoje a to Misirci idu za njima, i uplašiše se vrlo, i povikaše sinovi Izrailjevi ka Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I rekoše Mojsiju: zar ne bješe grobova u Misiru, nego nas dovede da izginemo u pustinji? Šta uèini, te nas izvede iz Misira?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nijesmo li ti govorili u Misiru i rekli: proði nas se, neka služimo Misircima? jer bi nam bolje bilo služiti Misircima nego izginuti u pustinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Mojsije reèe narodu: ne bojte se, stanite pa gledajte kako æe vas Gospod izbaviti danas; jer Misirce koje ste vidjeli danas, neæete ih nigda više vidjeti dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Gospod æe se biti za vas, a vi æete muèati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Gospod reèe Mojsiju: što vièeš k meni? kaži sinovima Izrailjevijem neka idu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A ti digni štap svoj i pruži ruku svoju na more, i rascijepi ga, pa neka idu sinovi Izrailjevi posred mora suhim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I gle, ja æu uèiniti da otvrdne srce Misircima, te æe poæi za njima; i proslaviæu se na Faraonu i na svoj vojsci njegovoj, na kolima njegovijem i na konjicima njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I Misirci æe poznati da sam ja Gospod, kad se proslavim na Faraonu, na kolima njegovijem i na konjicima njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I podiže se anðeo Gospodnji, koji iðaše pred vojskom Izrailjskom, i otide im za leða; i podiže se stup od oblaka ispred njih, i stade im za leða."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "i došav meðu vojsku Misirsku i vojsku Izrailjsku bješe onijem oblak mraèan a ovijem svijetljaše po noæi, te ne pristupiše jedni drugima cijelu noæ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I pruži Mojsije ruku svoju na more, a Gospod uzbi more vjetrom istoènijem, koji jako duvaše cijelu noæ, i osuši more, i voda se rastupi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I poðoše sinovi Izrailjevi posred mora suhim, i voda im stajaše kao zid s desne strane i s lijeve strane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I Misirci tjerajuæi ih poðoše za njima posred mora, svi konji Faraonovi, kola i konjici njegovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A u stražu jutrenju pogleda Gospod na vojsku Misirsku iz stupa od ognja i oblaka, i smete vojsku Misirsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I pozbaca toèkove kolima njihovijem, te ih jedva vucijahu. Tada rekoše Misirci: bježimo od Izrailja, jer se Gospod bije za njih s Misircima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A Gospod reèe Mojsiju: pruži ruku svoju na more, neka se vrati voda na Misirce, na kola njihova i na konjike njihove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I Mojsije pruži ruku svoju na more, i doðe opet more na silu svoju pred zoru, a Misirci nagoše bježati prema moru; i Gospod baci Misirce usred mora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A vrativši se voda potopi kola i konjike sa svom vojskom Faraonovom, što ih god bješe pošlo za njima u more, i ne osta od njih nijedan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I sinovi Izrailjevi iðahu posred mora suhim; i stajaše im voda kao zid s desne strane i s lijeve strane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I izbavi Gospod Izrailja u onaj dan iz ruku Misirskih; i vidje Izrailj mrtve Misirce na brijegu morskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I vidje Izrailj silu veliku, koju pokaza Gospod na Misircima, i narod se poboja Gospoda, i vjerova Gospodu i Mojsiju sluzi njegovu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/14.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 14
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/15.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 15
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/13.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 13
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

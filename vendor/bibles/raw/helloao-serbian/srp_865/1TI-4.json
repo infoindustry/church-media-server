@@ -1,0 +1,188 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1TI",
+    "translationId": "srp_865",
+    "name": "1 Timoteju",
+    "commonName": "1 Timoteju",
+    "title": "1. Timoteju Poslanica",
+    "order": 54,
+    "numberOfChapters": 6,
+    "sha256": "b8a491e7c81c06e14355bb1911b6ea929afb84f88e0ee6399f29f2291857d3c4",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1TI/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1TI",
+      "chapter": 1
+    },
+    "lastChapterNumber": 6,
+    "lastChapterApiLink": "/api/srp_865/1TI/6.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1TI",
+      "chapter": 6
+    },
+    "totalNumberOfVerses": 113
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Duh razgovijetno govori da æe u pošljednja vremena otstupiti neki od vjere slušajuæi lažne duhove i nauke ðavolske,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "U licemjerju laža, žigosanijeh na svojoj savjesti,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Koji zabranjuju ženiti se, i zapovijedaju uzdržavati se od jela koja Bog stvori za jelo sa zahvalnošæu vjernima i onima koji poznaše istinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer je svako stvorenje Božije dobro i ništa nije na odmet kad se prima sa zahvalnošæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer se osveæuje rijeèju Božijom i molitvom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ovo sve kazujuæi braæi biæeš dobar sluga Isusa Hrista, odgajen rijeèima vjere i dobrom naukom koju si primio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A poganijeh i bapskijeh gatalica kloni se; a obuèavaj se u pobožnosti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer tjelesno obuèavanje malo je korisno, a pobožnost je korisna za svašto, imajuæi obeæanje života sadašnjega i onoga koji ide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ovo je istinita rijeè i dostojna svakoga primanja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer se zato i trudimo i bivamo sramotni, jer se uzdamo u Boga živa, koji je spasitelj svima ljudima, a osobito vjernima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ovo zapovijedaj i uèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Niko da ne postane nemarljiv za tvoju mladost; nego budi ugled vjernima u rijeèi, u življenju, u ljubavi, u duhu, u vjeri, u èistoti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Dokle doðem pazi na èitanje, utješavanje i uèenje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ne pusti u nemar dar u sebi koji ti je dan po proroštvu metnuvši starješine ruke na tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "U ovom se pouèavaj, u ovom stoj, da se napredak tvoj pokaže u svemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Pazi na sebe i na nauku, i stoj u tome; jer ovo èineæi spašæeš i samoga sebe i one koji te slušaju."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1TI/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1TI",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1TI/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1TI",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1TI/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1TI",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

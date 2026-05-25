@@ -1,0 +1,188 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "TIT",
+    "translationId": "srp_865",
+    "name": "Titu",
+    "commonName": "Titu",
+    "title": "Poslanica Titu",
+    "order": 56,
+    "numberOfChapters": 3,
+    "sha256": "a38b7bfeb1e916b9dd4ebd4dacaae70b56c0e591ed332c52b3815cee48622435",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/TIT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "TIT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 3,
+    "lastChapterApiLink": "/api/srp_865/TIT/3.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "TIT",
+      "chapter": 3
+    },
+    "totalNumberOfVerses": 46
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Od Pavla, sluge Božijega, a apostola Isusa Hrista po vjeri izbranijeh Božijih, i po poznanju istine pobožnosti,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Za nad vjeènoga života, koji obeæa nelažni Bog prije vremena vjeènijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A javi u vremena svoja rijeè svoju propovijedanjem, koje je meni povjereno po zapovijesti spasitelja našega Boga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Titu, pravome sinu po vjeri nas obojice, blagodat, milost, mir od Boga oca i Gospoda Isusa Hrista, spasa našega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Zato te ostavih u Kritu da popraviš što je nedovršeno, i da postaviš po svijem gradovima sveštenike, kao što ti ja zapovjedih,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ako je ko bez mane, jedne žene muž, i ima vjernu djecu, koju ne kore za kurvarstvo ili za nepokornost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer vladika treba da je bez mane, kao Božij pristav; ne koji sebi ugaða, ne gnjevljiv, ne pijanica, ne bojac, ne lakom na pogani dobitak;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Nego gostoljubiv, blag, pošten, pravedan, svet, èist;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Koji se drži vjerne rijeèi po nauci, da bude kadar i svjetovati sa zdravom naukom, i pokarati one koji se protive."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer ima mnogo neposlušnijeh, praznogovorljivijeh, i umom prevarenijeh, a osobito koji su iz obrezanja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Kojima treba usta zatvoriti; koji cijele kuæe izopaèuju uèeæi što ne treba, poganoga dobitka radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A reèe neko od njih, njihov prorok: Kriæani svagda lažljivi, zli zvjerovi, besposleni trbusi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Svjedoèanstvo je ovo istinito; zaradi toga uzroka karaj ih bez šteðenja, da budu zdravi u vjeri,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ne slušajuæi Jevrejskijeh gatalica ni zapovijesti ljudi koji se odvraæaju od istine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Èistima je sve èisto; a poganima i nevjernima ništa nije èisto, nego je opoganjen njihov i um i savjest."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Govore da poznaju Boga, a djelima ga se odrièu; jer su mrski i neposlušni, i ni za kakvo dobro djelo valjani."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/TIT/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "TIT",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/TIT/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "TIT",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2TI/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2TI",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

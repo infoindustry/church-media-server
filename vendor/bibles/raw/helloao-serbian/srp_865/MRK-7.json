@@ -1,0 +1,335 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MRK",
+    "translationId": "srp_865",
+    "name": "Marku",
+    "commonName": "Marku",
+    "title": "Jevanðelje po Marku",
+    "order": 41,
+    "numberOfChapters": 16,
+    "sha256": "c4e35f7fe68e45b5731573fc03ca93f2cb48eea346a1b1abc79ae9266aa9bd92",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MRK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MRK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/MRK/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MRK",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 678
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I skupiše se oko njega fariseji i neki od književnika koji bijahu došli iz Jerusalima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I vidjevši neke od uèenika njegovijeh da neèistijem, to jest neumivenijem, rukama jedu hljeb, ukoriše ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer fariseji i svi Jevreji ne jedu dok ne umiju ruku do lakata, držeæi se onoga što im je ostalo od starijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I kad doðu s pazara, ne jedu dok se ne umiju; i još mnogo ima što su primili te drže: peru èaše i žbanove i kotlove i klupe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A potom pitahu ga fariseji i književnici: zašto uèenici tvoji ne žive kao što nam je ostalo od starijeh, nego jedu hljeb neumivenijem rukama?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A on odgovarajuæi reèe im: dobro je prorokovao Isaija za vas licemjere, kao što je pisano: ovi ljudi usnama me poštuju, a srce njihovo daleko stoji od mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "No zaludu me poštuju uèeæi naukama, zapovijestima ljudskijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer ostaviste zapovijesti Božije, a držite obièaje ljudske, pranje žbanova i èaša; i druga mnoga takova èinite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I reèe im: dobro ukidate zapovijest Božiju da svoj obièaj saèuvate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer Mojsije reèe: poštuj oca svojega i mater svoju; i: koji opsuje oca ili mater smræu da umre."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A vi kažete: ako reèe èovjek ocu ili materi: korvan, to jest: prilog je èim bih ti ja mogao pomoæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I tako ne date mu ništa uèiniti ocu svojemu ili materi svojoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ukidajuæi rijeè Božiju svojijem obièajem koji ste postavili; i ovako mnogo koješta èinite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I dozvavši sav narod reèe im: poslušajte mene svi, i razumijte."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ništa nema što bi èovjeka moglo opoganiti da uðe spolja u njega, nego što izlazi iz njega ono je što pogani èovjeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ako ko ima uši da èuje neka èuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I kad doðe od naroda u kuæu pitahu ga uèenici njegovi za prièu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I reèe im: zar ste i vi tako nerazumni? Ne razumijete li da što god u èovjeka spolja ulazi ne može ga opoganiti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer mu ne ulazi u srce nego u trbuh; i izlazi napolje èisteæi sva jela."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Još reèe: što izlazi iz èovjeka ono pogani èovjeka;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer iznutra iz srca ljudskoga izlaze misli zle, preljube, kurvarstva, ubistva,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Kraðe, lakomstva, pakosti, zloæe, lukavstvo, sramote, zlo oko, huljenje na Boga, ponos, bezumlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Sva ova zla iznutra izlaze, i pogane èovjeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I ustavši odande otide na krajeve Tirske i Sidonske, i ušavši u kuæu šæadijaše da niko ne èuje za nj; i ne može se sakriti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Jer èuvši za nj žena što u njezinoj kæeri bijaše duh neèisti, doðe i pade k nogama njegovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A žena ta bijaše Grkinja rodom Sirofinièanka, i moljaše ga da istjera ðavola iz kæeri njezine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A Isus reèe joj: stani da se najprije djeca nahrane; jer nije pravo uzeti hljeb od djece i baciti psima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A ona odgovarajuæi reèe mu: da, Gospode; ali i psi pod trpezom jedu od mrva djetinjijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I reèe joj: za tu rijeè idi; iziðe ðavo iz kæeri tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I došavši kuæi naðe da je ðavo izišao, i kæi ležaše na odru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I opet iziðe Isus iz krajeva Tirskijeh i Sidonskijeh i doðe na more Galilejsko u krajeve Desetogradske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I dovedoše k njemu gluha i mutava, i moljahu ga da metne na nj ruku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I uzevši ga iz naroda nasamo metnu prste svoje u uši njegove, i pljunuvši dohvati se jezika njegova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I pogledavši na nebo uzdahnu, i reèe mu: Efata, to jest: otvori se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I odmah mu se otvoriše uši, i razdriješi se sveza jezika njegova, i govoraše lijepo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I zaprijeti im da nikome ne kazuju; ali što im on zabranjivaše oni još veæma razglašivahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I vrlo se divljahu govoreæi: sve dobro èini; i gluhe èini da èuju i nijeme da govore."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MRK/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MRK/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MRK/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 37
+}

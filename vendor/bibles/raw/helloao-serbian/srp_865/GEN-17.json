@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad Avramu bi devedeset i devet godina, javi mu se Gospod i reèe mu: ja sam Bog svemoguæi, po mojoj volji živi i budi pošten."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I uèiniæu zavjet izmeðu sebe i tebe, i vrlo æu te umnožiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Avram pade nièice. I Gospod mu još govori i reèe:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Od mene evo zavjet moj s tobom da æeš biti otac mnogim narodima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Zato se više neæeš zvati Avram, nego æe ti ime biti Avraam, jer sam te uèinio ocem mnogih naroda;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Daæu ti porodicu vrlo veliku, i naèiniæu od tebe narode mnoge, i carevi æe izaæi od tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A postavljam zavjet svoj izmeðu sebe i tebe i sjemena tvojega nakon tebe od koljena do koljena, da je zavjet vjeèan, da sam Bog tebi i sjemenu tvojemu nakon tebe;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I daæu tebi i sjemenu tvojemu nakon tebe zemlju u kojoj si došljak, svu zemlju Hanansku u državu vjeènu, i biæu im Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I reèe Bog Avramu: ti pak drži zavjet moj, ti i sjeme tvoje nakon tebe od koljena do koljena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A ovo je zavjet moj izmeðu mene i vas i sjemena tvojega nakon tebe, koji æete držati: da se obrezuje izmeðu vas sve muškinje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A obrezivaæete okrajak tijela svojega, da bude znak zavjeta izmeðu mene i vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Svako muško dijete kad mu bude osam dana da se obrezuje od koljena do koljena, rodilo se u kuæi ili bilo kupljeno za novce od kojih god stranaca, koje ne bude od sjemena tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Da se obrezuje koje se rodi u kuæi tvojoj i koje se kupi za novce tvoje; tako æe biti zavjet moj na tijelu vašem zavjet vjeèan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A neobrezano muško, kojemu se ne obreže okrajak tijela njegova, da se istrijebi iz naroda svojega, jer pokvari zavjet moj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I još reèe Bog Avramu: a Saru ženu svoju ne zovi je više Sara nego neka joj bude ime Sara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I ja æu je blagosloviti, i daæu ti sina od nje; blagosloviæu je, i biæe mati mnogim narodima, i carevi narodima izaæi æe od nje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tada pade Avram nièice, i nasmija se govoreæi u srcu svojem: eda æe se èovjeku od sto godina roditi sin? i Sari? eda æe žena od devedeset godina roditi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I Avram reèe Bogu: neka živ bude Ismailo pred tobom!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I reèe Bog: zaista Sara žena tvoja rodiæe ti sina, i nadjeæeš mu ime Isak; i postaviæu zavjet svoj s njim da bude zavjet vjeèan sjemenu njegovu nakon njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A i za Ismaila uslišio sam te; evo blagoslovio sam ga, i daæu mu porodicu veliku, i umnožiæu ga veoma; i rodiæe dvanaest knezova, i uèiniæu od njega velik narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A zavjet svoj uèiniæu s Isakom kad ti ga rodi Sara, do godine u ovo doba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I Bog izgovorivši otide od Avrama gore."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I Avram uze Ismaila sina svojega i sve koji se rodiše u domu njegovu i koje god bješe kupio za svoje novce, sve muškinje od domaæih svojih; i obreza okrajak tijela njihova u isti dan, kao što mu kaza Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A bješe Avramu devedeset i devet godina kad obreza okrajak tijela svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A Ismailu sinu njegovu bješe trinaest godina kad mu se obreza okrajak tijela njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "U jedan dan obreza se Avram i sin mu Ismailo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I svi domašnji njegovi, roðeni u kuæi i kupljeni za novce od stranaca, biše obrezani s njim."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/17.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 17
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/18.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 18
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/16.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 16
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "srp_865",
+    "name": "2. Dnevnika",
+    "commonName": "2. Dnevnika",
+    "title": "2. Dnevnika",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "712160a45a7d7fb40ad6e8f55f27c6bc71cf3a3fca70d89afd22674733ec70a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/2CH/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 26,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada sav narod Judin uze Oziju, kome bijaše šesnaest godina, i zacariše ga na mjesto oca njegova Amasije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "On sazida Elot povrativ ga Judi pošto car poèinu kod otaca svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Oziji bijaše šesnaest godina kad se zacari, i carova pedeset i dvije godine u Jerusalimu. Materi mu bijaše ime Jeholija iz Jerusalima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "On èinjaše što je pravo pred Gospodom sasvijem kako je èinio Amasija otac njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I tražaše Boga dokle živ bijaše Zaharija koji razumijevaše utvare Božije; i dokle god tražaše Gospoda, davaše mu sreæu Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer izašav vojevaše s Filistejima, i obori zidove Gatu i zidove Javni i zidove Azotu; i sazida gradove u zemlji Azotskoj i po Filistejima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I Bog mu pomože protiv Filisteja i protiv Arapa, koji življahu u Gurvalu, i protiv Maonaca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I Amonci davahu dare Oziji, i raznese se ime njegovo do Misira, jer osili veoma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I sazida Ozija kule u Jerusalimu na vratima na uglu, i na vratima u dolu, i na uglu, i utvrdi ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Sazida i u pustinji kule, i iskopa mnogo studenaca, jer imaše mnogo stoke i u dolinama i u ravnicama, i ratara i vinogradara po brdima i na Karmilu, jer mu mila bješe poljska radnja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I imaše Ozija ubojitu vojsku, koja iðaše u rat u èetama brojem, kako ih izbroji Jeilo pisar i Masija upravitelj, pod upravom Ananije vojvode careva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Svega na broj bijaše glavara domova otaèkih hrabrijeh junaka dvije tisuæe i šest stotina,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A pod njihovom rukom vojske tri stotine i sedam tisuæa i pet stotina hrabrijeh vojnika, da pomažu caru protiv neprijatelja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I naèini Ozija svoj vojsci štitove i koplja i šljemove i oklope i lukove i kamenje za praæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I naèini u Jerusalimu bojne sprave vrlo vješto izmišljene da stoje na kulama i na uglovima da meæu strijele i veliko kamenje; i raznese se ime njegovo daleko, jer mu se divno pomagaše dokle osili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ali kad osili, ponese se srce njegovo, te se pokvari, i sagriješi Gospodu Bogu svojemu, jer uðe u crkvu Gospodnju da kadi na oltaru kadionom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A za njim uðe Azarija sveštenik i s njim osamdeset sveštenika Gospodnjih hrabrijeh ljudi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I opriješe se caru Oziji govoreæi: nije tvoje, Ozija, kaditi Gospodu, nego sveštenika sinova Aronovijeh koji su posveæeni da kade; izidi iz svetinje, jer si zgriješio, i neæe ti biti na èast pred Gospodom Bogom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tada se razgnjevi Ozija držeæi u ruci kadionicu da kadi; i kad se gnjevljaše na sveštenike, izide mu guba na èelu pred svijem sveštenicima u domu Gospodnjem kod oltara kadionoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I pogleda ga Azarija poglavar sveštenièki i svi sveštenici, a on gubav na èelu; i brže ga izvedoše napolje, a i sam pohitje da izide, jer ga Gospod udari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I osta car Ozija gubav do smrti svoje, i sjeðaše u odvojenom domu gubav, jer bi odluèen od doma Gospodnjega; a Jotam sin njegov upravljaše domom carevijem i suðaše narodu u zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A ostala djela Ozijina prva i pošljednja napisao je prorok Isaija sin Amosov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I poèinu Ozija kod otaca svojih, i pogreboše ga kod otaca njegovijeh u grobnom polju carskom, jer rekoše: gubav je. I zacari se na njegovo mjesto Jotam sin njegov."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CH/26.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 26
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CH/27.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 27
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CH/25.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 25
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

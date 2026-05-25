@@ -1,0 +1,244 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "REV",
+    "translationId": "srp_865",
+    "name": "Apokalipsa",
+    "commonName": "Apokalipsa",
+    "title": "Otkrivenje Jovanovo — Apokalipsa",
+    "order": 66,
+    "numberOfChapters": 22,
+    "sha256": "03ca27b48572b751a11a8d2525edcfa3d35a43f752bf5506e16685bb264b5230",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/REV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 22,
+    "lastChapterApiLink": "/api/srp_865/REV/22.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 22
+    },
+    "totalNumberOfVerses": 404
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I poslije ovoga vidjeh drugoga anðela gdje silazi s neba, koji imaše oblast veliku; i zemlja se zasvijetli od slave njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I povika jakijem glasom govoreæi: pade, pade Vavilon veliki, i posta stan ðavolima, i tamnica svakome duhu neèistome, i tamnica sviju ptica neèistijeh i mrskijeh; jer otrovnijem vinom kurvarstva svojega napoji sve narode;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I carevi zemaljski s njom se kurvaše, i trgovci zemaljski obogatiše se od bogatstva slasti njezine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I èuh glas drugi s neba koji govori: iziðite iz nje, narode moj, da se ne pomiješate u grijehe njezine, i da vam ne naude zla njezina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer grijesi njezini dopriješe tja do neba, i Bog se opomenu nepravde njezine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Platite joj kao što i ona plati vama, i podajte joj dvojinom onoliko po djelima njezinima: kojom èašom zahvati vama zahvatajte joj po dva puta onoliko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Koliko se proslavi i nasladi toliko joj podajte muka i žalosti; jer govori u srcu svojemu: sjedim kao carica, i nijesam udovica, i žalosti neæu vidjeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Zato æe u jedan dan doæi zla njezina: smrt i plaè i glad, i sažeæi æe se ognjem; jer je jak Gospod Bog koji joj sudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I zaplakaæe i zajaukati za njom carevi zemaljski koji se s njom kurvaše i bjesniše, kad vide dim gorenja njezina,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Izdaleka stojeæi od straha muka njezinijeh i govoreæi: jaoh! jaoh! grade veliki Vavilone, grade tvrdi, jer u jedan èas doðe sud tvoj!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I trgovci zemaljski zaplakaæe i zajaukati za njom, što njihovijeh tovara niko više ne kupuje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tovara zlata i srebra i kamenja dragoga i bisera i uzvoda i porfire i svile i skerleta, i svakoga mirisnog drveta, i svakojakijeh sudova od fildiša, i svakojakijeh sudova od najskupljega drveta, mjedi i gvožða i mermera,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I cimeta i tamjana i mira i livana, i vina i ulja, i nišesteta i pšenice, i goveda i ovaca, i konja i kola, i tjelesa i duša èovjeèijih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I voæa želja duše tvoje otidoše od tebe, i sve što je masno i dobro otide od tebe, i više ga neæeš naæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Trgovci koji se ovijem tovarima obogatiše od nje, staæe izdaleka od straha muèenja njezina, plaèuæi i jauèuæi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I govoreæi: jaoh! jaoh! grade veliki, obuèeni u svilu i porfiru i skerlet, i nakiæeni zlatom i kamenjem dragijem i biserom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer u jedan èas pogibe toliko bogatstvo! I svi gospodari od laða, i sav narod u laðama, i laðari, i koji god rade na moru, stadoše izdaleka,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I vikahu, vidjevši dim gorenja njezina, i govorahu: ko je bio kao ovaj grad veliki?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I baciše prah na glave svoje, i povikaše plaèuæi i ridajuæi, govoreæi: jaoh! jaoh! grade veliki, u kome se obogatiše svi koji imaju laðe na moru od bogatstva njegova, jer u jedan èas opustje!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Veseli se nad njim nebo, i sveti apostoli i proroci, jer Bog pokaja sud vaš na njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I uze jedan anðeo jak kamen veliki, kao kamen vodenièni, i baci u more govoreæi: tako æe sa hukom biti baèen Vavilon grad veliki, i neæe se više naæi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I glas gudaèa i pjevaèa i sviraèa i trubaèa neæe se više èuti u tebi; i nikakav majstor ni od kakva zanata neæe se više naæi u tebi, i huka kamenja vodeniènoga neæe se èuti u tebi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I vidjelo žiška neæe se više svijetliti u tebi, i glas ženika i neveste neæe više biti èuven u tebi; jer trgovci tvoji bijahu boljari zemaljski, jer tvojijem èaranjem prevareni biše svi narodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I u njemu se naðe krv proroèka i svetijeh, i sviju koji su pobijeni na zemlji."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/REV/18.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 18
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/REV/19.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 19
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/REV/17.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 17
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 24
+}

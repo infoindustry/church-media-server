@@ -1,0 +1,342 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 25,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Rijeè koja doðe Jeremiji za sav narod Judin èetvrte godine Joakima sina Josijina cara Judina, a to je prva godina Navuhodonosora cara Vavilonskoga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Koju reèe Jeremija prorok svemu narodu Judinu i svijem stanovnicima Jerusalimskim, govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Od trinaeste godine Josije sina Amonova cara Judina do danas, za ove dvadeset i tri godine, dolazi mi rijeè Gospodnja i govorih vam zarana jednako, ali ne poslušaste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I sla vam Gospod sve sluge svoje proroke zarana jednako, ali ne poslušaste, niti prignuste uha svojega da biste èuli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I govorahu: vratite se svaki sa svojega puta zloga i od zloæe djela svojih, pa æete ostati u zemlji koju dade Gospod vama i ocima vašim od vijeka do vijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I ne idite za drugim bogovima da im služite i da im se klanjate, i ne gnjevite me djelom ruku svojih, i neæu vam uèiniti zla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ali me ne poslušaste, govori Gospod, nego me gnjeviste djelom ruku svojih na svoje zlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Zato ovako veli Gospod nad vojskama: što ne poslušaste mojih rijeèi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Evo, ja æu poslati po sve narode sjeverne, govori Gospod, i po Navuhodonosora cara Vavilonskoga slugu svojega, i dovešæu ih na tu zemlju i na stanovnike njezine, i na sve te narode okolne, koje æu zatrti, i uèiniæu da budu èudo i potsmijeh i pustoš vjeèna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I uèiniæu da nestane meðu njima glasa radosna i glasa vesela, glasa ženikova i glasa nevjestina, lupe od žrvanja i svjetlosti od žiška."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I sva æe ta zemlja biti pustoš i èudo, i ti æe narodi služiti caru Vavilonskom sedamdeset godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A kad se navrši sedamdeset godina, onda æu pohoditi cara Vavilonskoga i onaj narod, govori Gospod, za bezakonje njihovo, i zemlju Haldejsku, i obratiæu je u pustoš vjeènu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I pustiæu na tu zemlju sve što sam govorio o njoj, sve što je napisano u ovoj knjizi, što prorokova Jeremija za sve narode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer æe veliki narodi i silni carevi i njih pokoriti; tada æu im platiti po djelima njihovijem i po onom što su èinili rukama svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer ovako mi reèe Gospod Bog Izrailjev: uzmi iz moje ruke èašu vina, ovoga gnjeva, i napoj iz nje sve narode ka kojima te ja pošljem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Neka piju i smetu se i polude od oštroga maèa koji æu ja poslati meðu njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I uzeh èašu iz ruke Gospodu, i napojih sve te narode, ka kojima me posla Gospod:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jerusalim i gradove Judine i careve njegove i knezove njegove, da budu pustoš i èudo i potsmijeh i uklin, kao što je danas,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Faraona cara Misirskoga i sluge njegove i knezove njegove i sav narod njegov,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I svu mješavinu, i sve careve zemlje Uza, sve careve zemlje Filistejske, i Askalon i Gazu i Akaron i ostatak od Azota,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Edomce i Moavce i sinove Amonove,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I sve careve Tirske i sve careve Sidonske i careve na ostrvima preko mora,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Dedana i Temu i Vuza, i sve koji se s kraja strigu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I sve careve Arapske i sve careve od mješavine koji žive u pustinji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I sve careve Zimrijske, i sve careve Elamske, i sve careve Midske,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I sve careve sjeverne, koji su blizu i koji su daleko, kako jednoga tako drugoga, i sva carstva zemaljska što su po zemlji; a car Sisaški piæe poslije njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I reci im: ovako veli Gospod nad vojskama Bog Izrailjev: pijte i opijte se, i bljujte i padajte, da ne ustanete od maèa koji æu pustiti meðu vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ako li ne bi htjeli uzeti èaše iz ruke tvoje da piju, tada im reci: ovako veli Gospod nad vojskama: zaista æete piti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Jer evo poèinjem puštati zlo na grad koji se naziva mojim imenom, a vi li æete ostati bez kara? neæete ostati bez kara, jer æu dozvati maè na sve stanovnike zemaljske, govori Gospod nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ti dakle prorokuj im sve ove rijeèi i reci im: Gospod æe s visine riknuti, i iz stana svetinje svoje pustiæe glas svoj, silno æe riknuti iz stana svojega, kao oni što gaze grožðe podignuæe viku na sve stanovnike zemaljske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Proæi æe graja do kraja zemlje, jer raspru ima Gospod s narodima, sudi se sa svakim tijelom, bezbožnike æe dati pod maè, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ovako veli Gospod nad vojskama: evo, nevolja æe poæi od naroda do naroda, i velik æe se vihor podignuti od krajeva zemaljskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I u onaj æe dan biti od kraja do kraja zemlje pobijeni od Gospoda, neæe biti oplakani, niti æe se pokupiti i pogrepsti, biæe gnoj po zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ridajte, pastiri, i vièite i valjajte se po prahu, glavari stadu, jer se navršiše vaši dani da budete poklani, i da se razaspete, i pašæete kao skupocjen sud."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I neæe biti utoèišta pastirima, ni izbavljenja glavarima od stada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Vikaæe pastiri i ridaæe glavari od stada, jer æe potrti Gospod pašu njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I razvaliæe se mirni torovi od žestokoga gnjeva Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Kao laviæ ostavio je šator svoj, jer æe zemlja njihova opustjeti od žestine nasilnikove i od ljutoga gnjeva njegova."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/25.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 25
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/26.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 26
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/24.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 24
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 38
+}

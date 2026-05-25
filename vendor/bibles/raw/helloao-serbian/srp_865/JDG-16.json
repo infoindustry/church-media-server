@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JDG",
+    "translationId": "srp_865",
+    "name": "Sudije",
+    "commonName": "Sudije",
+    "title": "Sudije",
+    "order": 7,
+    "numberOfChapters": 21,
+    "sha256": "b90b96d9ad07648b61c3175adb672cbdc04a1a389be225dc4596659462d0e4db",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JDG/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JDG/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 618
+  },
+  "chapter": {
+    "number": 16,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Potom otide Samson u Gazu, i ondje vidje jednu ženu kurvu, i uðe k njoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I ljudima u Gazi bi kazano: doðe Samson ovamo. I opkoliše i vrebaše ga cijelu noæ na vratima gradskim; i stajahu u potaji cijelu noæ govoreæi: dok svane, ubiæemo ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ali Samson spavav do ponoæi usta u ponoæi, i šèepa vrata gradska s oba dovratka i išèupa ih s prijevornicom zajedno, i metnu ih na ramena i odnese navrh gore koja je prema Hevronu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Poslije toga zamilova djevojku na potoku Soriku, kojoj bješe ime Dalida."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I doðoše k njoj knezovi Filistejski i rekoše joj: prevari ga i iskušaj gdje mu stoji velika snaga i kako bismo mu dosadili da ga svežemo i svladamo; a mi æemo ti dati svaki po tisuæu i sto srebrnika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I Dalida reèe Samsonu: hajde kaži mi gdje stoji tvoja velika snaga i èim bi se mogao svezati i svladati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Samson joj reèe: da me svežu u sedam gužava sirovijeh neosušenijeh, onda bih izgubio snagu i bio kao i drugi èovjek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I donesoše joj knezovi Filistejski sedam gužava sirovijeh, još neosušenijeh, i ona ga sveza njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A kod nje bijaše zasjeda u sobi; i ona mu reèe: eto Filisteja na te, Samsone! A on pokida gužve, kao što se kida konac od kudjelje kad osjeti vatru; i ne dozna se za snagu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Potom reèe Dalida Samsonu: gle, prevario si me, i slagao si mi; nego hajde kaži mi èim bi se mogao svezati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A on joj reèe: da me dobro svežu novim užima kojima nije ništa raðeno, tada bih izgubio snagu i bio bih kao drugi èovjek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I Dalida uze nova uža, i sveza ga njima, pak mu reèe: eto Filisteja na te, Samsone! A zasjeda bijaše u sobi. A on raskide s ruku uža kao konac."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada reèe Dalida Samsonu: jednako me varaš i lažeš mi; kaži mi èim bi se mogao svezati? A on joj reèe: da sedam pramena kose na glavi mojoj priviješ na vratilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I ona zaglavivši vratilo kocem, reèe: evo Filisteja na te, Samsone! A on se probudi od sna, i istrže kolac i osnovu i vratilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Opet mu ona reèe: kako možeš govoriti: ljubim te, kad srce tvoje nije kod mene? Veæ si me tri puta prevario ne hoteæi mi kazati gdje ti je velika snaga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I ona mu dosaðivaše svojim rijeèima svaki dan i navaljivaše na nj, i duša mu prenemože da umre,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Te joj otvori cijelo srce svoje, i reèe joj: britva nije nikad prešla preko glave moje, jer sam nazirej Božji od utrobe matere svoje; da se obrijem, ostavila bi me snaga moja i oslabio bih, i bio bih kao svaki èovjek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A Dalida videæi da joj je otvorio cijelo srce svoje, posla i pozva knezove Filistejske poruèivši im: hodite sada, jer mi je otvorio cijelo srce svoje. Tada doðoše knezovi Filistejski k njoj i donesoše novce u rukama svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A ona ga uspava na krilu svojem, i dozva èovjeka te mu obrija sedam pramena kose s glave, i ona ga prva svlada kad ga ostavi snaga njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I ona reèe: eto Filisteja na te, Samsone! A on probudiv se od sna reèe: izaæi æu kao i prije i oteæu se. Jer ne znadijaše da je Gospod otstupio od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tada ga uhvatiše Filisteji, i iskopaše mu oèi, i odvedoše ga u Gazu i okovaše ga u dvoje verige mjedene; i meljaše u tamnici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A kosa na glavi njegovoj poèe rasti kao što je bila kad ga obrijaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I knezovi Filistejski skupiše se da prinesu veliku žrtvu Dagonu bogu svojemu, i da se provesele; pa rekoše: predade nam bog naš u ruke naše Samsona neprijatelja našega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Takoðer i narod vidjevši ga hvaljaše boga svojega govoreæi: predade nam bog naš u ruke naše neprijatelja našega i zatiraèa zemlje naše i koji pobi tolike izmeðu nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I kad se razveseli srce njihovo rekoše: zovite Samsona da nam igra. I dozvaše Samsona iz tamnice da im igra, i namjestiše ga meðu dva stupa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Tada Samson reèe momku koji ga držaše za ruku: pusti me, da opipam stupove na kojima stoji kuæa, da se naslonim na njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A kuæa bijaše puna ljudi i žena i svi knezovi Filistejski bijahu ondje; i na krovu bijaše oko tri tisuæe ljudi i žena, koji gledahu kako Samson igra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Tada Samson zavapi ka Gospodu i reèe: Gospode, Gospode! opomeni me se, molim te, i ukrijepi me, molim te, samo sada, o Bože! da se osvetim jedanput Filistejima za oba oka svoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I zagrli Samson dva stupa srednja, na kojima stajaše kuæa, i nasloni se na njih, na jedan desnom a na drugi lijevom rukom svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Pa onda reèe Samson: neka umrem s Filistejima. I naleže jako, i pade kuæa na knezove i na sav narod koji bješe u njoj; i bi mrtvijeh koje pobi umiruæi više nego onijeh koje pobi za života svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Poslije doðoše braæa njegova i sav dom oca njegova, i uzeše ga, i vrativši se pogreboše ga izmeðu Saraje i Estaola u grobu Manoja oca njegova. A on bi sudija Izrailju dvadeset godina."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JDG/16.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 16
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JDG/17.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 17
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JDG/15.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 15
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

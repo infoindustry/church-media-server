@@ -1,0 +1,279 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2SA",
+    "translationId": "srp_865",
+    "name": "2. Samuelova",
+    "commonName": "2. Samuelova",
+    "title": "2. Samuelova",
+    "order": 10,
+    "numberOfChapters": 24,
+    "sha256": "e9bcfc863ad7bd2a939eb305126ad735f393202a88f773ac55550249ed219529",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/2SA/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 695
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Još reèe Ahitofel Avesalomu: da odaberem dvanaest tisuæa ljudi, pa da idem i tjeram Davida noæas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Pa æu ga stignuti dok je umoran i iznemoglijeh ruku; i uplašiæu ga, te æe pobjeæi sav narod što je s njim, pa æu ubiti cara samoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I obratiæu sav narod k tebi; jer za onijem koga tražiš stoji da se svi vrate k tebi; tada æe se sav narod umiriti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I to se uèini dobro Avesalomu i svijem starješinama Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ali reèe Avesalom: dozovite i Husaja Arhijanina da èujemo što æe i on reæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A kad doðe Husaj k Avesalomu, reèe mu Avesalom govoreæi: tako i tako reèe Ahitofel; hoæemo li èiniti kako on reèe ili neæemo? kaži ti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Husaj reèe Avesalomu: nije dobar svjet što je sada svjetovao Ahitofel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Još reèe Husaj: ti znaš oca svojega i ljude njegove da su hrabri i da su ljuta srca kao medvjedica kad joj otmu medvjediæe u polju; svrh toga, tvoj je otac ratnik, neæe noæiti s narodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Gle, on se je sada sakrio u kaku jamu ili na drugo kako mjesto. Pa ako u prvi mah koji od ovijeh poginu, ko god èuje svaki æe reæi: pobijen je narod koji prista za Avesalomom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A tada æe najhrabriji, u kojih je srce kao srce lavovo, klonuti. Jer sav Izrailj zna da je tvoj otac junak i da su hrabri koji su s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zato ja svjetujem da skupiš k sebi sve Izrailjce od Dana do Virsaveje da ih bude kao pijeska na moru, pa ti glavom idi u boj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada æemo poæi na nj, gdje bi se god nalazio, i napašæemo na nj kao što rosa pada na zemlju, da mu ne ostane nijedan od svijeh ljudi što su s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ako li uteèe u grad, sav narod Izrailjski neka donese uža pod onaj grad, pa æemo ga svuæi u potok, da se ni kamen ne naðe ondje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Tada reèe Avesalom i svi Izrailjci: bolji je svjet Husaja Arhijanina nego svjet Ahitofelov. Jer Gospod bješe naredio da se razbije svjet Ahitofelov, koji bješe bolji, da bi Gospod navukao zlo na Avesaloma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Potom reèe Husaj sveštenicima Sadoku i Avijataru: tako i tako svjetova Ahitofel Avesaloma i starješine Izrailjeve, a ja svjetovah tako i tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Nego brže pošljite, te javite Davidu i recite: nemoj noæas noæiti u polju u pustinji, nego prijeði prijeko, da ne bude proždrt car i sav narod što je s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A Jonatan i Ahimas stajahu kod studenca Rogila, i doðe jedna sluškinja i kaza im, da bi otišli te javili caru Davidu; jer se ne smijahu pokazati ni uæi u grad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ali ih vidje jedan momak, te kaza Avesalomu; a oni obojica brže otidoše, i doðoše u Vaurim u kuæu jednoga èovjeka, koji imaše na dvoru studenac, te se spustiše u nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I žena uze i razastrije ponjavu povrh studenca, i povrh nje razasu prekrupu. I tako se ne dozna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer doðoše sluge Avesalomove k onoj ženi u kuæu, i rekoše joj: gdje je Ahimas i Jonatan? A žena im reèe: otidoše preko potoka. Tako traživši i ne našavši vratiše se u Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A kad otidoše, oni ižljezoše iz studenca, i otidoše te javiše caru Davidu, i rekoše mu: ustanite i prijeðite brže preko vode; jer je tako i tako svjetovao Ahitofel na vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Tada usta David i sav narod što bijaše s njim, i prijeðoše preko Jordana prije zore, ne osta nijedan da ne prijeðe preko Jordana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ahitofel pak videæi gdje se ne uèini kako on svjetova, osedla svojega magarca, pa se podiže i otide kuæi svojoj, u svoj grad, i naredivši za svoju kuæu objesi se te umrije, i bi pogreben u grobu oca svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A David doðe u Mahanajim; Avesalom pak prijeðe preko Jordana i sav Izrailj što bješe s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I postavi Avesalom Amasu nad vojskom, na mjesto Joavovo; a Amasa bješe sin nekoga èovjeka po imenu Itre Izrailjca, koji obleža Avigeju kæer Nasovu, sestru Seruje matere Joavove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I stade u oko Izrailj s Avesalomom u zemlji Galadovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A kad doðe David u Mahanajim, Sovije sin Nasov iz Rave sinova Amonovijeh i Mahir sin Amilov iz Lodevara i Varzelaj od Galada iz Rogelima"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Donesoše postelje i èaša i sudova zemljanijeh i pšenice i jeèma i brašna i prekrupe i boba i leæa i prženijeh zrna,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I meda i masla i ovaca i sira kravljega; donesoše Davidu i narodu što bješe s njim da jedu. Jer govorahu: narod je gladan i umoran i žedan u toj pustinji."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2SA/17.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 17
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2SA/18.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 18
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2SA/16.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 16
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

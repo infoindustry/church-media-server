@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ZEC",
+    "translationId": "srp_865",
+    "name": "Zaharija",
+    "commonName": "Zaharija",
+    "title": "Zaharija",
+    "order": 38,
+    "numberOfChapters": 14,
+    "sha256": "8d31bf129645529bbf86e696983cf67d27bb2c635d0ea09244c13074734b3eef",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ZEC/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ZEC",
+      "chapter": 1
+    },
+    "lastChapterNumber": 14,
+    "lastChapterApiLink": "/api/srp_865/ZEC/14.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ZEC",
+      "chapter": 14
+    },
+    "totalNumberOfVerses": 211
+  },
+  "chapter": {
+    "number": 14,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Evo ide dan Gospodnji, i plijen æe se tvoj razdijeliti usred tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer æu skupiti sve narode na Jerusalim u boj, i grad æe se uzeti, i kuæe oplijeniti i žene osramotiti, i polovina æe grada otiæi u ropstvo, a ostali narod neæe se istrijebiti iz grada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer æe Gospod izaæi, i vojevaæe na narode kao što vojuje na dan kad je boj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I noge æe njegove stati u taj dan na gori Maslinskoj koja je prema Jerusalimu s istoka, i gora æe se Maslinska raspasti po srijedi na istok i na zapad da æe biti prodol vrlo velika, i polovina æe gore ustupiti na sjever a polovina na jug."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I bježaæete u prodol gorsku, jer æe prodol gorska dopirati do Asala, i bježaæete kao što bježaste od trusa u vrijeme Ozije cara Judina; i doæi æe Gospod Bog moj, i svi æe sveti biti s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I u taj dan neæe biti vidjelo svijetlo i mraèno;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nego æe biti jedan dan, koji je poznat Gospodu, neæe biti dan i noæ, jer æe i uveèe biti svjetlost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I u taj æe dan proteæi iz Jerusalima voda živa, pola k istoènom moru a pola k zapadnom moru, i biæe i ljeti i zimi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I Gospod æe biti car nad svom zemljom, u onaj dan biæe Gospod jedan i ime njegovo jedno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I sva æe se zemlja pretvoriti u ravnicu od Gavaje do Rimona s juga Jerusalimu, koji æe se podignuti i naseliti na svom mjestu od vrata Venijaminovijeh do mjesta gdje su prva vrata, do vrata na uglu, i od kule Ananeilove do tijeska careva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I oni æe nastavati u njemu, i neæe više biti prokletstva, i Jerusalim æe stajati bez straha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A ovo æe biti zlo kojim æe Gospod udariti sve narode koji bi vojevali na Jerusalim: tijelo æe svakom posahnuti dok još stoji na nogu, i oèi æe svakom posahnuti u rupama svojim, i jezik æe svakom posahnuti u ustima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I u to æe vrijeme biti velika smetnja meðu njima od Gospoda, i hvataæe jedan drugoga za ruku, i ruka æe se jednoga podignuti na ruku drugoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A i Juda æe vojevati na Jerusalim, i blago svijeh naroda unaokolo sabraæe se, zlato i srebro i odijelo vrlo mnogo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I zlo kao to zlo snaæi æe konje, mazge, kamile i magarce i svu stoku koja bude u tom okolu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I ko god ostane od svijeh naroda koji doðu na Jerusalim, svak æe dolaziti od godine do godine da se pokloni caru Gospodu nad vojskama i da praznuje praznik sjenica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I ako koji od plemena zemaljskih ne bi došli u Jerusalim da se poklone caru Gospodu nad vojskama, na njih neæe biti dažda;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I ako se pleme Misirsko ne bi podiglo i došlo, na koje ne daždi, biæe isto zlo kojim æe Gospod udariti narode koji ne bi dolazili da praznuju praznik sjenica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Taki æe biti grijeh Misircima i grijeh svijem narodima koji ne bi dolazili da praznuju praznik sjenica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "U taj æe dan biti na zvoncima konjskim: svetinja Gospodu; i lonci æe u domu Gospodnjem biti kao zdjele pred oltarom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I svi æe lonci u Jerusalimu i u Judi biti svetinja Gospodu nad vojskama, i svi koji hoæe da prinesu žrtvu dolazeæi uzimaæe ih i kuhati u njima; i u taj dan neæe više biti Hananejca u domu Gospoda nad vojskama."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ZEC/14.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEC",
+    "chapter": 14
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAL/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAL",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ZEC/13.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEC",
+    "chapter": 13
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

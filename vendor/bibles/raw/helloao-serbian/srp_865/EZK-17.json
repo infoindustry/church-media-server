@@ -1,0 +1,244 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Opet mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Sine èovjeèji, zagoneni zagonetku i kaži prièu o domu Izrailjevu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reci: ovako veli Gospod Gospod: orao velik, velikih krila, dugih pera, pun perja, šaren, doðe na Livan i uze vrh od kedra,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Odlomi vrh od mladijeh grana njegovijeh, i odnese ga u zemlju trgovaèku, u grad trgovaèki metnu ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I uze sjeme iz one zemlje, i metnu ga na njivu, odnese ga gdje ima mnogo vode, i ostavi ga dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I iznièe, i posta busat èokot, nizak, kojemu se loze pružahu k njemu a žile bijahu pod njim; posta èokot, i pusti grane i izbi odvode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A bijaše drugi orao velik, velikih krila i pernat, i gle, taj èokot pusti k njemu žile svoje i grane svoje pruži k njemu da bi ga zaljevao iz brazda svoga sada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Posaðen bijaše u dobroj zemlji kod mnogo vode, da pusti grane i raða rod i bude krasna loza."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Kaži: ovako veli Gospod Gospod: hoæe li napredovati? neæe li mu poèupati žile i rod mu oblomiti da se posuši? Sve æe mu se grane što je pustio posušiti, i bez velike sile i bez mnogoga naroda išèupaæe ga iz korijena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Eto, posaðen je, hoæe li napredovati? i neæe li se sasvijem posušiti èim ga se dohvati ustoka? Posušiæe se u brazdi gdje je posaðen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Potom doðe mi rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Kaži tome domu odmetnièkom: ne znate li šta je ovo? Reci: evo, doðe car Vavilonski u Jerusalim, i uze mu cara i knezove, i odvede ih sa sobom u Vavilon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I uze jednoga od carskoga sjemena, i uèini s njim vjeru, i zakle ga, i uze silne u zemlji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Da bi carstvo bilo sniženo da se ne bi podiglo, nego da bi držeæi vjeru s njim stajalo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ali se odmetnu od njega poslav poslanike svoje u Misir da mu da konja i mnogo naroda. Hoæe li biti sreæan? hoæe li uteæi ko tako èini? ko prestupa vjeru hoæe li uteæi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tako ja živ bio, govori Gospod Gospod, u mjestu onoga cara koji ga je zacario, kojemu je zakletvu prezreo i kojemu je vjeru prestupio, kod njega æe u Vavilonu umrijeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Niti æe mu Faraon s velikom vojskom i mnogim narodom pomoæi u ratu, kad iskopa opkope i pogradi kule da pogubi mnoge duše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer prezre zakletvu prestupajuæi vjeru; i gle, davši ruku èini sve to; neæe uteæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Zato ovako veli Gospod Gospod: tako ja živ bio, obratiæu mu na glavu zakletvu svoju koju prezre i vjeru svoju koju prestupi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer æu razapeti nad njim mrežu svoju i uhvatiæe se u zamku moju; i odvešæu ga u Vavilon, i ondje æu se suditi s njim za bezakonje koje mi uèini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I sva bježan njegova sa svom vojskom njegovom pašæe od maèa, a koji ostanu raspršaæe se u sve vjetrove, i poznaæete da sam ja Gospod govorio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ovako veli Gospod Gospod: ali æu ja uzeti s vrha od toga visokoga kedra, i posadiæu; s vrha od mladijeh grana njegovijeh odlomiæu granèicu, i posadiæu na gori visokoj i uzdignutoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Na visokoj gori Izrailjevoj posadiæu je, i pustiæe grane, i rodiæe, i postaæe krasan kedar, i pod njim æe nastavati svakojake ptice, u hladu grana njegovijeh nastavaæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I sva æe drveta poljska poznati da ja Gospod snizih visoko drvo i uzvisih nisko drvo, posuših zeleno drvo i uèinih da ozeleni suho drvo. Ja Gospod rekoh, i uèiniæu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/17.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 17
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/18.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 18
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/16.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 16
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 24
+}

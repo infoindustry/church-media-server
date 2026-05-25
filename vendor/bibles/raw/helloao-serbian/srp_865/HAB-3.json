@@ -1,0 +1,209 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "HAB",
+    "translationId": "srp_865",
+    "name": "Avakum",
+    "commonName": "Avakum",
+    "title": "Avakum",
+    "order": 35,
+    "numberOfChapters": 3,
+    "sha256": "c20a4246255927307b8baac3f6346d9b1098ca0c2e46de5cd50d0e26614ae76e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/HAB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "HAB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 3,
+    "lastChapterApiLink": "/api/srp_865/HAB/3.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "HAB",
+      "chapter": 3
+    },
+    "totalNumberOfVerses": 56
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Molitva proroka Avakuma; za pjevanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Gospode, èuh rijeè tvoju, i uplaših se; Gospode, djelo svoje usred godina saèuvaj u životu, usred godina objavi ga, u gnjevu sjeti se milosti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Bog doðe od Temana i svetac s gore Farana; slava njegova pokri nebesa i zemlja se napuni hvale njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Svjetlost mu bijaše kao sunce, zraci izlažahu mu iz ruku, i ondje bješe sakrivena sila njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Pred njim iðaše pomor, i živo ugljevlje iðaše ispod nogu njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Stade, i izmjeri zemlju, pogleda i razmetnu narode, raspadoše se vjeène gore, slegoše se humovi vjeèni; putovi su mu vjeèni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Vidjeh šatore Etiopske u muci, ustreptaše zavjesi zemlji Madijanskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Eda li se na rijeke razgnjevi Gospod? eda li se na rijeke raspali gnjev tvoj? na more jarost tvoja, kad si pojezdio na konjma svojim i na kolima svojim za spasenje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Pomoli se luk tvoj kao što si se zakleo plemenima; razdro si zemlju za rijeke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Vidješe te gore i uzdrktaše, povodanj navali; bezdana pusti glas svoj, uvis podiže ruke svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Sunce i mjesec stadoše u stanu svom, idoše prema svjetlosti tvoje strijele, prema sijevanju sjajnoga koplja tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Srdito si išao po zemlji, gnjevno si gazio narode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Izašao si na spasenje narodu svojemu, na spasenje s pomazanikom svojim; razmrskao si glavu kuæi bezbožnièkoj do vrata otkrivši temelj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Njegovijem kopljima probio si glavu selima njegovijem kad navaljivahu kao vihor da me razaspu, radovahu se kao da æe proždrijeti siromaha u potaji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Išao si po moru na konjma svojim, po gomili mnoge vode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Èuh, i utroba se moja uskoleba, usne mi uzdrktaše na glas, u kosti mi uðe truhlež, i ustresoh se na mjestu svom; kako æu poèivati u dan nevolje, kad doðe na narod koji æe ga opustošiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer smokva neæe cvasti, niti æe biti roda na lozi vinovoj; rod æe maslinov prevariti, i njive neæe dati hrane, ovaca æe nestati iz tora, i goveda neæe biti u oboru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ali æu se ja radovati u Gospodu, veseliæu se u Bogu spasenja svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Gospod je Gospod sila moja, i daæe mi noge kao u košute, i vodiæe me po visinama mojim. Naèelniku pjevaèkom uz žice moje."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/HAB/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "HAB",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ZEP/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEP",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/HAB/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "HAB",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 19
+}

@@ -1,0 +1,188 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Jošte reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kaži Aronu i sinovima njegovijem i svijem sinovima Izrailjevim, i reci im: ovo je zapovjedio Gospod govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ko god od doma Izrailjeva zakolje vola ili jagnje ili kozu u okolu, ili ko god zakolje izvan okola,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A ne dovede na vrata šatora od sastanka, da prinese prinos Gospodu pred šatorom Gospodnjim, kriv je za krv; prolio je krv; zato da se istrijebi onaj èovjek iz naroda svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Zato sinovi Izrailjevi neka dovedu žrtve svoje, koje bi klali u polju, neka ih dovedu Gospodu na vrata šatora od sastanka k svešteniku, i neka prinesu žrtve zahvalne Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I sveštenik neka pokropi krvlju po oltaru Gospodnjem na vratima šatora od sastanka, i salo neka zapali na ugodni miris Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I neka više ne prinose žrtve svoje ðavolima, za kojima oni èine preljubu. Ovo neka im bude zakon vjeèan od koljena na koljeno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Zato im reci: ko bi god od doma Izrailjeva ili izmeðu stranaca koji se bave meðu njima prinio žrtvu paljenicu ili drugu žrtvu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A ne bi je doveo na vrata šatora od sastanka da je prinese Gospodu, taj èovjek da se istrijebi iz naroda svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A ko bi god od doma Izrailjeva ili izmeðu stranaca koji se bave meðu njima jeo kakve god krvi, okrenuæu lice svoje nasuprot onomu èovjeku koji bude jeo krvi, i istrijebiæu ga iz naroda njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer je duša tijelu u krvi; a ja sam vam je odredio za oltar da se èiste duše vaše; jer je krv što dušu oèišæa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zato rekoh sinovima Izrailjevim: niko izmeðu vas da ne jede krvi; ni došljak koji se bavi meðu vama da ne jede krvi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I ko bi god izmeðu sinova Izrailjevih ili izmeðu došljaka koji se bave kod njih ulovio zvjerku ili pticu, koja se jede, neka iscijedi krv iz nje, i zaspe je zemljom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer je duša svakoga tijela krv njegova, to mu je duša. Zato rekoh sinovima Izrailjevim: krvi nijednoga tijela ne jedite, jer je duša svakoga tijela krv njegova. Ko bi je god jeo, da se istrijebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A ko bi jeo meso od životinje koja crkne ili koju raskine zvjerka, bio domorodac ili došljak, neka opere haljine svoje i okupa se u vodi, i biæe neèist do veèera, a poslije æe biti èist."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ako li ih ne opere, i tijela svojega ne okupa, nosiæe bezakonje svoje."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/17.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 17
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/18.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 18
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/16.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 16
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

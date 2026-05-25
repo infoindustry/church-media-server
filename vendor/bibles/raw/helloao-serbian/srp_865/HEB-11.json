@@ -1,0 +1,356 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "HEB",
+    "translationId": "srp_865",
+    "name": "Jevrejima",
+    "commonName": "Jevrejima",
+    "title": "Poslanica Jevrejima",
+    "order": 58,
+    "numberOfChapters": 13,
+    "sha256": "dd0af6a7bfa1e81c89f066ec55bf573f0bd87cd93a901a2b8a825a622650c258",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/HEB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "HEB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 13,
+    "lastChapterApiLink": "/api/srp_865/HEB/13.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "HEB",
+      "chapter": 13
+    },
+    "totalNumberOfVerses": 303
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Vjera je pak tvrdo èekanje onoga èemu se nadamo, i dokazivanje onoga što ne vidimo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer u njoj stari dobiše svjedoèanstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Vjerom poznajemo da je svijet rijeèju Božijom svršen, da je sve što vidimo iz ništa postalo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Vjerom prinese Avelj Bogu veæu žrtvu nego Kain, kroz koju dobi svjedoèanstvo da je pravednik, kad Bog posvjedoèi za dare njegove; i kroz nju on mrtav još govori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Vjerom bi Enoh prenesen da ne vidi smrti; i ne naðe se, jer ga Bog premjesti, jer prije nego ga premjesti, dobi svjedoèanstvo da ugodi Bogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A bez vjere nije moguæe ugoditi Bogu; jer onaj koji hoæe da doðe k Bogu, valja da vjeruje da ima Bog i da plaæa onima koji ga traže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Vjerom Noje primivši zapovijest i pobojavši se onoga šta još ne vidje, naèini kovèeg za spasenije doma svojega, kojijem osudi sav svijet, i posta našljednik pravde po vjeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Vjerom posluša Avraam kad bi pozvan da iziðe u zemlju koju šæaše da primi u našljedstvo, i iziðe ne znajuæi kuda ide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Vjerom doðe Avraam u zemlju obeæanu, kao u tuðu, i u kolibama življaše s Isakom i s Jakovom, sunašljednicima obeæanja toga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer èekaše grad koji ima temelje, kojemu je zidar i tvorac Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Vjerom i sama Sara nerotkinja primi silu da zatrudni, i rodi preko vremena starosti; jer držaše za vjerna onoga koji obeæa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zato se i rodiše od jednoga, još gotovo mrtvoga, kao zvijezde nebeske mnoštvom, i kao nebrojeni pijesak pokraj mora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "U vjeri pomriješe svi ovi ne primivši obeæanja, nego ga vidjevši izdaleka, i poklonivši mu se, i priznavši da su gosti i došljaci na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer koji tako govore pokazuju da traže otaèanstva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I da bi se oni opomenuli onoga iz kojega iziðoše, imali bi vrijeme da se vrate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ali sad bolje žele, to jest nebesko. Zato se Bog ne stidi njih nazivati se Bog njihov; jer im pripravi grad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Vjerom privede Avraam Isaka kad bi kušan, i jedinorodnoga prinošaše, pošto bješe primio obeæanje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "U kojemu bješe kazano: u Isaku nazvaæe ti se sjeme;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Pomislivši da je Bog kadar i iz mrtvijeh vaskrsnuti; zato ga i uze za priliku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Vjerom blagoslovi Isak Jakova i Isava u stvarima koje æe doæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Vjerom blagoslovi Jakov umiruæi svakoga sina Josifova, i pokloni se vrhu palice njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Vjerom se opominja Josif umiruæi izlaska sinova Izrailjevijeh, i zapovijeda za kosti svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Vjerom Mojsija, pošto se rodi, kriše tri mjeseca roditelji njegovi, jer vidješe krasno dijete, i ne pobojaše se zapovijesti careve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Vjerom Mojsije, kad bi veliki, ne htjede da se naziva sin kæeri Faraonove;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I volje stradati s narodom Božijim, negoli imati zemaljsku sladost grijeha:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Državši sramotu Hristovu za veæe bogatstvo od svega blaga Misirskoga; jer gledaše na platu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Vjerom ostavi Misir, ne pobojavši se ljutine careve; jer se držaše onoga koji se ne vidi, kao da ga viðaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Vjerom uèini pashu i proljev krvi, da se onaj koji gubljaše prvoroðene ne dotakne do njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Vjerom prijeðoše Crveno More kao po suhoj zemlji; koje i Misirci okušavši potopiše se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Vjerom padoše zidovi Jerihonski, kad se obilazi oko njih sedam dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Vjerom Raav kurva ne pogibe s nevjernicima, primivši uhode s mirom, i izvedavši ih drugijem putem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I šta æu još da kažem? Jer mi ne bi dostalo vremena kad bih stao pripovijedati o Gedeonu, i o Varaku i Samsonu i Jeftaju, o Davidu i Samuilu, i o drugijem prorocima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Koji vjerom pobijediše carstva, uèiniše pravdu, dobiše obeæanja, zatvoriše usta lavovima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ugasiše silu ognjenu, utekoše od oštrica maèa, ojaèaše od nemoæi, postaše jaki u bitkama, rastjeraše vojske tuðe;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Žene primiše svoje mrtve iz vaskrsenija; a drugi biše pobijeni, ne primivši izbavljenja, da dobiju bolje vaskrsenije;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A drugi ruganje i boj podnesoše, pa još i okove i tamnice;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Kamenjem pobijeni biše, pretrveni biše, iskušani biše, od maèa pomriješe; idoše u kožusima i u kozijim kožama, u sirotinji, u nevolji, u sramoti;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Kojijeh ne bijaše dostojan svijet, po pustinjama potucaše se, i po gorama i po peæinama i po rupama zemaljskijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I ovi svi dobivši svjedoèanstvo vjerom ne primiše obeæanja;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Jer Bog nešto bolje za nas odredi, da ne prime bez nas savršenstva."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/HEB/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/HEB/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/HEB/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 40
+}

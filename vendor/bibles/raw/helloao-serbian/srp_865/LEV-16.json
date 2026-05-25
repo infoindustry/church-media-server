@@ -1,0 +1,314 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 16,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I reèe Gospod Mojsiju pošto pogiboše dva sina Aronova, a pogiboše kad pristupiše pred Gospoda,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I kaza Gospod Mojsiju: reci Aronu bratu svojemu da ne ulazi u svako doba u svetinju za zavjes pred zaklopac koji je na kovèegu, da ne pogine, jer æu se u oblaku nad zaklopcem javljati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "S ovijem neka ulazi Aron u svetinju: s juncem za žrtvu radi grijeha i s ovnom za žrtvu paljenicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Svetu košulju lanenu neka obuèe, i gaæe lanene neka su na tijelu njegovu, i neka se opaše pojasom lanenijem i kapu lanenu neka metne na glavu; to su haljine svete, i neka opere tijelo svoje vodom, pa onda neka ih obuèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A od zbora sinova Izrailjevijeh neka uzme dva jarca za žrtvu radi grijeha, i jednoga ovna za žrtvu paljenicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I neka prinese Aron junca svojega na žrtvu za grijeh i oèisti sebe i dom svoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Potom neka uzme dva jarca, i neka ih metne pred Gospoda na vrata šatora od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I neka Aron baci ždrijeb za ta dva jarca, jedan ždrijeb Gospodu a drugi ždrijeb Azazelu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I neka Aron prinese na žrtvu jarca na kojega padne ždrijeb Gospodnji, neka ga prinese na žrtvu za grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A jarca na kojega padne ždrijeb Azazelov neka metne živa pred Gospoda, da uèini oèišæenje na njemu, pa neka ga pusti u pustinju Azazelu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I neka Aron prinese junca svojega na žrtvu za grijeh i oèisti sebe i dom svoj, i neka zakolje junca svojega na žrtvu za grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I neka uzme kadionicu punu žeravice s oltara, koji je pred Gospodom, i pune pregršti kada mirisnoga istucanoga, i neka unese za zavjes."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I neka metne kad na oganj pred Gospodom, da dim od kada zakloni zaklopac koji je na svjedoèanstvu; tako neæe poginuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Poslije neka uzme krvi od junca i pokropi s prsta svojega po zaklopcu prema istoku, a pred zaklopcem neka sedam puta pokropi tom krvlju s prsta svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I neka zakolje jarca na žrtvu za grijeh narodni, i neka unese krv njegovu za zavjes; i neka uèini s krvlju njegovom kao što je uèinio s krvlju junèijom, i pokropi njom po zaklopcu i pred zaklopcem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I tako æe oèistiti svetinju od neèistota sinova Izrailjevih i od prijestupa njihovijeh u svijem grijesima njihovijem; tako æe uèiniti i u šatoru od sastanka, koji je meðu njima usred neèistota njihovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A niko da ne bude u šatoru od sastanka kad on uðe da èini oèišæenje u svetinji, dokle ne izaðe i svrši oèišæenje za se i za dom svoj i za sav zbor Izrailjski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A neka izaðe k oltaru koji je pred Gospodom, i oèisti ga; i uzevši krvi od junca i krvi od jarca neka pomaže rogove oltaru unaokolo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I neka ga pokropi ozgo istom krvlju s prsta svojega sedam puta; tako æe ga oèistiti i posvetiti ga od neèistota sinova Izrailjevih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A kad oèisti svetinju i šator od sastanka i oltar, tada neka dovede jarca živoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I metnuvši Aron obje ruke svoje na glavu jarcu živomu, neka ispovjedi nad njim sva bezakonja sinova Izrailjevih i sve prijestupe njihove u svijem grijesima njihovijem, i metnuvši ih na glavu jarcu neka ga da èovjeku spremnom da ga istjera u pustinju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I jarac æe odnijeti na sebi sva bezakonja njihova u pustinju; i pustiæe onoga jarca u pustinju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Potom neka opet uðe Aron u šator od sastanka i svuèe haljine lanene koje je obukao kad je išao u svetinju, i ondje neka ih ostavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Pa neka opere tijelo svoje na svetom mjestu i obuèe svoje haljine; i izašav neka prinese svoju žrtvu paljenicu i narodnu žrtvu paljenicu, i oèisti sebe i narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A salo od žrtve za grijeh neka zapali na oltaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A ko odvede jarca za Azazela, neka opere haljine svoje i okupa tijelo svoje u vodi, pa onda neka uðe u oko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A junca za grijeh i jarca za grijeh, od kojih je krv unesena da se uèini oèišæenje u svetinji, neka iznesu napolje iz okola, i neka spale ognjem kože njihove i meso njihovo i balegu njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A ko ih spali, neka opere haljine svoje i okupa tijelo svoje u vodi, pa onda neka doðe u oko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I ovo neka vam bude vjeèna uredba: deseti dan sedmoga mjeseca muèite duše svoje, i ne radite nikakoga posla, ni domorodac ni došljak koji se bavi meðu vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Jer u taj dan biva oèišæenje za vas, da se oèistite; biæete oèišæeni od svijeh grijeha svojih pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "To neka vam je poèivanje subotno, i muèite duše svoje po uredbi vjeènoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A sveštenik koji bude pomazan i koji bude osveæen da vrši službu sveštenièku na mjesto oca svojega, on neka oèišæa obukavši se u haljine lanene, haljine svete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I neka oèisti svetinju svetu i šator od sastanka; i oltar neka oèisti; i sveštenike i sav narod sabrani neka oèisti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I ovo neka vam je vjeèna uredba da oèišæate sinove Izrailjeve od svijeh grijeha njihovijeh jedanput u godini. I uèini Mojsije kako mu zapovjedi Gospod."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/16.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 16
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/17.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 17
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/15.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 15
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 34
+}

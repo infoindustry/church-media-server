@@ -1,0 +1,335 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2KI",
+    "translationId": "srp_865",
+    "name": "2. Kraljevima",
+    "commonName": "2. Kraljevima",
+    "title": "2. Kraljevima",
+    "order": 12,
+    "numberOfChapters": 25,
+    "sha256": "14b91a44508aa4c11af5ab27266f4e76ec99d09dd2f0f675edf6866e97186808",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2KI/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2KI",
+      "chapter": 1
+    },
+    "lastChapterNumber": 25,
+    "lastChapterApiLink": "/api/srp_865/2KI/25.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2KI",
+      "chapter": 25
+    },
+    "totalNumberOfVerses": 719
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A treæe godine carovanja Osije sina Ilina nad Izrailjem zacari se Jezekija sin Ahazov nad Judom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Bijaše mu dvadeset i pet godina kad poèe carovati, i carova dvadeset i devet godina u Jerusalimu. Materi mu bješe ime Avija, kæi Zaharijina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I èinjaše što je pravo pred Gospodom sasvijem kao što je èinio David otac njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "On obori visine, i izlomi likove i isjeèe lugove, i razbi zmiju od mjedi, koju bješe naèinio Mojsije, jer joj do tada kaðahu sinovi Izrailjevi; i prozva je Neustan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Uzdaše se u Gospoda Boga Izrailjeva, i ne bi takoga izmeðu svijeh careva Judinijeh poslije njega ni prije njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer prionu za Gospoda, ne otstupi od njega, nego drža zapovijesti koje zapovjedi Gospod Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I Gospod bijaše s njim; kuda god iðaše napredovaše; i odmetnu se od cara Asirskoga, te mu ne bi sluga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "On pobi Filisteje do Gaze i meðe njezine, od kule stražarske do grada ozidana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A èetvrte godine carovanja Jezekijina, a to je sedma godina carovanja Osije sina Ilina nad Izrailjem, podiže se Salmanasar car Asirski na Samariju, i opkoli je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I poslije tri godine uze je; šeste godine carovanja Jezekijina, a devete godine carovanja Osijina nad Izrailjem, bi uzeta Samarija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I odvede car Asirski Izrailjce u Asiriju, i naseli ih u Alaju i u Avoru na vodi Gozanu i po gradovima Midskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer ne slušaše glasa Gospoda Boga svojega i prestupaše zavjet njegov, sve što im je zapovjedio Mojsije sluga Gospodnji, ne slušaše niti tvoriše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A èetrnaeste godine carovanja Jezekijina podiže se Senahirim car Asirski na sve tvrde gradove Judine, i uze ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Tada Jezekija car Judin posla u Lahis k caru Asirskom i poruèi mu: zgriješio sam; vrati se od mene, što god nametneš na me nosiæu. A car Asirski nametnu na Jezekiju cara Judina trista talanata srebra i trideset talanata zlata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I dade car Jezekija sve srebro što se naðe u domu Gospodnjem i u riznicama carskoga dvora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "U to vrijeme car Jezekija raskopa vrata na crkvi Gospodnjoj i pragove koje sam bješe okovao, i dade caru Asirskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ali car Asirski posla Tartana i Ravsarisa i Ravsaka iz Lahisa k caru Jezekiji u Jerusalim s velikom vojskom; i oni se podigoše i doðoše u Jerusalim; i podigavši se i došavši stadoše kod jaza gornjega jezera, koji je pokraj puta u polju bjeljarevu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I stadoše vikati cara. Tada doðe k njima Elijakim sin Helkijin, koji bijaše nad dvorom, i Somna pisar i Joah sin Asafov pametar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I reèe im Ravsak: kažite caru Jezekiji: ovako kaže veliki car, car Asirski: kakva je to uzdanica, u koju se uzdaš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ti veliš, ali su prazne rijeèi, da imaš svjeta i sile za rat. U što se dakle uzdaš, te si se odmetnuo od mene?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Gle, uzdaš se u Misir, u štap od trske slomljene, na koji ako se ko nasloni, uæi æe mu u ruku i probošæe je; taki je Faraon car Misirski svima koji se uzdaju u nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ako li mi reèete: uzdamo se u Gospoda Boga svojega; nije li to onaj èije je visine i oltare oborio Jezekija i zapovjedio Judi i Jerusalimu: pred ovijem oltarom klanjajte se u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Hajde, zateci se mojemu gospodaru caru Asirskom; i daæu ti dvije tisuæe konja, ako možeš dobaviti koji æe jahati na njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Kako æeš dakle odbiti i jednoga vojvodu izmeðu najmanjih sluga gospodara mojega? Ali se ti uzdaš u Misir za kola i konjike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Svrh toga, eda li sam ja bez Gospoda došao na ovo mjesto da ga zatrem? Gospod mi je rekao: idi na tu zemlju, i zatri je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Tada Elijakim sin Helkijin i Somna i Joah rekoše Ravsaku: govori slugama svojim Sirski, jer razumijemo, a nemoj nam govoriti Judejski da sluša narod na zidu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A Ravsak im reèe: eda li me je gospodar moj poslao ka gospodaru tvojemu ili k tebi da kažem ove rijeèi? nije li k tijem ljudima, što sjede na zidu, da jedu svoju neèist i da piju svoju mokraæu s vama?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Tada stade Ravsak i povika iza glasa Judejski, i reèe govoreæi: èujte rijeè velikoga cara, cara Asirskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ovako kaže car: nemojte da vas vara Jezekija; jer vas ne može izbaviti iz moje ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Nemojte da vas nagovori Jezekija da se pouzdate u Gospoda, govoreæi: Gospod æe nas izbaviti, i ovaj se grad neæe dati u ruke caru Asirskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ne slušajte Jezekije; jer ovako kaže car Asirski: uèinite mir sa mnom, i hodite k meni, pa jedite svaki sa svoga èokota i svaki sa svoje smokve, i pijte svaki iz svojega studenca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Dokle ne doðem i odnesem vas u zemlju kao što je vaša, u zemlju obilnu žitom i vinom, u zemlju obilnu hljebom i vinogradima, u zemlju obilnu maslinom i uljem i medom, pa æete živjeti i neæete izginuti. Ne slušajte Jezekije, jer vas vara govoreæi: Gospod æe nas izbaviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Je li koji izmeðu bogova drugih naroda izbavio svoju zemlju iz ruke cara Asirskoga?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Gdje su bogovi Ematski i Arfadski? gdje su bogovi Sefarvimski, Enski i Avski? jesu li izbavili Samariju iz mojih ruku?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Koji su izmeðu svijeh bogova ovijeh zemalja izbavili zemlju svoju iz moje ruke? a Gospod æe izbaviti Jerusalim iz moje ruke?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ali narod muèaše, i ne odgovoriše mu ni rijeèi, jer car bješe zapovjedio i rekao: ne odgovarajte mu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Tada Elijakim sin Helkijin, koji bijaše nad dvorom, i Somna pisar i Joah sin Asafov, pametar, doðoše k Jezekiji razdrvši haljine, i kazaše mu rijeèi Ravsakove."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2KI/18.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 18
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2KI/19.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 19
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2KI/17.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 17
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 37
+}

@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ROM",
+    "translationId": "srp_865",
+    "name": "Rimljanima",
+    "commonName": "Rimljanima",
+    "title": "Poslanica Rimljanima",
+    "order": 45,
+    "numberOfChapters": 16,
+    "sha256": "1fe4947b687992778ed830174635b188e37a5a7f483de9affcbbb4c949cc6571",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ROM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/ROM/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 433
+  },
+  "chapter": {
+    "number": 16,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Preporuèujem vam pak Fivu sestru našu, koja je sluškinja kod crkve u Kenhreji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Da je primite u Gospodu kao što prilikuje svetima, i da joj budete u pomoæi u svakoj stvari koju od vas zatreba; jer je ona mnogima pomogla, i samome meni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Pozdravite Priskilu i Akilu, pomoænike moje u Hristu Isusu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Koji za dušu moju svoje vratove položiše, kojima ne ja jedan zahvaljujem, nego i sve crkve neznabožaèke, i domašnju crkvu njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Pozdravite Epeneta, meni ljubaznoga, koji je novina iz Ahaje u Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Pozdravite Mariju, koja se mnogo trudila za nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Pozdravite Andronika i Juniju, rodbinu moju, i moje drugare u sužanjstvu, koji su znameniti meðu apostolima, koji i prije mene vjerovaše Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Pozdravite Amplija, meni ljubaznoga u Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Pozdravite Urbana, pomoænika našega u Hristu, i Stahija, meni ljubaznoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Pozdravite Apelija, okušanoga u Hristu. Pozdravite domaæe Aristovulove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Pozdravite Irodijona, roðaka mojega. Pozdravite domaæe Narkisove, koji su u Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Pozdravite Trifenu i Trifosu, koje se trude u Gospodu. Pozdravite Persidu ljubaznu, koja se mnogo trudila u Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Pozdravite Rufa izbranoga u Gospodu, i mater njegovu i moju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Pozdravite Asinkrita, Flegonta, Erma, Patrova, Ermija, i braæu koja su s njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Pozdravite Filologa i Juliju, Nireja i sestru njegovu, i Olimpana, i sve svete koji su s njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Pozdravite jedan drugoga cjelivom svetijem. Pozdravljaju vas sve crkve Hristove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Molim vas pak, braæo, èuvajte se od onijeh koji èine raspre i razdore na štetu nauke koju vi nauèiste, i uklonite se od njih;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer takovi ne služe Gospodu našemu Isusu Hristu nego svojemu trbuhu, i blagijem rijeèima i blagoslovima prelašæuju srca bezazlenijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer vaše slušanje razglasi se svuda. I radujem se za vas; ali hoæu da ste vi mudri na dobro a prosti na zlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Bog mira da satre sotonu pod noge vaše skoro. Blagodat Gospoda našega Isusa Hrista s vama. Amin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Pozdravlja vas Timotije, pomoænik moj, i Lukije i Jason i Sosipatar, roðaci moji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Pozdravljam vas i ja Tertije, koji napisah ovu poslanicu u Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Pozdravlja vas Gaj, domaæin moj i cijele crkve. Pozdravlja vas Erast, haznadar gradski, i brat Kvart."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Blagodat Gospoda našega Isusa Hrista sa svima vama. Amin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A onome koji vas može utvrditi po jevanðelju mojemu i propovijedanju Isusa Hrista, po otkrivenju tajne koja je bila sakrivena od postanja svijeta,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A sad se javila i obznanila kroz pisma proroèka, po zapovijesti vjeènoga Boga, za poslušanje vjere meðu svima neznabošcima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jedinome premudrome Bogu, kroz Isusa Hrista, slava vavijek. Amin."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ROM/16.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 16
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CO/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ROM/15.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 15
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

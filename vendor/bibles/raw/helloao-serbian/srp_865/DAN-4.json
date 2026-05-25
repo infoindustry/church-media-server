@@ -1,0 +1,335 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DAN",
+    "translationId": "srp_865",
+    "name": "Danilo",
+    "commonName": "Danilo",
+    "title": "Danilo",
+    "order": 27,
+    "numberOfChapters": 12,
+    "sha256": "a7cfcf76b959e48ff3096b5f1336feefdd92c2ade2010b0cbd670ebbe8f652f0",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DAN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DAN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 12,
+    "lastChapterApiLink": "/api/srp_865/DAN/12.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DAN",
+      "chapter": 12
+    },
+    "totalNumberOfVerses": 357
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Car Navuhodonosor svijem narodima, plemenima i jezicima što su po svoj zemlji, mir da vam se umnoži."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Svidje mi se da objavim znake i èudesa što mi uèini Bog višnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Znaci njegovi kako su veliki! i èudesa njegova kako su silna! carstvo je njegovo carstvo vjeèno, i vlast njegova od koljena do koljena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ja Navuhodonosor bijah miran u kuæi svojoj i cvatijah u dvoru svom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Usnih san, koji me uplaši, i misli na postelji mojoj i utvare glave moje uznemiriše me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I zapovjedih da se dovedu preda me svi mudarci Vavilonski da mi kažu što znaèi san."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tada doðoše vraèari, zvjezdari, Haldeji i gatari, i pripovjedih im san, ali mi ne mogoše kazati što znaèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Najposlije doðe preda me Danilo, koji se zove Valtasar po imenu boga mojega, i u kom je duh svetijeh bogova, i pripovjedih mu san:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Valtasare, poglavare vraèarima, znam da je duh svetijeh bogova u tebi i nikaka tajna nije ti teška; kaži san moj što sam snio i što znaèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A utvara glave moje na postelji mojoj bješe: vidjeh, gle, drvo usred zemlje, i visina mu velika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Drvo bješe veliko i jako, i visina mu dosezaše do neba, i viðaše se do kraja sve zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Lišæe mu bješe lijepo i rod obilat, i na njemu bješe hrane svemu; zvijerje poljsko odmaraše se u hladu njegovu, i na granama njegovijem stanovahu ptice nebeske, i od njega se hranjaše svako tijelo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Vidjeh u utvarama glave svoje na postelji svojoj, i gle, stražar i svetac siðe s neba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Povika jako i reèe ovako: posijecite drvo, i okrešite mu grane, pokidajte mu lišæe i razmetnite mu rod; neka pobjegnu zvijeri ispod njega i ptice s grana njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ali panj sa žilama ostavite mu u zemlji, u okovima gvozdenijem i mjedenijem u travi poljskoj, neka ga kvasi rosa nebeska i dio da mu je sa zvijerjem od trave zemaljske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Srce èovjeèije neka mu se promijeni, i srce životinjsko neka mu se da, i sedam vremena neka proðe preko njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "To su odredili stražari i izrekli sveti da bi poznali živi da višnji vlada carstvom ljudskim, i daje ga kome hoæe, i postavlja nad njim najnižega izmeðu ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Taj san snih ja car Navuhodonosor; a ti, Valtasare, kaži što znaèi, jer nijedan mudarac u carstvu mom ne može da mi kaže što znaèi; a ti možeš, jer je u tebi duh svetijeh bogova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tada Danilo, koji se zvaše Valtasar, osta u èudu za jedan sahat, i misli ga uznemiravahu. A car progovori i reèe: Valtasare, san i znaèenje mu da te ne uznemiruje. A Valtasar odgovori i reèe: gospodaru moj, san da bude tvojim nenavidnicima, i znaèenje njegovo neprijateljima tvojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Drvo što si vidio, veliko i jako, kojemu visina dosezaše do neba i koje se viðaše po svoj zemlji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Kojemu lišæe bješe lijepo i rod obilan, i na kom bješe hrane svemu, pod kojim stanovaše zvijerje poljsko i na granama mu sjeðahu ptice nebeske,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "To si ti, care, koji si velik i silan, i velièina je tvoja visoka i doseže do neba i vlast tvoja do krajeva zemaljskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A što car vidje stražara i sveca gdje slažaše s neba i govoraše: posijecite drvo i potrite ga, ali mu panj sa žilama ostavite u zemlji u okovima gvozdenijem i mjedenijem u travi poljskoj, da ga kvasi rosa nebeska, i sa zvijerjem poljskim neka mu je dio dokle sedam vremena proðe preko njega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ovo znaèi, care, i ovo je naredba višnjega koja æe se izvršiti na mom gospodaru caru:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Biæeš prognan izmeðu ljudi, i sa zvijerima æeš poljskim živjeti, i hraniæe te travom kao goveda, i rosa æe te nebeska kvasiti, i sedam æe vremena proæi preko tebe dokle poznaš da višnji vlada carstvom ljudskim i daje ga kome hoæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A što se reèe da se ostavi panj sa žilama od drveta, carstvo æe ti ostati, kad poznaš da nebesa vladaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Zato, care, da ti je ugodan moj svjet, oprosti se grijeha svojih pravdom, i bezakonja svojih milošæu prema nevoljnima, eda bi ti se produljio mir."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Sve ovo doðe na cara Navuhodonosora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Poslije dvanaest mjeseca hodaše po carskom dvoru u Vavilonu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I progovori car i reèe: nije li to Vavilon veliki što ga ja sazidah jakom silom svojom da je stolica carska i slava velièanstvu mojemu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Te rijeèi još bjehu u ustima caru, a glas doðe s neba: tebi se govori, care Navuhodonosore: carstvo se uze od tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I biæeš prognan izmeðu ljudi, i živjeæeš sa zvijerjem poljskim, hraniæe te travom kao goveda, i sedam æe vremena proæi preko tebe dokle poznaš da višnji vlada carstvom ljudskim i daje ga kome hoæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "U taj èas ispuni se ta rijeè na Navuhodonosoru; i bi prognan izmeðu ljudi i jede travu kao goveda, i rosa nebeska kvasi mu tijelo da mu narastoše dlake kao pera u orla i nokti kao u ptica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ali poslije toga vremena ja Navuhodonosor podigoh oèi svoje k nebu, i um moj vrati mi se, i blagoslovih višnjega, i hvalih i slavih onoga koji živi dovijeka, èija je vlast vlast vjeèna i èije je carstvo od koljena do koljena;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I svi stanovnici zemaljski ništa nijesu prema njemu, i radi što hoæe s vojskom nebeskom i sa stanovnicima zemaljskim, i nema nikoga da bi mu ruku ustavio i rekao mu: šta radiš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "U to vrijeme um moj vrati mi se, i na slavu carstva mojega vrati mi se velièanstvo moje i svjetlost moja; i dvorani moji i knezovi moji potražiše me, i utvrdih se u carstvu svom, i doda mi se više velièanstva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Sada ja Navuhodonosor hvalim, uzvišujem i slavim cara nebeskoga, èija su sva djela istina i èiji su putovi pravedni i koji može oboriti one koji hode ponosito."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DAN/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DAN/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DAN/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 37
+}

@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "AMO",
+    "translationId": "srp_865",
+    "name": "Amos",
+    "commonName": "Amos",
+    "title": "Amos",
+    "order": 30,
+    "numberOfChapters": 9,
+    "sha256": "d96ce3cc04d6e14e99ccb1f54ba87edafb19d1df871b2dd40bd91e32c55280f7",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/AMO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "AMO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 9,
+    "lastChapterApiLink": "/api/srp_865/AMO/9.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "AMO",
+      "chapter": 9
+    },
+    "totalNumberOfVerses": 146
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ovo mi pokaza Gospod Gospod: gle, sazdavaše skakavce kad poèinjaše nicati otava, i gle, bijaše otava po carevoj kosidbi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A kad pojedoše travu zemaljsku, tada rekoh: Gospode, Gospode, smiluj se; kako æe se podignuti Jakov? jer je mali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Gospod se raskaja za to: neæe biti, reèe Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tada mi pokaza Gospod Gospod, i gle, Gospod Gospod povika da æe suditi ognjem; i oganj proždrije veliku bezdanu i proždrije dio zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A ja rekoh: Gospode, Gospode, prestani; kako æe se podignuti Jakov? jer je mali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Gospod se raskaja za to: ni to neæe biti, reèe Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tada mi pokaza, i gle, Gospod stajaše na zidu sazidanu po mjerilima, i u ruci mu bjehu mjerila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I reèe mi Gospod: što vidiš, Amose? I rekoh: mjerila. A Gospod mi reèe: evo, ja æu metnuti mjerila posred naroda svojega Izrailja, neæu ga više prolaziti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer æe se razoriti visine Isakove, i svetinje æe Izrailjeve opustjeti, i ustaæu na dom Jerovoamov s maèem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Tada Amasija sveštenik Vetiljski posla k Jerovoamu caru Izrailjevu i poruèi mu: Amos diže bunu na te usred doma Izrailjeva, zemlja ne može podnijeti svijeh rijeèi njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer ovako govori Amos: Jerovoam æe poginuti od maèa, a Izrailj æe se odvesti iz zemlje svoje u ropstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Potom reèe Amasija Amosu: vidioèe, idi, bježi u zemlju Judinu, i ondje jedi hljeb i ondje prorokuj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A u Vetilju više ne prorokuj, jer je svetinja careva i dom je carski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Amos odgovori i reèe Amasiji: ne bjeh prorok ni proroèki sin, nego bjeh govedar i brah dudove;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Gospod me uze od stada i reèe mi Gospod: idi, prorokuj narodu mojemu Izrailju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Sada dakle èuj rijeè Gospodnju. Ti kažeš: ne prorokuj u Izrailju, i ne kropi po domu Isakovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Zato ovako veli Gospod: žena æe ti se kurvati u gradu, i sinovi æe tvoji i kæeri tvoje pasti od maèa, i zemlja æe se tvoja razdijeliti užem, i ti æeš umrijeti u neèistoj zemlji, a Izrailj æe se odvesti iz svoje zemlje u ropstvo."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/AMO/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "AMO",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/AMO/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "AMO",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/AMO/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "AMO",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

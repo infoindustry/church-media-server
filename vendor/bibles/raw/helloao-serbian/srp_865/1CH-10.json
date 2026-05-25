@@ -1,0 +1,174 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "srp_865",
+    "name": "1. Dnevnika",
+    "commonName": "1. Dnevnika",
+    "title": "1. Dnevnika",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "8ea0acc08b93472f39af29d769974347b255ab628ab40782b4687010563cbf90",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 29,
+    "lastChapterApiLink": "/api/srp_865/1CH/29.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 29
+    },
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Filisteji se pobiše s Izrailjem, i pobjegoše Izrailjci ispred Filisteja, i padahu mrtvi na gori Gelvuji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I stigoše Filisteji Saula i sinove njegove, i pogubiše Filisteji Jonatana i Avinadava i Malhisuja, sinove Saulove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I boj posta žešæi oko Saula, i naðoše ga strijelci, i on se uplaši od strijelaca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I reèe Saul momku koji mu nošaše oružje: izvadi maè svoj, i probodi me da ne doðu ti neobrezani i narugaju mi se. Ali ne htje momak koji mu nošaše oružje, jer ga bješe vrlo strah. Tada Saul uze maè i baci se na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A kad momak koji mu nošaše oružje vidje gdje umrije Saul, baci se i on na svoj maè, i umrije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tako pogibe Saul; i tri sina njegova i sva èeljad njegova pogiboše zajedno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kad svi Izrailjci koji bijahu u dolini vidješe gdje pobjegoše Izrailjci i gdje pogibe Saul i sinovi njegovi, ostaviše gradove svoje i pobjegoše, te doðoše Filisteji i ostaše u njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A sjutradan doðoše Filisteji da svlaèe mrtve, i naðoše Saula i sinove njegove gdje leže na gori Gelvuji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I svukavši ga uzeše glavu njegovu i oružje njegovo, i poslaše u zemlju Filistejsku na sve strane da se objavi kod lažnijeh bogova njihovijeh i po narodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I ostaviše oružje njegovo u kuæi bogova svojih, a glavu mu objesiše u kuæi Dagonovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A kad èuše svi u Javisu Galadskom sve što uèiniše Filisteji od Saula,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Podigoše se svi junaci i uzeše tijelo Saulovo i tjelesa sinova njegovijeh, i donesoše ih u Javis, i pogreboše kosti njihove pod hrastom u Javisu, i postiše sedam dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I tako pogibe Saul za bezakonje svoje, koje uèini Gospodu što ne sluša rijeèi Gospodnje i što traži da pita duh vraèarski,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A ne pita Gospoda; zato ga ubi, i prenese carstvo na Davida sina Jesejeva."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CH/10.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 10
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CH/11.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 11
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CH/9.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 9
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 14
+}

@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOS",
+    "translationId": "srp_865",
+    "name": "Isus Navin",
+    "commonName": "Isus Navin",
+    "title": "Isus Navin",
+    "order": 6,
+    "numberOfChapters": 24,
+    "sha256": "ec9d0a794c17ba6296451b87fb16a4d34d8af2bfd446293b00f97a3bbb7257b2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOS/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/JOS/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 658
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad to èu Javin car Asorski, posla k Jovavu caru Madonskom i k caru Simronskom i k caru Ahsavskom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I k carevima koji bijahu na sjeveru u gorama i po ravnicama na jugu od Hinerota i u dolini i u Nafat-Doru na zapad,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ka Hananejinu na istoku i zapadu, i Amorejinu i Hetejinu i Ferezejinu i Jevusejinu u gorama, i k Jevejinu pod Ermonom u zemlji Mispi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I izidoše oni i sva vojska njihova s njima, mnogi narod kao pijesak na brijegu morskom, i konji i kola mnoga veoma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Svi ti carevi dogovoriše se i doðoše, i stadoše zajedno u oko na vodi Meromu, da udare na Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A Gospod reèe Isusu; ne boj ih se; jer sjutra u ovo doba ja æu uèiniti te æe svi biti pobijeni pred Izrailjem; konjma njihovijem ispresijecaj žile, i kola njihova popali ognjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I izide Isus i sva vojska s njim na njih na vodu Merom iznenada, i udariše na njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I Gospod ih dade u ruke Izrailju, te ih razbiše i tjeraše ih do Sidona velikoga i do vode Misrefota i do polja Mispe na istok; i tako ih pobiše da ne ostaviše nijednoga živa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I uèini im Isus kako mu bješe zapovjedio Gospod: konjma njihovijem ispresijeca žile, i kola njihova popali ognjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I vrativši se Isus u to vrijeme, uze Asor, i ubi cara njegova maèem; a Asor bješe prije glava svijem tijem carstvima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I pobiše sve živo što bješe u njemu oštrijem maèem sijekuæi, te ne osta ništa živo; a Asor spališe ognjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I sve gradove onijeh careva i sve careve njihove uze Isus i isijeèe ih oštrijem maèem i pobi ih, kao što bješe zapovjedio Mojsije sluga Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ali nijednoga grada koji osta u opkopima svojim ne popali Izrailj, osim samoga Asora, koji spali Isus."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A sav plijen iz tijeh gradova i stoku pograbiše za sebe sinovi Izrailjevi; samo ljude sve isjekoše oštrijem maèem, te ih istrijebiše, ne ostaviše ništa živa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Kako zapovjedi Gospod Mojsiju sluzi svojemu, tako Mojsije zapovjedi Isusu, a Isus tako uèini; ništa ne izostavi od svega što bješe Gospod zapovjedio Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I tako uze Isus svu tu zemlju, gore i sav južni kraj i svu zemlju Gosensku, i ravnicu i polje, goru Izrailjevu i ravnicu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Od gore Alaka, koja se pruža k Siru, do Val-Gada u polju Livanskom, pod gorom Ermonom; i sve careve njihove zarobi i pobi ih i pogubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Dugo vremena vojeva Isus na te careve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ne bi nijednoga grada koji uèini mir sa sinovima Izrailjevijem, osim Jeveja koji življahu u Gavaonu; sve ih uzeše ratom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer od Gospoda bi, te otvrdnu srce njihovo da izidu u boj na Izrailja, da bi ih potro i da im ne bi bilo milosti, nego da bi ih istrijebio, kao što bješe zapovjedio Gospod Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "U to vrijeme doðe Isus, te istrijebi Enakime iz gora, iz Hevrona, iz Davira, iz Anava i iz sve gore Judine i iz sve gore Izrailjeve, s gradovima njihovijem potr ih Isus."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Nijedan Enakim ne osta u zemlji sinova Izrailjevih; samo u Gazi, u Gatu i u Azotu ostaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Tako uze Isus svu zemlju, kao što bješe kazao Gospod Mojsiju; i dade je u našljedstvo Izrailju prema dijelovima njihovijem, po plemenima njihovijem. I zemlja poèinu od rata."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOS/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOS/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOS/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

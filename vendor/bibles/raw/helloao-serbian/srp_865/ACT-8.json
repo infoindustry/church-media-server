@@ -1,0 +1,356 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Savle pak bješe pristao na njegovu smrt. A u taj dan postade veliko gonjenje na crkvu Jerusalimsku, i svi se rasijaše po krajevima Judejskijem i Samarijskijem osim apostola."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A ljudi pobožni ukopaše Stefana i veliki plaè uèiniše nad njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Savle dosaðivaše crkvi, jer iðaše po kuæama, i vucijaše ljude i žene te predavaše u tamnicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A oni što se bijahu rasijali prolažahu propovijedajuæi rijeè."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A Filip sišavši u grad Samarijski propovijedaše im Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A narod pažaše jednodušno na ono što govoraše Filip, slušajuæi i gledajuæi znake koje èinjaše;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer duhovi neèisti s velikom vikom izlažahu iz mnogijeh u kojima bijahu, i mnogi uzeti i hromi ozdraviše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I bi velika radost u gradu onome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A bješe jedan èovjek, po imenu Simon, koji prije èaraše u gradu i dovoðaše u èudo narod Samarijski, govoreæi da je on nešto veliko;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Na kojega gledahu svi, i malo i veliko, govoreæi: ovo je velika sila Božija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A zato gledahu na njega što ih mnogo vremena èinima udivljavaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Kad pak vjerovaše Filipu koji propovijedaše jevanðelje o carstvu Božijemu i o imenu Isusa Hrista, kršæavahu se i ljudi i žene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada i Simon vjerova, i krstivši se osta kod Filipa; i videæi djela i znake velike koji se èinjahu divljaše se vrlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A kad èuše apostoli koji bijahu u Jerusalimu da Samarija primi rijeè Božiju, poslaše k njima Petra i Jovana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Koji sišavši pomoliše se Bogu za njih da prime Duha svetoga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer još ni na jednoga ne bješe došao, nego bijahu samo kršteni u ime Gospoda Isusa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tada apostoli metnuše ruke na njih, i oni primiše Duha svetoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A kad vidje Simon da se daje Duh sveti kad apostoli metnu ruke, donese im novce"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Govoreæi: dajte i meni ovu vlast da kad metnem ruke na koga primi Duha svetoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Petar mu reèe: novci tvoji s tobom da budu u pogibao, što si pomislio da se dar Božij može dobiti za novce."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Nema tebi dijela ni iseta u ovoj rijeèi; jer srce tvoje nije pravo pred Bogom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Pokaj se dakle od ove svoje pakosti, i moli se Bogu da bi ti se oprostila pomisao srca tvoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer te vidim da si u grkoj žuèi i u svezi nepravde."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A Simon odgovarajuæi reèe: pomolite se vi Gospodu za mene da ne naiðe na mene ništa od ovoga što rekoste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Tako oni posvjedoèivši i govorivši rijeè Gospodnju vratiše se u Jerusalim, i mnogijem selima Samarijskijem propovjediše jevanðelje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A anðeo Gospodnji reèe Filipu govoreæi: ustani i idi na podne na put koji silazi od Jerusalima u Gazu i pust je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I ustavši poðe. I gle, èovjek Arapin, uškopljenik, vlastelin Kandakije carice Arapske, što bješe nad svima njezinijem riznicama, koji bješe došao u Jerusalim da se moli Bogu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Pa se vraæaše, i sjedeæi na kolima svojijem èitaše proroka Isaiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A Duh reèe Filipu: pristupi i prilijepi se tijem kolima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A Filip pritrèavši èu ga gdje èita proroka Isaiju, i reèe: a razumiješ li što èitaš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A on reèe: kako bih mogao ako me ko ne uputi? I umoli Filipa te se pope i sjede s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A mjesto iz pisma koje èitaše bješe ovo: kao ovca na zaklanje odvede se, i nijem kao jagnje pred onijem koji ga striže, tako ne otvori usta svojijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "U njegovom poniženju ukide se sud njegov. A rod njegov ko æe iskazati? Jer se njegov život uzima od zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Onda uškopljenik odgovori Filipu i reèe: molim te, za koga ovo govori prorok? ili za sebe ili za koga drugoga?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A Filip otvorivši usta svoja, i poèevši od pisma ovoga, propovjedi mu jevanðelje Isusovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Kako iðahu putem doðoše na nekaku vodu; i reèe uškopljenik: evo vode, šta brani meni da se krstim?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A Filip mu reèe: ako vjeruješ od svega srca svojega, možeš. A on odgovarajuæi reèe: vjerujem da je Isus Hristos sin Božij."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I zapovjedi da stanu kola, i siðoše oba na vodu, i Filip i uškopljenik, i krsti ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A kad iziðoše iz vode, Duh sveti pade na uškopljenika, a anðeo Gospodnji uze Filipa, i više ga ne vidje uškopljenik; nego otide putem svojijem radujuæi se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A Filip se obrete u Azotu; i prolazeæi propovijedaše jevanðelje svima gradovima, dok ne doðe u Æesariju."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 40
+}

@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1TH",
+    "translationId": "srp_865",
+    "name": "1 Solunjanima",
+    "commonName": "1 Solunjanima",
+    "title": "1. Solunjanima Poslanica",
+    "order": 52,
+    "numberOfChapters": 5,
+    "sha256": "48afe08020ab25baba1de9285dd4af45a0dce6d4d6999bfc846ad9d8ea6288a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1TH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1TH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 5,
+    "lastChapterApiLink": "/api/srp_865/1TH/5.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1TH",
+      "chapter": 5
+    },
+    "totalNumberOfVerses": 89
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A za èase i vremena, braæo, nije vam trijebe pisati;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer sami znate jamaèno da æe dan Gospodnji doæi kao lupež po noæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer kad reku: mir je, i nema se šta bojati, onda æe iznenada napasti na njih pogibao kao bol na trudnu ženu, i neæe uteæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ali vi, braæo, nijeste u tami da vas dan kao lupež zastane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer ste vi svi sinovi vidjela i sinovi dana: nijesmo noæi niti tame."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tako dakle da ne spavamo kao i ostali, nego da pazimo i da budemo trijezni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer koji spavaju, u noæi spavaju, i koji se opijaju, u noæi se opijaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ali mi koji smo sinovi dana da budemo trijezni i obuèeni u oklop vjere i ljubavi, i s kacigom nada spasenija;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer nas Bog ne postavi za gnjev, nego da dobijemo spasenije kroz Gospoda svojega Isusa Hrista,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Koji umrije za nas da mi, stražili ili spavali, zajedno s njim živimo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Toga radi utješavajte jedan drugoga, i popravljajte svaki bližnjega, kao što i èinite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Molimo vas pak, braæo, pripoznajte one koji se trude meðu vama, i nastojnike svoje u Gospodu, i uèitelje svoje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I imajte ih u izobilnoj ljubavi za djelo njihovo. Budite mirni meðu sobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Molimo vas pak, braæo, pouèavajte neuredne, utješavajte malodušne, branite slabe, snosite svakoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Gledajte da niko ne vraæa kome zla za zlo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Nego svagda idite za dobrom, i meðu sobom, prema svima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Radujte se svagda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Molite se Bogu bez prestanka. Na svaèemu zahvaljujte; jer je ovo volja Božija u Hristu Isusu od vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Duha ne gasite. Proroštva ne prezirite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A sve kušajuæi dobro držite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Uklanjajte se od svakoga zla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A sam Bog mira da posveti vas cijele u svaèemu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I cijel vaš duh i duša i tijelo da se saèuva bez krivice za dolazak Gospoda našega Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Vjeran je onaj koji vas dozva, koji æe i uèiniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Braæo! molite se Bogu za nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Pozdravite braæu svu cijelivom svetijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Zaklinjem vas Gospodom da proèitate ovu poslanicu pred svom braæom svetom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Blagodat Gospoda našega Isusa Hrista s vama. Amin."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1TH/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1TH",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2TH/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2TH",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1TH/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1TH",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

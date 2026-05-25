@@ -1,0 +1,314 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 44,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I zapovjedi Josif èovjeku što upravljaše kuæom njegovom govoreæi: naspi ovijem ljudima u vreæe žita koliko mogu ponijeti, i svakome u vreæu metni ozgo novce njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I èašu moju, èašu srebrnu, metni najmlaðemu u vreæu ozgo i novce za njegovo žito. I uèini kako mu Josif reèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A ujutru kad svanu, otpustiše ljude s magarcima njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A kad izaðoše iz mjesta i još ne bijahu daleko, reèe Josif èovjeku što upravljaše kuæom njegovom: ustani, idi brže za onijem ljudima, i kad ih stigneš reci im: zašto vraæate zlo za dobro?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nije li to èaša iz koje pije moj gospodar? i neæe li po njoj zacijelo poznati kakvi ste? zlo ste radili što ste to uèinili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I on ih stiže, i reèe im tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A oni mu rekoše: zašto govoriš, gospodaru, take rijeèi? Saèuvaj Bože da sluge tvoje uèine tako što!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Eno smo ti donijeli natrag iz zemlje Hananske novce koje naðosmo ozgo u vreæama svojim, pa kako bismo ukrali iz kuæe gospodara tvojega srebro ili zlato?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "U kojega se izmeðu sluga tvojih naðe, onaj neka pogine, i svrh toga mi æemo biti robovi gospodaru mojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A on reèe: neka bude kako rekoste; ali u koga se naðe, onaj da mi bude rob, a vi ostali neæete biti krivi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I brže poskidaše svi na zemlju vreæe svoje, i razdriješiše svaki svoju vreæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A on stade tražiti poèev od najstarijega, i kad doðe na najmlaðega, naðe se èaša u vreæi Venijaminovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada razdriješe haljine svoje, i natovarivši svaki svoj tovar na svojega magarca vratiše se u grad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I doðe Juda s braæom svojom Josifu u kuæu, dok on još bijaše kod kuæe, i padoše pred njim na zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Josif im reèe: šta ste to uèinili? zar nijeste znali da èovjek kao što sam ja može zacijelo doznati?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tada reèe Juda: šta da ti reèemo, gospodaru? šta da govorimo? kako li da se pravdamo? Bog je otkrio zloèinstvo tvojih sluga. Evo, mi smo svi robovi tvoji, gospodaru, i mi i ovaj u koga se našla èaša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A Josif reèe: Bože saèuvaj! neæu ja to; u koga se našla èaša on neka mi bude rob, a vi idite s mirom ocu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ali Juda pristupiv k njemu reèe: èuj me, gospodaru; dopusti da progovori sluga tvoj gospodaru svojemu, i neka se gnjev tvoj ne raspali na slugu tvojega, jer si ti kao sam Faraon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Gospodar moj zapita sluge svoje govoreæi: imate li oca ili brata?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A mi rekosmo gospodaru svojemu: imamo stara oca i brata najmlaðega, koji mu se rodi u starosti; a njegov je brat umro, i on osta sam od matere svoje, i otac ga pazi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A ti reèe slugama svojim: dovedite mi ga da ga vidim svojim oèima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I rekosmo gospodaru svojemu: neæe moæi dijete ostaviti oca svojega; da ostavi oca svojega, odmah æe otac umrijeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A ti reèe slugama svojim: ako ne doðe s vama brat vaš najmlaði, neæete više vidjeti lica mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A kad se vratismo k sluzi tvojemu a ocu mojemu, kazasmo mu rijeèi gospodara mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Poslije reèe nam otac: idite opet, kupite nam hrane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A mi rekosmo: ne možemo iæi, osim ako bude brat naš najmlaði s nama, onda æemo iæi, jer ne možemo vidjeti lica onoga èovjeka, ako ne bude s nama brat naš najmlaði."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A sluga tvoj, otac moj, reèe nam: znate da mi je žena rodila dva sina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I jedan od njih otide od mene, i rekoh: zacijelo ga je raskinula zvjerka; i do sada ga ne vidjeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ako i ovoga odvedete od mene i zadesi ga kakvo zlo, svaliæete me stara u grob s tugom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Pa sada da otidem k sluzi tvojemu, ocu svojemu, a ovo dijete da ne bude s nama, kako je duša onoga vezana za dušu ovoga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Umrijeæe kad vidi da nema djeteta, te æe sluge tvoje svaliti staroga slugu tvojega a oca svojega s tugom u grob."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A tvoj se sluga podjemèio za dijete ocu svojemu rekav: ako ti ga ne dovedem natrag, da sam kriv ocu svojemu dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Zato neka sluga tvoj ostane mjesto djeteta da bude rob gospodaru mojemu a dijete neka ide s braæom svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Jer kako bih se vratio k ocu svojemu bez djeteta, da gledam jade koji bi mi oca zadesili?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/44.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 44
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/45.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 45
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/43.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 43
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 34
+}

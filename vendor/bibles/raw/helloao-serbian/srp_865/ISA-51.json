@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 51,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Poslušajte me koji idete za pravdom, koji tražite Gospoda; pogledajte stijenu iz koje ste isjeèeni, i duboku jamu iz koje ste iskopani;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Pogledajte Avrama, oca svojega, i Saru, koja vas je rodila, kako ga inokosna pozvah i blagoslovih ga i umnožih ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer æe Gospod utješiti Sion, utješiæe sve razvaline njegove, i pustinju njegovu uèiniæe da bude kao Edem i pustoš njegova kao vrt Gospodnji, radost æe se i veselje nalaziti u njemu, zahvaljivanje i pjevanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Poslušaj me, narode moj, i èuj me, rode moj; jer æe zakon od mene izaæi i sud svoj postaviæu da bude vidjelo narodima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Blizu je pravda moja, izaæi æe spasenje moje, i mišice æe moje suditi narodima; mene æe ostrva èekati i u moju æe se mišicu uzdati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Podignite k nebu oèi svoje i pogledajte dolje na zemlju; jer æe nebesa išèeznuti kao dim i zemlja æe kao haljina ovetšati, i koji na njoj žive pomrijeæe takoðer; a spasenje æe moje ostati dovijeka, i pravde moje neæe nestati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Poslušajte me koji znate pravdu, narode, kojemu je u srcu zakon moj. Ne bojte se ruženja ljudskoga i od huljenja njihova ne plašite se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer æe ih moljac izjesti kao haljinu, i kao vunu izješæe ih crv; a pravda moja ostaje dovijeka i spasenje moje od koljena na koljeno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Probudi se, probudi se, obuci se u silu, mišico Gospodnja; probudi se kao u staro vrijeme, za naraštaja prošlijeh; nijesi li ti isjekla Ravu i ranila zmaja?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nijesi li ti isušila more, vodu bezdana velikoga, od dubine morske naèinila put da proðu izbavljeni?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tako oni koje iskupi Gospod neka se vrate i doðu u Sion pjevajuæi, i veselje vjeèno neka bude nad glavom njihovom; radost i veselje neka zadobiju, a žalost i uzdisanje neka bježi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ja, ja sam utješitelj vaš; ko si ti da se bojiš èovjeka smrtnoga i sina èovjeèijega, koji je kao trava?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I zaboravio si Boga tvorca svojega, koji je razapeo nebesa i osnovao zemlju? i jednako se bojiš svaki dan gnjeva onoga koji te pritješnjuje kad se sprema da zatire? a gdje je gnjev onoga koji pritješnjuje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Brzo æe se oprostiti sužanj, neæe umrijeti u jami, niti æe biti bez hljeba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer sam ja Gospod Bog tvoj, koji raskidam more, da valovi njegovi buèe; Gospod nad vojskama ime mi je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ja ti metnuh u usta rijeèi svoje i sjenom ruke svoje zaklonih te, da utvrdim nebesa i osnujem zemlju, i reèem Sionu: ti si moj narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Probudi se, probudi se, ustani, Jerusalime! koji si pio iz ruke Gospodnje èašu gnjeva njegova, pio si, i talog iz strašne èaše ispio si."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Od svijeh sinova koje je rodio nijedan ga nije vodio, i od svijeh sinova koje je othranio nijedan ga nije prihvatio za ruku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ovo te dvoje zadesi; ko te požali? Pustoš i rasap, i glad i maè; ko æe te utješiti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Sinovi tvoji obamrli leže po krajevima svijeh ulica kao bivo u mreži puni gnjeva Gospodnjega, i karanja Boga tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Zato èuj ovo, nevoljni, i pijani, ne od vina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ovako veli Gospod tvoj, Gospod i Bog tvoj, koji brani svoj narod: evo uzimam iz tvoje ruke èašu strašnu, talog u èaši gnjeva svojega; neæeš više piti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Nego æu je dati u ruke onima koji te muèe, koji govoriše duši tvojoj: sagni se da prijeðemo, i ti si im podmetao leða svoja da budu kao zemlja i kao ulica onima koji prelaze."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/51.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 51
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/52.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 52
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/50.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 50
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

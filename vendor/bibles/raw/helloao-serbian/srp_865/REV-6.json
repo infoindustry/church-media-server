@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "REV",
+    "translationId": "srp_865",
+    "name": "Apokalipsa",
+    "commonName": "Apokalipsa",
+    "title": "Otkrivenje Jovanovo — Apokalipsa",
+    "order": 66,
+    "numberOfChapters": 22,
+    "sha256": "03ca27b48572b751a11a8d2525edcfa3d35a43f752bf5506e16685bb264b5230",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/REV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 22,
+    "lastChapterApiLink": "/api/srp_865/REV/22.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "REV",
+      "chapter": 22
+    },
+    "totalNumberOfVerses": 404
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I vidjeh kad otvori jagnje jedan od sedam peèata, i èuh jednu od èetiri životinje gdje govori kao glas gromovni: doði i viði."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I vidjeh, i gle, konj bijel, i onaj što sjeðaše na njemu imadijaše strijelu; i njemu se dade vijenac, i iziðe pobjeðujuæi, i da pobijedi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I kad otvori drugi peèat, èuh drugu životinju gdje govori: doði i viði."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I iziðe drugi konj rið, i onome što sjeðaše na njemu dade se da uzme mir sa zemlje, i da ubija jedan drugoga, i dade mu se maè veliki."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I kad otvori treæi peèat, èuh treæu životinju gdje govori: doði i viði. I vidjeh, i gle, konj vran, i onaj što sjeðaše na njemu imaðaše mjerila u ruci svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I èuh glas izmeðu èetiri životinje gdje govori: oka pšenice za groš, i tri oke jeèma za groš; a ulja i vina neæe ni biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I kad otvori èetvrti peèat, èuh glas èetvrte životinje gdje govori: doði i viði."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I vidjeh, i gle, konj blijed, i onome što sjeðaše na njemu bješe ime smrt, i pakao iðaše za njim; i njemu se dade oblast na èetvrtom dijelu zemlje da ubije maèem i glaðu i smræu i zvjerinjem zemaljskijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I kad otvori peti peèat, vidjeh pod oltarom duše pobijenijeh za rijeè Božiju i za svjedoèanstvo koje imahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I povikaše glasom velikijem govoreæi: dokle, gospodaru sveti i istiniti! ne sudiš i ne kaješ krvi naše na onima što žive na zemlji?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I dane biše svakome od njih haljine bijele, i reèeno im bi da poèinu još malo vremena, dokle se navrše i drugari njihovi i braæa njihova, koji valja da budu pobijeni kao i oni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I vidjeh kad otvori šesti peèat, i gle, zatrese se zemlja vrlo, i sunce posta crno kao vreæa od kostrijeti, i mjesec posta kao krv;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I zvijezde nebeske padoše na zemlju kao što smokva odbacuje pupke svoje kad je veliki vjetar zaljulja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I nebo se izmaèe kao knjiga kad se savije, i svaka gora i ostrvo s mjesta svojijeh pokrenuše se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I carevi zemaljski, i boljari, i bogati, i vojvode, i silni, i svaki rob, i svaki slobodnjak, sakriše se po peæinama i po kamenjacima gorskijem;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I govoriše gorama i kamenju: padnite na nas, i sakrijte nas od lica onoga što sjedi na prijestolu, i od gnjeva jagnjetova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer doðe veliki dan gnjeva njegova, i ko može ostati?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/REV/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/REV/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/REV/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "REV",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

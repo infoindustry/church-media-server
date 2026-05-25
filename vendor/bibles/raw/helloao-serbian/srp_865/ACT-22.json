@@ -1,0 +1,286 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 22,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ljudi, braæo i ocevi! èujte sad moj odgovor k vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A kad èuše da im Jevrejskijem jezikom progovori, još veæa tišina posta. I reèe:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ja sam èovjek Jevrejin, koji sam roðen u Tarsu Kilikijskome, i odgajen u ovome gradu kod nogu Gamaliilovijeh, nauèen upravo otaèkom zakonu, i bijah revnitelj Božij kao što ste vi svi danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ja ovaj put gonih do same smrti, vežuæi i predajuæi u tamnicu i ljude i žene,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Kao što mi svjedoèi i poglavar sveštenièki i sve starješine; od kojijeh i poslanice primih na braæu koja žive u Damasku; i iðah da dovedem one što bijahu onamo svezane u Jerusalim da se muèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A kad iðah i približih se k Damasku, dogodi mi se oko podne da me ujedanput obasja velika svjetlost s neba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I padoh na zemlju, i èuh glas, koji mi govori: Savle! Savle! zašto me goniš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A ja odgovorih: ko si ti, Gospode? A on mi reèe: ja sam Isus Nazareæanin, kojega ti goniš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A koji bijahu sa mnom vidješe svjetlost i uplašiše se; ali ne èuše glasa koji mi govoraše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A ja rekoh: šta æu èiniti, Gospode? A Gospod mi reèe: ustani i idi u Damask, i tamo æe ti se kazati za sve šta ti je odreðeno da èiniš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I kad obnevidjeh od silne svjetlosti one, voðahu me za ruku oni koji bijahu sa mnom, i doðoh u Damask."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A neki Ananija èovjek pobožan po zakonu, posvjedoèen od sviju Jevreja koji žive u Damasku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Došavši k meni stade i reèe mi: Savle brate! progledaj. I ja u taj èas pogledah na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A on mi reèe: Bog otaca našijeh izabra te da poznaš volju njegovu, i da vidiš pravednika, i da èuješ glas iz usta njegovijeh:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Da mu budeš svjedok pred svijem ljudima za ovo što si vidio i èuo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I sad šta oklijevaš? Ustani i krsti se, i operi se od grijeha svojijeh, prizvavši ime Gospoda Isusa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A dogodi se, kad se vratih u Jerusalim i moljah se u crkvi Bogu, da postadoh izvan sebe,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I vidjeh ga gdje mi govori: pohiti te iziði iz Jerusalima, jer neæe primiti svjedoèanstva tvojega za mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I ja rekoh: Gospode! sami znadu da sam ja metao u tamnice i bio po zbornicama one koji te vjeruju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I kad se proljevaše krv Stefana svjedoka tvojega, i ja stajah i pristajah na smrt njegovu, i èuvah haljine onijeh koji ga ubijahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I reèe mi: idi; jer æu ja daleko da te pošljem u neznabošce."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A oni ga slušahu do ove rijeèi, pa podigoše glas svoj govoreæi: uzmi sa zemlje takovoga; jer ne treba da živi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A kad oni vikahu i zbacivahu haljine i bacahu prah u nebo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Zapovjedi vojvoda da ga odvedu u oko, i reèe da ga bojem ispitaju da dozna za kakvu krivicu tako vikahu na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I kad ga pritegoše uzicama, reèe Pavle kapetanu, koji stajaše ondje: zar vi možete biti èovjeka Rimljanina, i još bez suda?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A kad èu kapetan, pristupi k vojvodi, i kaza govoreæi: gledaj šta æeš èiniti; jer je ovaj èovjek Rimljanin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A vojvoda pristupivši reèe mu: kaži mi jesi li ti Rimljanin? A on reèe: da."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A vojvoda odgovori: ja sam za veliku cijenu ime ovoga graðanstva dobio. A Pavle reèe: a ja sam se i rodio s njime."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Onda otstupiše odmah od njega oni što šæadijahu da ga ispituju; a vojvoda se uplaši kad razumje da je Rimljanin i što ga bješe svezao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A sjutradan, želeæi doznati istinu zašto ga tuže Jevreji, pusti ga iz okova, i zapovjedi da doðu glavari sveštenièki i sav sabor njihov; i svedavši Pavla postavi ga pred njima."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/22.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 22
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/23.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 23
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/21.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 21
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 30
+}

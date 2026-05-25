@@ -1,0 +1,349 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "HEB",
+    "translationId": "srp_865",
+    "name": "Jevrejima",
+    "commonName": "Jevrejima",
+    "title": "Poslanica Jevrejima",
+    "order": 58,
+    "numberOfChapters": 13,
+    "sha256": "dd0af6a7bfa1e81c89f066ec55bf573f0bd87cd93a901a2b8a825a622650c258",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/HEB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "HEB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 13,
+    "lastChapterApiLink": "/api/srp_865/HEB/13.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "HEB",
+      "chapter": 13
+    },
+    "totalNumberOfVerses": 303
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Jer zakon imajuæi sjen dobara koja æe doæi, a ne samo oblièje stvari, ne može nikada savršiti one koji pristupaju svake godine i prinose one iste žrtve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Inaèe bi prestale prinositi se, kad oni koji služe ne bi više imali nikake savjesti za grijehe, kad se jednom oèiste;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Nego se njima svake godine èini spomen za grijehe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer krv junèija i jarèija ne može uzeti grijeha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Zato ulazeæi u svijet govori: žrtava i darova nijesi htio, ali si mi tijelo pripravio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Žrtve i prilozi za grijeh nijesu ti bili ugodni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tada rekoh: evo doðoh, u poèetku knjige pisano je za mene, da uèinim volju tvoju, Bože."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I više kazavši: priloga i prinosa i žrtava, i žrtava za grijehe nijesi htio, niti su ti bili ugodni, što se po zakonu prinose;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tada reèe: evo doðoh da uèinim volju tvoju, Bože. Ukida prvo da postavi drugo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Po kojoj smo volji mi osveæeni prinosom tijela Isusa Hrista jednom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I svaki sveštenik stoji svaki dan služeæi i jedne žrtve mnogo puta prinoseæi koje nikad ne mogu uzeti grijeha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A on prinesavši jedinu žrtvu za grijehe sjedi svagda s desne strane Bogu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Èekajuæi dalje dok se polože neprijatelji njegovi podnožje nogama njegovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer jednijem prinosom savršio je vavijek one koji bivaju osveæeni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A svjedoèi nam i Duh sveti; jer kao što je naprijed kazano:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ovo je zavjet koji æu naèiniti s njima poslije onijeh dana, govori Gospod: daæu zakone svoje u srca njihova, i u mislima njihovijem napisaæu ih;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I grijeha njihovijeh i bezakonja njihovijeh neæu više spominjati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A gdje je oproštenje ovijeh ondje više nema priloga za grijehe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Imajuæi dakle slobodu, braæo, ulaziti u svetinju krvlju Isusa Hrista, putem novijem i živijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Koji nam je obnovio zavjesom, to jest tijelom svojijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I sveštenika velikoga nad domom Božijim:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Da pristupamo s istinitijem srcem u punoj vjeri, oèišæeni u srcima od zle savjesti, i umiveni po tijelu vodom èistom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Da se držimo tvrdo priznanja nada: jer je vjeran onaj koji je obeæao;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I da razumijevamo jedan drugoga u podbunjivanju k ljubavi i dobrijem djelima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ne ostavljajuæi skupštine svoje, kao što neki imaju obièaj, nego jedan drugoga svjetujuæi, i toliko veæma koliko vidite da se približuje dan sudni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jer kad mi griješimo navalice pošto smo primili poznanje istine, nema više žrtve za grijehe;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Nego strašno èekanje suda, i revnost ognja koji æe da pojede one koji se suprote."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ko prestupi zakon Mojsijev, bez milosti umire kod dva ili tri svjedoka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Koliko mislite da æe gore muke zaslužiti onaj koji sina Božijega pogazi, i krv zavjeta kojom se osveti za poganu uzdrži, i Duha blagodati naruži?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Jer znamo onoga koji reèe: moja je osveta, ja æu vratiti, govori Gospod; i opet: Gospod æe suditi narodu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Strašno je upasti u ruke Boga živoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Opominjite se pak prvijeh dana svojijeh, u koje se prosvijetliste i mnogu borbu stradanja podnesoste,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Koje postavši gledanje sa sramota i nevolja, a koje postavši drugovi onima koji žive tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Jer se na okove moje sažaliste, i dadoste s radošæu da se razgrabi vaše imanje, znajuæi da imate sebi imanje bolje i nepropadljivo na nebesima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ne odbacujte dakle slobode svoje, koja ima veliku platu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Jer vam je trpljenje od potrebe da volju Božiju savršivši primite obeæanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Jer još malo, vrlo malo, pak æe doæi onaj koji treba da doðe i neæe odocniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A pravednik življeæe od vjere; ako li otstupi neæe biti po volji moje duše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A mi, braæo, nijesmo od onijeh koji otstupaju na pogibao, nego od onijeh koji vjeruju da spasu duše."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/HEB/10.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 10
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/HEB/11.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 11
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/HEB/9.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "HEB",
+    "chapter": 9
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 39
+}

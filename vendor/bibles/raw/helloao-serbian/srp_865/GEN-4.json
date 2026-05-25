@@ -1,0 +1,258 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Iza toga Adam pozna Jevu ženu svoju, a ona zatrudnje i rodi Kajina, i reèe: dobih èovjeka od Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I rodi opet brata njegova Avelja. I Avelj posta pastir a Kajin ratar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A poslije nekoga vremena dogodi se, te Kajin prinese Gospodu prinos od roda zemaljskoga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A i Avelj prinese od prvina stada svojega i od njihove pretiline. I Gospod pogleda na Avelja i na njegov prinos,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A na Kajina i na njegov prinos ne pogleda. Zato se Kajin rasrdi veoma, i lice mu se promijeni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tada reèe Gospod Kajinu: što se srdiš? što li ti se lice promijeni?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Neæeš li biti mio, kad dobro èiniš? a kad ne èiniš dobro, grijeh je na vratima. A volja je njegova pod tvojom vlašæu, i ti si mu stariji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Poslije govoraše Kajin s Aveljem bratom svojim. Ali kad bijahu u polju, skoèi Kajin na Avelja brata svojega, i ubi ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tada reèe Gospod Kajinu: gdje ti je brat Avelj? A on odgovori: ne znam; zar sam ja èuvar brata svojega?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Bog reèe: šta uèini! glas krvi brata tvojega vièe sa zemlje k meni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I sada, da si proklet na zemlji, koja je otvorila usta svoja da primi krv brata tvojega iz ruke tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Kad zemlju uzradiš, neæe ti više davati blaga svojega. Biæeš potukaè i bjegunac na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Kajin reèe Gospodu: krivica je moja velika da mi se ne može oprostiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Evo me tjeraš danas iz ove zemlje da se krijem ispred tebe, i da se skitam i potucam po zemlji, pa æe me ubiti ko me udesi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Gospod mu reèe: zato ko ubije Kajina, sedam æe se puta to pokajati. I naèini Gospod znak na Kajinu da ga ne ubije ko ga udesi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I otide Kajin ispred Gospoda, i naseli se u zemlji Naidskoj na istoku prema Edemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I pozna Kajin ženu svoju, a ona zatrudnje i rodi Enoha. I sazida grad i prozva ga po imenu sina svojega Enoh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A Enohu rodi se Gaidad; a Gaidad rodi Maleleila; a Maleleilo rodi Matusala; a Matusal rodi Lameha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I uze Lameh dvije žene: jednoj bješe ime Ada a drugoj Sela."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I Ada rodi Jovila; od njega se narodiše koji žive pod šatorima i stoku pasu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A bratu njegovu bješe ime Juval; od njega se narodiše gudaèi i sviraèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A i Sela rodi Tovela, koji bješe vješt kovati svašta od mjedi i od gvožða; a sestra Tovelu bješe Noema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I reèe Lameh svojima ženama, Adi i Seli: èujte glas moj, žene Lamehove, poslušajte rijeèi moje: ubiæu èovjeka za ranu svoju i mladiæa za masnicu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Kad æe se Kajin osvetiti sedam puta, Lameh æe sedamdeset i sedam puta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A Adam opet pozna ženu svoju, i ona rodi sina, i nadje mu ime Sit, jer mi, reèe, Bog dade drugoga sina za Avelja, kojega ubi Kajin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I Situ se rodi sin, kojemu nadjede ime Enos. Tada se poèe prizivati ime Gospodnje."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 26
+}

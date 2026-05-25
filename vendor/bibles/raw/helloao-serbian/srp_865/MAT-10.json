@@ -1,0 +1,370 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "srp_865",
+    "name": "Mateju",
+    "commonName": "Mateju",
+    "title": "Jevanðelje po Mateju",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "2282cb47d4ecce5bfb50178a05f4b87b8f4e94d2e2954aa2bd38500539980051",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/MAT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I dozvavši svojijeh dvanaest uèenika dade im vlast nad duhovima neèistijem da ih izgone, i da iscjeljuju od svake bolesti i svake nemoæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A dvanaest apostola imena su ova: prvi Simon, koji se zove Petar, i Andrija brat njegov; Jakov Zevedejev, i Jovan brat njegov;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Filip i Vartolomije; Toma i Matej carinik; Jakov Alfejev, i Levej prozvani Tadija;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Simon Kananit, i Juda Iskariotski, koji ga i predade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ovijeh dvanaest posla Isus i zapovjedi im govoreæi: na put neznabožaca ne idite, i u grad Samarjanski ne ulazite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nego idite k izgubljenijem ovcama doma Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A hodeæi propovijedajte i kazujte da se približilo carstvo nebesko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Bolesne iscjeljujte, gubave èistite, mrtve dižite, ðavole izgonite; zabadava ste dobili, zabadava i dajite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ne nosite zlata ni srebra ni mjedi u pojasima svojijem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ni torbe na put, ni dvije haljine ni obuæe ni štapa; jer je poslenik dostojan svoga jela."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A kad u koji grad ili selo uðete, ispitajte ko je u njemu dostojan, i ondje ostanite dok ne iziðete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A ulazeæi u kuæu nazovite joj: mir kuæi ovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I ako bude kuæa dostojna, doæi æe mir vaš na nju; a ako li ne bude dostojna, mir æe se vaš k vama vratiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A ako vas ko ne primi niti posluša rijeèi vašijeh, izlazeæi iz kuæe ili iz grada onoga otresite prah s nogu svojijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zaisto vam kažem: lakše æe biti zemlji Sodomskoj i Gomorskoj u dan strašnoga suda negoli gradu onome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Eto, ja vas šaljem kao ovce meðu vukove: budite dakle mudri kao zmije i bezazleni kao golubovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A èuvajte se od ljudi; jer æe vas oni predati sudovima, i po zbornicama svojijem biæe vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I pred vlastelje i careve vodiæe vas mene radi za svjedoèanstvo njima i neznabošcima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A kad vas predadu, ne brinite se kako æete ili šta æete govoriti; jer æe vam se u onaj èas dati šta æete kazati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer vi neæete govoriti, nego Duh oca vašega govoriæe iz vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A predaæe brat brata na smrt i otac sina; i ustaæe djeca na roditelje i pobiæe ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I svi æe mrziti na vas imena mojega radi; ali koji pretrpi do kraja blago njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A kad vas potjeraju u jednom gradu, bježite u drugi. Jer vam kažem zaista: neæete obiæi gradova Izrailjevijeh dok doðe sin èovjeèij."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Nema uèenika nad uèitelja svojega ni sluge nad gospodara svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Dosta je uèeniku da bude kao uèitelj njegov i sluzi kao gospodar njegov. Kad su domaæina nazvali Veelzevulom, akamoli domaæe njegove?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ne bojte ih se dakle; jer nema ništa sakriveno što se neæe otkriti, ni tajno što se neæe doznati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Što vam govorim u tami, kazujte na vidiku; i što vam se šapæe na uši, propovijedajte s krovova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I ne bojte se onijeh koji ubijaju tijelo a duše ne mogu ubiti; nego se bojte onoga koji može i dušu i tijelo pogubiti u paklu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ne prodaju li se dva vrapca za jedan dinar? pa ni jedan od njih ne može pasti na zemlju bez oca vašega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A vama je i kosa na glavi sva izbrojena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ne bojte se dakle; vi ste bolji od mnogo vrabaca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A koji god prizna mene pred ljudima, priznaæu i ja njega pred ocem svojijem koji je na nebesima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A ko se odreèe mene pred ljudima, odreæi æu se i ja njega pred ocem svojijem koji je na nebesima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ne mislite da sam ja došao da donesem mir na zemlju; nijesam došao da donesem mir nego maè."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Jer sam došao da rastavim èovjeka od oca njegova i kæer od matere njezine i snahu od svekrve njezine:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I neprijatelji èovjeku postaæe domašnji njegovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Koji ljubi oca ili mater veæma nego mene, nije mene dostojan; i koji ljubi sina ili kæer veæma nego mene, nije mene dostojan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I koji ne uzme krsta svojega i ne poðe za mnom, nije mene dostojan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Koji èuva dušu svoju, izgubiæe je; a koji izgubi dušu svoju mene radi, naæi æe je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Koji vas prima, mene prima; a koji prima mene, prima onoga koji me je poslao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Koji prima proroka u ime proroèko, platu proroèku primiæe; a koji prima pravednika u ime pravednièko, platu pravednièku primiæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I ako ko napoji jednoga od ovijeh malijeh samo èašom studene vode u ime uèenièko, zaista vam kažem, neæe mu plata propasti."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAT/10.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 10
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/11.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 11
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAT/9.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 9
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 42
+}

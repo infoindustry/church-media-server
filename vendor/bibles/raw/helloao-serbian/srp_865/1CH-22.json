@@ -1,0 +1,209 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "srp_865",
+    "name": "1. Dnevnika",
+    "commonName": "1. Dnevnika",
+    "title": "1. Dnevnika",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "8ea0acc08b93472f39af29d769974347b255ab628ab40782b4687010563cbf90",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 29,
+    "lastChapterApiLink": "/api/srp_865/1CH/29.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 29
+    },
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 22,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I reèe David: ovo je kuæa Gospoda Boga i ovo je oltar za žrtvu paljenicu Izrailju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I zapovjedi David da se skupe inostranci koji bijahu u zemlji Izrailjevoj, i odredi kamenare da tešu kamen da se gradi dom Božji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I gvožða mnogo za kline na krila vratima i na sastavke pripravi David, i mjedi mnogo bez mjere,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I drva kedrovijeh bez broja; jer dovožahu Sidonci i Tirci mnogo drva kedrovijeh Davidu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer David govoraše: Solomun je sin moj dijete mlado, a dom koji treba zidati Gospodu treba da bude vrlo velik za slavu i diku po svijem zemljama; zato æu mu pripraviti što treba. I pripravi David mnoštvo prije smrti svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Potom dozva sina svojega Solomuna i zapovjedi mu da sazida dom Gospodu Bogu Izrailjevu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I reèe David Solomunu: sine! bio sam naumio da sazidam dom imenu Gospoda Boga svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ali mi doðe rijeè Gospodnja govoreæi: mnogo si krvi prolio i velike si ratove vodio; neæeš ti sazidati doma imenu mojemu, jer si mnogo krvi prolio na zemlju preda mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Evo, rodiæe ti se sin, on æe biti miran èovjek i smiriæu ga od svijeh neprijatelja njegovijeh unaokolo; zato æe mu biti ime Solomun; i mir i pokoj daæu Izrailju za njegova vremena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "On æe sazidati dom imenu mojemu, i on æe mi biti sin, a ja njemu otac, i utvrdiæu prijesto carstva njegova nad Izrailjem dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zato, sine, Gospod æe biti s tobom, i biæeš sreæan, te æeš sazidati dom Gospoda Boga svojega kao što je govorio za te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Samo da ti da Gospod razum i mudrost kad te postavi nad Izrailjem da držiš zakon Gospoda Boga svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada æeš biti sreæan, ako uzdržiš i ustvoriš uredbe i zakone koje je zapovjedio Gospod preko Mojsija Izrailju. Budi slobodan i hrabar, ne boj se i ne plaši se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I evo, u nevolji svojoj pripravio sam za dom Gospodnji sto tisuæa talanata zlata i tisuæu tisuæa talanata srebra; a mjedi i gvožða bez mjere, jer ga ima mnogo, takoðer i drva i kamena pripravio sam; a ti dodaj još."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A imaš i poslenika mnogo, kamenara i zidara i drvodjelja, i svakojakih ljudi vještijeh svakom poslu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ima zlata, srebra, i mjedi i gvožða bez mjere; nastani dakle i radi, i Gospod æe biti s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Potom zapovjedi David svijem knezovima Izrailjevijem da pomažu Solomunu sinu njegovu:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nije li s vama Gospod Bog vaš, koji vam je dao mir otsvuda? jer je dao u ruke moje stanovnike ove zemlje, i zemlja je pokorena Gospodu i narodu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Sada dakle upravite srce svoje i dušu svoju da tražite Gospoda Boga svojega; nastanite i zidajte svetinju Gospodu Bogu da unesete kovèeg zavjeta Gospodnjega i sveto posuðe Božije u dom koji æe se sazidati imenu Gospodnjemu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CH/22.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 22
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CH/23.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 23
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CH/21.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 21
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 19
+}

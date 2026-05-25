@@ -1,0 +1,419 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DAN",
+    "translationId": "srp_865",
+    "name": "Danilo",
+    "commonName": "Danilo",
+    "title": "Danilo",
+    "order": 27,
+    "numberOfChapters": 12,
+    "sha256": "a7cfcf76b959e48ff3096b5f1336feefdd92c2ade2010b0cbd670ebbe8f652f0",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DAN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DAN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 12,
+    "lastChapterApiLink": "/api/srp_865/DAN/12.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DAN",
+      "chapter": 12
+    },
+    "totalNumberOfVerses": 357
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A druge godine carovanja Navuhodonosorova usni Navuhodonosor san, i uznemiri mu se duh i san ga proðe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I reèe car da dozovu vraèe i zvjezdare i gatare i Haldeje da kažu caru san njegov. I doðoše i staše pred carem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reèe im car: usnih san, i uznemiri mi se duh kako bih doznao što sam snio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A Haldeji rekoše caru Sirski: care, da si živ dovijeka! pripovjedi san slugama svojim, pa æemo ti kazati što znaèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A car odgovori i reèe Haldejima: zaboravio sam; ako mi ne kažete što sam snio i što znaèi, biæete isjeèeni i kuæe æe vaše biti buništa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ako li mi kažete što sam snio i što znaèi, dobiæete od mene dare i poklone i veliku èast; kažite mi dakle što sam snio i što znaèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Odgovoriše opet i rekoše: neka car pripovjedi san slugama svojim, pa æemo kazati što znaèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Car odgovori i reèe: doista vidim da hoæete vremena da dobijete; jer vidite da sam zaboravio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ali ako mi ne kažete što sam snio i što znaèi, jedan vam je sud; jer ste se dogovorili da kažete preda mnom laž i prijevaru dok se promijeni vrijeme; zato kažite mi san, pa æu vidjeti da mi možete kazati što znaèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Odgovoriše Haldeji caru i rekoše: nema èovjeka na zemlji koji bi mogao kazati caru to što ište; zato nijedan car ni knez ni vlastelin nije nigda iskao tako što od vraèa ili zvjezdara ili Haldejca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I što car ište vrlo je teško; niti ima drugoga koji bi mogao kazati caru osim bogova, koji ne žive meðu ljudima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zato se car razljuti i razgnjevi vrlo, i zapovjedi da se pogube svi mudarci Vavilonski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I kad izide zapovijest, te ubijahu mudarce, tražahu i Danila i drugove njegove da ih ubiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Tada Danilo odgovori mudro i razumno Ariohu zapovjedniku stražarskom, koji bijaše izašao da ubija mudarce Vavilonske;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Odgovori i reèe Ariohu vlastelinu carevu: zašto je tako nagla zapovijest od cara? Tada Arioh kaza stvar Danilu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Danilo otide i zamoli cara da mu ostavi vremena, pak æe kazati caru što san znaèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Potom otide Danilo kuæi svojoj, i kaza stvar Ananiji, Misailu i Azariji, drugovima svojim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Da se mole za milost Bogu nebeskomu radi te tajne, da ne bi poginuli Danilo i drugovi mu s ostalijem mudarcima Vavilonskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I objavi se tajna Danilu u noænoj utvari; tada Danilo blagoslovi Boga nebeskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Progovori Danilo i reèe: da je blagosloveno ime Gospodnje od vijeka do vijeka; jer je njegova mudrost i sila;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I on mijenja vremena i èase; smeæe careve, i postavlja careve; daje mudrost mudrima i razum razumnima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "On otkriva što je duboko i sakriveno, zna što je u mraku, i svjetlost kod njega stanuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Tebe, Bože otaca mojih, hvalim i slavim, što si mi dao mudrost i silu, i što si mi objavio za što te molismo objaviv nam stvar carevu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Tada otide Danilo k Ariohu, kojega car bješe odredio da pogubi mudarce Vavilonske; i došav ovako mu reèe: ne gubi mudaraca Vavilonskih; izvedi me pred cara da kažem caru što san znaèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Tada Arioh brže izvede Danila pred cara, i ovako mu reèe: naðoh èovjeka izmeðu roblja Judina, koji æe kazati caru što san znaèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A car progovori i reèe Danilu, koji se zvaše Valtasar: možeš li mi kazati san koji sam snio i što znaèi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Odgovori Danilo caru i reèe: tajne koje car ište ne mogu kazati caru mudarci ni zvjezdari ni vraèi ni gatari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Nego ima Bog na nebu koji otkriva tajne i javlja caru Navuhodonosoru što æe biti do pošljetka. San tvoj i što ti je vidjela glava na postelji tvojoj ovo je:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Tebi, care, doðoše misli na postelji što æe biti poslije, i onaj koji objavljuje tajne pokaza ti što æe biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A meni se ova tajna nije objavila mudrošæu koja bi u mene bila mimo sve žive, nego zato da se javi caru što san znaèi i da doznaš misli srca svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ti, care, vidje a to lik velik; velik bijaše lik i svjetlost mu silna, i stajaše prema tebi, i strašan bijaše na oèima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Glava tome liku bijaše od èistoga zlata, prsi i mišice od srebra, trbuh i bedra od mjedi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Golijeni mu od gvožða, a stopala koje od gvožða koje od zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ti gledaše dokle se odvali kamen bez ruku, i udari lik u stopala mjedena i zemljana, i satr ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Tada se satr i gvožðe i zemlja i mjed i srebro i zlato, i posta kao pljeva na gumnu u ljeto, te odnese vjetar, i ne naðe mu se mjesto; a kamen, koji udari lik, posta gora velika i ispuni svu zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "To je san; a sada æemo kazati caru što znaèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Ti si, care, car nad carevima, jer ti Bog nebeski dade carstvo, silu i krjepost i slavu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I gdje god žive sinovi ljudski, zvijeri poljske i ptice nebeske, dao ti je u ruke, i postavio te gospodarem nad svijem tijem. Ti si ona glava zlatna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A nakon tebe nastaæe drugo carstvo, manje od tvojega; a potom treæe carstvo, mjedeno, koje æe vladati po svoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A èetvrto æe carstvo biti tvrdo kao gvožðe, jer gvožðe satire i troši sve, i kao gvožðe što sve lomi, tako æe satrti i polomiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A što si vidio stopala i prste koje od kala lonèarskoga koje od gvožða, biæe carstvo razdijeljeno, ali æe biti u njemu tvrðe od gvožða, jer si vidio gvožðe pomiješano s kalom lonèarskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I što prsti u nogu bijahu koje od gvožða koje od kala, carstvo æe biti nešto jako a nešto trošno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "A što si vidio gvožðe pomiješano sa kalom lonèarskim, to æe se oni pomiješati sjemenom èovjeèijim, ali neæe prionuti jedan za drugoga kao što se gvožðe ne može smiješati s kalom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "A u vrijeme tijeh careva Bog æe nebeski podignuti carstvo koje se dovijeka neæe rasuti, i to se carstvo neæe ostaviti drugom narodu; ono æe satrti i ukinuti sva ta carstva, a samo æe stajati dovijeka,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Kako si vidio gdje se od gore odvali kamen bez ruku i satr gvožðe, mjed, kao, srebro i zlato. Bog veliki javi caru što æe biti poslije; san je istinit, i tumaèenje mu vjerno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Tada car Navuhodonosor pade na lice svoje, i pokloni se Danilu, i zapovjedi da mu prinesu prinos i kad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Car progovori Danilu i reèe: doista, vaš je Bog Bog nad bogovima i gospodar nad carevima, i koji objavljuje tajne, kad si mogao otkriti ovu tajnu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Tada car uzvisi Danila, i dade mu mnoge velike darove i uèini ga gospodarem svoj zemlji Vavilonskoj i poglavarem nad svijem mudarcima Vavilonskim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "I Danilo izmoli u cara, te postavi nad poslovima zemlje Vavilonske Sedraha, Misaha i Avdenaga, a Danilo osta na dvoru carevu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DAN/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DAN/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DAN/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 49
+}

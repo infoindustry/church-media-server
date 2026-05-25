@@ -1,0 +1,167 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2JN",
+    "translationId": "srp_865",
+    "name": "2 Jovanova",
+    "commonName": "2 Jovanova",
+    "title": "2. Jovanova Poslanica",
+    "order": 63,
+    "numberOfChapters": 1,
+    "sha256": "f73ebe72e0fc2eb78c67946be733ccc901afb92caca3dee7a20a081665104726",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2JN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2JN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 1,
+    "lastChapterApiLink": "/api/srp_865/2JN/1.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2JN",
+      "chapter": 1
+    },
+    "totalNumberOfVerses": 13
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Od starješine izbranoj gospoði i djeci njezinoj, koju ja ljubim vaistinu, i ne samo ja nego svi koji poznaše istinu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Za istinu koja u nama stoji i biæe s nama dovijeka:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Da bude s vama blagodat, milost, mir od Boga oca i od Gospoda Isusa Hrista, sina oèina, u istini i u ljubavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Obradovah se vrlo što naðoh neke od tvoje djece koji hode u istini, kao što primismo zapovijest od oca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I sad molim te, gospoðo, ne kao da ti novu zapovijest pišem, nego koju imamo ispoèetka, da imamo ljubav meðu sobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I ova je ljubav da živimo po zapovijestima njegovijem. Ova je zapovijest, kao što èuste ispoèetka, da u njoj živite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer mnoge varalice iziðoše na svijet koji ne priznaju Isusa Hrista da je došao u tijelu; ovo je varalica i antihrist."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Èuvajte se da ne izgubimo što smo zaradili, nego da primimo platu potpuno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Koji god prestupa i ne stoji u nauci Hristovoj onaj nema Boga; a koji stoji u nauci Hristovoj onaj ima i oca i sina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ako ko dolazi k vama i ove nauke ne donosi, ne primajte ga u kuæu, i ne pitajte se s njim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer ko se upita s njim, prima dijel u njegovijem zlijem djelima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mnogo bih vam imao pisati, ali ne htjedoh hartijom i mastilom; jer se nadam da æu doæi k vama i iz usta govoriti, da radost vaša bude ispunjena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Pozdravljaju te djeca tvoje sestre izbrane. Amin."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2JN/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2JN",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/3JN/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "3JN",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1JN/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1JN",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 13
+}

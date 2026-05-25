@@ -1,0 +1,342 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 37,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad to èu car Jezekija, razdrije haljine svoje i veza oko sebe kostrijet, pa otide u dom Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I posla Elijakima, koji bijaše nad dvorom, i Somnu pisara i najstarije sveštenike obuèene u kostrijet k Isaiji proroku sinu Amosovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I rekoše mu: ovako veli Jezekija: ovo je dan nevolje i kara i ruga, jer prispješe djeca do poroðaja, a nema snage da se rode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Da ako je èuo Gospod Bog tvoj što reèe Ravsak, kojega posla car Asirski gospodar njegov da ruži Boga živoga i da ga vrijeða rijeèima koje je èuo Gospod Bog tvoj, pomoli se za ostatak koji se nalazi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I doðoše k Isaiji sluge cara Jezekije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I reèe im Isaija: ovako recite gospodaru svojemu: ovako veli Gospod: ne plaši se od rijeèi koje si èuo, kojima huliše na me sluge cara Asirskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Evo, ja æu pustiti na nj duh, te æe èuti glas i vratiti se u svoju zemlju, i uèiniæu da pogine od maèa u svojoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I tako vrativši se Ravsak naðe cara Asirskoga gdje bije Livnu, jer bješe èuo da je otišao od Lahisa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A on èu za Tiraku cara Huskoga gdje kazaše: ide da se bije s tobom. I èuvši posla poslanike k Jezekiji govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ovako recite Jezekiji caru Judinu: nemoj da te vara Bog tvoj, u kojega se uzdaš govoreæi: neæe se dati Jerusalim u ruke caru Asirskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Eto, èuo si šta su uèinili carevi Asirski svijem zemljama potrvši ih sasvijem; a ti li æeš se izbaviti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jesu li narode koje satrše oci moji izbavili bogovi njihovi, Gosance, Harance, Resefe i sinove Edenove koji bijahu u Telasaru?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Gdje je car Ematski i car Arfadski i car od grada Sefarvima, od Ene i Ave?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A kad Jezekija primi knjigu iz ruku poslanika i proèita je, otide u dom Gospodnji, i razvi je Jezekija pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I pomoli se Jezekija Gospodu govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Gospode nad vojskama, Bože Izrailjev, koji sjediš na heruvimima, ti si sam Bog svijem carstvima na zemlji, ti si stvorio nebo i zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Prigni, Gospode, uho svoje i èuj; otvori, Gospode, oèi svoje i vidi; èuj sve rijeèi Senahirima, koji posla da ruži Boga živoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Istina je, opustošili su carevi Asirski sve one narode i zemlje njihove,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I pobacali su bogove njihove u oganj, jer ne bijahu bogovi, nego djelo ruku èovjeèijih, drvo i kamen, zato ih potrše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I zato, Gospode Bože naš, izbavi nas iz ruku njegovijeh, da poznadu sva carstva na zemlji da si ti sam Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tada posla Isaija sin Amosov k Jezekiji i poruèi mu: ovako veli Gospod Bog Izrailjev: uslišio sam za što si mi se molio radi Senahirima cara Asirskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ovo je rijeè koju izreèe Gospod za nj: ruga ti se i potsmijeva ti se djevojka, kæi Sionska, za tobom maše glavom kæi Jerusalimska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Koga si ružio i hulio? i na koga si podigao glas? i podigao uvis oèi svoje? Na sveca Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Preko sluga svojih ružio si Gospoda i rekao si: s mnoštvom kola svojih izidoh na visoke gore, na strane Livanske, i posjeæi æu visoke kedre njegove, i lijepe jele njegove, i doæi æu na najviši kraj njegov, u šumu njegova Karmila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ja sam kopao, i pio vodu, i isušio sam stopama svojim sve potoke gradovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Nijesi li èuo da ja to odavna èinim i od iskona da sam tako uredio? sada puštam to, da prevratiš tvrde gradove u puste gomile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Zato koji u njima žive iznemogoše, uplašiše se i smetoše se, postaše kao trava poljska, kao zelena travica, kao trava na krovovima, koja se suši prije nego sazri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Znam sjeðenje tvoje i polaženje tvoje i dolaženje tvoje i kako bjesniš na me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Jer bjesniš na me, i tvoja obijest doðe do mojih ušiju, zato æu metnuti brnjicu svoju na nozdrve tvoje, i uzdu svoju u gubicu tvoju, pa æu te odvesti natrag putem kojim si došao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A tebi ovo neka bude znak: ješæete ove godine što samo od sebe rodi, a druge godine što opet samo od sebe rodi; a treæe godine sijte i žanjite i sadite vinograde i jedite rod iz njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Jer ostatak doma Judina, što ostane, opet æe pustiti žile ozdo i roditi ozgo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Jer æe iz Jerusalima izaæi ostatak, i iz gore Siona, koji se saèuvaju. Revnost Gospoda nad vojskama uèiniæe to."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Zato ovako veli Gospod za cara Asirskoga: neæe uæi u ovaj grad, niti æe baciti amo strijele, neæe se primaæi k njemu sa štitom, niti æe iskopati opkopa oko njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Vratiæe se putem kojim je došao, a u grad ovaj neæe uæi, veli Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Jer æu braniti taj grad i saèuvaæu ga sebe radi i radi Davida sluge svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Tada izide anðeo Gospodnji i pobi u okolu Asirskom sto i osamdeset i pet tisuæa; i kad ustaše ujutru, a to sve sami mrtvaci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Te se podiže Senahirim car Asirski, i otide, i vrativši se osta u Nineviji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I kad se klanjaše u domu Nisroka boga svojega, Adrameleh i Sarasar sinovi njegovi ubiše ga maèem, a sami pobjegoše u zemlju Araratsku, i na njegovo se mjesto zacari Esaradon sin njegov."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/37.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 37
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/38.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 38
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/36.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 36
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 38
+}

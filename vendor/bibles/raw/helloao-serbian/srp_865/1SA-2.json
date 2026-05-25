@@ -1,0 +1,328 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I Ana se pomoli i reèe: razveseli se srce moje u Gospodu; podiže se rog moj u Gospodu; otvoriše se usta moja na neprijatelje moje, jer sam radosna radi spasenja tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nema svetoga kao što je Gospod; jer nema drugoga osim tebe; i nema stijene kao što je Bog naš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ne govorite više ponosito, i neka ne izlaze iz usta vaših rijeèi ohole; jer je Gospod Bog koji sve zna, i on udešava namjere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Luk junacima slomi se, i iznemogli opasaše se snagom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Koji bijahu siti, naimaju se za hljeb; a koji bijahu gladni, nijesu više; i nerotkinja rodi sedmoro, a koja imaše djece, iznemože."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Gospod ubija, i oživljuje; spušta u grob, i izvlaèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Gospod siromaši, i bogati; ponižuje, i uzvišuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Siromaha podiže iz praha, i iz bunjišta uzvišuje ubogoga da ga posadi s knezovima, i daje im da naslijede prijesto slave; jer su Gospodnji temelji zemaljski, i na njima je osnovao vasiljenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Saèuvaæe noge milijeh svojih, a bezbožnici æe umuknuti u mraku; jer svojom snagom neæe èovjek nadjaèati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Koji se suprote Gospodu, satræe se; na njih æe zagrmjeti s neba; Gospod æe suditi krajevima zemaljskim, i daæe snagu caru svojemu, i uzvisiæe rog pomazaniku svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Potom otide Elkana u Ramat kuæi svojoj, a dijete služaše Gospodu pred Ilijem sveštenikom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A sinovi Ilijevi bijahu nevaljali, i ne znadijahu za Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer u tijeh sveštenika bješe obièaj prema narodu: kad ko prinošaše žrtvu, dolažaše momak sveštenikov dok se kuhaše meso s viljuškama trokrakim u ruci,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I zabadaše u sud, ili u kotao, ili u tavu, ili u lonac, i što se god nabode na viljuške uzimaše sveštenik. Tako èinjahu svemu Izrailju koji dolažaše u Silom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tako i prije nego bi zapalili salo, došao bi momak sveštenikov, te bi rekao èovjeku koji prinošaše žrtvu: daj meso da ispeèem svešteniku, jer ti neæu primiti mesa kuhana, nego sirovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ako bi mu tada èovjek odgovorio: neka se prvo zapali salo, pa onda uzmi što ti god duša želi; on bi rekao: ne, nego daj sada, ako li ne daš, uzeæu silom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I grijeh onijeh mladiæa bijaše vrlo velik pred Gospodom, jer ljudi ne marahu za prinos Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A Samuilo služaše pred Gospodom još dijete u opleæku lanenom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A mati mu naèini mali plašt i donese mu, i tako èinjaše svake godine dolazeæi s mužem svojim da prinese žrtvu godišnju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Ilije blagoslovi Elkanu i ženu njegovu govoreæi: Gospod da ti da poroda od te žene za ovoga kojega je dala Gospodu! I otidoše u svoje mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I Gospod pohodi Anu, i ona zatrudnje i rodi tri sina i dvije kæeri. A dijete Samuilo rastijaše pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A Ilije bijaše vrlo star, i èu sve što èinjahu sinovi njegovi svemu Izrailju, i kako spavahu sa ženama koje dolažahu gomilama na vrata šatora od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I govoraše im: zašto to radite? jer èujem zle rijeèi o vama od svega naroda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Nemojte, djeco moja; jer nije dobro što èujem; otpaðujete narod Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Kad èovjek zgriješi èovjeku, sudiæe mu sudija; ali kad ko zgriješi Gospodu, ko æe moliti za nj? Ali ne poslušaše oca svojega, jer Gospod šæaše da ih ubije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A dijete Samuilo rastijaše i bijaše mio i Gospodu i ljudima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Tada doðe èovjek Božji k Iliju, i reèe mu: ovako veli Gospod: ne javih li se domu oca tvojega, kad bijahu u Misiru u kuæi Faraonovoj?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I izabrah ga izmeðu svijeh plemena Izrailjevijeh sebi za sveštenika da prinosi žrtve na oltaru mojem i da kadi kadom i nosi opleæak preda mnom, i dadoh domu oca tvojega sve žrtve ognjene sinova Izrailjevijeh?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Zašto gazite žrtvu moju i prinos moj, koje sam zapovjedio da se prinose u šatoru? i paziš sinove svoje veæma nego mene, da se gojite prvinama svijeh prinosa Izrailja naroda mojega?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Zato Gospod Bog Izrailjev kaže: rekao sam doista: dom tvoj i dom oca tvojega služiæe preda mnom dovijeka; ali kaže Gospod: neæe biti tako, jer one æu poštovati koji mene poštuju, a koji mene preziru, biæe prezreni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Gle, idu dani, kad æu odsjeæi tebi ruku i ruku domu oca tvojega, da ne bude starca u domu tvojem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I vidjeæeš nevolju u šatoru mjesto svega dobra što je Gospod èinio Izrailju; neæe biti starca u domu tvojem dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A koga od tvojih ne istrijebim ispred oltara svojega, onaj æe ostati da ti èile oèi i da ti se cvijeli duša; i sav podmladak doma tvojega umiraæe u najboljim godinama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I ovo da ti je znak što æe doæi na oba sina tvoja, na Ofnija i Finesa: u jedan dan poginuæe obojica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A sebi æu podignuti sveštenika vjerna, on æe raditi po srcu mojemu i po duši mojoj; i sazidaæu mu tvrd dom, i on æe hoditi pred pomazanikom mojim vazda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I ko ostane od doma tvojega, doæi æe da mu se pokloni za srebrn novac i za komad hljeba, i govoriæe: primi me u kaku službu sveštenièku da imam komad hljeba."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 36
+}

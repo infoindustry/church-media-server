@@ -1,0 +1,153 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NEH",
+    "translationId": "srp_865",
+    "name": "Nehemija",
+    "commonName": "Nehemija",
+    "title": "Nehemija",
+    "order": 16,
+    "numberOfChapters": 13,
+    "sha256": "b3e002d188e97ff8412d809ae23924019a35a6f9ea4afc2d33f820ac54e43f1c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NEH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NEH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 13,
+    "lastChapterApiLink": "/api/srp_865/NEH/13.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NEH",
+      "chapter": 13
+    },
+    "totalNumberOfVerses": 406
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Rijeèi Nemije sina Ahalijina. Mjeseca Hisleva godine dvadesete kad bijah u Susanu gradu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Doðe Ananije jedan od braæe moje s nekima iz Judeje; i zapitah ih za Judejce, za ostatak što bješe ostao od ropstva, i za Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A oni mi rekoše: ostatak što osta od ropstva ondje u zemlji, u velikoj je nevolji i sramoti, i zid je Jerusalimski razvaljen i vrata su mu ognjem popaljena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A kad èuh te rijeèi, sjedoh i plakah, i tužih nekoliko dana, i postih i molih se pred Bogom nebeskim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I rekoh: oh Gospode Bože nebeski, Bože veliki i strašni, koji èuvaš zavjet i milost onima koji te ljube i drže tvoje zapovijesti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Neka bude uho tvoje prignuto i oèi tvoje otvorene da èuješ molitvu sluge svojega kojom se sada molim pred tobom dan i noæ za sinove Izrailjeve, sluge tvoje, i ispovijedam grijehe sinova Izrailjevijeh kojima ti zgriješismo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Skrivismo ti i ne držasmo zapovijesti ni uredaba ni zakona koje si zapovjedio preko Mojsija sluge svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ali se opomeni rijeèi koju si zapovjedio Mojsiju sluzi svojemu govoreæi: vi æete zgriješiti i ja æu vas rasijati meðu narode;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ali ako se obratite k meni i stanete držati zapovijesti moje i tvoriti ih, ako budete zagnani i na kraj svijeta, sabraæu vas odande i odvešæu vas na mjesto koje sam izabrao da ondje nastanim ime svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A ovo su sluge tvoje i narod tvoj, koji si iskupio silom svojom velikom i rukom svojom krjepkom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Oh Gospode! neka bude uho tvoje prignuto k molitvi sluge tvojega i k molitvi sluga tvojih, koji su radi bojati se imena tvojega, i daj danas sreæu sluzi svojemu i uèini da naðe milost pred ovijem èovjekom. A ja bijah peharnik carev."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NEH/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NEH",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NEH/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NEH",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZR/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 11
+}

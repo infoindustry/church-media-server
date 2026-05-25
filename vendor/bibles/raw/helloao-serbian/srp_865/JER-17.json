@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Grijeh je Judin zapisan gvozdenom pisaljkom i vrhom od dijamanta, urezan je na ploèi srca njihova i na rogovima oltara vaših,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Da se sinovi njihovi sjeæaju oltara njihovijeh i lugova njihovijeh pod zelenijem drvetima, na visokim humovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Goro s poljem, daæu imanje tvoje, sve blago tvoje daæu da se razgrabi, visine tvoje, za grijeh po svijem meðama tvojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I ti æeš i koji su s tobom ostaviti našljedstvo svoje, koje sam ti dao, i uèiniæu da služiš neprijateljima svojim u zemlji koje ne poznaješ; jer ste raspalili oganj gnjeva mojega, koji æe gorjeti dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ovako veli Gospod: da je proklet èovjek koji se uzda u èovjeka i koji stavlja tijelo sebi za mišicu, a od Gospoda otstupa srce njegovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer æe biti kao vrijes u pustinji, koji ne osjeæa kad doðe dobro, nego stoji u pustinji, na suhim mjestima u zemlji slanoj i u kojoj se ne živi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Blago èovjeku koji se uzda u Gospoda i kome je Gospod uzdanica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer æe biti kao drvo usaðeno kraj vode i koje niz potok pušta žile svoje, koje ne osjeæa kad doðe pripeka, nego mu se list zeleni, i sušne godine ne brine se i ne prestaje raðati rod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Srce je prijevarno više svega i opako; ko æe ga poznati?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ja Gospod ispitujem srca i iskušavam bubrege, da bih dao svakome prema putovima njegovijem i po plodu djela njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Kao što jarebica leži na jajima ali ne izleže, tako ko sabira bogatstvo ali s nepravdom, u polovini dana svojih ostaviæe ga i najposlije æe biti lud."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mjesto je svetinje naše prijesto slave, visoko mjesto od poèetka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nade Izrailjev, Gospode! svi koji te ostavljaju neka se posrame; koji otstupaju od mene, neka se zapišu na zemlji, jer ostaviše izvor vode žive, Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Iscijeli me, Gospode, i biæu iscijeljen; izbavi me, i biæu izbavljen, jer si ti hvala moja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Gle, oni mi govore: gdje je rijeè Gospodnja? Neka doðe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A ja se ne zatezah iæi za tobom kao pastir, i dana žalosnoga ne željeh, ti znaš; što je god izašlo iz usta mojih, pred tobom je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ne budi mi strah, ti si utoèište moje u zlu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Neka se posrame koji me gone, a ja ne; neka se oni uplaše, a ja ne; pusti na njih zli dan, i dvostrukim polomom polomi ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ovako mi reèe Gospod: idi, i stani na vrata sinova narodnijeh, na koja ulaze carevi Judini i na koja izlaze, i na svaka vrata Jerusalimska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I reci im: èujte rijeè Gospodnju, carevi Judini i svi Judejci i svi Jerusalimljani, koji ulazite na ova vrata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ovako veli Gospod: èuvajte se da ne nosite bremena u subotu i ne unosite na vrata Jerusalimska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I ne iznosite bremena iz kuæa svojih u subotu, i nikakoga posla ne radite, nego svetite subotu, kao što sam zapovjedio ocima vašim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ali ne poslušaše niti prignuše uha svojega, nego otvrdnuše vratom svojim da ne poslušaju i ne prime nauke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ako me poslušate, govori Gospod, da ne nosite bremena na vrata ovoga grada u subotu, nego svetite subotu ne radeæi u nju nikakoga posla,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Tada æe ulaziti na vrata grada ovoga carevi i knezovi, koji sjede na prijestolu Davidovu, na kolima i na konjma, oni i knezovi njihovi, Judejci i Jerusalimljani, i stajaæe ovaj grad dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I dolaziæe iz gradova Judinijeh i iz okoline Jerusalimske, i iz zemlje Venijaminove, i iz ravnice i iz gora i s juga, i donosiæe žrtve paljenice i prinose s darom i kadom, i žrtve zahvalne donosiæe u dom Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ako li me ne poslušate da svetite subotu i ne nosite bremena ulazeæi na vrata Jerusalimska u subotu, onda æu raspaliti oganj na vratima njegovijem, koji æe upaliti dvorove Jerusalimske i neæe se ugasiti."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/17.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 17
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/18.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 18
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/16.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 16
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ROM",
+    "translationId": "srp_865",
+    "name": "Rimljanima",
+    "commonName": "Rimljanima",
+    "title": "Poslanica Rimljanima",
+    "order": 45,
+    "numberOfChapters": 16,
+    "sha256": "1fe4947b687992778ed830174635b188e37a5a7f483de9affcbbb4c949cc6571",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ROM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/ROM/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 433
+  },
+  "chapter": {
+    "number": 14,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A slaboga u vjeri primajte lijepo, da se ne smeta savjest."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer jedan vjeruje da smije svašta jesti, a koji je slab jede zelje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Koji jede neka ne ukorava onoga koji ne jede; i koji ne jede neka ne osuðuje onoga koji jede; jer ga Bog primi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ko si ti koji sudiš tuðemu sluzi? On svojemu gospodaru stoji ili pada. Ali æe ustati; jer je Bog kadar podignuti ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tako jedan razlikuje dan od dana, a drugi drži sve dane da su jednaki: svaki da bude uvjeren za svoju misao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Koji razlikuje dane, Gospodu razlikuje; i koji ne razlikuje dana, Gospodu ne razlikuje. Koji jede, Gospodu jede: jer hvali Boga; i koji ne jede, Gospodu ne jede, i hvali Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer nijedan od nas ne živi sebi, i nijedan ne umire sebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer ako živimo, Gospodu živimo; a ako umiremo, Gospodu umiremo. Ako dakle živimo, ako umiremo, Gospodnji smo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer zato Hristos i umrije i vaskrse i oživlje da oblada i mrtvima i živima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A ti zašto osuðuješ brata svojega? Ili ti zašto ukoravaš brata svojega? Jer æemo svi iziæi na sud pred Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer je pisano: tako mi života, govori Gospod, pokloniæe mi se svako koljeno, i svaki jezik slaviæe Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tako æe dakle svaki od nas dati Bogu odgovor za sebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zato da ne osuðujemo više jedan drugoga, nego mjesto toga ovo gledajte da ne postavljate bratu spoticanja ili sablazni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Znam i uvjeren sam u Hristu Isusu da ništa nije pogano po sebi, osim kad ko misli da je što pogano, onome je pogano."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A ako je brat tvoj jela radi žalostan, veæ se ne vladaš po ljubavi: ne gubi jelom svojijem onoga za kojega Hristos umrije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Gledajte dakle da se ne huli na vaše dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer carstvo Božije nije jelo i piæe, nego pravda i mir i radost u Duhu svetome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer koji ovijem služi Hristu ugodan je Bogu i mio ljudima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tako dakle da se staramo za mir i za ono èim vodimo na bolje jedan drugoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ne raskopavaj djela Božijega jela radi; jer je sve èisto; nego je pogano za èovjeka koji jede sa spoticanjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Dobro je ne jesti mesa, i vina ne piti, i ono ne èiniti na što se tvoj brat spotièe, ili oda šta gori postaje ili slabi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ti imaš vjeru? Imaj je sam u sebi pred Bogom. Blago onome koji ne osuðuje sebe za ono šta naðe za dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A koji se sumnja osuðen je ako jede, jer ne èini po vjeri: a šta god nije po vjeri grijeh je."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ROM/14.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 14
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ROM/15.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 15
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ROM/13.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 13
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

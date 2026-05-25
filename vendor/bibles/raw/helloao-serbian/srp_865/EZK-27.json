@@ -1,0 +1,328 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 27,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Opet mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I ti, sine èovjeèji, narièi za Tirom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reci Tiru, koji stoji na ulasku morskom, koji trguje s narodima na mnogim ostrvima: ovako veli Gospod Gospod: Tire, ti govoraše: ja sam sasvijem lijep."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Meðe su ti u srcu morskom; koji te zidaše, naèiniše te sasvijem lijep."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Od jela Senirskih gradiše ti daske, kedre s Livana uzimaše da ti grade stupove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Od hrastova Vasanskih gradiše ti vesla, sjedišta ti gradiše od slonove kosti i od šimšira s ostrva Kitejskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tanko platno Misirsko izmetano razapinjao si da su ti jedra; porfirom i skerletom s ostrva Eliskih pokrivao si se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Stanovnici Sidonski i Arvadski bijahu ti veslari; mudarci tvoji, Tire, što bijahu u tebi, bijahu ti krmari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Starješine i mudarci Gevalski opravljahu u tebi što bi ti se pokvarilo; sve laðe morske i laðari bijahu u tebi trgujuæi s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Persijanci i Ludeji i Puteji bijahu u vojsci tvojoj tvoji vojnici; štitove i šljemove vješahu u tebi; oni te ukrašavahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Sinovi Arvadski s tvojom vojskom bijahu na zidovima tvojim unaokolo, i Gamadeji bijahu u kulama tvojim, štitove svoje vješahu na zidovima tvojim unaokolo, oni ti dovršivahu ljepotu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tarsis trgovaše s tobom mnogim svakojakim blagom; sa srebrom, s gvožðem, s kositerom i s olovom dolažahu na sajme tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Javan, Tuval i Meseh bijahu tvoji trgovci; s dušama ljudskim i sudima mjedenijem dolažahu na sajme tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A koji su od doma Togarmina, s konjma i konjicima i mazgama dolažahu na sajme tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Sinovi Dedanovi bijahu trgovci tvoji, mnogih ostrva trgovina bijaše u tvojim rukama; kosti slonove i drvo evenovo donošahu ti u promjenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Sirija trgovaše s tobom mnoštvom djela tvojih, dolažaše na sajme tvoje sa smaragdom i porfirom i uzvodom i tankim platnom, i koralom i ahatom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Juda i zemlja Izrailjeva bijahu tvoji trgovci, dolažahu na sajme tvoje sa pšenicom Minitskom i Finièkom i medom i uljem i balsamom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Damasak trgovaše s tobom mnoštvom djela tvojih, mnoštvom svakoga blaga, vinom Helvonskim i bijelom vunom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I Dan i Javan i Mosel dolažahu na sajme tvoje; uraðeno gvožðe i kasiju i cimet mijenjahu s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Dedan trgovaše s tobom skupocjenijem prostirkama za kola."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Arapi i svi knezovi Kidarski trgovahu s tobom; s jaganjcima i ovnovima i jarcima dolažahu na sajme tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Trgovci Savski i Ramski trgovahu s tobom; dolažahu na sajme tvoje sa svakojakim mirisima i svakojakim dragim kamenjem i zlatom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Haran i Kana i Eden, trgovci Savski, Asur i Hilmad trgovahu s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ti trgovahu s tobom svakojakim stvarima, porfirom i uzvodom i kovèezima bogatijeh nakita, koji se svezivahu užima i bijahu od kedra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Laðe Tarsiske bijahu prve u tvojoj trgovini, i ti bijaše veoma pun i veoma slavan u srcu morskom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Veslari tvoji odvezoše te na puèinu; vjetar istoèni razbi te usred mora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Blago tvoje i sajmi tvoji, trgovina tvoja, laðari tvoji i krmari tvoji i koji opravljahu kvarne laðe tvoje, i trgovci tvoji i svi vojnici tvoji i sav narod što bješe u tebi pašæe u srce moru kad ti propadneš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Od vike tvojih krmara uskolebaæe se vali morski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I izaæi æe iz laða svojih svi veslari, laðari, svi krmari morski, i staæe na zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I povikaæe za tobom iza glasa i zaridati gorko, i posuæe prahom glave svoje i po pepelu æe se valjati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I za tobom æe se naèiniti æelavi, i pripasaæe kostrijet, i plakaæe za tobom gorko iz srca, i gorko æe ridati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I za tobom æe zapijevati u žalosti svojoj i naricaæe za tobom: ko je bio kao Tir, oboreni usred mora?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Kad izlažahu trgovi tvoji iz mora, sitio si mnoge narode, mnoštvom svojega bogatstva i trgovine svoje obogaæavao si careve zemaljske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Kad te razbi more na dubokoj vodi, trgovina tvoja i sav narod tvoj u tebi pade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Svi ostrvljani prepadoše se od tebe, i carevi njihovi uzdrktaše se i preblijediše u licu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Trgovci po narodima zazviždaše nad tobom: postao si strahota, i neæe te biti dovijeka."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/27.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 27
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/28.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 28
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/26.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 26
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 36
+}

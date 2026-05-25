@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Opet mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Sine èovjeèji, prorokuj protiv proroka Izrailjevijeh koji prorokuju, i reci tijem koji prorokuju iz svoga srca: èujte rijeè Gospodnju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ovako govori Gospod Gospod: teško ludijem prorocima koji idu za svojim duhom a ništa nijesu vidjeli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Proroci su tvoji, Izrailju, kao lisice po pustinjama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ne izlazite na prolome i ne ograðujete doma Izrailjeva da bi se održao u boju u dan Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Vide taštinu i gatanje lažno, pa govore: Gospod kaže, a Gospod ih nije poslao, i daju nad da æe se rijeè ispuniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ne viðate li taštu utvaru i ne govorite li lažno gatanje? a opet kažete: Gospod reèe; a ja ne rekoh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Zato ovako veli Gospod Gospod: zato što govorite taštinu i vidite laž, zato evo mene na vas, govori Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I ruka æe moja biti protiv proroka koji vide taštinu i gataju laž; neæe ih biti u zboru naroda moga, i u prijepisu doma Izrailjeva neæe biti zapisani, niti æe doæi u zemlju Izrailjevu; i poznaæete da sam ja Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zato, zato što prelastiše narod moj govoreæi: mir je, a mira ne bješe; i jedan ozida zid, a drugi ga namazaše kreèem nevaljalijem;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Reci onijem što mažu nevaljalijem kreèem da æe pasti; doæi æe silan dažd, i vi, kamenje velikoga grada, pašæete i oluja æe razvaliti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I gle, kad padne zid, neæe li vam se reæi: gdje je kreè kojim mazaste?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zato ovako veli Gospod Gospod: razvaliæu olujom u gnjevu svom, i silan æe dažd doæi u gnjevu mom, i kamenje velikoga grada u jarosti mojoj da potre."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I razvaliæu zid koji namazaste nevaljalijem kreèem, i oboriæu ga na zemlju da æe mu se otkriti temelj, i pašæe, i vi æete izginuti usred njega, i poznaæete da sam ja Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I tako æu navršiti gnjev svoj na zidu i na onima koji ga mažu kreèem nevaljalijem, i reæi æu vam: nema zida, niti onijeh koji ga mazaše,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Proroka Izrailjevijeh koji prorokuju Jerusalimu i vide mu utvare za mir, a mira nema, govori Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A ti, sine èovjeèji, okreni lice svoje prema kæerima naroda svojega, koje prorokuju iz svoga srca, i prorokuj protiv njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I reci: ovako veli Gospod Gospod: teško onima koje šiju uzglavlja pod sve laktove i grade pokrivala na glavu svakoga rasta da love duše. Lovite duše mojega naroda, a svoje li æete duše saèuvati?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I skvrnite me kod naroda mojega za grst jeèma i za zalogaj hljeba ubijajuæi duše, koje ne bi trebalo da umru, i èuvajuæi u životu duše koje ne treba da žive, lažuæi narodu mojemu, koji sluša laž."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Zato ovako veli Gospod Gospod: evo mene na vaša uzglavlja, na koja lovite duše da vam dolijeæu, i poderaæu ih ispod lakata vaših, i pustiæu duše koje lovite da vam dolijeæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I poderaæu pokrivala vaša i izbaviæu svoj narod iz vaših ruku, i neæe više biti u vašim rukama da vam budu lov, i poznaæete da sam ja Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer žalostiste lažju srce pravedniku, kojega ja ne ožalostih, i krijepiste ruke bezbožniku da se ne vrati sa svoga zloga puta da se saèuva u životu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Zato neæete viðati taštine i neæete više gatati, nego æu izbaviti narod svoj iz vaših ruku, i poznaæete da sam ja Gospod."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/13.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 13
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/14.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 14
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/12.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 12
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

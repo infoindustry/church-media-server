@@ -1,0 +1,286 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A èuše i apostoli i braæa koji bijahu u Judeji da i neznabošci primiše rijeè Božiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I kad iziðe Petar u Jerusalim, prepirahu se s njim koji bijahu iz obrezanja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Govoreæi: ušao si k ljudima koji nijesu obrezani, i jeo si s njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A Petar poèevši kazivaše im redom govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ja bijah u gradu Jopi na molitvi, i došavši izvan sebe vidjeh utvaru, gdje silazi sud nekakav kao veliko platno na èetiri roglja i spušta se s neba, i doðe do preda me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Pogledavši u nj opazih i vidjeh èetvoronožna zemaljska, i zvjerinje i bubine i ptice nebeske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A èuh glas koji mi govori: ustani, Petre! pokolji i pojedi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A ja rekoh: nipošto, Gospode! jer ništa pogano i neèisto nikad ne uðe u usta moja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A glas mi odgovori drugom s neba govoreæi: što je Bog oèistio ti ne pogani."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A ovo bi triput; i uze se opet sve na nebo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I gle, odmah tri èovjeka staše pred kuæom u kojoj bijah, poslani iz Æesarije k meni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A Duh mi reèe da idem s njima ne premišljajuæi ništa. A doðoše sa mnom i ovo šest braæe, i uðosmo u kuæu èovjekovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I kaza nam kako vidje anðela u kuæi svojoj koji je stao i kazao mu: pošlji ljude u Jopu i dozovi Simona prozvanoga Petra,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Koji æe ti kazati rijeèi kojima æeš se spasti ti i sav dom tvoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A kad ja poèeh govoriti, siðe Duh sveti na njih, kao i na nas u poèetku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Onda se opomenuh rijeèi Gospodnje kako govoraše: Jovan je krstio vodom, a vi æete se krstiti Duhom svetijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Kad im dakle Bog dade jednak dar kao i nama koji vjerujemo Gospoda svojega Isusa Hrista: ja ko bijah da bih mogao zabraniti Bogu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A kad èuše ovo, umukoše, i hvaljahu Boga govoreæi: dakle i neznabošcima Bog dade pokajanje za život."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A oni što se rasijaše od nevolje koja posta za Stefana, proðoše tja do Finikije i Kipra i Antiohije, nikomu ne govoreæi rijeèi do samijem Jevrejima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A neki od njih bijahu Kiprani i Kirinci, koji ušavši u Antiohiju govorahu Grcima propovijedajuæi jevanðelje o Gospodu Isusu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I bješe ruka Božija s njima; i mnogo ih vjerovaše i obratiše se ka Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A doðe rijeè o njima do ušiju crkve koja bješe u Jerusalimu; i poslaše Varnavu da ide tja do Antiohije;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Koji došavši i vidjevši blagodat Božiju, obradova se, i moljaše sve da tvrdijem srcem ostanu u Gospodu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer bješe èovjek blag i pun Duha svetoga i vjere. I obrati se mnogi narod ka Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Varnava pak iziðe u Tars da traži Savla; i kad ga naðe, dovede ga u Antiohiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I oni se cijelu godinu sastajaše ondje s crkvom, i uèiše mnogi narod; i najprije u Antiohiji nazvaše uèenike hrišæanima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A u te dane siðoše iz Jerusalima proroci u Antiohiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I ustavši jedan od njih, po imenu Agav, objavi glad veliki koji šæaše biti po vasionom svijetu; koji i bi za Klaudija æesara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A od uèenika odredi svaki koliko koji mogaše da pošlju u pomoæ braæi koja življahu u Judeji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Koje i uèiniše poslavši starješinama preko ruke Varnavine i Savlove."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 30
+}

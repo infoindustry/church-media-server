@@ -1,0 +1,419 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "srp_865",
+    "name": "Luki",
+    "commonName": "Luki",
+    "title": "Jevanðelje po Luki",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "71d24bae001865beafd9dc8b76f8e93d8f927bd8e33391ea4aebbf53673c6a27",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LUK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/LUK/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Dogodi mu se pak u prvu subotu po drugome danu pashe da iðaše kroz usjeve, i uèenici njegovi trgahu klasje, i satirahu rukama te jeðahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A neki od fariseja rekoše im: zašto èinite što ne valja èiniti u subotu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I odgovarajuæi Isus reèe im: zar nijeste èitali ono što uèini David kad ogladnje, on i koji bijahu s njim?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Kako uðe u kuæu Božiju, i uze hljebove postavljene i izjede, i dade ih onima što bijahu s njim, kojijeh nikome ne valjaše jesti osim jedinijeh sveštenika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I reèe im: sin je èovjeèij gospodar i od subote."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A dogodi se u drugu subotu da on uðe u zbornicu i uèaše, i bješe ondje èovjek kome desna ruka bješe suha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Književnici pak i fariseji gledahu za njim neæe li u subotu iscijeliti, da ga okrive."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A on znadijaše pomisli njihove, i reèe èovjeku koji imaše suhu ruku: ustani i stani na srijedu. A on ustade i stade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Isus reèe im: da vas zapitam: šta valja u subotu èiniti, dobro ili zlo? održati dušu ili pogubiti? A oni muèahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I pogledavši na sve njih reèe mu: pruži ruku svoju. A on uèini tako; i ruka posta zdrava kao i druga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A oni se svi napuniše bezumlja, i govorahu jedan drugome šta bi uèinili Isusu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tijeh pak dana iziðe na goru da se pomoli Bogu; i provede svu noæ na molitvi Božijoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I kad bi dan, dozva uèenike svoje, i izbra iz njih dvanaestoricu, koje i apostolima nazva:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Simona, koga nazva Petrom, i Andriju brata njegova, Jakova i Jovana, Filipa i Vartolomija,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Mateja i Tomu, Jakova Alfejeva i Simona prozvanoga Zilota,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Judu Jakovljeva, i Judu Iskariotskoga, koji ga i izdade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I izišavši s njima stade na mjestu ravnom, i gomila uèenika njegovijeh; i mnoštvo naroda iz sve Judeje i iz Jerusalima, i iz primorja Tirskoga i Sidonskoga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Koji doðoše da ga slušaju i da se iscjeljuju od svojijeh bolesti, i koje muèahu duhovi neèisti; i iscjeljivahu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I sav narod tražaše da ga se dotaknu; jer iz njega izlažaše sila i iscjeljivaše ih sve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I on podignuvši oèi na uèenike svoje govoraše: blago vama koji ste siromašni duhom; jer je vaše carstvo Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Blago vama koji ste gladni sad; jer æete se nasititi. Blago vama koji plaèete sad; jer æete se nasmijati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Blago vama kad na vas ljudi omrznu i kad vas rastave i osramote, i razglase ime vaše kao zlo sina radi èovjeèijega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Radujte se u onaj dan i igrajte, jer gle, vaša je velika plata na nebu. Jer su tako èinili prorocima ocevi njihovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ali teško vama bogati; jer ste veæ primili utjehu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Teško vama siti sad; jer æete ogladnjeti. Teško vama koji se smijete sad; jer æete zaplakati i zaridati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Teško vama kad stanu svi dobro govoriti za vama; jer su tako èinili i lažnijem prorocima ocevi njihovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ali vama kažem koji slušate: ljubite neprijatelje svoje, dobro èinite onima koji na vas mrze;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Blagosiljajte one koji vas kunu, i molite se Bogu za one koji vas vrijeðaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Koji te udari po obrazu, okreni mu i drugi; i koji hoæe da ti uzme kabanicu, podaj mu i košulju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A svakome koji ište u tebe, podaj; i koji tvoje uzme, ne išti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I kako hoæete da èine vama ljudi èinite i vi njima onako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I ako ljubite one koji vas ljube, kakva vam je hvala? Jer i grješnici ljube one koji njih ljube."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I ako èinite dobro onima koji vama dobro èine, kakva vam je hvala? Jer i grješnici èine tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I ako dajete u zajam onima od kojijeh se nadate da æete uzeti, kakva vam je hvala? Jer i grješnici grješnicima daju u zajam da uzmu opet onoliko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ali ljubite neprijatelje svoje, i èinite dobro, i dajite u zajam ne nadajuæi se nièemu; i biæe vam velika plata, i biæete sinovi najvišega, jer je on blag i neblagodarnima i zlima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Budite dakle milostivi kao i otac vaš što je milostiv."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I ne sudite, i neæe vam suditi; i ne osuðujte, i neæete biti osuðeni; opraštajte, i oprostiæe vam se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Dajite, i daæe vam se: mjeru dobru i nabijenu i stresenu i preopunu daæe vam u naruèje vaše. Jer kakvom mjerom dajete onakom æe vam se vratiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I kaza im prièu: može li slijepac slijepca voditi? Neæe li obadva pasti u jamu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Nema uèenika nad uèitelja svojega, nego i sasvijem kad se izuèi, biæe kao i uèitelj njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A zašto vidiš trun u oku brata svojega, a brvna u svojemu oku ne osjeæaš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Ili kako možeš reæi bratu svojemu: brate! stani da izvadim trun koji je u oku tvojemu, kad sam ne vidiš brvna u svojemu oku? Licemjere! izvadi najprije brvno iz oka svojega, pa æeš onda vidjeti izvaditi trun iz oka brata svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Jer nema drveta dobra da raða zao rod; niti drveta zla da raða dobar rod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Jer se svako drvo po rodu svome poznaje: jer se smokve ne beru s trnja, niti se grožðe bere s kupine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Dobar èovjek iz dobre klijeti srca svojega iznosi dobro, a zao èovjek iz zle klijeti srca svojega iznosi zlo, jer usta njegova govore od suviška srca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "A što me zovete: Gospode! Gospode! a ne izvršujete što vam govorim?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Svaki koji ide za mnom i sluša rijeèi moje i izvršuje ih, kazaæu vam kakav je:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "On je kao èovjek koji gradi kuæu, pa iskopa i udubi i udari temelj na kamenu; a kad doðoše vode, navali rijeka na onu kuæu i ne može je pokrenuti, jer joj je temelj na kamenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "A koji sluša i ne izvršuje on je kao èovjek koji naèini kuæu na zemlji bez temelja, na koju navali rijeka i odmah je obori, i raspade se kuæa ona strašno."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LUK/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LUK/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LUK/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 49
+}

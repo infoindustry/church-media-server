@@ -1,0 +1,482 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "srp_865",
+    "name": "Mateju",
+    "commonName": "Mateju",
+    "title": "Jevanðelje po Mateju",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "2282cb47d4ecce5bfb50178a05f4b87b8f4e94d2e2954aa2bd38500539980051",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/MAT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I onaj dan izišavši Isus iz kuæe sjeðaše kod mora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I sabraše se oko njega ljudi mnogi, tako da mora uæi u laðu i sjesti; a narod sav stajaše po brijegu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I on im kaziva mnogo u prièama govoreæi: gle, iziðe sijaè da sije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I kad sijaše, jedna zrna padoše kraj puta, i doðoše ptice i pozobaše ih;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A druga padoše na kamenita mjesta, gdje ne bijaše mnogo zemlje, i odmah iznikoše; jer ne bijaše u dubinu zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I kad obasja sunce, povenuše, i buduæi da nemahu žila, posahnuše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A druga padoše u trnje, i naraste trnje, i podavi ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A druga padoše na zemlju dobru, i donošahu rod, jedno po sto, a jedno po šeset, a jedno po trideset."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ko ima uši da èuje neka èuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I pristupivši uèenici rekoše mu: zašto im govoriš u prièama?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A on odgovarajuæi reèe im: vama je dano da znate tajne carstva nebeskoga, a njima nije dano."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer ko ima, daæe mu se, i preteæi æe mu; a koji nema, uzeæe mu se i ono što ima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zato im govorim u prièama, jer gledajuæi ne vide, i èujuæi ne èuju niti razumiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I zbiva se na njima proroštvo Isaijno, koje govori: ušima æete èuti, i neæete razumjeti; i oèima æete gledati, i neæete vidjeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer je odrvenilo srce ovijeh ljudi, i ušima teško èuju, i oèi su svoje zatvorili da kako ne vide oèima, i ušima ne èuju, i srcem ne razumiju, i ne obrate se da ih iscijelim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A blago vašijem oèima što vide, i ušima vašijem što èuju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer vam kažem zaista da su mnogi proroci i pravednici željeli vidjeti što vi vidite, i ne vidješe; i èuti što vi èujete, i ne èuše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Vi pak èujte prièu o sijaèu:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Svakome koji sluša rijeè o carstvu i ne razumije, dolazi neèastivi i krade posijano u srcu njegovom: to je oko puta posijano."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A na kamenu posijano to je koji sluša rijeè i odmah s radosti primi je,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ali nema korijena u sebi, nego je nepostojan, pa kad bude do nevolje ili ga potjeraju rijeèi radi, odmah udari natrag."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A posijano u trnju to je koji sluša rijeè, no briga ovoga svijeta i prijevara bogatstva zaguše rijeè, i bez roda ostane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A posijano na dobroj zemlji to je koji sluša rijeè i razumije, koji dakle i rod raða, i donosi jedan po sto, a jedan po šeset, a jedan po trideset."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Drugu prièu kaza im govoreæi: carstvo je nebesko kao èovjek koji posija dobro sjeme u polju svojemu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A kad ljudi pospaše, doðe njegov neprijatelj i posija kukolj po pšenici, pa otide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A kad nièe usjev i rod donese, onda se pokaza kukolj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Tada doðoše sluge domaæinove i rekoše mu: gospodaru! nijesi li ti dobro sjeme sijao na svojoj njivi? Otkuda dakle kukolj?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A on reèe im: neprijatelj èovjek to uèini. A sluge rekoše mu: hoæeš li dakle da idemo da ga poèupamo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A on reèe: ne; da ne bi èupajuæi kukolj poèupali zajedno s njime pšenicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ostavite neka raste oboje zajedno do žetve; i u vrijeme žetve reæi æu žeteocima: saberite najprije kukolj, i svežite ga u snoplje da ga sažežem; a pšenicu svezite u žitnicu moju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Drugu prièu kaza im govoreæi: carstvo je nebesko kao zrno gorušièno koje uzme èovjek i posije na njivi svojoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Koje je istina najmanje od sviju sjemena, ali kad uzraste, veæe je od svega povræa, i bude drvo da ptice nebeske dolaze, i sjedaju na njegovijem granama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Drugu prièu kaza im: carstvo je nebesko kao kvasac koji uzme žena i metne u tri kopanje brašna dok sve ne uskisne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Sve ovo u prièama govori Isus ljudima, i bez prièe ništa ne govoraše im:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Da se zbude što je rekao prorok govoreæi: otvoriæu u prièama usta svoja, kazaæu sakriveno od postanja svijeta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Tada ostavi Isus ljude, i doðe u kuæu. I pristupiše k njemu uèenici njegovi govoreæi: kaži nam prièu o kukolju na njivi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A on odgovarajuæi reèe im: koji sije dobro sjeme ono je sin èovjeèij;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A njiva je svijet; a dobro sjeme sinovi su carstva, a kukolj sinovi su zla;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A neprijatelj koji ga je posijao jest ðavo; a žetva je pošljedak ovoga vijeka; a žeteoci su anðeli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Kako što se dakle kukolj sabira, i ognjem sažiže, tako æe biti na pošljetku ovoga vijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Poslaæe sin èovjeèij anðele svoje, i sabraæe iz carstva njegova sve sablazni i koji èine bezakonje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I baciæe ih u peæ ognjenu: ondje æe biti plaè i škrgut zuba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Tada æe se pravednici zasjati kao sunce u carstvu oca svojega. Ko ima uši da èuje neka èuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Još je carstvo nebesko kao blago sakriveno u polju, koje našavši èovjek sakri i od radosti zato otide i sve što ima prodade i kupi polje ono."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Još je carstvo nebesko kao èovjek trgovac koji traži dobra bisera,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Pa kad naðe jedno mnogocjeno zrno bisera, otide i prodade sve što imaše i kupi ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Još je carstvo nebesko kao mreža koja se baci u more i zagrabi od svake ruke ribe;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Koja kad se napuni, izvukoše je na kraj, i sjedavši, izbraše dobre u sudove, a zle baciše napolje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Tako æe biti na pošljetku vijeka: iziæi æe anðeli i odluèiæe zle od pravednijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "I baciæe ih u peæ ognjenu: ondje æe biti plaè i škrgut zuba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Reèe im Isus: razumjeste li ovo? Rekoše mu: da, Gospode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "A on im reèe: zato je svaki književnik koji se nauèio carstvu nebeskome kao domaæin koji iznosi iz klijeti svoje novo i staro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "I kad svrši Isus prièe ove, otide odande."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "I došavši na postojbinu svoju, uèaše ih po zbornicama njihovijem tako da mu se divljahu, i govorahu: otkud ovome premudrost ova i moæi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "Nije li ovo drvodjeljin sin? ne zove li se mati njegova Marija, i braæa njegova Jakov, i Josija, i Simon, i Juda?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "I sestre njegove nijesu li sve kod nas? Otkud njemu ovo sve?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "I sablažnjavahu se o njega. A Isus reèe im: nema proroka bez èasti osim na postojbini svojoj i u domu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "I ne stvori ondje èudesa mnogijeh za nevjerstvo njihovo."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAT/13.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 13
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/14.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 14
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAT/12.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 12
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 58
+}

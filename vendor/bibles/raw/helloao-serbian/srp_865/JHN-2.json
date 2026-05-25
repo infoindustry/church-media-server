@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JHN",
+    "translationId": "srp_865",
+    "name": "Jovanu",
+    "commonName": "Jovanu",
+    "title": "Jevanðelje po Jovanu",
+    "order": 43,
+    "numberOfChapters": 21,
+    "sha256": "b0467ac7d5635aaff73b88f7076ca219a8a790ad4b0c4ba876a7716c71658f8f",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JHN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JHN/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 879
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I u treæi dan bi svadba u Kani Galilejskoj, i ondje bješe mati Isusova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A pozvan bješe i Isus i uèenici njegovi na svadbu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I kad nesta vina, reèe mati Isusova njemu: nemaju vina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Isus joj reèe: što je meni do tebe ženo? Još nije došao moj èas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Reèe mati njegova slugama: što god vam reèe uèinite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A ondje bijaše šest vodenijeh sudova od kamena, postavljenijeh po obièaju Jevrejskoga èišæenja, koji uzimahu po dva ili po tri vedra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Reèe im Isus: napunite sudove vode. I napuniše ih do vrha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I reèe im: zahvatite sad i nosite kumu. I odnesoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A kad okusi kum od vina koje je postalo od vode, i ne znadijaše otkuda je a sluge znadijahu koje su zahvatile vodu zovnu kum ženika,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I reèe mu: svaki èovjek najprije dobro vino iznosi, a kad se opiju onda rðavije; a ti si èuvao dobro vino doslije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ovo uèini Isus poèetak èudesima u Kani Galilejskoj, i pokaza slavu svoju; i uèenici njegovi vjerovaše ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Potom siðe u Kapernaum, on i mati njegova, i braæa njegova, i uèenici njegovi, i ondje stajaše ne mnogo dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I blizu bješe pasha Jevrejska, i iziðe Isus u Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I naðe u crkvi gdje sjede oni što prodavahu volove i ovce i golubove, i koji novce mijenjahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I naèinivši biè od uzica, izgna sve iz crkve, i ovce i volove; i mjenjaèima prosu novce i stolove ispremeta;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I reèe onima što prodavahu golubove: nosite to odavde, i ne èinite od doma oca mojega doma trgovaèkoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A uèenici se njegovi opomenuše da u pismu stoji: revnost za kuæu tvoju izjede me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A Jevreji odgovarajuæi rekoše mu: kakav nam znak pokazuješ, da to možeš èiniti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Isus odgovori i reèe im: razvalite ovu crkvu, i za tri dana æu je podignuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Jevreji rekoše: èetrdeset i šest godina graðena je ova crkva, i ti za tri dana da je podigneš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A on govoraše za crkvu tijela svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A kad usta iz mrtvijeh, opomenuše se uèenici njegovi da ovo govoraše, i vjerovaše pismu i rijeèi koju reèe Isus."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A kad bješe u Jerusalimu na praznik pashe, mnogi vjerovaše u ime njegovo, videæi èudesa njegova koja èinjaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ali Isus ne povjeravaše im sebe; jer ih sve znadijaše,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I ne trebaše mu da ko svjedoèi za èovjeka; jer sam znadijaše šta bješe u èovjeku."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JHN/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JHN/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JHN/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

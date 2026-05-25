@@ -1,0 +1,356 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JDG",
+    "translationId": "srp_865",
+    "name": "Sudije",
+    "commonName": "Sudije",
+    "title": "Sudije",
+    "order": 7,
+    "numberOfChapters": 21,
+    "sha256": "b90b96d9ad07648b61c3175adb672cbdc04a1a389be225dc4596659462d0e4db",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JDG/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JDG/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JDG",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 618
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Jeftaj od Galada bijaše hrabar junak, ali sin jedne kurve, s kojom Galad rodi Jeftaja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ali Galadu i žena njegova rodi sinova, pa kad dorastoše sinovi te žene, otjeraše Jeftaja rekavši mu: neæeš imati našljedstva u domu oca našega, jer si sin druge žene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Zato pobježe Jeftaj od braæe svoje, i nastani se u zemlji Tovu; i stekoše se k njemu ljudi praznovi, i iðahu s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A poslije nekoga vremena zavojštiše sinovi Amonovi na Izrailja;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I kad zavojštiše sinovi Amonovi na Izrailja, otidoše starješine Galadske da dovedu Jeftaja iz zemlje Tova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I rekoše Jeftaju: hodi i budi nam vojvoda, da vojujemo sa sinovima Amonovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Jeftaj reèe starješinama Galadskim: ne mrzite li vi na me, i ne istjeraste li me iz doma oca mojega? Što ste dakle došli k meni sada kad ste u nevolji?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A starješine Galadske rekoše Jeftaju: zato smo sada došli opet k tebi da poðeš s nama i da vojuješ sa sinovima Amonovijem i da nam budeš poglavar svjema koji živimo u Galadu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Jeftaj reèe starješinama Galadskim: kad hoæete da me odvedete natrag da vojujem sa sinovima Amonovijem, ako mi ih da Gospod, hoæu li vam biti poglavar?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A starješine Galadske rekoše Jeftaju: Gospod neka bude svjedok meðu nama, ako ne uèinimo kako si kazao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tada otide Jeftaj sa starješinama Galadskim, i narod ga postavi poglavarem i vojvodom nad sobom; i Jeftaj izgovori pred Gospodom u Mispi sve rijeèi koje bješe rekao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Potom posla Jeftaj poslanike k caru sinova Amonovijeh, i poruèi: šta imaš ti sa mnom, te si došao k meni da ratuješ po mojoj zemlji?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A car sinova Amonovijeh reèe poslanicima Jeftajevim: što je uzeo Izrailj moju zemlju kad doðe iz Misira, od Arnona do Javoka i do Jordana; sada dakle vrati mi je s mirom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ali Jeftaj posla opet poslanike k caru sinova Amonovijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I poruèi mu: ovako veli Jeftaj: nije uzeo Izrailj zemlje Moavske ni zemlje sinova Amonovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Nego izašavši iz Misira prijeðe Izrailj preko pustinje do Crvenoga Mora i doðe do Kadisa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I posla Izrailj poslanike k caru Edomskomu i reèe: pusti da proðem kroz tvoju zemlju. Ali ne posluša car Edomski. Posla takoðe k caru Moavskomu; ali ni on ne htje. I tako staja Izrailj u Kadisu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Potom iduæi preko pustinje obide zemlju Edomsku i zemlju Moavsku, i došavši s istoka zemlji Moavskoj stade u oko s onu stranu Arnona; ali ne prijeðoše preko meðe Moavske, jer Arnon bješe meða Moavska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nego posla Izrailj poslanike k Sionu caru Amorejskomu, caru Esevonskomu, i reèe mu Izrailj: dopusti nam da proðemo kroz tvoju zemlju do svojega mjesta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ali Sion ne vjerova Izrailju da ga pusti da prijeðe preko meðe njegove, nego Sion skupi sav svoj narod i stadoše u oko u Jasi, i pobi se s Izrailjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A Gospod Bog Izrailjev predade Siona i sav narod njegov u ruke sinovima Izrailjevijem, te ih pobiše; i zadobi Izrailj svu zemlju Amoreja, koji življahu u onoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Zadobiše svu zemlju Amorejsku od Arnona do Javoka, i od pustinje do Jordana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Tako je dakle Gospod Bog Izrailjev otjerao Amoreje ispred naroda svojega Izrailja, pa ti li hoæeš da je zemlja njihova tvoja?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Nije li tvoje ono što ti da da je tvoje Hemos bog tvoj? tako koga god Gospod Bog naš otjera ispred nas, onoga je zemlja naša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ili si ti po èem bolji od Valaka sina Seforova cara Moavskoga? Je li se on kad svaðao s Izrailjem? Je li kad vojevao s nama?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Izrailj živi u Esevonu i u selima njegovijem i u Aroiru i selima njegovijem i po svijem gradovima duž Arnona tri stotine godina; zašto ne oteste za toliko vremena?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I tako nijesam ja tebi skrivio, nego ti meni èiniš zlo ratujuæi na me. Gospod sudija nek sudi danas izmeðu sinova Izrailjevijeh i sinova Amonovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ali car sinova Amonovijeh ne posluša rijeèi koje mu poruèi Jeftaj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I siðe na Jeftaja duh Gospodnji, te proðe kroz Galad i kroz Manasiju, proðe i Mispu Galadsku, i od Mispe Galadske doðe do sinova Amonovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I zavjetova Jeftaj zavjet Gospodu i reèe: ako mi daš sinove Amonove u ruke,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Što god izide na vrata iz kuæe moje na susret meni, kad se vratim zdrav od sinova Amonovijeh, biæe Gospodnje, i prinijeæu na žrtvu paljenicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I tako doðe Jeftaj do sinova Amonovijeh da se bije s njima; i Gospod mu ih dade u ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I pobi ih od Aroira pa do Minita u dvadeset gradova i do ravnice vinogradske u boju vrlo velikom; i sinovi Amonovi biše pokoreni pred sinovima Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A kad se vraæaše Jeftaj kuæi svojoj u Mispu, gle, kæi njegova izide mu na susret s bubnjima i sviralama; ona mu bijaše jedinica, i osim nje ne imaše ni sina ni kæeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Pa kad je ugleda, razdrije haljine svoje i reèe: ah kæeri moja! vele li me obori! ti si od onijeh što me cvijele; jer sam otvorio usta svoja ka Gospodu, i ne mogu poreæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A ona mu reèe: oèe moj, kad si otvorio usta svoja ka Gospodu, uèini mi, kako je izašlo iz usta tvojih, kad te je Gospod osvetio od neprijatelja tvojih, sinova Amonovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Još reèe ocu svojemu: uèini mi ovo: ostavi me do dva mjeseca da otidem da se popnem na gore da oplaèem svoje djevojaštvo s drugama svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A on joj reèe: idi. I pusti je na dva mjeseca, i ona otide s drugama svojim i oplakiva djevojaštvo svoje po gorama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A kad proðoše dva mjeseca, vrati se k ocu svojemu, i on svrši na njoj zavjet svoj koji bješe zavjetovao. A ona ne pozna èovjeka. I posta obièaj u Izrailju"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Da od godine do godine idu kæeri Izrailjeve da plaèu za kæerju Jeftaja od Galada, èetiri dana u godini."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JDG/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JDG/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JDG/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 40
+}

@@ -1,0 +1,167 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Godine koje umrije car Ozija vidjeh Gospoda gdje sjedi na prijestolu visoku i izdignutu, i skut mu ispunjavaše crkvu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Serafimi stajahu više njega, svaki ih imaše šest krila: dvjema zaklanjaše lice svoje i dvjema zaklanjaše noge svoje, a dvjema leæaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I vikahu jedan drugome govoreæi: svet, svet, svet je Gospod nad vojskama; puna je sva zemlja slave njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I zadrmaše se pragovi na vratima od glasa kojim vikahu, i dom se napuni dima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I rekoh: jaoh meni! pogiboh, jer sam èovjek neèistijeh usana, i živim usred naroda neèistijeh usana, jer cara Gospoda nad vojskama vidjeh svojim oèima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A jedan od serafima doletje k meni držeæi u ruci živ ugljen, koji uze s oltara kliještima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I dotaèe se usta mojih i reèe: evo, ovo se dotaèe usta tvojih, i bezakonje tvoje uze se, i grijeh tvoj oèisti se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Potom èuh glas Gospodnji gdje reèe: koga æu poslati? i ko æe nam iæi? A ja rekoh: evo mene, pošlji mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A on reèe: idi, i reci tome narodu: slušajte ali neæete razumjeti, gledajte ali neæete poznati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Uèini da odeblja srce tome narodu i uši da im otežaju, i oèi im zatvori, da ne vide oèima svojim i ušima svojim da ne èuju i srcem svojim da ne razumiju i ne obrate se i ne iscijele."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A ja rekoh: dokle Gospode? A on reèe: dokle ne opuste gradovi da budu bez stanovnika i kuæe da budu bez ljudi, i zemlja dokle sasvijem ne opusti,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I dokle Gospod opravi daleko ljude i bude sama pustoš u zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ali æe još biti u njoj desetina, pa æe se i ona zatrti; ali kao hrast ili brijest kojima i kad zbace lišæe ostaje stablo, tako æe sveto sjeme biti njezino stablo."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 13
+}

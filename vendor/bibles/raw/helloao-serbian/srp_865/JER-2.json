@@ -1,0 +1,335 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Opet mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Idi i vièi Jerusalimu da èuje i govori: ovako veli Gospod: opominjem te se po milosti u mladosti tvojoj i po ljubavi o vjeridbi tvojoj, kad iðaše za mnom po pustinji, i po zemlji gdje se ne sije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Izrailj bješe svetinja Gospodu i prvina od rodova njegovijeh; koji je jeðahu svi bijahu krivi, zlo dolažaše na njih, veli Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Èujte rijeè Gospodnju, dome Jakovljev i sve porodice doma Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ovako veli Gospod: kaku nepravdu naðoše oci vaši u mene, te otstupiše od mene, i pristaše za ništavilom, i postaše ništavi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I ne rekoše: gdje je Gospod koji nas je izveo iz zemlje Misirske, koji nas je vodio po pustinji, po zemlji pustoj i punoj propasti, po zemlji suhoj i gdje je sjen smrtni, po zemlji preko koje niko nije hodio i u kojoj niko nije živio?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I kad vas dovedoh u zemlju rodnu da jedete rod njezin i dobra njezina, došavši oskvrniste zemlju moju i od našljedstva mojega naèiniste gad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Sveštenici ne rekoše: gdje je Gospod? I koji se bave zakonom ne poznaše me, i pastiri odustaše me, i proroci prorokovaše Valom i idoše za stvarima zaludnijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Zato æu se još preti s vama, veli Gospod, i sa sinovima sinova vaših preæu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer proðite ostrva Kitimska i vidite, i pošljite u Kidar, i razgledajte dobro, i vidite je li bilo tako što:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Je li koji narod promijenio bogove, ako i nijesu bogovi? a moj narod promijeni slavu svoju na stvar zaludnu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Èudite se tome, nebesa, i zgrozite se i upropastite se! veli Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer dva zla uèini moj narod: ostaviše mene, izvor žive vode, i iskopaše sebi studence, studence isprovaljivane, koji ne mogu da drže vode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Je li Izrailj rob? je li rob u kuæi roðen? zašto posta grabež?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Rikaše na nj laviæi i dizaše glas svoj, i obratiše zemlju njegovu u pustoš; gradovi su mu popaljeni, te nema nikoga da živi u njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I sinovi Nofski i Tafneski opasoše ti tjeme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Nijesi li to sam sebi uèinio ostaviv Gospoda Boga svojega kad te voðaše putem?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A sada što æe ti put Misirski da piješ vode Siorske? što li æe ti put Asirski da piješ vode iz rijeke?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tvoja æe te zloæa pokarati i tvoje æe te odmetanje prekoriti. Poznaj dakle i vidi da je zlo i gorko što si ostavio Gospoda Boga svojega i što nema straha mojega u tebi, veli Gospod Gospod nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer davno izlomih jaram tvoj i raskidoh sveze tvoje, i ti reèe: neæu biti sluga; a na svaki visoki hum i pod svako zeleno drvo ideš da se kurvaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ja te posadih lozu izabranu, sve sjeme istinito; pa kako mi se promijeni i izmetnu se odvoda od tuðe loze?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Da se izmiješ salitrom i uzmeš mnogo sapuna, opet æe se poznavati bezakonje tvoje preda mnom, veli Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Kako možeš reæi: nijesam se oskvrnio, nijesam išao za Valima? Pogledaj put svoj po dolu; poznaj šta si uèinila, brza kamilo, koja ostavljaš znake na svojim putovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Kao divlja magarica, koja je navikla na pustinju i po želji duše svoje vuèe u se vjetar, kad navali, ko æe je vratiti? koji je traže neæe se umoriti, naæi æe je u mjesecu njezinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Èuvaj nogu svoju, da nije bosa, i grlo svoje, da ne žedni. Ali ti veliš: od toga nema ništa; ne, jer ljubim tuðe, i za njima æu iæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Kao što se lupež posrami kad se uhvati, tako æe se posramiti dom Izrailjev, oni, carevi njihovi, knezovi njihovi, i sveštenici njihovi i proroci njihovi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Koji govore drvetu: ti si otac moj; i kamenu: ti si me rodio; jer mi okrenuše leða a ne lice; a kad su u nevolji govore: ustani i izbavi nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A gdje su bogovi tvoji koje si naèinio sebi? neka ustanu, ako te mogu izbaviti kad si u nevolji, jer imaš, Juda, bogova koliko gradova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Zašto hoæete da se pravdate sa mnom? vi ste se svi odmetnuli od mene, veli Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Uzalud bih sinove vaše, ne primiše nauke; maè vaš proždrije proroke vaše kao lav koji davi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "O rode! vidite rijeè Gospodnju; bijah li pustinja Izrailju ili mraèna zemlja? zašto govori moj narod: gospodari smo, neæemo više doæi k tebi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Zaboravlja li djevojka svoj nakit i nevjesta ures svoj? a narod moj zaboravi me toliko dana da im nema broja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Zašto govoriš da je dobar tvoj put tražeæi što ljubiš? pa si i nevaljale žene nauèio svojim putovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I jošte na skutovima tvojim nalazi se krv siromaha pravijeh; ne nalazim kopajuæi, nego je na svjema njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A ti govoriš: nijesam kriv, gnjev se je njegov odvratio od mene. Evo ja æu se preti s tobom što govoriš: nijesam zgriješio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Zašto trèkaš tako mijenjajuæi svoj put? Posramiæeš se od Misirca kako si se posramio od Asirca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Otiæi æeš i odatle s rukama nad glavom svojom, jer Gospod odbacuje uzdanice tvoje, i neæeš biti sreæan u njima."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 37
+}

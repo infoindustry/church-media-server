@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1JN",
+    "translationId": "srp_865",
+    "name": "1 Jovanova",
+    "commonName": "1 Jovanova",
+    "title": "1. Jovanova Poslanica",
+    "order": 62,
+    "numberOfChapters": 5,
+    "sha256": "22759fe8c958748c88fc9c8057e9acc0b96206e0bfd17bcece0098c15e557ea9",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1JN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1JN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 5,
+    "lastChapterApiLink": "/api/srp_865/1JN/5.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1JN",
+      "chapter": 5
+    },
+    "totalNumberOfVerses": 105
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ljubazni! ne vjerujte svakome duhu, nego kušajte duhove jesu li od Boga; jer mnogi lažni proroci iziðoše na svijet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Po ovome poznajte Duha Božijega, i duha lažnoga; svaki duh koji priznaje da je Isus Hristos u tijelu došao, od Boga je;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A svaki duh koji ne priznaje da je Isus Hristos u tijelu došao, nije od Boga: i ovaj je antihristov, za kojega èuste da æe doæi, i sad je veæ na svijetu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Vi ste od Boga, djeèice, i nadvladaste ih, jer je veæi koji je u vama negoli koji je na svijetu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Oni su od svijeta, zato govore od svijeta, i svijet ih sluša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mi smo od Boga; koji poznaje Boga sluša nas, a koji nije od Boga ne sluša nas. Po ovom poznajemo duha istine i duha prijevare."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ljubazni! da ljubimo jedan drugoga; jer je ljubav od Boga, i svaki koji ima ljubav od Boga je roðen, i poznaje Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A koji nema ljubavi ne pozna Boga; jer je Bog ljubav."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Po tom se pokaza ljubav Božija k nama što Bog sina svojega jedinorodnoga posla na svijet da živimo kroza nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "U ovom je ljubav ne da mi pokazasmo ljubav k Bogu, nego da on pokaza ljubav k nama, i posla sina svojega da oèisti grijehe naše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ljubazni! kad je ovako Bog pokazao ljubav k nama, i mi smo dužni ljubiti jedan drugoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Boga niko ne vidje nikad: ako imamo ljubav meðu sobom, Bog u nama stoji, i ljubav je njegova savršena u nama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Po tom doznajemo da u njemu stojimo, i on u nama, što nam je dao od Duha svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I mi vidjesmo i svjedoèimo da otac posla sina da se spase svijet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Koji prizna da je Isus sin Božij, Bog u njemu stoji i on u Bogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I mi poznasmo i vjerovasmo ljubav koju Bog ima k nama. Bog je ljubav, i koji stoji u ljubavi, u Bogu stoji i Bog u njemu stoji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tijem se ljubav u nama savršuje da imamo slobodu na dan sudni; jer kao što je on i mi smo na svijetu ovom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "U ljubavi nema straha, nego savršena ljubav izgoni strah napolje; jer strah ima muku. A ko se boji nije savršen u ljubavi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Da imamo mi ljubav k njemu, jer on najprije pokaza ljubav k nama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ako ko reèe: ja ljubim Boga, a mrzi na brata svojega, laža je; jer koji ne ljubi brata svojega, koga vidi, kako može ljubiti Boga, koga ne vidi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I ovu zapovijest imamo od njega: koji ljubi Boga da ljubi i brata svojega."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1JN/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1JN",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1JN/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1JN",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1JN/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1JN",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

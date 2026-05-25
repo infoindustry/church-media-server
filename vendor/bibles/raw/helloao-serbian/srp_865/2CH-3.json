@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "srp_865",
+    "name": "2. Dnevnika",
+    "commonName": "2. Dnevnika",
+    "title": "2. Dnevnika",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "712160a45a7d7fb40ad6e8f55f27c6bc71cf3a3fca70d89afd22674733ec70a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/2CH/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I poèe Solomun zidati dom Gospodnji u Jerusalimu na brdu Moriji, koje bi pokazano Davidu ocu njegovu na mjestu koje bješe pripravio David, na gumnu Ornana Jevusejina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A poèe zidati drugoga dana drugoga mjeseca èetvrte godine carovanja svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A ovako zasnova Solomun da zida dom Božji: u dužinu šezdeset lakata po staroj mjeri, a u širinu dvadeset lakata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A trijem koji bijaše pred dužinom uz širinu doma imaše dvadeset lakata, a u visinu sto i dvadeset; i obloži ga iznutra èistijem zlatom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A dom veliki obloži drvetom jelovijem, potom ga obloži èistijem zlatom, i ozgo naèini palme i lance."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I obloži dom kamenjem dragim da je nakiæen, a zlato bijaše Parvajimsko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Obloži zlatom dom, grede, pragove i zidove i vrata, i izreza heruvime po zidovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I naèini dom za svetinju nad svetinjama, dug uz širinu doma dvadeset lakata i širok dvadeset lakata, i obloži ga èistijem zlatom, kojega otide do šest stotina talanata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A na kline dade pedeset sikala zlata; i klijeti obloži zlatom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I naèini u domu svetinje nad svetinjama dva heruvima, naprave umjetnièke, i obloži ih zlatom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I krila tijeh heruvima imahu u dužinu dvadeset lakata: jedno krilo bijaše od pet lakata, i ticaše u zid od doma, i drugo krilo bijaše od pet lakata, i ticaše u krilo drugoga heruvima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tako i drugoga heruvima krilo bijaše od pet lakata, i ticaše u zid od doma, i drugo mu krilo bijaše od pet lakata i sastavljaše se s krilom drugoga heruvima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Krila tijem heruvimima bijahu raširena na dvadeset lakata, a oni stajahu na nogama svojim, licem okrenutim u dom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I naèini zavjes od porfire, od skerleta, od crvca i od tankoga platna, i po njemu naèini heruvime."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I naèini pred domom dva stupa, u visinu od trideset i pet lakata, i oglavlja ozgo na svakom od pet lakata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I naèini lance kao u svetinji, i metnu ih na vrh stupova, i naèini sto šipaka, i metnu ih meðu lance."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I postavi stupove pred crkvom, jedan s desne strane a drugi s lijeve, i desni nazva Jahin a lijevi Voas."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CH/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CH/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CH/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

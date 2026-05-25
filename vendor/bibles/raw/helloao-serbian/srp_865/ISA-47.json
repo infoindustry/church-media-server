@@ -1,0 +1,181 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 47,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Siði i sjedi u prah, djevojko, kæeri Vavilonska; sjedi na zemlju, nema prijestola, kæeri Haldejska; jer se neæeš više zvati nježna i ljupka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Uzmi žrvnje, i melji brašno, otkrij kosu svoju, izuj se, zagali golijeni, idi preko rijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Otkriæe se golotinja tvoja, i vidjeæe se sramota tvoja; osvetiæu se, i niko mi neæe smetati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ime je izbavitelju našemu Gospod nad vojskama, svetac Izrailjev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Sjedi muèeæi, i uði u tamu, kæeri Haldejska; jer se neæeš više zvati gospoða carstvima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Razgnjevih se na narod svoj, oskvrnih našljedstvo svoje i predadoh ga tebi u ruke; a ti im ne pokaza milosti; na starce si metala preteški jaram svoj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I govorila si: dovijeka æu biti gospoða; ali nikad nijesi to uzimala na um, niti si pomišljala šta æe biti na pošljedak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Sada dakle èuj ovo, koja živiš u slastima i bez brige sjediš i govoriš u srcu svom: ja sam, i nema druge osim mene, neæu biti udovica niti æu osirotjeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "To æe ti oboje doæi ujedanput, u isti dan, da osirotiš i obudoviš, doæi æe ti potpuno, radi mnoštva èini tvojih i radi velike sile èaranja tvoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer si se pouzdala u zloæu svoju govoreæi: niko me ne vidi. Mudrost tvoja i znanje tvoje prevariše te, te si govorila u srcu svom: ja sam, i osim mene nema druge."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zato æe doæi na te zlo, a neæeš znati odakle izlazi, i popašæe te nevolja, da je neæeš moæi odbiti, i doæi æe na te ujedanput pogibao, za koju neæeš znati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Stani sada s vraèanjem svojim i s mnoštvom èini svojih, oko kojih si se trudila od mladosti svoje, ne bi li se pomogla, ne bi li se okrijepila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Umorila si se od mnoštva namjera svojih; neka stanu sada zvjezdari, koji gledaju zvijezde, koji prorièu svakoga mjeseca, i neka te saèuvaju od onoga što æe doæi na te."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Gle, oni su kao pljeva, oganj æe ih spaliti, ni sami sebe neæe izbaviti iz plamena; neæe ostati uglja da se ko ogrije, ni ognja da bi se posjedjelo kod njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Taki æe biti oni s kojima si se trudila i s kojima si trgovala od mladosti svoje, razbjeæi æe se svaki na svoju stranu; neæe biti nikoga da te izbavi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/47.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 47
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/48.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 48
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/46.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 46
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 15
+}

@@ -1,0 +1,426 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MRK",
+    "translationId": "srp_865",
+    "name": "Marku",
+    "commonName": "Marku",
+    "title": "Jevanðelje po Marku",
+    "order": 41,
+    "numberOfChapters": 16,
+    "sha256": "c4e35f7fe68e45b5731573fc03ca93f2cb48eea346a1b1abc79ae9266aa9bd92",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MRK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MRK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/MRK/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MRK",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 678
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I reèe im: zaista vam kažem: imaju neki meðu ovima što stoje ovdje koji neæe okusiti smrti dok ne vide carstvo Božije da doðe u sili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I poslije šest dana uze Isus Petra i Jakova i Jovana i izvede ih na goru visoku same; i preobrazi se pred njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I haljine njegove postadoše sjajne i vrlo bijele kao snijeg, kao što ne može bjelilja ubijeliti na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I ukaza im se Ilija s Mojsijem gdje se razgovarahu s Isusom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I Petar odgovarajuæi reèe Isusu: Ravi! dobro nam je ovdje biti; i da naèinimo tri sjenice: tebi jednu i Mojsiju jednu i Iliji jednu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer ne znadijaše šta govori; jer bijahu vrlo uplašeni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I postade oblak te ih zakloni; i doðe glas iz oblaka govoreæi: ovo je sin moj ljubazni; njega poslušajte."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I ujedanput pogledavši nikoga ne vidješe osim Isusa sama sa sobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A kad silažahu s gore zaprijeti im da nikom ne kazuju šta su vidjeli, dok sin èovjeèij ne ustane iz mrtvijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I rijeè zadržaše u sebi pitajuæi jedan drugoga: šta to znaèi ustati iz mrtvijeh?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I pitahu ga govoreæi: kako govore književnici da Ilija treba najprije da doðe?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A on odgovarajuæi reèe im: Ilija æe doæi najprije, i urediti sve; ali i sin èovjeèij treba da mnogo postrada i da se ponizi, kao što je pisano."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ali vam kažem da je i Ilija došao i uèiniše s njim šta htjedoše kao što je pisano za njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I došavši k uèenicima svojijem vidje narod mnogi oko njih i književnike gdje se prepiru s njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I odmah vidjevši ga sav narod uplaši se i pritrèavši pozdravljahu ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I upita književnike: šta se prepirete s njima?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I odgovarajuæi jedan od naroda reèe: uèitelju! dovedoh k tebi sina svojega u kome je duh nijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I svaki put kad ga uhvati lomi ga, i pjenu baca i škrguæe zubima; i suši se. I rekoh uèenicima tvojijem da ga istjeraju; i ne mogoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A on odgovarajuæi mu reèe: o rode nevjerni! dokle æu s vama biti? dokle æu vas trpljeti? Dovedite ga k meni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I dovedoše ga k njemu; i kad ga vidje odmah ga duh stade lomiti; i panuvši na zemlju valjaše se bacajuæi pjenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I upita oca njegova: koliko ima vremena kako mu se to dogodilo? A on reèe: iz djetinjstva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I mnogo puta baca ga u vatru i u vodu da ga pogubi; nego ako što možeš pomozi nam, smiluj se na nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A Isus reèe mu: ako možeš vjerovati: sve je moguæe onome koji vjeruje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I odmah povikavši otac djetinji sa suzama govoraše: vjerujem, Gospode! pomozi mojemu nevjerju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A Isus videæi da se stjeèe narod zaprijeti duhu neèistome govoreæi mu: duše nijemi i gluhi! ja ti zapovijedam, iziði iz njega i više ne ulazi u njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I povikavši i izlomivši ga vrlo iziðe; i uèini se kao mrtav tako da mnogi govorahu: umrije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A Isus uzevši ga za ruku podiže ga; i usta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I kad uðe u kuæu pitahu ga uèenici njegovi nasamo: zašto ga mi ne mogosmo istjerati?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I reèe im: ovaj se rod nièim ne može istjerati do molitvom i postom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I izišavši odande iðahu kroz Galileju; i ne šæadijaše da ko dozna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Jer uèaše uèenike svoje, i govoraše im da æe se sin èovjeèij predati u ruke ljudske, i ubiæe ga, i pošto ga ubiju ustaæe treæi dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A oni ne razumijevahu rijeèi, i ne smedijahu da ga zapitaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I doðe u Kapernaum, i kad bješe u kuæi zapita ih: šta se prepiraste putem meðu sobom?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A oni muèahu; jer se putem prepiraše meðu sobom ko je najveæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I sjedavši dozva dvanaestoricu i reèe im: koji hoæe da bude prvi neka bude od sviju najzadnji i svima sluga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I uzevši dijete metnu ga meðu njih i zagrlivši ga reèe im:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Ko jedno ovakovo dijete primi u ime moje, mene prima; a ko mene primi, ne prima mene nego onoga koji je mene poslao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Odgovori mu Jovan govoreæi: uèitelju! vidjesmo jednoga gdje imenom tvojijem izgoni ðavole koji ne ide za nama: i zabranismo mu, jer ne ide za nama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A Isus reèe: ne branite mu; jer nema nikoga koji bi imenom mojijem èudo èinio da može brzo zlo govoriti za mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Jer ko nije protiv vas s vama je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Jer ko vas napoji èašom vode u ime moje, zato što ste Hristovi, zaista vam kažem: neæe mu propasti plata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A koji sablazni jednoga od ovijeh malijeh koji vjeruju mene, bolje bi mu bilo da se objesi kamen vodenièni o vratu njegovu i da se baci u more."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I ako te ruka tvoja sablažnjava, otsijeci je: bolje ti je bez ruke u život uæi, negoli s obje ruke uæi u pakao, u oganj vjeèni,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Gdje crv njihov ne umire, i oganj se ne gasi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "I ako te noga tvoja sablažnjava, otsijeci je: bolje ti je uæi u život hromu, negoli s dvije noge da te bace u pakao, u oganj vjeèni,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Gdje crv njihov ne umire, i oganj se ne gasi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Ako te i oko tvoje sablažnjava, iskopaj ga: bolje ti je s jednijem okom uæi u carstvo Božije, negoli s dva oka da te bace u pakao ognjeni,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Gdje crv njihov ne umire, i oganj se ne gasi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Jer æe se svaki ognjem posoliti, i svaka æe se žrtva solju posoliti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Dobra je so; ali ako so bude neslana, èim æe se osoliti? Imajte so u sebi, i mir imajte meðu sobom."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MRK/9.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 9
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MRK/10.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 10
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MRK/8.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 8
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 50
+}

@@ -1,0 +1,314 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "srp_865",
+    "name": "1. Dnevnika",
+    "commonName": "1. Dnevnika",
+    "title": "1. Dnevnika",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "8ea0acc08b93472f39af29d769974347b255ab628ab40782b4687010563cbf90",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 29,
+    "lastChapterApiLink": "/api/srp_865/1CH/29.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 29
+    },
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 27,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A sinovi Izrailjevi po svom broju, glavari domova otaèkih, tisuænici i stotinici i upravitelji njihovi, služahu caru u svakom poslu u redovima, koji dolažahu i odlažahu od mjeseca do mjeseca, svakoga mjeseca u godini; a u svakom redu bijaše ih dvadeset i èetiri tisuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nad prvijem redom prvoga mjeseca bijaše Jasoveam sin Zavdilov, i u njegovu redu bijaše dvadeset i èetiri tisuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Od sinova Faresovijeh bijaše poglavar nad svijem starješinama u vojsci prvoga mjeseca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A nad redom drugoga mjeseca bijaše Dodaj Ahošanin, i vojvoda u njegovu redu bješe Miklot; i u njegovu redu bješe dvadeset i èetiri tisuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Treæi vojvoda treæega mjeseca bješe Venaja sin Jodaja sveštenika, poglavar; i u njegovu redu bješe dvadeset i èetiri tisuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ovaj Venaja bješe junak meðu tridesetoricom i nad tridesetoricom; i nad redom njegovijem bješe Amizavad sin mu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Èetvrti, èetvrtoga mjeseca Asailo brat Joavov, i za njim Zevadija sin mu; i u redu njegovu bješe dvadeset i èetiri tisuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Peti, petoga mjeseca, poglavar Samut Jezrajanin, i u njegovu redu bješe dvadeset i èetiri tisuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Šesti, šestoga mjeseca, Ira sin Ikisov Tekojanin, i u njegovu redu bješe dvadeset i èetiri tisuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Sedmi, sedmoga mjeseca, Helis Felonjanin od sinova Jefremovijeh, i u njegovu redu bješe dvadeset i èetiri tisuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Osmi, osmoga mjeseca, Sivehaj Husaæanin od sinova Zarinijeh, i u njegovu redu bješe dvadeset i èetiri tisuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Deveti, devetoga mjeseca, Avijezer Anatoæanin od sinova Venijaminovih, i u njegovu redu bješe dvadeset i èetiri tisuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Deseti, desetoga mjeseca, Maraj Netofaæanin od sinova Zarinijeh, i u njegovu redu bješe dvadeset i èetiri tisuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jedanaesti, jedanaestoga mjeseca, Venaja Faratonjanin od sinova Jefremovijeh, i u njegovu redu bješe dvadeset i èetiri tisuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Dvanaesti, dvanaestoga mjeseca, Heldaj Netofaæanin od Gotonila, i u njegovu redu bješe dvadeset i èetiri tisuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A nad plemenima Izrailjevijem bijahu: nad plemenom Ruvimovijem knez Elijezer sin Zihrijev; nad Simeunovijem Sefatija sin Mašin;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Nad Levijevim Asavija sin Kemuilov; nad Aronovijem Sadok;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nad Judinijem Eliuj od braæe Davidove; nad Isaharovijem Amrije sin Mihailov;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nad Zavulonovijem Ismaja sin Ovadijin; nad Neftalimovim Jerimot sin Azrilov;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Nad sinovima Jefremovijem Isus sin Azazijev; nad polovinom plemena Manasijina Joilo sin Fedajin;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Nad drugom polovinom plemena Manasijina u Galadu Ido sin Zaharijin; nad Venijaminovim Jasilo sin Avenirov;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Nad Danovijem Azareilo sin Jeroamov. To bijahu knezovi plemena Izrailjevijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A ne izbroji David onijeh koji imahu manje od dvadeset godina, jer Gospod bješe rekao da æe umnožiti sinove Izrailjeve kao zvijezde nebeske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Joav sin Serujin poèe brojiti, ali ne dovrši; jer doðe gnjev Božji za to na Izrailja; zato taj broj ne doðe u knjigu o caru Davidu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Nad blagom carevijem bijaše Azmavet sin Adilov, a nad blagom po zemlji, po gradovima i po selima i po kulama Jonatan sin Ozijin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A nad ratarima, koji raðahu zemlju, bijaše Ezrije sin Heluvov;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A nad vinogradarima Simej Ramaæanin; a nad rodom vinogradskim i nad pivnicama Zavdije Sifmejin;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A nad maslinama i smokvama po poljima Val-Anan Gederanin; a nad uljem Joas;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Nad govedima što pasijahu u Saronu Sitraj Saronjanin, a nad govedima po dolinama Safat Adlajev;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Nad kamilama Ovil Ismailjac; nad magarcima Jedaja Meronoæanin;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A nad ovcama Jaziz Agarejin. Svi ovi bijahu nastojnici nad blagom cara Davida."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A Jonatan stric Davidov bijaše savjetnik, mudar èovjek i književnik; on i Jehilo sin Ahmonijev bijahu sa sinovima carevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I Ahitofel bijaše savjetnik carev, i Husaj Arhijanin prijatelj carev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A poslije Ahitofela bijaše Jodaj sin Venajin i Avijatar, a vojvoda carev bješe Joav."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CH/27.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 27
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CH/28.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 28
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CH/26.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 26
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 34
+}

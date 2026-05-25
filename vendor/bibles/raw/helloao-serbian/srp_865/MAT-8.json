@@ -1,0 +1,314 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "srp_865",
+    "name": "Mateju",
+    "commonName": "Mateju",
+    "title": "Jevanðelje po Mateju",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "2282cb47d4ecce5bfb50178a05f4b87b8f4e94d2e2954aa2bd38500539980051",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/MAT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad siðe s gore, za njim iðaše naroda mnogo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I gle, èovjek gubav doðe i klanjaše mu se govoreæi: Gospode! ako hoæeš, možeš me oèistiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I pruživši ruku Isus, dohvati ga se govoreæi: hoæu, oèisti se. I odmah oèisti se od gube."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I reèe mu Isus: gledaj, nikomu ne kazuj, nego idi i pokaži se svešteniku, i prinesi dar koji je zapovjedio Mojsije radi svjedoèanstva njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A kad uðe u Kapernaum, pristupi k njemu kapetan moleæi ga"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I govoreæi: Gospode! sluga moj leži doma uzet, i muèi se vrlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Isus reèe mu: ja æu doæi i iscijeliæu ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I kapetan odgovori i reèe: Gospode! nijesam dostojan da pod krov moj uðeš; nego samo reci rijeè, i ozdraviæe sluga moj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer i ja sam èovjek pod vlasti, i imam pod sobom vojnike, pa reèem jednome: idi, i ide; i drugome: doði, i doðe; i sluzi svojemu: uèini to, i uèini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A kad èu Isus, udivi se i reèe onima što idu za njim: zaista vam kažem: ni u Izrailju tolike vjere ne naðoh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I to vam kažem da æe mnogi od istoka i zapada doæi i sješæe za trpezu s Avraamom i Isakom i Jakovom u carstvu nebeskome:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A sinovi carstva izgnaæe se u tamu najkrajnju; ondje æe biti plaè i škrgut zuba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A kapetanu reèe Isus: idi, i kako si vjerovao neka ti bude. I ozdravi sluga njegov u taj èas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I došavši Isus u dom Petrov vidje taštu njegovu gdje leži i groznica je trese."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I prihvati je za ruku, i pusti je groznica, i usta, i služaše mu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A uveèe dovedoše k njemu bijesnijeh mnogo, i izgna duhove rijeèju, i sve bolesnike iscijeli:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Da se zbude što je kazao Isaija prorok govoreæi: on nemoæi naše uze i bolesti ponese."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A kad vidje Isus mnogo naroda oko sebe, zapovjedi uèenicima svojijem da idu na onu stranu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I pristupivši jedan književnik reèe mu: uèitelju! ja idem za tobom kud god ti poðeš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Reèe njemu Isus: lisice imaju jame i ptice nebeske gnijezda; a sin èovjeèij nema gdje glave zakloniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A drugi od uèenika njegovijeh reèe mu: Gospode! dopusti mi najprije da idem da ukopam oca svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A Isus reèe njemu: hajde za mnom, a ostavi neka mrtvi ukopavaju svoje mrtvace."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I kad uðe u laðu, za njim uðoše uèenici njegovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I gle, oluja velika postade na moru da se laða pokri valovima; a on spavaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I prikuèivši se uèenici njegovi probudiše ga govoreæi: Gospode! izbavi nas, izgibosmo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I reèe im: zašto ste strašljivi, malovjerni? Tada ustavši zaprijeti vjetrovima i moru, i postade tišina velika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A ljudi èudiše se govoreæi: ko je ovaj da ga slušaju i vjetrovi i more?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A kad doðe na onu stranu u zemlju Gergesinsku, sretoše ga dva bijesna, koji izlaze iz grobova, tako zla da ne mogaše niko proæi putem onijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I gle, povikaše: što je tebi do nas, Isuse, sine Božij? zar si došao amo prije vremena da muèiš nas?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A daleko od njih pasijaše veliki krd svinja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I ðavoli moljahu ga govoreæi: ako nas izgoniš, pošlji nas da idemo u krd svinja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I reèe im: idite. I oni izišavši otidoše u svinje. I gle, navali sav krd s brijega u more, i potopiše se u vodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A svinjari pobjegoše; i došavši u grad kazaše sve, i za bijesne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I gle, sav grad iziðe na susret Isusu; i vidjevši ga moliše da bi otišao iz njihovoga kraja."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAT/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAT/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 34
+}

@@ -1,0 +1,342 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2KI",
+    "translationId": "srp_865",
+    "name": "2. Kraljevima",
+    "commonName": "2. Kraljevima",
+    "title": "2. Kraljevima",
+    "order": 12,
+    "numberOfChapters": 25,
+    "sha256": "14b91a44508aa4c11af5ab27266f4e76ec99d09dd2f0f675edf6866e97186808",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2KI/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2KI",
+      "chapter": 1
+    },
+    "lastChapterNumber": 25,
+    "lastChapterApiLink": "/api/srp_865/2KI/25.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2KI",
+      "chapter": 25
+    },
+    "totalNumberOfVerses": 719
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Godine dvadeset sedme carovanja Jerovoamova nad Izrailjem zacari se Azarija sin Amasijin nad Judom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Bješe mu šesnaest godina kad se zacari, i carova pedeset i dvije godine u Jerusalimu. Materi mu bješe ime Jeholija, iz Jerusalima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "On èinjaše što je pravo pred Gospodom sasvijem kao što je èinio Amasija otac njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ali visine ne biše oborene: narod još prinošaše žrtve i kaðaše na visinama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A Gospod udari cara, te bi gubav do smrti svoje; i življaše u odvojenom domu; a Jotam sin carev upravljaše dvorom i suðaše narodu u zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A ostala djela Azarijina i sve što je èinio, nije li to zapisano u dnevniku careva Judinijeh?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I poèinu Azarija kod otaca svojih, i pogreboše ga kod otaca njegovijeh u gradu Davidovu; a na njegovo se mjesto zacari Jotam sin njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Trideset osme godine carovanja Azarijina nad Judom zacari se Zaharija sin Jerovoamov nad Izrailjem u Samariji, i carova šest mjeseca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I èinjaše što je zlo pred Gospodom kao što su èinili oci njegovi; ne otstupi od grijehova Jerovoama sina Navatova, kojima navede na grijeh Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I pobuni se na nj Salum sin Javisov, i ubi ga pred narodom i pogubi ga, i zacari se na njegovo mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A ostala djela Zaharijina, eno zapisana su u dnevniku careva Izrailjevijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "To je rijeè Gospodnja koju reèe Juju govoreæi: sinovi tvoji do èetvrtoga koljena sjedeæe na prijestolu Izrailjevu. I zbi se tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Salum sin Javisov zacari se trideset devete godine carovanja Ozijina nad Judom, a carova mjesec dana u Samariji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer Menajim sin Gadijev iz Terse podiže se i doðe u Samariju i ubi Saluma sina Javisova u Samariji, i pogubi ga, i zacari se na njegovo mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A ostala djela Salumova i buna koju podiže, eto, to je zapisano u dnevniku careva Izrailjevijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tada Menajim raskopa Tapsu i pobi sve koji bijahu u njoj i u meðama njezinijem od Terse, jer mu ne otvoriše, zato ih pobi i sve trudne žene njihove raspori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Godine trideset devete carovanja Azarijina nad Judom zacari se Menajim sin Gadijev nad Izrailjem, i carova deset godina u Samariji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I èinjaše što je zlo pred Gospodom, ne otstupi svega vijeka svojega od grijehova Jerovoama sina Navatova, kojima navede na grijeh Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tada Ful car Asirski udari na zemlju, a Menajim dade Fulu tisuæu talanata srebra da bi mu pomogao da utvrdi carstvo u svojoj ruci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A te novce uze Menajim od Izrailja, od svijeh bogatijeh ljudi, da ih da caru Asirskom, od svakoga po pedeset sikala. Tako se vrati car Asirski, i ne zabavi se ondje u zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A ostala djela Menajimova i što je god èinio, nije li zapisano u dnevniku careva Izrailjevijeh?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I poèinu Menajim kod otaca svojih, a na njegovo se mjesto zacari Fakija sin njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Godine pedesete carovanja Azarijina nad Judom zacari se Fakija sin Menajimov nad Izrailjem u Samariji, i carova dvije godine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I èinjaše što je zlo pred Gospodom, ne otstupi od grijehova Jerovoama sina Navatova, kojima navede na grijeh Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I pobuni se na nj Fekaj sin Remalijin, vojvoda njegov, i ubi ga u Samariji u carskom dvoru, s Argovom i Arijem i s pedeset ljudi sinova Galadovijeh; i ubivši ga zacari se na njegovo mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A ostala djela Fakijina i što je god èinio, eno je zapisano u dnevniku careva Izrailjevijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Godine pedeset druge Azarije cara Judina zacari se Fekaj sin Remalijin nad Izrailjem u Samariji, i carova dvadeset godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I èinjaše što je zlo pred Gospodom, ne otstupi od grijehova Jerovoama sina Navatova, kojima navede na grijeh Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "U vrijeme Fekaja cara Izrailjeva doðe Teglat-Felasar car Asirski, i uze Ijon i Avel-Vetmahu i Janoh i Kedes i Asor i Galad i Galileju, svu zemlju Neftalimovu, i preseli narod odande u Asiriju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Tada se pobuni Osija sin Ilin na Fekaja sina Remalijina i ubi ga i pogubi ga, i zacari se na njegovo mjesto dvadesete godine Jotama sina Ozijina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A ostala djela Fekajeva i sve što je èinio, eno je zapisano u dnevniku careva Izrailjevijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Druge godine carovanja Fekaja sina Remalijina nad Izrailjem zacari se Jotam sin Ozijin nad Judom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Bijaše mu dvadeset i pet godina kad poèe carovati, i carova šesnaest godina u Jerusalimu. Materi mu bješe ime Jerusa, kæi Sadokova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I èinjaše što je pravo pred Gospodom, sasvijem èinjaše kako je èinio Ozija otac njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ali visine ne biše oborene: narod još prinošaše žrtve i kaðaše na visinama. On naèini najviša vrata na domu Gospodnjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A ostala djela Jotamova i sve što je èinio, nije li zapisano u dnevniku careva Judinijeh?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "U to vrijeme poèe Gospod puštati na Judu Resina cara Sirskoga i Fekaja sina Remalijina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I Jotam poèinu kod otaca svojih, i bi pogreben kod otaca svojih u gradu Davida oca svojega; a na njegovo se mjesto zacari Ahaz sin njegov."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2KI/15.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 15
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2KI/16.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 16
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2KI/14.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 14
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 38
+}

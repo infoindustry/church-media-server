@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "srp_865",
+    "name": "Ponovljeni Zakon",
+    "commonName": "Ponovljeni Zakon",
+    "title": "Ponovljeni Zakon",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "b000b6651908c9448c65c662cec1fa45977205b236e0922d505241ab679311df",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DEU/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 1
+    },
+    "lastChapterNumber": 34,
+    "lastChapterApiLink": "/api/srp_865/DEU/34.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 34
+    },
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U to vrijeme reèe mi Gospod: isteši dvije ploèe od kamena kao što bjehu prve, i izidi k meni na goru, i naèini kovèeg od drveta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I napisaæu na tijem ploèama rijeèi koje su bile na prvijem ploèama što si razbio, pa æeš ih metnuti u kovèeg."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Tako naèinih kovèeg od drveta sitima, i istesah dvije ploèe od kamena, kao što bjehu prve, i izidoh na goru s dvjema ploèama u ruku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I napisa na tijem ploèama što bješe prvo napisao, deset rijeèi, koje vam izgovori Gospod na gori isred ognja na dan zbora vašega; i dade mi ih Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I vrativ se siðoh s gore, i metnuh ploèe u kovèeg koji naèinih, i ostaše ondje, kao što mi zapovjedi Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A sinovi Izrailjevi poðoše od Virota sinova Jakanovijeh u Moseru. Ondje umrije Aron i ondje bi pogreben; a Eleazar sin njegov posta sveštenik na njegovo mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Odande otidoše u Gadgad, a od Gadgada u Jotvatu, zemlju gdje ima mnogo potoka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "U to vrijeme odvoji Gospod pleme Levijevo da nose kovèeg zavjeta Gospodnjega, da stoje pred Gospodom i služe mu i da blagosiljaju u ime njegovo do današnjega dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Zato nema pleme Levijevo dijela ni našljedstva s braæom svojom; Gospod je našljedstvo njegovo, kao što mu Gospod Bog tvoj kaza."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A ja stajah na gori kao prije, èetrdeset dana i èetrdeset noæi; i usliši me Gospod i tada, i ne htje te Gospod zatrti,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nego mi reèe Gospod: ustani i idi pred narodom ovijem da uðu u zemlju za koju sam se zakleo ocima njihovijem da æu im je dati, i da je naslijede."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Sada dakle, Izrailju, šta ište od tebe Gospod Bog tvoj, osim da se bojiš Gospoda Boga svojega, da hodiš po svijem putovima njegovijem i da ga ljubiš i služiš Gospodu Bogu svojemu iz svega srca svojega i iz sve duše svoje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Držeæi zapovijesti Gospodnje i uredbe njegove, koje ti ja danas zapovijedam, da bi ti bilo dobro?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Gle, Gospoda je Boga tvojega nebo, i nebo nad nebesima, zemlja, i sve što je na njoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ali samo tvoji oci omilješe Gospodu, i izabra sjeme njihovo nakon njih, vas izmeðu svijeh naroda, kao što se vidi danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Zato obrežite srce svoje, i nemojte više biti tvrdovrati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer je Gospod Bog vaš Bog nad bogovima i gospodar nad gospodarima, Bog veliki, silni i strašni, koji ne gleda ko je ko niti prima poklona;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Daje pravicu siroti i udovici; i ljubi došljaka dajuæi mu hljeb i odijelo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ljubite dakle došljaka, jer ste bili došljaci u zemlji Misirskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Boj se Gospoda Boga svojega, njemu služi i njega se drži, i njegovijem se imenom kuni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "On je hvala tvoja i on je Bog tvoj, koji tebe radi uèini velike i strašne stvari, koje vidješe oèi tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Sedamdeset duša bješe otaca tvojih kad siðoše u Misir; a sada uèini ti Gospod Bog tvoj te vas ima mnogo kao zvijezda nebeskih."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DEU/10.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 10
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DEU/11.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 11
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DEU/9.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 9
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

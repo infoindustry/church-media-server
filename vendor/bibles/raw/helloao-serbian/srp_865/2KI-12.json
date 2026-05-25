@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2KI",
+    "translationId": "srp_865",
+    "name": "2. Kraljevima",
+    "commonName": "2. Kraljevima",
+    "title": "2. Kraljevima",
+    "order": 12,
+    "numberOfChapters": 25,
+    "sha256": "14b91a44508aa4c11af5ab27266f4e76ec99d09dd2f0f675edf6866e97186808",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2KI/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2KI",
+      "chapter": 1
+    },
+    "lastChapterNumber": 25,
+    "lastChapterApiLink": "/api/srp_865/2KI/25.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2KI",
+      "chapter": 25
+    },
+    "totalNumberOfVerses": 719
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Sedme godine Jujeve poèe carovati Joas, i carova èetrdeset godina u Jerusalimu. Materi mu bješe ime Sivija iz Virsaveje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I èinjaše Joas što je pravo pred Gospodom dokle ga god uèaše sveštenik Jodaj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ali visine ne biše oborene; narod još prinošaše žrtve i kaðaše na visinama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I Joas reèe sveštenicima: sav novac posveæeni, što se donosi u dom Gospodnji, novac onijeh koji idu u broj, i novac od ucjene svaèije, i sav novac što ko donosi od svoje volje u dom Gospodnji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Neka sveštenici uzimaju, svaki od svojega poznanika, i oni neka opravljaju što je trošno u domu gdje se god naðe da treba opraviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ali do godine dvadeset treæe carovanja Joasova sveštenici još ne opraviše što bijaše trošno u domu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tada car Joas dozva Jodaja sveštenika i ostale sveštenike, i reèe im: zašto ne opravljate što je trošno u domu? Otsele ne uzimajte novaca od svojih poznanika, jer treba da vratite da se opravi što je trošno u domu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I sveštenici pristaše da ne uzimaju novaca od naroda i da ne opravljaju što je trošno u domu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tada sveštenik Jodaj uze jedan kovèeg, i proreza rupu na zaklopcu, i metnu ga kod oltara s desne strane kako se ulazi u dom Gospodnji; i sveštenici koji èuvahu vrata metaše u nj sve novce koji se donošahu u dom Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A kad viðahu da ima mnogo novaca u kovèegu, tada dolažaše pisar carev s poglavarom sveštenièkim, i izbrojivši svezivahu novce koji bi se našli u domu Gospodnjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Potom davahu gotove novce onima koji upravljahu poslom i starahu se za dom Gospodnji, a oni ih izdavahu drvodjeljama i poslenicima koji opravljahu dom Gospodnji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I zidarima i kamenarima, i da se dobavlja drvo i tesano kamenje, da se opravi što bješe trošno u domu Gospodnjem, i da se dobavi sve što trebaše da se opravi dom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ali novcima koji se donošahu u dom Gospodnji ne graðahu èaša srebrnijeh za dom Gospodnji, ni viljušaka, ni kotliæa, ni truba, niti kakih sudova zlatnijeh ni srebrnijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Nego ih davahu onima koji bijahu nad poslom da se opravi za njih dom Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I ne tražahu raèuna od ljudi kojima predavahu novce da izdaju poslenicima, jer vjerno raðahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Novci za prijestup i novci za grijehe ne donošahu se u dom Gospodnji; pripadahu sveštenicima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Tada izide Azailo car Sirski, i udari na Gat i uze ga; potom se okrete Azailo da ide na Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A Joas car Judin uze sve posveæene stvari, što Josafat i Joram i Ohozija oci njegovi carevi Judini bijahu posvetili, i sve što sam bješe posvetio, i sve zlato što se naðe u riznicama doma Gospodnjega i doma careva, i posla Azailu caru Sirskom; i tako otide od Jerusalima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A ostala djela Joasova i sve što je èinio, nije li to zapisano u dnevniku careva Judinijeh?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A sluge njegove podigoše se i pobuniše se, i ubiše Joasa u domu Milonu, kuda se ide u Silu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Joazahar sin Simeatov i Jozavad sin Somirov, sluge njegove, ubiše ga, te umrije; i pogreboše ga kod otaca njegovijeh u gradu Davidovu; a na njegovo mjesto zacari se Amasija sin njegov."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2KI/12.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 12
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2KI/13.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 13
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2KI/11.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2KI",
+    "chapter": 11
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

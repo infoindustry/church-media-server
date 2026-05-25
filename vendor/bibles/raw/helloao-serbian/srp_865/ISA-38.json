@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 38,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U to vrijeme razbolje se Jezekija na smrt; i doðe k njemu prorok Isaija sin Amosov i reèe mu: ovako veli Gospod: naredi za kuæu svoju, jer æeš umrijeti i neæeš ostati živ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A Jezekija se okrete licem k zidu, i pomoli se Gospodu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reèe: oh, Gospode, opomeni se da sam jednako hodio pred tobom vjerno i s cijelijem srcem, i tvorio što je tebi ugodno. I plaka Jezekija veoma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tada doðe rijeè Gospodnja Isaiji govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Idi i reci Jezekiji: ovako veli Gospod Bog Davida oca tvojega: èuo sam molitvu tvoju, i vidio sam suze tvoje, evo dodaæu ti vijeku petnaest godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I izbaviæu tebe i ovaj grad iz ruku cara Asirskoga, i braniæu ovaj grad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I ovo neka ti bude znak od Gospoda da æe uèiniti Gospod što je rekao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Evo ja æu vratiti sjen po koljencima po kojima je sišao na sunèaniku Ahazovu natrag za deset koljenaca. I vrati se sunce za deset koljenaca po koljencima po kojima bijaše sišlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ovo napisa Jezekija car Judin kad se razbolje, i ozdravi od bolesti svoje:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ja rekoh, kad se presjekoše dani moji: idem k vratima grobnijem, uze mi se ostatak godina mojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Rekoh: neæu vidjeti Gospoda Gospoda u zemlji živijeh, neæu više vidjeti èovjeka meðu onima koji stanuju na svijetu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Vijek moj proðe i prenese se od mene kao šator pastirski; presjekoh život svoj kao tkaè, otsjeæi æe me od osnutka; od jutra do veèera uèiniæeš mi kraj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mišljah za jutra da æe kao lav potrti sve kosti moje; od jutra do veèera uèiniæeš mi kraj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Pištah kao ždrao i kao lastavica, ukah kao golubica, oèi mi išèilješe gledajuæi gore: Gospode, u nevolji sam, oblakšaj mi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Šta da reèem? On mi kaza, i uèini. Proživjeæu sve godine svoje po jadu duše svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Gospode, o tom se živi i u tom je svemu život duha mojega, iscijelio si me i saèuvao u životu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Evo, na mir doðe mi ljut jad; ali tebi bi milo da izvuèeš dušu moju iz jame pogibli, jer si bacio za leða svoja sve grijehe moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer neæe grob tebe slaviti, neæe te smrt hvaliti, i koji siðu u grob ne nadaju se tvojoj istini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Živi, živi, oni æe te slaviti kao ja danas: otac æe sinovima javljati istinu tvoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Gospod me spase, zato æemo pjevati pjesme moje u domu Gospodnjem dok smo god živi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A Isaija bješe rekao da uzmu grudu suhih smokava i priviju na otok, te æe ozdraviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I Jezekija bješe rekao: šta æe biti znak da æu otiæi u dom Gospodnji?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/38.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 38
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/39.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 39
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/37.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 37
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

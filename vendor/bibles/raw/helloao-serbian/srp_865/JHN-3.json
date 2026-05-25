@@ -1,0 +1,328 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JHN",
+    "translationId": "srp_865",
+    "name": "Jovanu",
+    "commonName": "Jovanu",
+    "title": "Jevanðelje po Jovanu",
+    "order": 43,
+    "numberOfChapters": 21,
+    "sha256": "b0467ac7d5635aaff73b88f7076ca219a8a790ad4b0c4ba876a7716c71658f8f",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JHN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JHN/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 879
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Bijaše pak èovjek meðu farisejima, po imenu Nikodim, knez Jevrejski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ovaj doðe k Isusu noæu i reèe mu: Ravi! znamo da si ti uèitelj od Boga došao; jer niko ne može èudesa ovijeh èiniti koja ti èiniš ako nije Bog s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Odgovori Isus i reèe mu: zaista, zaista ti kažem: ako se ko nanovo ne rodi, ne može vidjeti carstva Božijega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Reèe Nikodim njemu: kako se može èovjek roditi kad je star? eda li može po drugi put uæi u utrobu matere svoje i roditi se?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Odgovori Isus: zaista, zaista ti kažem: ako se ko ne rodi vodom i Duhom, ne može uæi u carstvo Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Što je roðeno od tijela, tijelo je; a što je roðeno od Duha, duh je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ne èudi se što ti rekoh: valja vam se nanovo roditi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Duh diše gdje hoæe, i glas njegov èuješ, a ne znaš otkuda dolazi i kuda ide; tako je svaki èovjek koji je roðen od Duha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Odgovori Nikodim i reèe mu: kako može to biti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Isus odgovori i reèe mu: ti si uèitelj Izrailjev, i to li ne znaš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zaista, zaista ti kažem da mi govorimo što znamo, i svjedoèimo što vidjesmo, i svjedoèanstva našega ne primate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Kad vam kazah zemaljsko pa ne vjerujete, kako æete vjerovati ako vam kažem nebesko?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I niko se ne pope na nebo osim koji siðe s neba, sin èovjeèij koji je na nebu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I kao što Mojsije podiže zmiju u pustinji, tako treba sin èovjeèij da se podigne,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Da nijedan koji ga vjeruje ne pogine, nego da ima život vjeèni:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer Bogu tako omilje svijet da je i sina svojega jedinorodnoga dao, da nijedan koji ga vjeruje ne pogine, nego da ima život vjeèni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer Bog ne posla sina svojega na svijet da sudi svijetu, nego da se svijet spase kroza nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Koji njega vjeruje ne sudi mu se, a koji ne vjeruje veæ je osuðen, jer ne vjerova u ime jedinorodnoga sina Božijega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A sud je ovaj što vidjelo doðe na svijet, i ljudima omilje veæma tama negoli vidjelo; jer njihova djela bijahu zla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer svaki koji zlo èini mrzi na vidjelo i ne ide k vidjelu da ne pokaraju djela njegovijeh, jer su zla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A ko istinu èini ide k vidjelu, da se vide djela njegova, jer su u Bogu uèinjena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A potom doðe Isus i uèenici njegovi u Judejsku zemlju, i ondje življaše s njima i kršæavaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A Jovan kršæavaše u Enonu blizu Salima, jer ondje bješe mnogo vode; i dolažahu te ih kršæavaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer još ne bijaše Jovan baèen u tamnicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Tada postade raspra meðu uèenicima Jovanovijem i Jevrejima oko èišæenja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I doðoše k Jovanu i rekoše mu: Ravi! onaj što bješe s tobom preko Jordana, za koga si ti svjedoèio, evo on kršæava, i svi idu k njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jovan odgovori i reèe: ne može èovjek ništa primati ako mu ne bude dano s neba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Vi sami meni svjedoèite da rekoh: ja nijesam Hristos, nego sam poslan pred njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ko ima nevjestu ženik je, a prijatelj ženikov stoji i sluša ga, i radošæu raduje se glasu ženikovu. Ova dakle radost moja ispuni se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Onaj treba da raste, a ja da se umaljujem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Koji odozgo dolazi nad svima je; koji je sa zemlje od zemlje je, i govori od zemlje; koji dolazi s neba nad svima je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I što vidje i èu ono svjedoèi; i svjedoèanstva njegova niko ne prima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Koji primi njegovo svjedoèanstvo, potvrdi da je Bog istinit."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Jer koga Bog posla, onaj rijeèi Božije govori: jer Bog Duha ne daje na mjeru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Jer otac ljubi sina, i sve dade u ruke njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ko vjeruje sina, ima život vjeèni; a ko ne vjeruje sina, neæe vidjeti života, nego gnjev Božij ostaje na njemu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JHN/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JHN/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JHN/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 36
+}

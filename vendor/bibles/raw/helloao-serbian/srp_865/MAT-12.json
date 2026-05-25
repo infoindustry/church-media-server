@@ -1,0 +1,419 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "srp_865",
+    "name": "Mateju",
+    "commonName": "Mateju",
+    "title": "Jevanðelje po Mateju",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "2282cb47d4ecce5bfb50178a05f4b87b8f4e94d2e2954aa2bd38500539980051",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/MAT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U to vrijeme iðaše Isus u subotu kroz usjeve: a uèenici njegovi ogladnješe, i poèeše trgati klasje, i jesti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A fariseji vidjevši to rekoše mu: gle, uèenici tvoji èine što ne valja èiniti u subotu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A on reèe im: nijeste li èitali što uèini David kad ogladnje, on i koji bijahu s njim?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Kako uðe u kuæu Božiju, i hljebove postavljene pojede, kojijeh nije valjalo jesti njemu ni onima što su bili s njim, nego samijem sveštenicima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ili nijeste èitali u zakonu kako u subotu sveštenici u crkvi subotu pogane, pa nijesu krivi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A ja vam kažem da je ovdje onaj koji je veæi od crkve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Kad biste pak znali šta je to: milosti hoæu a ne priloga, nikad ne biste osuðivali pravijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer je gospodar i od subote sin èovjeèij."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I otišavši odande doðe u zbornicu njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I gle, èovjek bijaše tu s rukom suhom; i zapitaše ga govoreæi: valja li u subotu lijeèiti? da bi ga okrivili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A on reèe im: koji je meðu vama èovjek koji ima ovcu jednu pa ako ona u subotu upadne u jamu neæe je uzeti i izvaditi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A koliko li je èovjek pretežniji od ovce? Daklem valja u subotu dobro èiniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada reèe èovjeku: pruži ruku svoju. I pruži. I postade zdrava kao i druga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A fariseji izišavši naèiniše vijeæu o njemu kako bi ga pogubili. No Isus doznavši to ukloni se odande."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I za njim idoše ljudi mnogi, i iscijeli ih sve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I zaprijeti im da ga ne razglašuju:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Da se zbude što je kazao Isaija prorok govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Gle, sluga moj, koga sam izabrao, ljubazni moj, koji je po volji duše moje: metnuæu duh svoj na njega, i sud neznabošcima javiæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Neæe se svaðati ni vikati, niti æe èuti ko po rasputicama glasa njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Trske stuèene neæe prelomiti i svještila zapaljena neæe ugasiti dok pravda ne održi pobjede."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I u ime njegovo uzdaæe se narodi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Tada dovedoše k njemu bijesna koji bješe nijem i slijep; i iscijeli ga da nijemi i slijepi stade govoriti i gledati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I divljahu se svi ljudi govoreæi: nije li ovo Hristos, sin Davidov?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A fariseji èuvši to rekoše: ovaj drukèije ne izgoni ðavola do pomoæu Veelzevula kneza ðavolskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A Isus znajuæi misli njihove reèe im: svako carstvo koje se razdijeli samo po sebi, opustjeæe; i svaki grad ili dom koji se razdijeli sam po sebi, propašæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I ako sotona sotonu izgoni, sam po sebi razdijelio se; kako æe dakle ostati carstvo njegovo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I ako ja pomoæu Veelzevula izgonim ðavole, sinovi vaši èijom pomoæu izgone? Zato æe vam oni biti sudije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A ako li ja Duhom Božijim izgonim ðavole, dakle je došlo k vama carstvo nebesko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ili kako može ko uæi u kuæu jakoga i pokuæstvo njegovo oteti, ako najprije ne sveže jakoga? i onda æe kuæu njegovu oplijeniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Koji nije sa mnom, protiv mene je; i koji ne sabira sa mnom, prosipa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Zato vam kažem: svaki grijeh i hula oprostiæe se ljudima; a na Duha svetoga hula neæe se oprostiti ljudima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I ako ko reèe rijeè na sina èovjeèijega, oprostiæe mu se; a koji reèe na Duha svetoga, neæe mu se oprostiti ni na ovome svijetu ni na onome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ili usadite drvo dobro, i rod njegov biæe dobar; ili usadite drvo zlo, i rod njegov zao biæe; jer se po rodu drvo poznaje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Porodi aspidini! kako možete dobro govoriti, kad ste zli? jer usta govore od suviška srca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Dobar èovjek iz dobre klijeti iznosi dobro; a zao èovjek iz zle klijeti iznosi zlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A ja vam kažem da æe za svaku praznu rijeè koju reku ljudi dati odgovor u dan strašnoga suda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Jer æeš se svojijem rijeèima opravdati, i svojijem æeš se rijeèima osuditi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Tada odgovoriše neki od književnika i fariseja govoreæi: uèitelju! mi bi radi od tebe znak vidjeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A on odgovarajuæi reèe im: rod zli i preljubotvorni traži znak; i neæe mu se dati znak osim znaka Jone proroka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Jer kao što je Jona bio u trbuhu kitovom tri dana i tri noæi: tako æe biti i sin èovjeèij u srcu zemlje tri dana i tri noæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Ninevljani iziæi æe na sud s rodom ovijem, i osudiæe ga; jer se pokajaše Joninijem pouèenjem: a gle, ovdje je veæi od Jone."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Carica južna iziæi æe na sud s rodom ovijem, i osudiæe ga; jer ona doðe s kraja zemlje da sluša premudrost Solomunovu: a gle, ovdje je veæi od Solomuna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "A kad neèisti duh iziðe iz èovjeka, ide kroz bezvodna mjesta tražeæi pokoja, i ne naðe ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Onda reèe: da se vratim u dom svoj otkuda sam izišao; i došavši naðe prazan, pometen i ukrašen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Tada otide i uzme sa sobom sedam drugijeh duhova gorijeh od sebe, i ušavši žive ondje; i bude potonje gore èovjeku onome od prvoga. Tako æe biti i ovome rodu zlome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Dok on još govoraše k ljudima, gle, mati njegova i braæa njegova stajahu napolju i èekahu da govore s njime."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "I neko mu reèe: evo mati tvoja i braæa tvoja stoje napolju, radi su da govore s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "A on odgovori i reèe onome što mu kaza: ko je mati moja, i ko su braæa moja?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "I pruživši ruku svoju na uèenike svoje reèe: eto mati moja i braæa moja. Jer ko izvršuje volju oca mojega koji je na nebesima, onaj je brat moj i sestra i mati."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAT/12.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 12
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/13.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 13
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAT/11.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 11
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 49
+}

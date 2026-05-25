@@ -1,0 +1,447 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JHN",
+    "translationId": "srp_865",
+    "name": "Jovanu",
+    "commonName": "Jovanu",
+    "title": "Jevanðelje po Jovanu",
+    "order": 43,
+    "numberOfChapters": 21,
+    "sha256": "b0467ac7d5635aaff73b88f7076ca219a8a790ad4b0c4ba876a7716c71658f8f",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JHN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JHN/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 879
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I potom hoðaše Isus po Galileji; jer po Judeji ne šæadijaše da hodi, jer gledahu Jevreji da ga ubiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Bijaše pak blizu praznik Jevrejski graðenje sjenica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Tada mu rekoše braæa njegova: iziði odavde i idi u Judeju, da i uèenici tvoji vide djela tvoja koja èiniš;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer niko ne èini što tajno a sam traži da je poznat. Ako to èiniš javi sebe svijetu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer ni braæa njegova ne vjerovahu ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tada im reèe Isus: vrijeme moje još nije došlo, a vrijeme je vaše svagda gotovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ne može svijet mrziti na vas: a na mene mrzi, jer ja svjedoèim za nj da su djela njegova zla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Vi iziðite na praznik ovaj: ja još neæu iziæi na praznik ovaj, jer se moje vrijeme još nije navršilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Rekavši im ovo osta u Galileji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A kad iziðoše braæa njegova na praznik, tada i sam iziðe, ne javno nego kao tajno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Jevreji ga tražahu na praznik i govorahu: gdje je on?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I bijahu za nj mnoge raspre u narodu: jedni govorahu da je dobar, a drugi: nije, nego vara narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ali niko ne govoraše javno za nj od straha Jevrejskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ali odmah u polovini praznika iziðe Isus u crkvu i uèaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I divljahu se Jevreji govoreæi: kako ovaj zna knjige a nije se uèio?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tada im odgovori Isus i reèe: moja nauka nije moja, nego onoga koji me je poslao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ko hoæe njegovu volju tvoriti, razumjeæe je li ova nauka od Boga ili ja sam od sebe govorim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Koji govori sam od sebe, slavu svoju traži; a ko traži slavu onoga koji ga je poslao, on je istinit i nema u njemu nepravde."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ne dade li Mojsije vama zakon i niko od vas ne živi po zakonu? Zašto tražite da me ubijete?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Odgovori narod i reèe: je li ðavo u tebi? ko traži da te ubije?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Odgovori Isus i reèe im: jedno djelo uèinih i svi se divite tome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Mojsije vam dade da se obrezujete ne kao da je od Mojsija nego od otaca i u subotu obrezujete èovjeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ako se èovjek u subotu obrezuje da se ne pokvari zakon Mojsijev, srdite li se na mene što svega èovjeka iscijelih u subotu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ne gledajte ko je ko kad sudite, nego pravedan sud sudite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Tada govorahu neki od Jerusalimljana: nije li to onaj kojega traže da ubiju?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I gle, kako govori slobodno i ništa mu ne vele: da ne doznaše naši knezovi da je on zaista Hristos?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ali ovoga znamo otkuda je; a Hristos kad doðe, niko neæe znati otkuda je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Tada Isus povika u crkvi uèeæi i reèe: i mene poznajete i znate otkuda sam; i sam od sebe ne doðoh, nego ima istiniti koji me posla, kojega vi ne znate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ja ga znam, jer sam od njega i on me posla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Tada gledahu da ga uhvate; i niko ne metnu na nj ruke, jer još ne bješe došao èas njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A od naroda mnogi ga vjerovaše, i govorahu: kad doðe Hristos eda li æe više èudesa èiniti nego ovaj što èini?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Èuše fariseji od naroda takovi govor za njega, i poslaše fariseji i glavari sveštenièki sluge da ga uhvate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Tada reèe Isus: još sam malo vremena s vama, pa idem k onome koji me posla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Tražiæete me i neæete me naæi; i gdje sam ja vi ne možete doæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A Jevreji rekoše meðu sobom: kuda æe ovaj iæi da ga mi ne naðemo? Neæe li iæi meðu rastrkane Grke, i Grke uèiti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Šta znaèi ova rijeè što reèe: tražiæete me i neæete me naæi; i gdje sam ja vi ne možete doæi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A u pošljednji veliki dan praznika stajaše Isus i vikaše govoreæi: ko je žedan neka doðe k meni i pije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Koji me vjeruje, kao što pismo reèe, iz njegova tijela poteæi æe rijeke žive vode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A ovo reèe za Duha kojega poslije primiše oni koji vjeruju u ime njegovo: jer Duh sveti još ne bješe na njima, jer Isus još ne bješe proslavljen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A mnogi od naroda èuvši ove rijeèi govorahu: ovo je zaista prorok."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Drugi govorahu: ovo je Hristos. A jedni govorahu: zar æe Hristos iz Galileje doæi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Ne kaza li pismo da æe Hristos doæi od sjemena Davidova, i iz sela Vitlejema odakle bješe David?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Tako raspra postade u narodu njega radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "A neki od njih šæadijahu da ga uhvate; ali niko ne metnu ruku na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Doðoše pak sluge ka glavarima sveštenièkijem i farisejima; i oni im rekoše: zašto ga ne dovedoste?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "A sluge odgovoriše: nikad èovjek nije tako govorio kao ovaj èovjek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Tada im odgovoriše fariseji: zar se i vi prevariste?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Vjerova li ga ko od knezova ili od fariseja?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Nego narod ovaj, koji ne zna zakona, proklet je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Reèe im Nikodim što dolazi k njemu noæu, koji bješe jedan od njih:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Eda li zakon naš sudi èovjeku dokle ga najprije ne sasluša i dozna šta èini?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Odgovoriše mu i rekoše: nijesi li i ti iz Galileje? Razgledaj i viði da prorok iz Galileje ne dolazi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "I otidoše svaki svojoj kuæi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JHN/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JHN/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JHN/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 53
+}

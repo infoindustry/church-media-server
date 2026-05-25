@@ -1,0 +1,258 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ECC",
+    "translationId": "srp_865",
+    "name": "Propovednik",
+    "commonName": "Propovednik",
+    "title": "Propovednik",
+    "order": 21,
+    "numberOfChapters": 12,
+    "sha256": "fe2dc33485c617d1c3f800f25752794cc56e27b2cfb10665b2db83a839e4fb36",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ECC/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ECC",
+      "chapter": 1
+    },
+    "lastChapterNumber": 12,
+    "lastChapterApiLink": "/api/srp_865/ECC/12.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ECC",
+      "chapter": 12
+    },
+    "totalNumberOfVerses": 222
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ja rekoh u srcu svom: daj da te okušam veseljem; uživaj dobra. Ali gle, i to bješe taština."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Smijehu rekoh: luduješ; i veselju: šta to radiš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Razmišljah u srcu svom da puštam tijelo svoje na piæe, i srcem svojim upravljajuæi mudro da se držim ludosti dokle ne vidim šta bi dobro bilo sinovima ljudskim da èine pod nebom dok su živi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Velika djela uèinih: sazidah sebi kuæe, nasadih sebi vinograde;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Naèinih sebi vrtove i voænjake, i nasadih u njima svakojakih drveta rodnijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Naèinih sebi jezera vodena da zaljevam iz njih šumu gdje rastu drveta;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nabavih sebi sluga i sluškinja, i imah sluga roðenijeh u kuæi mojoj; i imah goveda i ovaca više od svijeh koji biše prije mene u Jerusalimu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Takoðer nakupih sebi srebra i zlata i zaklada od careva i zemalja; nabavih sebi pjevaèa i pjevaèica i milina ljudskih, i sprava muzièkih svakojakih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I tako postah veæi i silniji od svijeh koji biše prije mene u Jerusalimu; i mudrost moja osta sa mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I što god željahu oèi moje, ne branjah im niti ukraæivah srcu svojemu kakoga veselja, nego se srce moje veseljaše sa svakoga truda mojega, i to mi bijaše dio od svakoga truda mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A kad pogledah na sva djela svoja što uradiše ruke moje, i na trud kojim se trudih da uradim, gle, sve bješe taština i muka duhu, i nema koristi pod suncem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada se obratih da vidim mudrost i ludost i bezumlje, jer šta bi èinio èovjek koji bi nastao poslije cara? što je veæ uèinjeno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I vidjeh da je bolja mudrost od ludosti, kao što je bolja svjetlost od mraka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Mudri ima oèi u glavi, a bezumni ide po mraku; ali takoðer doznah da jednako biva svjema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zato rekoh u srcu svom: meni æe biti kao bezumniku što biva; šta æe mi dakle pomoæi što sam mudar? I rekoh u srcu svom: i to je taština."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer se neæe spominjati mudarac kao ni bezumnik dovijeka; jer što sada jest, sve se zaboravlja poslije, i mudarac umire kao i bezumnik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Zato mi omrze život, jer mi nije milo što biva pod suncem, jer je sve taština i muka duhu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I omrze mi sav trud moj oko kojega se trudih pod suncem, jer æu ga ostaviti èovjeku koji æe nastati nakon mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I ko zna hoæe li biti mudar ili lud? i opet æe biti gospodar od svega truda mojega oko kojega se trudih i mudrovah pod suncem. I to je taština."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Zato doðoh na to da mi srce izgubi nadanje o svakom trudu oko kojega se trudih pod suncem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer ima ljudi koji se trude mudro i razumno i pravo, pa to ostavljaju u dio drugome koji se nije trudio oko toga. I to je taština i veliko zlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer šta ima èovjek od svega truda svoga i od muke srca svoga, koju podnosi pod suncem?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer su svi dani njegovi muka a poslovi njegovi briga; ni noæu se ne odmara srce njegovo. I to je taština."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Nije li dakle dobro èovjeku da jede i pije i da gleda da mu je duši dobro od truda njegova? Ja vidjeh i to da je iz ruke Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Jer ko je jeo i uživao više nego ja?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jer èovjeku koji mu je po volji daje mudrost i razum i radost, a grješniku daje muku da sabira i skuplja da da onome koji je po volji Bogu. I to je taština i muka duhu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ECC/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ECC/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ECC/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 26
+}

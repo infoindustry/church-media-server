@@ -1,0 +1,244 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I reèe Gospod Noju: uði u kovèeg ti i sav dom tvoj; jer te naðoh pravedna pred sobom ovoga vijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Uzmi sa sobom od svijeh životinja èistih po sedmoro, sve mužjaka i ženku njegovu; a od životinja neèistih po dvoje, mužjaka i ženku njegovu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Takoðer i od ptica nebeskih po sedam, mužjaka i ženku njegovu, da im se saèuva sjeme na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer æu do sedam dana pustiti dažd na zemlju za èetrdeset dana i èetrdeset noæi, i istrijebiæu sa zemlje svako tijelo živo, koje sam stvorio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I Noje uèini sve što mu zapovjedi Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A bješe Noju šest stotina godina kad doðe potop na zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I uðe Noje u kovèeg i sinovi njegovi i žena njegova i žene sinova njegovijeh s njim radi potopa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Od životinja èistih i od životinja neèistih i od ptica i od svega što se mièe po zemlji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Uðe k Noju u kovèeg po dvoje, muško i žensko, kao što bješe Bog zapovjedio Noju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A u sedmi dan doðe potop na zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Kad je bilo Noju šest stotina godina, te godine drugoga mjeseca, sedamnaesti dan toga mjeseca, taj dan razvališe se svi izvori velikoga bezdana, i otvoriše se ustave nebeske;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I udari dažd na zemlju za èetrdeset dana i èetrdeset noæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Taj dan uðe u kovèeg Noje i Sim i Ham i Jafet, sinovi Nojevi, i žena Nojeva i tri žene sinova njegovijeh s njima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Oni, i svakojake zvijeri po vrstama svojim, i svakojaka stoka po vrstama svojim, i što se god mièe po zemlji po vrstama svojim, i ptice sve po vrstama svojim, i što god leti i ima krila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Doðe k Noju u kovèeg po dvoje od svakoga tijela, u kojem ima živa duša,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Muško i žensko od svakoga tijela uðoše, kao što bješe Bog zapovjedio Noju; pa Gospod zatvori za njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I bi potop na zemlji za èetrdeset dana; i voda doðe i uze kovèeg, i podiže ga od zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I navali voda, i usta jako po zemlji, i kovèeg stade ploviti vodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I navaljivaše voda sve veæma po zemlji, i pokri sva najviša brda što su pod cijelijem nebom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Petnaest lakata doðe voda iznad brda, pošto ih pokri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tada izgibe svako tijelo što se micaše na zemlji, ptice i stoka, i zvijeri i sve što gamiže po zemlji, i svi ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Sve što imaše dušu živu u nosu, sve što bijaše na suhu, pomrije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I istrijebi se svako tijelo živo na zemlji, i ljudi i stoka i što god gamiže i ptice nebeske, sve, velim, istrijebi se sa zemlje; samo Noje osta i što s njim bješe u kovèegu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I stajaše voda povrh zemlje sto i pedeset dana."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 24
+}

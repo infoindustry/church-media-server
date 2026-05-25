@@ -1,0 +1,440 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A u crkvi koja bješe u Antiohiji bijahu neki proroci i uèitelji, to jest: Varnava i Simeun koji se zvaše Nigar, i Lukije Kirinac, i Manail odgajeni s Irodom èetverovlasnikom, i Savle."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A kad oni služahu Gospodu i pošæahu, reèe Duh sveti: odvojte mi Varnavu i Savla na djelo na koje ih pozvah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Tada postivši i pomolivši se Bogu metnuše ruke na njih, i otpustiše ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ovi dakle poslani od Duha svetoga siðoše u Seleukiju, i odande otploviše u Kipar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I došavši u Salamin javiše rijeè Božiju u zbornicama Jevrejskima; a imahu i Jovana slugu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A kad proðoše ostrvo tja do Pafa, naðoše nekakvoga èovjeka vraèara i lažna proroka, Jevrejina, kome bješe ime Varisus,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Koji bješe s namjesnikom Srðem Pavlom, èovjekom razumnijem. Ovaj dozvavši Varnavu i Savla zaiska da èuje rijeè Božiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A Elima vraèar jer to znaèi ime njegovo) stade im se suprotiti, gledajuæi da odvrati namjesnika od vjere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Savle koji se zvaše i Pavle, pun Duha svetoga pogledavši na nj"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Reèe: o napunjeni svakoga lukavstva i svake pakosti, sine ðavolji! neprijatelju svake pravde! zar ne prestaješ kvariti pravijeh putova Gospodnjijeh?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I sad eto ruke Gospodnje na te, i da budeš slijep da ne vidiš sunca za neko vrijeme. I ujedanput napade na nj mrak i tama, i pipajuæi tražaše voða."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada namjesnik, kad vidje šta bi, vjerova, diveæi se nauci Gospodnjoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A kad se Pavle sa svojijem društvom odveze iz Pafa, doðoše u Pergu Pamfilijsku; a Jovan se odvoji od njih, i vrati se u Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A oni otišavši iz Perge doðoše u Antiohiju Pisidijsku, i ušavši u zbornicu u dan subotni sjedoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A po èitanju zakona i proroka poslaše starješine zbornièke k njima govoreæi: ljudi braæo! ako je u vama rijeè utjehe za narod, govorite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Pavle ustavši i mahnuvši rukom reèe: ljudi Izrailjci i koji se Boga bojite! èujte."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Bog naroda ovoga izabra oce naše, i podiže narod kad bijahu došljaci u zemlji Misirskoj, i rukom visokom izvede ih iz nje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I do èetrdeset godina prehrani ih u pustinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I zatrvši sedam naroda u zemlji Hanaanskoj na kocke razdijeli im zemlju njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I potom na èetiri stotine i pedeset godina dade im sudije do Samuila proroka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I od tada iskaše cara, i dade im Bog Saula, sina Kisova, èovjeka od koljena Venijaminova, za èetrdeset godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I uklonivši njega podiže im Davida za cara, kome i reèe svjedoèeæi: naðoh Davida sina Jesejeva, èovjeka po srcu mojemu, koji æe ispuniti sve volje moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Od njegova sjemena podiže Bog po obeæanju Izrailju spasa Isusa;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Kad Jovan pred njegovijem dolaskom propovijeda krštenje pokajanja svemu narodu Izrailjevu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I kad svršivaše Jovan teèenje svoje, govoraše: ko mislite da sam ja nijesam ja; nego evo ide za mnom, kome ja nijesam dostojan razdriješiti remena na obuæi njegovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ljudi braæo! sinovi roda Avraamova, i koji se meðu vama Boga boje! vama se posla rijeè ovoga spasenija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jer oni što žive u Jerusalimu, i knezovi njihovi, ne poznaše ovoga i glasove proroèke koji se èitaju svake subote osudivši ga izvršiše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I ne našavši ni jedne krivice smrtne moliše Pilata da ga pogubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I kad svršiše sve što je pisano za njega, skinuše ga s drveta i metnuše u grob."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A Bog vaskrse ga iz mrtvijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I pokaziva se mnogo dana onima što izlaziše s njim iz Galileje u Jerusalim, koji su sad svjedoci njegovi pred narodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I mi vam javljamo obeæanje koje bi ocevima našima da je ovo Bog ispunio nama, djeci njihovoj, podignuvši Isusa;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Kao što je napisano i u drugom psalmu: ti si moj sin, ja te danas rodih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A da ga iz mrtvijeh vaskrse da se više ne vrati u truhljenje ovako reèe: daæu vam svetinju Davidovu vjernu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Zato i na drugom mjestu govori: neæeš dati da tvoj svetac vidi truhljenja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Jer David posluživši rodu svojemu po volji Božijoj umrije, i metnuše ga kod otaca njegovijeh, i vidje truhljenje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A kojega Bog podiže ne vidje truhljenja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Tako da vam je na znanje, ljudi braæo! da se kroza nj vama propovijeda oproštenje grijeha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I od svega, oda šta se ne mogoste opravdati u zakonu Mojsijevu, opravdaæe se u njemu svaki koji vjeruje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Gledajte dakle da ne doðe na vas ono što je kazano u prorocima:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Vidite, nemarljivi! i èudite se, i nek vas nestane; jer ja èinim djelo u dane vaše, djelo koje neæete vjerovati ako vam ko uskazuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A kad izlažahu iz zbornice Jevrejske, moljahu neznabošci da im se ove rijeèi u drugu subotu govore."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "A kad se sabor raziðe, poðoše za Pavlom i za Varnavom mnogi od Jevreja i pobožnijeh došljaka; a oni govoreæi im svjetovahu ih da ostanu u blagodati Božijoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "A u drugu subotu sabra se gotovo sav grad da èuju rijeèi Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "A kad vidješe Jevreji narod, napuniše se zavisti, i govorahu protivno rijeèima Pavlovijem nasuprot govoreæi i huleæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "A Pavle i Varnava oslobodivši se rekoše: vama je najprije trebalo da se govori rijeè Božija; ali kad je odbacujete, i sami se pokazujete da nijeste dostojni vjeènoga života, evo se obræemo k neznabošcima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Jer nam tako zapovjedi Gospod: postavih te za vidjelo neznabošcima, da budeš spasenije do samoga kraja zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "A kad èuše neznabošci, radovahu se i slavljahu rijeè Božiju, i vjerovaše koliko ih bješe pripravljeno za život vjeèni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "I rijeè se Božija raznošaše po svoj okolini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Ali Jevreji podgovoriše pobožne i poštene žene i starješine gradske te podigoše gonjenje na Pavla i Varnavu, i istjeraše ih iz svoje zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "A oni otresavši na njih prah sa svojijeh nogu doðoše u Ikoniju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "A uèenici punjahu se radosti i Duha svetoga."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/13.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 13
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/14.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 14
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/12.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 12
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 52
+}

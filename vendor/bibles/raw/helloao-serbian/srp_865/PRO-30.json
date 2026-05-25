@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PRO",
+    "translationId": "srp_865",
+    "name": "Poslovice",
+    "commonName": "Poslovice",
+    "title": "Poslovice",
+    "order": 20,
+    "numberOfChapters": 31,
+    "sha256": "f56bab8aa62f0f40c0df66127a72bfe1a5502690bdb1dac94e5767df0572eee0",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PRO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PRO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/PRO/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PRO",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 915
+  },
+  "chapter": {
+    "number": 30,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Rijeèi Agura sina Jakejeva; sabrane rijeèi toga èovjeka Itilu, Itilu i Ukalu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ja sam luði od svakoga, i razuma èovjeèijega nema u mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Niti sam uèio mudrosti niti znam svetijeh stvari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ko je izašao na nebo i opet sišao? ko je skupio vjetar u pregršti svoje? ko je svezao vode u plašt svoj? ko je utvrdio sve krajeve zemlji? kako mu je ime? i kako je ime sinu njegovu? znaš li?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Sve su rijeèi Božije èiste; on je štit onima koji se uzdaju u nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ništa ne dodaji k rijeèima njegovijem, da te ne ukori i ne naðeš se laža."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Za dvoje molim te; nemoj me se oglušiti dok sam živ:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Taštinu i rijeè lažnu udalji od mene; siromaštva ni bogatstva ne daj mi, hrani me hljebom po obroku mom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Da ne bih najedavši se odrekao se tebe i rekao: ko je Gospod? ili osiromašivši da ne bih krao i uzalud uzimao ime Boga svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ne opadaj sluge gospodaru njegovu, da te ne bi kleo i ti bio kriv."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ima rod koji psuje oca svojega i ne blagosilja matere svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ima rod koji misli da je èist, a od svoga kala nije opran."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ima rod koji drži visoko oèi svoje, i vjeðe mu se dižu uvis."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ima rod kojemu su zubi maèevi i kutnjaci noževi, da proždire siromahe sa zemlje i uboge izmeðu ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Pijavica ima dvije kæeri, koje govore: daj, daj. Ima troje nesito, i èetvrto nikad ne kaže: dosta:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Grob, materica jalova, zemlja, koja ne biva sita vode, i oganj, koji ne govori: dosta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Oko koje se ruga ocu i neæe da sluša matere, kljuvaæe ga gavrani s potoka i jesti orliæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Troje mi je èudesno, i èetvrtoga ne razumijem:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Put orlov u nebo, put zmijin po stijeni, put laðin posred mora, i put èovjeèiji k djevojci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Taki je put kurvin: jede, i ubriše usta, pa veli: nijesam uèinila zla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Od troga se potresa zemlja, i èetvrtoga ne može podnijeti:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Od sluge, kad postane car, od bezumnika, kad se najede hljeba,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Od puštenice, kad se uda, od sluškinje kad naslijedi gospoðu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Èetvoro ima maleno na zemlji, ali mudrije od mudaraca:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Mravi, koji su slab narod, ali opet pripravljaju u ljeto sebi hranu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Pitomi zeèevi, koji su nejak narod, ali opet u kamenu grade sebi kuæu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Skakavci, koji nemaju cara, ali opet idu svi jatom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Pauk, koji rukama radi i u carskim je dvorima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Troje lijepo koraèa, i èetvrto lijepo hodi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Lav, najjaèi izmeðu zvjerova, koji ne uzmièe ni pred kim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Konj opasan po bedrima ili jarac, i car na koga niko ne ustaje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ako si ludovao ponesavši se ili si zlo mislio, metni ruku na usta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Kad se razbija mlijeko, izlazi maslo; i ko jako nos utire, izgoni krv; tako ko draži na gnjev, zameæe svaðu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PRO/30.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 30
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PRO/31.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 31
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PRO/29.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 29
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOB",
+    "translationId": "srp_865",
+    "name": "Jov",
+    "commonName": "Jov",
+    "title": "Jov",
+    "order": 18,
+    "numberOfChapters": 42,
+    "sha256": "8862f4cbf1254f76fa7ea0a123da4bc2d61eebd46a2620b1499e0771fad0ee95",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOB/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 1
+    },
+    "lastChapterNumber": 42,
+    "lastChapterApiLink": "/api/srp_865/JOB/42.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOB",
+      "chapter": 42
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Bijaše èovjek u zemlji Uzu po imenu Jov; i taj èovjek bijaše dobar i pravedan, i bojaše se Boga, i uklanjaše se oda zla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I rodi mu se sedam sinova i tri kæeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I imaše stoke sedam tisuæa ovaca i tri tisuæe kamila i pet stotina jarmova volova i pet stotina magarica, i èeljadi veoma mnogo; i bijaše taj èovjek najveæi od svijeh ljudi na istoku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I sinovi njegovi sastajahu se i davahu gozbe kod kuæe, svaki svoga dana, i slahu te pozivahu tri sestre svoje da jedu i piju s njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I kad bi se obredili gozbom, pošiljaše Jov i osveæivaše ih, i ustajuæi rano prinošaše žrtve paljenice prema broju svijeh njih; jer govoraše Jov: može biti da su se ogriješili sinovi moji i pohulili na Boga u srcu svom. Tako èinjaše Jov svaki put."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A jedan dan doðoše sinovi Božji da stanu pred Gospodom, a meðu njih doðe i Sotona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I Gospod reèe Sotoni: otkuda ideš? A Sotona odgovori Gospodu i reèe: prohodih zemlju i obilazih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I reèe Gospod Sotoni: jesi li vidio slugu mojega Jova? nema onakoga èovjeka na zemlji, dobra i pravedna, koji se boji Boga i uklanja se oda zla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Sotona odgovori Gospodu i reèe: eda li se uzalud Jov boji Boga?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nijesi li ga ti ogradio i kuæu njegovu i sve što ima svuda unaokolo? djelo ruku njegovijeh blagoslovio si, i stoka se njegova umnožila na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ali pruži ruku svoju i dotakni se svega što ima, psovaæe te u oèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A Gospod reèe Sotoni: evo, sve što ima neka je u tvojoj ruci; samo na njega ne diži ruke svoje. I otide Sotona od Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A jedan dan kad sinovi njegovi i kæeri njegove jeðahu i pijahu vino u kuæi brata svojega najstarijega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Doðe glasnik Jovu i reèe: volovi orahu i magarice pasijahu pokraj njih,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Saveji udariše i oteše ih, i pobiše momke oštrijem maèem; i samo ja jedan utekoh da ti javim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Dok ovaj još govoraše, doðe drugi i reèe: oganj Božji spade s neba i spali ovce i momke, i proždrije ih; i samo ja jedan utekoh da ti javim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Dokle ovaj još govoraše, doðe drugi i reèe: Haldejci u tri èete udariše na kamile i oteše ih, i pobiše momke oštrijem maèem; i samo ja jedan utekoh da ti javim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Dokle ovaj još govoraše, doðe drugi i reèe: sinovi tvoji i kæeri tvoje jeðahu i pijahu vino u kuæi brata svojega najstarijega;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A to vjetar velik doðe ispreko pustinje i udari u èetiri ugla od kuæe, te pade na djecu i pogiboše; i samo ja jedan utekoh da ti javim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Tada usta Jov i razdrije plašt svoj, i ostriže glavu, i pade na zemlju i pokloni se,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I reèe: go sam izašao iz utrobe matere svoje, go æu se i vratiti onamo. Gospod dade, Gospod uze, da je blagosloveno ime Gospodnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Uza sve to ne sagriješi Jov, niti reèe bezumlja za Boga."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOB/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOB/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOB",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EST/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EST",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

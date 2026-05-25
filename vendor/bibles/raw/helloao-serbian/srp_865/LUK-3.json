@@ -1,0 +1,342 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "srp_865",
+    "name": "Luki",
+    "commonName": "Luki",
+    "title": "Jevanðelje po Luki",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "71d24bae001865beafd9dc8b76f8e93d8f927bd8e33391ea4aebbf53673c6a27",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LUK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/LUK/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U petnaestoj godini vladanja æesara Tiverija, kad bješe Pontije Pilat sudija u Judeji, i Irod èetverovlasnik u Galileji, a Filip brat njegov èetverovlasnik u Itureji i u Trahonitskoj, i Lisanija èetverovlasnik u Avilini,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Za poglavara sveštenièkijeh Ane i Kajafe, reèe Bog Jovanu sinu Zarijnu u pustinji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I doðe u svu okolinu Jordansku propovijedajuæi krštenje pokajanja za oproštenje grijeha;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Kao što je napisano u knjizi rijeèi proroka Isaije koji govori: glas onoga što vièe u pustinji: pripravite put Gospodnji; poravnite staze njegove;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Sve doline neka se ispune, i sve gore i bregovi neka se slegnu; i što je krivo neka bude pravo, i hrapavi putovi neka budu glatki;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I svako æe tijelo vidjeti spasenije Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jovan pak govoraše ljudima koji izlažahu da ih krsti: porodi aspidini! ko vam kaza da bježite od gnjeva koji ide?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Rodite dakle rodove dostojne pokajanja, i ne govorite u sebi: oca imamo Avraama; jer vam kažem da Bog može i od ovoga kamenja podignuti djecu Avraamu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer veæ i sjekira stoji drvetu kod korijena; i svako drvo koje dobra roda ne raða sijeèe se i u oganj se baca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I pitahu ga ljudi govoreæi: šta æemo dakle èiniti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "On pak odgovarajuæi reèe im: koji ima dvije haljine neka da jednu onome koji nema; i ko ima hrane neka èini tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Doðoše pak i carinici da ih krsti, i rekoše mu: uèitelju! šta æemo èiniti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A on im reèe: ne ištite više nego što vam je reèeno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Pitahu ga pak i vojnici govoreæi: a mi šta æemo èiniti? I reèe im: nikome da ne èinite sile niti koga da opadate, i budite zadovoljni svojom platom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A kad narod bješe u sumnji i pomišljahu svi u srcima svojijem za Jovana: da nije on Hristos?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Odgovaraše Jovan svima govoreæi: ja vas krstim vodom; ali ide za mnom jaèi od mene, kome ja nijesam dostojan odriješiti remena na obuæi njegovoj; on æe vas krstiti Duhom svetijem i ognjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "On ima lopatu u ruci svojoj, i oèistiæe gumno svoje, i skupiæe pšenicu svoju, a pljevu æe sažeæi ognjem vjeènijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I drugo mnogo koješta javlja narodu i napominja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Iroda pak èetverovlasnika koraše Jovan za Irodijadu, ženu brata njegova, i za sva zla što uèini Irod;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I svrh svega uèini i to te zatvori Jovana u tamnicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A kad se krsti sav narod, i Isus pošto se krsti i moljaše se Bogu, otvori se nebo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I siðe na nj Duh sveti u tjelesnome obliku kao golub, i èu se glas s neba govoreæi: ti si sin moj ljubazni, ti si po mojoj volji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I taj Isus imaše oko trideset godina kad poèe; i bješe, kao što se mišljaše, sin Josifa sina Ilijna,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Sina Matatova, sina Levijna, sina Melhijna, sina Janejeva, sina Josifova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Sina Matatijna, sina Amosova, sina Naumova, sina Eslijna, sina Nangejeva,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Sina Maatova, sina Matatijna, sina Semejina, sina Josifova, sina Judina,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Sina Joanina, sina Risina, sina Zorovavelova, sina Salatiilova, sina Nirijna,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Sina Melhijna, sina Adijna, sina Kosamova, sina Irova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Sina Josijna, sina Eliezerova, sina Jorimova, sina Matatova, sina Levijna,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Sina Simeunova, sina Judina, sina Josifova, sina Jonanova, sina Eliakimova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Sina Melejina, sina Mainanova, sina Matatina, sina Natanova, sina Davidova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Sina Jesejeva, sina Ovidova, sina Voozova, sina Salmonova, sina Naasonova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Sina Aminadavova, sina Aramova, sina Esromova, sina Faresova, sina Judina,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Sina Jakovljeva, sina Isakova, sina Avraamova, sina Tarina, sina Nahorova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Sina Seruhova, sina Ragavova, sina Falekova, sina Everova, sina Salina,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Sina Kainanova, sina Arfaksadova, sina Simova, sina Nojeva, sina Lamehova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Sina Matusalina, sina Enohova, sina Jaredova, sina Maleleilova, sina Kainanova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Sina Enosova, sina Sitova, sina Adamova, sina Božijega."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LUK/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LUK/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LUK/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 38
+}

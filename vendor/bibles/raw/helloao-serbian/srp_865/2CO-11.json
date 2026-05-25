@@ -1,0 +1,300 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CO",
+    "translationId": "srp_865",
+    "name": "2 Korinæanima",
+    "commonName": "2 Korinæanima",
+    "title": "2. Korinæanima Poslanica",
+    "order": 47,
+    "numberOfChapters": 13,
+    "sha256": "20ab07753b2c73bb7bdc0574326c0b6fe24b2223ed2a3ffc8ec06c7f3f7c18a8",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 13,
+    "lastChapterApiLink": "/api/srp_865/2CO/13.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CO",
+      "chapter": 13
+    },
+    "totalNumberOfVerses": 255
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "O da biste malo potrpljeli moje bezumlje! no i potrpite me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer revnujem za vas Božijom revnosti, jer vas obrekoh mužu jednome, da djevojku èistu izvedem pred Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ali se bojim da kako kao što zmija Evu prevari lukavstvom svojijem tako i razumi vaši da se ne odvrate od prostote koja je u Hristu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer ako onaj koji dolazi drugoga Isusa propovijeda kojega mi ne propovijedasmo, ili drugoga Duha primite kojega ne primiste, ili drugo jevanðelje koje ne primiste, dobro biste potrpljeli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer mislim da ni u èemu nijesam manji od prevelikijeh apostola."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer ako sam i prostak u rijeèi, ali u razumu nijesam. No u svemu smo poznati meðu vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ili grijeh uèinih ponižujuæi sebe da se vi povisite? Jer vam zabadava Božije jevanðelje propovjedih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Od drugijeh crkava oteh uzevši platu za služenje vama; i došavši k vama, i bivši u sirotinji, ne dosadih nikome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer moju sirotinju potpuniše braæa koja doðoše iz Maæedonije, i u svemu bez dosade vama sebe držah i držaæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Kao što je istina Hristova u meni tako se hvala ova neæe uzeti od mene u Ahajskijem krajevima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zašto? Što vas ne ljubim? Bog zna. A što èinim i èiniæu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Da otsijeèem uzrok onima koji traže uzrok, da bi u onome èim se hvale našli se kao i mi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer takovi lažni apostoli i prevarljivi poslenici pretvaraju se u apostole Hristove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I nije èudo, jer se sam sotona pretvara u anðela svijetla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Nije dakle ništa veliko ako se i sluge njegove pretvaraju kao sluge pravde, kojima æe svršetak biti po djelima njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Opet velim da niko ne pomisli da sam ja bezuman; ako li ne, a ono barem kao bezumna primite me, da se i ja što pohvalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A što govorim ne govorim po Gospodu, nego kao u bezumlju, u ovoj struci hvale."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Buduæi da se mnogi hvale po tijelu, i ja æu da se hvalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer ljubazno primate bezumne kad ste sami mudri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer primate ako vas ko natjera da budete sluge, ako vas ko jede, ako ko uzme, ako vas ko po obrazu bije, ako se ko velièa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Na sramotu govorim, jer kao da mi oslabismo. Na što je ko slobodan po bezumlju govorim i ja sam slobodan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jesu li Jevreji? i ja sam; jesu li Izrailjci? i ja sam; jesu li sjeme Avraamovo? i ja sam;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jesu li sluge Hristove? ne govorim po mudrosti) ja sam još više. Više sam se trudio, više sam boja podnio, više puta sam bio u tamnici, mnogo puta sam dolazio do straha smrtnoga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Od Jevreja primio sam pet puta èetrdeset manje jedan udarac;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Triput sam bio šiban, jednom su kamenje bacali na me, tri puta se laða sa mnom razbijala, noæ i dan proveo sam u dubini morskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Mnogo puta sam putovao, bio sam u strahu na vodama, u strahu od hajduka, u strahu od rodbine, u strahu od neznabožaca, u strahu u gradovima, u strahu u pustinji, u strahu na moru, u strahu meðu lažnom braæom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "U trudu i poslu, u mnogom nespavanju, u gladovanju i žeði, u mnogom pošæenju, u zimi i golotinji;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Osim što je spolja, navaljivanje ljudi svaki dan, i briga za sve crkve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ko oslabi, i ja da ne oslabim? Ko se sablazni, i ja da se ne raspalim?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ako mi se valja hvaliti, svojom æu se slabošæu hvaliti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Bog i otac Gospoda našega Isusa Hrista, koji je blagosloven vavijek, zna da ne lažem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "U Damasku neznabožaèki knez cara Arete èuvaše grad Damask i šæaše da me uhvati; i kroz prozor spustiše me u kotarici preko zida, i izbjegoh iz njegovijeh ruku."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CO/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CO",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CO/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CO",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CO/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CO",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 32
+}

@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOS",
+    "translationId": "srp_865",
+    "name": "Isus Navin",
+    "commonName": "Isus Navin",
+    "title": "Isus Navin",
+    "order": 6,
+    "numberOfChapters": 24,
+    "sha256": "ec9d0a794c17ba6296451b87fb16a4d34d8af2bfd446293b00f97a3bbb7257b2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOS/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/JOS/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 658
+  },
+  "chapter": {
+    "number": 24,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Potom sabra Isus sva plemena Izrailjeva u Sihem, i sazva starješine Izrailjeve i poglavare njegove i sudije njegove i upravitelje njegove, i stadoše pred Bogom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I reèe Isus svemu narodu: ovako veli Gospod Bog Izrailjev: s onu stranu rijeke živješe negda oci vaši, Tara otac Avramov i otac Nahorov, i služiše drugim bogovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ali uzeh oca vašega Avrama ispreko rijeke i provedoh ga kroz svu zemlju Hanansku i umnožih sjeme njegovo davši mu Isaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A Isaku dadoh Jakova i Isava, i dadoh Isavu goru Sir da je njegova; a Jakov i sinovi njegovi sidoše u Misir."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I poslah Mojsija i Arona, i muèih Misir, kako uèinih usred njega, potom vas izvedoh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A kad izvedoh iz Misira oce vaše, doðoše na more, a Misirci gnaše oce vaše s kolima i s konjicima do Crvenoga Mora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tada zavapiše ka Gospodu, i postavih tamu izmeðu vas i Misiraca, i navedoh na njih more koje ih zatrpa, i oèi vaše vidješe šta uèinih od Misiraca; potom ostaste u pustinji dugo vremena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Iza toga dovedoh vas u zemlju Amoreja koji življahu s onu stranu Jordana; i oni se pobiše s vama, ali ih dadoh vama u ruke, te naslijediste zemlju njihovu, i istrijebih ih ispred vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Valak sin Seforov car Moavski podiže se da se bije s Izrailjem, i posla te dozva Valama sina Veorova da vas prokune."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ali ne htjeh poslušati Valama, te vas on još blagoslovi, i izbavih vas iz ruke njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Potom prijeðoste preko Jordana, i doðoste pod Jerihon, i biše se s vama Jerihonjani, Amoreji i Ferezeji i Hananeji i Heteji i Gergeseji i Jeveji i Jevuseji; i dadoh ih vama u ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I poslah pred vama stršljene, koji ih izagnaše ispred vas, dva cara Amorejska; ne maèem tvojim ni lukom tvojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I dadoh vam zemlju, koje ne radiste, i gradove, kojih ne gradiste, i u njima živite; iz vinograda i iz maslinika, kojih nijeste sadili, jedete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Zato sada bojte se Gospoda i služite mu vjerno i istinito; i povrzite bogove, kojima su služili oci vaši s onu stranu rijeke i u Misiru, pa služite Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ako li vam nije drago služiti Gospodu, izberite sebi danas kome æete služiti: ili bogove kojima su služili oci vaši s onu stranu rijeke, ili bogove Amoreja u kojih zemlji živite; a ja i dom moj služiæemo Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A narod odgovori i reèe: ne daj Bože da ostavimo Gospoda da služimo drugim bogovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer Gospod Bog naš, on je izveo nas i oce naše iz zemlje Misirske, iz doma ropskoga, i on je uèinio pred našim oèima one znake velike, i èuvao nas cijelijem putem kojim idosmo, i po svijem narodima kroz koje proðosmo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I Gospod je istjerao ispred nas sve narode i Amoreje, koji življahu u ovoj zemlji; i mi æemo služiti Gospodu, jer je Bog naš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A Isus reèe narodu: ne možete služiti Gospodu, jer je svet Bog, Bog revnitelj, neæe podnositi vaše nevjere i vaših grijeha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Kad ostavite Gospoda i stanete služiti tuðim bogovima, okrenuæe se i zlo æe vam uèiniti, i istrijebiæe vas, pošto vam je dobro èinio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A narod reèe Isusu: ne, nego æemo Gospodu služiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A Isus reèe narodu: sami ste sebi svjedoci da ste izabrali sebi Gospoda da mu služite. I oni rekoše: svjedoci smo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Povrzite dakle bogove tuðe što su meðu vama, i privijte srce svoje ka Gospodu Bogu Izrailjevu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A narod reèe Isusu: Gospodu Bogu svojemu služiæemo i glas njegov slušaæemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Tako uèini Isus zavjet s narodom onaj dan i postavi im uredbe i zakone u Sihemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I zapisa Isus ove rijeèi u knjigu zakona Božijega; i uzevši kamen velik podiže ga ondje pod hrastom koji bijaše kod svetinje Gospodnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I reèe Isus svemu narodu: evo, kamen ovaj neka vam bude svjedoèanstvo; jer je èuo sve rijeèi Gospodnje, koje nam je govorio; i neka vam bude svjedoèanstvo da ne biste slagali Bogu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Potom raspusti Isus narod, svakoga na njegovo našljedstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A poslije ovijeh stvari umrije Isus sin Navin sluga Gospodnji, kad mu bijaše sto i deset godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I pogreboše ga u meðama našljedstva njegova u Tamnat-Sarahu, koji je u gori Jefremovoj sa sjevera gori Gasu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I služi Izrailj Gospodu svega vijeka Isusova i svega vijeka starješina, koje dugo živješe iza Isusa i koje znahu sva djela Gospodnja, koja uèini Izrailju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I kosti Josifove, koje donesoše sinovi Izrailjevi iz Misira, pogreboše u Sihemu, u dijelu polja koje je kupio Jakov od sinova Emora oca Sihemova za sto novaca; i biše u sinova Josifovijeh u našljedstvu njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I Eleazar sin Aronov umrije, i pogreboše ga na brdu Finesa sina njegova, koje mu bješe dano u gori Jefremovoj."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOS/24.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 24
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JDG/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JDG",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOS/23.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 23
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

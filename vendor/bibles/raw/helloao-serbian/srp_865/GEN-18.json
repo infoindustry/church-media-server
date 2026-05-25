@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Poslije mu se javi Gospod u ravnici Mamrijskoj kad sjeðaše na vratima pred šatorom svojim u podne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Podigavši oèi svoje pogleda, i gle, tri èovjeka stajahu prema njemu. I ugledavši ih potrèa im na susret ispred vrata šatora svojega, i pokloni se do zemlje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reèe: Gospode, ako sam našao milost pred tobom, nemoj proæi sluge svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Da vam donesemo malo vode i operite noge, te se naslonite malo pod ovijem drvetom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I iznijeæu malo hljeba, te potkrijepite srce svoje, pa onda poðite, kad idete pored sluge svojega. I rekoše: uèini što si kazao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I Avram otrèa u šator k Sari, i reèe: brže zamijesi tri kopanje bijeloga brašna i ispeci pogaèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Pa otrèa ka govedima i uhvati tele mlado i dobro, i dade ga momku da ga brže zgotovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Pa onda iznese masla i mlijeka i tele koje bješe zgotovio, i postavi im, a sam stajaše pred njima pod drvetom dokle jeðahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I oni mu rekoše: gdje je Sara žena tvoja? A on reèe: eno je pod šatorom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A jedan izmeðu njih reèe: do godine u ovo doba opet æu doæi k tebi, a Sara æe žena tvoja imati sina. A Sara slušaše na vratima od šatora iza njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Avram i Sara bijahu stari i vremeniti, i u Sare bješe prestalo što biva u žena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zato se nasmija Sara u sebi govoreæi: pošto sam ostarjela, sad li æe mi doæi radost? a i gospodar mi je star."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada reèe Gospod Avramu: što se smije Sara govoreæi: istina li je da æu roditi kad sam ostarjela?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ima li što teško Gospodu? Do godine u ovo doba opet æu doæi k tebi, a Sara æe imati sina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Sara udari u bah govoreæi: nijesam se smijala. Jer se uplaši. Ali on reèe: nije istina, nego si se smijala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Potom ustaše ljudi odande, i poðoše put Sodoma; i Avram poðe s njima da ih isprati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A Gospod reèe: kako bih tajio od Avrama šta æu uèiniti,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Kad æe od Avrama postati velik i silan narod, i u njemu æe se blagosloviti svi narodi na zemlji?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer znam da æe zapovjediti sinovima svojima i domu svojemu nakon sebe da se drže putova Gospodnjih i da èine što je pravo i dobro, da bi Gospod navršio na Avramu što mu je obeæao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I reèe Gospod: vika je u Sodomu i Gomoru velika, i grijeh je njihov grdan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Zato æu siæi da vidim eda li sve èine kao što vika doðe preda me; ako li nije tako, da znam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I ljudi okrenuvši se poðoše put Sodoma; ali Avram još stajaše pred Gospodom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I pristupiv Avram reèe: hoæeš li pogubiti i pravednoga s nepravednim?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Može biti da ima pedeset pravednika u gradu; hoæeš li i njih pogubiti, i neæeš oprostiti mjestu za onijeh pedeset pravednika što su u njemu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Nemoj to èiniti, ni gubiti pravednika s nepravednikom, da bude pravedniku kao i nepravedniku; nemoj; eda li sudija cijele zemlje neæe suditi pravo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I reèe Gospod: ako naðem u Sodomu pedeset pravednika u gradu, oprostiæu cijelom mjestu njih radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A Avram odgovori i reèe: gle, sada bih progovorio Gospodu, ako i jesam prah i pepeo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Može biti pravednika pedeset manje pet, hoæeš li za ovijeh pet zatrti sav grad? Odgovori: neæu, ako naðem èetrdeset i pet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I stade dalje govoriti, i reèe: može biti da æe se naæi èetrdeset. Reèe: neæu radi onijeh èetrdeset."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Potom reèe: nemoj se gnjeviti, Gospode, što æu reæi; može biti da æe se naæi trideset. I reèe: neæu, ako naðem trideset."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Opet reèe: gle, sada bih progovorio Gospodu; može biti da æe se naæi dvadeset. Reèe: neæu ih pogubiti za onijeh dvadeset."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Najposlije reèe: nemoj se gnjeviti, Gospode, što æu još jednom progovoriti; može biti da æe se naæi deset. Reèe: neæu ih pogubiti radi onijeh deset."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I Gospod otide svršivši razgovor s Avramom; a Avram se vrati na svoje mjesto."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/18.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 18
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/19.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 19
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/17.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 17
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

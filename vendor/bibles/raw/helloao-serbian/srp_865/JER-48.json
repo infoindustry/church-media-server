@@ -1,0 +1,405 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 48,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Za Moava ovako govori Gospod nad vojskama Bog Izrailjev: teško Nevonu! jer æe se opustošiti; Kirijatajim æe se posramiti i uzeti; Mizgav æe se posramiti i prepasti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Neæe se više hvaliti Moav Esevonom; jer mu zlo misle: hodite da ga istrijebimo da nije više narod. I ti, Madmene, opustjeæeš; maè æe te goniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Èuje se vika iz Oronajima, pustošenje i satiranje veliko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Moav se satr; stoji vika djece njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer æe se putem Luitskim dizati plaè bez prestanka; i kako se slazi u Oronajim, neprijatelji æe èuti strašnu viku:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Bježite, izbavite duše svoje, i budite kao vrijes u pustinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer što se uzdaš u svoja djela i u blago svoje, zato æeš se i ti uzeti, i Hamos æe otiæi u ropstvo, sveštenici njegovi i knezovi njegovi skupa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I doæi æe zatiraè u svaki grad, neæe se saèuvati ni jedan grad; dolina æe propasti i ravnica æe se opustošiti, jer Gospod reèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Podajte krila Moavu, neka brzo odleti; jer æe gradovi njegovi opustjeti da neæe niko živjeti u njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Proklet bio ko nemarno radi djelo Gospodnje, i proklet ko usteže maè svoj od krvi!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Moav je bio u miru od djetinjstva svojega i poèivao na droždini svojoj, niti se pretakao iz suda u sud, niti je u ropstvo išao; zato mu osta kus njegov, i miris se njegov nije promijenio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zato, evo, idu dani, govori Gospod, da mu pošljem premetaèe, koji æe ga premetnuti, i sudove njegove isprazniti i mjehove njegove pokidati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I Moav æe se osramotiti s Hamosa, kao što se osramotio dom Izrailjev s Vetilja, gada svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Kako govorite: jaki smo i junaci u boju?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Moav æe se opustošiti i gradovi æe njegovi propasti, i najbolji mladiæi njegovi siæi æe na zaklanje, govori car, kojemu je ime Gospod nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Blizu je pogibao Moavova, i zlo njegovo vrlo hiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Žalite ga svi koji ste oko njega, i koji god znate za ime njegovo, recite: kako se slomi jaki štap, slavna palica?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Siði sa slave svoje, i sjedi na mjesto zasušeno, kæeri, koja živiš u Devonu; jer æe zatiraè Moavov doæi na tebe i raskopaæe gradove tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Stani na putu, i pogledaj, koja živiš u Aroiru, upitaj onoga koji bježi i onu koja gleda da se izbavi, reci: što bi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Posrami se Moav; jer se razbi; ridajte i vièite; javite u Arnon da se Moav opustoši."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer sud doðe na zemlju ravnu, na Olon i na Jasu i Mifat,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I na Devon i na Nevon i na Vet-Devlatajim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I na Kirijatajim i na Vet-Gamul i na Vet-Meon,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I na Keriot i na Vosoru, i na sve gradove zemlje Moavske, koji su daleko i koji su blizu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Odbijen je rog Moavu, i mišica se njegova slomi, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Opojte ga, jer se podigao na Gospoda; neka se valja Moav u bljuvotini svojoj, i bude i on potsmijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jer nije li tebi Izrailj bio potsmijeh? je li se zatekao meðu lupežima, te kad god govoriš o njemu poskakuješ?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ostavite gradove i naselite se u stijeni, stanovnici Moavski, i budite kao golubica koja se gnijezdi u kraju i rasjelini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Èusmo ponos Moavov da je veoma ponosit, oholost njegovu i ponos, razmetanje njegovo i obijest njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Znam ja, govori Gospod, obijest njegovu; ali neæe biti tako; laži njegove neæe uèiniti ništa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Zato æu ridati za Moavom, vikati za svijem Moavom, uzdisaæe se za onima u Kir-Eresu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Više nego za Jazirom plakaæu za tobom, lozo Sivamska; odvode tvoje prijeðoše more, dopriješe do mora Jazirskoga; zatiraè napade na ljetinu tvoju i na berbu tvoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I radost i veselje otide s rodnoga polja, iz zemlje Moavske, i uèinih te nesta u kacama vina; niko neæe gaziti pjevajuæi; pjesma neæe se više pjevati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Od vike Esevonske, koja doprije do Eleale, podigoše viku do Jase, od Sigora do Oronajima, kao junica od tri godine, jer æe i voda Nimrimskih nestati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I uèiniæu, govori Gospod, da ne bude Moavu èovjeka koji bi prinosio žrtvu na visini i kadio bogovima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Zato æe srce moje pištati za Moavom kao svirala, i srce æe moje pištati kao svirala za ljudima u Kir-Eresu, jer æe mu sva teèevina propasti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Jer æe sve glave biti æelave i sve brade obrijane, i sve ruke izrezane, i oko bedara kostrijet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Na svijem krovovima Moavovijem i po ulicama njegovijem biæe sam plaè, jer æu razbiti Moava kao sud na kom nema miline, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Ridajte: kako je satrven! kako Moav obrnu pleæi sramotan? i posta Moav potsmijeh i strahota svjema koji su oko njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Jer ovako govori Gospod: evo, kao orao doletjeæe i raširiæe krila svoja nad Moavom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Kerijot je pokoren i tvrda se mjesta zauzeše, i srca æe u junaka Moavovijeh biti u onaj dan kao srce u žene koja se poraða."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I Moav æe se istrijebiti da ne bude narod, jer se podiže na Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Strah i jama i zamka oko tebe je, stanovnièe Moavski, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Ko uteèe od straha, pašæe u jamu, a ko izljeze iz jame, uhvatiæe se u zamku; jer æu pustiti na njega, na Moava, godinu pohoðenja njihova, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "U sjenu Esevonskom ustaviše se koji bježahu od sile; ali æe oganj izaæi iz Esevona i plamen isred Siona, i opaliæe kraj Moavu i tjeme nemirnicima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Teško tebi, Moave, propade narod Hamosov, jer sinove tvoje zarobiše, i kæeri tvoje odvedoše u ropstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Ali æu povratiti roblje Moavovo u pošljednje vrijeme, govori Gospod. Dovde je sud Moavu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/48.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 48
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/49.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 49
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/47.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 47
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 47
+}

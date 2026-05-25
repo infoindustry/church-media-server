@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 14,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Potom doðoše k meni neki od starješina Izrailjevijeh i sjedoše preda me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I doðe mi rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Sine èovjeèji, ovi su ljudi stavili u srca svoja gadne bogove svoje, i metnuli su preda se o što se spotièu na bezakonje svoje; traže li me doista?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Zato govori im i reci im: ovako veli Gospod Gospod: ko je god od doma Izrailjeva stavio u srce svoje gadne bogove svoje i metnuo preda se o što se spotièe na bezakonje svoje, pa doðe k proroku, ja Gospod odgovoriæu mu kad doðe za mnoštvo gadnijeh bogova njegovijeh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Da uhvatim dom Izrailjev za srce njihovo što su se odvratili od mene svi za gadnijem bogovima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Zato reci domu Izrailjevu: ovako veli Gospod Gospod: obratite se i otstupite od gadnijeh bogova svojih, odvratite lice svoje od svijeh gadova svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer ko bi god od doma Izrailjeva ili od inostranaca koji žive u Izrailju otstupio od mene, i stavio u srce svoje gadne bogove svoje, i metnuo preda se o što æe se spoticati na bezakonje svoje, pa bi došao k proroku da me upita preko njega, njemu æu odgovoriti ja sam Gospod sobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I okrenuæu lice svoje prema tom èovjeku, i uèiniæu od njega znak i prièu, i istrijebiæu ga iz naroda svojega, te æete poznati da sam ja Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I ako bi se prorok prevario, te rekao što, ja Gospod prevarih onoga proroka, i dignuæu ruku svoju na nj, i istrijebiæu ga iz naroda svojega Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I ponijeæe obojica svoje bezakonje: kako je bezakonje onoga koji pita tako æe biti i prorokovo bezakonje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Da više dom Izrailjev ne otstupa od mene i da se više ne skvrne svakojakim prijestupima svojim, nego da mi budu narod, i ja da im budem Bog, govori Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Opet mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Sine èovjeèji, ako mi koja zemlja zgriješi uèinivši nevjeru, i ja dignem ruku svoju na nju i slomim joj potporu u hljebu, i pustim na nju glad i istrijebim u njoj ljude i stoku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ako bi u njoj bila ova tri èovjeka: Noje, Danilo i Jov, oni æe pravdom svojom izbaviti duše svoje, govori Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ako pustim ljute zvijeri u zemlju, te pomore ljude, i ona opusti da niko ne može prolaziti od zvijerja;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ako bi u njoj bila ta tri èovjeka, tako ja živ bio, govori Gospod Gospod, neæe izbaviti sinova ni kæeri, nego æe se sami izbaviti, a zemlja æe opustjeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ili ako maè pustim na tu zemlju, i reèem: maèu, proði tu zemlju, da istrijebim u njoj ljude i stoku;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ako bi ta tri èovjeka bila u njoj, tako ja bio živ, govori Gospod Gospod, neæe izbaviti sinova ni kæeri, nego æe se sami izbaviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ili ako pustim pomor na zemlju i izlijem gnjev svoj na nju da bi krv tekla da istrijebim u njoj ljude i stoku;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ako bi Noje, Danilo i Jov bili u njoj, tako ja živ bio, govori Gospod Gospod, neæe izbaviti sina ni kæeri, nego æe svoje duše izbaviti pravdom svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer ovako veli Gospod Gospod: akamoli kad pustim èetiri ljuta zla svoja, maè i glad i zle zvijeri i pomor na Jerusalim, da istrijebim u njemu ljude i stoku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I opet, gle, nekoliko æe ih ostati u njemu koji æe se izbaviti, sinovi ili kæeri, oni æe izaæi k vama, i vidjeæete put njihov i djela njihova, i utješiæete se za zlo koje æu pustiti na Jerusalim, za sve što æu pustiti na nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I oni æe vas utješiti kad vidite put njihov i djela njihova; i poznaæete da nijesam bez uzroka uèinio što sam god uèinio u njemu, govori Gospod Gospod."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/14.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 14
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/15.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 15
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/13.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 13
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

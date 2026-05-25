@@ -1,0 +1,174 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EST",
+    "translationId": "srp_865",
+    "name": "Jestira",
+    "commonName": "Jestira",
+    "title": "Jestira",
+    "order": 17,
+    "numberOfChapters": 10,
+    "sha256": "e4f6efd7a0ac2ec68174fc976318ab40b76a1d521c247f2da3227c800670b4a9",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EST/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EST",
+      "chapter": 1
+    },
+    "lastChapterNumber": 10,
+    "lastChapterApiLink": "/api/srp_865/EST/10.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EST",
+      "chapter": 10
+    },
+    "totalNumberOfVerses": 167
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A treæi dan obuèe se Jestira u carsko odijelo, i stade u trijemu unutrašnjega dvora carskoga prema stanu carevu; a car sjeðaše na carskom prijestolu svom u dvoru carskom prema vratima od dvora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I kad car ugleda caricu Jestiru gdje stoji u trijemu, ona naðe milost pred njim, te car pruži prema Jestiri zlatnu palicu koja mu bješe u ruci, i Jestira pristupi i dotaèe se kraja od palice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reèe joj car: što ti je, carice Jestiro? i šta želiš? ako je i do polovine carstva, daæe ti se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A Jestira reèe: ako je ugodno caru, neka doðe car s Amanom danas na objed koji sam mu zgotovila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A car reèe: zovite brže Amana da uèini što reèe Jestira. I doðe car s Amanom na objed koji zgotovi Jestira."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Potom car napiv se vina reèe Jestiri: šta želiš? daæe ti se; i šta moliš? ako je i do polovine carstva, biæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Jestira odgovarajuæi reèe: želim i molim:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ako sam našla milost pred carem, i ako je ugodno caru da mi da što želim i uèini što molim, neka opet doðe car s Amanom na objed koji æu im zgotoviti, i sjutra æu uèiniti po rijeèi carevoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I tako otide Aman onaj dan veseo i dobre volje. Ali kad vidje Aman Mardoheja na vratima carevijem a on ne usta niti se maèe pred njim, napuni se Aman gnjeva na Mardoheja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ali se uzdrža Aman dokle doðe kuæi svojoj; potom posla i sazva prijatelje svoje i Seresu ženu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I pripovjedi im Aman o slavi bogatstva svojega i o mnoštvu sinova svojih i o svemu èim ga je podigao car i kako ga je uzvisio svrh knezova i sluga carskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I doda Aman: pa i carica Jestira nikoga osim mene ne pozva s carem na objed, koji bješe zgotovila, pa i sjutra sam pozvan k njoj s carem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ali sve to nije mi ni na što dokle god gledam onoga Mardoheja Judejca gdje sjedi na vratima carevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Tada mu reèe Seresa žena njegova i svi prijatelji njegovi: neka naèine vješala visoka pedeset lakata, i ujutru reci caru da se na njima objesi Mardohej, pa idi s carem veseo na objed. I to bi po volji Amanu i pripravi vješala."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EST/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EST",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EST/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EST",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EST/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EST",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 14
+}

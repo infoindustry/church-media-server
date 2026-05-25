@@ -1,0 +1,209 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NAM",
+    "translationId": "srp_865",
+    "name": "Naum",
+    "commonName": "Naum",
+    "title": "Naum",
+    "order": 34,
+    "numberOfChapters": 3,
+    "sha256": "21c9e4b977458bf568ba6d0d1abc478b9c4a0e13fb671e4d827b7160e4d067dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NAM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NAM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 3,
+    "lastChapterApiLink": "/api/srp_865/NAM/3.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NAM",
+      "chapter": 3
+    },
+    "totalNumberOfVerses": 47
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Teško gradu krvnièkom, vas je pun laži i otimanja, grabež ne izbiva iz njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Pucaju bièevi, i toèkovi prašte, i konji topoæu, i kola skaèu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Konjanici poskakuju, i maèevi se sjaju, i koplja sijevaju, i mnoštvo je pobijenijeh i sila mrtvijeh tjelesa, nema broja mrtvacima; i pada se preko mrtvaca,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Za mnoštvo kurvarstva ljupke kurve, vješte bajaèice, koja prodaje narode svojim kurvanjem i plemena vraèanjem svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Evo me na te, govori Gospod nad vojskama, i uzgrnuæu ti skute tvoje na lice, i pokazaæu narodima golotinju tvoju i carstvima sramotu tvoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I baciæu na tebe gadove i naružiæu te, i naèiniæu od tebe ugled."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I ko te god vidi, bježaæe od tebe, i govoriæe: opustje Ninevija; ko æe je žaliti? gdje æu tražiti one koji bi te tješili?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jesi li bolja od No-Amona, koji ležaše meðu rijekama, optoèen vodom, kojemu prednja kula bješe more i zidovi mu bjehu more?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jaèina mu bješe Huska zemlja i Misir i narodi bez broja; Futeji i Liveji bjehu ti pomoænici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I on bi preseljen, otide u ropstvo, i djeca njegova biše razmrskana po uglovima svijeh ulica; i za glavare njegove bacaše ždrijeb, i svi vlastelji njegovi biše okovani u puta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I ti æeš se opiti i kriæeš se, i ti æeš tražiti zaklon od neprijatelja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Svi æe gradovi tvoji biti kao smokve s ranijem rodom; kad se tresnu, padaju u usta onome ko hoæe da jede."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Eto, narod su ti žene usred tebe; neprijateljima æe tvojim biti širom otvorena vrata od zemlje tvoje, oganj æe proždrijeti prijevornice tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Nahvataj sebi vode za opsadu, utvrdi ograde svoje; uði u kao i ugazi blato, opravi peæ za opeke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ondje æe te proždrijeti oganj, maè æe te isjeæi, izješæe te kao hrušt; neka vas je mnogo kao hrušteva, neka vas je mnogo kao skakavaca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Imaš trgovaca više nego što je zvijezda na nebu; hruštevi padoše, pa odletješe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Glavari su tvoji kao skakavci i vojvode tvoje kao veliki skakavci, koji padaju po plotovima kad je studeno, a kad sunce grane, odlijeæu, i mjesto im se ne poznaje gdje bjehu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Zadrijemaše tvoji pastiri, care Asirski, polijegaše junaci tvoji, narod se tvoj rasprša po gorama, i nema nikoga da ih zbere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nema lijeka polomu tvom, ljuta je rana tvoja; ko god èuje glas o tebi, pljeskaæe rukama nad tobom, jer koga nije stizala zloæa tvoja jednako?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NAM/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NAM",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/HAB/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "HAB",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NAM/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NAM",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 19
+}

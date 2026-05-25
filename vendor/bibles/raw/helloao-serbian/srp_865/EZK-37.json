@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 37,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ruka Gospodnja doðe nada me, i Gospod me izvede u duhu, i postavi me usred polja, koje bijaše puno kosti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I provede me pokraj njih unaokolo, i gle, bijaše ih vrlo mnogo u polju, i gle, bijahu vrlo suhe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reèe mi: sine èovjeèji, hoæe li oživjeti ove kosti? A ja rekoh: Gospode Gospode, ti znaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tada mi reèe: prorokuj za te kosti, i kaži im: suhe kosti, èujte rijeè Gospodnju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ovako govori Gospod Gospod ovijem kostima: gle, ja æu metnuti u vas duh, i oživjeæete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I metnuæu na vas žile, i obložiæu vas mesom, i navuæi æu na vas kožu, i metnuæu u vas duh, i oživjeæete, i poznaæete da sam ja Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Tada stadoh prorokovati, kako mi se zapovjedi; a kad prorokovah nasta glas, i gle potres, i kosti se pribirahu svaka ka svojoj kosti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I pogledah, i gle, po njima izidoše žile i meso, i ozgo se koža navuèe; ali duha ne bješe u njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tada mi reèe: prorokuj duhu, prorokuj, sine èovjeèji, i reci duhu: ovako veli Gospod Gospod: od èetiri vjetra doði, duše, i duni na ove pobijene da ožive."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I prorokovah, kako mi se zapovjedi, i uðe u njih duh, i oživješe, i stadoše na noge, bješe vojska vrlo velika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tada mi reèe: sine èovjeèji, ove su kosti sav dom Izrailjev; gle, govore: posahnuše kosti naše i proðe nadanje naše, propadosmo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zato prorokuj, i kaži im: ovako veli Gospod Gospod: evo, ja æu otvoriti grobove vaše, i izvešæu vas iz grobova vaših, narode moj, i dovešæu vas u zemlju Izrailjevu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I poznaæete da sam ja Gospod, kad otvorim grobove vaše, i izvedem vas iz grobova vaših, narode moj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I metnuæu duh svoj u vas da oživite, i naseliæu vas u vašoj zemlji, i poznaæete da ja govorim i èinim, govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Opet mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ti, sine èovjeèji, uzmi jedno drvo, i napiši na njemu: Judi i sinovima Izrailjevijem, drugovima njegovijem. Pa onda uzmi drugo drvo, i na njemu napiši: Josifu drvo Jefremovo i svega doma Izrailjeva, drugova njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I sastavi ih jedno s drugim da budu kao jedno u tvojoj ruci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I kad ti reku sinovi tvoga naroda govoreæi: hoæeš li nam kazati šta ti je to?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Reci im: ovako veli Gospod Gospod: evo, ja æu uzeti drvo Josifovo, što je u Jefremovoj ruci, i plemena Izrailjevijeh, drugova njegovijeh, i sastaviæu ga s drvetom Judinijem, i naèiniæu od njih jedno drvo, i biæe jedno u mojoj ruci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I drveta, na kojima napišeš, neka ti budu u ruci pred njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I reci im: ovako veli Gospod Gospod: evo, ja æu uzeti sinove Izrailjeve iz naroda u koje otidoše, i sabraæu ih otsvuda, i dovešæu ih u zemlju njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I naèiniæu od njih jedan narod u zemlji, na gorama Izrailjevijem, i jedan æe car biti car svjema njima, niti æe više biti dva naroda, niti æe više biti razdijeljeni u dva carstva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I neæe se više skvrniti gadnijem bogovima svojim ni gnusobama svojim niti kakijem prijestupima svojim, i izbaviæu ih iz svijeh stanova njihovijeh u kojima griješiše, i oèistiæu ih, i oni æe mi biti narod i ja æu im biti Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I sluga moj David biæe im car, i svi æe imati jednoga pastira, i hodiæe po mojim zakonima, i uredbe æe moje držati i izvršivati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I sjedjeæe u zemlji koju dadoh sluzi svojemu Jakovu, u kojoj sjedješe oci vaši; u njoj æe sjedjeti oni i sinovi njihovi i sinovi sinova njihovijeh dovijeka, i David sluga moj biæe im knez dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I uèiniæu s njima zavjet mirni, biæe vjeèan zavjet s njima, i utvrdiæu ih i umnožiæu ih, i namjestiæu svetinju svoju usred njih navijek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I šator æe moj biti kod njih, i ja æu im biti Bog i oni æe mi biti narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I narod æe poznati da sam ja Gospod koji posveæujem Izrailja, kad svetinja moja bude usred njih dovijeka."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/37.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 37
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/38.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 38
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/36.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 36
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

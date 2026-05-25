@@ -1,0 +1,461 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "srp_865",
+    "name": "1. Dnevnika",
+    "commonName": "1. Dnevnika",
+    "title": "1. Dnevnika",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "8ea0acc08b93472f39af29d769974347b255ab628ab40782b4687010563cbf90",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 29,
+    "lastChapterApiLink": "/api/srp_865/1CH/29.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 29
+    },
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ovo su sinovi Izrailjevi: Ruvim, Simeun, Levije i Juda, Isahar i Zavulon,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Dan, Josif i Venijamin, Neftalim, Gad i Asir."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Sinovi Judini: Ir i Avnan i Sila; ta mu tri rodi kæi Suvina Hananejka; ali Ir prvenac Judin bješe nevaljao pred Gospodom, te ga ubi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A Tamara snaha njegova rodi mu Faresa i Zaru. Svega pet bješe sinova Judinijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Sinovi Faresovi: Esron i Amul."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A sinovi Zarini: Zimrije i Etan i Eman i Halkol i Dara; svega pet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I sinovi Harmijini: Ahan, koji smuti Izrailja ogriješiv se o stvari proklete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A sinovi Etanovi: Azarija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A sinovi Esronovi, što mu se rodiše: Jerameilo i Aram i Halev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Aram rodi Aminadava, a Aminadav rodi Nasona, kneza sinova Judinijeh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Nason rodi Salmona; a Salmon rodi Voza;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A Voz rodi Ovida; a Ovid rodi Jeseja;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Jesej rodi prvenca svojega Elijava, i Avinadava drugoga i Samu treæega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Natanaila èetvrtoga, Radaja petoga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Osema šestoga, Davida sedmoga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I sestre im Seruju i Avigeju. A sinovi Serujini bjehu Avisaj i Joav i Asailo, trojica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A Avigeja rodi Amasu; a otac Amasin bješe Jeter Ismailjac."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A Halev sin Esronov rodi s Azuvom ženom svojom i s Jeriotom sinove, i sinovi mu bjehu Jeser i Sovav i Ardon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A kad umrije Azuva, Halev se oženi Efratom, koja mu rodi Ora;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Or rodi Uriju, a Urija rodi Veseleila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Potom otide Esron ka kæeri Mahira oca Galadova, i oženi se njom kad mu bijaše šezdeset godina, i ona mu rodi Seguva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A Seguv rodi Jaira, koji imaše dvadeset i tri grada u zemlji Galadskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer uze Gesurejima i Sircima sela Jairova i Kenat sa selima njegovijem, šezdeset gradova. To sve uzeše sinovi Mahira oca Galadova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I kad umrije Esron u Halev-Efrati, žena Esronova Avija rodi mu Ashora oca Tekojanima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A sinovi Jerameila prvenca Esronova bjehu: prvenac Aram, pa Vuna i Oren i Osem i Ahija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Imaše i drugu ženu Jerameilo, po imenu Ataru, ona je mati Onamova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A sinovi Arama prvenca Jerameilova bjehu: Mas i Jamin i Eker."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I sinovi Onamovi bjehu: Samaj i Jadaj; a sinovi Samajevi: Nadav i Avisur."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I ime ženi Avisurovoj bješe Avihaila, koja mu rodi Avana i Molida."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A sinovi Nadavovi: Seled i Apaim; ali Seled umrije bez djece."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A sinovi Apailovi: Jesej; a sinovi Jesejevi: Sisan, i kæi Sisanova Alaja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A sinovi Jadaja brata Samajeva: Jeter i Jonatan; ali Jeter umrije bez djece."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A sinovi Jonatanovi: Falet i Zaza. Ti bijahu sinovi Jerameilovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A Sisan ne imaše sinova nego kæeri; i imaše Sisan slugu Misirca po imenu Jaraju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Zato Sisan dade kæer svoju Jaraji sluzi svojemu za ženu; a ona mu rodi Ataja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A Ataj rodi Natana; a Natan rodi Zavada;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A Zavad rodi Eflala; a Eflal rodi Ovida;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A Ovid rodi Juja; a Juj rodi Azariju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A Azarija rodi Helisa; a Helis rodi Eleasu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A Eleasa rodi Sisamaja; a Sisamaj rodi Saluma;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A Salum rodi Jekamiju; a Jekamija rodi Elisama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A sinovi Haleva brata Jerameilova bjehu: Misa prvenac njegov, otac Zifejima; pa sinovi Marise oca Hevronova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "A sinovi Hevronovi: Korej i Tafuja i Rekem i Sema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "A Sema rodi Rama oca Jorkoamova; a Rekem rodi Samaja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "A sin Samajev bješe Maon, a taj Maon bi otac Vet-Suru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "I Gefa inoèa Halevova rodi Harana i Mosu i Gazesa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "A sinovi Jadajevi: Regem i Jotam i Gisan i Felet i Gefa i Sagaf."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Maha inoèa Halevova rodi Severa i Tirhanu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Rodi i Sagafa oca Madmancima i Sevu oca Mahvincima i Gavajanima; a kæi Halevova bijaše Ahsa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Ovo bijahu sinovi Haleva sina Ora prvenca Efratina; Soval otac Kirijat-Jarimu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Salma otac Vitlejemu, Aref otac Vet-Gaderu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "A imaše sinove Soval otac Kirijat-Jarimu: Aroja i Asi-Amenuhota."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "A porodice Kirijat-jarimske bjehu: Jetrani i Fuæani i Sumaæani i Misrajani. Od njih izidoše Saraæani i Estaoljani."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "Sinovi Salmini: Vitlejemci i Netofaæani, Ataroæani od doma Joavova, i Zorani, polovina Manahaæana,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "I porodice pisarske u Javisu, Tiraæani, Simeaæani, Suhaæani; to su Keneji, koji se narodiše od Emata, oca doma Rihavova."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CH/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CH/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CH/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 55
+}

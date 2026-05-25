@@ -1,0 +1,286 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PHP",
+    "translationId": "srp_865",
+    "name": "Filipljanima",
+    "commonName": "Filipljanima",
+    "title": "Poslanica Filipljanima",
+    "order": 50,
+    "numberOfChapters": 4,
+    "sha256": "bae02d04a7d616c75b7ea1db8dffea4ce870ed3bc9d9d420d99918184db49c8e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PHP/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PHP",
+      "chapter": 1
+    },
+    "lastChapterNumber": 4,
+    "lastChapterApiLink": "/api/srp_865/PHP/4.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PHP",
+      "chapter": 4
+    },
+    "totalNumberOfVerses": 104
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Od Pavla i Timotija, slugu Isusa Hrista, svima svetima u Hristu Isusu koji su u Filibi, s vladikama i ðakonima:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Blagodat vam i mir od Boga oca našega i Gospoda Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Zahvaljujem Bogu svojemu kad se god opomenem vas,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Svagda u svakoj molitvi svojoj za sve vas s radošæu moleæi se,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Što vi postadoste zajednièari u jevanðelju, od prvoga dana i do danas;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Uzdajuæi se u ovo isto da æe onaj koji je poèeo dobro djelo u vama dovršiti ga tja do dana Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Kao što je pravo da ja ovo mislim za sve vas, jer vas imam u srcu u okovima svojima i u odgovoru i potvrðivanju jevanðelja, kao sve zajednièare sa mnom u blagodati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer Bog mi je svjedok da vas ljubim ljubavlju Isusa Hrista,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I zato se molim Bogu da ljubav vaša još više i više izobiluje u razumu i svakoj volji,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Da kušate šta je bolje, da budete èisti i bez spoticanja na dan Hristov,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Napunjeni plodova pravde kroz Isusa Hrista, na slavu i hvalu Božiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Hoæu pak da znate, braæo, da ovo što se radi sa mnom iziðe za napredak jevanðelja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tako da se razglasi u svoj sudnici i kod sviju ostalijeh da su moji okovi za Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I mnoga braæa u Gospodu oslobodivši se okovima mojima veæma smiju govoriti rijeè Božiju bez straha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Istina, jedni iz zavisti i svaðe, a jedni od dobre volje Hrista propovijedaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tako ovi uz prkos Hrista objavljuju neèisto, misleæi da æe nanijeti žalost mojijem okovima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A ovi iz ljubavi, znajuæi da za obranu jevanðelja ležim u tamnici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Šta dakle? Bilo kako mu drago, dvolièenjem ili istinom, Hristos se propovijeda; i zato se radujem, a i radovaæu se;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer znam da æe mi se ovo zbiti na spasenije vašom molitvom i pomoæu Duha Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Kao što èekam i nadam se da se ni u èemu neæu postidjeti, nego da æe se i sad kao svagda sa svakom slobodom Hristos velièati u tijelu mojemu, bilo životom ili smræu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer je meni život Hristos a smrt dobitak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A kad mi življenje u tijelu plod donosi, to ne znam šta æu izabrati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A oboje mi je milo, imajuæi želju otiæi i s Hristom biti, koje bi mnogo bolje bilo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ali ostati u tijelu potrebnije je vas radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I ovo znam jamaèno da æu biti i ostati kod sviju vas na vaš napredak i radost vjere,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Da hvala vaša mnome izobiluje u Hristu Isusu kad vam opet doðem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Samo živite kao što se pristoji jevanðelju Hristovu, da vas vidim kad doðem ili ako vam ne doðem da èujem za vas da stojite u jednome duhu i jednodušno borite se za vjeru jevanðelja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I ni u èem da se ne plašite od protivnika; koje je njima znak pogibli a vama spasenija, i to od Boga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Jer se vama darova Hrista radi ne samo da ga vjerujete nego i da stradate za nj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Imajuæi onu istu borbu kakovu u meni vidjeste i sad èujete za mene."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PHP/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PHP",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PHP/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PHP",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EPH/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EPH",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 30
+}

@@ -1,0 +1,160 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2SA",
+    "translationId": "srp_865",
+    "name": "2. Samuelova",
+    "commonName": "2. Samuelova",
+    "title": "2. Samuelova",
+    "order": 10,
+    "numberOfChapters": 24,
+    "sha256": "e9bcfc863ad7bd2a939eb305126ad735f393202a88f773ac55550249ed219529",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/2SA/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 695
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad èu sin Saulov da je poginuo Avenir u Hevronu, klonuše mu ruke, i sav se Izrailj smete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A imaše sin Saulov dvije vojvode nad èetama; jednom bješe ime Vana, a drugom bješe ime Rihav, sinovi Rimona Viroæanina, od sinova Venijaminovijeh; jer se i Virot brojaše Venijaminu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Viroæani bijahu pobjegli u Gitajim, gdje ostaše kao došljaci do današnjega dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I imaše Jonatan sin Saulov sina hroma na nogu, kojemu bijaše pet godina kad doðe glas o smrti Saulovoj i Jonatanovoj iz Jezraela, te ga uze dadilja njegova i pobježe, i kad brzo bježaše, on pade i ohronu; a ime mu bijaše Mefivostej."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I poðoše sinovi Rimona Viroæanina, Rihav i Vana, i doðoše u podne u kuæu Isvostejevu; a on poèivaše u podne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I uðoše u kuæu kao da uzmu pšenice, i probodoše ga pod peto rebro Rihav i Vana, i pobjegoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Kad uðoše u kuæu, on ležaše na postelji svojoj u klijeti gdje spavaše, te ga probodoše i ubiše, i otsjekoše mu glavu i uzeše je, pa otidoše putem preko polja cijelu onu noæ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I donesoše glavu Isvostejevu Davidu u Hevron, i rekoše caru: evo glave Isvosteja sina Saulova, neprijatelja tvojega, koji je tražio dušu tvoju; i Gospod osveti danas cara gospodara mojega od Saula i sjemena njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ali David odgovarajuæi Rihavu i Vani bratu njegovu, sinovima Rimona Viroæanina, reèe im: tako da je živ Gospod, koji je izbavio dušu moju iz svake nevolje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Kad onoga koji mi javi govoreæi: gle, pogibe Saul, i mišljaše da æe mi javiti dobre glase, uhvatih i ubih u Siklagu, i to mu bi od mene dar za glase njegove,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Akamoli ljude bezbožne, koji ubiše èovjeka prava, u kuæi njegovoj, na postelji njegovoj! neæu li iskati krvi njegove iz vaših ruku, i vas istrijebiti sa zemlje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I zapovjedi David momcima svojim, te ih pogubiše, i otsjekoše im ruke i noge, i objesiše kod jezera Hevronskoga; a glavu Isvostejevu uzeše i pogreboše u grobu Avenirovu u Hevronu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2SA/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2SA/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2SA/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 12
+}

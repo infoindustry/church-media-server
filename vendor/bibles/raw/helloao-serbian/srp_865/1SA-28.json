@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 28,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I u ono vrijeme skupiše Filisteji vojsku svoju da zavojšte na Izrailja; i reèe Ahis Davidu: znaj da æeš iæi sa mnom na vojsku ti i tvoji ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A David reèe Ahisu: sad æeš vidjeti šta æe uèiniti tvoj sluga. A Ahis reèe Davidu: zato æu te postaviti da si èuvar glave moje svagda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Samuilo bijaše umro, i plaka za njim sav Izrailj, i pogreboše ga u Rami, u njegovu gradu. I Saul bijaše istrijebio iz zemlje gatare i vraèare."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I Filisteji skupivši se doðoše i stadoše u oko kod Sunima; skupi i Saul sve Izrailjce, i stadoše u oko kod Gelvuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Saul pak videæi vojsku Filistejsku uplaši se, i srce mu uzdrhta veoma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I upita Saul Gospoda, ali mu Gospod ne odgovori ni u snu ni preko Urima, ni preko proroka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I Saul reèe slugama svojim: tražite mi ženu s duhom vraèarskim, da otidem k njoj i upitam je. A sluge mu rekoše: evo u Endoru ima žena u kojoj je duh vraèarski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tada se Saul preruši obukav druge haljine, i otide sa dva èovjeka, i doðe k onoj ženi noæu; i on joj reèe: hajde vraèaj mi duhom vraèarskim, i dozovi mi onoga koga ti kažem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ali mu žena reèe: ta ti znaš šta je uèinio Saul i kako je istrijebio iz zemlje gatare i vraèare; zašto dakle meæeš zamku duši mojoj da me ubiješ?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Saul joj se zakle Gospodom govoreæi: tako živ bio Gospod! neæe ti biti ništa za to."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tada reèe žena: koga da ti dozovem? A on reèe: Samuila mi dozovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A kad žena vidje Samuila, povika iza glasa, i reèe žena Saulu govoreæi: zašto si me prevario? ta ti si Saul."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A car joj reèe: ne boj se; nego šta si vidjela? A žena reèe Saulu: bogove sam vidjela gdje izlaze iz zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "On joj opet reèe: kakav je? Ona mu reèe: star èovjek izlazi ogrnut plaštem. Tada razumje Saul da je Samuilo, i savi se licem do zemlje i pokloni se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Samuilo reèe Saulu: zašto si me uznemirio i izazvao? Odgovori Saul: u nevolji sam velikoj, jer Filisteji zavojštiše na me, a Bog je otstupio od mene, i ne odgovara mi više ni preko proroka ni u snu, zato pozvah tebe da mi kažeš šta æu èiniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Samuilo reèe: pa što mene pitaš, kad je Gospod otstupio od tebe i postao ti neprijatelj?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Gospod je uèinio kako je kazao preko mene; jer je Gospod istrgao carstvo iz tvoje ruke i dao ga bližnjemu tvojemu Davidu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer nijesi poslušao glasa Gospodnjega, niti si izvršio žestokoga gnjeva njegova na Amaliku; zato ti je danas Gospod to uèinio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I Gospod æe predati i Izrailja s tobom u ruke Filistejima; te æeš sjutra ti i sinovi tvoji biti kod mene; i oko Izrailjski predaæe Gospod u ruke Filistejima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Saul ujedanput pade na zemlju kolik je dug, jer se vrlo uplaši od rijeèi Samuilovijeh, i ne bješe snage u njemu, jer ne bješe ništa jeo vas dan i svu noæ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tada žena pristupi k Saulu, i videæi ga vrlo uplašena reèe mu: evo, sluškinja te je tvoja poslušala, i nijesam za život svoj marila da bih te poslušala što si mi kazao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Nego sada i ti poslušaj šta æe ti sluškinja tvoja kazati: postaviæu ti malo hljeba, te jedi da se okrijepiš da se možeš vratiti svojim putem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A on ne htje, i reèe: neæu jesti. Ali navališe na nj sluge njegove i žena, te ih posluša, i ustavši sa zemlje sjede na postelju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A žena imaše kod kuæe tele ugojeno, i brže ga zakla, i uze brašna te umijesi i ispeèe hljebove prijesne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Potom postavi Saulu i slugama njegovijem, te jedoše. A poslije ustaše i otidoše iste noæi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/28.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 28
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/29.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 29
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/27.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 27
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

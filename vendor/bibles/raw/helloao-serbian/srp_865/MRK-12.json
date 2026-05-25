@@ -1,0 +1,384 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MRK",
+    "translationId": "srp_865",
+    "name": "Marku",
+    "commonName": "Marku",
+    "title": "Jevanðelje po Marku",
+    "order": 41,
+    "numberOfChapters": 16,
+    "sha256": "c4e35f7fe68e45b5731573fc03ca93f2cb48eea346a1b1abc79ae9266aa9bd92",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MRK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MRK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/MRK/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MRK",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 678
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I poèe im govoriti u prièama: posadi èovjek vinograd, i ogradi plotom, i iskopa pivnicu, i naèini kulu, i dade ga vinogradarima, pa otide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I kad doðe vrijeme, posla k vinogradarima slugu da primi od vinogradara od roda vinogradskoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A oni uhvativši slugu izbiše ga, i poslaše prazna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I opet posla k njima drugoga slugu; i onoga biše kamenjem i razbiše mu glavu, i poslaše ga sramotna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I opet posla drugoga; i onoga ubiše; i mnoge druge, jedne izbiše a jedne pobiše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Još dakle imaše jedinoga svojega milog sina, posla i njega najposlije k njima govoreæi: postidjeæe se sina mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A vinogradari rekoše u sebi: ovo je našljednik, hodite da ga ubijemo, i nama æe ostati oèevina njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I uhvatiše ga, i ubiše, i izbaciše ga napolje iz vinograda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Šta æe dakle uèiniti gospodar od vinograda? Doæi æe i pogubiæe vinogradare, i daæe vinograd drugima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zar nijeste èitali u pismu ovo: kamen koji odbaciše zidari, onaj posta glava od ugla;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "To bi od Gospoda i divno je u našijem oèima?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I gledahu da ga uhvate, ali se pobojaše naroda; jer razumješe da za njih govori prièu; i ostavivši ga otidoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I poslaše k njemu neke od fariseja i Irodovaca da bi ga uhvatili u rijeèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A oni došavši rekoše mu: uèitelju! znamo da si istinit, i da ne mariš ni za koga; jer ne gledaš ko je ko, nego zaista putu Božijemu uèiš; treba li æesaru davati haraè ili ne? Hoæemo li dati ili da ne damo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A on znajuæi njihovo licemjerje reèe im: što me kušate? Donesite mi novac da vidim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A oni donesoše. I reèe im: èij je obraz ovaj i natpis? A oni mu rekoše: æesarev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I odgovarajuæi Isus reèe im: podajte æesarevo æesaru, i Božije Bogu. I èudiše mu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I doðoše k njemu sadukeji koji kažu da nema vaskrsenija, i zapitaše ga govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Uèitelju! Mojsije nam napisa: ako kome brat umre i ostavi ženu a djece ne ostavi, da brat njegov uzme ženu njegovu i da podigne sjeme bratu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Sedam braæe bješe: i prvi uze ženu, i umrije bez poroda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I drugi uze je, i umrije, i ni on ne ostavi poroda; tako i treæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I uzeše je sedmorica, i ne ostaviše poroda. A poslije sviju umrije i žena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "O vaskrseniju dakle kad ustanu koga æe od njih biti žena? jer je za sedmoricom bila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I odgovarajuæi Isus reèe im: zato li se vi varate što ne znate pisma ni sile Božije?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Jer kad iz mrtvijeh ustanu, niti æe se ženiti ni udavati, nego su kao anðeli na nebesima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A za mrtve da ustaju nijeste li èitali u knjigama Mojsijevijem kako mu reèe Bog kod kupine govoreæi: ja sam Bog Avraamov, i Bog Isakov, i Bog Jakovljev?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Nije Bog Bog mrtvijeh, nego Bog živijeh. Vi se dakle vrlo varate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I pristupi jedan od književnika koji ih slušaše kako se prepiru, i vidje da im dobro odgovara, i zapita ga: koja je prva zapovijest od sviju?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A Isus odgovori mu: prva je zapovijest od sviju: èuj Izrailju, Gospod je Bog naš Gospod jedini;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I ljubi Gospoda Boga svojega svijem srcem svojijem i svom dušom svojom i svijem umom svojijem i svom snagom svojom. Ovo je prva zapovijest."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I druga je kao i ova: ljubi bližnjega svojega kao samoga sebe. Druge zapovijesti veæe od ovijeh nema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I reèe mu književnik: dobro, uèitelju! pravo si kazao da je jedan Bog, i nema drugoga osim njega;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I ljubiti ga svijem srcem i svijem razumom i svom dušom i svom snagom, i ljubiti bližnjega kao samoga sebe, veæe je od sviju žrtava i priloga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A Isus vidjevši kako pametno odgovori reèe mu: nijesi daleko od carstva Božijega. I niko više ne smijaše da ga zapita."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I odgovori Isus i reèe uèeæi u crkvi: kako govore književnici da je Hristos sin Davidov?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Jer sam David kaza Duhom svetijem: reèe Gospod Gospodu mojemu: sjedi meni s desne strane, dok položim neprijatelje tvoje podnožje nogama tvojima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Sam dakle David naziva ga Gospodom, i otkuda mu je sin? I mnogi narod slušaše ga s radošæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I govoraše im u nauci svojoj: èuvajte se književnika koji idu u dugaèkijem haljinama, i traže da im se klanja po ulicama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I prvijeh mjesta po zbornicama, i zaèelja na gozbama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Ovi što jedu kuæe udovièke, i lažno se mole Bogu dugo, biæe još veæma osuðeni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I sjedavši Isus prema Božijoj hazni gledaše kako narod meæe novce u Božiju haznu. I mnogi bogati metahu mnogo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I došavši jedna siromašna udovica metnu dvije lepte, koje èini jedan kodrant."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I dozvavši uèenike svoje reèe im: zaista vam kažem: ova siromašna udovica metnu više od sviju koji meæu u Božiju haznu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Jer svi metnuše od suviška svojega; a ona od sirotinje svoje metnu sve što imaše, svu hranu svoju."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MRK/12.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 12
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MRK/13.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 13
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MRK/11.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 11
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 44
+}

@@ -1,0 +1,342 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 42,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Jakov videæi da ima žita u Misiru, reèe sinovima svojim: šta gledate jedan na drugoga?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I reèe: eto èujem da u Misiru ima žita; idite onamo te nam kupite otuda, da ostanemo živi i ne pomremo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I desetorica braæe Josifove otidoše da kupe žita u Misiru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A Venijamina brata Josifova ne pusti otac s braæom govoreæi: da ga ne bi zadesilo kakvo zlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I doðoše sinovi Izrailjevi da kupe žita s ostalima koji dolažahu; jer bješe glad u zemlji Hananskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A Josif upravljaše zemljom, i prodavaše žito svemu narodu po zemlji. I braæa Josifova došavši pokloniše mu se licem do zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Josif ugledav braæu svoju pozna ih; ali se uèini da ih ne poznaje, i oštro im progovori i reèe: odakle ste došli? A oni rekoše: iz zemlje Hananske, da kupimo hrane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Josif dakle pozna braæu svoju; ali oni njega ne poznaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I opomenu se Josif sanova koje je snio za njih; i reèe im: vi ste uhode; došli ste da vidite gdje je zemlja slaba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A oni mu rekoše: nijesmo, gospodaru; nego sluge tvoje doðoše da kupe hrane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Svi smo sinovi jednoga èovjeka, pošteni ljudi, nigda nijesu sluge tvoje bile uhode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A on im reèe: nije istina, nego ste došli da vidite gdje je zemlja slaba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A oni rekoše: nas je bilo dvanaest braæe, sluga tvojih, sinova jednoga èovjeka u zemlji Hananskoj; i eno, najmlaði je danas kod oca našega, a jednoga nema više."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Josif im reèe: kažem ja da ste vi uhode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Nego hoæu da se uvjerim ovako: tako živ bio Faraon, neæete izaæi odavde dokle ne doðe amo najmlaði brat vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Pošljite jednoga izmeðu sebe neka dovede brata vašega, a vi æete ostati ovdje u tamnici, pa æu vidjeti je li istina što govorite; inaèe ste uhode, tako živ bio Faraon!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I zatvori ih u tamnicu na tri dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A treæi dan reèe im Josif: ako ste radi životu, ovo uèinite, jer se ja Boga bojim:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ako ste pošteni ljudi, jedan brat izmeðu vas neka ostane u tamnici, a vi idite i odnesite žita koliko treba porodicama vašim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Pa onda dovedite k meni najmlaðega brata svojega da se posvjedoèe rijeèi vaše i da ne izginete. I oni uèiniše tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I rekoše jedan drugom: doista se ogriješismo o brata svojega, jer vidjesmo muku duše njegove kad nam se moljaše, pa ga se oglušismo; zato doðe na nas ova muka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A Ruvim odgovori im govoreæi: nijesam li vam govorio: nemojte se griješiti o dijete? ali me ne poslušaste; i zato se evo traži od nas krv njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A oni ne znadijahu da ih Josif razumije, jer se s njim razgovarahu preko tumaèa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A Josif okrete se od njih, i zaplaka se. Potom se opet okrete k njima, i progovori s njima, i uzev izmeðu njih Simeuna veza ga pred njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I zapovjedi Josif da im naspu vreæe žita, pa i novce što je koji dao da metnu svakome u vreæu, i da im dadu brašnjenice na put. I tako bi uèinjeno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I natovarivši žito svoje na magarce svoje otidoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A jedan od njih otvoriv svoju vreæu da nahrani magarca svojega u jednoj gostionici, vidje novce svoje ozgo u vreæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I reèe braæi svojoj: ja dobih natrag novce svoje, evo ih u mojoj vreæi. I zadrhta srce u njima i uplašiše se govoreæi jedan drugome: što nam to uèini Bog?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I došavši k Jakovu ocu svojemu u zemlju Hanansku, pripovjediše mu sve što im se dogodi, govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Oštro govoraše s nama èovjek, koji zapovijeda u onoj zemlji, i doèeka nas kao uhode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A kad mu rekosmo: mi smo pošteni ljudi, nigda nijesmo bili uhode;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Bilo nas je dvanaest braæe, sinova oca našega; jednoga veæ nema, a najmlaði je danas kod oca našega u zemlji Hananskoj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Reèe nam èovjek, koji zapovijeda u onoj zemlji: ovako æu doznati jeste li pošteni ljudi: brata jednoga izmeðu sebe ostavite kod mene, a što vam treba za porodice vaše gladi radi, uzmite i idite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Poslije dovedite k meni brata svojega najmlaðega, da se uvjerim da nijeste uhode nego pošteni ljudi; brata æu vam vratiti, i moæi æete trgovati po ovoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A kad izruèivahu vreæe svoje, gle, svakome u vreæi bjehu u zavežljaju novci njegovi; i vidjevši zavežljaje novaca svojih uplašiše se i oni i otac im."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I reèe im Jakov otac njihov: potrste mi djecu; Josifa nema, Simeuna nema, pa hoæete i Venijamina da uzmete; sve se skupilo na me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A Ruvim progovori i reèe ocu svojemu: dva sina moja ubij, ako ti ga ne dovedem natrag; daj ga u moje ruke, i ja æu ti ga opet dovesti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A on reèe: neæe iæi sin moj s vama, jer je brat njegov umro i on osta sam, pa ako bi ga zadesilo kako zlo na putu na koji æete iæi, svalili biste me stara s tugom u grob."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/42.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 42
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/43.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 43
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/41.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 41
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 38
+}

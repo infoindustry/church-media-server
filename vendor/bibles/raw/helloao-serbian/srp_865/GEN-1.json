@@ -1,0 +1,289 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U poèetku stvori Bog nebo i zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A zemlja bješe bez oblièja i pusta, i bješe tama nad bezdanom; i duh Božji dizaše se nad vodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reèe Bog: neka bude svjetlost. I bi svjetlost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I vidje Bog svjetlost da je dobra; i rastavi Bog svjetlost od tame."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I svjetlost nazva Bog dan, a tamu nazva noæ. I bi veèe i bi jutro, dan prvi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Potom reèe Bog: neka bude svod posred vode, da rastavlja vodu od vode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I stvori Bog svod, i rastavi vodu pod svodom od vode nad svodom; i bi tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A svod nazva Bog nebo. I bi veèe i bi jutro, dan drugi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Potom reèe Bog: neka se sabere voda što je pod nebom na jedno mjesto, i neka se pokaže suho. I bi tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I suho nazva Bog zemlja, a zborišta vodena nazva mora; i vidje Bog da je dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Opet reèe Bog: neka pusti zemlja iz sebe travu, bilje, što nosi sjeme, i drvo rodno, koje raða rod po svojim vrstama, u kojem æe biti sjeme njegovo na zemlji. I bi tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I pusti zemlja iz sebe travu, bilje, što nosi sjeme po svojim vrstama, i drvo, koje raða rod, u kojem je sjeme njegovo po njegovijem vrstama. I vidje Bog da je dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I bi veèe i bi jutro, dan treæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Potom reèe Bog: neka budu vidjela na svodu nebeskom, da dijele dan i noæ, da budu znaci vremenima i danima i godinama;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I neka svijetle na svodu nebeskom, da obasjavaju zemlju. I bi tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I stvori Bog dva vidjela velika: vidjelo veæe da upravlja danom, i vidjelo manje da upravlja noæu, i zvijezde."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I postavi ih Bog na svodu nebeskom da obasjavaju zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I da upravljaju danom i noæu, i da dijele svjetlost od tame. I vidje Bog da je dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I bi veèe i bi jutro, dan èetvrti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Potom reèe Bog: neka vrve po vodi žive duše, i ptice neka lete iznad zemlje pod svod nebeski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I stvori Bog kitove velike i sve žive duše što se mièu, što provrvješe po vodi po vrstama svojim, i sve ptice krilate po vrstama njihovijem. I vidje Bog da je dobro;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I blagoslovi ih Bog govoreæi: raðajte se i množite se, i napunite vodu po morima, i ptice neka se množe na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I bi veèe i bi jutro, dan peti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Potom reèe Bog: neka zemlja pusti iz sebe duše žive po vrstama njihovijem, stoku i sitne životinje i zvijeri zemaljske po vrstama njihovijem. I bi tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I stvori Bog zvijeri zemaljske po vrstama njihovijem, i stoku po vrstama njezinijem, i sve sitne životinje na zemlji po vrstama njihovijem. I vidje Bog da je dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Potom reèe Bog: da naèinimo èovjeka po svojemu oblièju, kao što smo mi, koji æe biti gospodar od riba morskih i od ptica nebeskih i od stoke i od cijele zemlje i od svijeh životinja što se mièu po zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I stvori Bog èovjeka po oblièju svojemu, po oblièju Božijemu stvori ga; muško i žensko stvori ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I blagoslovi ih Bog, i reèe im Bog: raðajte se i množite se, i napunite zemlju, i vladajte njom, i budite gospodari od riba morskih i od ptica nebeskih i od svega zvjerinja što se mièe po zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I još reèe Bog: evo, dao sam vam sve bilje što nosi sjeme po svoj zemlji, i sva drveta rodna koja nose sjeme; to æe vam biti za hranu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A svjemu zvjerinju zemaljskom i svjema pticama nebeskim i svjemu što se mièe na zemlji i u èem ima duša živa, dao sam svu travu da jedu. I bi tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Tada pogleda Bog sve što je stvorio, i gle, dobro bješe veoma. I bi veèe i bi jutro, dan šesti."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": null,
+  "previousChapterReference": null,
+  "previousChapterAudioLinks": null,
+  "numberOfVerses": 31
+}

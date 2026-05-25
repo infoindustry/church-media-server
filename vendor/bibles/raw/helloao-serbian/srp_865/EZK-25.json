@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 25,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Opet mi doðe rijeè Gospodnja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Sine èovjeèji, okreni lice svoje prema sinovima Amonovijem i prorokuj na njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reci sinovima Amonovijem: èujte rijeè Gospoda Gospoda; ovako veli Gospod Gospod: što si govorio: aha! za svetinju moju, što se oskvrni, i za zemlju Izrailjevu, što opustje, i za dom Judin, što otide u ropstvo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Zato, evo, ja æu te dati u našljedstvo istoènijem narodima, i pogradiæe u tebi dvorove sebi, i naèiniæe sebi kolibe u tebi; oni æe jesti plodove tvoje i piti mlijeko tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I od Rave æu naèiniti obor kamilama i od zemlje sinova Amonovijeh tor ovèji, i poznaæete da sam ja Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer ovako veli Gospod Gospod: što si pljeskao rukama i lupao nogom i veselio se iz srca što si opustošio svu zemlju Izrailjevu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zato, evo, ja æu dignuti ruku svoju na te, i daæu te narodima da te plijene, i istrijebiæu te izmeðu naroda i zatræu te izmeðu zemalja, i iskorijeniæu te, i poznaæeš da sam ja Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ovako veli Gospod Gospod: što govori Moav i Sir: eto, dom je Judin kao svi narodi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Zato, evo, ja æu otvoriti stranu Moavovu od gradova, od gradova na meði, krasnu zemlju Vet-jesimotsku, Valmeonsku i Kirijatajimsku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Narodima istoènijem iza zemlje sinova Amonovijeh, i daæu im je u našljedstvo da nema spomena sinovima Amonovijem meðu narodima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I na Moavcima æu izvršiti svoje sudove, i poznaæe da sam ja Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ovako veli Gospod Gospod: što se Edom osveti domu Judinu i teško skrivi osvetivši im se,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zato ovako veli Gospod Gospod: dignuæu ruku svoju na Edomsku i istrijebiæu iz nje i ljude i stoku, i obratiæu je u pustoš, od Temana do Dedana pašæe od maèa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I osvetiæu se Edomcima rukom naroda svojega Izrailja, i uèiniæe s Edomcima po gnjevu mojemu i po jarosti mojoj, i poznaæe moju osvetu, govori Gospod Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ovako veli Gospod Gospod: što Filisteji radiše iz osvete, i osvetiše se radujuæi se iz srca i potiruæi iz stare mržnje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Zato ovako veli Gospod Gospod: evo ja æu dignuti ruku svoju na Filisteje, i istrijebiæu Hereteje, i potræu ostatak od primorja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I uèiniæu na njima veliku osvetu karanjem gnjevnijem, i poznaæe da sam ja Gospod kad izvršim osvetu svoju na njima."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/25.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 25
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/26.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 26
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/24.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 24
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

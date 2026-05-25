@@ -1,0 +1,258 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 49,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Poslušajte me, ostrva, i pazite, narodi daljni. Gospod me pozva od utrobe; od utrobe matere moje pomenu ime moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I uèinio je usta moja da su kao oštar maè, u sjenu ruke svoje sakri me; uèinio me je sjajnom strijelom, i u tulu svojem sakri me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reèe mi: ti si sluga moj, u Izrailju æu se tobom proslaviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A ja rekoh: uzalud se trudih, uzalud i naprazno potroših silu svoju; ali opet sud je moj u Gospoda i posao moj u Boga mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A sada govori Gospod, koji me je sazdao od utrobe materine da sam mu sluga, da mu dovedem natrag Jakova; ako se Izrailj i ne sabere, opet æu se proslaviti pred Gospodom, i Bog æe moj biti sila moja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I reèe mi: malo je da mi budeš sluga da se podigne pleme Jakovljevo i da se vrati ostatak Izrailjev, nego te uèinih vidjelom narodima da budeš moje spasenje do krajeva zemaljskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ovako veli Gospod, izbavitelj Izrailjev, svetac njegov, onome kojega preziru, na koga se gadi narod, sluzi onijeh koji gospodare: carevi æe vidjeti i ustati, i knezovi æe se pokloniti radi Gospoda, koji je vjeran, radi sveca Izrailjeva, koji te je izabrao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ovako veli Gospod: u vrijeme milosno usliših te, i u dan spasenja pomogoh ti; i èuvaæu te i daæu te da budeš zavjet narodu da utvrdiš zemlju i naslijediš opustjelo našljedstvo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Da kažeš sužnjima: izidite; onima koji su u mraku: pokažite se. Oni æe pokraj putova pasti, i paša æe im biti po svijem visokim mjestima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Neæe biti gladni ni žedni, neæe ih biti vruæina ni sunce; jer kome ih je žao, on æe ih voditi, i pokraj izvora vodenijeh provodiæe ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I sve gore svoje obratiæu u putove, i staze æe moje biti povišene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Gle, ovi æe iz daleka doæi, gle, i oni od sjevera i od zapada, i oni iz zemlje Sinske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Pjevajte, nebesa, i veseli se, zemljo, podvikujte, gore, veselo; jer Gospod utješi svoj narod, i na nevoljnike svoje smilova se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ali Sion reèe: ostavi me Gospod, i zaboravi me Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Može li žena zaboraviti porod svoj da se ne smiluje na èedo utrobe svoje? A da bi ga i zaboravila, ja neæu zaboraviti tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Gle, na dlanovima sam te izrezao; zidovi su tvoji jednako preda mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Pohitjeæe sinovi tvoji, a koji te raskopavaše i pustošiše, otiæi æe od tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Podigni oèi svoje unaokolo, i vidi: svi se oni skupljaju i idu k tebi. Tako bio ja živ, veli Gospod, svjema njima kao nakitom zaodjenuæeš se, i uresiæeš se njima kao nevjesta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer razvaline tvoje i pustoline i potrvena zemlja tvoja biæe tada tijesna za stanovnike kad se udalje oni koji te proždiraše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I djeca koju æeš imati, pošto si bila bez djece, reæi æe da èuješ: tijesno mi je ovo mjesto, pomakni se da se mogu nastaniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A ti æeš reæi u srcu svom: ko mi ih rodi, jer bijah sirota i inokosna, zarobljena i prognana? i ko ih othrani? eto, ja bijah ostala sama, a gdje oni bijahu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ovako veli Gospod Gospod: evo, podignuæu ruku svoju k narodima, i k plemenima æu podignuti zastavu svoju, i donijeæe sinove tvoje u naruèju, i kæeri tvoje na ramenima æe se nositi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I carevi æe biti hranitelji tvoji i carice njihove tvoje dojkinje, i klanjaæe ti se licem do zemlje, i prah s nogu tvojih lizaæe, i poznaæeš da sam ja Gospod, i da se neæe osramotiti oni koji mene èekaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Hoæe li se junaku uzeti plijen i hoæe li se oteti roblje pravednomu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Jer ovako govori Gospod: i roblje junaku uzeæe se i plijen jakomu oteæe se, jer æu se ja preti s onima koji se s tobom pru, i sinove tvoje ja æu izbaviti;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I koji ti krivo èine, nahraniæu ih njihovijem mesom i opiæe se svojom krvlju kao novijem vinom; i poznaæe svako tijelo da sam ja Gospod spasitelj tvoj i izbavitelj tvoj, jaki Bog Jakovljev."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/49.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 49
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/50.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 50
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/48.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 48
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 26
+}

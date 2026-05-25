@@ -1,0 +1,398 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "srp_865",
+    "name": "Ponovljeni Zakon",
+    "commonName": "Ponovljeni Zakon",
+    "title": "Ponovljeni Zakon",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "b000b6651908c9448c65c662cec1fa45977205b236e0922d505241ab679311df",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DEU/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 1
+    },
+    "lastChapterNumber": 34,
+    "lastChapterApiLink": "/api/srp_865/DEU/34.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DEU",
+      "chapter": 34
+    },
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ovo su rijeèi koje govori Mojsije svemu Izrailju s onu stranu Jordana, u pustinji, u polju prema Crvenome Moru, izmeðu Farana i Tofola i Lovona i Asirota i Dizava,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jedanaest dana hoda od Horiva preko gore Sira do Kadis-Varnije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A bješe èetrdesete godine prvi dan jedanaestoga mjeseca, kad Mojsije kaza sinovima Izrailjevijem sve što mu bješe zapovjedio Gospod da im kaže,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Pošto ubi Siona cara Amorejskoga koji življaše u Esevonu, i Oga cara Vasanskoga koji življaše u Astarotu i u Edrainu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "S onu stranu Jordana u zemlji Moavskoj poèe Mojsije kazivati ovaj zakon govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Gospod Bog naš reèe nam na Horivu govoreæi: dosta ste bili na ovoj gori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Obrnite se i podignite se i idite ka gori Amorejskoj i u svu okolinu njezinu, u ravnice i u brda i u doline, i na jug i na bregove morske, u zemlju Hanansku i na Livan i do rijeke velike, rijeke Efrata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Eto, dao sam vam zemlju, uðite u nju, i uzmite zemlju, za koju se zakleo Gospod ocima vašim, Avramu, Isaku i Jakovu, da æe im je dati i sjemenu njihovu nakon njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I rekoh vam onda govoreæi: ne mogu vas nositi sam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Gospod Bog vaš umnožio vas je, i eto vas danas ima mnogo kao zvijezda nebeskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Gospod Bog otaca vaših da vas umnoži još tisuæu puta više, i da vas blagoslovi kao što vam je kazao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Kako bih ja sam nosio muke vaše, bremena vaša i raspre vaše?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Dajte iz plemena svojih ljude mudre i vješte i poznate da vam ih postavim za starješine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Tada mi odgovoriste i rekoste: dobro je da se uèini što si kazao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tada uzevši starješine od plemena vaših, ljude mudre i poznate, postavih vam ih za starješine, za tisuænike i stotinare i pedesetare i desetare i upravitelje po plemenima vašim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I zapovjedih onda sudijama vašim govoreæi: saslušavajte raspre meðu braæom svojom i sudite pravo izmeðu èovjeka i brata njegova i izmeðu došljaka koji je s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ne gledajte ko je ko na sudu, saslušajte i maloga i velikoga, ne bojte se nikoga, jer je sud Božji, a stvar koja bi vam bila teška iznesite preda me da je èujem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I zapovjedih vam onda sve što æete èiniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Potom otišavši od Horiva prijeðosmo svu onu pustinju veliku i strašnu, koju vidjeste, iduæi ka gori Amorejskoj, kao što nam zapovjedi Gospod Bog naš, i doðosmo do Kadis-Varnije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Tada vam rekoh: doðoste do gore Amorejske, koju nam daje Gospod Bog naš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Gle, dao ti je Gospod Bog tvoj tu zemlju, idi i uzmi je, kao što ti je rekao Gospod Bog otaca tvojih; ne boj se, i ne plaši se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A vi svi doðoste k meni i rekoste: da pošljemo ljude pred sobom da nam uhode zemlju, i da nam jave za put kojim æemo iæi i za gradove u koje æemo doæi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I to mi bi po volji, i uzeh izmeðu vas dvanaest ljudi, iz svakoga plemena po jednoga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I oni se podigoše i izašavši na goru doðoše do potoka Eshola, i uhodiše zemlju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I nabraše roda one zemlje i donesoše nam, i javiše nam govoreæi: dobra je zemlja, koju nam daje Gospod Bog naš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ali ne htjeste iæi nego se suprotiste zapovijesti Gospoda Boga svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I vikaste u šatorima svojim govoreæi: mrzi na nas Gospod, zato nas izvede iz zemlje Misirske, da nas da u ruke Amorejcima i da nas potre."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Kuda da idemo? braæa naša uplašiše srce naše govoreæi: narod je veæi i viši od nas, gradovi su veliki i ograðeni do neba, pa i sinove Enakove vidjesmo ondje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A ja vam rekoh: ne plašite se i ne bojte ih se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Gospod Bog vaš, koji ide pred vama, on æe se biti za vas onako kako vam je uèinio u Misiru na vaše oèi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I u pustinji, gdje si vidio kako te je nosio Gospod Bog tvoj, kao što èovjek nosi sina svojega, cijelijem putem kojim ste išli dokle doðoste do ovoga mjesta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ali zato opet ne vjerovaste Gospodu Bogu svojemu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Koji iðaše pred vama putem tražeæi vam mjesto gdje biste stali, iðaše noæu u ognju da vam svijetli putem kojim biste išli, a danju u oblaku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I èu Gospod glas rijeèi vaših, i razgnjevi se i zakle se govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Nijedan od ovoga roda zloga neæe vidjeti ove dobre zemlje, za koju se zakleh da æu dati vašim ocima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Osim Haleva sina Jefonijina; on æe je vidjeti, i njemu æu dati zemlju po kojoj je išao, i sinovima njegovijem, jer se sasvijem držao Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Pa i na mene se razgnjevi Gospod s vas; i reèe: ni ti neæeš uæi onamo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Isus sin Navin, koji te služi, on æe uæi onamo, njega utvrdi; jer æe je on razdijeliti sinovima Izrailjevijem u našljedstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A djeca vaša, za koju rekoste da æe postati roblje, sinovi vaši, koji danas ne znaju ni šta je dobro ni šta je zlo, oni æe uæi onamo, i njima æu je dati i oni æe je naslijediti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Vi pak vratite se i idite u pustinju k Crvenome Moru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A vi odgovoriste i rekoste mi: sagriješismo Gospodu; iæi æemo i biæemo se sasvijem kako nam je zapovjedio Gospod Bog naš. I uzevši svaki svoje oružje htjeste izaæi na goru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A Gospod mi reèe: kaži im: ne idite i ne bijte se, jer nijesam meðu vama, da ne izginete pred neprijateljima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I ja vam rekoh; ali ne poslušaste, nego se oprijeste zapovijesti Gospodnjoj, i navaliste na goru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Tada izidoše pred vas Amoreji, koji sjeðahu u onoj planini, i pognaše vas kao što èine pèele, i pobiše vas na Siru pa do Orme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "I vrativši se plakaste pred Gospodom, ali Gospod ne posluša glasa vašega niti okrete uha svojega k vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "I ostadoste u Kadisu dugo vremena dokle ondje stajaste."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DEU/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DEU/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NUM/36.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 36
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 46
+}

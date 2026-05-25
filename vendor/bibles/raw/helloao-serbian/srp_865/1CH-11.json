@@ -1,0 +1,405 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "srp_865",
+    "name": "1. Dnevnika",
+    "commonName": "1. Dnevnika",
+    "title": "1. Dnevnika",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "8ea0acc08b93472f39af29d769974347b255ab628ab40782b4687010563cbf90",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 29,
+    "lastChapterApiLink": "/api/srp_865/1CH/29.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 29
+    },
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I sabraše se svi Izrailjci k Davidu u Hevron, i rekoše: evo, mi smo kost tvoja i tijelo tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I preðe dok Saul bijaše car ti si odvodio i dovodio Izrailja; i Gospod Bog tvoj rekao ti je: ti æeš pasti narod moj Izrailja; i ti æeš biti voð narodu mojemu Izrailju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Tako doðoše sve starješine Izrailjeve k caru u Hevron, i uèini s njima David vjeru u Hevronu pred Gospodom, i pomazaše Davida za cara nad Izrailjem kao što bješe rekao Gospod preko Samuila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Potom otide David sa svijem Izrailjem na Jerusalim, a to je Jevus, jer ondje bijahu Jevuseji, koji življahu u onoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I rekoše Jevušani Davidu: neæeš uæi ovamo. Ali David uze kulu Sion, to je grad Davidov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer David reèe: ko prvi nadbije Jevuseje, biæe knez i vojvoda. I Joav sin Serujin izide prvi, i posta knez."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Poslije sjeðaše David u tom gradu, zato ga prozvaše grad Davidov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I sazida grad unaokolo, od Milona unaokolo; a Joav opravi ostatak grada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I David jednako napredovaše i siljaše se, jer Gospod nad vojskama bješe s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A ovo su poglavice meðu junacima Davidovijem, koji junaèki radiše uza nj za carstvo njegovo sa svijem Izrailjem da bude car nad Izrailjem po rijeèi Gospodnjoj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I ovo je broj junaka Davidovijeh: Jasoveam sin Ahmonijev, prvi izmeðu trideset; on mahnu kopljem svojim na tri stotine, i pobi ih ujedanput."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A za njim Eleazar sin Dodov Ahošanin, on bijaše jedan od tri junaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "On bijaše s Davidom u Fas-Damimu, kad se Filisteji skupiše na boj; i ondje bijaše njiva puna jeèma, i narod pobježe od Filisteja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A oni stadoše usred njive, i odbraniše je pobivši Filisteje; i Gospod dade izbavljenje veliko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I ta tri prva izmeðu trideset sidoše ka stijeni k Davidu u peæinu Odolamsku, kad vojska Filistejska stajaše u okolu u dolini Rafajskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A David bijaše onda u gradu, a straža Filistejska bijaše tada u Vitlejemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I David zaželje i reèe: ko bi mi donio vode da pijem iz studenca Vitlejemskoga što je kod vrata?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Tada ta trojica prodriješe kroz oko Filistejski, i zahvatiše vode iz studenca Vitlejemskoga koji je kod vrata, i donesoše i dadoše Davidu; a David ne htje piti, nego je izli Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I reèe: ne dao mi Bog moj da to uèinim! eda li æu piti krv tijeh ljudi koji ne mariše za život svoj? jer je donesoše ne mareæi za život svoj. I ne htje je piti. To uèiniše ta tri junaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I Avisaj brat Joavov bješe prvi izmeðu trojice. I on mahnu kopljem svojim na tri stotine, i pobi ih, i proslavi se meðu trojicom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Meðu trojicom bješe slavniji od druge dvojice i bješe im poglavica; ali one trojice ne stiže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Venaja sin Jodajev, sin èovjeka junaka iz Kavseila, koji uèini velika djela, on pogubi dva junaka Moavska, i sišav ubi lava u jami kad bješe snijeg."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "On ubi i nekoga Misirca visoka pet lakata. Imaše Misirac u ruci koplje kao vratilo, a on izide na nj sa štapom, i istrže Misircu koplje iz ruke, i ubi ga njegovijem kopljem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "To uèini Venaja sin Jodajev, i bi slavan meðu ova tri junaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Bješe najslavniji izmeðu tridesetorice, ali one trojice ne stiže. I David ga postavi nad pratiocima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Junaci izmeðu vojnika bijahu: Asailo brat Joavov, Elhanan sin Dodov iz Vitlejema,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Samot Arorarin, Helis Felonjanin,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ira sin Ikisov iz Tekoje, Avijezer iz Anatota,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Sivehaj iz Husata, Ilaj iz Ahoha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Maraj iz Netofata, Heled sin Vanin iz Netofata,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Itaj sin Rivajev iz Gavaje sinova Venijaminovih, Venaja iz Faratona,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Uraj od potoka Gaskih, Avilo iz Arvata,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Azmavet iz Varuma, Elijava iz Salvona,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Sinovi Asima Gizonjanina, Jonatan sin Sagijin Araranin,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ahijam sin Saharov Araranin, Elifal sin Urov,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Efer iz Mehirata, Ahija iz Felona,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Esro Karmilac, Naraj sin Esvajev,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Joilo brat Natanov, Mivar sin Agirijev,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Selek Amonac, Naraj Viroæanin, koji nošaše oružje Joavu sinu Serujinu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Ira Jetranin, Gariv Jetranin,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Urija Hetejin, Zavad sin Alajev,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Adina sin Sizin od sinova Ruvimovijeh, poglavar sinova Ruvimovijeh, i trideset s njim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Anan sin Mašin, i Josafat iz Mitne,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Ozija iz Asterota, Sama i Jehilo sinovi Hotana Aroiranina,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Jediailo sin Simrijev i Joha brat mu iz Tise,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Elilo Mavljanin, i Jerivaj i Josavija sinovi Elnamovi, i Jetema Moavac,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Elilo i Ovid i Jasilo iz Mesovaje."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CH/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CH/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CH/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 47
+}

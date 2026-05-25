@@ -1,0 +1,223 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "DAN",
+    "translationId": "srp_865",
+    "name": "Danilo",
+    "commonName": "Danilo",
+    "title": "Danilo",
+    "order": 27,
+    "numberOfChapters": 12,
+    "sha256": "a7cfcf76b959e48ff3096b5f1336feefdd92c2ade2010b0cbd670ebbe8f652f0",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/DAN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "DAN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 12,
+    "lastChapterApiLink": "/api/srp_865/DAN/12.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "DAN",
+      "chapter": 12
+    },
+    "totalNumberOfVerses": 357
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Godine treæe carovanja Joakima cara Judina doðe Navuhodonosor car Vavilonski na Jerusalim, i opkoli ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I Gospod mu dade u ruku Joakima cara Judina i dio sudova doma Božijega, i odnese ih u zemlju Senar u dom boga svojega, i metnu sudove u riznicu boga svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I reèe car Asfenazu starješini svojih dvorana da dovede izmeðu sinova Izrailjevijeh, i od carskoga sjemena i od knezova"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Mladiæa na kojima nema mane, i koji su lijepa lica i nauèeni svakoj mudrosti i vješti znanju i razumni i koji mogu stajati u carskom dvoru, pa da ih uèi knjigu i jezik Haldejski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I odredi im car obrok na dan od jela carskoga i od vina koje on pijaše, da se hrane tri godine a poslije da stoje pred carem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A meðu njima bjehu od sinova Judinijeh Danilo, Ananija, Misailo i Azarija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A starješina nad dvoranima predje im imena, i Danilu nadje ime Valtasar, a Ananiji Sedrah, a Misailu Misah, a Azariji Avdenago."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ali Danilo naumi da se ne skvrni obrokom jela careva i vinom koje on pijaše, i zamoli se starješini nad dvoranima da se ne skvrni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I dade Bog Danilu te naðe milost i ljubav u starješine nad dvoranima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I reèe starješina nad dvoranima Danilu: bojim se gospodara svojega cara, koji vam je odredio jelo i piæe; jer kad car vidi lica vaša lošija nego u ostalih mladiæa, vaših vrsnika, zašto da mi uèinite da budem glavom kriv caru?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Danilo reèe Amelsaru, kojega starješina nad dvoranima postavi nad Danilom, Ananijom, Misailom i Azarijom:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ogledaj sluge svoje za deset dana, neka nam se daje varivo da jedemo i vode da pijemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Pa onda neka nam se vide lica pred tobom i lica mladiæima koji jedu carsko jelo, pa kako vidiš, onako èini sa slugama svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I posluša ih u tom, i ogleda ih za deset dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A poslije deset dana lica im doðoše ljepša i mesnatija nego u svijeh mladiæa koji jeðahu carsko jelo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I Amelsar uzimaše jelo njihovo i vino koje njima trebaše piti, i davaše im variva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I dade Bog svoj èetvorici mladiæa znanje i razum u svakoj knjizi i mudrosti; a Danilu dade da razumije svaku utvaru i sne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I kad proðe vrijeme po kom car bješe rekao da ih izvedu, izvede ih starješina nad dvoranima pred Navuhodonosora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I govori car s njima, i ne naðe se meðu svjema njima nijedan kao Danilo, Ananija, Misailo i Azarija; i stajahu pred carem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I u svemu èemu treba mudrost i razum, za što ih car zapita, naðe da su deset puta bolji od svijeh vraèa i zvjezdara što ih bješe u svemu carstvu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I osta Danilo do prve godine cara Kira."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/DAN/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/DAN/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "DAN",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/48.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 48
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

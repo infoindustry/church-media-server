@@ -1,0 +1,258 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "srp_865",
+    "name": "Brojevi",
+    "commonName": "Brojevi",
+    "title": "Brojevi",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "5dc73b8a174fd63cb58a0932611fd5816a865be2dae8658fc6051a7a529e9415",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NUM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/NUM/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NUM",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kaži Aronu i reci mu: kad zapališ žiške, sedam žižaka neka svijetli sprijed na svijetnjaku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I uèini Aron tako, i zapali žiške da svijetle sprijed na svijetnjaku, kao što Gospod zapovjedi Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A svijetnjak bješe skovan od zlata, i stupac mu i cvijeæe skovano; po prilici koju pokaza Gospod Mojsiju tako bješe naèinio svijetnjak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Uzmi Levite izmeðu sinova Izrailjevijeh, i oèisti ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A uèini im ovo da ih oèistiš: pokropi ih vodom oèišæenja, a oni neka obriju sve tijelo svoje i operu haljine svoje, i oèistiæe se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Potom neka uzmu tele s darom uz njega, bijelim brašnom pomiješanim s uljem; i drugo tele uzmi za grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Pa dovedi Levite pred šator od sastanka, i sazovi sav zbor sinova Izrailjevijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I dovedi Levite pred Gospoda, i neka metnu sinovi Izrailjevi ruke svoje na Levite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I Aron neka prinese Levite Gospodu za prinos od sinova Izrailjevijeh da vrše službu Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A Leviti neka metnu ruke svoje na glave teocima, pa prinesi jedno tele za grijeh a drugo na žrtvu paljenicu Gospodu da se oèiste Leviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I postavi Levite pred Aronom i sinovima njegovijem, i prinesi ih za prinos Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I odvoj Levite izmeðu sinova Izrailjevijeh da budu moji Leviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A poslije neka doðu Leviti da služe u šatoru od sastanka, kad ih oèistiš i prineseš za prinos."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer su meni dani izmeðu sinova Izrailjevijeh; za sve što otvora matericu, za sve prvence izmeðu sinova Izrailjevijeh uzeh njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer je moj svaki prvenac meðu sinovima Izrailjevijem i od ljudi i od stoke; onaj dan kad pobih sve prvence u zemlji Misirskoj, posvetio sam ih sebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A Levite uzeh za sve prvence sinova Izrailjevijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I dadoh Levite na dar Aronu i sinovima njegovijem izmeðu sinova Izrailjevijeh, da služe mjesto sinova Izrailjevijeh u šatoru od sastanka, i da budu otkup za sinove Izrailjeve, da ne bi dolazio pomor na sinove Izrailjeve, kad bi pristupali k svetinji sinovi Izrailjevi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I uèini Mojsije i Aron i sav zbor sinova Izrailjevijeh Levitima sve što zapovjedi Gospod Mojsiju za Levite, tako im uèiniše sinovi Izrailjevi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I oèistiše se Leviti, i opraše haljine svoje, i prinese ih Aron za prinos pred Gospodom, i oèisti ih Aron da bi bili èisti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I onda tek pristupiše Leviti da vrše službu svoju u šatoru od sastanka pred Aronom i pred sinovima njegovijem; kao što zapovjedi Gospod Mojsiju za Levite, tako im uèiniše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I opet reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I ovo je za Levite: od dvadeset i pet godina i više neka stupaju u službu da služe u šatoru od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A kad kome bude pedeset godina, neka izlazi iz te službe i više neka ne služi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ali neka služi braæi svojoj u šatoru od sastanka radeæi što treba raditi, a sam neka ne vrši službe. Tako uèini Levitima za poslove njihove."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NUM/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NUM/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NUM/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NUM",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 26
+}

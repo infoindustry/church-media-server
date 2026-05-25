@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 14,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "U Ikoniji pak dogodi se da oni zajedno uðoše u zbornicu Jevrejsku, i govorahu tako da vjerova veliko mnoštvo Jevreja i Grka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A Jevreji koji ne vjerovahu podbuniše i razdražiše duše neznabožaca na braæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ali oni ostaše dosta vremena govoreæi slobodno u Gospodu koji svjedoèaše rijeè blagodati svoje i davaše te se tvorahu znaci i èudesa rukama njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A mnoštvo gradsko razdijeli se, i jedni bijahu s Jevrejima, a jedni s apostolima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A kad navališe i neznabošci i Jevreji sa svojijem poglavarima da im dosade i kamenjem da ih pobiju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Oni doznavši pobjegoše u gradove Likaonske, u Listru i u Dervu i u okolinu njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I onamo propovijedahu jevanðelje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I jedan èovjek u Listri sjeðaše nemoæan u nogama, i bješe hrom od utrobe matere svoje, i ne bješe nikad hodio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ovaj slušaše Pavla gdje govori. Pavle pogledavši na nj i vidjevši da vjeruje da æe ozdraviti,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Reèe velikijem glasom: tebi govorim u ime Gospoda Isusa Hrista, ustani na svoje noge upravo. I skoèi, i hoðaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A kad vidje narod šta uèini Pavle, podigoše glas svoj govoreæi Likaonski: bogovi naèiniše se kao ljudi, i siðoše k nama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I nazivahu Varnavu Jupiterom, a Pavla Merkurijem, jer on upravljaše rijeèju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A sveštenik Jupitera koji bješe pred gradom njihovijem dovede junce, i donese vijence pred vrata, i s narodom šæadijaše da prinosi žrtvu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A kad èuše apostoli, Varnava i Pavle, razdriješe haljine svoje, i skoèiše meðu narod vièuæi i govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ljudi! šta to èinite? I mi smo kao i vi smrtni ljudi, koji vam propovijedamo jevanðelje da se od ovijeh lažnijeh stvari obratite k Bogu živome, koji stvori nebo i zemlju i more i sve što je u njima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Koji u prošavšijem naraštajima bješe pustio sve narode da idu svojijem putovima:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I opet ne ostavi sebe neposvjedoèena, èineæi dobro, dajuæi nam s neba dažd i godine rodne, puneæi srca naša jelom i veseljem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I ovo govoreæi jedva ustaviše narod da im ne prinose žrtve, nego da ide svaki svojoj kuæi. A dok oni življahu ondje i uèahu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Doðoše iz Antiohije i iz Ikonije nekaki Jevreji, i kad se oni prepirahu slobodno, podgovoriše narod da ih odustanu, govoreæi da ništa pravo ne govore, nego sve lažu. I podgovorivši narod zasuše Pavla kamenjem i izvukoše ga iz grada misleæi da je mrtav."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A kad ga opkoliše uèenici njegovi, ustade i uðe u grad, i sjutradan iziðe s Varnavom u Dervu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I propovjedivši jevanðelje gradu onome i nauèivši mnoge vratiše se u Listru i Ikoniju i Antiohiju"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Utvrðujuæi duše uèenika i svjetujuæi ih da ostanu u vjeri, i da nam kroz mnoge nevolje valja uæi u carstvo Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I postavivši im starješine po svijem crkvama, i pomolivši se Bogu s postom, predadoše ih Gospodu koga vjerovaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I prošavši Pisidiju doðoše u Pamfiliju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I govorivši rijeè Gospodnju u Perzi siðoše u Ataliju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I odande otploviše u Antiohiju, odakle bijahu predani blagodati Božijoj na djelo koje svršiše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A kad doðoše i sabraše crkvu, kazaše sve šta uèini Bog s njima, i kako otvori neznabošcima vrata vjere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I ostaše ondje ne malo vremena s uèenicima."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/14.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 14
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/15.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 15
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/13.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 13
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

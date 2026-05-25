@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A bješe jedan èovjek od plemena Venijaminova, kojemu ime bješe Kis, sin Avila, sina Serora, sina Vehorata, sina Afije, sina jednoga èovjeka od plemena Venijaminova, hrabar junak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "On imaše sina po imenu Saula, koji bješe mlad i lijep da ne bješe ljepšega od njega meðu sinovima Izrailjevijem, a glavom bješe viši od svega naroda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Kisu ocu Saulovu nesta magarica, pa reèe Kis Saulu sinu svojemu: uzmi sa sobom jednoga momka, pa ustani i idi te traži magarice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I on proðe goru Jefremovu, i proðe zemlju Salisku; ali ne naðoše; pa proðoše i zemlju Salimsku, i ne bješe ih; pa proðoše i zemlju Venijaminovu, i ne naðoše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A kad doðoše u zemlju Sufsku, reèe Saul momku svojemu koji bijaše s njim: hajde da se vratimo, da se ne bi otac okanio magarica i zabrinuo se za nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A on mu reèe: evo, u ovom gradu ima èovjek Božji, kojega veoma poštuju; što god kaže sve se zbiva; hajdemo k njemu, može biti da æe nas uputiti kuda bismo išli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Saul reèe momku svojemu: hajde da idemo; ali šta æemo odnijeti èovjeku? jer nam je hljeba nestalo u torbama, a dara nemamo da odnesemo èovjeku Božijemu. Šta imamo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A momak opet odgovarajuæi reèe Saulu: eto u mene èetvrt sikla srebra; to da dam èovjeku Božijemu da nas uputi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A u staro vrijeme ko bi išao da pita Boga govoraše: hajde da idemo k vidiocu. Jer ko se sada zove prorok u staro se vrijeme zvaše vidjelac."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I Saul reèe momku svojemu: dobro veliš; hajde da idemo. I poðoše u grad gdje bješe èovjek Božji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I kad iðahu uz brdo gradsko, sretoše djevojke koje izlažahu da zahvataju vodu, pa im rekoše: je li tu vidjelac?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A one odgovarajuæi rekoše: jest, eto pred tobom; pohitaj, jer je danas došao u grad, jer danas narod ima žrtvu na gori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Kako uðete u grad, naæi æete ga prije nego poðe na goru da jede; jer narod neæe jesti dokle on ne doðe, jer on treba da blagoslovi žrtvu, pa onda æe zvanice jesti; zato idite, jer æete ga sada naæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I otidoše u grad; a kad doðoše usred grada, gle, Samuilo polazeæi na goru srete ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Gospod bješe objavio Samuilu dan prije nego doðe Saul, rekavši:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Sjutra u ovo doba poslaæu k tebi jednoga èovjeka iz zemlje Venijaminove, njega pomaži da bude voð narodu mojemu Izrailju, i on æe izbaviti moj narod iz ruku Filistejskih. Jer pogledah na narod svoj, jer vika njegova doðe do mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I kad Samuilo ugleda Saula, reèe mu Gospod: eto èovjeka za kojega ti rekoh; taj æe vladati mojim narodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I Saul pristupi k Samuilu na vratima, i reèe: kaži mi, gdje je kuæa vidioèeva?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A Samuilo odgovori Saulu i reèe: ja sam vidjelac. Hajde preda mnom na goru, i danas æete sa mnom jesti; a sjutra æu te otpustiti, i što ti je god u srcu, kazaæu ti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A za magarice, kojih ti je nestalo prije tri dana, ne brini se; jer su se našle. I èije æe biti sve što je najbolje u Izrailju? eda li ne tvoje i svega doma oca tvojega?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A Saul odgovori i reèe: nijesam li od plemena Venijaminova, najmanjega plemena Izrailjeva, i dom moj najmanji izmeðu svijeh domova plemena Venijaminova? što mi dakle govoriš tako?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A Samuilo uze Saula i njegova momka, i odvede ih u sobu, i posadi ih u zaèelje meðu zvanicama kojih bješe do trideset ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I Samuilo reèe kuharu: donesi dio koji ti dadoh i za koji ti rekoh: ostavi ga kod sebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Tada donese kuhar pleæe i što bješe na njemu; a Samuilo ga metnu pred Saula, i reèe: evo što je ostalo, uzmi preda se, te jedi, jer je saèuvano doslije za tebe, kad rekoh: pozvao sam narod. Tako jede Saul sa Samuilom onaj dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Potom siðoše s gore u grad, i Samuilo se razgovara sa Saulom na krovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A ujutru uraniše, i kad svitaše, zovnu Samuilo Saula na krov, i reèe mu: digni se, da te otpustim. I kad se diže Saul, izidoše obojica, on i Samuilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I kad doðoše na kraj grada, reèe Samuilo Saulu: reci momku neka ide naprijed i on proðe naprijed a ti stani malo da ti javim rijeè Božiju."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/9.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 9
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/10.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 10
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/8.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 8
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

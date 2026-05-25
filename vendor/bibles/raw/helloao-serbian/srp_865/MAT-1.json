@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "srp_865",
+    "name": "Mateju",
+    "commonName": "Mateju",
+    "title": "Jevanðelje po Mateju",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "2282cb47d4ecce5bfb50178a05f4b87b8f4e94d2e2954aa2bd38500539980051",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/MAT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Pleme Isusa Hrista, sina Davida Avraamova sina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Avraam rodi Isaka. A Isak rodi Jakova. A Jakov rodi Judu i braæu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Juda rodi Faresa i Zaru s Tamarom. A Fares rodi Esroma. A Esrom rodi Arama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A Aram rodi Aminadava. A Aminadav rodi Naasona. A Naason rodi Salmona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A Salmon rodi Vooza s Rahavom. A Vooz rodi Ovida s Rutom. A Ovid rodi Jeseja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A Jesej rodi Davida cara. A David car rodi Solomuna s Urijnicom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Solomun rodi Rovoama. A Rovoam rodi Aviju. A Avija rodi Asu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A Asa rodi Josafata. A Josafat rodi Jorama. A Joram rodi Oziju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A Ozija rodi Joatama. A Joatam rodi Ahaza. A Ahaz rodi Ezekiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Ezekija rodi Manasiju. A Manasija rodi Amona. A Amon rodi Josiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Josija rodi Jehoniju i braæu njegovu, u seobi Vavilonskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A po seobi Vavilonskoj, Jehonija rodi Salatiila. A Salatiilo rodi Zorovavela."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Zorovavel rodi Aviuda. A Aviud rodi Eliakima. A Eliakim rodi Azora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Azor rodi Sadoka. A Sadok rodi Ahima. A Ahim rodi Eliuda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Eliud rodi Eleazara. A Eleazar rodi Matana. A Matan rodi Jakova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Jakov rodi Josifa, muža Marije, koja rodi Isusa prozvanoga Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Svega dakle koljena od Avraama do Davida, koljena èetrnaest, a od Davida do seobe Vavilonske, koljena èetrnaest, a od seobe Vavilonske do Hrista, koljena èetrnaest."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A roðenje Isusa Hrista bilo je ovako: kad je Marija, mati njegova, bila isprošena za Josifa, a još dok se nijesu bili sastali, naðe se da je ona trudna od Duha svetoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A Josif muž njezin, buduæi pobožan, i ne hoteæi je javno sramotiti, namisli je tajno pustiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "No kad on tako pomisli, a to mu se javi u snu anðeo Gospodnji govoreæi: Josife, sine Davidov! ne boj se uzeti Marije žene svoje; jer ono što se u njoj zaèelo od Duha je svetoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Pa æe roditi sina, i nadjeni mu ime Isus; jer æe on izbaviti svoj narod od grijeha njihovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A ovo je sve bilo da se izvrši što je Gospod kazao preko proroka koji govori:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Eto, djevojka æe zatrudnjeti, i rodiæe sina, i nadjenuæe mu ime Emanuilo, koje æe reæi: s nama Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Kad se Josif probudi od sna, uèini kao što mu je zapovjedio anðeo Gospodnji, i uzme ženu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I ne znadijaše za nju dok ne rodi sina svojega prvenca, i nadjede mu ime Isus."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAT/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAL/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAL",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

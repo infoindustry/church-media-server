@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ROM",
+    "translationId": "srp_865",
+    "name": "Rimljanima",
+    "commonName": "Rimljanima",
+    "title": "Poslanica Rimljanima",
+    "order": 45,
+    "numberOfChapters": 16,
+    "sha256": "1fe4947b687992778ed830174635b188e37a5a7f483de9affcbbb4c949cc6571",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ROM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/ROM/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 433
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Šta je dakle bolji Jevrejin od drugijeh ljudi? Ili šta pomaže obrezanje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Mnogo svakojako; prvo što su im povjerene rijeèi Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A što neki ne vjerovaše, šta je za to? Eda æe njihovo nevjerstvo vjeru Božiju ukinuti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Bože saèuvaj! nego Bog neka bude istinit, a èovjek svaki laža, kao što stoji napisano: da se opravdaš u svojijem rijeèima, i da pobijediš kad ti stanu suditi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ako li nepravda naša Božiju pravdu podiže, šta æemo reæi? Eda li je Bog nepravedan kad se srdi? Po èovjeku govorim:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Bože saèuvaj! Jer kako bi mogao Bog suditi svijetu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer ako istina Božija u mojoj laži veæa postane na slavu njegovu, zašto još i ja kao grješnik da budem osuðen?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Zašto dakle kao što vièu na nas, i kao što kažu neki da mi govorimo) da ne èinimo zla da doðe dobro? Njima æe sud biti pravedan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Šta dakle? Jesmo li bolji od njih? Nipošto! Jer gore dokazasmo da su i Jevreji i Grci svi pod grijehom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Kao što stoji napisano: ni jednoga nema pravedna;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ni jednoga nema razumna, i ni jednoga koji traži Boga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Svi se ukloniše i zajedno nevaljali postaše: nema ga koji èini dobro, nema ni jednoga ciglog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Njihovo je grlo grob otvoren, jezicima svojima varaju, i jed je aspidin pod usnama njihovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Njihova su usta puna kletve i grèine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Njihove su noge brze da proljevaju krv."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Na putovima je njihovima raskopavanje i nevolja;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I puta mirnoga ne poznaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nema straha Božijega pred oèima njihovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A znamo da ono što zakon govori, govori onima koji su u zakonu, da se svaka usta zatisnu, i sav svijet da bude kriv Bogu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer se djelima zakona nijedno tijelo neæe opravdati pred njim; jer kroz zakon dolazi poznanje grijeha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A sad se bez zakona javi pravda Božija, posvjedoèena od zakona i od proroka;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A pravda Božija vjerom Isusa Hrista u sve i na sve koji vjeruju; jer nema razlike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer svi sagriješiše i izgubili su slavu Božiju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I opravdaæe se zabadava blagodaæu njegovom, otkupom Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Kojega postavi Bog oèišæenje vjerom u krvi njegovoj da pokaže svoju pravdu oproštenjem preðašnjijeh grijeha;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "U podnošenju Božijemu, da pokaže pravdu svoju u sadašnje vrijeme da je on pravedan i da pravda onoga koji je od vjere Isusove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Gdje je dakle hvala? Proðe. Kakijem zakonom? je li zakonom djela? Ne, nego zakonom vjere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Mislimo dakle da æe se èovjek opravdati vjerom bez djela zakona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ili je samo Jevrejski Bog, a ne i neznabožaèki? Da, i neznabožaèki."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Jer je jedan Bog koji æe opravdati obrezanje iz vjere i neobrezanje vjerom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Kvarimo li dakle zakon vjerom? Bože saèuvaj! nego ga još utvrðujemo."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ROM/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ROM/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ROM/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

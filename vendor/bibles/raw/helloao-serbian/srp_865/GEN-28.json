@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 28,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada Isak dozva Jakova, i blagoslovi ga, i zapovjedi mu i reèe: nemoj da se oženiš kojom izmeðu kæeri Hananejskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ustani, idi u Padan-Aram u dom Vatuila oca matere svoje, i odande se oženi izmeðu kæeri Lavana ujaka svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Bog svemoguæi da te blagoslovi, i da ti da veliku porodicu i umnoži te, da od tebe postane mnoštvo naroda,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I da ti da blagoslov Avramov, tebi i sjemenu tvojemu s tobom, da naslijediš zemlju u kojoj si došljak, koju Bog dade Avramu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tako opravi Isak Jakova, i on poðe u Padan-Aram k Lavanu sinu Vatuila Sirina, bratu Reveke matere Jakovljeve i Isavove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A Isav vidje gdje Isak blagoslovi Jakova i opravi ga u Padan-Aram da se odande oženi, i gdje blagosiljajuæi ga zapovjedi mu i reèe: nemoj da se oženiš kojom izmeðu kæeri Hananejskih,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I gdje Jakov posluša oca svojega i mater svoju, i otide u Padan-Aram;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I vidje Isav da kæeri Hananejske nijesu po volji Isaku ocu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Pa otide Isav k Ismailu, i uze za ženu preko žena svojih Maeletu, kæer Ismaila sina Avramova, sestru Navajotovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Jakov otide od Virsaveje iduæi u Haran."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I doðe na jedno mjesto, i ondje zanoæi, jer sunce bješe zašlo; i uze kamen na onom mjestu, i metnu ga sebi pod glavu, i zaspa na onom mjestu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I usni, a to ljestve stajahu na zemlji a vrhom ticahu u nebo, i gle, anðeli Božji po njima se penjahu i slažahu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I gle, na vrhu stajaše Gospod, i reèe: ja sam Gospod Bog Avrama oca tvojega i Bog Isakov; tu zemlju na kojoj spavaš tebi æu dati i sjemenu tvojemu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I sjemena æe tvojega biti kao praha na zemlji, te æeš se raširiti na zapad i na istok i na sjever i na jug, i svi narodi na zemlji blagosloviæe se u tebi i u sjemenu tvojem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I evo, ja sam s tobom, i èuvaæu te kuda god poðeš, i dovešæu te natrag u ovu zemlju, jer te neæu ostaviti dokle god ne uèinim što ti rekoh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A kad se Jakov probudi od sna, reèe: zacijelo je Gospod na ovom mjestu; a ja ne znah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I uplaši se, i reèe: kako je strašno mjesto ovo! ovdje je doista kuæa Božja, i ovo su vrata nebeska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I usta Jakov ujutru rano, i uze kamen što bješe metnuo sebi pod glavu, i utvrdi ga za spomen i preli ga uljem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I prozva ono mjesto Vetilj, a preðe bješe ime onome gradu Luz."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I uèini Jakov zavjet, govoreæi: ako Bog bude sa mnom i saèuva me na putu kojim idem i da mi hljeba da jedem i odijela da se oblaèim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I ako se vratim na miru u dom oca svojega, Gospod æe mi biti Bog;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A kamen ovaj koji utvrdih za spomen biæe dom Božji; i što mi god daš, od svega æu deseto dati tebi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/28.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 28
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/29.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 29
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/27.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 27
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

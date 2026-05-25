@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "srp_865",
+    "name": "Jezekilj",
+    "commonName": "Jezekilj",
+    "title": "Jezekilj",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "cde8480fad5c0d2deb2ebd41227f49ccdac305cf44cde2c86680ea4e3d54b015",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 48,
+    "lastChapterApiLink": "/api/srp_865/EZK/48.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZK",
+      "chapter": 48
+    },
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Potom, sine èovjeèji, uzmi nož oštar, britvu brijaèku uzmi, i pusti je po glavi svojoj i po bradi svojoj, pa uzmi mjerila i razdijeli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Treæinu sažezi ognjem usred grada, kad se navrše dani opsade, a drugu treæinu uzmi i isijeci maèem oko njega, a ostalu treæinu razmetni u vjetar, i ja æu izvuæi maè za njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ali uzmi malo, i zaveži u skut svoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I od toga još uzmi i baci u oganj i sažezi ognjem; odatle æe izaæi oganj na sav dom Izrailjev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ovako veli Gospod Gospod: ovo je Jerusalim koji postavih usred naroda i optoèih ga zemljama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ali promijeni zakone moje na bezakonje veæma nego narodi, i uredbe moje veæma nego zemlje što su oko njega, jer odbaciše moje zakone, i ne hodiše po mojim uredbama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zato ovako veli Gospod Gospod: što postaste gori od naroda koji su oko vas, ne hodiste po mojim uredbama i ne izvršivaste mojih zakona, pa ni po uredbama naroda koji su oko vas ne èiniste,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Zato ovako veli Gospod Gospod: evo i mene na te, i izvršiæu usred tebe sudove na vidiku narodima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I uèiniæu ti što još nijesam uèinio niti æu više uèiniti za sve gadove tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zato oci æe jesti sinove usred tebe, i sinovi æe jesti oce svoje, i izvršiæu na tebi sudove i rasijaæu sav ostatak tvoj u sve vjetrove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zato, tako ja živ bio, veli Gospod Gospod, što si oskvrnio moju svetinju svakojakim neèistotama svojim i svakojakim gadovima svojim, zato æu i ja tebe potrti, i neæe oko moje žaliti, niti æu se smilovati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Treæina æe tvoja pomrijeti od pomora, i od gladi æe izginuti usred tebe, a druga æe treæina pasti od maèa oko tebe, a treæinu æu rasijati u sve vjetrove, i izvuæi æu maè za njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I tako æe se izvršiti gnjev moj i namiriæu jarost svoju na njima i zadovoljiæu se, i oni æe poznati da sam ja Gospod govorio u revnosti svojoj kad izvršim gnjev svoj na njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I uèiniæu od tebe pustoš i rug meðu narodima koji su oko tebe pred svakim koji prolazi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I biæeš rug i sramota i nauk i èudo narodima što su oko tebe kad izvršim sudove na tebi gnjevom, jarošæu i ljutijem karanjem; ja Gospod rekoh;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Kad pustim na vas ljute strijele gladi, koje æe biti smrtne, koje æu pustiti da vas zatrem, i kad glad navalim na vas i slomim vam potporu u hljebu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Kad pustim na vas glad i ljute zvijeri, koje æe ti djecu izjesti; i kad pomor i krv proðu kroza te, i kad pustim maè na te. Ja Gospod rekoh."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZK/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZK/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZK/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZK",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

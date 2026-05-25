@@ -1,0 +1,328 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZR",
+    "translationId": "srp_865",
+    "name": "Ezra",
+    "commonName": "Ezra",
+    "title": "Ezra",
+    "order": 15,
+    "numberOfChapters": 10,
+    "sha256": "bf548715db2388dddb04c845f0fa124e883e80ef31b6aa8bdd1683312fc367c1",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZR/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZR",
+      "chapter": 1
+    },
+    "lastChapterNumber": 10,
+    "lastChapterApiLink": "/api/srp_865/EZR/10.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZR",
+      "chapter": 10
+    },
+    "totalNumberOfVerses": 280
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A ovo su glavari domova otaèkih i pleme onijeh što poðoše sa mnom iz Vavilona za vlade cara Artakserksa:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Od sinova Finesovijeh Girsom; od sinova Itamarovijeh Danilo; od sinova Davidovijeh Hatus;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Od sinova Sehanije, koji bješe od sinova Farosovijeh, Zaharija i s njim na broj muškinja sto i pedeset;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Od sinova Fat-Moavovijeh Elioinaj sin Zerajin i s njim muškinja dvjesta;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Od sinova Sehanijinih sin Jasilov i s njim muškinja tri stotine;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I od sinova Adinovijeh Eved sin Jonatanov i s njim muškinja pedeset;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I od sinova Elamovijeh Isaija sin Atalijin i s njim muškinja sedamdeset;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I od sinova Sefatijinih Zevadija sin Mihailov i s njim muškinja osamdeset;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Od sinova Joavovijeh Ovadija sin Jehilov i s njim muškinja dvjesta i osamdeset;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I od sinova Selomitovijeh sin Josifijin i s njim muškinja sto i šezdeset;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I od sinova Vivajevih Zaharija sin Vivajev i s njim muškinja dvadeset i osam;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I od sinova Azgadovijeh Joanan sin Akatanov i s njim muškinja sto i deset;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I od sinova Adonikamovijeh pošljednjih po imenu Elifelet, Jeilo i Semaja i s njima muškinja šezdeset;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I od sinova Vigvajevijeh Gutaj i Zavud, i s njima muškinja sedamdeset."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I sabrah ih kod rijeke koja teèe u Avu, i ondje stajasmo u okolu tri dana; poslije pregledah narod i sveštenike, ali ne naðoh ondje nijednoga od sinova Levijevih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Zato poslah Elijezera, Arila, Semaju i Elnatana i Jariva i Elnatana i Natana i Zahariju i Mesulama glavare, i Jojariva i Elnatana uèitelje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I opravih ih k Idu poglavaru u mjestu Kasifiji, i nauèih ih šta æe govoriti Idu i braæi njegovoj Netinejima u mjestu Kasifiji da bi nam doveli sluge za dom Boga našega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I dovedoše nam, jer dobra ruka Božija bješe nad nama, èovjeka razumna izmeðu sinova Malija sina Levija sina Izrailjeva, Sereviju sa sinovima njegovijem i braæom njegovom, njih osamnaest;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I Asaviju i s njim Isaiju od sinova Merarijevih, s braæom njegovom i njihovijem sinovima, njih dvadeset,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I od Netineja, koje odredi David i knezovi da služe Levitima, dvjesta i dvadeset Netineja, koji svi biše imenovani poimence."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tada oglasih ondje na rijeci Avi post, da bismo se ponizili pred Bogom svojim i izmolili u njega sreæan put sebi i djeci svojoj i svemu blagu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer me bijaše stid iskati od cara vojske i konjika da nas brane od neprijatelja putem, jer bijasmo rekli caru govoreæi: ruka je Boga našega na dobro nad svima koji ga traže, i jaèina je njegova i gnjev na sve koji ga ostavljaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Tako postismo i molismo Boga svojega za to, i umolismo ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Tada odvojih izmeðu glavara sveštenièkih dvanaest, Sereviju, Asaviju i s njima desetoricu braæe njihove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I izmjerih im srebro i zlato i sudove, priloge domu Boga našega što priloži car i savjetnici njegovi i knezovi njegovi i sav narod Izrailjev koji se naðe;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Izmjerih im u ruke šest stotina i pedeset talanata srebra, i sudova srebrnijeh sto talanata, i sto talanata zlata,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I dvadeset èaša zlatnijeh od tisuæu drama, i dva suda od mjedi dobre i skupocjene kao zlato."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I rekoh im: vi ste sveti Gospodu i ovi su sudovi sveti, i ovo srebro i zlato dragovoljan je prilog Gospodu Bogu otaca vaših."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Pazite i èuvajte dokle ne izmjerite pred glavarima sveštenièkim i Levitima i glavarima otaèkih domova Izrailjevijeh u Jerusalimu u klijetima doma Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I tako primiše sveštenici i Leviti izmjereno srebro i zlato i sudove da odnesu u Jerusalim u dom Boga našega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I poðosmo od rijeke Ave dvanaestoga dana prvoga mjeseca da idemo u Jerusalim, i ruka Boga našega bijaše nad nama i izbavi nas iz ruku neprijateljskih i zasjedaèkih na putu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I doðosmo u Jerusalim i stajasmo ondje tri dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A èetvrti dan izmjeri se srebro i zlato i sudovi u domu Boga našega u ruke Merimotu sinu Urijinu svešteniku, s kojim bijaše Eleazar sin Finesov, i s njima Jozavad sin Isusov i Noadija sin Venujev, Leviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Sve na broj i na mjeru, i mjera bi zapisana od svega u isto vrijeme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I koji biše u ropstvu pa se vratiše iz ropstva prinesoše na žrtvu paljenicu Bogu Izrailjevu dvanaest junaca za svega Izrailja, devedeset i šest ovnova, sedamdeset i sedam jaganjaca, dvanaest jaraca za grijeh, sve to na žrtvu paljenicu Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I predaše zapovijesti careve namjesnicima carevijem i knezovima s ove strane rijeke, i oni potpomogoše narod i dom Božji."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZR/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZR/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZR/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 36
+}

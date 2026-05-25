@@ -1,0 +1,440 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_865",
+    "name": "Psalmi",
+    "commonName": "Psalmi",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c9648f0f135743a1c6792ad0534ae1a39f1df0431e4b59b77e922200c5ca2bdc",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PSA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_865/PSA/150.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PSA",
+      "chapter": 150
+    },
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 89,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Milosti æu Gospodnje pjevati uvijek, od koljena na koljeno javljaæu istinu tvoju ustima svojima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer znam da je zavavijek osnovana milost, i na nebesima da si utvrdio istinu svoju, rekavši:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "“Uèinih zavjet s izbranim svojim, zakleh se Davidu, sluzi svojemu:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Dovijeka æu utvrðivati sjeme tvoje i prijesto tvoj ureðivati od koljena do koljena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nebo kazuje èudesa tvoja, Gospode, i istinu tvoju sabor svetijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer ko je nad oblacima ravan Gospodu? ko æe se izjednaèiti s Gospodom meðu sinovima Božijim?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Bogu se valja klanjati na saboru svetijeh, strašniji je od svijeh koji su oko njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Gospode, Bože nad vojskama! ko je silan kao ti, Bože? I istina je tvoja oko tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ti vladaš nad silom morskom; kad podigne vale svoje, ti ih ukroæavaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ti si oborio oholi Misir kao ranjenika, krjepkom mišicom svojom rasijao si neprijatelje svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tvoje je nebo i tvoja je zemlja; ti si sazdao vasiljenu i što je god u njoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Sjever i jug ti si stvorio, Tavor i Ermon o tvom se imenu raduje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tvoja je mišica krjepka, silna je ruka tvoja, i visoka desnica tvoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Blagost je i pravda podnožje prijestolu tvojemu, milost i istina ide pred licem tvojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Blago narodu koji zna trubnu pokliè! Gospode! u svjetlosti lica tvojega oni hode;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Imenom se tvojim raduju vas dan, i pravdom tvojom uzvišuju se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer si ti krasota sile njihove, i po milosti tvojoj uzvišuje se rog naš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer je od Gospoda obrana naša, i od svetoga Izrailjeva car naš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tada si govorio u utvari vjernima svojim, i rekao: “poslah pomoæ junaku, uzvisih izbranoga svojega iz naroda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Naðoh Davida slugu svojega, svetim uljem svojim pomazah ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ruka æe moja biti jednako s njim, i mišica moja krijepiæe ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Neæe ga neprijatelj nadvladati, i sin bezakonja neæe mu dosaditi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Potræu pred licem njegovijem neprijatelje njegove, i nenavidnike njegove poraziæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Istina je moja i milost moja s njim; i u moje ime uzvisiæe se rog njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Pružiæu na more ruku njegovu, i na rijeke desnicu njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "On æe me zvati: ti si otac moj, Bog moj i grad spasenja mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I ja æu ga uèiniti prvencem, višim od careva zemaljskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Dovijeka æu mu hraniti milost svoju, i zavjet je moj s njim vjeran."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Produljiæu sjeme njegovo dovijeka, i prijesto njegov kao dane nebeske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ako sinovi njegovi ostave zakon moj, i ne uzidu u zapovijestima mojim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ako pogaze uredbe moje, i zapovijesti mojih ne saèuvaju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Onda æu ih pokarati prutom za nepokornost, i ranama za bezakonje njihovo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ali milosti svoje neæu uzeti od njega, niti æu prevrnuti istinom svojom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Neæu pogaziti zavjeta svojega, i što je izašlo iz usta mojih neæu poreæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Jednom se zakleh svetošæu svojom; zar da slažem Davidu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Sjeme æe njegovo trajati dovijeka, i prijesto njegov kao sunce preda mnom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "On æe stajati uvijek kao mjesec i vjerni svjedok u oblacima.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A sad si odbacio i zanemario, razgnjevio si se na pomazanika svojega;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Zanemario si zavjet sa slugom svojim, bacio si na zemlju vijenac njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Razvalio si sve ograde njegove, gradove njegove obratio si u zidine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Plijene ga svi koji prolaze onuda, posta potsmijeh u susjeda svojijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Uzvisio si desnicu neprijatelja njegovijeh, obradovao si sve protivnike njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Zavratio si ostrice maèa njegova, i nijesi ga ukrijepio u boju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Uzeo si mu svjetlost, i prijesto njegov oborio si na zemlju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Skratio si dane mladosti njegove i obukao ga u sramotu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Dokle æeš se, Gospode, jednako odvraæati, dokle æe kao oganj plamtjeti gnjev tvoj?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Opomeni se kakav je vijek moj, kako si ni na što stvorio sve sinove Adamove?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Koji je èovjek živio i nije smrti vidio, i izbavio dušu svoju iz ruku paklenijeh?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Gdje su preðašnje milosti tvoje, Gospode? Kleo si se Davidu istinom svojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Opomeni se, Gospode, prijekora sluga svojih, koji nosim u njedrima svojim od svijeh silnijeh naroda,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Kojim kore neprijatelji tvoji, Gospode, kojim kore trag pomazanika tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Blagosloven Gospod uvijek! Amin, amin."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PSA/89.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 89
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PSA/90.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 90
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PSA/88.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PSA",
+    "chapter": 88
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 52
+}

@@ -1,0 +1,244 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 33,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Teško tebi, koji pustošiš a tebe ne pustoše, i koji èiniš nevjeru a tebi se ne èini nevjera; kad prestaneš pustošiti, biæeš opustošen, kad prestaneš èiniti nevjeru, èiniæe ti se nevjera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Gospode, smiluj se na nas, tebe èekamo; budi im mišica svako jutro, i spasenje naše u nevolji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Narodi pobjegoše od jake vike, rasijaše se narodi što se ti podiže."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I pokupiæe se plijen vaš kao što se kupe gusjenice, skoèiæe na nj kao što skaèu skakavci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Uzvišen je Gospod, jer nastava na visini; napuniæe Sion suda i pravde."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I tvrða vremena tvojega, sila spasenja tvojega biæe mudrost i znanje; strah Gospodnji biæe blago tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Eto, junaci njihovi vièu na polju, i poslanici mirni plaèu gorko:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Putovi opustješe, putnici ne putuju; pokvari ugovor, odbaci gradove, ne mari za èovjeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Zemlja tuži i èezne, Livan se stidi i vene, Saron je kao pustinja, Vasan i Karmil ogolješe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Sada æu ustati, veli Gospod, sada æu se uzvisiti, sada æu se podignuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zatrudnjeæete slamom, rodiæete strnjiku; gnjev vaš proždrijeæe vas kao oganj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I narodi æe biti kao peæi kreène, izgorjeæe ognjem kao trnje posjeèeno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Slušajte koji ste daleko što sam uèinio, i koji ste blizu poznajte moæ moju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Grješnici u Sionu uplašiæe se, drhat æe spopasti licemjere, i reæi æe: ko æe nas ostati kod ognja koji proždire? ko æe nas ostati kod vjeène žege?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ko hodi u pravdi i govori što je pravo; ko mrzi na dobitak od nasilja; ko otresa ruke svoje da ne primi poklona; ko zatiskuje uši svoje da ne èuje za krv, i zažima oèi svoje da ne vidi zla;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "On æe nastavati na visokim mjestima; gradovi na stijenama biæe mu utoèište, hljeb æe mu se davati, vode mu se neæe premicati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Oèi æe ti vidjeti cara u krasoti njegovoj, gledaæe zemlju daleku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Srce æe tvoje misliti o strahu govoreæi: gdje je pisar? gdje brojaè? gdje je onaj što pregleda kule?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Neæeš vidjeti žestoka naroda, naroda koji govori iz dubina da se ne razbira, u koga je jezik mutav da se ne razumije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Pogledaj na Sion, grad praznika naših; oèi tvoje neka vide Jerusalim, mirni stan, šator, koji se neæe odnijeti, kojemu se kolje neæe nigda pomjeriti, i nijedno mu se uže neæe otkinuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Nego æe nam ondje Gospod veliki biti mjesto rijeka i potoka širokih, po kojima neæe iæi laða s veslima, niti æe velika laða prolaziti onuda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer je Gospod naš sudija, Gospod je koji nam postavlja zakone, Gospod je car naš, on æe nas spasti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Oslabiše tvoja uža, ne mogu tvrdo držati katarke svoje ni razapeti jedra; tada æe se razdijeliti velik plijen, hromi æe razgrabiti plijen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I niko od stanovnika neæe reæi: bolestan sam. Narodu koji živi u njemu oprostiæe se bezakonje."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/33.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 33
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/34.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 34
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/32.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 32
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 24
+}

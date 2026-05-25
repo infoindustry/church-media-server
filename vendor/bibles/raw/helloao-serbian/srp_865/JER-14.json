@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 14,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Rijeè Gospodnja koja doðe Jeremiji o suši."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Juda tuži, i vrata su mu žalosna; leže na zemlji u crno zaviti; vika iz Jerusalima podiže se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Najveæi izmeðu njih šalju najmanje na vodu; došavši na studence ne nalaze vode, vraæaju se s praznijem sudovima svojim, stide se i srame se i pokrivaju glavu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Zemlja je ispucala, jer ne bješe dažda na zemlji; zato se težaci stide i pokrivaju glavu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I košuta u polju ostavlja mlade svoje, jer nema trave."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I divlji magarci stojeæi na visovima vuku u se vjetar kao zmajevi, oèi im išèilješe, jer nema trave."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Kad bezakonja naša svjedoèe na nas, Gospode, uèini radi imena svojega; jer je mnogo odmeta naših, tebi sagriješismo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Nade Izrailjev! spasitelju njegov u nevolji! zašto si kao tuðin u ovoj zemlji i kao putnik koji se uvrati da prenoæi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Zašto si kao umoran èovjek, kao junak, koji ne može izbaviti? Ta, ti si usred nas, Gospode, i ime je tvoje prizvano na nas; nemoj nas ostaviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ovako govori Gospod za narod ovaj: milo im je da se skitaju, ne ustavljaju nogu svojih, zato nijesu mili Gospodu; sada æe se opomenuti bezakonja njihova i pohodiæe grijehe njihove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Potom reèe mi Gospod: ne moli se za taj narod da bi mu bilo dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ako æe i postiti, neæu uslišiti vike njihove; i ako æe prinijeti žrtve paljenice i dar, neæe mi to ugoditi, nego maèem i glaðu i pomorom pomoriæu ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada rekoh: oh, Gospode Gospode, evo, proroci im govore: neæete vidjeti maèa, i neæe biti gladi u vas, nego æu vam dati mir pouzdan na ovom mjestu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Gospod mi reèe: laž prorokuju ti proroci u moje ime, nijesam ih poslao, niti sam im zapovjedio, niti sam im govorio; lažne utvare i gatanje i ništavilo i prijevaru srca svojega oni vam prorokuju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zato ovako veli Gospod za proroke koji prorokuju u moje ime a ja ih nijesam poslao, i govore: neæe biti maèa ni gladi u ovoj zemlji: od maèa i gladi izginuæe ti proroci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A narod ovaj kojemu oni prorokuju biæe povaljan po ulicama Jerusalimskim od gladi i maèa, i neæe biti nikoga da ih pogrebe, njih, žene njihove i sinove njihove i kæeri njihove; tako æu izliti na njih zloæu njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Reci im dakle ovu rijeè: neka oèi moje liju suze danju i noæu i neka ne prestaju, jer djevojka kæi mojega naroda satr se veoma, od udarca preljuta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ako izidem u polje, eto pobijenijeh maèem; ako uðem u grad, eto iznemoglijeh od gladi; jer i prorok i sveštenik otidoše u zemlju koje ne znaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Eda li si sasvijem odbacio Judu? eda li je omrzao duši tvojoj Sion? Zašto si nas udario tako da nam nema lijeka? Èekasmo mir ali nema dobra; i vrijeme da ozdravimo, a gle, strah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Priznajemo, Gospode, zloæu svoju, bezakonje otaca svojih, zgriješili smo ti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Nemoj nas odvræi radi imena svojega; nemoj naružiti prijestola slave svoje, opomeni se zavjeta svojega s nama, nemoj ga ukinuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ima li meðu taštinama u naroda koji da daje dažd? ili nebesa daju li sitan dažd? Nijesi li ti to, Gospode Bože naš? Zato tebe èekamo, jer ti èiniš sve to."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/14.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 14
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/15.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 15
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/13.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 13
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

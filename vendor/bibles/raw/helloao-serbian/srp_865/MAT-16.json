@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "srp_865",
+    "name": "Mateju",
+    "commonName": "Mateju",
+    "title": "Jevanðelje po Mateju",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "2282cb47d4ecce5bfb50178a05f4b87b8f4e94d2e2954aa2bd38500539980051",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/MAT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 16,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I pristupiše k njemu fariseji i sadukeji, i kušajuæi ga iskahu da im pokaže znak s neba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A on odgovarajuæi reèe im: uveèe govorite: biæe vedro; jer je nebo crveno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I ujutru: danas æe biti vjetar, jer je nebo crveno i mutno. Licemjeri! lice nebesko umijete poznavati, a znake vremena ne možete poznati?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Rod zli i kurvarski traži znak, i znak neæe mu se dati osim znaka Jone proroka. I ostavivši ih otide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I polazeæi uèenici njegovi na onu stranu zaboraviše uzeti hljeba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A Isus reèe im: èuvajte se kvasca farisejskoga i sadukejskog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A oni mišljahu u sebi govoreæi: to je što nijesmo hljeba uzeli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A Isus razumjevši reèe im: šta mislite u sebi, malovjerni, što hljeba nijeste uzeli?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Zar još ne razumijete niti pamtite pet hljebova na pet hiljada, i koliko kotarica nakupiste?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ni sedam hljebova na èetiri hiljade, i koliko kotarica nakupiste?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Kako ne razumijete da vam ne rekoh za hljebove da se èuvate kvasca farisejskoga i sadukejskog?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada razumješe da ne reèe kvasca hljebnoga da se èuvaju, nego nauke farisejske i sadukejske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A kad doðe Isus u okoline Æesarije Filipove, pitaše uèenike svoje govoreæi: ko govore ljudi da je sin èovjeèij?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A oni rekoše: jedni govore da si Jovan krstitelj, drugi da si Ilija, a drugi Jeremija, ili koji od proroka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Reèe im Isus: a vi šta mislite ko sam ja?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Simon Petar odgovori i reèe: ti si Hristos, sin Boga živoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I odgovarajuæi Isus reèe mu: blago tebi, Simone sine Jonin! Jer tijelo i krv nijesu tebi to javili, nego otac moj koji je na nebesima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A i ja tebi kažem: ti si Petar, i na ovome kamenu sazidaæu crkvu svoju, i vrata paklena neæe je nadvladati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I daæu ti kljuèeve od carstva nebeskoga: i što svežeš na zemlji biæe svezano na nebesima; i što razdriješiš na zemlji biæe razdriješeno na nebesima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Tada zaprijeti Isus uèenicima svojijem da nikom ne kazuju da je on Hristos."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Od tada poèe Isus kazivati uèenicima svojijem da njemu valja iæi u Jerusalim, i mnogo postradati od starješina i od glavara sveštenièkijeh i književnika, i da æe ga ubiti, i treæi dan da æe ustati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I uzevši ga Petar poèe ga odvraæati govoreæi: Bože saèuvaj! to neæe biti od tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A on se obrnuvši reèe Petru: idi od mene sotono; ti si mi sablazan; jer ne misliš što je Božije nego ljudsko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Tada Isus reèe uèenicima svojijem: ako ko hoæe za mnom iæi, neka se odreèe sebe, i uzme krst svoj i ide za mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Jer ko hoæe svoju dušu da saèuva, izgubiæe je; a ako ko izgubi dušu svoju mene radi, naæi æe je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jer kakva je korist èovjeku ako sav svijet dobije a duši svojoj naudi? ili kakav æe otkup dati èovjek za svoju dušu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jer æe doæi sin èovjeèij u slavi oca svojega s anðelima svojijem, i tada æe se vratiti svakome po djelima njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Zaisto vam kažem: imaju neki meðu ovima što stoje ovdje koji neæe okusiti smrti dok ne vide sina èovjeèijega gdje ide u carstvu svojemu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAT/16.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 16
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/17.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 17
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAT/15.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 15
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

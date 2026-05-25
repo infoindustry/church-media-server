@@ -1,0 +1,279 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GAL",
+    "translationId": "srp_865",
+    "name": "Galaæanima",
+    "commonName": "Galaæanima",
+    "title": "Poslanica Galaæanima",
+    "order": 48,
+    "numberOfChapters": 6,
+    "sha256": "d2e03dd1f5ba486866931bcba765e88c0ce25293c646bda093608473bc41a04d",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GAL/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GAL",
+      "chapter": 1
+    },
+    "lastChapterNumber": 6,
+    "lastChapterApiLink": "/api/srp_865/GAL/6.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GAL",
+      "chapter": 6
+    },
+    "totalNumberOfVerses": 149
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "O nerazumni Galati! ko vas je opèinio da se ne pokoravate istini? Vi, kojima pred oèima bješe napisan Isus Hristos, a sad se meðu vama razape."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ovo jedno hoæu od vas da doznam, ili Duha primiste kroz djela zakona ili kroz èuvenje vjere?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Tako li ste nerazumni? Poèevši Duhom, sad tijelom svršujete?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tako li uzalud postradaste? Kad bi bilo samo uzalud!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Koji vam dakle daje Duha i èini èudesa meðu vama, èini li djelima zakona ili èuvenjem vjere?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Kao što Avraam vjerova Bogu, i primi mu se u pravdu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Poznajte dakle da su oni sinovi Avraamovi koji su od vjere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A pismo vidjevši unapredak da Bog vjerom neznabošce pravda, naprijed objavi Avraamu: u tebi æe se blagosloviti svi neznabošci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tako koji su od vjere, blagosloviæe se s vjernijem Avraamom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer koji su god od djela zakona pod kletvom su, jer je pisano: proklet svaki koji ne ostane u svemu što je napisano u knjizi zakonskoj da èini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A da se zakonom niko ne opravdava pred Bogom, poznato je: jer pravednik od vjere življeæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A zakon nije od vjere; nego èovjek koji to tvori življeæe u tome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Hristos je nas iskupio od kletve zakonske postavši za nas kletva, jer je pisano: proklet svaki koji visi na drvetu:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Da meðu neznabošcima bude blagoslov Avraamov u Hristu Isusu, da obeæanje Duha primimo kroz vjeru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Braæo, po èovjeku govorim, niko èovjeèijega potvrðena zavjeta ne odbacuje niti mu što domeæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Avraamu i sjemenu njegovu reèena biše obeæanja. A ne veli: i sjemenima, kao za mnoga, nego kao za jedno: i sjemenu tvojemu, koje je Hristos."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ovo pak velim: zavjeta, koji je od Boga potvrðen za Hrista, ne odbacuje zakon, koji je postao poslije èetiri stotine i trideset godina, da ukine obeæanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer ako je našljedstvo od zakona, onda veæ nije od obeæanja, a Avraamu obeæanjem darova Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Šta æe dakle zakon? Radi grijeha dodade se dokle doðe sjeme kojemu se obeæa, i postavili su ga anðeli rukom posrednika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ali posrednik nije jednoga; a Bog je jedan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Eda li je dakle zakon protivan obeæanjima Božijim? Bože saèuvaj! Jer da je dan zakon koji može oživljeti, zaista bi od zakona bila pravda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ali pismo zatvori sve pod grijeh, da se obeæanje dade kroz vjeru Isusa Hrista onima koji vjeruju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A prije dolaska vjere bismo pod zakonom èuvani i zatvoreni za vjeru koja se htjela pokazati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Tako nam zakon bi èuvar do Hrista, da se vjerom opravdamo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A kad doðe vjera, veæ nijesmo pod èuvarom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jer ste vi svi sinovi Božiji vjerom Hrista Isusa;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jer koji se god u Hrista krstiste, u Hrista se obukoste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Nema tu Jevrejina ni Grka, nema roba ni gospodara, nema muškoga roda ni ženskoga; jer ste vi svi jedno u Hristu Isusu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A kad ste vi Hristovi, onda ste sjeme Avraamovo, i po obeæanju našljednici."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GAL/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GAL",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GAL/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GAL",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GAL/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GAL",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

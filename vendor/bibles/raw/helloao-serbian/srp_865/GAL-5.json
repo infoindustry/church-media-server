@@ -1,0 +1,258 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GAL",
+    "translationId": "srp_865",
+    "name": "Galaæanima",
+    "commonName": "Galaæanima",
+    "title": "Poslanica Galaæanima",
+    "order": 48,
+    "numberOfChapters": 6,
+    "sha256": "d2e03dd1f5ba486866931bcba765e88c0ce25293c646bda093608473bc41a04d",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GAL/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GAL",
+      "chapter": 1
+    },
+    "lastChapterNumber": 6,
+    "lastChapterApiLink": "/api/srp_865/GAL/6.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GAL",
+      "chapter": 6
+    },
+    "totalNumberOfVerses": 149
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Stojte dakle u slobodi kojom nas Hristos oslobodi, i ne dajte se opet u jaram ropstva uhvatiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Evo ja Pavle kažem vam da ako se obrežete Hristos vam ništa neæe pomoæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A opet svjedoèim svakome èovjeku koji se obrezuje da je dužan sav zakon tvoriti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Izgubiste Hrista, vi koji hoæete zakonom da se opravdate, i otpadoste od blagodati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jer mi duhom èekamo od vjere nad pravde."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer u Hristu Isusu niti što pomaže obrezanje ni neobrezanje, nego vjera, koja kroz ljubav radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Dobro trèaste; ko vam zabrani da se ne pokoravate istini?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "To odvraæanje nije od onoga koji vas pozva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Malo kvasca ukiseli sve tijesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ja se za vas nadam u Gospodu da ništa drugo neæete misliti. A koji vas smeta ponijeæe grijeh, makar ko bio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A ja, braæo, ako još obrezanje propovijedam, zašto me gone? Tako se ukide sablazan krstova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "O da bi otsjeèeni bili oni koji vas kvare!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer ste vi, braæo, na slobodu pozvani: samo da vaša sloboda ne bude na želju tjelesnu, nego iz ljubavi služite jedan drugome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer se sav zakon izvršuje u jednoj rijeèi, to jest: ljubi bližnjega svojega kao sebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ali ako se meðu sobom koljete i jedete, gledajte da jedan drugoga ne istrijebite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Velim pak: po duhu hodite, i želja tjelesnijeh ne izvršujte."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer tijelo želi protiv duha, a duh protiv tijela; a ovo se protivi jedno drugome, da ne èinite ono šta hoæete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ako li vas duh vodi, nijeste pod zakonom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A poznata su djela tjelesna, koja su preljuboèinstvo, kurvarstvo, neèistota, besramnost,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Idolopoklonstvo, èaranja, neprijateljstva, svaðe, pakosti, srdnje, prkosi, raspre, sablazni, jeresi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Zavisti, ubistva, pijanstva, žderanja, i ostala ovakova, za koja vam naprijed kazujem, kao što i kazah naprijed, da oni koji takova èine neæe naslijediti carstva Božijega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A rod je duhovni ljubav, radost, mir, trpljenje, dobrota, milost, vjera,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Krotost, uzdržanje; na to nema zakona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A koji su Hristovi, raspeše tijelo sa slastima i željama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ako u duhu živimo, po duhu i da hodimo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Da ne tražimo lažne slave razdražujuæi jedan drugoga, i zavideæi jedan drugome."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GAL/5.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GAL",
+    "chapter": 5
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GAL/6.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GAL",
+    "chapter": 6
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GAL/4.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GAL",
+    "chapter": 4
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 26
+}

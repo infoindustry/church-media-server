@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "srp_865",
+    "name": "2. Dnevnika",
+    "commonName": "2. Dnevnika",
+    "title": "2. Dnevnika",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "712160a45a7d7fb40ad6e8f55f27c6bc71cf3a3fca70d89afd22674733ec70a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/2CH/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad doðe Rovoam u Jerusalim, sazva dom Judin i Venijaminov, sto i osamdeset tisuæa odabranijeh vojnika, da zavojšte na Izrailja da povrate carstvo Rovoamu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ali doðe rijeè Gospodnja Semaji èovjeku Božijemu govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Kaži Rovoamu sinu Solomunovu caru Judinu i svijem sinovima Izrailjevijem od Jude i Venijamina, i reci:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ovako veli Gospod: ne idite i ne bijte se s braæom svojom, vratite se svak svojoj kuæi, jer sam ja naredio tako da bude. I oni poslušaše rijeè Gospodnju i vratiše se i ne idoše na Jerovoama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I Rovoam sjede u Jerusalimu, i sazida tvrde gradove u zemlji Judinoj;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Sazida Vitlejem i Itam i Tekuju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I Vet-Sur i Sohot i Odolam,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I Gat i Marisu i Zif,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I Adoraim i Lahis i Aziku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I Saraju i Ejalon i Hevron, koji su u zemlji Judinoj i Venijaminovoj tvrdi gradovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A kad utvrdi te gradove, namjesti u njima zapovjednike, i staje za žito i za ulje i za vino,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I u svakom gradu štitova i kopalja, i utvrdi ih jako. Tako njegov bijaše Juda i Venijamin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I sveštenici i Leviti, koji bijahu po svemu Izrailju, sabraše se k njemu iz svijeh krajeva svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer ostaviše Leviti podgraða svoja i dostojanja svoja, i otidoše u Judejsku i u Jerusalim, jer ih otjera Jerovoam i sinovi njegovi da ne vrše službe sveštenièke Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I postavi sebi sveštenike za visine i za ðavole i za teoce, koje naèini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A za njima iz svijeh plemena Izrailjevijeh koji upraviše srce svoje da traže Gospoda Boga Izrailjeva, doðoše u Jerusalim da prinesu žrtvu Gospodu Bogu otaca svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I tako utvrdiše carstvo Judino, i ukrijepiše Rovoama sina Solomunova za tri godine, jer za te tri godine hoðahu putem Davidovijem i Solomunovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A Rovoam se oženi Maeletom kæerju Jerimota sina Davidova i Avihailom kæerju Esijava sina Jesejeva,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Koja mu rodi sinove: Jeusa i Samariju i Zama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A poslije nje oženi se Mahom kæerju Avesalomovom, koja mu rodi Aviju i Ataja i Zivu i Selomita."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A ljubljaše Rovoam Mahu kæer Avesalomovu veæma od svijeh žena svojih i inoèa svojih; jer imaše osamnaest žena i šezdeset inoèa, i rodi dvadeset i osam sinova i šezdeset kæeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I Rovoam postavi Aviju sina Mašina poglavarom i knezom nad braæom njegovom, jer ga šæaše postaviti carem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I mudro radeæi rasturi sve sinove svoje po svijem krajevima Judinijem i Venijaminovijem, po svijem tvrdijem gradovima, i dade im hrane izobila, i dovede im mnogo žena."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CH/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CH/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CH/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

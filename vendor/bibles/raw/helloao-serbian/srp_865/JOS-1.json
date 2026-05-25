@@ -1,0 +1,202 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOS",
+    "translationId": "srp_865",
+    "name": "Isus Navin",
+    "commonName": "Isus Navin",
+    "title": "Isus Navin",
+    "order": 6,
+    "numberOfChapters": 24,
+    "sha256": "ec9d0a794c17ba6296451b87fb16a4d34d8af2bfd446293b00f97a3bbb7257b2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOS/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/JOS/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 658
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A po smrti Mojsija sluge Gospodnjega reèe Gospod Isusu sinu Navinu, sluzi Mojsijevu, govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Mojsije sluga moj umrije; zato sada ustani, prijeði preko toga Jordana ti i sav taj narod u zemlju koju ja dajem sinovima Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Svako mjesto na koje stupite stopama svojim dao sam vam, kao što rekoh Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Od pustinje i od ovoga Livana do rijeke velike, rijeke Efrata, sva zemlja Hetejska do velikoga mora na zapadu, biæe meða vaša."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Niko se neæe održati pred tobom svega vijeka tvojega; s tobom æu biti kao što sam bio s Mojsijem, neæu otstupiti od tebe niti æu te ostaviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Budi slobodan i hrabar, jer æeš ti predati tome narodu u našljedstvo zemlju za koju sam se zakleo ocima njihovijem da æu im je dati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Samo budi slobodan i hrabar da držiš i tvoriš sve po zakonu koji ti je zapovjedio Mojsije sluga moj, ne otstupaj od njega ni nadesno ni nalijevo, da bi napredovao kuda god poðeš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Neka se ne rastavlja od usta tvojih knjiga ovoga zakona, nego razmišljaj o njemu dan i noæ, da držiš i tvoriš sve kako je u njemu napisano; jer æeš tada biti sreæan na putovima svojim i tada æeš napredovati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nijesam li ti zapovjedio: budi slobodan i hrabar? ne boj se i ne plaši se; jer je s tobom Gospod Bog tvoj kuda god ideš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Tada zapovjedi Isus upraviteljima narodnijem govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Proðite kroz oko i zapovjedite narodu govoreæi: spremite sebi brašnjenice; jer æete do tri dana prijeæi preko Jordana da uðete i uzmete zemlju koju vam Gospod Bog vaš daje u našljedstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A plemenu Ruvimovu i Gadovu i polovini plemena Manasijina reèe Isus govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Opomenite se šta vam je zapovjedio Mojsije sluga Gospodnji rekav: Gospod Bog vaš smiri vas i dade vam ovu zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Žene vaše, djeca vaša i stoka vaša neka ostanu u zemlji koju vam dade Mojsije s ovu stranu Jordana; vi pak prijeðite pod oružjem pred braæom svojom, koji ste god za vojsku, i pomozite im,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Dokle ne smiri Gospod i braæu vašu kao vas, i naslijede i oni zemlju koju im daje Gospod Bog vaš; pa se onda vratite na našljedstvo svoje, koje vam je dao Mojsije sluga Gospodnji s ovu stranu Jordana k istoku, i držite ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A oni odgovoriše Isusu govoreæi: što si nam god zapovjedio èiniæemo, i kuda nas god pošlješ iæi æemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Slušaæemo te kako smo slušali Mojsija; samo neka Gospod Bog tvoj bude s tobom kao što je bio s Mojsijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ko bi se protivio tvojoj zapovijesti i ne bi slušao rijeèi tvojih u svemu što mu zapovjediš, neka se pogubi; samo budi slobodan i hrabar."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOS/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOS/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/DEU/34.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "DEU",
+    "chapter": 34
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

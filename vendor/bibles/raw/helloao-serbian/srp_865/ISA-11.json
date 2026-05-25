@@ -1,0 +1,188 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ali æe izaæi šibljika iz stabla Jesejeva, i izdanak iz korijena njegova izniknuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I na njemu æe poèivati duh Gospodnji, duh mudrosti i razuma, duh savjeta i sile, duh znanja i straha Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I mirisanje æe mu biti u strahu Gospodnjem, a neæe suditi po viðenju svojih oèiju, niti æe po èuvenju svojih ušiju karati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Nego æe po pravdi suditi siromasima i po pravici karati krotke u zemlji, i udariæe zemlju prutom usta svojih, i duhom usana svojih ubiæe bezbožnika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I pravda æe mu biti pojas po bedrima, i istina pojas po bocima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I vuk æe boraviti s jagnjetom, i ris æe ležati s jaretom, tele i laviæ i ugojeno živinèe biæe zajedno, i malo dijete vodiæe ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I krava i medvjedica zajedno æe pasti, mlad njihova ležaæe zajedno, i lav æe jesti slamu kao vo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I dijete koje sisa igraæe se nad rupom aspidinom, i dijete odbijeno od sise zavlaèiæe ruku svoju u rupu zmije vasilinske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Neæe uditi ni potirati na svoj svetoj gori mojoj, jer æe zemlja biti puna poznanja Gospodnjega kao more vode što je puno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I u to æe vrijeme za korijen Jesejev, koji æe biti zastava narodima, raspitivati narodi, i poèivalište njegovo biæe slavno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I tada æe Gospod opet podignuti ruku svoju da zadobije ostatak naroda svojega, što ostane od Asirske i od Misira i od Patrosa i od Etiopske i od Elama i od Senara i od Emata i od ostrva morskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I podignuæe zastavu narodima i prognane Izrailjeve i rasijane Judine sabraæe s èetiri kraja zemaljska,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I nestaæe zavisti Jefremove, i neprijatelji Judini istrijebiæe se; Jefrem neæe zavidjeti Judi, a Juda neæe zlobiti Jefremu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Nego æe složno letjeti na pleæa Filistejima k zapadu; zajedno æe plijeniti narode istoène; na Edomce i Moavce dignuæe ruke svoje, i sinovi Amonovi biæe im pokorni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I Gospod æe presušiti zaliv mora Misirskoga, i mahnuæe rukom svojom svrh rijeke sa silnijem vjetrom svojim, i udariæe je po sedam krakova da se može prelaziti u obuæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I biæe put ostatku naroda njegova, što ostane od Asirske, kao što je bio Izrailju kad izide iz zemlje Misirske."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

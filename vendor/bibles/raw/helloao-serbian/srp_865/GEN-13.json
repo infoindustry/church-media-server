@@ -1,0 +1,202 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tako otide Avram iz Misira gore na jug, on i žena mu i sve što imaše, takoðer i Lot s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A bijaše Avram vrlo bogat stokom, srebrom i zlatom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I iðaše svojim putovima od juga sve do Vetilja, do mjesta gdje mu prvo bijaše šator, izmeðu Vetilja i Gaja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Do mjesta, gdje preðe bješe naèinio žrtvenik; i ondje prizva Avram ime Gospodnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A i Lot koji iðaše s Avramom imaše ovaca i goveda i šatora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I zemlja ne mogaše ih nositi zajedno, jer blago njihovo bijaše veliko da ne mogahu živjeti zajedno,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I bijaše svaða meðu pastirima Avramove stoke i pastirima Lotove stoke. A u to vrijeme življahu Hananeji i Ferezeji u onoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Pa Avram reèe Lotu: nemoj da se svaðamo ja i ti, ni moji pastiri i tvoji pastiri; jer smo braæa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nije li ti otvorena cijela zemlja? Odijeli se od mene. Ako æeš ti na lijevo, ja æu na desno; ako li æeš ti na desno, ja æu na lijevo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Tada Lot podiže oèi svoje i sagleda svu ravnicu Jordansku, kako cijelu natapaše rijeka, bješe kao vrt Gospodnji, kao zemlja Misirska, sve do Zogora, prije nego Gospod zatr Sodom i Gomor."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I Lot izabra sebi svu ravnicu Jordansku, i otide Lot na istok; i razdijeliše se jedan od drugoga:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Avram življaše u zemlji Hananskoj, a Lot življaše po gradovima u onoj ravnici premještajuæi svoje šatore do Sodoma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A ljudi u Sodomu bijahu nevaljali, i griješahu Gospodu veoma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Gospod reèe Avramu, pošto se Lot odijeli od njega: podigni sada oèi svoje, pa pogledaj s mjesta gdje si na sjever i na jug i na istok i na zapad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer svu zemlju što vidiš tebi æu dati i sjemenu tvojemu dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I uèiniæu da sjemena tvojega bude kao praha na zemlji; ako ko uzmože izbrojiti prah na zemlji, moæi æe izbrojiti i sjeme tvoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ustani, i prolazi tu zemlju u dužinu i u širinu; jer æu je tebi dati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I Avram diže šatore, i doðe i naseli se u ravnici Mamrijskoj, koja je kod Hevrona, i ondje naèini žrtvenik Gospodu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/13.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 13
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/14.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 14
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/12.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 12
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EPH",
+    "translationId": "srp_865",
+    "name": "Efežanima",
+    "commonName": "Efežanima",
+    "title": "Poslanica Efežanima",
+    "order": 49,
+    "numberOfChapters": 6,
+    "sha256": "7712b8f570a25c75c412d98fb0075a57221e64ee4d6feeff31d8738503a35eaf",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EPH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EPH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 6,
+    "lastChapterApiLink": "/api/srp_865/EPH/6.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EPH",
+      "chapter": 6
+    },
+    "totalNumberOfVerses": 155
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I vas koji bijaste mrtvi za prestupljenja i grijehe svoje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "U kojima nekad hodiste po vijeku ovoga svijeta, po knezu koji vlada u vjetru, po duhu koji sad radi u sinovima protivljenja;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "U kojima i mi svi življesmo negda po željama tijela svojega, èineæi volju tijela i pomisli, i bijasmo roðena djeca gnjeva, kao i ostali;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ali Bog, koji je bogat u milosti, za premnogu ljubav svoju, koju ima k nama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I nas koji bijasmo mrtvi od grijehova oživlje s Hristom blagodaæu ste spaseni"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I s njim vaskrse i posadi na nebesima u Hristu Isusu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Da pokaže u vijekovima koji idu preveliko bogatstvo blagodati svoje dobrotom na nama u Hristu Isusu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer ste blagodaæu spaseni kroz vjeru; i to nije od vas, dar je Božij."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ne od djela, da se niko ne pohvali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer smo njegov posao, sazdani u Hristu Isusu za djela dobra, koja Bog naprijed pripravi da u njima hodimo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zato se opominjite da vi koji ste negda po tijelu neznabošci bili i nazivani neobrezanje od onijeh koji su se zvali po tijelu obrezanje, koje se rukom radilo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Da bijaste u ono vrijeme bez Hrista, odvojeni od društva Izrailjeva, i bez dijela u zavjetima obeæanja, nada ne imajuæi, i bezbožni na svijetu:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A sad u Hristu Isusu, vi koji ste negda bili daleko, blizu postadoste krvlju Hristovom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer je on mir naš, koji oboje sastavi u jedno, i razvali plot koji je rastavljao, neprijateljstvo, tijelom svojijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zakon zapovijesti naukama ukinuvši; da iz oboga naèini sobom jednoga novog èovjeka, èineæi mir;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I da pomiri s Bogom oboje u jednom tijelu krstom, ubivši neprijateljstvo na njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I došavši propovjedi u jevanðelju mir vama daljnima i onima koji su blizu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer on dovede k ocu oboje u jednom duhu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tako dakle više nijeste tuði i došljaci, nego živite sa svetima i domaæi ste Bogu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Nazidani na temelju apostola i proroka, gdje je kamen od ugla sam Isus Hristos,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Na kome sva graðevina sastavljena raste za crkvu svetu u Gospodu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Na kome æete se i vi sazidati za stan Božij u duhu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EPH/2.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EPH",
+    "chapter": 2
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EPH/3.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EPH",
+    "chapter": 3
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EPH/1.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EPH",
+    "chapter": 1
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

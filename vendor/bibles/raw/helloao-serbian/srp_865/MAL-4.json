@@ -1,0 +1,118 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAL",
+    "translationId": "srp_865",
+    "name": "Malahija",
+    "commonName": "Malahija",
+    "title": "Malahija",
+    "order": 39,
+    "numberOfChapters": 4,
+    "sha256": "e9a67c69d6ba2b8b07dfe52fbd04efbc5fc4e1d9f203b5dcec3491895344c38e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAL/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAL",
+      "chapter": 1
+    },
+    "lastChapterNumber": 4,
+    "lastChapterApiLink": "/api/srp_865/MAL/4.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAL",
+      "chapter": 4
+    },
+    "totalNumberOfVerses": 55
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Jer, gle, ide dan, koji gori kao peæ, i svi æe ponositi i svi koji rade bezbožno biti strnjika, i upaliæe ih dan koji ide, veli Gospod nad vojskama, i neæe im ostaviti ni korijena ni grane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A vama, koji se bojite imena mojega, granuæe sunce pravde, i zdravlje æe biti na zracima njegovijem, i izlaziæete i skakaæete kao teoci od jasala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I izgaziæete bezbožnike, jer æe oni biti pepeo pod vašim nogama u dan kad ja uèinim, veli Gospod nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Pamtite zakon Mojsija sluge mojega, kojemu zapovjedih na Horivu za svega Izrailja uredbe i zakone."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Evo, ja æu vam poslati Iliju proroka prije nego doðe veliki i strašni dan Gospodnji;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I on æe obratiti srce otaca k sinovima, i srce sinova k ocima njihovijem, da ne doðem i zatrem zemlju."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAL/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAL",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAL/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAL",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 6
+}

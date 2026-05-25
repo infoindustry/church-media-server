@@ -1,0 +1,363 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MRK",
+    "translationId": "srp_865",
+    "name": "Marku",
+    "commonName": "Marku",
+    "title": "Jevanðelje po Marku",
+    "order": 41,
+    "numberOfChapters": 16,
+    "sha256": "c4e35f7fe68e45b5731573fc03ca93f2cb48eea346a1b1abc79ae9266aa9bd92",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MRK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MRK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/MRK/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MRK",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 678
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I opet poèe uèiti kod mora, i skupiše se oko njega ljudi mnogi tako da mora uæi u laðu, i sjediti na moru; a narod sav bijaše na zemlji kraj mora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I uèaše ih u prièama mnogo, i govoraše im u nauci svojoj:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Slušajte: evo iziðe sijaè da sije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I kad sijaše dogodi se da jedno pade ukraj puta, i doðoše ptice i pozobaše ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A drugo pade na kamenito mjesto gdje ne bijaše mnogo zemlje; i odmah iznièe; jer ne bijaše u dubinu zemlje:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A kad obasja sunce, uvenu, i buduæi da nemaše korijena, usahnu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I drugo pade u trnje; i naraste trnje i udavi ga, i ne donese roda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I drugo pade na zemlju dobru; i davaše rod koji napredovaše i rastijaše i donošaše po trideset i po šeset i po sto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I reèe: ko ima uši da èuje neka èuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A kad osta sam, zapitaše ga koji bijahu s njim i sa dvanaestoricom za ovu prièu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I reèe im: vama je dano da znate tajne carstva Božijega, a onima napolju sve u prièama biva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Da oèima gledaju i da ne vide, i da ušima slušaju i da ne razumiju; da se kako ne obrate i da im se ne oproste grijesi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I reèe im: zar ne razumijete ove prièe? A kako æete sve prièe razumjeti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Sijaè rijeè sije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A ono su kraj puta, gdje se sije rijeè i kad je èuju odmah doðe sotona i otme rijeè posijanu u srcima njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tako su i ono što se sije na kamenitijem mjestima koji kad èuju rijeè odmah je prime s radošæu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ali nemaju korijena u sebi, nego su nepostojani, pa kad bude do nevolje ili ih potjeraju rijeèi radi, odmah se sablazne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A ono su što se u trnju sije koji slušaju rijeè,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ali brige ovoga svijeta i prijevara bogatstva i ostale slasti uðu i zaguše rijeè, i bez roda ostane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A ono su što se na dobroj zemlji sije koji slušaju rijeè i primaju, i donose rod po trideset i po šeset i po sto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I govoraše im: eda li se svijeæa užiže da se metne pod sud ili pod odar? a ne da se na svijetnjak metne?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer nema ništa tajno što neæe biti javno; niti ima što sakriveno što neæe iziæi na vidjelo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ako ima ko uši da èuje neka èuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I govoraše im: pamtite što èujete: kakom mjerom mjerite onakom æe vam se mjeriti i dometnuæe se vama koji slušate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Jer ko ima, daæe mu se; a koji nema, uzeæe mu se i ono što ima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I govoraše im: tako je carstvo Božije kao èovjek kad baci sjeme u zemlju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I spava i ustaje noæu i danju; i sjeme nièe i raste, da ne zna on."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Jer zemlja sama od sebe najprije donese travu, potom klas, pa onda ispuni pšenicu u klasu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A kad sazri rod, odmah pošlje srp; jer nasta žetva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I govoraše: kakvo æemo kazati da je carstvo Božije? ili u kakvoj æemo ga prièi iskazati?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ono je kao zrno gorušièno koje kad se posije u zemlju manje je od sviju sjemena na zemlji;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A kad se posije, uzraste i bude veæe od svega povræa, i pusti grane velike da mogu u njegovu hladu ptice nebeske življeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I takovijem mnogijem prièama kazivaše im rijeè koliko mogahu slušati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A bez prièa ne govoraše im ni rijeèi. A uèenicima osobito kazivaše sve."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I reèe im onaj dan uveèe: hajdemo na onu stranu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I otpustivši narod uzeše ga kako bješe u laði; a i druge laðe bijahu s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I postade velika oluja; i valovi tako zaljevahu u laðu da se veæ napuni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A on na krmi spavaše na uzglavlju; i probudiše ga, i rekoše mu: uèitelju! zar ti ne mariš što ginemo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I ustavši zaprijeti vjetru, i reèe moru: æuti, prestani. I utoli vjetar, i postade tišina velika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I reèe im: zašto ste tako strašljivi? Kako nemate vjere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I uplašiše se vrlo, i govorahu jedan drugome: ko je ovaj dakle da ga i vjetar i more slušaju?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MRK/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MRK/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MRK/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MRK",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 41
+}

@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CO",
+    "translationId": "srp_865",
+    "name": "1 Korinæanima",
+    "commonName": "1 Korinæanima",
+    "title": "1. Korinæanima Poslanica",
+    "order": 46,
+    "numberOfChapters": 16,
+    "sha256": "114ef2323a27d8e2c5bd8d2269293cc5ec228241cba7d2999cf2908b344e5d17",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/1CO/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CO",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 437
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ali neæu vam zatajiti, braæo, da ocevi naši svi pod oblakom biše, i svi kroz more proðoše;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I svi se u Mojsija krstiše u oblaku i moru;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I svi jedno jelo duhovno jedoše;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I svi jedno piæe duhovno piše; jer pijahu od duhovne stijene koja iðaše za njima: a stijena bješe Hristos."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ali mnogi od njih ne bijahu po Božijoj volji, jer biše pobijeni u pustinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A ovo biše ugledi nama, da mi ne želimo zala, kao i oni što želješe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Niti bivajte idolopoklonici, kao neki od njih, kao što stoji napisano: sjedoše ljudi da jedu i da piju, i ustaše da igraju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Niti da se kurvamo, kao neki od njih što se kurvaše, i pade ih u jedan dan dvadeset i tri hiljade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Niti da kušamo Hrista, kao što neki od njih kušaše, i od zmija izgiboše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Niti da vièemo na Boga, kao neki od njih što vikaše, i izgiboše od krvnika."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ovo se pak sve dogaðaše ugledi njima, a napisa se za nauku nama, na koje pošljedak svijeta doðe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer koji misli da stoji neka se èuva da ne padne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Drugo iskušenje ne doðe na vas osim èovjeèijega; ali je vjeran Bog koji vas neæe pustiti da se iskušate veæma nego što možete, nego æe uèiniti s iskušanjem i kraj, da možete podnijeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Zato, ljubazna braæo moja, bjegajte od idolopoklonstva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Kao mudrima govorim; sudite vi šta govorim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Èaša blagoslova koju blagosiljamo nije li zajednica krvi Hristove? Hljeb koji lomimo nije li zajednica tijela Hristova?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer smo jedan hljeb, jedno tijelo mnogi; jer svi u jednome hljebu imamo zajednicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Gledajte Izrailja po tijelu: koji jedu žrtve nijesu li zajednièari oltara?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Šta dakle govorim? da je idol što? ili idolska žrtva da je što?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Nije; nego što žrtvuju neznabošci, da ðavolima žrtvuju, a ne Bogu; a ja neæu da ste vi zajednièari s ðavolima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ne možete piti èaše Gospodnje i èaše ðavolske; ne možete imati zajednice u trpezi Gospodnjoj i u trpezi ðavolskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ili da prkosimo Gospodu? Eda li smo mi jaèi od njega?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Sve mi je slobodno, ali nije sve na korist; sve mi je slobodno, ali sve ne ide na dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Niko da ne gleda što je njegovo, nego svaki da gleda što je drugoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Sve što se prodaje na mesarnici, jedite, i ništa ne ispitujte savjesti radi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jer je Gospodnja zemlja i što je na njoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ako li vas ko od nevjernika pozove, i hoæete iæi, jedite sve što se pred vas donese, i ne premišljajte ništa savjesti radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ako li vam pak ko reèe: ovo je idolska žrtva, ne jedite radi onoga koji vam kaže, i radi savjesti; jer je Gospodnja zemlja i što je na njoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ali ne govorim za savjest tvoju, nego drugoga; jer zašto da moju slobodu sudi savjest drugoga?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ako ja s blagodaæu uživam, zašto da se huli na mene za ono za što ja zahvaljujem?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ako dakle jedete, ako li pijete, ako li što drugo èinite, sve na slavu Božiju èinite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ne budite na sablazan ni Jevrejima, ni Grcima, ni crkvi Božijoj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Kao što i ja u svaèemu svima ugaðam, ne tražeæi svoje koristi nego mnogijeh, da se spasu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CO/10.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 10
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CO/11.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 11
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CO/9.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 9
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

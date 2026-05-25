@@ -1,0 +1,349 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2SA",
+    "translationId": "srp_865",
+    "name": "2. Samuelova",
+    "commonName": "2. Samuelova",
+    "title": "2. Samuelova",
+    "order": 10,
+    "numberOfChapters": 24,
+    "sha256": "e9bcfc863ad7bd2a939eb305126ad735f393202a88f773ac55550249ed219529",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/2SA/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 695
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I dugo bijaše rat izmeðu doma Saulova i doma Davidova; ali David sve veæma jaèaše a dom Saulov postajaše sve slabiji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I Davidu se rodiše sinovi u Hevronu: prvenac mu bješe Amnon od Ahinoame Jezraeljanke;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Drugi bješe Hileav od Avigeje žene Navala Karmilca; treæi Avesalom sin Mahe kæeri Talmaja cara Gesurskoga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Èetvrti Adonija sin Agitin; i peti Sefatija sin Avitalin;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I šesti Itram od Egle žene Davidove. Ti se rodiše Davidu u Hevronu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I dok bijaše rat izmeðu doma Saulova i doma Davidova, Avenir branjaše dom Saulov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Saul imaše inoèu po imenu Resfu kæer Ajinu; i Isvostej reèe Aveniru: zašto si spavao kod inoèe oca mojega?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I Avenir se razgnjevi na rijeèi Isvostejeve i reèe: jesam li ja pasja glava, koji sada èinim na Judi milost domu Saula oca tvojega i braæi njegovoj i prijateljima njegovijem, i nijesam te pustio u ruke Davidove, te danas tražiš na meni zlo radi te žene?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tako neka uèini Bog Aveniru, i tako neka doda, ako ne uèinim Davidu kako mu se Gospod zakleo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Da se prenese ovo carstvo od doma Saulova, i da se utvrdi prijesto Davidov nad Izrailjem i nad Judom, od Dana do Virsaveje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I on ne može više ništa odgovoriti Aveniru, jer ga se bojaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I Avenir posla poslanike k Davidu od sebe i poruèi: èija je zemlja? I poruèi mu: uèini vjeru sa mnom, i evo ruka æe moja biti s tobom, da obratim k tebi svega Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A on odgovori: dobro; ja æu uèiniti vjeru s tobom; ali jedno ištem od tebe, i to: da ne vidiš lica mojega ako mi prvo ne dovedeš Mihalu kæer Saulovu, kad doðeš da vidiš lice moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I posla David poslanike k Isvosteju sinu Saulovu, i poruèi mu: daj mi ženu moju Mihalu, koju isprosih za sto okrajaka Filistejskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I Isvostej posla te je uze od muža, od Faltila, sina Laisova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A muž njezin poðe s njom, i jednako plakaše za njom do Vaurima. Tada mu reèe Avenir: idi, vrati se natrag. I on se vrati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Potom Avenir govori starješinama Izrailjskim, i reèe im: preðe tražiste Davida da bude car nad vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Eto sada uèinite; jer je Gospod rekao za Davida govoreæi: preko Davida sluge svojega izbaviæu narod svoj Izrailja iz ruku Filistejskih i iz ruku svijeh neprijatelja njihovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tako govori Avenir i sinovima Venijaminovijem. Potom otide Avenir i u Hevron da kaže Davidu sve što za dobro naðe Izrailj i sav dom Venijaminov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I kad doðe Avenir k Davidu u Hevron i s njim dvadeset ljudi, uèini David gozbu Aveniru i ljudima koji bijahu s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I reèe Avenir Davidu: da ustanem i idem da skupim k caru gospodaru svojemu sav narod Izrailjev da uèine vjeru s tobom, pa da caruješ kako ti duša želi. I David otpusti Avenira da ide s mirom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A gle, sluge Davidove vraæahu se s Joavom iz boja, i tjerahu sa sobom velik plijen; a Avenir veæ ne bješe kod Davida u Hevronu, jer ga otpusti, te otide s mirom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Joav dakle i sva vojska što bješe s njim doðoše onamo; i javiše Joavu govoreæi: Avenir sin Nirov dolazio je k caru, i on ga otpusti te otide s mirom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I Joav otide k caru i reèe: šta uèini? Gle, Avenir je dolazio k tebi; zašto ga pusti te otide?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Poznaješ li Avenira sina Nirova? dolazio je da te prevari, da vidi kuda hodiš i da dozna sve šta radiš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Potom otišav Joav od Davida posla ljude za Avenirom da ga vrate od studenca Sire, a David ne znadijaše za to."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I kad se vrati Avenir u Hevron, odvede ga Joav na stranu pod vrata kao da govori s njim nasamo; ondje ga udari pod peto rebro, te umrije za krv Asaila brata njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A kad David poslije to èu, reèe: ja nijesam kriv ni carstvo moje pred Gospodom dovijeka za krv Avenira sina Nirova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Neka padne na glavu Joavovu i na sav dom oca njegova; i neka dom Joavov ne bude nikad bez èovjeka bolna od teèenja ili gubava ili koji ide o štapu ili koji padne od maèa ili koji nema hljeba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Tako Joav i Avisaj brat njegov ubiše Avenira što on pogubi Asaila brata njihova kod Gavaona u boju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I reèe David Joavu i svemu narodu koji bijaše s njim: razderite haljine svoje i pripašite kostrijet, i plaèite za Avenirom. I car David iðaše za nosilima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A kad pogreboše Avenira u Hevronu, car podiže glas svoj i plaka na grobu Avenirovu; plaka i sav narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I narièuæi za Avenirom reèe: umrije li Avenir kako umire bezumnik?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ruke tvoje ne biše vezane, niti noge tvoje u okov okovane; pao si kao što se pada od nevaljalijeh ljudi. Tada još veæma plaka za njim sav narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I doðe sav narod nudeæi Davida da jede što, dok još bijaše dan; ali se David zakle i reèe: Bog neka mi uèini tako, i tako neka doda, ako okusim hljeba ili što drugo dok ne zaðe sunce."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I sav narod èu to, i bi im po volji; što god èinjaše car, bješe po volji svemu narodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I pozna sav narod i sav Izrailj u onaj dan da nije bilo od cara što pogibe Avenir sin Nirov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I car reèe slugama svojim: ne znate li da je vojvoda i to veliki poginuo danas u Izrailju?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Ali ja sam sada još slab, ako i jesam pomazani car; a ovi ljudi, sinovi Serujini, vrlo su mi silni. Neka Gospod plati onome koji èini zlo prema zloæi njegovoj."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2SA/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2SA/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2SA/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 39
+}

@@ -1,0 +1,181 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NAM",
+    "translationId": "srp_865",
+    "name": "Naum",
+    "commonName": "Naum",
+    "title": "Naum",
+    "order": 34,
+    "numberOfChapters": 3,
+    "sha256": "21c9e4b977458bf568ba6d0d1abc478b9c4a0e13fb671e4d827b7160e4d067dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NAM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NAM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 3,
+    "lastChapterApiLink": "/api/srp_865/NAM/3.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NAM",
+      "chapter": 3
+    },
+    "totalNumberOfVerses": 47
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Breme Nineviji; knjiga od utvare Nauma Elkošanina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Bog je revnitelj i Gospod je osvetnik; osvetnik je Gospod i gnjevi se; Gospod se sveti protivnicima svojim, i drži gnjev prema neprijateljima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Gospod je spor na gnjev i velike je moæi; ali nikako ne pravda krivca; put je Gospodnji u vihoru i buri, i oblaci su prah od nogu njegovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Zapreæuje moru i isušuje ga, i sve rijeke isušuje, vene Vasan i Karmil, i cvijet Vasanski vene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Gore se tresu od njega, i humovi se rastapaju, a zemlja gori pred njim i vasiljena i sve što živi u njoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Pred gnjevom njegovijem ko æe se održati? i ko æe se oprijeti jarosti gnjeva njegova? jarost se njegova izlijeva kao oganj, i stijene se raspadaju pred njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Dobar je Gospod, grad je u nevolji, i poznaje one koji se uzdaju u nj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ali æe silnom poplavom uèiniti kraj mjestu njezinu, i tama æe goniti neprijatelje njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Šta smišljate Gospodu? on æe uèiniti kraj; neæe se dva puta podignuti pogibao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer kao trnje spleteni i kao od vina pijani proždrijeæe se kao suha slama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Iz tebe je izašao koji smišlja zlo Gospodu, savjetnik nevaljao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ovako veli Gospod: ako i jesu u sili i mnogo ih ima, opet æe se isjeæi i proæi. Muèio sam te, neæu te više muèiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nego æu sada slomiti jaram njegov s tebe, i pokidaæu tvoje okove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ali za tebe zapovjedi Gospod da se ne sije više ime tvoje; iz doma bogova tvojih istrijebiæu likove rezane i livene; naèiniæu ti od njega grob kad budeš prezren."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Eto, na gorama noge onoga koji nosi dobre glase, koji oglašuje mir. Praznuj, Juda, svoje praznike, ispunjaj zavjete svoje, jer zlikovac neæe više prolaziti po tebi; sasvijem se zatro."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NAM/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NAM",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NAM/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NAM",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MIC/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MIC",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 15
+}

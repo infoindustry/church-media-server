@@ -1,0 +1,139 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "HOS",
+    "translationId": "srp_865",
+    "name": "Osija",
+    "commonName": "Osija",
+    "title": "Osija",
+    "order": 28,
+    "numberOfChapters": 14,
+    "sha256": "96d12d7fd5b03440b12eac517f4221cde10131b17f936108cfd90e4f14b267e3",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/HOS/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "HOS",
+      "chapter": 1
+    },
+    "lastChapterNumber": 14,
+    "lastChapterApiLink": "/api/srp_865/HOS/14.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "HOS",
+      "chapter": 14
+    },
+    "totalNumberOfVerses": 197
+  },
+  "chapter": {
+    "number": 14,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Obrati se, Izrailju, ka Gospodu Bogu svojemu, jer si pao svojega radi bezakonja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Uzmite sa sobom rijeèi, i obratite se ka Gospodu; recite mu: oprosti sve bezakonje, i primi dobro; i daæemo žrtve usana svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Asirac nas ne može izbaviti, neæemo jahati na konjma, niti æemo više govoriti djelu ruku svojih: Bože naš; jer u tebe nalazi milost sirota."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Iscijeliæu otpad njihov, ljubiæu ih drage volje; jer æe se gnjev moj odvratiti od njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Biæu kao rosa Izrailju, procvjetaæe kao ljiljan i pustiæe žile svoje kao drveta Livanska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Raširiæe se grane njegove, i ljepota æe mu biti kao u masline i miris kao Livanski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Oni æe se vratiti i sjedjeti pod sjenom njegovijem, raðaæe kao žito i cvjetaæe kao vinova loza; spomen æe mu biti kao vino Livansko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jefreme, šta æe mi više idoli? Ja æu ga uslišiti i gledati; ja æu mu biti kao jela zelena; od mene je tvoj plod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ko je mudar, neka razumije ovo; i razuman neka pozna ovo; jer su pravi putovi Gospodnji, i pravednici æe hoditi po njima, a prestupnici æe pasti na njima."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/HOS/14.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "HOS",
+    "chapter": 14
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOL/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOL",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/HOS/13.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "HOS",
+    "chapter": 13
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 9
+}

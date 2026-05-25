@@ -1,0 +1,342 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A ovo je zakon za žrtvu radi prijestupa; svetinja je nad svetinjama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Na kojem se mjestu kolje žrtva paljenica, na onom neka se kolje i žrtva za prijestup; i krvlju njezinom neka se pokropi oltar ozgo unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A sve salo njezino neka se prinese, i rep i salo što pokriva crijeva,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I oba bubrega, i salo što je na njima i na slabinama, i mrežicu na jetri neka izvadi s bubrezima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I neka zapali to sveštenik na oltaru na žrtvu ognjenu Gospodu; to je žrtva za prijestup."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Svako muško izmeðu sveštenika neka je jede; na svetom mjestu neka se jede; svetinja je nad svetinjama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Žrtva je za prijestup kao žrtva za grijeh, jedan je zakon za obje; koji sveštenik uèini njom oèišæenje, njegova je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A kad sveštenik prinese èiju žrtvu paljenicu, koža od žrtve koju prinese njegova je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I svaki dar peèen u peæi ili zgotovljen u kotliæu ili u tavi, onoga je sveštenika koji ga prinese."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I svaki dar zamiješen s uljem ili suh, svijeh je sinova Aronovijeh, kako jednoga tako drugoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A ovo je zakon za žrtvu zahvalnu, koja se prinese Gospodu:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ako bi je ko prinosio da zahvali, neka prinese na žrtvu zahvalnu kolaèe bez kvasca zamiješene s uljem i pogaèe bez kvasca namazane uljem, i bijeloga brašna popržena s tijem kolaèima zamiješenim s uljem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Osim kolaèa hljeb kiseli neka prinese za prinos svoj sa žrtvom zahvalnom, kojom zahvaljuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I od svega što prinosi neka prinese po jedno za žrtvu podignutu Gospodu; i to æe biti onoga sveštenika koji pokropi krvlju od žrtve zahvalne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A meso od žrtve zahvalne, kojom se zahvaljuje, neka se pojede onaj dan kad se prinese; i neka ne ostaje ništa do jutra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ako li prinese žrtvu radi zavjeta ili od volje, neka se jede onaj dan kad se prinese; ako što ostane, neka se pojede sjutradan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ako li što mesa od te žrtve ostane do treæega dana, neka se sažeže ognjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ako li bi ko treæi dan jeo mesa od žrtve zahvalne, neæe biti ugodan onaj koji je prinio, niti æe mu se ona primiti, nego æe biti mrska, i ko bi je god jeo, nosiæe grijeh svoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I meso koje bi se dotaklo èega neèistoga, da se ne jede, nego neka se sažeže ognjem; a drugo meso može jesti ko je god èist."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A ko bi jeo mesa od žrtve zahvalne prinesene Gospodu, a ne bi bio èist, taj da se istrijebi iz naroda svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I ko se dotakne èega neèistoga, ili neèista èovjeka ili neèista živinèeta, ili kojega mu drago gada neèistoga, pa jede mesa od žrtve zahvalne prinesene Gospodu, taj da se istrijebi iz naroda svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Kaži sinovima Izrailjevim, i reci: ne jedite sala od vola ni od ovce ni od koze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Može se uzeti za svaku potrebu salo od živinèeta koje crkne ili ga zvjerka razdre; ali ga ne jedite;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ko li bi jeo salo od stoke koju prinosi èovjek na žrtvu ognjenu Gospodu, neka se istrijebi iz naroda svojega onaj koji jede."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ni krvi ne jedite u stanovima svojim ni od ptice niti od kojega živinèeta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Svaki koji bi jeo kakovu krv, neka se istrijebi iz naroda svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Opet reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Kaži sinovima Izrailjevim, i reci: ko prinosi žrtvu svoju zahvalnu Gospodu, neka donese Gospodu prinos svoj od žrtve zahvalne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Svojim rukama neka donese što se sažiže Gospodu, salo s grudima neka donese, i grudi neka se obrnu tamo i amo na žrtvu pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A sveštenik neka zapali salo na oltaru, grudi pak nek budu Aronu i sinovima njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I desno pleæe od svojih žrtava zahvalnih podajte svešteniku da bude žrtva podignuta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A koji izmeðu sinova Aronovijeh prinese krv i salo od žrtve zahvalne, njemu neka bude desno pleæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Jer grudi što se obræu i pleæe što se podiže uzeh od sinova Izrailjevih od svijeh njihovijeh žrtava zahvalnih, i dadoh Aronu svešteniku i sinovima njegovijem zakonom vjeènim da se uzimaju od sinova Izrailjevih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "To je pomazanoga Arona i pomazanih sinova njegovijeh od ognjenih žrtava Gospodnjih od dana kad ih dovede da vrše službu sveštenièku Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "To zapovjedi Gospod da im od dana kad ih pomaza daju sinovi Izrailjevi zakonom vjeènim od koljena na koljeno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "To je zakon za žrtvu paljenicu, za dar, za žrtvu radi grijeha i za žrtvu radi prijestupa, i za osveštanje i za žrtvu zahvalnu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Što je Gospod zapovjedio Mojsiju na gori Sinajskoj kad zapovjedi sinovima Izrailjevim u pustinji Sinajskoj da prinose žrtve svoje Gospodu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 38
+}

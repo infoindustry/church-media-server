@@ -1,0 +1,377 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "srp_865",
+    "name": "Luki",
+    "commonName": "Luki",
+    "title": "Jevanðelje po Luki",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "71d24bae001865beafd9dc8b76f8e93d8f927bd8e33391ea4aebbf53673c6a27",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LUK/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/LUK/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LUK",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Kaza im pak i prièu kako se treba svagda moliti Bogu, i ne dati da dotuži,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Govoreæi: u jednome gradu bijaše jedan sudija koji se Boga ne bojaše i ljudi ne stiðaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A u onome gradu bijaše jedna udovica i dolažaše k njemu govoreæi: ne daj me mojemu suparniku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I ne šæadijaše zadugo. A najposlije reèe u sebi: ako se i ne bojim Boga i ljudi ne sramim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "No buduæi da mi dosaðuje ova udovica, odbraniæu je, da mi jednako ne dolazi i ne dosaðuje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tada reèe Gospod: èujte šta govori nepravedni sudija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Akamoli Bog neæe odbraniti izbranijeh svojijeh koji ga mole dan i noæ?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Kažem vam da æe ih odbraniti brzo. Ali sin èovjeèij kad doðe hoæe li naæi vjeru na zemlji?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A i drugima koji mišljahu za sebe da su pravednici i druge uništavahu kaza prièu ovu:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Dva èovjeka uðoše u crkvu da se mole Bogu, jedan farisej a drugi carinik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Farisej stade i moljaše se u sebi ovako: Bože! hvalim te što ja nijesam kao ostali ljudi: hajduci, nepravednici, preljuboèinci, ili kao ovaj carinik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Postim dvaput u nedjelji; dajem desetak od svega što imam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A carinik izdaleka stajaše, i ne šæaše ni oèiju podignuti na nebo, nego bijaše prsi svoje govoreæi: Bože! milostiv budi meni grješnome."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Kažem vam da ovaj otide opravdan kuæi svojoj, a ne onaj. Jer svaki koji se sam podiže poniziæe se; a koji se sam ponižuje podignuæe se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Donošahu k njemu i djecu da ih se dotakne; a kad vidješe uèenici, zaprijetiše im."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Isus dozvavši ih reèe: pustite djecu neka dolaze k meni, i ne branite im; jer je takovijeh carstvo Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I kažem vam zaista: koji ne primi carstva Božijega kao dijete, neæe uæi u njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I zapita ga jedan knez govoreæi: uèitelju blagi! šta da uèinim da naslijedim život vjeèni?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A Isus reèe mu: što me zoveš blagijem? niko nije blag osim jednoga Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Zapovijesti znaš: ne èini preljube; ne ubij; ne ukradi; ne svjedoèi lažno; poštuj oca svojega i mater svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A on reèe: sve sam ovo saèuvao od mladosti svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A kad to èu Isus reèe mu: još ti jedno nedostaje: prodaj sve što imaš i razdaj siromasima; i imaæeš blago na nebu; i hajde za mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A kad on èu to postade žalostan, jer bješe vrlo bogat."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A kad ga vidje Isus gdje postade žalostan, reèe: kako je teško uæi u carstvo Božije onima koji imaju bogatstvo!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Lakše je kamili proæi kroz iglene uši negoli bogatome uæi u carstvo Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A oni koji slušahu rekoše: ko se dakle može spasti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A on reèe: što je u ljudi nemoguæe u Boga je moguæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A Petar reèe: eto mi smo ostavili sve i za tobom idemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A on im reèe: zaista vam kažem: nema nijednoga koji bi ostavio kuæu, ili roditelje, ili braæu, ili sestre, ili ženu, ili djecu carstva radi Božijega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Koji neæe primiti više u ovo vrijeme, i na onome svijetu život vjeèni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Uze pak dvanaestoricu i reèe im: evo idemo gore u Jerusalim, i sve æe se svršiti što su proroci pisali za sina èovjeèijega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Jer æe ga predati neznabošcima, i narugaæe mu se, i ružiæe ga, i popljuvaæe ga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I biæe ga, i ubiæe ga; i treæi dan ustaæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I oni ništa od toga ne razumješe, i besjeda ova bješe od njih sakrivena, i ne razumješe što im se kaza."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A kad se približi k Jerihonu, jedan slijepac sjeðaše kraj puta proseæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "A kad èu narod gdje prolazi zapita: šta je to?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I kazaše mu da Isus Nazareæanin prolazi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I povika govoreæi: Isuse, sine Davidov! pomiluj me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I prijeæahu mu oni što iðahu naprijed da uæuti; a on još više vikaše: sine Davidov! pomiluj me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I Isus stade i zapovjedi da mu ga dovedu; a kad mu se približi, zapita ga"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Govoreæi: šta hoæeš da ti uèinim? A on reèe: Gospode! da progledam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A Isus reèe: progledaj; vjera tvoja pomože ti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I odmah progleda, i poðe za njim hvaleæi Boga. I svi ljudi koji vidješe hvaljahu Boga."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LUK/18.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 18
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LUK/19.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 19
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LUK/17.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LUK",
+    "chapter": 17
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 43
+}

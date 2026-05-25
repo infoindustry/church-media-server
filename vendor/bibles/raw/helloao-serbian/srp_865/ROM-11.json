@@ -1,0 +1,328 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ROM",
+    "translationId": "srp_865",
+    "name": "Rimljanima",
+    "commonName": "Rimljanima",
+    "title": "Poslanica Rimljanima",
+    "order": 45,
+    "numberOfChapters": 16,
+    "sha256": "1fe4947b687992778ed830174635b188e37a5a7f483de9affcbbb4c949cc6571",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ROM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/ROM/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 433
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Govorim dakle: eda li Bog odbaci narod svoj? Bože saèuvaj! Jer sam i ja Izrailjac od sjemena Avraamova od koljena Venijaminova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ne odbaci Bog naroda svojega, koji naprijed pozna. Ili ne znate šta govori pismo za Iliju kako se tuži Bogu na Izrailja govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Gospode! proroke tvoje pobiše i oltare tvoje raskopaše, a ja ostah jedan i traže dušu moju da je izvade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A šta mu govori Božij odgovor? Ostavih sebi sedam hiljada ljudi koji ne prekloniše koljena pred Vaalom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Tako dakle i u sadašnje vrijeme ostatak bi po izboru blagodati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ako li je po blagodati, onda nije od djela, jer blagodat veæ ne bi bila blagodat; ako li je od djela nije više blagodat, jer djelo veæ ne bi bilo djelo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Šta dakle? Šta iskaše Izrailj ono ne dobi; a izbor dobi; ostali pak zaslijepiše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Kao što je napisano: dade im Bog duha neosjetljivoga, oèi da ne vide, i uši da ne èuju do samoga današnjega dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I David govori: da bude trpeza njihova zamka i gvožða, i sablazan i plata njima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Da se njihove oèi zaslijepe da ne vide, i leða njihova jednako da su pognuta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Govorim dakle: eda li se spotakoše da padnu? Bože saèuvaj! Nego je njihova pogrješka spasenje neznabošcima, da bi se i oni razdražili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A kad je pogrješka njihova bogatstvo svijetu i šteta njihova bogatstvo neznabošcima, akamoli da se ispune?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer vama govorim neznabošcima; jer, buduæi da sam ja apostol neznabožaca, hoæu da hvalim svoju službu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ne bih li kako razdražio svoj rod, i spasao koga od njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer kad je odmet njihov primirenje svijetu, šta bi bilo primljenje, osim život iz mrtvijeh?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ako je kvasac svet, to je i tijesto; i ako je korijen svet, to su i grane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ako li se neke od grana odlomiše, i ti, koji si divlja maslina, pricijepio si se na njih, i postao si zajednièar u korijenu i u masti od masline;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ne hvali se granama; ako li se pak hvališ, ne nosiš ti korijena nego korijen tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A reæi æeš: odlomiše se grane da se ja pricijepim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Dobro! nevjerstvom odlomiše se, a ti vjerom stojiš; ne ponosi se, nego se boj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer kad Bog roðenijeh grana ne poštedje, da i tebe kako ne nepoštedi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Gledaj dakle dobrotu i nepošteðenje Božije: nepošteðenje na onima što otpadoše, a na sebi dobrotu Božiju, ako ostaneš u dobroti; ako li pak ne, i ti æeš biti otsjeèen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A i oni, ako ne ostanu u nevjerstvu, pricijepiæe se; jer ih je Bog kadar opet pricijepiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Jer kad si ti otsjeèen od roðene divlje masline, i pricijepio se na neroðenu pitomu maslinu; akamoli ovi koji æe se pricijepiti na roðenu svoju maslinu!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Jer vam, braæo, neæu zatajiti tajne ove da ne budete ponositi da šljepota Izrailju pade u dijel dokle ne uðe neznabožaca koliko treba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I tako æe se spasti sav Izrailj, kao što je napisano: doæi æe od Siona izbavitelj i odvratiæe bezbožnost od Jakova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I ovo im je moj zavjet kad otmem njihove grijehe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Po jevanðelju dakle neprijatelji su vas radi; a po izboru ljubazni su otaca radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Jer se Bog neæe raskajati za svoje darove i zvanje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Jer kao i vi što se nekad suproæaste Bogu a sad biste pomilovani njihovoga radi suproæenja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Tako i oni sad ne htješe da vjeruju vašega radi pomilovanja da bi i oni bili pomilovani."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Jer Bog zatvori sve u nevjerstvo, da sve pomiluje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "O dubino bogatstva i premudrosti i razuma Božijega! kako su neispitljivi njegovi sudovi i neistražljivi njegovi putovi!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Jer ko pozna misao Gospodnju?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ili ko mu bi savjetnik? Ili ko mu naprijed dade što, da mu se vrati?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Jer je od njega i kroz njega i u njemu sve. Njemu slava vavijek. Amin."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ROM/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ROM/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ROM/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 36
+}

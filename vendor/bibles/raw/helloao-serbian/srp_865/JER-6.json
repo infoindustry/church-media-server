@@ -1,0 +1,286 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_865",
+    "name": "Jeremija",
+    "commonName": "Jeremija",
+    "title": "Jeremija",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "c7ab71738337d78d0cac1a6cb335a1f75f35dcbbbf9234379102b6dfdcc7e5c6",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JER/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 1
+    },
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_865/JER/52.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JER",
+      "chapter": 52
+    },
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Skupite se iz Jerusalima, sinovi Venijaminovi, i u Tekuji zatrubite u trubu, i podignite znak ognjen nad Vet-Akeremom, jer se vidi zlo od sjevera i velika pogibao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Uèinih kæer Sionsku da je kao lijepa i nježna djevojka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "K njoj æe doæi pastiri sa stadima svojim, razapeæe oko nje šatore, svaki æe opasti svoje mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Spremite rat na nju, ustanite da udarimo u podne. Teško nama, jer dan naže, i sjenke veèernje oduljaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ustanite da udarimo obnoæ i razvalimo dvorove njezine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer ovako govori Gospod nad vojskama: sijecite drva, i naèinite opkope prema Jerusalimu; to je grad koji treba pohoditi; koliki je god, nasilje je u njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Kao što izvor toèi vodu svoju, tako on toèi zloæu svoju; nasilje i otimanje èuje se u njemu, preda mnom su jednako bolovi i rane."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Popravi se, Jerusalime, da se ne otrgne duša moja od tebe, da te ne obratim u pustinju, u zemlju gdje se ne živi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ovako govori Gospod nad vojskama: ostatak æe se Izrailjev pabirèiti kao vinova loza. Turaj ruku svoju kao beraè u kotarice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Kome æu govoriti i svjedoèiti da èuju? Gle, uho im je neobrezano, te ne mogu èuti; gle, rijeè je Gospodnja njima potsmijeh, nije im mila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zato sam pun gnjeva Gospodnjega; iznemogoh ustežuæi ga; prosuæu ga na djecu po ulicama i na sabrane mladiæe, i èovjek i žena uhvatiæe se, i stari i vremeniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I kuæe æe njihove pripasti drugima, i njive i žene, kad mahnem rukom svojom na stanovnike ove zemlje, veli Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jer od maloga do velikoga svi se dadoše na lakomstvo, i prorok i sveštenik, svi su varalice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I lijeèe rane kæeri naroda mojega ovlaš, govoreæi: mir, mir; a mira nema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Eda li se postidješe što èiniše gad? Niti se postidješe niti znaju za stid; zato æe popadati meðu onima koji padaju; kad ih pohodim, popadaæe, veli Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Gospod reèe ovako: stanite na putovima i pogledajte, i pitajte za stare staze, koji je put dobar, pa idite po njemu, i naæi æete mir duši svojoj. A oni rekoše: neæemo da idemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I postavih vam stražare govoreæi: pazite na glas trubni. A oni rekoše: neæemo da pazimo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Zato èujte, narodi, i poznaj, zbore, što je meðu njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Èuj, zemljo! evo ja æu pustiti zlo na ovaj narod, plod misli njihovijeh, jer ne paze na moje rijeèi, i odbaciše zakon moj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Što æe mi tamjan, što dolazi iz Save, i dobri cimet iz daleke zemlje? Žrtve vaše paljenice nijesu mi ugodne, niti su mi prinosi vaši mili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Zato ovako govori Gospod: evo ja æu metnuti ovom narodu smetnje, o koje æe se spotaæi i ocevi i sinovi, susjed i prijatelj mu, i poginuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ovako govori Gospod: evo narod æe doæi iz zemlje sjeverne, i velik æe narod ustati od krajeva zemaljskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Luk i koplje nosiæe, žestoki æe biti i nemilostivi, glas æe im buèati kao more, i jahaæe na konjma, spremni kao junaci da se biju s tobom, kæeri Sionska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Kad èujemo glas o njemu, klonuæe nam ruke, tuga æe nas spopasti i bolovi kao porodilju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ne izlazite u polje, i putem ne idite, jer je maè neprijateljev i strah unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Kæeri naroda mojega, pripaši kostrijet i valjaj se u pepelu, žali kao za sinom jedincem i ridaj gorko, jer æe brzo doæi na nas zatiraè."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Postavih te da si stražara i grad narodu mom da doznaješ i izviðaš put njihov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Svi su odmetnici nad odmetnicima, idu te opadaju, mjed su i gvožðe, svi su pokvareni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Izgorješe mjehovi, oganj sažeže olovo, uzalud se pretapa, jer se zla ne mogu odluèiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Oni æe se zvati srebro lažno, jer ih Gospod odbaci."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JER/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JER/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JER/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JER",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 30
+}

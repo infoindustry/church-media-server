@@ -1,0 +1,153 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "srp_865",
+    "name": "2. Dnevnika",
+    "commonName": "2. Dnevnika",
+    "title": "2. Dnevnika",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "712160a45a7d7fb40ad6e8f55f27c6bc71cf3a3fca70d89afd22674733ec70a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/2CH/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 19,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad se Josafat car Judin vraæaše s mirom kuæi svojoj u Jerusalim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Izide preda nj Juj sin Ananijev, vidjelac, i reèe Josafatu: bezbožniku li pomažeš, i one koji mrze na Gospoda ljubiš? zato se podigao na te gnjev Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ali se našlo dobra na tebi što si istrijebio lugove iz zemlje i što si upravio srce svoje da tražiš Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Potom Josafat sjeðaše u Jerusalimu, i opet proðe po narodu od Virsaveje do gore Jefremove, i povrati ih ka Gospodu Bogu otaca njihovijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I postavi sudije u zemlji po svijem tvrdijem gradovima Judinijem, u svakom gradu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I reèe sudijama: gledajte šta æete raditi, jer neæete suditi za èovjeka nego za Gospoda, koji je s vama kad sudite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zato neka bude strah Gospodnji u vama; pazite i radite, jer u Gospoda Boga našega nema nepravde, niti gleda ko je ko, niti prima poklona."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Takoðer i u Jerusalimu postavi Josafat od Levita i sveštenika i glavara domova otaèkih u Izrailju za sudove Gospodnje i za raspre; jer dolažahu opet u Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I zapovjedi im govoreæi: tako radite u strahu Gospodnjem, vjerno i cijela srca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I u svakoj parnici koja doðe k vama od braæe vaše što sjede po gradovima svojim, da rasudite izmeðu krvi i krvi, izmeðu zakona i zapovijesti, izmeðu uredaba i sudova, obavijestite ih da ne bi griješili Gospodu, da ne bi došao gnjev njegov na vas i na braæu vašu; tako èinite, te neæete zgriješiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I evo, Amarija poglavar sveštenièki biæe nad vama u svijem poslovima Gospodnjim, a Zavdija sin Ismailov voð doma Judina u svijem poslovima carskim; takoðer Leviti upravitelji biæe uz vas. Budite slobodni, i radite, i Gospod æe biti s dobrijem."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CH/19.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 19
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CH/20.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 20
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CH/18.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 18
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 11
+}

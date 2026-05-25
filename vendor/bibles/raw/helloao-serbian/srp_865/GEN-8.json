@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Bog se opomenu Noja i svijeh zvijeri i sve stoke što bjehu s njim u kovèegu; i posla Bog vjetar na zemlju da uzbije vodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I zatvoriše se izvori bezdanu i ustave nebeske, i dažd s neba prestade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I stade voda opadati na zemlji, i jednako opadaše poslije sto i pedeset dana;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Te se ustavi kovèeg sedmoga mjeseca dana sedamnaestoga na planini Araratu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I voda opadaše sve veæma do desetoga mjeseca; i prvoga dana desetoga mjeseca pokazaše se vrhovi od brda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A poslije èetrdeset dana otvori Noje prozor na kovèegu, koji bješe naèinio;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I ispusti gavrana, koji jednako odlijetaše i dolijetaše dokle ne presahnu voda na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Pa pusti i golubicu da bi vidio je li opala voda sa zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A golubica ne našavši gdje bi stala nogom svojom vrati se k njemu u kovèeg, jer još bješe voda po svoj zemlji; i Noje pruživši ruku uhvati je i uze k sebi u kovèeg."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I poèeka još sedam dana, pa opet ispusti golubicu iz kovèega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I pred veèe vrati se k njemu golubica, i gle, u kljunu joj list maslinov, koji bješe otkinula; tako pozna Noje da je opala voda sa zemlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ali poèeka još sedam dana, pa opet ispusti golubicu, a ona mu se više ne vrati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Šest stotina prve godine vijeka Nojeva prvi dan prvoga mjeseca usahnu voda na zemlji; i Noje otkri krov na kovèegu, i ugleda zemlju suhu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A drugoga mjeseca dvadeset sedmoga dana bješe sva zemlja suha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tada reèe Bog Noju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Izidi iz kovèega ti i žena tvoja i sinovi tvoji i žene sinova tvojih s tobom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Sve zvijeri što su s tobom od svakoga tijela, ptice i stoku i što god gamiže po zemlji, izvedi sa sobom, neka se raziðu po zemlji, i neka se plode i množe na zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I izide Noje i sinovi njegovi i žena njegova i žene sinova njegovijeh s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Sve zvijeri, sve sitne životinje, sve ptice i sve što se mièe po zemlji po svojim vrstama izidoše iz kovèega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I naèini Noje žrtvenik Gospodu, i uze od svake èiste stoke i od svijeh ptica èistijeh, i prinese na žrtveniku žrtve paljenice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I Gospod omirisa miris ugodni, i reèe u srcu svojem: neæu više kleti zemlje s ljudi, što je misao srca èovjeèijega zla od malena; niti æu više ubijati svega što živi, kao što uèinih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Otsele dokle bude zemlje, neæe nestajati sjetve ni žetve, studeni ni vruæine, ljeta ni zime, dana ni noæi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/8.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 8
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/9.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 9
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/7.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 7
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

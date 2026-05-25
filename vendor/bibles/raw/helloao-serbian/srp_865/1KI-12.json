@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1KI",
+    "translationId": "srp_865",
+    "name": "1. Kraljevima",
+    "commonName": "1. Kraljevima",
+    "title": "1. Kraljevima",
+    "order": 11,
+    "numberOfChapters": 22,
+    "sha256": "876ee89adf3ca9c88149d73fc7a5fe2947fa3921a637898e9d808d4c90bad1b4",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1KI/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1KI",
+      "chapter": 1
+    },
+    "lastChapterNumber": 22,
+    "lastChapterApiLink": "/api/srp_865/1KI/22.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1KI",
+      "chapter": 22
+    },
+    "totalNumberOfVerses": 817
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada otide Rovoam u Sihem: jer se ondje skupi sav Izrailj da ga zacare."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A Jerovoam sin Navatov, koji još bijaše u Misiru pobjegavši onamo od cara Solomuna, kad èu, on još osta u Misiru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ali poslaše i dozvaše ga. Tako Jerovoam i sav zbor Izrailjev doðoše i rekoše Rovoamu govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tvoj je otac metnuo na nas težak jaram; nego ti sada olakšaj ljutu službu oca svojega i teški jaram koji je metnuo na nas, pak æemo ti služiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A on im reèe: idite, pa do tri dana doðite opet k meni. I narod otide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tada car Rovoam uèini vijeæe sa starcima koji stajaše pred Solomunom ocem njegovijem dok bijaše živ, i reèe: kako svjetujete da odgovorim narodu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A oni mu odgovoriše govoreæi: ako danas ugodiš narodu i poslušaš ih i odgovoriš im lijepijem rijeèima, oni æe ti biti sluge svagda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ali on ostavi svjet što ga svjetovaše starci, i uèini vijeæe s mladiæima, koji odrastoše s njim i koji stajahu pred njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I reèe im: šta vi svjetujete da odgovorimo narodu, koji mi rekoše govoreæi: olakšaj jaram koji je metnuo na nas tvoj otac?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Tada mu odgovoriše mladiæi koji odrastoše s njim, i rekoše: ovako kaži narodu što ti reèe: tvoj je otac metnuo na nas težak jaram, nego nam ti olakšaj; ovako im reci: moj je mali prst deblji od bedara oca mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Otac je moj metnuo na vas težak jaram, a ja æu još dometnuti na vaš jaram; otac vas je moj šibao bièevima, a ja æu vas šibati bodljivijem bièevima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A treæi dan doðe Jerovoam i sav narod k Rovoamu, kako im bješe kazao car rekavši: doðite opet k meni do tri dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I car odgovori oštro narodu ostavivši svjet što ga svjetovaše starci;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I reèe im kako ga svjetovaše mladiæi govoreæi: moj je otac metnuo na vas težak jaram, a ja æu još dometnuti na jaram vaš; otac vas je moj šibao bièevima, a ja æu vas šibati bodljivijem bièevima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I car ogluši se naroda, jer Gospod bješe tako uredio da bi potvrdio rijeè svoju što je rekao preko Ahije Silomljanina Jerovoamu sinu Navatovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A kad vidje sav Izrailj gdje ih se car ogluši, odgovori narod caru govoreæi: kakav dio mi imamo s Davidom? nemamo našljedstva sa sinom Jesejevijem. U šatore svoje, Izrailju! a ti Davide, sad gledaj svoju kuæu. Tako otide Izrailj u šatore svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Samo nad sinovima Izrailjevijem, koji življahu po gradovima Judinijem, zacari se Rovoam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I car Rovoam posla Adorama koji bijaše nad dankom; ali ga sav Izrailj zasu kamenjem, te pogibe; a car Rovoam brže sjede na kola, te pobježe u Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Tako otpade Izrailj od doma Davidova do današnjega dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I kad èu sav Izrailj da se vratio Jerovoam, poslavši dozvaše ga na skupštinu, i postaviše ga carem nad svijem Izrailjem. Ne prista za domom Davidovijem nijedno pleme osim samoga plemena Judina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A Rovoam došav u Jerusalim sazva sav dom Judin i pleme Venijaminovo, sto i osamdeset tisuæa odabranijeh vojnika, da zavojšte na dom Izrailjev da povrate carstvo Rovoamu sinu Solomunovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ali doðe rijeè Božja Semeju, èovjeku Božijemu, govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Kaži Rovoamu sinu Solomunovu caru Judinu i svemu domu Judinu i Venijaminovu i ostalome narodu, i reci:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ovako veli Gospod: ne idite, i ne bijte se s braæom svojom, sinovima Izrailjevijem; vratite se svak svojoj kuæi, jer sam ja naredio tako da bude. I oni poslušaše rijeè Gospodnju i vrativši se otidoše kako Gospod reèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Potom sazida Jerovoam Sihem u gori Jefremovoj i naseli se u njemu; a poslije otide odande i sazida Fanuil."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I reèe Jerovoam u srcu svom: može se carstvo povratiti domu Davidovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ako ovaj narod stane iæi u Jerusalim da prinosi žrtve u domu Gospodnjem, srce æe se narodu obratiti ka gospodaru njegovu Rovoamu caru Judinu, te æe me ubiti, i povratiæe se k Rovoamu caru Judinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Zato car smisli, te naèini dva teleta od zlata, pa reèe narodu: ne treba više da idete u Jerusalim; evo bogova tvojih, Izrailju, koji su te izveli iz zemlje Misirske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I namjesti jedno u Vetilju a drugo namjesti u Danu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I to bi na grijeh, jer narod iðaše k jednome do Dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I naèini kuæu na visini, i postavi sveštenike od prostoga naroda koji ne bijahu od sinova Levijevih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I uèini Jerovoam praznik osmoga mjeseca petnaestoga dana, kao što je praznik u zemlji Judinoj, i prinese žrtve na oltaru; tako uèini i u Vetilju prinoseæi žrtve teocima koje naèini; i postavi u Vetilju sveštenike visinama koje naèini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I petnaestoga dana osmoga mjeseca, koji bješe smislio u srcu svom, prinošaše žrtve na oltaru koji naèini u Vetilju, i praznovaše praznik sa sinovima Izrailjevijem, i pristupi k oltaru da kadi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1KI/12.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1KI",
+    "chapter": 12
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1KI/13.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1KI",
+    "chapter": 13
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1KI/11.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1KI",
+    "chapter": 11
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

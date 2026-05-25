@@ -1,0 +1,356 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 21,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I kad bi te se odvezosmo otrgnuvši se od njih, iduæi pravo doðosmo u Ko, i drugi dan u Rod i odande u Pataru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I našavši laðu koja polazi u Finikiju, uðosmo i odvezosmo se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A kad nam se ukaza Kipar, ostavismo ga nalijevo, i plovljasmo u Siriju, i stadosmo u Tiru; jer ondje valjaše da se istovari laða."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I našavši uèenike ostasmo ondje sedam dana: oni Pavlu govorahu Duhom da ne ide gore u Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A kad bi te mi dane navršismo, izišavši iðasmo, i praæahu nas svi sa ženama i djecom do iza grada, i kleknuvši na brijegu pomolismo se Bogu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I oprostivši se jedan s drugijem uðosmo u laðu; a oni se vratiše svojijem kuæama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A mi poèevši plovljenje od Tira, doðosmo u Ptolemaidu; i pozdravivši se s braæom ostasmo kod njih jedan dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A sjutradan pošavši Pavle i koji bijasmo s njim doðosmo u Æesariju; i ušavši u kuæu Filipa jevanðelista, koji bješe jedan od sedam ðakona, ostasmo u njega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I ovaj imaše èetiri kæeri djevojke koje proricahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Stojeæi mi pak ondje mnogo dana, doðe odozgo iz Judeje jedan prorok, po imenu Agav;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I došavši k nama uze pojas Pavlov i svezavši svoje ruke i noge reèe: tako veli Duh sveti: èovjeka kojega je ovaj pojas, ovako æe ga svezati u Jerusalimu Jevreji, i predaæe ga u ruke neznabožaca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I kad èusmo ovo, molismo i mi i ondašnji da ne ide gore u Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A Pavle odgovori i reèe: šta èinite te plaèete i cijepate mi srce? Jer ja ne samo svezan biti hoæu, nego i umrijeti u Jerusalimu gotov sam za ime Gospoda Isusa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A kad ga ne mogasmo odvratiti, umukosmo rekavši: volja Božija neka bude."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A poslije ovijeh dana spremivši se iziðosmo u Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A doðoše s nama i neki uèenici iz Æesarije vodeæi sa sobom nekoga Mnasona iz Kipra, staroga uèenika, u kojega bismo mi stajali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I kad doðosmo u Jerusalim, primiše nas braæa ljubazno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A sjutradan otide Pavle s nama k Jakovu, i doðoše sve starješine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I pozdravivši se s njima kazivaše sve redom šta uèini Bog u neznabošcima njegovom službom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A oni èuvši hvaljahu Boga i rekoše mu: vidiš li, brate! koliko je hiljada Jevreja koji vjerovaše, i svi teže na stari zakon."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A doznali su za tebe da uèiš otpadanju od zakona Mojsijeva sve Jevreje koji žive meðu neznabošcima, kazujuæi da im ne treba obrezivati djece svoje, niti držati obièaja otaèkijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Šta æemo dakle sad? narod æe se sabrati jamaèno; jer æe èuti da si došao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ovo dakle uèini što ti reèemo: u nas imaju èetiri èovjeka koji su se zavjetovali Bogu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ove uzmi i oèisti se s njima, i potroši na njih neka ostrigu glave svoje, i svi æe doznati da ono što su èuli za tebe ništa nije, nego da i sam držiš zakon i živiš po njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A za neznabošce koji vjerovaše mi poslasmo presudivši da oni takovo ništa ne drže osim da se èuvaju od priloga idolskijeh, i od krvi, i od udavljenoga, i od kurvarstva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Tada Pavle uze one ljude, i sjutradan oèistivši se s njima, uðe u crkvu, i pokaza kako izvršuje dane oèišæenja dokle se ne prinese žrtva za svakoga njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A kad šæaše da se navrši sedam dana, vidjevši ga u crkvi oni Jevreji što bijahu iz Azije, pobuniše sav narod, i metnuše ruke na nj"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Vièuæi: pomagajte, ljudi Izrailjci! ovo je èovjek koji protiv naroda i zakona i protiv ovoga mjesta uèi sve svuda; pa još i Grke uvede u crkvu i opogani sveto mjesto ovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Jer bijahu vidjeli s njim u gradu Trofima iz Efesa, kojega mišljahu da je uveo Pavle u crkvu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I sav se grad podiže, i navali narod sa sviju strana, i uhvativši Pavla vucijahu ga napolje iz crkve; i odmah se zatvoriše vrata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A kad šæahu da ga ubiju, doðe glas gore k vojvodi od èete da se pobuni sav Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A on odmah uzevši vojnike i kapetane dotrèa na njih. A oni vidjevši vojvodu i vojnike prestaše biti Pavla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A vojvoda pristupivši uze ga, i zapovjedi da ga metnu u dvoje verige, i pitaše ko je i šta je uèinio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A jedan vikaše jedno, a drugi drugo po narodu. A kad ne može od bune ništa da razumije upravo, zapovjedi da ga odvedu u oko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A kad bi na basamacima, moraše ga vojnici nositi sile radi naroda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Jer za njim prista mnoštvo naroda koji vikahu: pogubi ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A kad šæaše Pavle da uðe u oko, reèe vojvodi: je li mi slobodno govoriti što tebi? A on reèe: zar umiješ Grèki?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Nijesi li ti Misirac koji prije ovijeh dana podbuni i izvede u pustinju èetiri hiljade hajduka?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A Pavle reèe: ja sam èovjek Jevrejin iz Tarsa, graðanin poznatoga grada u Kilikiji: nego te molim dopusti mi da govorim k narodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A kad mu dopusti, stade Pavle na basamacima i mahnu rukom na narod; i kad posta velika tišina progovori Jevrejskim jezikom govoreæi:"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/21.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 21
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ACT/22.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 22
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/20.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 20
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 40
+}

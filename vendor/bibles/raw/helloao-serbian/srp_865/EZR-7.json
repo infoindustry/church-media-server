@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EZR",
+    "translationId": "srp_865",
+    "name": "Ezra",
+    "commonName": "Ezra",
+    "title": "Ezra",
+    "order": 15,
+    "numberOfChapters": 10,
+    "sha256": "bf548715db2388dddb04c845f0fa124e883e80ef31b6aa8bdd1683312fc367c1",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EZR/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZR",
+      "chapter": 1
+    },
+    "lastChapterNumber": 10,
+    "lastChapterApiLink": "/api/srp_865/EZR/10.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EZR",
+      "chapter": 10
+    },
+    "totalNumberOfVerses": 280
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A poslije ovijeh stvari za carovanja Artakserksa cara Persijskoga Jezdra, sin Seraje sina Azarije, sina Helkije,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Sina Saluma, sina Sadoka, sina Ahitova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Sina Amarije, sina Azarije, sina Merajota,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Sina Zeraje, sina Ozije, sina Vukija,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Sina Avisuje, sina Finesa, sina Eleazara, sina Arona poglavara sveštenièkoga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Taj Jezdra vrati se iz Vavilonske, a bijaše književnik vješt zakonu Mojsijevu, koji dade Gospod Bog Izrailjev, i car mu dade sve što zaiska, jer ruka Gospoda Boga njegova bijaše nad njim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I vratiše se u Jerusalim neki sinovi Izrailjevi i sveštenici i Leviti i pjevaèi i vratari i Netineji sedme godine cara Artakserksa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A doðe u Jerusalim petoga mjeseca sedme godine toga cara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer prvoga dana prvoga mjeseca poðe iz Vavilonske, a prvoga dana petoga mjeseca doðe u Jerusalim, jer dobra ruka Boga njegova bješe nad njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer Jezdra bješe upravio srce svoje da istražuje zakon Gospodnji i da ga izvršuje i da uèi Izrailja uredbama i zakonima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A ovo je prijepis od knjige koju dade car Artakserkso Jezdri svešteniku književniku vještomu stvarima što je zapovjedio Gospod i uredbama njegovijem u Izrailju:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Artakserkso car nad carevima Jezdri svešteniku, književniku vještomu u zakonu Boga nebeskoga, svako dobro; tada i tada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ja zapovijedam: ko god u mom carstvu od naroda Izrailjeva i od sveštenika njegovijeh i Levita hoæe od svoje volje da ide s tobom u Jerusalim, nek ide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer se šalješ od cara i od sedam savjetnika njegovijeh da nadgledaš Judeju i Jerusalim po zakonu Boga svojega koji ti je u ruku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I da odneseš srebro i zlato što car i savjetnici njegovi dragovoljno prinose Bogu Izrailjevu, kojemu je stan u Jerusalimu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I sve srebro i zlato što nakupiš u svoj zemlji Vavilonskoj s dragovoljnijem prilozima koje narod i sveštenici dragovoljno prilože na dom Boga svojega u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Pa odmah za te novce kupi junaca i ovnova i jaganjaca s darovima njihovijem i naljevima njihovijem, i prinesi ih na oltaru doma Boga vašega u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I što se tebi i braæi tvojoj svidi uèiniti s ostalijem srebrom i zlatom, uèinite po volji Boga svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I sudove koji su ti dati za službu u domu Boga tvojega, ostavi pred Bogom u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I što bi još trebalo domu Boga tvojega, te bi valjalo dati, podaj iz carske riznice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I još zapovijedam ja car Artakserkso svijem riznièarima s one strane rijeke, da što god zaište od vas Jezdra sveštenik, književnik vješti zakonu Boga nebeskoga, odmah da se uèini,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Do sto talanata srebra i do sto kora pšenice i do sto vata vina i do sto vata ulja, a soli bez mjere,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Što god zapovjedi Bog nebeski, odmah da se uèini za dom Boga nebeskoga, da ne doðe gnjev na carstvo, na cara i na sinove njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I još vam javljamo da se ni od jednoga izmeðu sveštenika i Levita i pjevaèa i vratara i Netineja i drugih sluga toga doma Božijega ne smije uzimati danak ni poreza ni carina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A ti, Jezdra, po mudrosti Boga svojega koja ti je data postavi upravitelje i sudije da sude svemu narodu što je s one strane rijeke izmeðu svijeh koji znadu zakon Boga tvojega, i ko ne zna, uèite ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A ko ne bi izvršivao zakona Boga tvojega i zakona careva, odmah da mu se sudi, bilo da se pogubi ili da se progna ili da se oglobi ili da se baci u tamnicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Blagosloven da je Gospod Bog otaca naših, koji dade to caru u srce da ukrasi dom Gospodnji u Jerusalimu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I dade mi, te naðoh milost pred carem i savjetnicima njegovijem i pred svijem silnijem knezovima carevijem. I ja se oslobodih, jer ruka Gospoda Boga mojega bješe nada mnom, i skupih glavare iz Izrailja da idu sa mnom."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EZR/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EZR/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EZR/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EZR",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

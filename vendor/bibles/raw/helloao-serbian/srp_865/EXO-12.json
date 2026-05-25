@@ -1,0 +1,433 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I reèe Gospod Mojsiju i Aronu u zemlji Misirskoj govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ovaj mjesec da vam je poèetak mjesecima, da vam je prvi mjesec u godini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Kažite svemu zboru Izrailjevu i recite: desetoga dana ovoga mjeseca svaki neka uzme jagnje ili jare, po porodicama, po jedno na dom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ako li je dom mali za jagnje ili jare, neka uzme k sebi susjeda, koji mu je najbliži, s onoliko duša koliko treba da mogu pojesti jagnje ili jare."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A jagnje ili jare da vam bude zdravo, muško, od godine; izmeðu ovaca ili izmeðu koza uzmite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I èuvajte ga do èetrnaestoga dana ovoga mjeseca, a tada savkoliki zbor Izrailjev neka ga zakolje uveèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I neka uzmu krvi od njega i pokrope oba dovratka i gornji prag na kuæama u kojima æe ga jesti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I neka jedu meso iste noæi, na vatri peèeno, s hljebom prijesnijem i sa zeljem gorkim neka jedu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nemojte jesti sirovo ni u vodi kuhano, nego na vatri peèeno, s glavom i s nogama i s drobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I ništa nemojte ostaviti do jutra; ako li bi što ostalo do jutra, spalite na vatri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A ovako jedite: opasani, obuæa da vam je na nogu i štap u ruci, i jedite hitno, jer je prolazak Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer æu proæi po zemlji Misirskoj tu noæ, i pobiæu sve prvence u zemlji Misirskoj od èovjeka do živinèeta, i sudiæu svijem bogovima Misirskim, ja Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A krv ona biæe vam znak na kuæama, u kojima æete biti; i kad vidim krv, proæi æu vas, te neæe biti meðu vama pomora, kad stanem ubijati po zemlji Misirskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I taj æe vam dan biti za spomen, i praznovaæete ga Gospodu od koljena do koljena; praznujte ga zakonom vjeènijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Sedam dana jedite hljebove prijesne, i prvoga dana uklonite kvasac iz kuæa svojih; jer ko bi god jeo što s kvascem od prvoga dana do sedmoga, istrijebiæe se ona duša iz Izrailja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Prvi dan biæe sveti sabor; tako i sedmi dan imaæete sveti sabor; nikakav posao da se ne radi u te dane, osim što treba za jelo svakoj duši, to æete samo gotoviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I držite dan prijesnijeh hljebova, jer u taj dan izvedoh vojske vaše iz zemlje Misirske; držite taj dan od koljena do koljena zakonom vjeènijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Prvoga mjeseca èetrnaesti dan uveèe poènite jesti prijesne hljebove pa do dvadeset prvoga dana istoga mjeseca uveèe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Za sedam dana da se ne naðe kvasca u kuæama vašim; jer ko bi god jeo što s kvascem, istrijebiæe se ona duša iz zbora Izrailjeva, bio došljak ili roðen u zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ništa s kvascem nemojte jesti, nego jedite hljeb prijesan po svijem stanovima svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I sazva Mojsije sve starješine Izrailjske, i reèe im: izberite i uzmite sebi jagnje ili jare po porodicama svojim, i zakoljite pashu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I uzmite kitu isopa i zamoèite je u krv, koja æe biti u zdjeli, i pokropite gornji prag i oba dovratka krvlju, koja æe biti u zdjeli, i nijedan od vas da ne izlazi na vrata kuæna do jutra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer æe zaæi Gospod da bije Misir, pa kad vidi krv na gornjem pragu i na oba dovratka, proæi æe Gospod mimo ona vrata, i neæe dati krvniku da uðe u kuæe vaše da ubija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I držite ovo kao zakon tebi i sinovima tvojim dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I kad doðete u zemlju koju æe vam dati Gospod, kao što je kazao, držite ovu službu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I kad vam reku sinovi vaši: kakva vam je to služba?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Recite: ovo je žrtva za prolazak Gospodnji, kad proðe kuæe sinova Izrailjevih u Misiru ubijajuæi Misirce, a domove naše saèuva. Tada narod savi glavu i pokloni se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I otidoše i uèiniše sinovi Izrailjevi, kako zapovjedi Gospod preko Mojsija i Arona, tako uèiniše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A oko ponoæi pobi Gospod sve prvence u zemlji Misirskoj od prvenca Faraonova koji šæaše sjedjeti na prijestolu njegovu do prvenca sužnja u tamnici, i što god bješe prvenac od stoke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Tada usta Faraon one noæi, on i sve sluge njegove i svi Misirci, i bi vika velika u Misiru, jer ne bješe kuæe u kojoj ne bi mrtvaca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I dozva Mojsija i Arona po noæi i reèe: ustajte, idite iz naroda mojega i vi i sinovi Izrailjevi, i otidite, poslužite Gospodu, kao što govoriste."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Uzmite i ovce svoje i goveda svoja, kao što govoriste, i idite, pa i mene blagoslovite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I Misirci navaljivahu na narod da brže idu iz zemlje, jer govorahu: izgibosmo svi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I narod uze tijesto svoje još neuskislo, umotavši ga u haljine svoje, na ramena svoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I uèiniše sinovi Izrailjevi po zapovijesti Mojsijevoj, i zaiskaše u Misiraca nakita srebrnijeh i nakita zlatnijeh i haljina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I Gospod uèini, te narod naðe ljubav u Misiraca, te im dadoše; tako oplijeniše Misirce."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I otidoše sinovi Izrailjevi iz Ramese u Sohot, oko šest stotina tisuæa pješaka, samijeh ljudi osim djece."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I drugih ljudi mnogo otide s njima, i stoke sitne i krupne vrlo mnogo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I od tijesta koje iznesoše iz Misira ispekoše pogaèe prijesne, jer ne bješe uskislo kad ih potjeraše Misirci, te ne mogaše oklijevati, niti spremiše sebi brašnjenice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A baviše se sinovi Izrailjevi u Misiru èetiri stotine i trideset godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "I kad se navrši èetiri stotine i trideset godina, u isti dan izaðoše sve vojske Gospodnje iz zemlje Misirske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Ta se noæ svetkuje Gospodu, u koju ih izvede iz Misira; to je noæ Gospodnja, koju treba da svetkuju sinovi Izrailjevi od koljena na koljeno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I reèe Gospod Mojsiju i Aronu: ovo neka bude zakon za pashu: nijedan tuðin da je ne jede;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "A svaki sluga vaš kupljen za novce, kad ga obrežete, onda neka je jede."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Došljak ili najamnik da je ne jede."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "U istoj kuæi da se jede, da ne iznesete mesa od nje iz kuæe, i kosti da joj ne prelomite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Sav zbor Izrailjev neka èini tako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Ako bi kod tebe sjedio tuðin i htio bi svetkovati pashu Gospodnju, neka mu se obreže sve muškinje, pa onda neka pristupi da je svetkuje, i neka bude kao roðen u zemlji; a niko neobrezan da je ne jede."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Zakon jedan da je i roðenome u zemlji i došljaku koji sjedi meðu vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "I uèiniše svi sinovi Izrailjevi kako zapovjedi Gospod Mojsiju i Aronu, tako uèiniše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "I taj dan izvede Gospod sinove Izrailjeve iz zemlje Misirske u èetama njihovijem."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/12.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 12
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/13.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 13
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/11.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 11
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 51
+}

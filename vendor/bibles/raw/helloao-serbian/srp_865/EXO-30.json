@@ -1,0 +1,342 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 30,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Jošte naèini oltar kadioni, od drveta sitima naèini ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Dužina neka mu bude lakat, i širina lakat, èetvorouglast da bude, i dva lakta visok; iz njega neka mu izlaze rogovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I pokuj ga èistijem zlatom, ozgo sa strana unaokolo, i rogove njegove; i naèini mu vijenac zlatan unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I naèini mu po dva bioèuga zlatna ispod vijenca na dva ugla njegova s obje strane, i kroz njih æeš provuæi poluge da se može nositi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A poluge naèini od drveta sitima, i okuj ih u zlato."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I metni ga pred zavjes koji visi pred kovèegom od svjedoèanstva prema zaklopcu koji je nad svjedoèanstvom, gdje æu se s tobom sastajati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I neka kadi na njemu Aron kadom mirisnim; svako jutro neka kadi kad spremi žiške."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I kad zapali Aron žiške uveèe, neka kadi; neka bude kad svagdašnji pred Gospodom od koljena do koljena vašega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ne prinosite na njemu kada tuðega niti žrtve paljenice niti prinosa; ni naljeva ne ljevajte na njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Samo oèišæenje neka èini nad rogovima njegovijem Aron jednom u godini; krvlju od žrtve za grijeh u dan oèišæenja jednom u godini èiniæe oèišæenja na njemu od koljena do koljena vašega; jer je to svetinja nad svetinjama Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jošte reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Kad staneš brojiti sinove Izrailjeve, izmeðu onijeh koji idu u broj svaki neka dade otkup za život svoj Gospodu, kad ih staneš brojiti, da ne bi došlo na njih kako zlo kad ih staneš brojiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A neka da svaki koji ide u broj po sikla, po siklu svetom a taj je sikal dvadeset novèiæa po sikla biæe prilog Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ko god ide u broj, od dvadeset godina i više, neka da prilog Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Bogati da ne da više a siromah da ne da manje od po sikla, kad daju prilog Gospodu na oèišæenje duša vaših."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I uzevši novce za oèišæenje od sinova Izrailjevijeh ostavi ih za potrebu u šatoru od sastanka, i biæe sinovima Izrailjevijem spomen pred Gospodom za oèišæenje duša vaših."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Naèini i umivaonicu od mjedi i podnožje joj od mjedi za umivanje; i metni je izmeðu šatora od sastanka i oltara, i nalij u nju vode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Da iz nje pere Aron i sinovi njegovi ruke svoje i noge svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Kad idu u šator od sastanka, neka se umivaju vodom, da ne izginu, ili kad pristupaju k oltaru da služe i da pale žrtvu ognjenu Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tada neka peru ruke svoje i noge svoje da ne izginu. To neka im bude uredba vjeèna Aronu i sjemenu njegovu od koljena do koljena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Još reèe Gospod Mojsiju govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Uzmi mirisa najboljih: smirne najèistije pet stotina sikala i cimeta mirisavoga pola toliko, dvjesta pedeset, i iðirota takoðe dvjesta pedeset,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I kasije pet stotina mjerom svetom, i ulja maslinova jedan in."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I od toga naèini ulje za sveto pomazanje, ulje najbolje vještinom apotekarskom; to da bude ulje svetoga pomazanja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I njim pomaži šator od sastanka i kovèeg od svjedoèanstva,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I sto i sve sprave njegove, i svijetnjak i sprave njegove, i oltar kadioni,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I oltar na kojem se prinosi žrtva paljenica, i sve sprave njegove, i umivaonicu i podnožje njezino."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Tako æeš ih osvetiti, te æe biti svetinja nad svetinjom, i što ih se god dotakne biæe sveto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Pomaži i Arona i sinove njegove, i osvetiæeš ih da mi budu sveštenici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A sinovima Izrailjevijem kaži i reci: ovo neka mi bude ulje svetoga pomazanja od koljena do koljena vašega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Tijelo èovjeèije neka se ne maže njim, niti pravite takoga ulja kako je ono; sveto je, neka vam bude sveto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ako li bi ko naèinio tako ulje ili namazao njim drugoga, istrijebiæe se iz naroda svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I reèe Gospod Mojsiju: uzmi mirisa, stakte, oniha i halvana mirisavoga, i tamjana èistoga, koliko jednoga toliko drugoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I od toga naèini kad, sastavljen vještinom apotekarskom, èist i svet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I istucavši ga nasitno, metaæeš ga pred svjedoèanstvom u šatoru od sastanka, gdje æu se sastajati s tobom; to neka vam bude svetinja nad svetinjama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A takvoga kada kakav naèiniš nemojte sebi praviti; to neka ti je svetinja za Gospoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Ako li bi ko naèinio taki da ga miriše, istrijebiæe se iz naroda svojega."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/30.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 30
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/31.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 31
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/29.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 29
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 38
+}

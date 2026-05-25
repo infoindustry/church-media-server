@@ -1,0 +1,272 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JOS",
+    "translationId": "srp_865",
+    "name": "Isus Navin",
+    "commonName": "Isus Navin",
+    "title": "Isus Navin",
+    "order": 6,
+    "numberOfChapters": 24,
+    "sha256": "ec9d0a794c17ba6296451b87fb16a4d34d8af2bfd446293b00f97a3bbb7257b2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JOS/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/JOS/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JOS",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 658
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I sabra se sav zbor sinova Izrailjevijeh u Silom i ondje namjestiše šator od sastanka, pošto pokoriše zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ali još bijaše sinova Izrailjevijeh sedam plemena, kojima ne bi dato našljedstvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I Isus reèe sinovima Izrailjevijem: dokle æete oklijevati, te ne idete i uzmete zemlju koju vam je dao Gospod Bog otaca vaših?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Izberite izmeðu sebe po tri èovjeka iz svakoga plemena, pa neka se dignu i proðu zemlju, i neka je prepišu na našljedstva svoja, pa onda neka doðu k meni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I neka je razdijele na sedam dijelova; Juda æe ostati u svojim meðama s juga, i dom æe Josifov ostati u meðama svojim sa sjevera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A vi prepišite zemlju na sedam dijelova, i donesite amo k meni, da bacim ždrijeb za plemena vaša ovdje pred Gospodom Bogom našim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer Leviti nemaju dijela meðu vama, jer je sveštenstvo Gospodnje njihovo našljedstvo; a Gad i Ruvim i polovina plemena Manasijina primiše našljedstvo svoje s onu stranu Jordana na istoku, koje im dade Mojsije sluga Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tada ustaše ljudi i poðoše; a Isus zapovjedi ljudima koji otidoše da prepišu zemlju govoreæi: idite i proðite zemlju i prepišite je, pa onda doðite k meni, te æu baciti ždrijeb za vas ovdje pred Gospodom u Silomu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I otidoše ljudi i proðoše zemlju i prepisaše je u knjigu selo po selo na sedam dijelova; potom se vratiše k Isusu u oko u Silom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I Isus baci ždrijeb za njih u Silomu pred Gospodom, i ondje podijeli Isus zemlju meðu sinove Izrailjeve po dijelovima njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I izide ždrijeb za pleme sinova Venijaminovijeh po porodicama njihovijem, i doðe meða dijela njihova meðu sinove Judine i sinove Josifove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I bi im meða sa sjevera do Jordana, i ona ide pokraj Jerihona sa sjevera i pruža se na goru k zapadu, i izlazi u pustinju Vet-Aven;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A odatle ide ta meða do Luza, s južne strane Luzu, a to je Vetilj, i slazi do Atarot-Adara pokraj gore koja je s juga Vet-Oronu donjemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Otuda izlazi meða i savija se pokraj mora k jugu od gore, koja je prema Vet-Oronu na jug, i izlazi na Kirijat-Val, a to je Kirijat-Jarim, grad sinova Judinijeh. To je zapadna strana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A južna strana od kraja Kirijat-Jarima, i izlazi ta meða k zapadu, pa ide na izvor vode Neftoje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I slazi ta meða nakraj gore koja je prema dolini sina Enomova a u dolini Rafajskoj k zapadu, i ide preko doline Enomove pokraj Jevuseja k jugu, i slazi na izvor Rogil;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Potom se obræe od sjevera i ide na En-Semes, a otuda ide na Galilot, koji je prema gori Adumimskoj, i slazi na kamen Voana sina Ruvimova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Otuda ide stranom koja je prema Aravi k sjeveru i slazi u Aravu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Potom ide pokraj Vet-Ogle k sjeveru i udara u zaliv slanoga mora sa sjeverne strane do kraja Jordana na jugu. To je južna meða."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A Jordan je meða s istoène strane. To je našljedstvo sinova Venijaminovijeh s meðama njihovijem unaokolo po porodicama njihovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A gradovi plemena sinova Venijaminovijeh po porodicama njihovijem jesu: Jerihon i Vet-Ogla i Emek-Kesis,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I Vet-Arava i Semarajim i Vetilj,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I Avin i Fara i Ofra,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I Hefar-Amona i Ofnija i Gava; dvanaest gradova sa selima svojim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Gavaon i Rama i Virot,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I Mispa i Hefira i Mosa,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I Rekem i Jerfail i Tarala,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I Sila, Elef i Jevus, a to je Jerusalim, Gavat, Kirijat; èetrnaest gradova sa selima svojim. To je našljedstvo sinova Venijaminovijeh po porodicama njihovijem."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JOS/18.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 18
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JOS/19.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 19
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JOS/17.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JOS",
+    "chapter": 17
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

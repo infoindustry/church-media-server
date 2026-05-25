@@ -1,0 +1,321 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PRO",
+    "translationId": "srp_865",
+    "name": "Poslovice",
+    "commonName": "Poslovice",
+    "title": "Poslovice",
+    "order": 20,
+    "numberOfChapters": 31,
+    "sha256": "f56bab8aa62f0f40c0df66127a72bfe1a5502690bdb1dac94e5767df0572eee0",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/PRO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "PRO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/PRO/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "PRO",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 915
+  },
+  "chapter": {
+    "number": 14,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mudra žena zida kuæu svoju, a luda svojim rukama raskopava."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ko hodi pravo, boji se Gospoda; a ko je opak na svojim putovima, prezire ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "U ustima je bezbožnikovijem prut oholosti, a mudre èuvaju usta njihova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Gdje nema volova, èiste su jasle; a obilata je ljetina od sile volovske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Istinit svjedok ne laže, a lažan svjedok govori laž."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Potsmjevaè traži mudrost, i ne nahodi je; a razumnomu je znanje lako naæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Idi od èovjeka bezumna, jer neæeš èuti pametne rijeèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mudrost je pametnoga da pazi na put svoj, a bezumlje je bezumnijeh prijevara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Bezumnima je šala grijeh, a meðu pravednima je dobra volja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Srce svaèije zna jad duše svoje; i u veselje njegovo ne miješa se drugi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Dom bezbožnièki raskopaæe se, a koliba pravednijeh cvjetaæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Neki se put èini èovjeku prav, a kraj mu je put k smrti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I od smijeha boli srce, i veselju kraj biva žalost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Putova svojih nasitiæe se ko je izopaèena srca, ali ga se kloni èovjek dobar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Lud vjeruje svašta, a pametan pazi na svoje korake."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Mudar se boji i uklanja se od zla, a bezuman navire i slobodan je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Nagao èovjek èini bezumlje, a pakostan je èovjek mrzak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ludi našljeðuje bezumlje, a razboriti vjenèava se znanjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Klanjaju se zli pred dobrima i bezbožni na vratima pravednoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ubogi je mrzak i prijatelju svom, a bogati imaju mnogo prijatelja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ko prezire bližnjega svojega griješi; a ko je milostiv ubogima, blago njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Koji smišljaju zlo, ne lutaju li? a milost i vjera biæe onima koji smišljaju dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "U svakom trudu ima dobitka, a govor usnama samo je siromaštvo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Mudrima je vijenac bogatstvo njihovo, a bezumlje bezumnijeh ostaje bezumlje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Istinit svjedok izbavlja duše, a lažan govori prijevaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "U strahu je Gospodnjem jako pouzdanje, i sinovima je utoèište."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Strah je Gospodnji izvor životu da se èovjek saèuva od prugala smrtnijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "U mnoštvu je naroda slava caru; a kad nestaje naroda, propast je vladaocu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ko je spor na gnjev, velika je razuma; a ko je nagao pokazuje ludost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Život je tijelu srce zdravo, a zavist je trulež u kostima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ko èini krivo ubogome, sramoti stvoritelja njegova; a poštuje ga ko je milostiv siromahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Za zlo svoje povrgnuæe se bezbožnik, a pravednik nada se i na smrti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Mudrost poèiva u srcu razumna èovjeka, a što je u bezumnima poznaje se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Pravda podiže narod, a grijeh je sramota narodima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Mio je caru razuman sluga, ali na sramotna gnjevi se."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/PRO/14.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 14
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/PRO/15.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 15
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/PRO/13.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "PRO",
+    "chapter": 13
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

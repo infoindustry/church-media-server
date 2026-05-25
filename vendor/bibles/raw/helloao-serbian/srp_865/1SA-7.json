@@ -1,0 +1,195 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada doðoše ljudi iz Kirijat-Jarima, i uzeše kovèeg Gospodnji, i odnesoše ga u kuæu Avinadavovu na brdu, a Eleazara sina njegova posvetiše da èuva kovèeg Gospodnji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A kad kovèeg osta u Kirijat-Jarimu, proðe mnogo vremena, dvadeset godina, i plakaše sav dom Izrailjev za Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Samuilo reèe svemu domu Izrailjevu govoreæi: ako se svijem srcem svojim obraæate ka Gospodu, povrzite tuðe bogove izmeðu sebe i Astarote, i spremite srce svoje za Gospoda, njemu jedinomu služite, pa æe vas izbaviti iz ruku Filistejskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I povrgoše sinovi Izrailjevi Vale i Astarote, i služiše Gospodu jedinomu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Potom reèe Samuilo: skupite svega Izrailja u Mispu, da se pomolim Gospodu za vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I skupiše se u Mispu, i crpuæi vodu proljevaše pred Gospodom, i postiše onaj dan, i ondje rekoše: sagriješismo Gospodu. I Samuilo suðaše sinovima Izrailjevijem u Mispi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A Filisteji kad èuše da su se sinovi Izrailjevi skupili u Mispu, izidoše knezovi Filistejski na Izrailja. A kad to èuše sinovi Izrailjevi, uplašiše se od Filisteja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I rekoše sinovi Izrailjevi Samuilu: ne prestaj vapiti za nas ka Gospodu Bogu našemu, eda bi nas izbavio iz ruku Filistejskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Tada Samuilo uze jedno jagnje odojèe, i prinese ga svega Gospodu na žrtvu paljenicu; i vapi Samuilo ka Gospodu za Izrailja, i usliši ga Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I kad Samuilo prinošaše žrtvu paljenicu, približiše se Filisteji da udare na Izrailja; ali zagrmje Gospod grmljavinom velikom u onaj dan na Filisteje i smete ih, i biše pobijeni pred Izrailjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Izrailjci izidoše iz Mispe, i potjeraše Filisteje, i biše ih do pod Vet-Har."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada uze Samuilo kamen, i metnu ga izmeðu Mispe i Sena, i nazva ga Even-Ezer, jer reèe: dovde nam Gospod pomože."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tako biše pokoreni Filisteji, i više ne dolaziše na meðu Izrailjevu. I ruka Gospodnja bješe protiv Filisteja svega vijeka Samuilova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I povratiše se Izrailju gradovi, koje bjehu uzeli Filisteji Izrailju, od Akarona do Gata, i meðe njihove izbavi Izrailj iz ruku Filistejskih; i bi mir meðu Izrailjem i Amorejima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Samuilo suðaše Izrailju svega vijeka svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I iduæi svake godine obilažaše Vetilj i Galgal i Mispu, i suðaše Izrailju u svijem tijem mjestima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Potom se vraæaše u Ramu, jer ondje bijaše kuæa njegova, i suðaše ondje Izrailju, i ondje naèini oltar Gospodu."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

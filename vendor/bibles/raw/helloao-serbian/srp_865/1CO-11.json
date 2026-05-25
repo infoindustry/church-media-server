@@ -1,0 +1,314 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CO",
+    "translationId": "srp_865",
+    "name": "1 Korinæanima",
+    "commonName": "1 Korinæanima",
+    "title": "1. Korinæanima Poslanica",
+    "order": 46,
+    "numberOfChapters": 16,
+    "sha256": "114ef2323a27d8e2c5bd8d2269293cc5ec228241cba7d2999cf2908b344e5d17",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/1CO/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CO",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 437
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ugledajte se na mene, kao i ja na Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Hvalim vas pak, braæo, što sve moje pamtite i držite zapovijesti kao što vam predadoh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ali hoæu da znate da je svakome mužu glava Hristos; a muž je glava ženi; a Bog je glava Hristu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Svaki muž koji se s pokrivenom glavom moli Bogu ili prorokuje, sramoti glavu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I svaka žena koja se gologlava moli Bogu ili prorokuje, sramoti glavu svoju; jer je sve jedno kao da je obrijana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ako se dakle ne pokriva žena, neka se striže; ako li je ružno ženi striæi se ili brijati se, neka se pokriva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ali muž da ne pokriva glave, jer je oblièje i slava Božija; a žena je slava muževlja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer nije muž od žene nego žena od muža."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer muž nije sazdan žene radi nego žena muža radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zato žena treba da ima vlast na glavi, anðela radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ali niti je muž bez žene ni žena bez muža u Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jer kako je žena od muža, tako je i muž iz žene; a sve je od Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Sami meðu sobom sudite je li lijepo da se žena gologlava moli Bogu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ili ne uèi li vas i sama priroda da je mužu sramota ako gaji dugaèku kosu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A ženi je slava ako gaji dugaèku kosu? Jer joj je kosa dana mjesto pokrivala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ako li je ko svadljiv, mi takovoga obièaja nemamo, niti crkve Božije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ali ovo zapovijedajuæi ne hvalim da se ne na bolje nego na gore sabirate."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Prvo dakle kad se sabirate u crkvu, èujem da imaju raspre meðu vama; i nešto vjerujem od ovoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer treba i jeresi da budu meðu vama, da se pokažu pošteni koji su meðu vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A kad se skupite na jedno mjesto, ne jede se veèera Gospodnja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer svaki svoju veèeru uzme najprije i jede, i tako jedan gladuje a drugi se opija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Eda li dakle nemate kuæa da jedete i pijete? Ili ne marite za crkvu Božiju, i sramotite one koji nemaju? Šta æu vam reæi? Hoæu li vas pohvaliti za to? Neæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jer ja primih od Gospoda što vam i predadoh, da Gospod Isus onu noæ u koju bivaše predan uze hljeb,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I zahvalivši prelomi i reèe: uzmite, jedite, ovo je tijelo moje, koje se za vas lomi; ovo èinite meni za spomen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Tako i èašu, po veèeri, govoreæi: ova je èaša novi zavjet u mojoj krvi; ovo èinite, kad god pijete, meni za spomen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jer kad god jedete ovaj hljeb i èašu ovu pijete, smrt Gospodnju obznanjujete, dokle ne doðe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Tako koji nedostojno jede ovaj hljeb ili pije èašu Gospodnju, kriv je tijelu i krvi Gospodnjoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ali èovjek da ispituje sebe, pa onda od hljeba da jede i od èaše da pije;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Jer koji nedostojno jede i pije, sud sebi jede i pije, ne razlikujuæi tijela Gospodnjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Zato su meðu vama mnogi slabi i bolesni, i dovoljno ih spavaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Jer kad bismo sebe rasuðivali, ne bismo osuðeni bili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ali kad smo suðeni, nakazuje nas Gospod, da se ne osudimo sa svijetom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Zato, braæo moja, kad se sastajete da jedete, išèekujte jedan drugoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ako li je ko gladan, neka jede kod kuæe, da se na grijeh ne sastajete. A za ostalo urediæu kad doðem."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CO/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CO/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CO/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CO",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 34
+}

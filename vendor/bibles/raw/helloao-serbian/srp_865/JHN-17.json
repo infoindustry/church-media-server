@@ -1,0 +1,258 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JHN",
+    "translationId": "srp_865",
+    "name": "Jovanu",
+    "commonName": "Jovanu",
+    "title": "Jevanðelje po Jovanu",
+    "order": 43,
+    "numberOfChapters": 21,
+    "sha256": "b0467ac7d5635aaff73b88f7076ca219a8a790ad4b0c4ba876a7716c71658f8f",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JHN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 21,
+    "lastChapterApiLink": "/api/srp_865/JHN/21.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JHN",
+      "chapter": 21
+    },
+    "totalNumberOfVerses": 879
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ovo govori Isus, pa podiže oèi svoje na nebo i reèe: oèe! doðe èas, proslavi sina svojega, da i sin tvoj proslavi tebe;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kao što si mu dao vlast nad svakijem tijelom da svemu što si mu dao da život vjeèni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A ovo je život vjeèni da poznaju tebe jedinoga istinoga Boga, i koga si poslao Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ja tebe proslavih na zemlji: posao svrših koji si mi dao da radim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I sad proslavi ti mene, oèe, u tebe samoga slavom koju imadoh u tebe prije nego svijet postade."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ja javih ime tvoje ljudima koje si mi dao od svijeta; tvoji bijahu pa si ih meni dao, i tvoju rijeè održaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Sad razumješe da je sve što si mi dao od tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Jer rijeèi koje si dao meni dadoh im; i oni primiše, i poznadoše istinito da od tebe iziðoh, i vjerovaše da si me ti poslao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ja se za njih molim: ne molim se za sav) svijet, nego za one koje si mi dao, jer su tvoji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I moje sve je tvoje, i tvoje moje; i ja se proslavih u njima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I više nijesam na svijetu, a oni su na svijetu, a ja idem k tebi. Oèe sveti! saèuvaj ih u ime svoje, one koje si mi dao, da budu jedno kao i mi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Dok bijah s njima na svijetu, ja ih èuvah u ime tvoje; one koje si mi dao saèuvah, i niko od njih ne pogibe osim sina pogibli, da se zbude pismo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A sad k tebi idem, i ovo govorim na svijetu, da imaju radost moju ispunjenu u sebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ja im dadoh rijeè tvoju; i svijet omrznu na njih, jer nijesu od svijeta, kao ni ja što nijesam od svijeta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ne molim te da ih uzmeš sa svijeta, nego da ih saèuvaš oda zla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Od svijeta nijesu, kao ni ja što nijesam od svijeta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Osveti ih istinom svojom: rijeè je tvoja istina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Kao što si ti mene poslao u svijet, i ja njih poslah u svijet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ja posveæujem sebe za njih, da i oni budu osveæeni istinom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ne molim pak samo za njih, nego i za one koji me uzvjeruju njihove rijeèi radi;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Da svi jedno budu, kao ti, oèe, što si u meni i ja u tebi; da i oni u nama jedno budu, da i svijet vjeruje da si me ti poslao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I slavu koju si mi dao ja dadoh njima, da budu jedno kao mi što smo jedno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ja u njima i ti u meni: da budu sasvijem ujedno, i da pozna svijet da si me ti poslao i da si imao ljubav k njima kao i k meni što si ljubav imao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Oèe! hoæu da i oni koje si mi dao budu sa mnom gdje sam ja; da vide slavu moju koju si mi dao, jer si imao ljubav k meni prije postanja svijeta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Oèe pravedni! svijet tebe ne pozna, a ja te poznah, i ovi poznaše da si me ti poslao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I pokazah im ime tvoje, i pokazaæu: da ljubav kojom si mene ljubio u njima bude, i ja u njima."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JHN/17.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 17
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JHN/18.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 18
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JHN/16.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JHN",
+    "chapter": 16
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 26
+}

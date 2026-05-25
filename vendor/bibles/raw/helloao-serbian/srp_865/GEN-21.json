@@ -1,0 +1,314 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 21,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I Gospod pohodi Saru, kao što bješe rekao, i uèini Gospod Sari kao što bješe kazao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer zatrudnje i rodi Sara Avramu sina u starosti njegovoj u isto vrijeme kad kaza Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I Avram nadjede ime sinu koji mu se rodi, kojega mu rodi Sara, Isak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I obreza Avram sina svojega Isaka kad bi od osam dana, kao što mu zapovjedi Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A Avramu bješe sto godina kad mu se rodi sin Isak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A Sara reèe: Bog mi uèini smijeh; ko god èuje, smijaæe mi se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I reèe: ko bi rekao Avramu da æe Sara dojiti djecu? ipak mu rodih sina u starosti njegovoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A kad dijete doraste da se odbije od sise, uèini Avram veliku gozbu onaj dan kad odbiše Isaka od sise."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I Sara vidje sina Agare Misirke, koja ga rodi Avramu, gdje se potsmijeva;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Pa reèe Avramu: otjeraj ovu robinju sa sinom njezinijem, jer sin ove robinje neæe biti našljednik s mojim sinom, s Isakom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A to Avramu bi vrlo krivo radi sina njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ali Bog reèe Avramu: nemoj da ti je krivo radi djeteta i radi robinje tvoje. Što ti je god kazala Sara, poslušaj; jer æe ti se u Isaku sjeme prozvati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ali æu i od sina robinjina uèiniti narod, jer je tvoje sjeme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I Avram ustav ujutru rano, uze hljeba i mješinu vode, i dade Agari metnuvši joj na leða, i dijete, i otpusti je. A ona otišavši lutaše po pustinji Virsavskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A kad nesta vode u mješini, ona baci dijete pod jedno drvo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Pa otide koliko se može strijelom dobaciti, i sjede prema njemu; jer govoraše: da ne gledam kako æe umrijeti dijete. I sjedeæi prema njemu stade iza glasa plakati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A Bog èu glas djetinji, i anðeo Božji viknu s neba Agaru, i reèe joj: što ti je, Agaro? ne boj se, jer Bog èu glas djetinji odande gdje je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ustani, digni dijete i uzmi ga u naruèje; jer æu od njega uèiniti velik narod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I Bog joj otvori oèi, te ugleda studenac; i otišavši napuni mješinu vode, i napoji dijete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I Bog bijaše s djetetom, te odraste, i življaše u pustinji, i posta strijelac."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A življaše u pustinji Faranu. I mati ga oženi iz zemlje Misirske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "U to vrijeme reèe Avimeleh i Fihol vojvoda njegov Avramu govoreæi: Bog je s tobom u svemu što radiš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Zakuni mi se sada Bogom da neæeš prevariti mene ni sina mojega ni unuka mojega, nego da æeš dobro onako kako sam ja tebi èinio i ti èiniti meni i zemlji u kojoj si došljak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A Avram reèe: hoæu se zakleti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ali Avram prekori Avimeleha za studenac, koji uzeše na silu sluge Avimelehove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A Avimeleh reèe: ne znam ko je to uèinio; niti mi ti kaza, niti èuh do danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Tada Avram uze ovaca i goveda, i dade Avimelehu, i uhvatiše vjeru meðu sobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I Avram odluèi sedam jaganjaca iz stada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A Avimeleh reèe Avramu: šta æe ono sedam jaganjaca što si odluèio?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A on odgovori: da primiš iz moje ruke ono sedam jaganjaca, da mi bude svjedoèanstvo da sam ja iskopao ovaj studenac."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Otuda se prozva ono mjesto Vir-Saveja, jer se ondje zakleše obojica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Tako uhvatiše vjeru na Virsaveji. Tada se diže Avimeleh i Fihol vojvoda njegov, i vratiše se u zemlju Filistejsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A Avram posadi lug na Virsaveji, i ondje prizva ime Gospoda Boga vjeènoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I Avram življaše kao došljak u zemlji Filistejskoj mnogo vremena."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/21.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 21
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/22.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 22
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/20.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 20
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 34
+}

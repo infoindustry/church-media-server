@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "srp_865",
+    "name": "2. Dnevnika",
+    "commonName": "2. Dnevnika",
+    "title": "2. Dnevnika",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "712160a45a7d7fb40ad6e8f55f27c6bc71cf3a3fca70d89afd22674733ec70a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/2CH/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 34,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Osam godina bijaše Josiji kad poèe carovati, i carova trideset i jednu godinu u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "On èinjaše što je pravo pred Gospodom i hoðaše putovima Davida oca svojega i ne otstupaše ni nadesno ni nalijevo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer osme godine carovanja svojega, dok još bješe dijete, poèe tražiti Boga Davida oca svojega; a dvanaeste godine poèe èistiti Judeju i Jerusalim od visina i od lugova i od likova rezanijeh i livenijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer pred njim raskopaše oltare Valima, i likove sunèane koji bijahu na njima isijeèe, i gajeve, i likove rezane i livene izlomi i satr, i razasu po grobovima onijeh koji im prinosiše žrtve;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A kosti sveštenièke sažeže na oltarima njihovijem; i oèisti Judeju i Jerusalim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tako i gradove Manasijine i Jefremove i Simeunove i do Neftalima, i pustoši njihove unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I tako obori oltare i gajeve, i likove izlomi i satr, i sve likove sunèane isijeèe po svoj zemlji Izrailjevoj; potom se vrati u Jerusalim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A osamnaeste godine carovanja svojega, pošto oèisti zemlju i dom, posla Safana sina Azalijina i Masiju zapovjednika gradskoga i Joaha sina Joahazova, pametara, da se opravi dom Gospoda Boga njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I oni otidoše ka Helkiji poglavaru sveštenièkom, i predaše novce donesene u dom Božji, koje skupiše Leviti vratari od sinova Manasijinih i Jefremovijeh i od svega ostatka Izrailjeva, i od svega Jude i Venijamina, pa se vratiše u Jerusalim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I dadoše nastojnicima nad poslom, koji bijahu nad domom Gospodnjim, a oni ih davahu poslenicima koji raðahu u domu Gospodnjem opravljajuæi što je trošno i utvrðujuæi dom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Davahu drvodjeljama i kamenarima da se kupuje kamenje tesano i drvo za grede i da se pobrvnaju kuæe koje bijahu razvalili carevi Judini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A ti ljudi raðahu vjerno posao; i nad njima bijahu postavljeni Jat i Ovadija Leviti od sinova Merarijevih, i Zaharija i Mesulam od sinova Katovijeh da nastoje oko posla; i ti Leviti svi umijahu udarati u sprave muzièke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I bijahu nad nosiocima i nad svijem poslenicima u svakoj službi, i pisari i upravitelji i vratari bijahu Leviti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I kad iznošahu novce donesene u dom Gospodnji, naðe Helkija sveštenik knjigu zakona Gospodnjega danoga preko Mojsija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I kaza Helkija Safanu pisaru i reèe: naðoh zakonik u domu Gospodnjem. I dade Helkija knjigu Safanu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Safan odnese knjigu caru i javi mu govoreæi: sluge tvoje rade sve što im je zapovjeðeno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer pokupivši novce što se naðoše u domu Gospodnjem, dadoše ih nastojnicima i poslenicima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I još kaza Safan pisar caru govoreæi: knjigu mi dade Helkija sveštenik. I proèita je Safan caru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A kad car èu šta govori zakon, razdrije haljine svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I zapovjedi car Helkiji i Ahikamu sinu Safanovu i Avdonu sinu Mihejinu i Safanu pisaru i Asaji sluzi carevu, govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Idite upitajte Gospoda za me i za ostatak u Izrailju i Judi radi rijeèi ove knjige što se naðe, jer je velik gnjev Gospodnji koji se izlio na nas zato što oci naši ne držaše rijeèi Gospodnje da èine sve onako kako je napisano u ovoj knjizi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I tako otide Helkija i ljudi carevi k Oldi proroèici, ženi Saluma sina Tekuja sina Asre riznièara, a ona sjeðaše u Jerusalimu u drugom kraju, i govoriše s njom o tom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A ona im reèe: ovako veli Gospod Bog Izrailjev: kažite èovjeku koji vas je poslao k meni:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ovako veli Gospod: evo pustiæu zlo na to mjesto i na stanovnike njegove, sve kletve napisane u knjizi, koju su proèitali caru Judinu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Zato što me ostaviše i kadiše drugim bogovima da bi me gnjevili svijem djelima ruku svojih, zato æe se izliti gnjev moj na to mjesto i neæe se ugasiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A caru Judinu koji vas je poslao da upitate Gospoda, ovako mu recite: ovako veli Gospod Bog Izrailjev za rijeèi koje si èuo:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Što je odmeknulo srce tvoje i ponizio si se pred Bogom kad si èuo što je rekao za to mjesto i za stanovnike njegove, i ponizivši se preda mnom razdro si haljine svoje i plakao preda mnom, zato i ja usliših tebe, veli Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Evo, ja æu te pribrati k ocima tvojim, i na miru æeš biti pribran u grob svoj, i neæeš vidjeti svojim oèima zla koje æu pustiti na to mjesto i na stanovnike njegove. I kazaše to caru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Tada posla car te skupi sve starješine Judine i Jerusalimske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I otide car u dom Gospodnji i svi ljudi iz zemlje Judine i Jerusalimljani, i sveštenici i Leviti i vas narod, malo i veliko, i proèita im sve rijeèi knjige zavjetne, koja se naðe u domu Gospodnjem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I car stojeæi na svom mjestu zadade vjeru pred Gospodom da æe iæi za Gospodom i držati zapovijesti njegove i svjedoèanstva njegova i uredbe njegove svijem srcem i svom dušom svojom vršeæi rijeèi toga zavjeta napisane u toj knjizi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I kaza, te pristaše svi koji se naðoše u Jerusalimu i u plemenu Venijaminovu; i èinjahu Jerusalimljani po zavjetu Boga Boga otaca svojih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I ukide Josija sve gadove po svijem krajevima sinova Izrailjevih, i uèini, te svi koji bijahu u Izrailju služahu Gospodu Bogu svojemu. Svega vijeka njegova ne otstupiše od Gospoda Boga otaca svojih."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CH/34.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 34
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CH/35.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 35
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CH/33.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 33
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

@@ -1,0 +1,356 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "srp_865",
+    "name": "1. Dnevnika",
+    "commonName": "1. Dnevnika",
+    "title": "1. Dnevnika",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "8ea0acc08b93472f39af29d769974347b255ab628ab40782b4687010563cbf90",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 29,
+    "lastChapterApiLink": "/api/srp_865/1CH/29.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1CH",
+      "chapter": 29
+    },
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A sinovi Isaharovi bijahu: Tola i Fuja i Jasuv i Simron, èetvorica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A sinovi Tolini: Ozije i Refaja i Jerilo i Jamaj i Jefsam i Samuilo, poglavari otaèkih domova svojih od Tole, hrabri ljudi u porodicama svojim; bješe ih za vremena Davidova na broj dvadeset i dvije tisuæe i šest stotina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A sinovi Ozijevi: Izraja, i sinovi Izrajini: Mihailo i Ovadija i Joilo i Jesija, skupa pet poglavara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I s njima u porodicama njihovijem po domovima otaca njihovijeh bješe vojnika trideset i šest tisuæa, jer imahu mnogo žena i sinova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I braæe njihove po svijem domovima Isaharovijem, hrabrijeh ljudi, bijaše osamdeset i sedam tisuæa, svega izbrojenijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Sinovi Venijaminovi: Vela i Veher i Jediailo, trojica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A sinovi Velini: Esvon i Ozije i Ozilo i Jerimot i Irije, pet poglavara domova otaèkih, hrabri ljudi; na broj ih bješe dvadeset i dvije tisuæe i trideset i èetiri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A sinovi Veherovi: Zemira i Joas i Elijezer i Elioinaj i Amrije i Jerimot i Avija i Anatot i Alamet, svi sinovi Veherovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I izbrojenijeh po porodicama svojim, po poglavarima otaèkoga doma svojega, bješe ih dvadeset tisuæa i dvjesta hrabrijeh ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A sinovi Jediailovi: Valan, i sinovi Valanovi: Jeus i Venijamin i Ehud i Hanana i Zitan i Tarsis i Ahisar."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Svijeh ovijeh sinova Jediailovih po poglavarima porodica otaèkih, hrabrijeh ljudi, bješe sedamdeset tisuæa i dvjesta, koji iðahu na vojsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I Sufeji i Upeji bijahu sinovi Irovi, i Useji sinovi Ahirovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Sinovi Neftalimovi: Jasilo i Gunije i Jeser i Salum, sinovi Valini."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Sinovi Manasijini: Azrilo, kojega mu žena rodi; inoèa njegova Sirka rodi Mahira, oca Galadova;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A Mahir se oženi od Upeja i Sufeja, a ime sestri njihovoj bješe Maha; a ime drugomu bješe Salpad; a Salpad imaše kæeri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Maha žena Mahirova rodi sina, kojemu nadje ime Fares, a bratu mu nadje ime Seres, a njegovi sinovi bjehu Ulam i Rakem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I sinovi Ulamovi: Vedan. To su sinovi Galada sina Mahira sina Manasijina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A sestra njegova Amoleketa rodi Isuda i Avijezera i Malu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A sinovi Semidini bejahu Ahijan i Sihem i Lihija i Anijam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A sinovi Jefremovi: Sutala, a njegov sin Vered, a njegov sin Tahat, a njegov sin Eleada, a njegov sin Tahat,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A njegov sin Zavad, a njegov sin Sutala i Eser i Elead. A njih ubiše ljudi iz Gata, roðeni u zemlji, jer sidoše da im uzmu stoku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Zato tužaše Jefrem otac njihov dugo vremena, i doðoše braæa njegova da ga tješe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Potom leže sa ženom svojom, a ona zatrudnje i rodi sina, i on mu nadje ime Verija, jer nesreæa zadesi dom njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I kæi mu bješe Sera, koja sazida Vetoron donji i gornji i Uzen-Seru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I sin mu bješe Refa i Resef, a njegov sin bješe Tela, a njegov sin Tahan,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A njegov sin Ladan, a njegov sin Amijud, a njegov sin Elisama,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A njegov sin Non, a njegov sin Isus."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A dostojanje njihovo i naselje bješe Vetilj i sela njegova, i s istoka Naran, a sa zapada Gezer i sela njegova, i Sihem i sela njegova do Gaze i sela njezinijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I pokraj sinova Manasijinih Vet-San i sela njegova, Tanah i sela njegova, Megidon i sela njegova, Dor i sela njegova; tu nastavahu sinovi Josifa sina Izrailjeva."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Sinovi Asirovi bijahu Jemna i Jesva i Jesvaj i Verija, i Sera sestra njihova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A sinovi Verijini: Ever i Malhilo; ovaj je otac Virzavitov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A Ever rodi Jaflita i Somira i Hotama i Suju sestru njihovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "A sinovi Jaflitovi bijahu: Fasah i Vimal i Asvat; to bijahu sinovi Jaflitovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "A sinovi Somirovi: Ahije i Roga, Jehuva i Aram."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A sinovi Elema brata njegova: Sofa i Jemna i Selis i Amal."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Sinovi Sofini: Suja i Arnefer i Sogal i Verije i Jemra,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "I Vosor i Od i Sama i Silisa i Itran i Veira."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "A sinovi Jeterovi: Jefonija i Fispa i Ara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "I sinovi Ulini: Arah i Anilo i Risija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Svi ovi bijahu sinovi Asirovi, poglavari domova otaèkih, izabrani, hrabri ljudi, poglavari meðu knezovima. Bješe ih za vojsku na broj dvadeset i šest tisuæa ljudi."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1CH/7.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 7
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1CH/8.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 8
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1CH/6.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1CH",
+    "chapter": 6
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 40
+}

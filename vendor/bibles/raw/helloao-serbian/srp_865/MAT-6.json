@@ -1,0 +1,314 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "srp_865",
+    "name": "Mateju",
+    "commonName": "Mateju",
+    "title": "Jevanðelje po Mateju",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "2282cb47d4ecce5bfb50178a05f4b87b8f4e94d2e2954aa2bd38500539980051",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/MAT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Pazite da pravdu svoju ne èinite pred ljudima da vas oni vide; inaèe plate nemate od oca svojega koji je na nebesima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kad dakle daješ milostinju, ne trubi pred sobom, kao što èine licemjeri po zbornicama i po ulicama da ih hvale ljudi. Zaisto vam kažem: primili su platu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A ti kad èiniš milostinju, da ne zna ljevaka tvoja što èini desnica tvoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tako da bude milostinja tvoja tajna; i otac tvoj koji vidi tajno, platiæe tebi javno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I kad se moliš Bogu, ne budi kao licemjeri, koji rado po zbornicama i na raskršæu po ulicama stoje i mole se da ih vide ljudi. Zaisto vam kažem da su primili platu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A ti kad se moliš, uði u klijet svoju, i zatvorivši vrata svoja, pomoli se ocu svojemu koji je u tajnosti; i otac tvoj koji vidi tajno, platiæe tebi javno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kad se molite, ne govorite mnogo, kao neznabošci; jer oni misle da æe za mnoge rijeèi svoje biti uslišeni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Vi dakle ne budite kao oni; jer zna otac vaš šta vam treba prije molitve vaše;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ovako dakle molite se vi: Oèe naš koji si na nebesima, da se sveti ime tvoje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Da doðe carstvo tvoje; da bude volja tvoja i na zemlji kao na nebu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Hljeb naš potrebni daj nam danas;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I oprosti nam dugove naše kao i mi što opraštamo dužnicima svojijem;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I ne navedi nas u napast; no izbavi nas oda zla. Jer je tvoje carstvo, i sila, i slava vavijek. Amin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer ako opraštate ljudima grijehe njihove, oprostiæe i vama otac vaš nebeski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ako li ne opraštate ljudima grijeha njihovijeh, ni otac vaš neæe oprostiti vama grijeha vašijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A kad postite, ne budite žalosni kao licemjeri; jer oni naèine blijeda lica svoja da ih vide ljudi gdje poste. Zaisto vam kažem da su primili platu svoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A ti kad postiš, namaži glavu svoju, i lice svoje umij,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Da te ne vide ljudi gdje postiš, nego otac tvoj koji je u tajnosti; i otac tvoj koji vidi tajno, platiæe tebi javno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ne sabirajte sebi blaga na zemlji, gdje moljac i rða kvari, i gdje lupeži potkopavaju i kradu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Nego sabirajte sebi blago na nebu, gdje ni moljac ni rða ne kvari, i gdje lupeži ne potkopavaju i ne kradu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer gdje je vaše blago, ondje æe biti i srce vaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Svijeæa je tijelu oko. Ako dakle bude oko tvoje zdravo, sve æe tijelo tvoje svijetlo biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ako li oko tvoje kvarno bude, sve æe tijelo tvoje tamno biti. Ako je dakle vidjelo što je u tebi tama, akamoli tama?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Niko ne može dva gospodara služiti: jer ili æe na jednoga mrziti, a drugoga ljubiti; ili jednome voljeti, a za drugog ne mariti. Ne možete Bogu služiti i mamoni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Zato vam kažem: ne brinite se za život svoj, šta æete jesti, ili šta æete piti; ni za tijelo svoje, u što æete se obuæi. Nije li život pretežniji od hrane, i tijelo od odijela?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Pogledajte na ptice nebeske kako ne siju, niti žnju, ni sabiraju u žitnice; pa otac vaš nebeski hrani ih. Nijeste li vi mnogo pretežniji od njih?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A ko od vas brinuæi se može primaknuti rastu svojemu lakat jedan?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I za odijelo što se brinete? Pogledajte na ljiljane u polju kako rastu; ne trude se niti predu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ali ja vam kažem da ni Solomun u svoj svojoj slavi ne obuèe se kao jedan od njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A kad travu po polju, koja danas jest a sjutra se u peæ baca, Bog tako odijeva; akamoli vas, malovjerni?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ne brinite se dakle govoreæi: šta æemo jesti, ili, šta æemo piti, ili, èim æemo se odjenuti?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Jer sve ovo neznabošci ištu; a zna i otac vaš nebeski da vama treba sve ovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Nego ištite najprije carstva Božijega, i pravde njegove, i ovo æe vam se sve dodati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ne brinite se dakle za sjutra; jer sjutra brinuæe se za se. Dosta je svakom danu zla svoga."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAT/6.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 6
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAT/7.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 7
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/MAT/5.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAT",
+    "chapter": 5
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 34
+}

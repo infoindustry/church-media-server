@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Breme Vavilonu, koje vidje Isaija sin Amosov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Na gori visokoj podignite zastavu, vièite im iza glasa, mašite rukom, neka uðu na vrata kneževska."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ja sam zapovjedio izabranima svojim i dozvao sam junake svoje da izvrše gnjev moj koji se raduju s velièine moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Vika stoji ljudstva na gorama kao da je velik narod, vika i vreva carstva skupljenijeh naroda; Gospod nad vojskama pregleda vojsku ubojitu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Dolaze iz daljne zemlje, s kraja nebesa, Gospod i oruða srdnje njegove, da zatre svu zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ridajte, jer je blizu dan Gospodnji; doæi æe kao pustoš od svemoguæega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Zato æe svaka ruka klonuti, i svako srce èovjeèije rastopiti se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I oni æe se smesti, muke i bolovi spopašæe ih, muèiæe se kao porodilja, prepašæe se jedan od drugoga, lica æe im biti kao plamen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Evo, ide dan Gospodnji ljuti s gnjevom i jarošæu da obrati zemlju u pustoš, i grješnike da istrijebi iz nje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer zvijezde nebeske i prilike nebeske neæe pustiti svjetlosti svoje, sunce æe pomrèati o roðaju svom, i mjesec neæe pustiti svjetlosti svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I pohodiæu vasiljenu za zloæu, i bezbožnike za bezakonje; i ukinuæu razmetanje oholijeh, i ponos silnijeh oboriæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Uèiniæu da æe èovjek više vrijediti nego zlato èisto, više nego zlato Ofirsko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zato æu zatresti nebo, i zemlja æe se pokrenuti sa svoga mjesta od jarosti Gospoda nad vojskama i u dan kad se raspali gnjev njegov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I biæe kao srna poplašena i kao stado kojega niko ne sabira; svak æe gledati za svojim narodom, i svak æe bježati u svoju zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ko se god naðe, biæe proboden, i koji se god skupe, poginuæe od maèa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I djecu æe im razmrskati na njihove oèi, kuæe æe im oplijeniti i žene æe im sramotiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Evo, ja æu podignuti na njih Mide, koji neæe mariti za srebro, niti æe zlata iskati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nego æe iz lukova djecu ubijati, ni na plod u utrobi neæe se smilovati, niti æe djece žaliti oko njihovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I Vavilon, ures carstvima i dika slavi Haldejskoj, biæe kao Sodom i Gomor kad ih Bog zatr."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Neæe se u njemu živjeti niti æe se ko naseliti od koljena do koljena, niti æe Arapin razapeti u njemu šatora, niti æe pastiri poèivati onuda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Nego æe poèivati ondje divlje zvijeri, i kuæe æe njihove biti pune velikih zmija, i ondje æe nastavati sove, i aveti æe skakati onuda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I dovikivaæe se buljine u pustijem kuæama i zmajevi u dvorima veselijem. A doæi æe njegovo vrijeme, i blizu je, i dani njegovi neæe se protegnuti."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/13.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 13
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/14.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 14
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/12.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 12
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "srp_865",
+    "name": "Dela apostolska",
+    "commonName": "Dela apostolska",
+    "title": "Dela apostolska",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "2d48426d347f3d2e686a5cd6f12e110e97e8c2fce23941c21bd9ab16817d8660",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ACT/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 1
+    },
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/srp_865/ACT/28.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ACT",
+      "chapter": 28
+    },
+    "totalNumberOfVerses": 1006
+  },
+  "chapter": {
+    "number": 28,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I kad iziðoše sreæno iz laðe, tada razumješe da se ostrvo zove Melit."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A divljaci èinjahu nam ne malu ljubav, jer naložiše oganj i primiše nas sve zbog dažda koji iðaše, i zbog zime."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Pavle zgrabivši gomilu granja naloži na oganj, i izišavši zmija od vruæine skoèi mu na ruku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I kad vidješe divljaci zmiju gdje visi o ruci njegovoj, govorahu jedan drugome: jamaèno je ovaj èovjek krvnik, kojega izbavljena od mora sud Božij ne ostavi da živi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A on otresavši zmiju u oganj ne bi mu ništa zlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A oni èekahu da on oteèe ili ujedanput da padne mrtav. A kad zadugo èekaše, i vidješe da mu ništa zlo ne bi, promijeniše se, i govorahu da je on Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A naokolo oko onoga mjesta bijahu sela poglavara od ostrva po imenu Poplija, koji nas primi i ugosti ljubazno tri dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A dogodi se da otac Poplijev ležaše od groznice i od srdobolje, kojemu ušavši Pavle pomoli se Bogu i metnu ruke svoje na nj i iscijeli ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A kad to bi, dolažahu i drugi koji bijahu bolesni na ostrvu onome, i iscjeljivahu se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I poštovahu nas velikijem èastima; i kad poðosmo, spremiše nam što je od potrebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A poslije tri mjeseca odvezosmo se na laði Aleksandrijskoj, koja je bila prezimila na ostrvu, i bijahu na njoj napisani Dioskuri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I doplovivši u Sirakuzu ostasmo ondje tri dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A odande otplovivši doðosmo u Rigiju; i poslije jednoga dana kad dunu jug, doðosmo drugi dan u Potiole."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ondje naðemo braæu, i oni nas zamole te ostanemo kod njih sedam dana; i tako poðosmo u Rim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I odande èuvši braæa za nas iziðoše nam na susret tja do Apijeva pazara i tri krème. I kad ih vidje Pavle, dade hvalu Bogu, i oslobodi se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A kad doðosmo u Rim, kapetan predade sužnje vojvodi. Ali se Pavlu dopusti da živi gdje hoæe s vojnikom koji ga èuvaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A poslije tri dana Pavle sazva starješine Jevrejske. I kad se oni skupiše, govoraše im: ljudi braæo! ja ništa ne uèinih protivno narodu ili obièajima otaèkijem; i Jerusalimljani predaše me kao sužnja u ruke Rimljanima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Koji izvidjevši za mene šæahu da me puste, jer se ne naðe na meni nijedna smrtna krivica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ali kad Judejci govorahu nasuprot, natjera me nevolja da se ištem pred æesara, ne kao da bih svoj narod imao što tužiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Toga radi uzroka zamolih vas da se vidimo i da se razgovorimo; jer nada radi Izrailjeva okovan sam u ovo gvožðe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A oni mu rekoše: mi niti primismo pisma za te iz Judeje; niti doðe ko od braæe da javi ili da govori što zlo za tebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Nego molimo da èujemo od tebe šta misliš; jer nam je poznato za ovu jeres da joj se svuda nasuprot govori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I odredivši mu dan doðoše k njemu u gostionicu mnogi; kojima kazivaše svjedoèeæi carstvo Božije i uvjeravajuæi ih za Isusa iz zakona Mojsijeva i iz proroka od jutra do samoga mraka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I jedni vjerovahu onome što govoraše a jedni ne vjerovahu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A buduæi nesložni meðu sobom, odlažahu kad reèe Pavle jednu rijeè: dobro kaza Duh sveti preko proroka Isaije ocevima našijem"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Govoreæi: idi k narodu ovome i kaži: ušima æete èuti i neæete razumjeti; i oèima æete gledati i neæete vidjeti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Jer odrveni srce ovoga naroda, i ušima teško èuju, i oèima svojijem zažmuriše da kako ne vide oèima, i ušima ne èuju, i srcem ne razumiju, i da se ne obrate da ih iscijelim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Da vam je dakle na znanje da se neznabošcima posla spasenije Božije, oni æe i èuti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I kad on ovo reèe, otidoše Jevreji prepiruæi se meðu sobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A Pavle ostade pune dvije godine o svome trošku, i doèekivaše sve koji mu dolažahu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Propovijedajuæi carstvo Božije, i uèeæi o Gospodu našemu Isusu Hristu slobodno, i niko mu ne branjaše."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ACT/28.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 28
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ROM/1.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 1
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/27.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 27
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

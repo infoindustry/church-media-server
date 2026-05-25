@@ -1,0 +1,174 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "MAL",
+    "translationId": "srp_865",
+    "name": "Malahija",
+    "commonName": "Malahija",
+    "title": "Malahija",
+    "order": 39,
+    "numberOfChapters": 4,
+    "sha256": "e9a67c69d6ba2b8b07dfe52fbd04efbc5fc4e1d9f203b5dcec3491895344c38e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/MAL/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAL",
+      "chapter": 1
+    },
+    "lastChapterNumber": 4,
+    "lastChapterApiLink": "/api/srp_865/MAL/4.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "MAL",
+      "chapter": 4
+    },
+    "totalNumberOfVerses": 55
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Breme rijeèi Gospodnje Izrailju preko Malahije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ljubim vas, veli Gospod; a vi govorite: u èem nas ljubiš? Ne bješe li Isav brat Jakovu? govori Gospod; ali Jakova ljubih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A na Isava mrzih; zato gore njegove opustih i našljedstvo njegovo dadoh zmajevima iz pustinje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Što Edom govori: osiromašismo, ali æemo se povratiti i sagraditi pusta mjesta, ovako veli Gospod nad vojskama: neka oni grade, ali æu ja razgraditi, i oni æe se zvati: krajina bezakonièka i narod na koji se gnjevi Gospod dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I oèi æe vaše vidjeti i vi æete reæi: velik je Gospod na meðama Izrailjevijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Sin poštuje oca i sluga gospodara svojega; ako sam ja otac, gdje je èast moja? i ako sam gospodar, gdje je strah moj? veli Gospod nad vojskama vama, sveštenici, koji prezirete ime moje, i govorite: u èem preziremo ime tvoje?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Donosite na moj oltar hljeb oskvrnjen, i govorite: èim te oskvrnismo? Tijem što govorite: sto je Gospodnji za preziranje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I kad donosite slijepo na žrtvu, nije li zlo? i kad donosite hromo ili bolesno, nije li zlo? odnesi ga starješini svojemu, hoæeš li mu ugoditi i hoæe li pogledati na te? veli Gospod nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Zato, molite se Bogu da se smiluje na nas; kad je to iz vaših ruku, hoæe li na koga od vas gledati? govori Gospod nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ko je meðu vama koji bi zatvorio vrata ili zapalio oganj na mom oltaru ni za što? Nijeste mi mili, veli Gospod nad vojskama, i neæu primiti dara iz vaše ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer od istoka sunèanoga do zapada veliko æe biti ime moje meðu narodima, i na svakom æe se mjestu prinositi kad imenu mojemu i èist dar; jer æe ime moje biti veliko meðu narodima, veli Gospod nad vojskama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A vi ga skvrnite govoreæi: sto je Gospodnji neèist, i što se postavlja na nj, jelo je za preziranje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I govorite: gle, kolika muka! a moglo bi se oduhnuti, govori Gospod nad vojskama; i donosite oteto, i hromo i bolesno donosite na dar; eda li æu primiti iz ruke vaše? govori Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Proklet da je varalica, koji ima u svom stadu muško i zavjetuje, pa prinosi Gospodu kvarno; jer sam velik car, veli Gospod nad vojskama, i ime je moje strašno meðu narodima."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/MAL/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAL",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/MAL/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "MAL",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ZEC/14.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ZEC",
+    "chapter": 14
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 14
+}

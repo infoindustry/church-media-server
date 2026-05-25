@@ -1,0 +1,146 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JON",
+    "translationId": "srp_865",
+    "name": "Jona",
+    "commonName": "Jona",
+    "title": "Jona",
+    "order": 32,
+    "numberOfChapters": 4,
+    "sha256": "6feb64a2cce14561e9a108adf36aaa4fe2705a96e5e6b70cb85b06782131ad09",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/JON/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "JON",
+      "chapter": 1
+    },
+    "lastChapterNumber": 4,
+    "lastChapterApiLink": "/api/srp_865/JON/4.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "JON",
+      "chapter": 4
+    },
+    "totalNumberOfVerses": 48
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "I doðe rijeè Gospodnja Joni drugi put govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ustani, i idi u Nineviju grad veliki, i propovijedaj mu ono što ti ja kažem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I ustav Jona otide u Nineviju po rijeèi Gospodnjoj; a Ninevija bješe grad vrlo velik, tri dana hoda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I Jona poèe iæi po gradu jedan dan hoda, i propovijeda i reèe: jošte èetrdeset dana, pa æe Ninevija propasti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I Ninevljani povjerovaše Bogu, i oglasiše post, i obukoše se u kostrijet od najveæega do najmanjega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jer kad doðe ta rijeè do cara Ninevijskoga, on usta sa svojega prijestola, i skide sa sebe svoje odijelo, i obuèe se u kostrijet i sjede u pepeo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I proglasi se i kaza se po Nineviji po zapovijesti carevoj i knezova njegovijeh govoreæi: ljudi i stoka, goveda i ovce da ne okuse ništa, ni da pasu ni da piju vode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Nego i ljudi i stoka da se pokriju kostrijeæu, i da prizivaju Boga jako, i da se vrati svaki sa svoga zloga puta i od nepravde koja mu je u ruku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ko zna, eda se povrati i raskaje Bog i povrati se od ljutoga gnjeva svojega, te ne izginemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I Bog vidje djela njihova, gdje se vratiše sa zloga puta svojega; i raskaja se Bog oda zla koje reèe da im uèini, i ne uèini."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/JON/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "JON",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/JON/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "JON",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/JON/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "JON",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 10
+}

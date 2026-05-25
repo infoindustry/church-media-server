@@ -1,0 +1,398 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 29,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Uèiniæeš im ovo kad ih staneš osveštavati da mi vrše službu sveštenièku: uzmi tele i dva ovna zdrava,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I hljebove prijesne i kolaèe prijesne zamiješene s uljem, i pogaèe prijesne namazane uljem, od brašna pšeniènoga umijesi ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I metni ih u jednu kotaricu, i prinesi ih u kotarici s teletom i s dva ovna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I dovedi Arona i sinove njegove pred vrata šatora od sastanka, i umij ih vodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I uzevši haljine obuci Aronu košulju i plašt ispod opleæka i opleæak i naprsnik, i opaši ga pojasom od opleæka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I metni mu kapu na glavu i svetu ploèu na kapu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I uzmi ulje za pomazanje, i izlij mu na glavu, i pomazaæeš ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I sinove njegove dovedi i obuci im košulje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I opaši ih pojasima, Arona i sinove njegove, i metni im kape na glave, da imaju sveštenstvo uredbom vjeènom. Tako æeš posvetiti ruke Aronu i sinovima njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I dovedi tele pred šator od sastanka, a Aron i sinovi njegovi neka metnu ruke teletu na glavu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I zakolji tele pred Gospodom na vratima šatora od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I uzevši krvi od teleta pomaži rogove oltaru prstom svojim, a ostalu krv svu prolij na podnožje oltaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I uzmi sve salo po crijevima, i mrežicu na jetri, i oba bubrega i salo oko njih, i zapali na oltaru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A meso od teleta i kožu i balegu spali ognjem izvan okola; to je žrtva za grijeh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Potom uzmi ovna jednoga, i na glavu ovnu neka metnu ruke svoje Aron i sinovi njegovi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I zakolji ovna i uzmi krvi od njega i pokropi oltar unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A ovna izudi, i operi drob i noge, i metni ih na udove njegove i na glavu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I svega ovna zapali na oltaru; to je žrtva paljenica Gospodu, miris ugodni, žrtva ognjena Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Pa uzmi i drugoga ovna, i neka mu metne Aron i sinovi njegovi ruke svoje na glavu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I zakolji toga ovna, i uzmi krvi od njega i pomaži njom kraj od desnoga uha Aronu i kraj od desnoga uha sinovima njegovijem, i palac u desne ruke njihove i palac u desne noge njihove, a ostalom krvlju pokropi oltar unaokolo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I uzmi krvi koja bude na oltaru i ulja za pomazanje, i pokropi Arona i haljine njegove, i sinove njegove i haljine njihove, i biæe svet on i haljine njegove i sinovi njegovi i haljine njihove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Potom uzmi salo od ovna i rep i salo što je po crijevima i mrežicu na jetri i oba bubrega i salo oko njih, i desno pleæe; jer je ovan posvetni;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I jedan hljeb i jedan kolaè s uljem i jednu pogaèu iz kotarice u kojoj budu prijesni hljebovi pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I to sve metni u ruke Aronu i u ruke sinovima njegovijem, i obræi tamo i amo, da bude žrtva obrtana pred Gospodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Potom uzmi im to iz ruku, i zapali na oltaru svrhu žrtve paljenice, da bude miris ugodan pred Gospodom; to je žrtva ognjena Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "I uzmi grudi od ovna posvetnoga, koji bude za Arona, i obrtaæeš ih tamo i amo, da bude žrtva obrtana pred Gospodom; i to æe biti tvoj dio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Tako æeš osvetiti grudi od žrtve obrtane i pleæe od žrtve podizane, što je obrtano i što je podizano od ovna posvetnoga za Arona i za sinove njegove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I to æe biti Aronu i sinovima njegovijem uredbom vjeènom od sinova Izrailjevih, jer je žrtva podizana. Kad je žrtva podizana sinova Izrailjevih od njihovijeh žrtava zahvalnijeh, žrtva podizana biæe Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A svete haljine Aronove neka budu sinovima njegovijem nakon njega da se pomazuju u njima i da im se u njima posveæuju ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Sedam dana neka ih oblaèi koji na njegovo mjesto bude sveštenik izmeðu sinova njegovijeh, koji æe ulaziti u šator od sastanka da služi u svetinji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A ovna posvetnoga uzmi i skuhaj meso od njega na mjestu svetom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I Aron i sinovi njegovi neka na vratima šatora od sastanka jedu meso od toga ovna i hljeb što je u kotarici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Neka ga jedu oni za koje je bilo oèišæenje da bi im se posvetile ruke da bi bili posveæeni; a drugi da ne jede, jer je stvar sveta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ako li bi ostalo što mesa posvetnoga ili hljeba do jutra, onda što ostane sažezi ognjem, a da se ne jede, jer je stvar sveta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I tako uèini Aronu i sinovima njegovijem po svemu što ti zapovjedih; sedam dana svetiæeš im ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I svaki æeš dan prinositi na žrtvu tele za grijeh radi oèišæenja; i oèistiæeš oltar èineæi oèišæenje na njemu, i pomazaæeš ga da se osveti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Sedam dana èiniæeš oèišæenje na oltaru i osvetiæeš ga, te æe oltar biti svetinja nad svetinjama; što se god dotakne oltara, biæe sveto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I ovo æeš prinositi na oltaru: dva jagnjeta od godine svaki dan bez prekida."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Jedno jagnje prinosi jutrom a drugo prinosi veèerom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "I jošte desetinu efe pšeniènoga brašna smiješana s uljem cijeðenim, kojega da bude èetvrt ina, i naljev vina, èetvrt ina na jedno jagnje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "A drugo jagnje prinesi uveèe; kao sa žrtvom jutrenjom i s naljevom njezinijem tako i s ovom èini da bude miris ugodan, žrtva ognjena Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "To neka bude žrtva paljenica svagda od koljena do koljena vašega na vratima šatora od sastanka pred Gospodom, gdje æu se sastajati s vama da govorim s tobom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I ondje æu se sastajati sa sinovima Izrailjevijem, da se osveæuje slavom mojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "I osvetiæu šator od sastanka i oltar; i Arona i sinove njegove osvetiæu da su mi sveštenici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "I nastavaæu meðu sinovima Izrailjevijem, i biæu im Bog."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "I poznaæe da sam ja Gospod Bog njihov, koji sam ih izveo iz zemlje Misirske da nastavam meðu njima, ja Gospod Bog njihov."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/29.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 29
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/30.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 30
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/28.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 28
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 46
+}

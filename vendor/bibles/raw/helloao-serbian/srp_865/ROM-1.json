@@ -1,0 +1,300 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ROM",
+    "translationId": "srp_865",
+    "name": "Rimljanima",
+    "commonName": "Rimljanima",
+    "title": "Poslanica Rimljanima",
+    "order": 45,
+    "numberOfChapters": 16,
+    "sha256": "1fe4947b687992778ed830174635b188e37a5a7f483de9affcbbb4c949cc6571",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ROM/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 1
+    },
+    "lastChapterNumber": 16,
+    "lastChapterApiLink": "/api/srp_865/ROM/16.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ROM",
+      "chapter": 16
+    },
+    "totalNumberOfVerses": 433
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Od Pavla, sluge Isusa Hrista, pozvanoga apostola izabranoga za jevanðelje Božije,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Koje Bog naprijed obeæa preko proroka svojijeh u svetijem pismima"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "O sinu svojemu, koji je po tijelu roðen od sjemena Davidova,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A posvjedoèen silno za sina Božijega Duhom svetinje po vaskrseniju iz mrtvijeh, Isusu Hristu Gospodu našemu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Preko kojega primismo blagodat i apostolstvo, da pokorimo sve neznabošce vjeri imena njegovoga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Meðu kojima ste i vi pozvani Isusu Hristu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Svima koji su u Rimu, ljubaznima Bogu, i pozvanima svetima: blagodat vam i mir od Boga oca našega i Gospoda Isusa Hrista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Prvo dakle zahvaljujem Bogu svojemu kroz Isusa Hrista za sve vas što se vjera vaša glasi po svemu svijetu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jer mi je svjedok Bog, kojemu služim duhom svojijem u jevanðelju sina njegova, da vas se opominjem bez prestanka,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Moleæi se svagda Bogu u molitvama svojijem da bi mi kad Božija volja pomogla da doðem k vama;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Jer želim vidjeti vas, da vam dam kakav duhovni dar za vaše utvrðenje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "To jest, da se s vama utješim vjerom opštom, i vašom i mojom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ali vam neæu zatajiti, braæo, da sam mnogo puta htio da vam doðem, pa bih zadržan doslije, da i meðu vama imam kakav plod, kao i meðu ostalijem neznabošcima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Dužan sam i Grcima i divljacima, i mudrima i nerazumnima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Zato, od moje strane, gotov sam i vama u Rimu propovjediti jevanðelje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer se ne stidim jevanðelja Hristova; jer je sila Božija na spasenije svakome koji vjeruje, a najprije Jevrejinu i Grku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jer se u njemu javlja pravda Božija iz vjere u vjeru, kao što je napisano: pravednik æe od vjere živ biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jer se otkriva gnjev Božij s neba na svaku bezbožnost i nepravdu ljudi koji drže istinu u nepravdi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer što se može doznati za Boga poznato je njima: jer im je Bog javio;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jer što se na njemu ne može vidjeti, od postanja svijeta moglo se poznati i vidjeti na stvorenjima, i njegova vjeèna sila i božanstvo, da nemaju izgovora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jer kad poznaše Boga, ne proslaviše ga kao Boga niti mu zahvališe, nego zaludješe u svojijem mislima, i potamnje nerazumno srce njihovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Kad se graðahu mudri, poludješe,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I pretvoriše slavu vjeènoga Boga u oblièje smrtnoga èovjeka i ptica i èetvoronožnijeh životinja i gadova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Zato ih predade Bog u željama njihovijeh srca u neèistotu, da se pogane tjelesa njihova meðu njima samima;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Koji pretvoriše istinu Božiju u laž, i veæma poštovaše i poslužiše tvar nego tvorca, koji je blagosloven vavijek. Amin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Zato ih predade Bog u sramne slasti; jer žene njihove pretvoriše putno upotrebljavanje u besputno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Tako i ljudi ostavivši putno upotrebljavanje ženskoga roda, raspališe se željom svojom jedan na drugoga, i ljudi s ljudima èinjahu sram, i platu koja trebaše za prijevaru njihovu primahu na sebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I kao što ne marahu da poznadu Boga, zato ih Bog predade u pokvaren um da èine što ne valja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Da budu napunjeni svake nepravde, kurvarstva, zloæe, lakomstva, pakosti; puni zavisti, ubistva, svaðe, lukavstva, zloæudnosti;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Šaptaèi, opadaèi, bogomrsci, siledžije, hvališe, ponositi, izmišljaèi zala, nepokorni roditeljima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Nerazumni, nevjere, neljubavni, neprimirljivi, nemilostivi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A neki i pravdu Božiju poznavši da koji to èine zaslužuju smrt, ne samo to èine, nego pristaju na to i onima koji èine."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ROM/1.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 1
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ROM/2.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ROM",
+    "chapter": 2
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ACT/28.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ACT",
+    "chapter": 28
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 32
+}

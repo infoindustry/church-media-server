@@ -1,0 +1,377 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 39,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A od porfire i skerleta i crvca naèiniše haljine za službu, da se služi u svetinji; i naèiniše svete haljine Aronu, kao što bješe zapovjedio Gospod Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Naèiniše opleæak od zlata, i od porfire i od skerleta i od crvca i od tankoga platna uzvedenoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Istegliše listove od zlata, i isjekoše žice, te izvezoše porfiru i skerlet i crvac i tanko platno vrlo vješto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Poramenice mu naèiniše da se sastavljaju, da se sastavlja na dva kraja svoja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I pojas na opleæku izlažaše od njega i bješe iste naprave, od zlata i od porfire i od skerleta i od crvca i od tankoga platna uzvedenoga, kao što bješe zapovjedio Gospod Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I ukovaše dva kamena oniha u zlato, i izrezaše na njima imena sinova Izrailjevih, kao što se režu peèati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I udariše ih na poramenice od opleæka, da budu kameni za spomen sinovima Izrailjevijem, kao što bješe zapovjedio Gospod Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I naèiniše naprsnik vrlo vješte naprave kao što je naprava u opleæka, od zlata i od porfire i od skerleta i od crvca i od tankoga platna uzvedenoga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Èetvorouglast i dvostruk naèiniše naprsnik, u dužinu s pedi i u širinu s pedi, dvostruk."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I udariše po njemu èetiri reda kamenja; u prvom redu: sardonih, topaz i smaragad;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A u drugom redu: karbunkul, safir i dijamanat;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "A u treæem redu: ligur, ahat i ametist;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A u èetvrtom redu: hrisolit, onih i jaspid, sve optoèeno zlatom u svojim redovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Tijeh kamena s imenima sinova Izrailjevijeh bješe dvanaest prema njihovijem imenima, rezani kao peèati, za dvanaest plemena, svako po svom imenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I naèiniše na naprsnik lance jednake, pletene, od èistoga zlata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I naèiniše dvije kopèe zlatne i dvije grivne zlatne, i metnuše te dvije grivne na dva kraja naprsniku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I provukoše dva zlatna lanca kroz dvije grivne na krajevima naprsniku,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A druga dva kraja od dva lanca zapeše za dvije kopèe, i pritvrdiše ih za poramenice na opleæku sprijed."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I naèiniše još dvije zlatne grivne, i metnuše ih na dva kraja naprsniku na strani prema opleæku iznutra."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I naèiniše još dvije grivne zlatne, koje metnuše na dvije poramenice na opleæku ozdo naprijed gdje se sastavlja, više pojasa na opleæku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tako privezaše naprsnik kroz grivne na njemu i grivne na opleæku vrvcom od porfire, da stoji svrh pojasa od opleæka i da se ne razdvaja naprsnik od opleæka, kao što bješe zapovjedio Gospod Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I naèiniše plašt pod opleæak, tkan, sav od porfire."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I prorez na plaštu u srijedi kao prorez na oklopu, i oko proreza oplatu da se ne razdre."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I naèiniše po skutu od plašta šipke od porfire i od skerleta i od crvca i od tankoga platna uzvedenoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I naèiniše zvonca od èistoga zlata, i metnuše zvonca meðu šipke, po skutu od plašta unaokolo izmeðu šipaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Zvonce pa šipak, zvonce pa šipak po skutu od plašta unaokolo, za službu, kao što bješe zapovjedio Gospod Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I naèiniše košulje od tankoga platna izmetanoga Aronu i sinovima njegovijem;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "I kapu od tankoga platna, i kapice kiæene od tankoga platna, i gaæe platnene od tankoga platna uzvedenoga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I pojas od tankoga platna uzvedenoga i od porfire i od skerleta i od crvca, vezen, kao što bješe zapovjedio Gospod Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I naèiniše ploèicu za sveto oglavlje od èistoga zlata, i napisaše na njoj pismom kako se reže na peèatima: svetinja Gospodu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I pritvrdiše za nju vrvcu od porfire da se veže za kapu ozgo, kao što bješe zapovjedio Gospod Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I tako se svrši sav posao oko šatora i naslona od sastanka. I naèiniše sinovi Izrailjevi sve; kako bješe zapovjedio Gospod Mojsiju, tako naèiniše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I donesoše k Mojsiju šator, naslon i sve sprave njegove, kuke, daske, prijevornice, stupove i stopice,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I pokrivaè od koža ovnujskih crvenih obojenih i pokrivaè od koža jazavèijih, i zavjes,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I kovèeg od svjedoèanstva i poluge za nj, i zaklopac,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Sto sa svijem spravama, i hljeb za postavljanje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Svijetnjak èisti, žiške njegove, žiške nareðane, i sve sprave njegove, i ulje za vidjelo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "I oltar zlatni, i ulje pomazanja, i kad mirisni, i zavjes na vrata od šatora,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Oltar mjedeni i rešetku mjedenu za nj, poluge njegove i sve sprave njegove, umivaonicu i podnožje njezino,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Zavjese za trijem, stupove za njih i stopice njihove, i zavjes na vrata od trijema, uža njegova i kolje njegovo, i sve sprave za službu u šatoru, za šator od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Haljine za službu, da se služi u svetinji, haljine svete Aronu svešteniku i haljine sinovima njegovijem, da vrše službu sveštenièku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Sve kako bješe zapovjedio Gospod Mojsiju, onako uradiše sinovi Izrailjevi sve ovo djelo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "I pogleda Mojsije sve to djelo, i gle, naèiniše ga, kao što bješe zapovjedio Gospod, tako ga naèiniše; i blagoslovi ih Mojsije."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/39.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 39
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/40.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 40
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/38.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 38
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 43
+}

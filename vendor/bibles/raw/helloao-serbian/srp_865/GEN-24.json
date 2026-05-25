@@ -1,0 +1,545 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 24,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A Avram bješe star i vremenit, i Gospod bješe blagoslovio Avrama u svemu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I reèe Avram sluzi svojemu najstarijemu u kuæi svojoj, koji bješe nad svijem dobrom njegovijem: metni ruku svoju pod stegno moje,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Da te zakunem Gospodom Bogom nebeskim i Bogom zemaljskim da neæeš dovesti žene sinu mojemu izmeðu kæeri ovijeh Hananeja, meðu kojima živim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Nego da æeš otiæi u zemlju moju i u rod moj i dovesti ženu sinu mojemu Isaku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A sluga mu reèe: i ako djevojka ne htjedbude poæi sa mnom u ovu zemlju; hoæu li odvesti sina tvojega u zemlju iz koje si se iselio?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A Avram mu reèe: pazi da ne odvedeš sina mojega onamo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Gospod Bog nebeski, koji me je uzeo iz doma oca mojega i iz zemlje roda mojega, i koji mi je rekao i zakleo mi se govoreæi: sjemenu æu tvojemu dati zemlju ovu, on æe poslati anðela svojega pred tobom da dovedeš ženu sinu mojemu odande."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ako li djevojka ne htjedbude poæi s tobom, onda da ti je prosta zakletva moja; samo sina mojega nemoj odvesti onamo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I metnu sluga ruku svoju pod stegno Avramu gospodaru svojemu, i zakle mu se za ovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Tada sluga uze deset kamila izmeðu kamila gospodara svojega da ide, jer sve blago gospodara njegova bješe pod njegovom rukom; i otišav doðe u Mesopotamiju do grada Nahorova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I pusti kamile da poliježu iza grada kod studenca pred veèe kad izlaze graðanke da zahvataju vode;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I reèe: Gospode Bože gospodara mojega Avrama, daj mi sreæu danas i uèini milost gospodaru mojemu Avramu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Evo, ja æu stajati kod ovoga studenca, a graðanke æe doæi da zahvataju vode."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Kojoj djevojci reèem: nagni krèag svoj da se napijem, a ona reèe: na pij, i kamile æu ti napojiti; daj to da bude ona koju si namijenio sluzi svojemu Isaku; i po tome da poznam da si uèinio milost gospodaru mojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I on još ne izgovori, a to Reveka, kæi Vatuila sina Melhe žene Nahora brata Avramova, doðe s krèagom na ramenu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I bješe vrlo lijepa, još djevojka, još je èovjek ne bješe poznao. Ona siðe na izvor, i natoèi krèag, i poðe;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A sluga iskoèi pred nju i reèe: daj mi da se napijem malo vode iz krèaga tvojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A ona reèe: na pij, gospodaru. I brže spusti krèag na ruku svoju, i napoji ga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I kad ga napoji, reèe: i kamilama æu tvojim naliti neka se napiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I brže izruèi krèag svoj u pojilo, pa opet otrèa na studenac da nalije, i nali svijem kamilama njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A èovjek joj se divljaše, i æutaše, neæe li poznati je li Gospod dao sreæu putu njegovu ili nije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "A kad se kamile napiše, izvadi èovjek zlatnu grivnu od po sikla i metnu joj oko èela, i dvije narukvice metnu joj na ruke od deset sikala zlata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I reèe: èija si kæi? kaži mi. Ima li u kuæi oca tvojega mjesta za nas da prenoæimo?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A ona mu reèe: ja sam kæi Vatuila sina Melšina, kojega rodi Nahoru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Još reèe: ima u nas mnogo slame i piæe i mjesta za noæište."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Tada èovjek savivši se pokloni se Gospodu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I reèe: blagosloven da je Gospod Bog gospodara mojega Avrama, što ne ostavi milosti svoje i vjere svoje prema gospodaru mojem, i putem dovede me Gospod u dom rodbine gospodara mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A djevojka otrèa i sve ovo kaza u domu matere svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A Reveka imaše brata, kojemu ime bješe Lavan; i istrèa Lavan k èovjeku na studenac,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Kako vidje grivnu i narukvice na rukama sestre svoje i èu gdje Reveka sestra mu reèe: tako mi kaza èovjek; doðe k èovjeku; a on stajaše kod kamila na studencu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I reèe: hodi, koji si blagosloven od Gospoda; što bi stajao napolju? spremio sam kuæu, ima mjesta i za kamile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I dovede èovjeka u kuæu, i rastovari kamile; i dadoše slame i piæe kamilama, i donesoše vode za noge njemu i ljudima što bijahu s njim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I postaviše mu da jede; ali on reèe: neæu jesti dokle ne kažem stvar svoju. A Lavan mu reèe: govori."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Tada reèe: ja sam sluga Avramov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "A Gospod je blagoslovio gospodara mojega veoma, te je postao velik, i dao mu je ovaca i goveda, i srebra i zlata, i sluga i sluškinja, i kamila i magaraca."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "I još Sara žena gospodara mojega rodi sina gospodaru mojemu u starosti njegovoj, i on mu dade sve što ima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A mene zakle gospodar moj govoreæi: nemoj dovesti sinu mojemu žene izmeðu kæeri ovijeh Hananeja, meðu kojima živim;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Nego idi u dom oca mojega i u rod moj, da dovedeš ženu sinu mojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A ja rekoh gospodaru svojemu: može biti da djevojka neæe htjeti poæi sa mnom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A on mi reèe: Gospod, po èijoj volji svagda življah, poslaæe anðela svojega s tobom, i daæe sreæu tvojemu putu da dovedeš ženu sinu mojemu od roda mojega, iz doma oca mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Onda æe ti biti prosta zakletva moja, kad otideš u rod moj; ako ti je i ne dadu, opet æe ti biti prosta zakletva moja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "I kad doðoh danas na studenac, rekoh: Gospode Bože gospodara mojega Avrama, ako si dao sreæu putu mojemu, kojim idem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Evo, ja æu stajati kod studenca: koja djevojka doðe da zahvati vode, i ja joj kažem: daj mi da se napijem malo vode iz krèaga tvojega,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "A ona mi odgovori: i ti pij i kamilama æu tvojim naliti; to neka bude žena koju je namijenio Gospod sinu gospodara mojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Ja još ne izgovorih u srcu svojem, a doðe Reveka s krèagom na ramenu, i sišavši na izvor zahvati; i ja joj rekoh: daj mi da se napijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "A ona brže spustivši sa sebe krèag reèe: na pij, i kamile æu ti napojiti. I kad se napih, napoji i kamile moje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "I zapitah je govoreæi: èija si kæi? A ona odgovori: ja sam kæi Vatuila sina Nahorova, kojega mu rodi Melha. Tada joj metnuh grivnu oko èela i narukvice na ruke;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "I padoh i poklonih se Gospodu, i zahvalih Gospodu Bogu gospodara mojega Avrama, što me dovede pravijem putem da naðem kæer brata gospodara svojega za sina njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Ako æete dakle uèiniti ljubav i vjeru gospodaru mojemu, kažite mi; ako li neæete, kažite mi, da idem na desno ili na lijevo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "A Lavan i Vatuilo odgovarajuæi rekoše: od Gospoda je ovo došlo; mi ti ne možemo kazati ni zlo ni dobro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Eto, Reveka je u tvojoj vlasti, uzmi je pa idi, i neka bude žena sinu tvojega gospodara, kao što kaza Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "A kad èu sluga Avramov rijeèi njihove, pokloni se Gospodu do zemlje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "I izvadi sluga zaklade srebrne i zlatne i haljine, i dade Reveci; takoðer i bratu njezinu i materi njezinoj dade darove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "Potom jedoše i piše on i ljudi koji bijahu s njim, i prenoæiše. A kad ujutru ustaše, reèe sluga: pustite me gospodaru mojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "A brat i mati njezina rekoše: neka ostane djevojka kod nas koji dan, barem deset dana, pa onda neka ide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "A on im reèe: nemojte me zadržavati, kad je Gospod dao sreæu mojemu putu; pustite me da idem gospodaru svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "Tada rekoše: da zovemo djevojku, i upitamo šta ona veli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "I dozvaše Reveku i rekoše joj: hoæeš iæi s ovijem èovjekom? A ona odgovori: hoæu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 59,
+        "content": [
+          "I pustiše Reveku sestru svoju i dojkinju njezinu sa slugom Avramovijem i ljudima njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 60,
+        "content": [
+          "I blagosloviše Reveku i rekoše joj: sestro naša, da se namnožiš na tisuæe tisuæa, i sjeme tvoje da naslijedi vrata svojih neprijatelja!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 61,
+        "content": [
+          "I podiže se Reveka s djevojkama svojim, i posjedaše na kamile, i poðoše s èovjekom; i sluga uzev Reveku otide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 62,
+        "content": [
+          "A Isak iðaše vraæajuæi se od studenca živoga koji me vidi jer življaše u južnom kraju"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 63,
+        "content": [
+          "A bješe izašao Isak u polje pred veèe da se pomoli Bogu; i podigav oèi svoje ugleda kamile gdje idu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 64,
+        "content": [
+          "I Reveka podigavši oèi svoje ugleda Isaka, te skoèi s kamile,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 65,
+        "content": [
+          "I reèe sluzi: ko je onaj èovjek što ide preko polja pred nas? A sluga reèe: ono je gospodar moj. I ona uze pokrivalo i pokri lice."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 66,
+        "content": [
+          "I pripovjedi sluga Isaku sve što je svršio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 67,
+        "content": [
+          "I odvede je Isak u šator Sare matere svoje; i uze Reveku, i ona mu posta žena, i omilje mu. I Isak se utješi za materom svojom."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/24.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 24
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/25.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 25
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/23.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 23
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 67
+}

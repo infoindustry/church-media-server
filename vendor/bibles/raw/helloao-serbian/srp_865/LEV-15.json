@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "srp_865",
+    "name": "Levitski Zakonik",
+    "commonName": "Levitski Zakonik",
+    "title": "Levitski Zakonik",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a412bd8b9e040d52ef7cfca1a194b80d1bde442a43d4dfc6e039298043e5f4e",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/LEV/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 1
+    },
+    "lastChapterNumber": 27,
+    "lastChapterApiLink": "/api/srp_865/LEV/27.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "LEV",
+      "chapter": 27
+    },
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Još reèe Gospod Mojsiju i Aronu govoreæi:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kažite sinovima Izrailjevim i recite im: kome èovjeku teèe sjeme od tijela njegova, neèist je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A ovaka je neèistota njegova od toga teèenja: ako ispusti tijelo njegovo teèenje svoje, ili se ustavi teèenje u tijelu njegovu, neèistota je na njemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Svaka postelja na koju leže onaj kome teèe sjeme, da je neèista; i sve na što sjede, da je neèisto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I ko se god dotakne postelje njegove, neka opere haljine svoje i neka se okupa u vodi, i biæe neèist do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I ko sjede na ono na èem je sjedio onaj kome teèe sjeme, neka opere haljine svoje i neka se okupa u vodi, i biæe neèist do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I ko se dotakne tijela onoga kome teèe sjeme, neka opere haljine svoje i neka se okupa u vodi, i biæe neèist do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I ako onaj kome teèe sjeme pljune na èistoga, on neka opere haljine svoje i neka se okupa u vodi, i biæe neèist do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I svako sedlo na kom bi sjedio onaj kome teèe sjeme, da je neèisto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I ko bi se dotakao èega god što je bilo pod njim, da je neèist do veèera; i ko bi što takovo nosio, neka opere haljine svoje i okupa se u vodi, i biæe neèist do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I koga bi se dotakao onaj kome teèe sjeme ne opravši ruku svojih vodom, neka opere haljine svoje i okupa se u vodi, i biæe neèist do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I sud zemljani kojega bi se dotakao onaj kome teèe sjeme, neka se razbije, a drveni sud neka se opere vodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A kad se onaj kome teèe sjeme oèisti od teèenja svojega, neka broji sedam dana pošto se oèisti, i neka opere haljine svoje i neka tijelo svoje opere vodom živom, i biæe èist."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A u osmi dan neka uzme dvije grlice ili dva golubiæa, i neka doðe pred Gospoda na vrata šatora od sastanka, i neka ih da svešteniku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "I sveštenik neka prinese jedno od njih na žrtvu za grijeh a drugo na žrtvu paljenicu; tako æe ga oèistiti sveštenik pred Gospodom od teèenja njegova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I èovjek kome izaðe sjeme kad spava sa ženom neka opere vodom cijelo tijelo svoje, i biæe neèist do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I svaka haljina i svaka koža na kojoj bude tako sjeme, neka se opere vodom i biæe neèisto do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I žena kod koje bude spavao taki èovjek, i ona i on neka se okupaju u vodi i biæe neèisti do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A žena kad ima vrijeme, kad ide krv od tijela njezina, neka se odvaja sedam dana, i ko je se god dotakne, da je neèist do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I na što god legne dok se odvaja, da je neèisto, i na što god sjede, da je neèisto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I ko se dotakne postelje njezine, neka opere haljine svoje i neka se okupa u vodi, i biæe neèist do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I ko se dotakne èega na èem je ona sjedjela, neka opere haljine svoje i neka se okupa u vodi, i biæe neèist do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I što bi god bilo na postelji njezinoj ili na èem je ona sjedjela, pa se ko dotakne toga, da je neèist do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A ko bi spavao s njom te bi neèistota njezina došla na nj, da je neèist sedam dana, i postelja na kojoj leži da je neèista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A žena, od koje bi išla krv dugo vremena ili osim obiènoga vremena ili u obièno vrijeme ali duže, dokle god teèe neèistota njezina biæe neèista kao u vrijeme kada se odvaja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Postelja na kojoj leži dokle joj god krv ide, da joj je kao postelja kad se odvaja; i na èem bi god sjedjela da je neèisto kao što je neèisto kad se odvaja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "I ko se god dotakne tijeh stvari, neèist je; zato neka opere haljine svoje i okupa se u vodi, i biæe neèist do veèera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "A kad se oèisti od teèenja krvi svoje, neka broji sedam dana, pa onda da je èista."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I u osmi dan neka uzme dvije grlice ili dva golubiæa, i neka ih odnese svešteniku na vrata šatora od sastanka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I neka sveštenik prinese jedno na žrtvu za grijehe a drugo na žrtvu paljenicu, i oèistiæe je sveštenik pred Gospodom od teèenja neèistote njezine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Tako æete odluèivati sinove Izrailjeve od neèistota njihovijeh, da ne ginu s neèistota svojih skvrneæi šator moj što je usred njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "To je zakon za onoga kome teèe sjeme i kome izaðe sjeme kad spava sa ženom te bude neèist,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I za ženu kad boluje od teèenja krvi svoje, i za svakoga koji boluje od teèenja svoga, bilo muško ili žensko, i za èovjeka koji bi ležao s neèistom."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/LEV/15.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 15
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/LEV/16.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 16
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/LEV/14.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "LEV",
+    "chapter": 14
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

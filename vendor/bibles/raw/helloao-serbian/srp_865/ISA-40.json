@@ -1,0 +1,293 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_865",
+    "name": "Isaija",
+    "commonName": "Isaija",
+    "title": "Isaija",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "e7b02fd3e223d4e308fddc41e6a36f9486092a1a205bb556e2c556f583a9dfb5",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ISA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_865/ISA/66.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ISA",
+      "chapter": 66
+    },
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 40,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tješite, tješite narod moj, govori Bog vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Govorite Jerusalimu ljubazno, i javljajte mu da se navršio rok njegov, da mu se bezakonje oprostilo, jer je primio iz ruke Gospodnje dvojinom za sve grijehe svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Glas je nekoga koji vièe: pripravite u pustinji put Gospodnji, poravnite u pustoši stazu Bogu našemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Sve doline neka se povise, i sve gore i bregovi neka se slegnu, i što je krivo neka bude pravo, i neravna mjesta neka budu ravna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I javiæe se slava Gospodnja, i svako æe tijelo vidjeti; jer usta Gospodnja govoriše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Glas govori: vièi. I reèe: šta da vièem? Da je svako tijelo trava i sve dobro njegovo kao cvijet poljski."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Suši se trava, cvijet opada kad duh Gospodnji dune na nj; doista je narod trava."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Suši se trava, cvijet opada; ali rijeè Boga našega ostaje dovijeka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Izidi na visoku goru, Sione, koji javljaš dobre glase; podigni silno glas svoj, Jerusalime, koji javljaš dobre glase; podigni, ne boj se. Kaži gradovima Judinijem: evo Boga vašega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Evo, Gospod Bog ide na jakoga, i mišica æe njegova obladati njim; evo plata je njegova kod njega i djelo njegovo pred njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Kao pastir pašæe stado svoje; u naruèje svoje sabraæe jaganjce, i u njedrima æe ih nositi, a dojilice æe voditi polako."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ko je izmjerio vodu grstima svojim i nebesa premjerio peðu? ko je mjerom izmjerio prah zemaljski, i gore izmjerio na mjerila i bregove na poteg?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ko je upravljao duh Gospodnji? ili mu bio savjetnik i nauèio ga?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "S kim se je dogovarao i ko ga je urazumio i nauèio putu suda, i nauèio ga znanju i pokazao mu put razuma?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Gle, narodi su kao kap iz vijedra, i kao praška na mjerilima broje se; gle, premješta ostrva kao prašak."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ni Livan ne bi bio dosta za oganj, i životinje njegove ne bi bile dosta za žrtvu paljenicu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Svi su narodi kao ništa pred njim, manje negoli ništa i taština vrijede mu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "S kim æete dakle izjednaèiti Boga? i kaku æete mu priliku naæi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Umjetnik lije lik, i zlatar ga pozlaæuje, i verižice srebrne lije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "A ko je siromah, te nema šta prinijeti, bira drvo koje ne trune, i traži vješta umjetnika da naèini rezan lik, koji se ne pomièe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ne znate li? ne èujete li? ne kazuje li vam se od iskona? ne razumijete li od temelja zemaljskih?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "On sjedi nad krugom zemaljskim, i njezini su mu stanovnici kao skakavci; on je razastro nebesa kao platno i razapeo ih kao šator za stan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "On obraæa knezove u ništa, sudije zemaljske èini da su kao taština."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Kao da nijesu posaðeni ni posijani, i kao da im se stablo nije ukorijenilo u zemlji, èim dune na njih, posahnu, i vihor kao pljevu raznese ih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "S kim æete me dakle izjednaèiti da bih bio kao on? veli sveti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Podignite gore oèi svoje i vidite; ko je to stvorio? ko izvodi vojsku svega toga na broj i zove svako po imenu, i velike radi sile njegove i jake moæi ne izostaje nijedno?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Zašto govoriš, Jakove, i kažeš, Izrailju: sakriven je put moj od Gospoda, i stvar moja ne izlazi pred Boga mojega?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ne znaš li? nijesi li èuo da Bog vjeèni Gospod, koji je stvorio krajeve zemaljske, ne sustaje niti se utruðuje? razumu njegovu nema mjere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "On daje snagu umornome, i nejakome umnožava krjepost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Djeca se more i sustaju, i mladiæi padaju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ali koji se nadaju Gospodu, dobijaju novu snagu, podižu se na krilima kao orlovi, trèe i ne sustaju, hode i ne more se."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ISA/40.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 40
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ISA/41.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 41
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ISA/39.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ISA",
+    "chapter": 39
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

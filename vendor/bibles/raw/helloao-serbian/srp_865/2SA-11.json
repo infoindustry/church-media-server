@@ -1,0 +1,265 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2SA",
+    "translationId": "srp_865",
+    "name": "2. Samuelova",
+    "commonName": "2. Samuelova",
+    "title": "2. Samuelova",
+    "order": 10,
+    "numberOfChapters": 24,
+    "sha256": "e9bcfc863ad7bd2a939eb305126ad735f393202a88f773ac55550249ed219529",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 24,
+    "lastChapterApiLink": "/api/srp_865/2SA/24.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2SA",
+      "chapter": 24
+    },
+    "totalNumberOfVerses": 695
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad proðe godina, u vrijeme kad carevi idu na vojsku, posla David Joava i sluge svoje s njim, i svega Izrailja, te potirahu sinove Amonove, i opkoliše Ravu; a David osta u Jerusalimu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I pred veèe usta David s postelje svoje, i hodajuæi po krovu carskoga dvora ugleda s krova ženu gdje se mije, a žena bijaše vrlo lijepa na oèi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "I David posla da propitaju za ženu i rekoše: nije li to Vitsaveja kæi Elijamova žena Urije Hetejina?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I David posla poslanike da je dovedu; i kad doðe k njemu, on leže s njom, a ona se bješe oèistila od neèistote svoje; poslije se vrati svojoj kuæi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I zatrudnje žena, te posla i javi Davidu govoreæi: trudna sam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tada David posla k Joavu i poruèi: pošlji mi Uriju Hetejina. I posla Joav Uriju k Davidu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I kad Urija doðe k njemu, zapita ga David kako je Joav i kako je narod i kako ide rat."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Potom reèe David Uriji: idi kuæi svojoj, i operi noge svoje. I Urija izide iz careva dvora, a za njim iznesoše jelo carsko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ali Urija leže na vratima dvora careva sa svijem slugama gospodara svojega, i ne otide kuæi svojoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I javiše Davidu govoreæi: Urija nije otišao kuæi svojoj. A David reèe Uriji: nijesi li došao s puta? zašto ne ideš kuæi svojoj?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A Urija reèe Davidu: kovèeg i Izrailj i Juda stoje po šatorima, i Joav gospodar moj i sluge gospodara mojega stoje u polju, pa kako bih ja ušao u kuæu svoju da jedem i pijem i spavam sa ženom svojom? Tako ti bio živ i tako bila živa duša tvoja, neæu to uèiniti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Tada reèe David Uriji: ostani ovdje još danas, pa æu te sjutra otpustiti. Tako osta Urija u Jerusalimu onaj dan i sjutradan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I pozva ga David da jede i pije s njim, te ga opije. A uveèe otide, te leže na postelju svoju sa slugama gospodara svojega, a kuæi svojoj ne otide."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A ujutru napisa David knjigu Joavu, i posla po Uriji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A u knjizi pisa i reèe: namjestite Uriju gdje je najžešæi boj, pa se uzmaknite od njega da bi ga ubili da pogine."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I Joav opkolivši grad namjesti Uriju na mjesto gdje je znao da su najhrabriji ljudi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I izidoše ljudi iz grada i pobiše se s Judom. I pogibe iz naroda nekoliko sluga Davidovijeh; pogibe i Urija Hetejin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Tada Joav posla k Davidu, i javi mu sve što bi u boju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I zapovjedi glasniku govoreæi: kad pripovjediš caru sve što je bilo u boju,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ako se razgnjevi car i reèe ti: zašto ste išli tako blizu grada da se bijete? zar nijeste znali kako se strijelja s grada?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ko je ubio Avimeleha sina Jeruvesetova? nije li žena bacila na nj komad žrvnja sa zida, te pogibe u Tevesu? zašto ste išli blizu zida? tada reci: poginuo je i sluga tvoj Urija Hetejin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I otide glasnik, i došavši javi Davidu sve za što ga je poslao Joav."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I reèe glasnik Davidu: bijahu jaèi od nas, i izidoše u polje na nas, ali ih uzbismo do vrata gradskih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A strijelci stadoše strijeljati na sluge tvoje sa zida, i pogibe nekoliko sluga carevijeh, tako i sluga tvoj Urija Hetejin pogibe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Tada reèe David glasniku: ovako reci Joavu: ne budi zlovoljan za to; jer maè proždire sad ovoga sad onoga; udri još jaèe na grad i raskopaj ga. Tako ga ohrabri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A žena Urijina èuvši da je poginuo muž njezin Urija, plaka za mužem svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "A kad proðe žalost, posla David i uze je u kuæu svoju, i ona mu posta žena, i rodi mu sina. Ali ne bješe po volji Gospodu što uèini David."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2SA/11.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 11
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2SA/12.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 12
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2SA/10.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2SA",
+    "chapter": 10
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

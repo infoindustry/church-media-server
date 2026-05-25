@@ -1,0 +1,321 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "srp_865",
+    "name": "Izlazak",
+    "commonName": "Izlazak",
+    "title": "Izlazak",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "92b20d8365021d60c1fe59cb7cec4bd8cd25f17e289fb619a76376b27a3ed30c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/EXO/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 1
+    },
+    "lastChapterNumber": 40,
+    "lastChapterApiLink": "/api/srp_865/EXO/40.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "EXO",
+      "chapter": 40
+    },
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada reèe Gospod Mojsiju: idi k Faraonu, i reci mu: ovako veli Gospod Bog Jevrejski: pusti narod moj da mi posluži;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ako li ih ne pustiš nego ih još staneš zadržavati,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Evo, ruka Gospodnja doæi æe na stoku tvoju u polju, na konje, na magarce, na kamile, na volove i na ovce, s pomorom vrlo velikim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A odvojiæe Gospod stoku Izrailjsku od stoke Misirske; te od svega što je sinova Izrailjevijeh neæe poginuti ništa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I postavio je Gospod rok rekavši: sjutra æe to uèiniti na zemlji Gospod."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I Gospod uèini to sjutradan, i sva stoka Misirska uginu; a od stoke sinova Izrailjevijeh ne uginu nijedno."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I posla Faraon da vide, i gle, od stoke Izrailjske ne uginu nijedno; ipak otvrdnu srce Faraonu, i ne pusti naroda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tada reèe Gospod Mojsiju i Aronu: uzmite pepela iz peæi pune pregršti, i Mojsije neka ga baci u nebo pred Faraonom;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I postaæe prah po svoj zemlji Misirskoj, a od njega æe postati kraste pune gnoja i na ljudima i na stoci po svoj zemlji Misirskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I uzeše pepela iz peæi, i stadoše pred Faraona, i baci ga Mojsije u nebo, i postaše kraste pune gnoja po ljudima i po stoci."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I vraèari ne mogoše stajati pred Mojsijem od krasta; jer bijahu kraste i na vraèarima i na svijem Misircima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I Gospod uèini te otvrdnu srce Faraonovo, i ne posluša ih, kao što bješe kazao Gospod Mojsiju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Poslije reèe Gospod Mojsiju: ustani rano i izaði pred Faraona, i reci mu: ovako veli Gospod Bog Jevrejski: pusti narod moj da mi posluži."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer æu sada pustiti sva zla svoja na srce tvoje i na sluge tvoje i na narod tvoj, da znaš da niko nije kao ja na cijeloj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer sada kad pružih ruku svoju, mogah i tebe i narod tvoj udariti pomorom, pa te ne bi više bilo na zemlji;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ali te ostavih da pokažem na tebi silu svoju, i da se pripovijeda ime moje po svoj zemlji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I ti se još podižeš na moj narod, i neæeš da ga pustiš?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Evo, sjutra æu u ovo doba pustiti grad vrlo velik, kakoga nije bilo u Misiru otkako je postao pa do sada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Zato sada pošlji, te skupi stoku svoju i što god imaš u polju, jer æe pasti grad na sve ljude i na stoku što se zateèe u polju i ne bude skupljeno u kuæu, i izginuæe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Koji se god izmeðu sluga Faraonovijeh poboja rijeèi Gospodnje, on brže skupi sluge svoje i stoku svoju u kuæu;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "A koji ne maraše za rijeè Gospodnju, on ostavi sluge svoje i stoku svoju u polju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I Gospod reèe Mojsiju: pruži ruku svoju k nebu, neka udari grad po svoj zemlji Misirskoj, na ljude i na stoku i na sve bilje po polju u zemlji Misirskoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "I Mojsije pruži štap svoj k nebu, i Gospod pusti gromove i grad, da oganj skakaše na zemlju. I tako Gospod uèini, te pade grad na zemlju Misirsku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "A bješe grad i oganj smiješan s gradom silan veoma, kakoga ne bješe u svoj zemlji Misirskoj otkako je ljudi u njoj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "I pobi grad po svoj zemlji Misirskoj što god bješe u polju od èovjeka do živinèeta; i sve bilje u polju potr grad, i sva drveta u polju polomi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Samo u zemlji Gesemskoj, gdje bijahu sinovi Izrailjevi, ne bješe grada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Tada posla Faraon, te dozva Mojsija i Arona, i reèe im: sada zgriješih; Gospod je pravedan, a ja i moj narod jesmo bezbožnici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Molite se Gospodu, jer je dosta, neka prestanu gromovi Božji i grad, pa æu vas pustiti, i više vas neæe niko ustavljati."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "A Mojsije mu reèe: kad izaðem iza grada, raširiæu ruke svoje ka Gospodu, a gromovi æe prestati i grada neæe više biti, da znaš da je Gospodnja zemlja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "A ti i sluge tvoje znam da se još neæete bojati Gospoda Boga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "I propade lan i jeèam, jer jeèam bješe klasao, a lan se glavièio."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "A pšenica i krupnik ne propade, jer bješe pozno žito."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I Mojsije otišav od Faraona iza grada raširi ruke svoje ka Gospodu, i prestaše gromovi i grad, i dažd ne padaše na zemlju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ali Faraon vidjev gdje presta dažd i grad i gromovi, stade opet griješiti, i srce mu otvrdnu i njemu i slugama njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Otvrdnu srce Faraonu, te ne pusti sinova Izrailjevijeh, kao što bješe kazao Gospod preko Mojsija."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/EXO/9.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 9
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/EXO/10.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 10
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/EXO/8.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "EXO",
+    "chapter": 8
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

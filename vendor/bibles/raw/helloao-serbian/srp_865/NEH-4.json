@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "NEH",
+    "translationId": "srp_865",
+    "name": "Nehemija",
+    "commonName": "Nehemija",
+    "title": "Nehemija",
+    "order": 16,
+    "numberOfChapters": 13,
+    "sha256": "b3e002d188e97ff8412d809ae23924019a35a6f9ea4afc2d33f820ac54e43f1c",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/NEH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "NEH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 13,
+    "lastChapterApiLink": "/api/srp_865/NEH/13.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "NEH",
+      "chapter": 13
+    },
+    "totalNumberOfVerses": 406
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad èu Sanavalat da zidamo zid, razgnjevi se i rasrdi se vrlo, i rugaše se Jevrejima,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I govoraše pred braæom svojom i vojnicima Samarijskim: šta rade ti nemoæni Judejci? hoæemo li ih ostaviti? hoæe li prinositi žrtve? hoæe li sada svršiti? eda li æe u život povratiti iz praha kamenje spaljeno?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A Tovija Amonac koji bijaše uza nj reèe: neka zidaju; da lisica doðe, provaliæe kameni zid njihov."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Èuj, Bože naš, kako nas preziru; obrati rug njihov na njihovu glavu, i daj da budu grabež u zemlji gdje bi robovali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "I ne pokrivaj bezakonja njihova, i grijeh njihov da se ne izbriše pred tobom, jer te dražiše za one koji zidaju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I tako zidasmo zid, i sav se zid sastavi do polovine, i narod imaše volju da radi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "A kad èu Sanavalat i Tovija i Arapi i Amonci i Azoæani da se opravlja zid Jerusalimski i da se poèelo zatvorati što je provaljeno, razgnjeviše se vrlo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I složiše se svi zajedno da doðu i da udare na Jerusalim i da smetu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A mi se molismo Bogu svojemu i postavljasmo stražu prema njima dan i noæ od straha njihova."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A Judejci rekoše: klonula je snaga nosiocima, a praha ima mnogo, ne možemo zidati zida."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A naši neprijatelji rekoše: da ne doznadu i ne opaze dokle ne doðemo usred njih, pa æemo ih pobiti i prekinuti posao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ali doðoše Judejci koji kod njih življahu, i kazaše nam deset puta: èuvajte sva mjesta kuda se ide k nama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Tada namjestih narod u nizima iza zida i na strmenima, postavih narod po porodicama s maèevima i kopljima i lukovima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I razgledavši ustah i rekoh starješinama i glavarima i ostalom narodu: ne bojte ih se. Pomenite Gospoda velikoga i strašnoga, i bijte se za braæu svoju, za sinove svoje i kæeri svoje, za žene svoje i kuæe svoje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A kad èuše neprijatelji naši da smo doznali, razbi Gospod njihovu namjeru, i mi se vratismo svi k zidu, svaki na svoj posao."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "I od tada polovina mojih momaka poslovaše, a druga polovina držaše koplja i štitove i lukove i oklope, i knezovi stajahu iza svega doma Judina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I koji zidahu i koji nošahu teret i koji tovarahu, svaki jednom rukom raðaše a u drugoj držaše koplje."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "A koji zidahu, svaki imahu maè pripasan uz bedricu, i tako zidahu. A trubaè stajaše kod mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer rekoh starješinama i glavarima i ostalom narodu: posao je velik i dug, i mi smo se rasuli po zidu daleko jedan od drugoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Gdje èujete trubu da trubi, onamo trèite k nama; Bog naš vojevaæe za nas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Tako raðasmo posao, i polovina ih držaše koplja od zore pa dokle zvijezde ne izidu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "U to vrijeme još rekoh narodu: svaki s momkom svojim neka noæuje u Jerusalimu da bi nam noæu stražili a danju radili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A ja i moja braæa i momci moji i stražari što idu za mnom neæemo svlaèiti sa sebe haljina; u svakoga da je maè i voda."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/NEH/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "NEH",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/NEH/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "NEH",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/NEH/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "NEH",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

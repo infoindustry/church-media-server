@@ -1,0 +1,251 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "srp_865",
+    "name": "1. Samuelova",
+    "commonName": "1. Samuelova",
+    "title": "1. Samuelova",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "9d6768f949216dc449dc05b67571687b933b05f0eadd991bb5b3093d487bed97",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1SA/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 1
+    },
+    "lastChapterNumber": 31,
+    "lastChapterApiLink": "/api/srp_865/1SA/31.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1SA",
+      "chapter": 31
+    },
+    "totalNumberOfVerses": 811
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada reèe Samuilo svemu Izrailju: eto, poslušao sam glas vaš u svemu što mi rekoste, i postavih cara nad vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I sada eto, car ide pred vama, a ja sam ostario i osijedio; i sinovi moji eto su meðu vama; i ja sam išao pred vama od mladosti svoje do danas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Evo me; odgovorite mi pred Gospodom i pred pomazanikom njegovijem. Kome sam uzeo vola ili kome sam uzeo magarca? kome sam uèinio nasilje? kome sam uèinio krivo? ili iz èije sam ruke uzeo poklon, da bih stiskao oèi njega radi? pak æu vam vratiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "A oni rekoše: nijesi nam uèinio sile niti si kome uèinio krivo, niti si uzeo što iz èije ruke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jošte im reèe: svjedok je Gospod na vas, i svjedok je pomazanik njegov danas, da nijeste našli ništa u mojim rukama. I rekoše: svjedok je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Tada reèe Samuilo narodu: Gospod je koji je postavio Mojsija i Arona, i koji je izveo oce vaše iz zemlje Misirske."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Sada dakle stanite da se prem s vama pred Gospodom za sva dobra što je èinio Gospod vama i vašim ocima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Pošto doðe Jakov u Misir, vikaše oci vaši ka Gospodu, i Gospod posla Mojsija i Arona, koji izvedoše oce vaše iz Misira i naseliše ih na ovom mjestu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ali zaboraviše Gospoda Boga svojega, te ih dade u ruke Sisari vojvodi Asorskom, i u ruke Filistejima, i u ruke caru Moavskomu, koji vojevaše na njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ali vikaše ka Gospodu i rekoše: sagriješismo što ostavismo Gospoda i služismo Valima i Astarotama; ali sada izbavi nas iz ruku neprijatelja naših, pa æemo ti služiti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I Gospod posla Jerovala i Vedana i Jeftaja i Samuila, i ote vas iz ruku neprijatelja vaših unaokolo, te živjeste bez straha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ali kad vidjeste Nasa cara Amonskoga gdje doðe na vas, rekoste mi: ne, nego car neka caruje nad nama, premda Gospod Bog vaš bješe car vaš."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Sada dakle, eto cara kojega izabraste, kojega iskaste; evo, Gospod je postavio cara nad vama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ako se uzbojite Gospoda, i njemu uzaslužite, i uzaslušate glas njegov i ne usprotivite se zapovijesti Gospodnjoj, tada æete i vi i car vaš koji caruje nad vama iæi za Gospodom Bogom svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ako li ne uzaslušate glasa Gospodnjega, nego se usprotivite zapovijesti Gospodnjoj, tada æe biti ruka Gospodnja protiv vas kao što je bila protiv otaca vaših."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ali stanite sada jošte, i vidite ovu stvar veliku koju æe uèiniti Gospod pred vašim oèima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Nije li danas žetva pšenièna? Ja æu prizvati Gospoda, i spustiæe gromove i dažd, da razumijete i vidite koliko je zlo što uèiniste pred Gospodom iskavši sebi cara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Tada Samuilo zavapi ka Gospodu, i Gospod spusti gromove i dažd u taj dan; i sav se narod poboja vrlo Gospoda i Samuila."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I reèe sav narod Samuilu: moli se za sluge svoje Gospodu Bogu svojemu da ne pomremo; jer dodasmo k svijem grijesima svojim zlo ištuæi sebi cara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Tada reèe Samuilo narodu: ne bojte se, vi ste uèinili sve ovo zlo; ali ne otstupajte od Gospoda, nego služite Gospodu svijem srcem svojim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ne otstupajte; jer biste pošli za ništavim stvarima, koje ne pomažu, niti izbavljaju, jer su ništave."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jer Gospod neæe ostaviti naroda svojega radi velikoga imena svojega; jer Gospodu bi volja da vas uèini svojim narodom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A meni ne dao Bog da zgriješim Gospodu i prestanem moliti se za vas; nego æu vas upuæivati na put dobar i prav."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Samo se Bojte Gospoda i služite mu istinito, svijem srcem svojim, jer vidite, kakve je velike stvari uèinio za vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ako li zlo ušèinite, propašæete i vi i car vaš."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1SA/12.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 12
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1SA/13.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 13
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1SA/11.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1SA",
+    "chapter": 11
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

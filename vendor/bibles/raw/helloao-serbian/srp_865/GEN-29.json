@@ -1,0 +1,321 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "srp_865",
+    "name": "Postanak",
+    "commonName": "Postanak",
+    "title": "Postanak",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "06831d15e44cbf8a0f1a1857e1540f955b0ccd67bd28d978048ad91ef78c68dd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/GEN/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 1
+    },
+    "lastChapterNumber": 50,
+    "lastChapterApiLink": "/api/srp_865/GEN/50.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "GEN",
+      "chapter": 50
+    },
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 29,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Tada se podiže Jakov i otide u zemlju istoènu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I obziruæi se ugleda studenac u polju; i gle, tri stada ovaca ležahu kod njega, jer se na onom studencu pojahu stada, a veliki kamen bijaše studencu na vratima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ondje se skupljahu sva stada, te pastiri odvaljivahu kamen s vrata studencu i pojahu stada, i poslije opet privaljivahu kamen na vrata studencu na njegovo mjesto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I Jakov im reèe: braæo, odakle ste? Rekoše: iz Harana smo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A on im reèe: poznajete li Lavana sina Nahorova? Oni rekoše: poznajemo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "On im reèe: je li zdrav? Rekoše: jest, i evo Rahilje kæeri njegove, gdje ide sa stadom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I on reèe: eto još je rano, niti je vrijeme vraæati stoku; napojte stoku pa idite i pasite je."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A oni rekoše: ne možemo, dokle se ne skupe sva stada, da odvalimo kamen s vrata studencu, onda æemo napojiti stoku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Dok on još govoraše s njima, doðe Rahilja sa stadom oca svojega, jer ona pasijaše ovce."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A kad Jakov vidje Rahilju kæer Lavana ujaka svojega, i stado Lavana ujaka svojega, pristupi Jakov i odvali kamen studencu s vrata, i napoji stado Lavana ujaka svojega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I poljubi Jakov Rahilju, i povikavši zaplaka se."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I kaza se Jakov Rahilji da je rod ocu njezinu i da je sin Reveèin; a ona otrèa te javi ocu svojemu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A kad Lavan èu za Jakova sina sestre svoje, istrèa mu na susret, i zagrli ga i poljubi, i uvede u svoju kuæu. I on pripovjedi Lavanu sve ovo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "A Lavan mu reèe: ta ti si kost moja i tijelo moje. I osta kod njega cio mjesec dana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tada reèe Lavan Jakovu: zar badava da mi služiš, što si mi rod? Kaži mi šta æe ti biti plata?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A Lavan imaše dvije kæeri: starijoj bješe ime Lija, a mlaðoj Rahilja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I u Lije bjehu kvarne oèi, a Rahilja bješe lijepa stasa i lijepa lica."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "I Jakovu omilje Rahilja, te reèe: služiæu ti sedam godina za Rahilju, mlaðu kæer tvoju."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "A Lavan mu reèe: bolje tebi da je dam nego drugom; ostani kod mene."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "I otsluži Jakov za Rahilju sedam godina, i uèiniše mu se kao nekoliko dana, jer je ljubljaše."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "I reèe Jakov Lavanu: daj mi ženu, jer mi se navrši vrijeme, da legnem s njom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I sazva Lavan sve ljude iz onoga mjesta i uèini gozbu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A uveèe uze Liju kæer svoju i uvede je k Jakovu, i on leže s njom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "I Lavan dade Zelfu robinju svoju Liji kæeri svojoj da joj bude robinja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "A kad bi ujutru, gle, ono bješe Lija; te reèe Jakov Lavanu: šta si mi to uèinio? ne služim li za Rahilju kod tebe? zašto si me prevario?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "A Lavan mu reèe: ne biva u našem mjestu da se uda mlaða prije starije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Navrši nedjelju dana s tom, pa æemo ti dati i drugu za službu što æeš služiti kod mene još sedam godina drugih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Jakov uèini tako, i navrši s njom nedjelju dana, pa mu dade Lavan Rahilju kæer svoju za ženu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "I dade Lavan Rahilji kæeri svojoj robinju svoju Valu da joj bude robinja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "I tako leže Jakov s Rahiljom; i voljaše Rahilju nego Liju, i stade služiti kod Lavana još sedam drugih godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "A Gospod videæi da Jakov ne mari za Liju, otvori njojzi matericu, a Rahilja osta nerotkinja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "I Lija zatrudnje, i rodi sina, i nadjede mu ime Ruvim, govoreæi: Gospod pogleda na jade moje, sada æe me ljubiti muž moj."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "I opet zatrudnje, i rodi sina, i reèe: Gospod èu da sam prezrena, pa mi dade i ovoga. I nadjede mu ime Simeun."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "I opet zatrudnje, i rodi sina, i reèe: da ako se sada veæ priljubi k meni muž moj, kad mu rodih tri sina. Zato mu nadješe ime Levije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "I zatrudnje opet, i rodi sina, i reèe: sada æu hvaliti Gospoda. Zato mu nadjede ime Juda; i presta raðati."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/GEN/29.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 29
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/GEN/30.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 30
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/GEN/28.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "GEN",
+    "chapter": 28
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

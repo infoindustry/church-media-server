@@ -1,0 +1,230 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ECC",
+    "translationId": "srp_865",
+    "name": "Propovednik",
+    "commonName": "Propovednik",
+    "title": "Propovednik",
+    "order": 21,
+    "numberOfChapters": 12,
+    "sha256": "fe2dc33485c617d1c3f800f25752794cc56e27b2cfb10665b2db83a839e4fb36",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/ECC/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "ECC",
+      "chapter": 1
+    },
+    "lastChapterNumber": 12,
+    "lastChapterApiLink": "/api/srp_865/ECC/12.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "ECC",
+      "chapter": 12
+    },
+    "totalNumberOfVerses": 222
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Svemu ima vrijeme, i svakom poslu pod nebom ima vrijeme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ima vrijeme kad se raða, i vrijeme kad se umire; vrijeme kad se sadi, i vrijeme kad se èupa posaðeno;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Vrijeme kad se ubija, i vrijeme kad se iscjeljuje; vrijeme kad se razvaljuje, i vrijeme kad se gradi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Vrijeme plaèu i vrijeme smijehu; vrijeme ridanju i vrijeme igranju;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Vrijeme kad se razmeæe kamenje, i vrijeme kad se skuplja kamenje; vrijeme kad se grli, i vrijeme kad se ostavlja grljenje;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Vrijeme kad se teèe, i vrijeme kad se gubi; vrijeme kad se èuva, i vrijeme kad se baca;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Vrijeme kad se dere, i vrijeme kad se sašiva; vrijeme kad se muèi, i vrijeme kad se govori;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Vrijeme kad se ljubi, i vrijeme kad se mrzi; vrijeme ratu i vrijeme miru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Kaka je korist onome koji radi od onoga oko èega se trudi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Vidio sam poslove koje je Bog dao sinovima ljudskim da se muèe oko njih."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Sve je uèinio da je lijepo u svoje vrijeme, i svijet metnuo im je u srce, ali da ne može èovjek dokuèiti djela koja Bog tvori, ni poèetka ni kraja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Doznah da nema ništa bolje za njih nego da se vesele i èine dobro za života svoga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I kad svaki èovjek jede i pije i uživa dobra od svakoga truda svojega, to je dar Božji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Doznah da što god tvori Bog ono traje dovijeka, ne može mu se ništa dodati niti se od toga može što oduzeti; i Bog tvori da bi ga se bojali."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Što je bilo to je sada, i što æe biti to je veæ bilo; jer Bog povraæa što je prošlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Još vidjeh pod suncem gdje je mjesto suda bezbožnost i mjesto pravde bezbožnost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I rekoh u srcu svom: Bog æe suditi pravedniku i bezbožniku; jer ima vrijeme svemu i svakom poslu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Rekoh u srcu svom za sinove ljudske da im je Bog pokazao da vide da su kao stoka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jer što biva sinovima ljudskim to biva i stoci, jednako im biva; kako gine ona tako ginu i oni, i svi imaju isti duh; i èovjek ništa nije bolji od stoke, jer je sve taština."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Sve ide na jedno mjesto; sve je od praha i sve se vraæa u prah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ko zna da duh sinova ljudskih ide gore, a duh stoke da ide dolje pod zemlju?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Zato vidjeh da ništa nema bolje èovjeku nego da se veseli onijem što radi, jer mu je to dio; jer ko æe ga dovesti da vidi što æe biti poslije njega?"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/ECC/3.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 3
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/ECC/4.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 4
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/ECC/2.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "ECC",
+    "chapter": 2
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

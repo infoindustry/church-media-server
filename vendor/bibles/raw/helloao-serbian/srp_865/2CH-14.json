@@ -1,0 +1,181 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "srp_865",
+    "name": "2. Dnevnika",
+    "commonName": "2. Dnevnika",
+    "title": "2. Dnevnika",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "712160a45a7d7fb40ad6e8f55f27c6bc71cf3a3fca70d89afd22674733ec70a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/2CH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 36,
+    "lastChapterApiLink": "/api/srp_865/2CH/36.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "2CH",
+      "chapter": 36
+    },
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 14,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kad poèinu Avija kod otaca svojih i pogreboše ga u gradu Davidovu, zacari se na njegovo mjesto Asa sin njegov. Za njegova vremena poèinu zemlja deset godina."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I èinjaše Asa što je dobro i pravo pred Gospodom Bogom njegovijem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer obori oltare tuðe i visine, i izlomi likove njihove i isijeèe lugove njihove."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I zapovjedi sinovima Judinijem da traže Gospoda Boga otaca svojih i da izvršuju zakon i zapovijest njegovu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Obori po svijem gradovima Judinijem visine i sunèane likove, i poèinu carstvo za njegova vremena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I sazida tvrde gradove u zemlji Judinoj, jer zemlja bijaše u miru, niti bješe rata s njim onijeh godina, jer mu Gospod dade mir."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "I reèe Judi: da sazidamo ove gradove i da ih opašemo zidom i kulama i vratima i prijevornicama, dok je zemlja naša; jer tražismo Gospoda Boga svojega, tražismo ga i dade nam mir otsvuda. I tako zidaše, i biše sreæni."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "I imaše Asa vojske trista tisuæa od Jude sa štitovima i kopljima, a od Venijamina dvjesta i osamdeset tisuæa sa štitovima i lukovima. Svi bijahu hrabri vojnici."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "I izide na njih Zara Etiopljanin s tisuæu tisuæa vojske i s trista kola, i doðe do Marise."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "I Asa izide preda nj; i uvrstaše se vojske u dolini Sefati kod Marise."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I zavapi Asa ka Gospodu Bogu svojemu govoreæi: Gospode, tebi je ništa pomoæi množini ili nejakomu; pomozi nam, Gospode Bože naš, jer se u te uzdamo, i u tvoje ime doðosmo na ovo mnoštvo. Gospode, ti si Bog naš, ne daj da može što na te èovjek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "I razbi Gospod Etiopljane pred Asom i pred Judom, i pobjegoše Etiopljani."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "I tjera ih Asa i narod koji bijaše s njim dori do Gerara. I popadaše Etiopljani da ih nijedan ne osta živ, jer se satrše pred Gospodom i pred vojskom njegovom; i oni odnesoše plijen velik veoma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "I pobiše sve gradove oko Gerara, jer doðe na njih strah Gospodnji, i oplijeniše sve one gradove, jer bijaše u njima mnogo plijena."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Pobiše i po stanovima pastirskim ljude, i odvedoše mnogo ovaca i kamila; i vratiše se u Jerusalim."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/2CH/14.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 14
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/2CH/15.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 15
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/2CH/13.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "2CH",
+    "chapter": 13
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 15
+}

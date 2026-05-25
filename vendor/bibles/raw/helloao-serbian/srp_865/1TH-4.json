@@ -1,0 +1,202 @@
+{
+  "translation": {
+    "id": "srp_865",
+    "name": "Sveta Biblija",
+    "website": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srp1865",
+    "shortName": "865",
+    "englishName": "Serbian Bible",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "c8b18c1de782cfb7b3259d3f24dd50ef3a67184386c733d03f367a5d3c89e7f1",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_865/books.json",
+    "completeTranslationApiLink": "/api/srp_865/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31100,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "1TH",
+    "translationId": "srp_865",
+    "name": "1 Solunjanima",
+    "commonName": "1 Solunjanima",
+    "title": "1. Solunjanima Poslanica",
+    "order": 52,
+    "numberOfChapters": 5,
+    "sha256": "48afe08020ab25baba1de9285dd4af45a0dce6d4d6999bfc846ad9d8ea6288a2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_865/1TH/1.json",
+    "firstChapterReference": {
+      "translationId": "srp_865",
+      "book": "1TH",
+      "chapter": 1
+    },
+    "lastChapterNumber": 5,
+    "lastChapterApiLink": "/api/srp_865/1TH/5.json",
+    "lastChapterReference": {
+      "translationId": "srp_865",
+      "book": "1TH",
+      "chapter": 5
+    },
+    "totalNumberOfVerses": 89
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Dalje, braæo, molimo vas i svjetujemo u Hristu Isusu, kao što primiste od nas, kako vam treba življeti i ugaðati Bogu, kao što živite, da bivate sve izobilniji."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jer znate kakve vam zapovijesti dadosmo kroz Gospoda Isusa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer je ovo volja Božija, svetost vaša, da se èuvate od kurvarstva,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "I svaki od vas da zna držati svoj sud u svetinji i u èasti,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A ne u slasti želja, kao i neznabošci, koji ne poznaju Boga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "I da ne prestupate i zakidate u stvari brata svojega; jer æe Gospod pokajati sve to, kao što vam i prije kazasmo i posvjedoèismo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jer Bog nas ne dozva na neèistotu, nego u svetost."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Koji dakle odbacuje, ne odbacuje èovjeka nego Boga, koji je dao svetoga Duha svojega u vas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "A za bratoljublje ne trebujete da vam se piše, jer ste sami od Boga nauèeni da se ljubite meðu sobom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jer to èinite sa svom braæom po cijeloj Maæedoniji. Ali vas molimo, braæo, da još izobilnije èinite,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "I da se ljubazno starate da ste mirni, i da gledate svoj posao, i da radite svojijem rukama, kao što vam zapovjedismo;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Da se vladate pošteno prema onima što su napolju, i da od njih ništa ne potrebujete."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Neæu vam pak zatajiti, braæo, za one koji su umrli, da ne žalite kao i ostali koji nemaju nada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jer ako vjerujemo da Isus umrije i vaskrse, tako æe Bog i one koji su umrli u Isusu dovesti s njim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jer vam ovo kazujemo rijeèju Gospodnjom da mi koji živimo i ostanemo za dolazak Gospodnji, neæemo preteæi onijeh koji su pomrli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jer æe sam Gospod sa zapoviješæu, s glasom aranðelovijem, i s trubom Božijom siæi s neba; i mrtvi u Hristu vaskrsnuæe najprije;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A potom mi živi koji smo ostali, zajedno s njima biæemo uzeti u oblake na susret Gospodu na nebo, i tako æemo svagda s Gospodom biti."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Tako utješavajte jedan drugoga ovijem rijeèima."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_865/1TH/4.json",
+  "thisChapterReference": {
+    "translationId": "srp_865",
+    "book": "1TH",
+    "chapter": 4
+  },
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_865/1TH/5.json",
+  "nextChapterReference": {
+    "translationId": "srp_865",
+    "book": "1TH",
+    "chapter": 5
+  },
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_865/1TH/3.json",
+  "previousChapterReference": {
+    "translationId": "srp_865",
+    "book": "1TH",
+    "chapter": 3
+  },
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}
