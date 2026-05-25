@@ -702,7 +702,8 @@ function BiblePanel({ action }) {
   const quickOptions = [
     { id: 'ru_synodal', label: 'Русский · Синодальный' },
     { id: 'en_kjv', label: 'English · KJV' },
-    { id: 'sr_latn', label: 'Srpski/Crnogorski · Latinica' }
+    { id: 'sr_latn', label: 'Srpski · latinica' },
+    { id: 'sr_cyrl', label: 'Српски · ћирилица' }
   ];
   const currentBook = getCurrentBook();
   const currentChapter = getCurrentChapterInfo();

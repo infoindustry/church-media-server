@@ -48,3 +48,8 @@ npm run import:serbian
 ```
 
 Скрипт скачивает Serbian JSON из Free Use Bible API, автоматически выбирает доступный сербский перевод и добавляет его в `vendor/bibles/normalized/bibles.json` как `sr_latn`. Подробнее: `vendor/bibles/SERBIAN_SOURCE.md`.
+
+
+## Serbian DK ekavski
+
+В v1.3 добавлен загруженный SWORD-модуль `SrKDEkavski.zip` (Public Domain): Serbian Bible Daničić-Karadžić Ekavski. В приложении доступны `sr_latn` и `sr_cyrl`.
