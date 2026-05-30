@@ -14,7 +14,8 @@
     "import:serbian": "node scripts/import-serbian-helloao.mjs",
     "import:serbian:choose": "SERBIAN_TRANSLATION_ID=PUT_ID_HERE node scripts/import-serbian-helloao.mjs",
     "import:serbian:sword": "node scripts/import-serbian-sword.mjs",
-    "import:serbian:srponstl": "node scripts/import-serbian-srponstl.mjs"
+    "import:serbian:srponstl": "node scripts/import-serbian-srponstl.mjs",
+    "import:songs": "node scripts/import-songs.mjs"
   },
   "dependencies": {
     "@vitejs/plugin-react": "^4.2.1",

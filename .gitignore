@@ -4,3 +4,5 @@ dist
 server/media/*
 !server/media/.gitkeep
 server/data/*.bak
+import-songs/*
+!import-songs/.gitkeep
