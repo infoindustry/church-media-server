@@ -1,9 +1,8 @@
 @echo off
 chcp 65001 >nul
-title Church TV Screen
 cd /d "%~dp0"
-set "URL=http://localhost:4000/screen/main"
-set "PROFILE=%LOCALAPPDATA%\ChurchMediaServer\TVChromeProfile"
+set "URL=http://localhost:4000/admin"
+set "PROFILE=%LOCALAPPDATA%\ChurchMediaServer\AdminChromeProfile"
 
 set "BROWSER="
 if exist "%ProgramFiles%\Google\Chrome\Application\chrome.exe" set "CHROME=%ProgramFiles%\Google\Chrome\Application\chrome.exe"
@@ -15,9 +14,8 @@ if not "%CHROME%"=="" set "BROWSER=%CHROME%"
 if "%BROWSER%"=="" if not "%EDGE%"=="" set "BROWSER=%EDGE%"
 
 if "%BROWSER%"=="" (
-  echo Chrome or Edge not found. Open %URL% manually and press F11.
-  pause
-  exit /b 1
+  start "" "%URL%"
+  exit /b 0
 )
 
-start "" "%BROWSER%" --user-data-dir="%PROFILE%" --new-window --kiosk --autoplay-policy=no-user-gesture-required "%URL%"
+start "" "%BROWSER%" --user-data-dir="%PROFILE%" --new-window --app="%URL%"

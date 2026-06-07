@@ -38,6 +38,9 @@ const defaultStore = {
       overlay: true,
       textAlign: 'center',
       showChurchName: true
+    },
+    bible: {
+      scriptureWeight: 'medium'
     }
   },
   songs: [],
@@ -61,10 +64,16 @@ function ensureStore() {
 }
 
 function normalizeStore(store) {
+  const settings = store?.settings || {};
   return {
     ...defaultStore,
     ...store,
-    settings: { ...defaultStore.settings, ...(store?.settings || {}) },
+    settings: {
+      ...defaultStore.settings,
+      ...settings,
+      welcome: { ...defaultStore.settings.welcome, ...(settings.welcome || {}) },
+      bible: { ...defaultStore.settings.bible, ...(settings.bible || {}) }
+    },
     songs: Array.isArray(store?.songs) ? store.songs : [],
     announcements: Array.isArray(store?.announcements) ? store.announcements : [],
     translationLinks: Array.isArray(store?.translationLinks) ? store.translationLinks : [],
@@ -92,6 +101,18 @@ function writeStore(store) {
 
 function now() {
   return new Date().toISOString();
+}
+
+function normalizeScriptureWeight(value) {
+  return ['low', 'medium', 'high'].includes(value) ? value : 'medium';
+}
+
+function getBibleSettings(store) {
+  return {
+    ...defaultStore.settings.bible,
+    ...(store.settings?.bible || {}),
+    scriptureWeight: normalizeScriptureWeight(store.settings?.bible?.scriptureWeight)
+  };
 }
 
 function safeFileName(originalName) {
@@ -361,6 +382,7 @@ function stateFromPlanItem(item, store) {
   if (item.type === 'bible') return { mode: 'bible', payload: { ...payload, fromPlanItemId: item.id } };
   if (item.type === 'translation_qr') return { mode: 'translation_qr', payload: { ...payload, fromPlanItemId: item.id } };
   if (item.type === 'announcement') return { mode: 'announcement', payload: { ...payload, fromPlanItemId: item.id } };
+  if (item.type === 'external_board') return { mode: 'external_board', payload: { ...payload, fromPlanItemId: item.id } };
   if (item.type === 'image') return { mode: 'image', payload: { ...payload, fromPlanItemId: item.id } };
   if (item.type === 'slideshow') return { mode: 'slideshow', payload: { ...payload, fromPlanItemId: item.id } };
   if (item.type === 'welcome') return { mode: 'welcome', payload: { ...(store.settings?.welcome || {}), ...payload, fromPlanItemId: item.id } };
@@ -457,6 +479,20 @@ app.put('/api/settings/welcome', (req, res) => {
   res.json(store.settings);
 });
 
+app.put('/api/settings/bible', (req, res) => {
+  const store = readStore();
+  const current = getBibleSettings(store);
+  store.settings = {
+    ...(store.settings || {}),
+    bible: {
+      ...current,
+      scriptureWeight: normalizeScriptureWeight(req.body?.scriptureWeight ?? current.scriptureWeight)
+    }
+  };
+  writeStore(store);
+  res.json(store.settings.bible);
+});
+
 app.post('/api/welcome/show', (req, res) => {
   const store = readStore();
   const payload = { ...(store.settings?.welcome || defaultStore.settings.welcome), ...(req.body?.payload || {}) };
@@ -509,10 +545,12 @@ app.get('/api/bible/lookup', (req, res) => {
 });
 
 app.post('/api/bible/show-reference', (req, res) => {
+  const store = readStore();
   const result = lookupBible(req.body?.reference, req.body?.translations);
   if (!result.ok) return res.status(400).json(result);
   const blocks = result.blocks.filter(block => block.text);
   if (!blocks.length) return res.status(404).json({ error: 'Текст для выбранных переводов не найден.', result });
+  const bibleSettings = getBibleSettings(store);
   const state = updateScreenState('bible', {
     reference: result.reference,
     blocks,
@@ -520,7 +558,8 @@ app.post('/api/bible/show-reference', (req, res) => {
     language: blocks[0]?.language || '',
     translation: blocks[0]?.shortName || blocks[0]?.name || '',
     primaryTranslation: blocks[0]?.translationId || '',
-    selectedTranslations: blocks.map(b => b.translationId)
+    selectedTranslations: blocks.map(b => b.translationId),
+    scriptureWeight: normalizeScriptureWeight(req.body?.scriptureWeight ?? bibleSettings.scriptureWeight)
   });
   res.json(state);
 });
@@ -531,6 +570,7 @@ app.post('/api/bible/add-reference-to-plan', (req, res) => {
   const blocks = result.blocks.filter(block => block.text);
   if (!blocks.length) return res.status(404).json({ error: 'Текст для выбранных переводов не найден.', result });
   const store = readStore();
+  const bibleSettings = getBibleSettings(store);
   const payload = {
     reference: result.reference,
     blocks,
@@ -538,7 +578,8 @@ app.post('/api/bible/add-reference-to-plan', (req, res) => {
     language: blocks[0]?.language || '',
     translation: blocks[0]?.shortName || blocks[0]?.name || '',
     primaryTranslation: blocks[0]?.translationId || '',
-    selectedTranslations: blocks.map(b => b.translationId)
+    selectedTranslations: blocks.map(b => b.translationId),
+    scriptureWeight: normalizeScriptureWeight(req.body?.scriptureWeight ?? bibleSettings.scriptureWeight)
   };
   const item = makePlanItem({ type: 'bible', title: result.reference, payload });
   store.servicePlan.push(item);
@@ -766,6 +807,8 @@ app.post('/api/audio-tracks/:id/add-to-plan', (req, res) => {
 });
 
 app.post('/api/bible/show', (req, res) => {
+  const store = readStore();
+  const bibleSettings = getBibleSettings(store);
   const { reference, text, language, translation, secondaryText, secondaryLanguage } = req.body;
   if (!reference && !text) return res.status(400).json({ error: 'reference or text is required' });
   const state = updateScreenState('bible', {
@@ -775,13 +818,15 @@ app.post('/api/bible/show', (req, res) => {
     translation: translation || '',
     secondaryText: secondaryText || '',
     secondaryLanguage: secondaryLanguage || '',
-    blocks: Array.isArray(req.body?.blocks) ? req.body.blocks : undefined
+    blocks: Array.isArray(req.body?.blocks) ? req.body.blocks : undefined,
+    scriptureWeight: normalizeScriptureWeight(req.body?.scriptureWeight ?? bibleSettings.scriptureWeight)
   });
   res.json(state);
 });
 
 app.post('/api/bible/add-to-plan', (req, res) => {
   const store = readStore();
+  const bibleSettings = getBibleSettings(store);
   const payload = {
     reference: req.body.reference || 'Место Писания',
     text: req.body.text || '',
@@ -789,7 +834,8 @@ app.post('/api/bible/add-to-plan', (req, res) => {
     translation: req.body.translation || '',
     secondaryText: req.body.secondaryText || '',
     secondaryLanguage: req.body.secondaryLanguage || '',
-    blocks: Array.isArray(req.body?.blocks) ? req.body.blocks : undefined
+    blocks: Array.isArray(req.body?.blocks) ? req.body.blocks : undefined,
+    scriptureWeight: normalizeScriptureWeight(req.body?.scriptureWeight ?? bibleSettings.scriptureWeight)
   };
   const item = makePlanItem({ type: 'bible', title: payload.reference, payload });
   store.servicePlan.push(item);
@@ -822,10 +868,17 @@ app.post('/api/translation/add-to-plan', async (req, res) => {
 });
 
 app.post('/api/announcement/show', async (req, res) => {
-  const { title, body, qrUrl } = req.body;
+  const { title, titleEn, body, bodyEn, qrUrl } = req.body;
   let qrDataUrl = '';
   if (qrUrl) qrDataUrl = await QRCode.toDataURL(qrUrl, { margin: 1, width: 640 });
-  const payload = { title: title || 'Объявление', body: body || '', qrUrl: qrUrl || '', qrDataUrl };
+  const payload = {
+    title: title || 'Объявление',
+    titleEn: titleEn || '',
+    body: body || '',
+    bodyEn: bodyEn || '',
+    qrUrl: qrUrl || '',
+    qrDataUrl
+  };
   const store = readStore();
   store.announcements = [{ id: nanoid(10), ...payload, createdAt: now() }, ...(store.announcements || []).slice(0, 49)];
   writeStore(store);
@@ -833,10 +886,17 @@ app.post('/api/announcement/show', async (req, res) => {
 });
 
 app.post('/api/announcement/add-to-plan', async (req, res) => {
-  const { title, body, qrUrl } = req.body;
+  const { title, titleEn, body, bodyEn, qrUrl } = req.body;
   let qrDataUrl = '';
   if (qrUrl) qrDataUrl = await QRCode.toDataURL(qrUrl, { margin: 1, width: 640 });
-  const payload = { title: title || 'Объявление', body: body || '', qrUrl: qrUrl || '', qrDataUrl };
+  const payload = {
+    title: title || 'Объявление',
+    titleEn: titleEn || '',
+    body: body || '',
+    bodyEn: bodyEn || '',
+    qrUrl: qrUrl || '',
+    qrDataUrl
+  };
   const store = readStore();
   const item = makePlanItem({ type: 'announcement', title: payload.title, payload });
   store.servicePlan.push(item);
@@ -1056,6 +1116,9 @@ app.get('/api/checkup', (req, res) => {
     }
     if (item.type === 'translation_qr' && item.payload?.url?.startsWith('http')) {
       planWarnings.push({ index: index + 1, title: item.title, reason: 'Ссылка перевода может требовать интернет' });
+    }
+    if (item.type === 'external_board' && item.payload?.url?.startsWith('http')) {
+      planWarnings.push({ index: index + 1, title: item.title, reason: 'Миссионерский борд требует интернет' });
     }
     if (item.type === 'image' && item.payload?.mediaUrl && !localMediaExists(item.payload.mediaUrl)) {
       planWarnings.push({ index: index + 1, title: item.title, reason: 'Картинка не найдена' });

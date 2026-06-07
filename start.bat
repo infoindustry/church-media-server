@@ -13,6 +13,21 @@ if not exist dist (
 )
 
 echo Starting server on http://localhost:4000
-start "" cmd /c "timeout /t 3 >nul & start http://localhost:4000/admin"
+echo.
+echo Phone/admin addresses:
+for /f "tokens=2 delims=:" %%A in ('ipconfig ^| findstr /c:"IPv4 Address"') do (
+  set "IP=%%A"
+  call set "IP=%%IP: =%%"
+  call echo   http://%%IP%%:4000/admin
+)
+echo.
+echo TV screen addresses:
+for /f "tokens=2 delims=:" %%A in ('ipconfig ^| findstr /c:"IPv4 Address"') do (
+  set "IP=%%A"
+  call set "IP=%%IP: =%%"
+  call echo   http://%%IP%%:4000/screen/main
+)
+echo.
+start "" cmd /c "timeout /t 3 >nul & call ""%~dp0open-admin.bat"""
 node server/index.js
 pause

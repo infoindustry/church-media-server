@@ -4,5 +4,8 @@ dist
 server/media/*
 !server/media/.gitkeep
 server/data/*.bak
+server-start*.log
+server-start*.err
+Библейка/
 import-songs/*
 !import-songs/.gitkeep

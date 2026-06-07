@@ -1,10 +1,11 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import {
   Monitor, Music, BookOpen, QrCode, Megaphone, Moon, Play, Pause,
   Square, RotateCcw, Search, Upload, Wifi, AlertTriangle, CheckCircle2,
   Video, Radio, Home, Trash2, ClipboardList, SkipForward, SkipBack,
-  ListPlus, ArrowUp, ArrowDown, Plus, ExternalLink, Image, Images, Headphones, Volume2
+  ListPlus, ArrowUp, ArrowDown, Plus, ExternalLink, Image, Images, Headphones, Volume2,
+  GraduationCap, Clapperboard, Globe2, UsersRound
 } from 'lucide-react';
 import './styles.css';
 
@@ -25,6 +26,51 @@ function postJson(body) {
 
 function cx(...classes) {
   return classes.filter(Boolean).join(' ');
+}
+
+const LEARNING_SECTIONS = [
+  { id: 'bibleka', label: 'Библейка', icon: GraduationCap, prefixes: ['Библейка'], description: 'Семинары, богословские уроки и обучающие материалы.' },
+  { id: 'superbook', label: 'Суперкнига', icon: Clapperboard, prefixes: ['Superkniga', 'Суперкнига'], description: 'Видеоуроки, модули и материалы по Суперкниге.' }
+];
+
+const MISSION_BOARD_LINKS = [
+  {
+    id: 'missionaries',
+    title: 'Миссионеры',
+    subtitle: 'Борд миссионеров',
+    url: 'https://missionreport.top/church/board/church-board-2026-03-15-do4g?lang=en',
+    icon: UsersRound
+  },
+  {
+    id: 'prayer',
+    title: 'Молитвенный ТВ',
+    subtitle: 'Prayer mode',
+    url: 'https://missionreport.top/church/board/church-board-2026-03-15-do4g?tv=1&mode=prayer&lang=en',
+    icon: QrCode
+  },
+  {
+    id: 'globe',
+    title: 'Глобус',
+    subtitle: 'Globe mode',
+    url: 'https://missionreport.top/church/board/church-board-2026-03-15-do4g?tv=1&mode=globe&lang=en',
+    icon: Globe2
+  }
+];
+
+const BIBLE_WEIGHT_OPTIONS = [
+  { id: 'low', label: 'Low' },
+  { id: 'medium', label: 'Middle' },
+  { id: 'high', label: 'Big' }
+];
+
+function matchesMediaSection(item, prefixes) {
+  const category = String(item.category || '');
+  const original = String(item.originalFileName || '');
+  return prefixes.some(prefix => category === prefix || category.startsWith(`${prefix} /`) || original === prefix || original.startsWith(`${prefix}\\`) || original.startsWith(`${prefix}/`));
+}
+
+function isLearningMedia(item) {
+  return LEARNING_SECTIONS.some(section => matchesMediaSection(item, section.prefixes));
 }
 
 function App() {
@@ -86,9 +132,12 @@ function AdminApp() {
     ['plan', ClipboardList, 'План'],
     ['songs', Music, 'Песни'],
     ['audio', Headphones, 'Фонограммы'],
+    ['bibleka', GraduationCap, 'Библейка'],
+    ['superbook', Clapperboard, 'Суперкнига'],
     ['bible', BookOpen, 'Писание'],
     ['translation', QrCode, 'Перевод'],
     ['announcement', Megaphone, 'Объявления'],
+    ['missions', Globe2, 'Миссии'],
     ['media', Images, 'Картинки'],
     ['checkup', Wifi, 'Проверка']
   ];
@@ -138,9 +187,12 @@ function AdminApp() {
         {tab === 'plan' && <ServicePlanPanel plan={plan} refreshPlan={refreshPlan} action={action} />}
         {tab === 'songs' && <SongsPanel action={action} refreshPlan={refreshPlan} />}
         {tab === 'audio' && <AudioPanel action={action} refreshPlan={refreshPlan} />}
+        {tab === 'bibleka' && <LearningVideosPanel section={LEARNING_SECTIONS[0]} action={action} refreshPlan={refreshPlan} />}
+        {tab === 'superbook' && <LearningVideosPanel section={LEARNING_SECTIONS[1]} action={action} refreshPlan={refreshPlan} />}
         {tab === 'bible' && <BiblePanel action={action} />}
         {tab === 'translation' && <TranslationPanel action={action} />}
         {tab === 'announcement' && <AnnouncementPanel action={action} />}
+        {tab === 'missions' && <MissionBoardPanel action={action} />}
         {tab === 'media' && <MediaPanel action={action} />}
         {tab === 'checkup' && <CheckupPanel />}
       </main>
@@ -158,6 +210,7 @@ function describeState(state) {
   if (state.mode === 'bible') return `Писание: ${p.reference || ''}`;
   if (state.mode === 'translation_qr') return `QR перевода: ${p.title || p.url}`;
   if (state.mode === 'announcement') return `Объявление: ${p.title || ''}`;
+  if (state.mode === 'external_board') return `Миссии: ${p.title || p.url || ''}`;
   if (state.mode === 'image') return `Картинка: ${p.title || ''}`;
   if (state.mode === 'slideshow') return `Слайдшоу: ${p.title || ''} (${p.images?.length || 0})`;
   if (state.mode === 'blank') return p.title || p.subtitle ? `Заставка: ${p.title || p.subtitle}` : 'Черный экран';
@@ -166,7 +219,7 @@ function describeState(state) {
 
 function typeLabel(type) {
   return {
-    welcome: 'Приветствие', song: 'Песня', song_video: 'Песня', audio: 'Фонограмма', audio_track: 'Фонограмма', youtube_audio: 'YouTube audio', youtube: 'YouTube', bible: 'Писание', translation_qr: 'Перевод', announcement: 'Объявление', image: 'Картинка', slideshow: 'Слайдшоу', blank: 'Blank', loading: 'Загрузка'
+    welcome: 'Приветствие', song: 'Песня', song_video: 'Песня', audio: 'Фонограмма', audio_track: 'Фонограмма', youtube_audio: 'YouTube audio', youtube: 'YouTube', bible: 'Писание', translation_qr: 'Перевод', announcement: 'Объявление', external_board: 'Миссии', image: 'Картинка', slideshow: 'Слайдшоу', blank: 'Blank', loading: 'Загрузка'
   }[type] || type;
 }
 
@@ -375,6 +428,8 @@ function ServicePlanPanel({ plan, refreshPlan, action }) {
 function SongsPanel({ action, refreshPlan }) {
   const [songs, setSongs] = useState([]);
   const [q, setQ] = useState('');
+  const [language, setLanguage] = useState('');
+  const [category, setCategory] = useState('');
   const [loading, setLoading] = useState(false);
   const [selected, setSelected] = useState([]);
   const [form, setForm] = useState({ title: '', language: 'ru', category: 'Поклонение', tags: '', youtubeUrl: '' });
@@ -383,14 +438,59 @@ function SongsPanel({ action, refreshPlan }) {
 
   async function load() {
     setLoading(true);
-    try { setSongs(await api(`/api/songs?q=${encodeURIComponent(q)}`)); }
+    try { setSongs(await api('/api/songs')); }
     finally { setLoading(false); }
   }
 
   useEffect(() => { load(); }, []);
 
+  const songCatalog = useMemo(() => songs.filter(song => !isLearningMedia(song)), [songs]);
+
+  const languages = useMemo(() => {
+    const counts = new Map();
+    songCatalog.forEach(song => {
+      const value = song.language || 'ru';
+      counts.set(value, (counts.get(value) || 0) + 1);
+    });
+    return [...counts.entries()].sort((a, b) => b[1] - a[1]);
+  }, [songCatalog]);
+
+  const categories = useMemo(() => {
+    const counts = new Map();
+    songCatalog.forEach(song => {
+      const value = song.category || 'Без категории';
+      counts.set(value, (counts.get(value) || 0) + 1);
+    });
+    return [...counts.entries()].sort((a, b) => b[1] - a[1]);
+  }, [songCatalog]);
+
+  const filteredSongs = useMemo(() => {
+    const words = q.trim().toLowerCase().split(/\s+/).filter(Boolean);
+    return songCatalog.filter(song => {
+      if (language && String(song.language || '').toLowerCase() !== language.toLowerCase()) return false;
+      if (category && String(song.category || '') !== category) return false;
+      if (!words.length) return true;
+      const text = [song.title, song.language, song.category, song.originalFileName, ...(song.tags || [])].join(' ').toLowerCase();
+      return words.every(word => text.includes(word));
+    });
+  }, [songCatalog, q, language, category]);
+
+  function resetFilters() {
+    setQ('');
+    setLanguage('');
+    setCategory('');
+  }
+
   function toggleSong(id) {
     setSelected(prev => prev.includes(id) ? prev.filter(x => x !== id) : [...prev, id]);
+  }
+
+  function toggleVisibleSongs() {
+    const visibleIds = filteredSongs.map(song => song.id);
+    const allVisibleSelected = visibleIds.length > 0 && visibleIds.every(id => selected.includes(id));
+    setSelected(prev => allVisibleSelected
+      ? prev.filter(id => !visibleIds.includes(id))
+      : [...new Set([...prev, ...visibleIds])]);
   }
 
   async function submit(e) {
@@ -435,22 +535,64 @@ function SongsPanel({ action, refreshPlan }) {
     <section className="grid two">
       <div className="stack">
         <div className="card">
-          <h2>Быстрый план песен на день</h2>
-          <p>Найди песни, отметь галочками и одной кнопкой добавь их в план служения.</p>
-          <div className="search-row">
-            <Search size={18} />
-            <input value={q} onChange={e => setQ(e.target.value)} onKeyDown={e => e.key === 'Enter' && load()} placeholder="Поиск по названию, тегу, языку" />
-            <button onClick={load}>Найти</button>
+          <div className="card-title-row compact">
+            <div>
+              <h2>Быстрый поиск песен</h2>
+              <p>Название, язык и тема фильтруются сразу. Можно быстро собрать план или вывести песню на ТВ.</p>
+            </div>
+            <span className="result-count">{loading ? '...' : `${filteredSongs.length} / ${songCatalog.length}`}</span>
+          </div>
+          <div className="song-search-grid">
+            <label className="song-search-main">
+              <Search size={22} />
+              <input
+                autoFocus
+                value={q}
+                onChange={e => setQ(e.target.value)}
+                placeholder="Пишите: благословение, свят, рождество..."
+              />
+            </label>
+            <label>Язык
+              <select value={language} onChange={e => setLanguage(e.target.value)}>
+                <option value="">Все языки</option>
+                {languages.map(([value, count]) => <option value={value} key={value}>{value} ({count})</option>)}
+              </select>
+            </label>
+            <label>Тема
+              <select value={category} onChange={e => setCategory(e.target.value)}>
+                <option value="">Все темы</option>
+                {categories.map(([value, count]) => <option value={value} key={value}>{value} ({count})</option>)}
+              </select>
+            </label>
+          </div>
+          <div className="filter-chips">
+            {languages.slice(0, 8).map(([value, count]) => (
+              <button className={cx(language === value && 'active')} onClick={() => setLanguage(language === value ? '' : value)} key={value}>
+                {value} <span>{count}</span>
+              </button>
+            ))}
+          </div>
+          <div className="filter-chips category-chips">
+            {categories.slice(0, 8).map(([value, count]) => (
+              <button className={cx(category === value && 'active')} onClick={() => setCategory(category === value ? '' : value)} key={value}>
+                {value} <span>{count}</span>
+              </button>
+            ))}
           </div>
           <div className="selected-bar">
             <strong>Выбрано: {selected.length}</strong>
-            <button onClick={() => addSelectedToPlan(false)}><ListPlus size={17} /> Добавить выбранные в план</button>
-            <button className="danger" onClick={() => addSelectedToPlan(true)}><ClipboardList size={17} /> Новый план из выбранных</button>
+            <button onClick={toggleVisibleSongs}><CheckCircle2 size={17} /> {filteredSongs.length && filteredSongs.every(song => selected.includes(song.id)) ? 'Снять видимые' : 'Выбрать видимые'}</button>
+            <button onClick={() => addSelectedToPlan(false)}><ListPlus size={17} /> В план</button>
+            <button className="danger" onClick={() => addSelectedToPlan(true)}><ClipboardList size={17} /> Новый план</button>
+            <button onClick={resetFilters}><RotateCcw size={17} /> Сбросить</button>
           </div>
         </div>
 
-        <div className="card guest-card">
-          <h2>Гость принес YouTube-ссылку</h2>
+        <details className="card guest-card collapsible-tool">
+          <summary>
+            <span>Гость принес YouTube-ссылку</span>
+            <small>Открыть</small>
+          </summary>
           <p>Быстро добавить ссылку гостя. По умолчанию включаем режим “только звук”: на ТВ будет темная заставка, а YouTube iframe попытается стартовать автоматически.</p>
           <div className="form">
             <label>Название<input value={guest.title} onChange={e => setGuest({ ...guest, title: e.target.value })} placeholder="Песня гостя" /></label>
@@ -462,10 +604,13 @@ function SongsPanel({ action, refreshPlan }) {
               <button onClick={() => quickGuestYoutube('both')}><Play size={18} /> В план и на ТВ</button>
             </div>
           </div>
-        </div>
+        </details>
 
-        <div className="card">
-          <h2>Добавить локальную песню / видео</h2>
+        <details className="card collapsible-tool">
+          <summary>
+            <span>Добавить локальную песню / видео</span>
+            <small>Открыть</small>
+          </summary>
           <form className="form" onSubmit={submit}>
             <label>Название<input value={form.title} onChange={e => setForm({ ...form, title: e.target.value })} placeholder="Дух Святой приди" /></label>
             <div className="form-row">
@@ -477,16 +622,16 @@ function SongsPanel({ action, refreshPlan }) {
             <label className="file-input"><Upload size={18} /> <span>{file ? file.name : 'Выбрать локальный MP4/WebM/MOV'}</span><input type="file" accept="video/*" onChange={e => setFile(e.target.files?.[0] || null)} /></label>
             <button className="primary" type="submit"><Upload size={18} /> Добавить</button>
           </form>
-        </div>
+        </details>
       </div>
 
       <div className="card">
         <div className="card-title-row">
           <h2>Каталог песен</h2>
-          <span>{loading ? '...' : songs.length}</span>
+          <span>{loading ? '...' : filteredSongs.length}</span>
         </div>
         <div className="song-list">
-          {songs.map(song => (
+          {filteredSongs.map(song => (
             <article className={cx('song-item', selected.includes(song.id) && 'selected-item')} key={song.id}>
               <div className="song-select-line">
                 <input type="checkbox" checked={selected.includes(song.id)} onChange={() => toggleSong(song.id)} />
@@ -503,6 +648,166 @@ function SongsPanel({ action, refreshPlan }) {
               </div>
             </article>
           ))}
+          {!loading && filteredSongs.length === 0 && (
+            <div className="empty-search">
+              <Search size={26} />
+              <strong>Ничего не найдено</strong>
+              <p>Попробуйте убрать тему, язык или сократить текст поиска.</p>
+              <button onClick={resetFilters}>Сбросить фильтры</button>
+            </div>
+          )}
+        </div>
+      </div>
+    </section>
+  );
+}
+
+
+function LearningVideosPanel({ section, action, refreshPlan }) {
+  const [items, setItems] = useState([]);
+  const [q, setQ] = useState('');
+  const [category, setCategory] = useState('');
+  const [selected, setSelected] = useState([]);
+  const [loading, setLoading] = useState(false);
+
+  async function load() {
+    setLoading(true);
+    try {
+      const allSongs = await api('/api/songs');
+      setItems(allSongs.filter(item => matchesMediaSection(item, section.prefixes)));
+    } finally {
+      setLoading(false);
+    }
+  }
+
+  useEffect(() => { load(); }, [section.id]);
+
+  const categories = useMemo(() => {
+    const counts = new Map();
+    items.forEach(item => {
+      const value = item.category || section.label;
+      counts.set(value, (counts.get(value) || 0) + 1);
+    });
+    return [...counts.entries()].sort((a, b) => b[1] - a[1]);
+  }, [items, section.label]);
+
+  const filteredItems = useMemo(() => {
+    const words = q.trim().toLowerCase().split(/\s+/).filter(Boolean);
+    return items.filter(item => {
+      if (category && String(item.category || '') !== category) return false;
+      if (!words.length) return true;
+      const text = [item.title, item.category, item.originalFileName, ...(item.tags || [])].join(' ').toLowerCase();
+      return words.every(word => text.includes(word));
+    });
+  }, [items, q, category]);
+
+  function resetFilters() {
+    setQ('');
+    setCategory('');
+  }
+
+  function toggleItem(id) {
+    setSelected(prev => prev.includes(id) ? prev.filter(x => x !== id) : [...prev, id]);
+  }
+
+  function toggleVisibleItems() {
+    const visibleIds = filteredItems.map(item => item.id);
+    const allVisibleSelected = visibleIds.length > 0 && visibleIds.every(id => selected.includes(id));
+    setSelected(prev => allVisibleSelected
+      ? prev.filter(id => !visibleIds.includes(id))
+      : [...new Set([...prev, ...visibleIds])]);
+  }
+
+  async function addSelectedToPlan(clearBefore = false) {
+    if (!selected.length) return alert('Выбери видео галочками');
+    await api('/api/service-plan/add-songs-bulk', postJson({ songIds: selected, clearBefore }));
+    setSelected([]);
+    await refreshPlan();
+  }
+
+  async function remove(id) {
+    if (!confirm('Удалить материал из каталога? Файл на диске не удаляется.')) return;
+    await api(`/api/songs/${id}`, { method: 'DELETE' });
+    await load();
+    await refreshPlan();
+  }
+
+  return (
+    <section className="grid two">
+      <div className="stack">
+        <div className="card">
+          <div className="card-title-row compact">
+            <div>
+              <h2>{section.label}</h2>
+              <p>{section.description}</p>
+            </div>
+            <span className="result-count">{loading ? '...' : `${filteredItems.length} / ${items.length}`}</span>
+          </div>
+          <div className="song-search-grid learning-search-grid">
+            <label className="song-search-main">
+              <Search size={22} />
+              <input
+                autoFocus
+                value={q}
+                onChange={e => setQ(e.target.value)}
+                placeholder="Поиск по названию, уроку, модулю..."
+              />
+            </label>
+            <label>Тема / папка
+              <select value={category} onChange={e => setCategory(e.target.value)}>
+                <option value="">Все темы</option>
+                {categories.map(([value, count]) => <option value={value} key={value}>{value} ({count})</option>)}
+              </select>
+            </label>
+          </div>
+          <div className="filter-chips category-chips">
+            {categories.slice(0, 10).map(([value, count]) => (
+              <button className={cx(category === value && 'active')} onClick={() => setCategory(category === value ? '' : value)} key={value}>
+                {value} <span>{count}</span>
+              </button>
+            ))}
+          </div>
+          <div className="selected-bar">
+            <strong>Выбрано: {selected.length}</strong>
+            <button onClick={toggleVisibleItems}><CheckCircle2 size={17} /> {filteredItems.length && filteredItems.every(item => selected.includes(item.id)) ? 'Снять видимые' : 'Выбрать видимые'}</button>
+            <button onClick={() => addSelectedToPlan(false)}><ListPlus size={17} /> В план</button>
+            <button className="danger" onClick={() => addSelectedToPlan(true)}><ClipboardList size={17} /> Новый план</button>
+            <button onClick={resetFilters}><RotateCcw size={17} /> Сбросить</button>
+          </div>
+        </div>
+      </div>
+
+      <div className="card">
+        <div className="card-title-row">
+          <h2>Материалы</h2>
+          <span>{loading ? '...' : filteredItems.length}</span>
+        </div>
+        <div className="song-list">
+          {filteredItems.map(item => (
+            <article className={cx('song-item', selected.includes(item.id) && 'selected-item')} key={item.id}>
+              <div className="song-select-line">
+                <input type="checkbox" checked={selected.includes(item.id)} onChange={() => toggleItem(item.id)} />
+                <div>
+                  <h3>{item.title}</h3>
+                  <p>{item.category}</p>
+                  <span className={cx('badge', item.isOfflineReady ? 'ok' : 'warn')}>{item.isOfflineReady ? 'Готово офлайн' : 'Без файла'}</span>
+                </div>
+              </div>
+              <div className="song-actions wrap-actions">
+                <button className="primary" onClick={() => action('Материал показан', () => api(`/api/songs/${item.id}/show`, { method: 'POST' }))}><Video size={17} /> На ТВ</button>
+                <button onClick={() => action('Материал добавлен в план', () => api(`/api/songs/${item.id}/add-to-plan`, { method: 'POST' }))}><ListPlus size={17} /> В план</button>
+                <button className="icon-btn danger" onClick={() => remove(item.id)}><Trash2 size={17} /></button>
+              </div>
+            </article>
+          ))}
+          {!loading && filteredItems.length === 0 && (
+            <div className="empty-search">
+              <Search size={26} />
+              <strong>Материалы не найдены</strong>
+              <p>Запустите импорт после добавления файлов или сбросьте фильтры.</p>
+              <button onClick={resetFilters}>Сбросить фильтры</button>
+            </div>
+          )}
         </div>
       </div>
     </section>
@@ -607,6 +912,7 @@ function BiblePanel({ action }) {
   const [translations, setTranslations] = useState([]);
   const [books, setBooks] = useState([]);
   const [selected, setSelected] = useState(['ru_synodal']);
+  const [scriptureWeight, setScriptureWeight] = useState('medium');
   const [preview, setPreview] = useState(null);
   const [loading, setLoading] = useState(false);
   const [manualMode, setManualMode] = useState(false);
@@ -624,13 +930,28 @@ function BiblePanel({ action }) {
   });
 
   async function loadBibleMeta() {
-    const [list, bookList] = await Promise.all([
+    const [list, bookList, settings] = await Promise.all([
       api('/api/bible/translations'),
-      api('/api/bible/books')
+      api('/api/bible/books'),
+      api('/api/settings')
     ]);
     setTranslations(list || []);
     setBooks(bookList || []);
+    setScriptureWeight(settings?.bible?.scriptureWeight || 'medium');
     if (list?.some(t => t.id === 'ru_synodal')) setSelected(prev => prev.length ? prev : ['ru_synodal']);
+  }
+
+  async function saveScriptureWeight(nextWeight) {
+    setScriptureWeight(nextWeight);
+    try {
+      await api('/api/settings/bible', {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ scriptureWeight: nextWeight })
+      });
+    } catch (error) {
+      alert(error.message);
+    }
   }
 
   async function lookup(nextSelected = selected, nextReference = reference) {
@@ -697,7 +1018,7 @@ function BiblePanel({ action }) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [translations.length, books.length]);
 
-  const preparedPayload = { reference, translations: selected };
+  const preparedPayload = { reference, translations: selected, scriptureWeight };
   const availableIds = new Set(translations.map(t => t.id));
   const quickOptions = [
     { id: 'ru_synodal', label: 'Русский · Синодальный' },
@@ -804,6 +1125,8 @@ function BiblePanel({ action }) {
           })}
         </div>
 
+        <BibleWeightSettings value={scriptureWeight} onChange={saveScriptureWeight} />
+
         <div className="button-row">
           <button type="submit"><Search size={18} /> Найти и обновить предпросмотр</button>
           <button className="primary" type="button" onClick={() => action('Писание показано', () => api('/api/bible/show-reference', postJson(preparedPayload)))}><BookOpen size={18} /> Показать на ТВ</button>
@@ -825,6 +1148,29 @@ function BiblePanel({ action }) {
         {!preview && <p>Нажми “Найти”, чтобы увидеть текст из подключенных Bible JSON.</p>}
       </div>
     </section>
+  );
+}
+
+function BibleWeightSettings({ value, onChange }) {
+  return (
+    <div className="bible-weight-settings">
+      <div>
+        <strong>Scripture boldness</strong>
+        <p>Middle is the current TV value.</p>
+      </div>
+      <div className="font-weight-options">
+        {BIBLE_WEIGHT_OPTIONS.map(option => (
+          <button
+            key={option.id}
+            type="button"
+            className={cx(value === option.id && 'active')}
+            onClick={() => onChange(option.id)}
+          >
+            {option.label}
+          </button>
+        ))}
+      </div>
+    </div>
   );
 }
 
@@ -855,11 +1201,39 @@ function TranslationPanel({ action }) {
 function AnnouncementPanel({ action }) {
   const donationPreset = {
     title: 'Пожертвование',
-    body: 'Спасибо за вашу поддержку служения.\nВы можете сделать пожертвование, отсканировав QR-код.',
+    titleEn: 'Offering',
+    body: 'Спасибо за вашу поддержку служения.\nПожертвование можно положить в бокс.',
+    bodyEn: 'Thank you for supporting the ministry.\nYou can place your offering in the box.',
     qrUrl: ''
   };
-  const welcomePreset = { title: 'Добро пожаловать!', body: 'Мы рады видеть вас на служении. После служения будем рады познакомиться с вами.', qrUrl: '' };
-  const translationPreset = { title: 'Live translation', body: 'Для перевода проповеди отсканируйте QR-код и выберите язык.', qrUrl: '' };
+  const welcomePreset = {
+    title: 'Добро пожаловать!',
+    titleEn: 'Welcome!',
+    body: 'Мы рады видеть вас на служении. После служения будем рады познакомиться с вами.',
+    bodyEn: 'We are glad to see you at the service. After the service, we would love to meet you.',
+    qrUrl: ''
+  };
+  const translationPreset = {
+    title: 'Live-перевод',
+    titleEn: 'Live translation',
+    body: 'Для перевода проповеди отсканируйте QR-код и выберите язык.',
+    bodyEn: 'To listen to the sermon translation, scan the QR code and choose your language.',
+    qrUrl: ''
+  };
+  const fellowshipPreset = {
+    title: 'После служения',
+    titleEn: 'After the service',
+    body: 'Оставайтесь на общение и чай после служения.',
+    bodyEn: 'Please stay for fellowship and tea after the service.',
+    qrUrl: ''
+  };
+  const photoPreset = {
+    title: 'Общая фотография',
+    titleEn: 'Group photo',
+    body: 'Приглашаем всех сделать общую фотографию на память.',
+    bodyEn: 'We invite everyone to take a group photo as a memory.',
+    qrUrl: ''
+  };
   const [form, setForm] = useState(welcomePreset);
   const [items, setItems] = useState([]);
 
@@ -886,12 +1260,20 @@ function AnnouncementPanel({ action }) {
           <button onClick={() => setForm(welcomePreset)}>Приветствие</button>
           <button onClick={() => setForm(donationPreset)}>Пожертвование</button>
           <button onClick={() => setForm(translationPreset)}>Перевод</button>
-          <button onClick={() => setForm({ title: 'После служения', body: 'Оставайтесь на общение и чай после служения.', qrUrl: '' })}>Общение</button>
+          <button onClick={() => setForm(fellowshipPreset)}>Общение</button>
+          <button onClick={() => setForm(photoPreset)}>Фото</button>
         </div>
         <form className="form" onSubmit={e => e.preventDefault()}>
-          <label>Заголовок<input value={form.title} onChange={e => setForm({ ...form, title: e.target.value })} /></label>
-          <label>Текст<textarea rows="7" value={form.body} onChange={e => setForm({ ...form, body: e.target.value })} /></label>
-          <label>QR-ссылка, если нужна<input value={form.qrUrl} onChange={e => setForm({ ...form, qrUrl: e.target.value })} placeholder="https://... ссылка для пожертвования / Telegram / формы" /></label>
+          <div className="form-row">
+            <label>Заголовок RU<input value={form.title} onChange={e => setForm({ ...form, title: e.target.value })} /></label>
+            <label>Заголовок EN<input value={form.titleEn || ''} onChange={e => setForm({ ...form, titleEn: e.target.value })} /></label>
+          </div>
+          <div className="form-row">
+            <label>Текст RU<textarea rows="6" value={form.body} onChange={e => setForm({ ...form, body: e.target.value })} /></label>
+            <label>Текст EN<textarea rows="6" value={form.bodyEn || ''} onChange={e => setForm({ ...form, bodyEn: e.target.value })} /></label>
+          </div>
+          <label>QR-ссылка (необязательно)<input value={form.qrUrl} onChange={e => setForm({ ...form, qrUrl: e.target.value })} placeholder="Оставьте пустым, если QR нет" /></label>
+          <p className="hint">Если QR-ссылки нет, экран просто покажет текст. Для пожертвований уже готов текст про бокс.</p>
           <div className="button-row">
             <button className="primary" onClick={saveAndShow}><Megaphone size={18} /> Показать на ТВ</button>
             <button onClick={saveToPlan}><ListPlus size={18} /> Добавить в план</button>
@@ -908,8 +1290,9 @@ function AnnouncementPanel({ action }) {
           {items.map(item => (
             <article className="song-item" key={item.id}>
               <div>
-                <h3>{item.title}</h3>
+                <h3>{item.title}{item.titleEn ? ` / ${item.titleEn}` : ''}</h3>
                 <p>{item.body}</p>
+                {item.bodyEn && <p className="muted-text">{item.bodyEn}</p>}
                 {item.qrUrl && <span className="badge ok">QR</span>}
               </div>
               <div className="song-actions wrap-actions">
@@ -919,6 +1302,51 @@ function AnnouncementPanel({ action }) {
             </article>
           ))}
         </div>
+      </div>
+    </section>
+  );
+}
+
+
+function MissionBoardPanel({ action }) {
+  async function showLink(link) {
+    return api('/api/screen/state', postJson({ mode: 'external_board', payload: link }));
+  }
+
+  async function addLinkToPlan(link) {
+    return api('/api/service-plan/items', postJson({ type: 'external_board', title: link.title, payload: link }));
+  }
+
+  return (
+    <section className="card">
+      <div className="card-title-row compact">
+        <div>
+          <h2>Миссионерский борд</h2>
+          <p>Эти экраны открываются с сайта missionreport.top. Для показа на ТВ нужен интернет.</p>
+        </div>
+        <span className="badge warn">online</span>
+      </div>
+      <div className="mission-grid">
+        {MISSION_BOARD_LINKS.map(link => {
+          const Icon = link.icon;
+          return (
+            <article className="mission-card" key={link.id}>
+              <div className="mission-card-head">
+                <Icon size={28} />
+                <div>
+                  <h3>{link.title}</h3>
+                  <p>{link.subtitle}</p>
+                </div>
+              </div>
+              <div className="mission-url">{link.url}</div>
+              <div className="button-row">
+                <button className="primary" onClick={() => action(`${link.title} показан`, () => showLink(link))}><Monitor size={18} /> На ТВ</button>
+                <button onClick={() => action(`${link.title} добавлен в план`, () => addLinkToPlan(link))}><ListPlus size={18} /> В план</button>
+                <button onClick={() => window.open(link.url, '_blank', 'noopener,noreferrer')}><ExternalLink size={18} /> Открыть</button>
+              </div>
+            </article>
+          );
+        })}
       </div>
     </section>
   );
@@ -1088,6 +1516,7 @@ function ScreenApp() {
       {state.mode === 'bible' && <BibleScreen payload={payload} />}
       {state.mode === 'translation_qr' && <TranslationScreen payload={payload} />}
       {state.mode === 'announcement' && <AnnouncementScreen payload={payload} />}
+      {state.mode === 'external_board' && <ExternalBoardScreen payload={payload} />}
       {state.mode === 'image' && <ImageScreen payload={payload} />}
       {state.mode === 'slideshow' && <SlideshowScreen payload={payload} />}
       {state.mode === 'youtube' && <YouTubeScreen payload={payload} />}
@@ -1148,9 +1577,10 @@ function BibleScreen({ payload }) {
         payload.text ? { translationId: payload.language || 'ru', shortName: payload.translation || payload.language || '', text: payload.text } : null,
         payload.secondaryText ? { translationId: payload.secondaryLanguage || 'secondary', shortName: payload.secondaryLanguage || '', text: payload.secondaryText } : null
       ].filter(Boolean);
+  const scriptureWeight = ['low', 'medium', 'high'].includes(payload.scriptureWeight) ? payload.scriptureWeight : 'medium';
 
   return (
-    <section className={cx('screen-center bible-screen', blocks.length > 1 && 'multi-bible')}>
+    <section className={cx('screen-center bible-screen', `scripture-weight-${scriptureWeight}`, blocks.length > 1 && 'multi-bible')}>
       <div className="reference">{payload.reference || 'Место Писания'}</div>
       {blocks.length > 0 ? (
         <div className="scripture-grid" data-count={blocks.length}>
@@ -1187,11 +1617,23 @@ function TranslationScreen({ payload }) {
 }
 
 function AnnouncementScreen({ payload }) {
+  const hasEnglish = Boolean(payload.titleEn || payload.bodyEn);
+  const hasQr = Boolean(payload.qrDataUrl);
   return (
-    <section className="screen-center announcement-screen">
-      <h1>{payload.title}</h1>
-      <p>{payload.body}</p>
-      {payload.qrDataUrl && <img src={payload.qrDataUrl} alt="QR" />}
+    <section className={cx('screen-center announcement-screen', hasEnglish && 'bilingual-announcement', !hasQr && 'no-qr')}>
+      <div className="announcement-copy">
+        <div className="announcement-lang-block">
+          <h1>{payload.title}</h1>
+          <p>{payload.body}</p>
+        </div>
+        {hasEnglish && (
+          <div className="announcement-lang-block announcement-english">
+            <h2>{payload.titleEn}</h2>
+            <p>{payload.bodyEn}</p>
+          </div>
+        )}
+      </div>
+      {hasQr && <img src={payload.qrDataUrl} alt="QR" />}
     </section>
   );
 }
@@ -1270,6 +1712,23 @@ function YouTubeScreen({ payload }) {
         allowFullScreen
       />
       <div className="youtube-warning"><AlertTriangle size={20} /> YouTube online mode · возможна реклама · нужен интернет</div>
+    </section>
+  );
+}
+
+function ExternalBoardScreen({ payload }) {
+  return (
+    <section className="external-board-screen">
+      <iframe
+        title={payload.title || 'Mission board'}
+        src={payload.url}
+        allow="fullscreen; autoplay; clipboard-read; clipboard-write"
+        allowFullScreen
+      />
+      <div className="external-board-badge">
+        <Globe2 size={20} />
+        <span>{payload.title || 'Mission board'}</span>
+      </div>
     </section>
   );
 }
