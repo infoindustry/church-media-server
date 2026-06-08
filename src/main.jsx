@@ -1230,7 +1230,7 @@ const EMPTY_TRANSLATION_DRAFT = {
   audienceUrl: '',
   screenEmbedUrl: '',
   languages: 'English, Srpski',
-  audienceInstructions: 'Scan the QR code and choose your language.',
+  audienceInstructions: 'Scan the QR code to read or listen to the live translation in your language.\nFor audio, please use headphones.',
   rtmpUrl: '',
   rtmpKey: ''
 };
@@ -1422,6 +1422,7 @@ function AnnouncementPanel({ action }) {
   };
   const [form, setForm] = useState(welcomePreset);
   const [items, setItems] = useState([]);
+  const [lang, setLang] = useState('both');
 
   async function load() {
     setItems(await api('/api/announcements'));
@@ -1429,11 +1430,11 @@ function AnnouncementPanel({ action }) {
   useEffect(() => { load(); }, []);
 
   async function saveAndShow() {
-    await action('Объявление показано', () => api('/api/announcement/show', postJson(form)));
+    await action('Объявление показано', () => api('/api/announcement/show', postJson({ ...form, lang })));
     await load();
   }
   async function saveToPlan() {
-    await action('Объявление добавлено в план', () => api('/api/announcement/add-to-plan', postJson(form)));
+    await action('Объявление добавлено в план', () => api('/api/announcement/add-to-plan', postJson({ ...form, lang })));
     await load();
   }
 
@@ -1453,6 +1454,12 @@ function AnnouncementPanel({ action }) {
           <button onClick={() => setForm(soloPraisePreset)}>Сольное пение</button>
           <button onClick={() => setForm(birthdayPreset)}>День рождения</button>
           <button onClick={() => setForm(childrenPraisePreset)}>Дети славят</button>
+        </div>
+        <div className="lang-toggle">
+          <span>Язык на экране:</span>
+          {[['both', 'Оба'], ['ru', 'Русский'], ['en', 'English']].map(([value, label]) => (
+            <button key={value} type="button" className={cx(lang === value && 'active')} onClick={() => setLang(value)}>{label}</button>
+          ))}
         </div>
         <form className="form" onSubmit={e => e.preventDefault()}>
           <div className="form-row">
@@ -1801,14 +1808,17 @@ function BibleScreen({ payload }) {
   );
 }
 
+const DEFAULT_TRANSLATION_INSTRUCTIONS = 'Scan the QR code to read or listen to the live translation in your language.\nFor audio, please use headphones.';
+
 function TranslationScreen({ payload }) {
+  const instructions = payload.instructions || DEFAULT_TRANSLATION_INSTRUCTIONS;
   return (
     <section className="screen-center qr-screen">
-      <h1>{payload.title || 'Live translation'}</h1>
+      <h1>Live Translation</h1>
       {payload.qrDataUrl && <img src={payload.qrDataUrl} alt="QR" />}
-      <p>{payload.instructions || 'Scan the QR code and choose your language.'}</p>
-      <div className="url-line">{payload.url}</div>
-      {payload.languages && <div className="langs">{payload.languages}</div>}
+      <div className="qr-instructions">
+        {String(instructions).split('\n').map((line, i) => <p key={i}>{line}</p>)}
+      </div>
     </section>
   );
 }
@@ -1827,7 +1837,7 @@ function TranslationCaptionScreen({ payload }) {
       />
       <div className="translation-caption-badge">
         <QrCode size={20} />
-        <span>{payload.title || 'Live translation'}{payload.languages ? ` · ${payload.languages}` : ''}</span>
+        <span>Live Translation</span>
       </div>
     </section>
   );
@@ -1835,17 +1845,23 @@ function TranslationCaptionScreen({ payload }) {
 
 function AnnouncementScreen({ payload }) {
   const hasEnglish = Boolean(payload.titleEn || payload.bodyEn);
+  const lang = ['ru', 'en', 'both'].includes(payload.lang) ? payload.lang : (hasEnglish ? 'both' : 'ru');
+  const showRu = lang === 'ru' || lang === 'both';
+  const showEn = (lang === 'en' || lang === 'both') && hasEnglish;
+  const bilingual = showRu && showEn;
   const hasQr = Boolean(payload.qrDataUrl);
   return (
-    <section className={cx('screen-center announcement-screen', hasEnglish && 'bilingual-announcement', !hasQr && 'no-qr')}>
+    <section className={cx('screen-center announcement-screen', bilingual ? 'bilingual-announcement' : 'single-announcement', !hasQr && 'no-qr')}>
       <div className="announcement-copy">
-        <div className="announcement-lang-block">
-          <h1>{payload.title}</h1>
-          <p>{payload.body}</p>
-        </div>
-        {hasEnglish && (
+        {showRu && (
+          <div className="announcement-lang-block">
+            <h1>{payload.title}</h1>
+            <p>{payload.body}</p>
+          </div>
+        )}
+        {showEn && (
           <div className="announcement-lang-block announcement-english">
-            <h2>{payload.titleEn}</h2>
+            {bilingual ? <h2>{payload.titleEn}</h2> : <h1>{payload.titleEn}</h1>}
             <p>{payload.bodyEn}</p>
           </div>
         )}

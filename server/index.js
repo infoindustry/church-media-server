@@ -54,7 +54,7 @@ const defaultStore = {
       audienceUrl: 'https://captionkit.io/c/word-of-god',
       screenEmbedUrl: 'https://captionkit.io/f/word-of-god?fontSize=10',
       languages: 'English, Srpski',
-      audienceInstructions: 'Scan the QR code to read the live translation in your language.',
+      audienceInstructions: 'Scan the QR code to read or listen to the live translation in your language.\nFor audio, please use headphones.',
       rtmpUrl: '',
       rtmpKey: ''
     },
@@ -62,9 +62,9 @@ const defaultStore = {
       id: 'glossa',
       name: 'Glossa',
       audienceUrl: 'https://glossa.live/services/934aae72-9b38-45f0-a85f-233d4b1af7f2',
-      screenEmbedUrl: 'https://glossa.live/iframe/934aae72-9b38-45f0-a85f-233d4b1af7f2',
+      screenEmbedUrl: 'https://glossa.live/embed/934aae72-9b38-45f0-a85f-233d4b1af7f2?bg=000000&color=ffffff&font-size=64px&align=center',
       languages: 'English, Srpski',
-      audienceInstructions: 'Scan the QR code, choose your language and keep the page open during the sermon.',
+      audienceInstructions: 'Scan the QR code to read or listen to the live translation in your language.\nFor audio, please use headphones.',
       rtmpUrl: 'rtmp://stream.glossa.live:1935/live',
       rtmpKey: ''
     }
@@ -971,7 +971,7 @@ app.post('/api/translation/providers', (req, res) => {
     audienceUrl: req.body?.audienceUrl || '',
     screenEmbedUrl: req.body?.screenEmbedUrl || '',
     languages: req.body?.languages || '',
-    audienceInstructions: req.body?.audienceInstructions || 'Scan the QR code and choose your language.',
+    audienceInstructions: req.body?.audienceInstructions || 'Scan the QR code to read or listen to the live translation in your language.\nFor audio, please use headphones.',
     rtmpUrl: req.body?.rtmpUrl || '',
     rtmpKey: req.body?.rtmpKey || ''
   };
@@ -1058,6 +1058,7 @@ app.post('/api/announcement/show', async (req, res) => {
     titleEn: titleEn || '',
     body: body || '',
     bodyEn: bodyEn || '',
+    lang: ['ru', 'en', 'both'].includes(req.body?.lang) ? req.body.lang : 'both',
     qrUrl: qrUrl || '',
     qrDataUrl
   };
@@ -1076,6 +1077,7 @@ app.post('/api/announcement/add-to-plan', async (req, res) => {
     titleEn: titleEn || '',
     body: body || '',
     bodyEn: bodyEn || '',
+    lang: ['ru', 'en', 'both'].includes(req.body?.lang) ? req.body.lang : 'both',
     qrUrl: qrUrl || '',
     qrDataUrl
   };
