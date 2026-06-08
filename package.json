@@ -6,7 +6,7 @@
   "description": "Local-first church TV screen and media control system",
   "scripts": {
     "dev": "concurrently \"npm:dev:server\" \"npm:dev:client\"",
-    "dev:server": "node server/index.js",
+    "dev:server": "node --watch server/index.js",
     "dev:client": "vite --host 0.0.0.0 --port 5174",
     "build": "vite build",
     "start": "node server/index.js",
