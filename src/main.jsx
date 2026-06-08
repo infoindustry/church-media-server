@@ -1385,6 +1385,41 @@ function AnnouncementPanel({ action }) {
     bodyEn: 'We invite everyone to take a group photo as a memory.',
     qrUrl: ''
   };
+  const testimonyPreset = {
+    title: 'Время свидетельств',
+    titleEn: 'Time of Testimonies',
+    body: 'Поделитесь кратко тем, что совершил Господь в вашей жизни.\n«Придите, послушайте, все боящиеся Бога, и я возвещу вам, что сотворил Он для души моей». — Псалом 65:16',
+    bodyEn: 'Share briefly what God has done in your life.\n“Come and hear, all you who fear God; let me tell you what he has done for me.” — Psalm 66:16',
+    qrUrl: ''
+  };
+  const prayerPreset = {
+    title: 'Время молитвы',
+    titleEn: 'Time of Prayer',
+    body: 'Будем вместе искать лица Божьего в молитве.\n«Ищите лица Моего». И буду искать лица Твоего, Господи. — Псалом 26:8',
+    bodyEn: 'Let us seek the face of God together in prayer.\n“Seek my face.” Your face, Lord, I will seek. — Psalm 27:8',
+    qrUrl: ''
+  };
+  const soloPraisePreset = {
+    title: 'Прославим Господа пением',
+    titleEn: 'Let Us Praise the Lord in Song',
+    body: 'Сольное прославление.\n«Воспойте Господу новую песнь; воспойте Господу, вся земля». — Псалом 95:1',
+    bodyEn: 'A song of worship.\n“Sing to the Lord a new song; sing to the Lord, all the earth.” — Psalm 96:1',
+    qrUrl: ''
+  };
+  const birthdayPreset = {
+    title: 'С Днём рождения!',
+    titleEn: 'Happy Birthday!',
+    body: 'Поздравляем, [имя]! Пусть Господь обильно благословит новый год твоей жизни.\n«Да благословит тебя Господь и сохранит тебя!» — Числа 6:24',
+    bodyEn: 'Happy Birthday, [name]! May the Lord richly bless this new year of your life.\n“The Lord bless you and keep you.” — Numbers 6:24',
+    qrUrl: ''
+  };
+  const childrenPraisePreset = {
+    title: 'Пустите детей приходить ко Мне',
+    titleEn: 'Let the Little Children Come to Me',
+    body: 'Дети славят Господа песней и стихами.\n«Пустите детей и не препятствуйте им приходить ко Мне, ибо таковых есть Царство Небесное». — Матфея 19:14',
+    bodyEn: 'The children praise the Lord with song and verse.\n“Let the little children come to me, and do not hinder them, for the kingdom of heaven belongs to such as these.” — Matthew 19:14',
+    qrUrl: ''
+  };
   const [form, setForm] = useState(welcomePreset);
   const [items, setItems] = useState([]);
 
@@ -1413,6 +1448,11 @@ function AnnouncementPanel({ action }) {
           <button onClick={() => setForm(translationPreset)}>Перевод</button>
           <button onClick={() => setForm(fellowshipPreset)}>Общение</button>
           <button onClick={() => setForm(photoPreset)}>Фото</button>
+          <button onClick={() => setForm(testimonyPreset)}>Свидетельства</button>
+          <button onClick={() => setForm(prayerPreset)}>Молитва</button>
+          <button onClick={() => setForm(soloPraisePreset)}>Сольное пение</button>
+          <button onClick={() => setForm(birthdayPreset)}>День рождения</button>
+          <button onClick={() => setForm(childrenPraisePreset)}>Дети славят</button>
         </div>
         <form className="form" onSubmit={e => e.preventDefault()}>
           <div className="form-row">
