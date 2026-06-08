@@ -6,10 +6,35 @@ import fs from 'fs';
 import { fileURLToPath } from 'url';
 import { nanoid } from 'nanoid';
 import QRCode from 'qrcode';
+import http from 'http';
+import { TranslationHub, attachTranslation, sanitizeLang, getLanUrls } from './translation.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const ROOT = path.resolve(__dirname, '..');
+
+// Load .env (KEY=VALUE per line) without a dependency, so OPENAI_API_KEY and
+// friends are available. Existing process env always wins.
+(function loadDotEnv() {
+  const envPath = path.join(ROOT, '.env');
+  if (!fs.existsSync(envPath)) return;
+  try {
+    for (const raw of fs.readFileSync(envPath, 'utf8').split('\n')) {
+      const line = raw.trim();
+      if (!line || line.startsWith('#')) continue;
+      const eq = line.indexOf('=');
+      if (eq === -1) continue;
+      const key = line.slice(0, eq).trim();
+      let value = line.slice(eq + 1).trim();
+      if ((value.startsWith('"') && value.endsWith('"')) || (value.startsWith("'") && value.endsWith("'"))) {
+        value = value.slice(1, -1);
+      }
+      if (key && process.env[key] === undefined) process.env[key] = value;
+    }
+  } catch (error) {
+    console.error('Cannot read .env:', error.message);
+  }
+})();
 const DATA_DIR = path.join(__dirname, 'data');
 const MEDIA_DIR = path.join(__dirname, 'media');
 const STORE_PATH = path.join(DATA_DIR, 'store.json');
@@ -1332,6 +1357,60 @@ app.get('/api/checkup', (req, res) => {
   });
 });
 
+// ---- Live translation (our own OpenAI engine) ----
+const translationHub = new TranslationHub();
+
+app.get('/api/translation/live/state', (req, res) => {
+  res.json({ ...translationHub.status(), hasApiKey: Boolean(process.env.OPENAI_API_KEY), lanUrls: getLanUrls(PORT) });
+});
+
+app.post('/api/translation/live/start', (req, res) => {
+  const state = translationHub.start({ engine: req.body?.engine, displayLang: req.body?.displayLang });
+  res.json(state);
+});
+
+app.post('/api/translation/live/stop', (req, res) => {
+  res.json(translationHub.stop());
+});
+
+app.post('/api/translation/live/ensure', (req, res) => {
+  if (!translationHub.running) return res.status(409).json({ error: 'Перевод не запущен' });
+  translationHub.ensureLanguage(req.body?.lang);
+  res.json(translationHub.status());
+});
+
+app.get('/api/translation/live/stream', (req, res) => {
+  res.writeHead(200, {
+    'Content-Type': 'text/event-stream',
+    'Cache-Control': 'no-cache, no-transform',
+    Connection: 'keep-alive',
+    'X-Accel-Buffering': 'no'
+  });
+  translationHub.addSubscriber(res);
+  const ping = setInterval(() => { try { res.write(`event: ping\ndata: {}\n\n`); } catch {} }, 25000);
+  req.on('close', () => clearInterval(ping));
+});
+
+app.post('/api/translation/live/show-on-tv', (req, res) => {
+  const lang = sanitizeLang(req.body?.lang) || translationHub.displayLang;
+  if (translationHub.running) translationHub.ensureLanguage(lang);
+  res.json(updateScreenState('translation_live', { lang, title: 'Live Translation' }));
+});
+
+app.post('/api/translation/live/show-qr', async (req, res) => {
+  const lanUrls = getLanUrls(PORT);
+  const base = lanUrls[0] || `http://localhost:${PORT}`;
+  const url = `${base}/translate`;
+  const qrDataUrl = await QRCode.toDataURL(url, { margin: 1, width: 720 });
+  res.json(updateScreenState('translation_qr', {
+    title: 'Live Translation',
+    url,
+    languages: '',
+    instructions: 'Scan the QR code to read or listen to the live translation in your language.\nFor audio, please use headphones.',
+    qrDataUrl
+  }));
+});
+
 const distPath = path.join(ROOT, 'dist');
 if (fs.existsSync(distPath)) {
   app.use(express.static(distPath));
@@ -1346,8 +1425,11 @@ if (fs.existsSync(distPath)) {
   });
 }
 
-app.listen(PORT, '0.0.0.0', () => {
+const server = http.createServer(app);
+attachTranslation(server, translationHub);
+server.listen(PORT, '0.0.0.0', () => {
   console.log(`Church Local Media Server running on http://localhost:${PORT}`);
   console.log(`Admin:  http://localhost:${PORT}/admin`);
   console.log(`Screen: http://localhost:${PORT}/screen/main`);
+  console.log(`Translate source: http://localhost:${PORT}/translate/source`);
 });

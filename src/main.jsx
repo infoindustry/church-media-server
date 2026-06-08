@@ -8,6 +8,7 @@ import {
   GraduationCap, Clapperboard, Globe2, UsersRound
 } from 'lucide-react';
 import './styles.css';
+import { supportedLanguages, getLanguageLabel } from './translationLanguages';
 
 const API = '';
 
@@ -76,6 +77,8 @@ function isLearningMedia(item) {
 function App() {
   const path = window.location.pathname;
   if (path.startsWith('/screen')) return <ScreenApp />;
+  if (path.startsWith('/translate/source')) return <TranslationSourceApp />;
+  if (path.startsWith('/translate')) return <TranslationGuestApp />;
   return <AdminApp />;
 }
 
@@ -210,6 +213,7 @@ function describeState(state) {
   if (state.mode === 'bible') return `Писание: ${p.reference || ''}`;
   if (state.mode === 'translation_qr') return `QR перевода: ${p.title || p.url}`;
   if (state.mode === 'translation_caption') return `Субтитры перевода: ${p.title || p.url}`;
+  if (state.mode === 'translation_live') return `Live субтитры: ${p.lang || ''}`;
   if (state.mode === 'announcement') return `Объявление: ${p.title || ''}`;
   if (state.mode === 'external_board') return `Миссии: ${p.title || p.url || ''}`;
   if (state.mode === 'image') return `Картинка: ${p.title || ''}`;
@@ -220,7 +224,7 @@ function describeState(state) {
 
 function typeLabel(type) {
   return {
-    welcome: 'Приветствие', song: 'Песня', song_video: 'Песня', audio: 'Фонограмма', audio_track: 'Фонограмма', youtube_audio: 'YouTube audio', youtube: 'YouTube', bible: 'Писание', translation_qr: 'QR перевода', translation_caption: 'Субтитры', announcement: 'Объявление', external_board: 'Миссии', image: 'Картинка', slideshow: 'Слайдшоу', blank: 'Blank', loading: 'Загрузка'
+    welcome: 'Приветствие', song: 'Песня', song_video: 'Песня', audio: 'Фонограмма', audio_track: 'Фонограмма', youtube_audio: 'YouTube audio', youtube: 'YouTube', bible: 'Писание', translation_qr: 'QR перевода', translation_caption: 'Субтитры', translation_live: 'Live субтитры', announcement: 'Объявление', external_board: 'Миссии', image: 'Картинка', slideshow: 'Слайдшоу', blank: 'Blank', loading: 'Загрузка'
   }[type] || type;
 }
 
@@ -1225,6 +1229,56 @@ function FontScaleSlider({ value, onChange, live }) {
   );
 }
 
+function LiveTranslationPanel({ action }) {
+  const [state, setState] = useState(null);
+  const [engine, setEngine] = useState('stub');
+  const [displayLang, setDisplayLang] = useState('en');
+
+  async function refresh() { try { setState(await api('/api/translation/live/state')); } catch {} }
+  useEffect(() => { refresh(); const t = setInterval(refresh, 5000); return () => clearInterval(t); }, []);
+
+  const running = state?.running;
+  return (
+    <div className="card live-translation-card">
+      <div className="card-title-row">
+        <div>
+          <h2>Своё решение · OpenAI (субтитры)</h2>
+          <p>Перевод проповеди в реальном времени через OpenAI. Звук берётся на мини-ПК, субтитры идут на ТВ и на телефоны по локальной сети. Прихожанин сам выбирает язык на телефоне.</p>
+        </div>
+        <span className={cx('badge', running ? 'ok' : 'warn')}>{running ? `идёт · ${state.engine}` : 'остановлен'}</span>
+      </div>
+      <div className="form-row three-cols">
+        <label>Движок
+          <select value={engine} onChange={e => setEngine(e.target.value)} disabled={running}>
+            <option value="stub">Заглушка (тест без интернета)</option>
+            <option value="openai">OpenAI Realtime</option>
+          </select>
+        </label>
+        <label>Язык субтитров на ТВ
+          <select value={displayLang} onChange={e => setDisplayLang(e.target.value)}>
+            {supportedLanguages.map(l => <option key={l.code} value={l.code}>{l.flag} {l.name}</option>)}
+          </select>
+        </label>
+        <div className="live-tr-key">
+          {state && (state.hasApiKey ? <span className="badge ok">ключ OpenAI есть</span> : <span className="badge warn">нет OPENAI_API_KEY</span>)}
+        </div>
+      </div>
+      <div className="button-row">
+        {!running
+          ? <button className="primary" onClick={() => action('Перевод запущен', () => api('/api/translation/live/start', postJson({ engine, displayLang })).then(refresh))}><Play size={18} /> Запустить</button>
+          : <button className="danger" onClick={() => action('Перевод остановлен', () => api('/api/translation/live/stop', { method: 'POST' }).then(refresh))}><Square size={18} /> Остановить</button>}
+        <button onClick={() => window.open('/translate/source', '_blank')}><Radio size={18} /> Источник звука</button>
+        <button className="primary" onClick={() => action('Субтитры на ТВ', () => api('/api/translation/live/show-on-tv', postJson({ lang: displayLang })))}><Megaphone size={18} /> Субтитры на ТВ</button>
+        <button onClick={() => action('QR на телефоны', () => api('/api/translation/live/show-qr', { method: 'POST' }))}><QrCode size={18} /> QR на телефоны</button>
+      </div>
+      <div className="live-tr-status">
+        {(state?.languages || []).map(l => <span className="badge" key={l.lang}>{getLanguageLabel(l.lang)}: {l.status}</span>)}
+        {state?.lanUrls?.length > 0 && <p className="hint">Телефоны в LAN открывают: {state.lanUrls.map(u => `${u}/translate`).join('   ·   ')}</p>}
+      </div>
+    </div>
+  );
+}
+
 const EMPTY_TRANSLATION_DRAFT = {
   name: '',
   audienceUrl: '',
@@ -1276,6 +1330,8 @@ function TranslationPanel({ action }) {
   }
 
   return (
+    <div className="stack">
+      <LiveTranslationPanel action={action} />
     <section className="grid two">
       <div className="stack">
         <div className="card">
@@ -1346,6 +1402,7 @@ function TranslationPanel({ action }) {
         <p className="hint">QR-экран и экран-субтитры — это два отдельных пункта. Покажи QR, дай людям просканировать, затем включи субтитры — на экране пойдут слова проповедника.</p>
       </div>
     </section>
+    </div>
   );
 }
 
@@ -1714,6 +1771,7 @@ function ScreenApp() {
       {state.mode === 'bible' && <BibleScreen payload={payload} />}
       {state.mode === 'translation_qr' && <TranslationScreen payload={payload} />}
       {state.mode === 'translation_caption' && <TranslationCaptionScreen payload={payload} />}
+      {state.mode === 'translation_live' && <TranslationLiveScreen payload={payload} />}
       {state.mode === 'announcement' && <AnnouncementScreen payload={payload} />}
       {state.mode === 'external_board' && <ExternalBoardScreen payload={payload} />}
       {state.mode === 'image' && <ImageScreen payload={payload} />}
@@ -1840,6 +1898,196 @@ function TranslationCaptionScreen({ payload }) {
         <span>Live Translation</span>
       </div>
     </section>
+  );
+}
+
+function floatToBase64Pcm16(f32) {
+  const int16 = new Int16Array(f32.length);
+  for (let i = 0; i < f32.length; i++) {
+    const s = Math.max(-1, Math.min(1, f32[i]));
+    int16[i] = s < 0 ? s * 0x8000 : s * 0x7fff;
+  }
+  const bytes = new Uint8Array(int16.buffer);
+  let bin = '';
+  const chunk = 0x8000;
+  for (let i = 0; i < bytes.length; i += chunk) {
+    bin += String.fromCharCode.apply(null, bytes.subarray(i, i + chunk));
+  }
+  return btoa(bin);
+}
+
+function useLiveSubtitles(lang) {
+  const [textByLang, setTextByLang] = useState({});
+  const [status, setStatus] = useState(null);
+  useEffect(() => {
+    const es = new EventSource('/api/translation/live/stream');
+    es.onmessage = (event) => {
+      try {
+        const data = JSON.parse(event.data);
+        if (data.type === 'transcript') setTextByLang(prev => ({ ...prev, [data.lang]: data.text }));
+        if (data.type === 'status') setStatus(data);
+      } catch {}
+    };
+    return () => es.close();
+  }, []);
+  return { text: lang ? (textByLang[lang] || '') : '', textByLang, status };
+}
+
+function TranslationLiveScreen({ payload }) {
+  const lang = payload.lang || 'en';
+  const { text, status } = useLiveSubtitles(lang);
+  const ref = useRef(null);
+  useEffect(() => { if (ref.current) ref.current.scrollTop = ref.current.scrollHeight; }, [text]);
+  const placeholder = status?.running ? 'Ожидание речи…' : 'Перевод ещё не запущен';
+  return (
+    <section className="translation-live-screen">
+      <div className="translation-live-lang">{getLanguageLabel(lang)}</div>
+      <div className="translation-live-text" ref={ref}>{text || placeholder}</div>
+    </section>
+  );
+}
+
+function TranslationSourceApp() {
+  const [state, setState] = useState(null);
+  const [engine, setEngine] = useState('stub');
+  const [displayLang, setDisplayLang] = useState('en');
+  const [capturing, setCapturing] = useState(false);
+  const [error, setError] = useState('');
+  const captureRef = useRef(null);
+  const { text } = useLiveSubtitles(displayLang);
+
+  async function refresh() {
+    try { setState(await api('/api/translation/live/state')); } catch {}
+  }
+  useEffect(() => { refresh(); const t = setInterval(refresh, 4000); return () => clearInterval(t); }, []);
+
+  async function startRun() {
+    await api('/api/translation/live/start', postJson({ engine, displayLang }));
+    await refresh();
+  }
+  async function stopRun() {
+    await stopCapture();
+    await api('/api/translation/live/stop', { method: 'POST' });
+    await refresh();
+  }
+
+  async function startCapture() {
+    try {
+      setError('');
+      const stream = await navigator.mediaDevices.getUserMedia({ audio: { channelCount: 1, echoCancellation: false, noiseSuppression: false } });
+      const ctx = new AudioContext({ sampleRate: 24000 });
+      await ctx.audioWorklet.addModule('/pcm-capture-worklet.js');
+      const source = ctx.createMediaStreamSource(stream);
+      const node = new AudioWorkletNode(ctx, 'pcm-capture');
+      const wsUrl = (location.protocol === 'https:' ? 'wss://' : 'ws://') + location.host + '/translate/ingest';
+      const ws = new WebSocket(wsUrl);
+      node.port.onmessage = (e) => { if (ws.readyState === WebSocket.OPEN) ws.send(floatToBase64Pcm16(e.data)); };
+      source.connect(node);
+      const sink = ctx.createGain();
+      sink.gain.value = 0;
+      node.connect(sink).connect(ctx.destination);
+      captureRef.current = { stream, ctx, ws, node };
+      setCapturing(true);
+    } catch (e) { setError(e.message || String(e)); }
+  }
+  async function stopCapture() {
+    const c = captureRef.current;
+    if (c) {
+      try { c.ws.close(); } catch {}
+      try { c.node.disconnect(); } catch {}
+      try { c.ctx.close(); } catch {}
+      try { c.stream.getTracks().forEach(t => t.stop()); } catch {}
+    }
+    captureRef.current = null;
+    setCapturing(false);
+  }
+  useEffect(() => () => { stopCapture(); }, []);
+
+  const running = state?.running;
+  return (
+    <div className="source-shell">
+      <h1>Источник перевода</h1>
+      <p className="hint">Открой эту страницу на мини-ПК. Микрофон/линия отправляется в OpenAI, перевод идёт на ТВ и телефоны по локальной сети.</p>
+      <div className="source-card">
+        <div className="form-row">
+          <label>Движок
+            <select value={engine} onChange={e => setEngine(e.target.value)} disabled={running}>
+              <option value="stub">Заглушка (тест без интернета)</option>
+              <option value="openai">OpenAI Realtime</option>
+            </select>
+          </label>
+          <label>Язык для ТВ
+            <select value={displayLang} onChange={e => setDisplayLang(e.target.value)}>
+              {supportedLanguages.map(l => <option key={l.code} value={l.code}>{l.flag} {l.name}</option>)}
+            </select>
+          </label>
+        </div>
+        {engine === 'openai' && state && !state.hasApiKey && <p className="source-error">OPENAI_API_KEY не задан в .env на сервере — OpenAI-движок не запустится.</p>}
+        <div className="button-row">
+          {!running
+            ? <button className="primary" onClick={() => startRun().catch(e => setError(e.message))}><Play size={18} /> Запустить перевод</button>
+            : <button className="danger" onClick={() => stopRun().catch(e => setError(e.message))}><Square size={18} /> Остановить</button>}
+          {running && !capturing && <button className="primary" onClick={startCapture}><Radio size={18} /> Включить микрофон</button>}
+          {running && capturing && <button onClick={stopCapture}><Pause size={18} /> Выключить микрофон</button>}
+        </div>
+        {error && <p className="source-error">{error}</p>}
+        <div className="source-status">
+          <span className={cx('badge', running ? 'ok' : 'warn')}>{running ? `идёт · ${state.engine}` : 'остановлен'}</span>
+          <span className={cx('badge', capturing ? 'ok' : 'warn')}>{capturing ? 'микрофон активен' : 'микрофон выкл'}</span>
+          {(state?.languages || []).map(l => <span className="badge" key={l.lang}>{l.lang}: {l.status}</span>)}
+        </div>
+      </div>
+      <div className="source-preview">
+        <div className="source-preview-label">Предпросмотр ({getLanguageLabel(displayLang)})</div>
+        <div className="source-preview-text">{text || '—'}</div>
+      </div>
+    </div>
+  );
+}
+
+function TranslationGuestApp() {
+  const [lang, setLang] = useState('');
+  const [q, setQ] = useState('');
+  const { text, status } = useLiveSubtitles(lang);
+  const ref = useRef(null);
+  useEffect(() => { if (ref.current) ref.current.scrollTop = ref.current.scrollHeight; }, [text]);
+  useEffect(() => {
+    if (!lang) return;
+    api('/api/translation/live/ensure', postJson({ lang })).catch(() => {});
+  }, [lang]);
+
+  if (!lang) {
+    const list = supportedLanguages.filter(l => {
+      const w = q.trim().toLowerCase();
+      return !w || l.name.toLowerCase().includes(w) || l.nativeName.toLowerCase().includes(w) || l.code === w;
+    });
+    return (
+      <div className="guest-shell">
+        <h1>Live Translation</h1>
+        <p>Choose your language / Выберите язык</p>
+        <input className="guest-search" value={q} onChange={e => setQ(e.target.value)} placeholder="Search language…" />
+        <div className="guest-lang-grid">
+          {list.map(l => (
+            <button key={l.code} onClick={() => setLang(l.code)}>
+              <span className="guest-flag">{l.flag}</span>
+              <span>{l.nativeName}</span>
+            </button>
+          ))}
+        </div>
+      </div>
+    );
+  }
+
+  return (
+    <div className="guest-shell guest-reading">
+      <div className="guest-topbar">
+        <span>{getLanguageLabel(lang)}</span>
+        <button onClick={() => setLang('')}>Сменить язык</button>
+      </div>
+      <div className="guest-subtitles" ref={ref}>
+        {text || (status?.running ? 'Waiting for speech…' : 'Translation is not running yet.')}
+      </div>
+    </div>
   );
 }
 
