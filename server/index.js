@@ -40,7 +40,8 @@ const defaultStore = {
       showChurchName: true
     },
     bible: {
-      scriptureWeight: 'medium'
+      scriptureWeight: 'medium',
+      fontScale: 1
     }
   },
   songs: [],
@@ -107,11 +108,21 @@ function normalizeScriptureWeight(value) {
   return ['low', 'medium', 'high'].includes(value) ? value : 'medium';
 }
 
+const FONT_SCALE_MIN = 0.5;
+const FONT_SCALE_MAX = 2.5;
+
+function normalizeFontScale(value) {
+  const num = Number(value);
+  if (!Number.isFinite(num)) return 1;
+  return Math.min(FONT_SCALE_MAX, Math.max(FONT_SCALE_MIN, Math.round(num * 100) / 100));
+}
+
 function getBibleSettings(store) {
   return {
     ...defaultStore.settings.bible,
     ...(store.settings?.bible || {}),
-    scriptureWeight: normalizeScriptureWeight(store.settings?.bible?.scriptureWeight)
+    scriptureWeight: normalizeScriptureWeight(store.settings?.bible?.scriptureWeight),
+    fontScale: normalizeFontScale(store.settings?.bible?.fontScale)
   };
 }
 
@@ -486,7 +497,8 @@ app.put('/api/settings/bible', (req, res) => {
     ...(store.settings || {}),
     bible: {
       ...current,
-      scriptureWeight: normalizeScriptureWeight(req.body?.scriptureWeight ?? current.scriptureWeight)
+      scriptureWeight: normalizeScriptureWeight(req.body?.scriptureWeight ?? current.scriptureWeight),
+      fontScale: normalizeFontScale(req.body?.fontScale ?? current.fontScale)
     }
   };
   writeStore(store);
@@ -559,7 +571,8 @@ app.post('/api/bible/show-reference', (req, res) => {
     translation: blocks[0]?.shortName || blocks[0]?.name || '',
     primaryTranslation: blocks[0]?.translationId || '',
     selectedTranslations: blocks.map(b => b.translationId),
-    scriptureWeight: normalizeScriptureWeight(req.body?.scriptureWeight ?? bibleSettings.scriptureWeight)
+    scriptureWeight: normalizeScriptureWeight(req.body?.scriptureWeight ?? bibleSettings.scriptureWeight),
+    fontScale: normalizeFontScale(req.body?.fontScale ?? bibleSettings.fontScale)
   });
   res.json(state);
 });
@@ -579,7 +592,8 @@ app.post('/api/bible/add-reference-to-plan', (req, res) => {
     translation: blocks[0]?.shortName || blocks[0]?.name || '',
     primaryTranslation: blocks[0]?.translationId || '',
     selectedTranslations: blocks.map(b => b.translationId),
-    scriptureWeight: normalizeScriptureWeight(req.body?.scriptureWeight ?? bibleSettings.scriptureWeight)
+    scriptureWeight: normalizeScriptureWeight(req.body?.scriptureWeight ?? bibleSettings.scriptureWeight),
+    fontScale: normalizeFontScale(req.body?.fontScale ?? bibleSettings.fontScale)
   };
   const item = makePlanItem({ type: 'bible', title: result.reference, payload });
   store.servicePlan.push(item);
@@ -819,9 +833,33 @@ app.post('/api/bible/show', (req, res) => {
     secondaryText: secondaryText || '',
     secondaryLanguage: secondaryLanguage || '',
     blocks: Array.isArray(req.body?.blocks) ? req.body.blocks : undefined,
-    scriptureWeight: normalizeScriptureWeight(req.body?.scriptureWeight ?? bibleSettings.scriptureWeight)
+    scriptureWeight: normalizeScriptureWeight(req.body?.scriptureWeight ?? bibleSettings.scriptureWeight),
+    fontScale: normalizeFontScale(req.body?.fontScale ?? bibleSettings.fontScale)
   });
   res.json(state);
+});
+
+app.post('/api/bible/font-scale', (req, res) => {
+  const store = readStore();
+  const fontScale = normalizeFontScale(req.body?.fontScale);
+  // Persist as the new default so future shows reuse it.
+  store.settings = {
+    ...(store.settings || {}),
+    bible: { ...getBibleSettings(store), fontScale }
+  };
+  // If Scripture is on screen right now, patch it live without re-sending the text.
+  const state = store.screenState;
+  const isLive = state && state.mode === 'bible';
+  if (isLive) {
+    store.screenState = {
+      ...state,
+      payload: { ...(state.payload || {}), fontScale },
+      updatedAt: now()
+    };
+  }
+  writeStore(store);
+  if (isLive) broadcast({ type: 'state', state: store.screenState });
+  res.json({ fontScale, live: isLive });
 });
 
 app.post('/api/bible/add-to-plan', (req, res) => {
@@ -835,7 +873,8 @@ app.post('/api/bible/add-to-plan', (req, res) => {
     secondaryText: req.body.secondaryText || '',
     secondaryLanguage: req.body.secondaryLanguage || '',
     blocks: Array.isArray(req.body?.blocks) ? req.body.blocks : undefined,
-    scriptureWeight: normalizeScriptureWeight(req.body?.scriptureWeight ?? bibleSettings.scriptureWeight)
+    scriptureWeight: normalizeScriptureWeight(req.body?.scriptureWeight ?? bibleSettings.scriptureWeight),
+    fontScale: normalizeFontScale(req.body?.fontScale ?? bibleSettings.fontScale)
   };
   const item = makePlanItem({ type: 'bible', title: payload.reference, payload });
   store.servicePlan.push(item);

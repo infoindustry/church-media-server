@@ -189,7 +189,7 @@ function AdminApp() {
         {tab === 'audio' && <AudioPanel action={action} refreshPlan={refreshPlan} />}
         {tab === 'bibleka' && <LearningVideosPanel section={LEARNING_SECTIONS[0]} action={action} refreshPlan={refreshPlan} />}
         {tab === 'superbook' && <LearningVideosPanel section={LEARNING_SECTIONS[1]} action={action} refreshPlan={refreshPlan} />}
-        {tab === 'bible' && <BiblePanel action={action} />}
+        {tab === 'bible' && <BiblePanel action={action} state={state} />}
         {tab === 'translation' && <TranslationPanel action={action} />}
         {tab === 'announcement' && <AnnouncementPanel action={action} />}
         {tab === 'missions' && <MissionBoardPanel action={action} />}
@@ -907,12 +907,21 @@ function AudioPanel({ action, refreshPlan }) {
   );
 }
 
-function BiblePanel({ action }) {
+function clampFontScale(value) {
+  const num = Number(value);
+  if (!Number.isFinite(num)) return 1;
+  return Math.min(2.5, Math.max(0.5, Math.round(num * 100) / 100));
+}
+
+function BiblePanel({ action, state }) {
   const [reference, setReference] = useState('Иоанна 7:37-38');
   const [translations, setTranslations] = useState([]);
   const [books, setBooks] = useState([]);
   const [selected, setSelected] = useState(['ru_synodal']);
   const [scriptureWeight, setScriptureWeight] = useState('medium');
+  const [fontScale, setFontScale] = useState(1);
+  const fontScaleTimer = useRef(null);
+  const bibleLive = state?.mode === 'bible';
   const [preview, setPreview] = useState(null);
   const [loading, setLoading] = useState(false);
   const [manualMode, setManualMode] = useState(false);
@@ -938,7 +947,18 @@ function BiblePanel({ action }) {
     setTranslations(list || []);
     setBooks(bookList || []);
     setScriptureWeight(settings?.bible?.scriptureWeight || 'medium');
+    setFontScale(clampFontScale(settings?.bible?.fontScale ?? 1));
     if (list?.some(t => t.id === 'ru_synodal')) setSelected(prev => prev.length ? prev : ['ru_synodal']);
+  }
+
+  function changeFontScale(nextValue) {
+    const value = clampFontScale(nextValue);
+    setFontScale(value);
+    // Debounced: persists as default and live-patches the TV if Scripture is on screen.
+    if (fontScaleTimer.current) clearTimeout(fontScaleTimer.current);
+    fontScaleTimer.current = setTimeout(() => {
+      api('/api/bible/font-scale', postJson({ fontScale: value })).catch(() => {});
+    }, 120);
   }
 
   async function saveScriptureWeight(nextWeight) {
@@ -1018,7 +1038,7 @@ function BiblePanel({ action }) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [translations.length, books.length]);
 
-  const preparedPayload = { reference, translations: selected, scriptureWeight };
+  const preparedPayload = { reference, translations: selected, scriptureWeight, fontScale };
   const availableIds = new Set(translations.map(t => t.id));
   const quickOptions = [
     { id: 'ru_synodal', label: 'Русский · Синодальный' },
@@ -1127,6 +1147,8 @@ function BiblePanel({ action }) {
 
         <BibleWeightSettings value={scriptureWeight} onChange={saveScriptureWeight} />
 
+        <FontScaleSlider value={fontScale} onChange={changeFontScale} live={bibleLive} />
+
         <div className="button-row">
           <button type="submit"><Search size={18} /> Найти и обновить предпросмотр</button>
           <button className="primary" type="button" onClick={() => action('Писание показано', () => api('/api/bible/show-reference', postJson(preparedPayload)))}><BookOpen size={18} /> Показать на ТВ</button>
@@ -1169,6 +1191,34 @@ function BibleWeightSettings({ value, onChange }) {
             {option.label}
           </button>
         ))}
+      </div>
+    </div>
+  );
+}
+
+function FontScaleSlider({ value, onChange, live }) {
+  const percent = Math.round(value * 100);
+  return (
+    <div className="font-scale-settings">
+      <div className="font-scale-head">
+        <div>
+          <strong>Размер шрифта на ТВ</strong>
+          <p>{live ? 'Стих уже на экране — размер меняется вживую.' : 'Применится при показе на ТВ.'}</p>
+        </div>
+        <span className="font-scale-value">{percent}%</span>
+      </div>
+      <div className="font-scale-row">
+        <button type="button" className="icon-btn" onClick={() => onChange(value - 0.1)} aria-label="Меньше">A−</button>
+        <input
+          type="range"
+          min="0.5"
+          max="2.5"
+          step="0.05"
+          value={value}
+          onChange={e => onChange(e.target.value)}
+        />
+        <button type="button" className="icon-btn" onClick={() => onChange(value + 0.1)} aria-label="Больше">A+</button>
+        <button type="button" className="font-scale-reset" onClick={() => onChange(1)}>100%</button>
       </div>
     </div>
   );
@@ -1578,12 +1628,17 @@ function BibleScreen({ payload }) {
         payload.secondaryText ? { translationId: payload.secondaryLanguage || 'secondary', shortName: payload.secondaryLanguage || '', text: payload.secondaryText } : null
       ].filter(Boolean);
   const scriptureWeight = ['low', 'medium', 'high'].includes(payload.scriptureWeight) ? payload.scriptureWeight : 'medium';
+  const fontScale = Number.isFinite(Number(payload.fontScale))
+    ? Math.min(2.5, Math.max(0.5, Number(payload.fontScale)))
+    : 1;
 
   return (
-    <section className={cx('screen-center bible-screen', `scripture-weight-${scriptureWeight}`, blocks.length > 1 && 'multi-bible')}>
+    <section
+      className={cx('screen-center bible-screen', `scripture-weight-${scriptureWeight}`, blocks.length > 1 && 'multi-bible')}
+    >
       <div className="reference">{payload.reference || 'Место Писания'}</div>
       {blocks.length > 0 ? (
-        <div className="scripture-grid" data-count={blocks.length}>
+        <div className="scripture-grid" data-count={blocks.length} style={{ zoom: fontScale }}>
           {blocks.map((block, index) => (
             <article className="scripture-block" key={block.translationId || block.shortName || index}>
               <div className="scripture-translation-label">{block.shortName || block.name || block.language || block.translationId}</div>

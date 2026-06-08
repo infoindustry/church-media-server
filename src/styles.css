@@ -529,6 +529,15 @@ button { cursor: pointer; border: 0; }
 .font-weight-options { display: inline-grid; grid-template-columns: repeat(3, minmax(74px, 1fr)); gap: 6px; padding: 5px; border-radius: 16px; background: #e2e8f0; }
 .font-weight-options button { min-height: 42px; padding: 9px 12px; border-radius: 12px; background: transparent; color: #334155; font-weight: 900; }
 .font-weight-options button.active { background: #2563eb; color: #fff; }
+.font-scale-settings { margin-top: 12px; padding: 14px; border: 1px solid #e2e8f0; background: #f8fafc; border-radius: 18px; }
+.font-scale-head { display: flex; align-items: center; justify-content: space-between; gap: 14px; }
+.font-scale-head strong { display: block; color: #0f172a; font-weight: 950; }
+.font-scale-head p { margin: 4px 0 0; color: #64748b; font-size: 14px; }
+.font-scale-value { font-weight: 950; font-size: 22px; color: #2563eb; min-width: 64px; text-align: right; }
+.font-scale-row { display: flex; align-items: center; gap: 10px; margin-top: 12px; }
+.font-scale-row input[type="range"] { flex: 1; accent-color: #2563eb; height: 28px; }
+.font-scale-row .icon-btn { font-weight: 950; min-width: 46px; }
+.font-scale-reset { min-height: 42px; padding: 9px 14px; border-radius: 12px; background: #e2e8f0; color: #334155; font-weight: 900; }
 .scripture-grid { display: grid; gap: 26px; width: min(1500px, 100%); }
 .scripture-grid[data-count="2"] { grid-template-columns: 1fr 1fr; align-items: start; }
 .scripture-grid[data-count="3"] { grid-template-columns: 1fr; gap: 18px; }
