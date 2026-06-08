@@ -209,6 +209,7 @@ function describeState(state) {
   if (state.mode === 'youtube_audio') return `YouTube audio: ${p.title || 'без названия'}`;
   if (state.mode === 'bible') return `Писание: ${p.reference || ''}`;
   if (state.mode === 'translation_qr') return `QR перевода: ${p.title || p.url}`;
+  if (state.mode === 'translation_caption') return `Субтитры перевода: ${p.title || p.url}`;
   if (state.mode === 'announcement') return `Объявление: ${p.title || ''}`;
   if (state.mode === 'external_board') return `Миссии: ${p.title || p.url || ''}`;
   if (state.mode === 'image') return `Картинка: ${p.title || ''}`;
@@ -219,7 +220,7 @@ function describeState(state) {
 
 function typeLabel(type) {
   return {
-    welcome: 'Приветствие', song: 'Песня', song_video: 'Песня', audio: 'Фонограмма', audio_track: 'Фонограмма', youtube_audio: 'YouTube audio', youtube: 'YouTube', bible: 'Писание', translation_qr: 'Перевод', announcement: 'Объявление', external_board: 'Миссии', image: 'Картинка', slideshow: 'Слайдшоу', blank: 'Blank', loading: 'Загрузка'
+    welcome: 'Приветствие', song: 'Песня', song_video: 'Песня', audio: 'Фонограмма', audio_track: 'Фонограмма', youtube_audio: 'YouTube audio', youtube: 'YouTube', bible: 'Писание', translation_qr: 'QR перевода', translation_caption: 'Субтитры', announcement: 'Объявление', external_board: 'Миссии', image: 'Картинка', slideshow: 'Слайдшоу', blank: 'Blank', loading: 'Загрузка'
   }[type] || type;
 }
 
@@ -1224,26 +1225,126 @@ function FontScaleSlider({ value, onChange, live }) {
   );
 }
 
+const EMPTY_TRANSLATION_DRAFT = {
+  name: '',
+  audienceUrl: '',
+  screenEmbedUrl: '',
+  languages: 'English, Srpski',
+  audienceInstructions: 'Scan the QR code and choose your language.',
+  rtmpUrl: '',
+  rtmpKey: ''
+};
+
 function TranslationPanel({ action }) {
-  const [form, setForm] = useState({
-    title: 'Live translation',
-    url: 'https://example.com/join/service',
-    languages: 'English, Русский, Crnogorski',
-    instructions: 'Scan the QR code, choose your language and keep the screen open for audio.'
-  });
+  const [providers, setProviders] = useState([]);
+  const [activeId, setActiveId] = useState('');
+  const [draft, setDraft] = useState(null);
+  const [loading, setLoading] = useState(false);
+
+  async function load() {
+    setLoading(true);
+    try {
+      const data = await api('/api/translation/providers');
+      setProviders(data.providers || []);
+      setActiveId(data.activeId || '');
+    } finally {
+      setLoading(false);
+    }
+  }
+
+  useEffect(() => { load(); }, []);
+
+  async function activate(id) {
+    await api(`/api/translation/providers/${id}/activate`, { method: 'POST' });
+    await load();
+  }
+
+  async function saveDraft() {
+    if (!draft) return;
+    const body = postJson(draft);
+    if (draft.id) await api(`/api/translation/providers/${draft.id}`, { method: 'PUT', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(draft) });
+    else await api('/api/translation/providers', body);
+    setDraft(null);
+    await load();
+  }
+
+  async function removeProvider(id) {
+    if (!confirm('Удалить сервис перевода из списка?')) return;
+    await api(`/api/translation/providers/${id}`, { method: 'DELETE' });
+    if (draft?.id === id) setDraft(null);
+    await load();
+  }
+
   return (
-    <section className="card">
-      <h2>QR для live-перевода</h2>
-      <form className="form" onSubmit={e => e.preventDefault()}>
-        <label>Заголовок<input value={form.title} onChange={e => setForm({ ...form, title: e.target.value })} /></label>
-        <label>Ссылка<input value={form.url} onChange={e => setForm({ ...form, url: e.target.value })} /></label>
-        <label>Языки<input value={form.languages} onChange={e => setForm({ ...form, languages: e.target.value })} /></label>
-        <label>Инструкция<textarea rows="4" value={form.instructions} onChange={e => setForm({ ...form, instructions: e.target.value })} /></label>
-        <div className="button-row">
-          <button className="primary" onClick={() => action('QR показан', () => api('/api/translation/show', postJson(form)))}><QrCode size={18} /> Показать QR на ТВ</button>
-          <button onClick={() => action('QR добавлен в план', () => api('/api/translation/add-to-plan', postJson(form)))}><ListPlus size={18} /> Добавить в план</button>
+    <section className="grid two">
+      <div className="stack">
+        <div className="card">
+          <div className="card-title-row compact">
+            <div>
+              <h2>Сервисы перевода</h2>
+              <p>Сначала покажи <strong>QR на телефоны</strong> (люди сканируют и открывают у себя), потом переключи на <strong>Субтитры на ТВ</strong> — слова проповедника на экране.</p>
+            </div>
+            <span className="result-count">{loading ? '...' : providers.length}</span>
+          </div>
+          <div className="song-list">
+            {providers.map(p => {
+              const isActive = p.id === activeId;
+              return (
+                <article className={cx('song-item', 'provider-item', isActive && 'active-plan-item')} key={p.id}>
+                  <div>
+                    <h3>{p.name} {isActive && <span className="badge ok">активный</span>}</h3>
+                    <p>{p.languages || 'языки не указаны'}</p>
+                    <div className="provider-badges">
+                      <span className={cx('badge', p.audienceUrl ? 'ok' : 'warn')}>{p.audienceUrl ? 'телефоны ✓' : 'нет ссылки телефонов'}</span>
+                      <span className={cx('badge', p.screenEmbedUrl ? 'ok' : 'warn')}>{p.screenEmbedUrl ? 'субтитры ✓' : 'нет субтитров'}</span>
+                      {p.rtmpUrl && <span className="badge">RTMP</span>}
+                    </div>
+                  </div>
+                  <div className="song-actions wrap-actions">
+                    <button className="primary" disabled={!p.audienceUrl} onClick={() => action('QR на телефоны показан', () => api(`/api/translation/providers/${p.id}/show-qr`, { method: 'POST' }))}><QrCode size={17} /> QR на телефоны</button>
+                    <button className="primary" disabled={!p.screenEmbedUrl} onClick={() => action('Субтитры на ТВ', () => api(`/api/translation/providers/${p.id}/show-caption`, { method: 'POST' }))}><Megaphone size={17} /> Субтитры на ТВ</button>
+                    <button disabled={!p.audienceUrl} onClick={() => action('QR добавлен в план', () => api(`/api/translation/providers/${p.id}/add-qr-to-plan`, { method: 'POST' }))}><ListPlus size={17} /> QR в план</button>
+                    <button disabled={!p.screenEmbedUrl} onClick={() => action('Субтитры добавлены в план', () => api(`/api/translation/providers/${p.id}/add-caption-to-plan`, { method: 'POST' }))}><ListPlus size={17} /> Субтитры в план</button>
+                    {!isActive && <button onClick={() => activate(p.id)}><CheckCircle2 size={17} /> Активный</button>}
+                    <button className="icon-btn" onClick={() => setDraft({ ...p })}><RotateCcw size={17} /></button>
+                    <button className="icon-btn danger" onClick={() => removeProvider(p.id)}><Trash2 size={17} /></button>
+                  </div>
+                </article>
+              );
+            })}
+            {!loading && !providers.length && <p>Список пуст. Добавь первый сервис перевода справа.</p>}
+          </div>
         </div>
-      </form>
+      </div>
+
+      <div className="card">
+        <div className="card-title-row">
+          <h2>{draft?.id ? 'Изменить сервис' : 'Добавить сервис'}</h2>
+          {draft && <button onClick={() => setDraft(null)}>Отмена</button>}
+        </div>
+        {!draft && <button className="big-action" onClick={() => setDraft({ ...EMPTY_TRANSLATION_DRAFT })}><Plus size={18} /> Новый сервис перевода</button>}
+        {draft && (
+          <form className="form" onSubmit={e => { e.preventDefault(); saveDraft().catch(err => alert(err.message)); }}>
+            <label>Название<input value={draft.name} onChange={e => setDraft({ ...draft, name: e.target.value })} placeholder="CaptionKit / Glossa / ..." /></label>
+            <label>Ссылка для телефонов прихожан (→ QR)
+              <input value={draft.audienceUrl} onChange={e => setDraft({ ...draft, audienceUrl: e.target.value })} placeholder="https://captionkit.io/c/word-of-god" />
+            </label>
+            <label>Ссылка субтитров для экрана (iframe)
+              <input value={draft.screenEmbedUrl} onChange={e => setDraft({ ...draft, screenEmbedUrl: e.target.value })} placeholder="https://captionkit.io/f/word-of-god?fontSize=10" />
+            </label>
+            <label>Языки<input value={draft.languages} onChange={e => setDraft({ ...draft, languages: e.target.value })} placeholder="English, Srpski" /></label>
+            <label>Английское объявление на QR-экране<textarea rows="3" value={draft.audienceInstructions} onChange={e => setDraft({ ...draft, audienceInstructions: e.target.value })} /></label>
+            <details className="collapsible-tool">
+              <summary><span>RTMP-вход (для микшера, опционально)</span><small>Открыть</small></summary>
+              <p className="hint">Понадобится, когда подключишь микшер и будешь подавать чистый звук с пульта. Ключ хранится локально на мини-ПК.</p>
+              <label>RTMP URL<input value={draft.rtmpUrl} onChange={e => setDraft({ ...draft, rtmpUrl: e.target.value })} placeholder="rtmp://stream.glossa.live:1935/live" /></label>
+              <label>RTMP ключ<input value={draft.rtmpKey} onChange={e => setDraft({ ...draft, rtmpKey: e.target.value })} placeholder="секретный ключ потока" /></label>
+            </details>
+            <button className="primary" type="submit"><CheckCircle2 size={18} /> Сохранить сервис</button>
+          </form>
+        )}
+        <p className="hint">QR-экран и экран-субтитры — это два отдельных пункта. Покажи QR, дай людям просканировать, затем включи субтитры — на экране пойдут слова проповедника.</p>
+      </div>
     </section>
   );
 }
@@ -1565,6 +1666,7 @@ function ScreenApp() {
       {state.mode === 'song_video' && <SongVideo payload={payload} mediaRef={mediaRef} />}
       {state.mode === 'bible' && <BibleScreen payload={payload} />}
       {state.mode === 'translation_qr' && <TranslationScreen payload={payload} />}
+      {state.mode === 'translation_caption' && <TranslationCaptionScreen payload={payload} />}
       {state.mode === 'announcement' && <AnnouncementScreen payload={payload} />}
       {state.mode === 'external_board' && <ExternalBoardScreen payload={payload} />}
       {state.mode === 'image' && <ImageScreen payload={payload} />}
@@ -1667,6 +1769,26 @@ function TranslationScreen({ payload }) {
       <p>{payload.instructions || 'Scan the QR code and choose your language.'}</p>
       <div className="url-line">{payload.url}</div>
       {payload.languages && <div className="langs">{payload.languages}</div>}
+    </section>
+  );
+}
+
+function TranslationCaptionScreen({ payload }) {
+  if (!payload.url) {
+    return <MessageScreen payload={{ title: payload.title || 'Перевод', body: 'У сервиса не задана ссылка субтитров для экрана.' }} />;
+  }
+  return (
+    <section className="translation-caption-screen">
+      <iframe
+        title={payload.title || 'Live translation'}
+        src={payload.url}
+        allow="autoplay; encrypted-media; clipboard-read; clipboard-write"
+        allowFullScreen
+      />
+      <div className="translation-caption-badge">
+        <QrCode size={20} />
+        <span>{payload.title || 'Live translation'}{payload.languages ? ` · ${payload.languages}` : ''}</span>
+      </div>
     </section>
   );
 }

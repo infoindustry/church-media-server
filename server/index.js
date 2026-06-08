@@ -47,6 +47,29 @@ const defaultStore = {
   songs: [],
   announcements: [],
   translationLinks: [],
+  translationProviders: [
+    {
+      id: 'captionkit',
+      name: 'CaptionKit',
+      audienceUrl: 'https://captionkit.io/c/word-of-god',
+      screenEmbedUrl: 'https://captionkit.io/f/word-of-god?fontSize=10',
+      languages: 'English, Srpski',
+      audienceInstructions: 'Scan the QR code to read the live translation in your language.',
+      rtmpUrl: '',
+      rtmpKey: ''
+    },
+    {
+      id: 'glossa',
+      name: 'Glossa',
+      audienceUrl: 'https://glossa.live/services/934aae72-9b38-45f0-a85f-233d4b1af7f2',
+      screenEmbedUrl: 'https://glossa.live/iframe/934aae72-9b38-45f0-a85f-233d4b1af7f2',
+      languages: 'English, Srpski',
+      audienceInstructions: 'Scan the QR code, choose your language and keep the page open during the sermon.',
+      rtmpUrl: 'rtmp://stream.glossa.live:1935/live',
+      rtmpKey: ''
+    }
+  ],
+  activeTranslationProviderId: 'captionkit',
   mediaImages: [],
   audioTracks: [],
   servicePlan: [],
@@ -78,6 +101,8 @@ function normalizeStore(store) {
     songs: Array.isArray(store?.songs) ? store.songs : [],
     announcements: Array.isArray(store?.announcements) ? store.announcements : [],
     translationLinks: Array.isArray(store?.translationLinks) ? store.translationLinks : [],
+    translationProviders: Array.isArray(store?.translationProviders) ? store.translationProviders : defaultStore.translationProviders,
+    activeTranslationProviderId: store?.activeTranslationProviderId ?? defaultStore.activeTranslationProviderId,
     mediaImages: Array.isArray(store?.mediaImages) ? store.mediaImages : [],
     audioTracks: Array.isArray(store?.audioTracks) ? store.audioTracks : [],
     servicePlan: Array.isArray(store?.servicePlan) ? store.servicePlan : [],
@@ -392,6 +417,7 @@ function stateFromPlanItem(item, store) {
 
   if (item.type === 'bible') return { mode: 'bible', payload: { ...payload, fromPlanItemId: item.id } };
   if (item.type === 'translation_qr') return { mode: 'translation_qr', payload: { ...payload, fromPlanItemId: item.id } };
+  if (item.type === 'translation_caption') return { mode: 'translation_caption', payload: { ...payload, fromPlanItemId: item.id } };
   if (item.type === 'announcement') return { mode: 'announcement', payload: { ...payload, fromPlanItemId: item.id } };
   if (item.type === 'external_board') return { mode: 'external_board', payload: { ...payload, fromPlanItemId: item.id } };
   if (item.type === 'image') return { mode: 'image', payload: { ...payload, fromPlanItemId: item.id } };
@@ -906,6 +932,123 @@ app.post('/api/translation/add-to-plan', async (req, res) => {
   res.status(201).json({ item, servicePlan: store.servicePlan });
 });
 
+function findTranslationProvider(store, id) {
+  return (store.translationProviders || []).find(p => p.id === id);
+}
+
+async function buildTranslationQrPayload(provider) {
+  const url = provider.audienceUrl || '';
+  const qrDataUrl = url ? await QRCode.toDataURL(url, { margin: 1, width: 720 }) : '';
+  return {
+    providerId: provider.id,
+    title: provider.name || 'Live translation',
+    url,
+    languages: provider.languages || '',
+    instructions: provider.audienceInstructions || 'Scan the QR code and choose your language.',
+    qrDataUrl
+  };
+}
+
+function buildTranslationCaptionPayload(provider) {
+  return {
+    providerId: provider.id,
+    title: provider.name || 'Live translation',
+    url: provider.screenEmbedUrl || '',
+    languages: provider.languages || ''
+  };
+}
+
+app.get('/api/translation/providers', (req, res) => {
+  const store = readStore();
+  res.json({ providers: store.translationProviders || [], activeId: store.activeTranslationProviderId || '' });
+});
+
+app.post('/api/translation/providers', (req, res) => {
+  const store = readStore();
+  const provider = {
+    id: nanoid(8),
+    name: req.body?.name || 'Сервис перевода',
+    audienceUrl: req.body?.audienceUrl || '',
+    screenEmbedUrl: req.body?.screenEmbedUrl || '',
+    languages: req.body?.languages || '',
+    audienceInstructions: req.body?.audienceInstructions || 'Scan the QR code and choose your language.',
+    rtmpUrl: req.body?.rtmpUrl || '',
+    rtmpKey: req.body?.rtmpKey || ''
+  };
+  store.translationProviders = [...(store.translationProviders || []), provider];
+  if (!store.activeTranslationProviderId) store.activeTranslationProviderId = provider.id;
+  writeStore(store);
+  res.status(201).json(provider);
+});
+
+app.put('/api/translation/providers/:id', (req, res) => {
+  const store = readStore();
+  const provider = findTranslationProvider(store, req.params.id);
+  if (!provider) return res.status(404).json({ error: 'Сервис не найден' });
+  for (const field of ['name', 'audienceUrl', 'screenEmbedUrl', 'languages', 'audienceInstructions', 'rtmpUrl', 'rtmpKey']) {
+    if (req.body?.[field] !== undefined) provider[field] = req.body[field];
+  }
+  writeStore(store);
+  res.json(provider);
+});
+
+app.delete('/api/translation/providers/:id', (req, res) => {
+  const store = readStore();
+  store.translationProviders = (store.translationProviders || []).filter(p => p.id !== req.params.id);
+  if (store.activeTranslationProviderId === req.params.id) {
+    store.activeTranslationProviderId = store.translationProviders[0]?.id || '';
+  }
+  writeStore(store);
+  res.json({ ok: true, providers: store.translationProviders, activeId: store.activeTranslationProviderId });
+});
+
+app.post('/api/translation/providers/:id/activate', (req, res) => {
+  const store = readStore();
+  const provider = findTranslationProvider(store, req.params.id);
+  if (!provider) return res.status(404).json({ error: 'Сервис не найден' });
+  store.activeTranslationProviderId = provider.id;
+  writeStore(store);
+  res.json({ activeId: provider.id });
+});
+
+app.post('/api/translation/providers/:id/show-qr', async (req, res) => {
+  const store = readStore();
+  const provider = findTranslationProvider(store, req.params.id);
+  if (!provider) return res.status(404).json({ error: 'Сервис не найден' });
+  if (!provider.audienceUrl) return res.status(400).json({ error: 'У сервиса не задана ссылка для телефонов' });
+  res.json(updateScreenState('translation_qr', await buildTranslationQrPayload(provider)));
+});
+
+app.post('/api/translation/providers/:id/show-caption', (req, res) => {
+  const store = readStore();
+  const provider = findTranslationProvider(store, req.params.id);
+  if (!provider) return res.status(404).json({ error: 'Сервис не найден' });
+  if (!provider.screenEmbedUrl) return res.status(400).json({ error: 'У сервиса не задана ссылка субтитров для экрана' });
+  res.json(updateScreenState('translation_caption', buildTranslationCaptionPayload(provider)));
+});
+
+app.post('/api/translation/providers/:id/add-qr-to-plan', async (req, res) => {
+  const store = readStore();
+  const provider = findTranslationProvider(store, req.params.id);
+  if (!provider) return res.status(404).json({ error: 'Сервис не найден' });
+  const payload = await buildTranslationQrPayload(provider);
+  const item = makePlanItem({ type: 'translation_qr', title: `QR перевода · ${provider.name}`, payload });
+  store.servicePlan.push(item);
+  writeStore(store);
+  res.status(201).json({ item, servicePlan: store.servicePlan });
+});
+
+app.post('/api/translation/providers/:id/add-caption-to-plan', (req, res) => {
+  const store = readStore();
+  const provider = findTranslationProvider(store, req.params.id);
+  if (!provider) return res.status(404).json({ error: 'Сервис не найден' });
+  const payload = buildTranslationCaptionPayload(provider);
+  const item = makePlanItem({ type: 'translation_caption', title: `Субтитры · ${provider.name}`, payload });
+  store.servicePlan.push(item);
+  writeStore(store);
+  res.status(201).json({ item, servicePlan: store.servicePlan });
+});
+
 app.post('/api/announcement/show', async (req, res) => {
   const { title, titleEn, body, bodyEn, qrUrl } = req.body;
   let qrDataUrl = '';
@@ -1155,6 +1298,9 @@ app.get('/api/checkup', (req, res) => {
     }
     if (item.type === 'translation_qr' && item.payload?.url?.startsWith('http')) {
       planWarnings.push({ index: index + 1, title: item.title, reason: 'Ссылка перевода может требовать интернет' });
+    }
+    if (item.type === 'translation_caption' && item.payload?.url?.startsWith('http')) {
+      planWarnings.push({ index: index + 1, title: item.title, reason: 'Субтитры перевода требуют интернет' });
     }
     if (item.type === 'external_board' && item.payload?.url?.startsWith('http')) {
       planWarnings.push({ index: index + 1, title: item.title, reason: 'Миссионерский борд требует интернет' });
