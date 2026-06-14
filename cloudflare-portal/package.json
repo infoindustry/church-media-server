@@ -1,0 +1,16 @@
+{
+  "name": "church-media-cloud-portal",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "db:migrate:local": "wrangler d1 execute church_media_portal --local --file=./schema.sql",
+    "db:migrate:remote": "wrangler d1 execute church_media_portal --remote --file=./schema.sql",
+    "db:migrate:plan-fields:remote": "wrangler d1 execute church_media_portal --remote --file=./migrations/0002_add_plan_and_cleanup_fields.sql"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}

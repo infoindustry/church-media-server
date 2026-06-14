@@ -1,0 +1,9 @@
+[
+  {
+    "AllowedOrigins": ["https://REPLACE_WITH_PORTAL_DOMAIN"],
+    "AllowedMethods": ["PUT", "GET", "HEAD"],
+    "AllowedHeaders": ["content-type", "content-length", "x-amz-*"],
+    "ExposeHeaders": ["etag"],
+    "MaxAgeSeconds": 3600
+  }
+]

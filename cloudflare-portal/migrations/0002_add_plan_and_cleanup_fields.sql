@@ -1,0 +1,2 @@
+ALTER TABLE media_items ADD COLUMN add_to_plan INTEGER NOT NULL DEFAULT 0;
+ALTER TABLE media_items ADD COLUMN plan_position TEXT NOT NULL DEFAULT 'end';
