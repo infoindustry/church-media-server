@@ -37,6 +37,9 @@ export function startCloudSync({ readStore, writeStore, mediaDir, now, safeFileN
   }
 
   console.log(`Cloud media sync enabled: ${baseUrl}`);
+  refreshDeviceConfig({ baseUrl, token }).catch(error => {
+    console.error('Cloud device config error:', error.message);
+  });
   setTimeout(loop, 1500);
 
   return () => {
@@ -54,6 +57,18 @@ async function heartbeat({ baseUrl, token, deviceId, deviceName }) {
       version: process.env.npm_package_version || ''
     }
   });
+}
+
+async function refreshDeviceConfig({ baseUrl, token }) {
+  const config = await apiJson(`${baseUrl}/api/device/config`, { token });
+  if (!process.env.OPENAI_API_KEY && config.openaiApiKey) {
+    process.env.OPENAI_API_KEY = config.openaiApiKey;
+    console.log('OpenAI translation key loaded from Cloudflare.');
+  }
+  if (!process.env.GEMINI_API_KEY && config.geminiApiKey) {
+    process.env.GEMINI_API_KEY = config.geminiApiKey;
+    console.log('Gemini translation key loaded from Cloudflare.');
+  }
 }
 
 async function syncItem({ baseUrl, token, deviceId, item, readStore, writeStore, mediaDir, now, safeFileName }) {

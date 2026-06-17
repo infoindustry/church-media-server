@@ -42,9 +42,12 @@ wrangler secret put SESSION_SECRET
 wrangler secret put DEVICE_TOKEN
 wrangler secret put R2_ACCESS_KEY_ID
 wrangler secret put R2_SECRET_ACCESS_KEY
+wrangler secret put OPENAI_API_KEY
+wrangler secret put GEMINI_API_KEY
 ```
 
 `R2_ACCESS_KEY_ID` and `R2_SECRET_ACCESS_KEY` must be an R2 token that can read/write the `church-media-transfer` bucket.
+`OPENAI_API_KEY` and `GEMINI_API_KEY` are optional, but when set the mini PC can load them securely from Cloudflare at startup instead of storing them in its local `.env`.
 
 Update `R2_ACCOUNT_ID` and `R2_BUCKET_NAME` in `wrangler.toml`.
 
