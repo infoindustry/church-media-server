@@ -14,28 +14,10 @@
       "showChurchName": true
     },
     "bible": {
-      "scriptureWeight": "low",
-      "fontScale": 1
+      "scriptureWeight": "low"
     }
   },
   "songs": [
-    {
-      "id": "sample-song",
-      "title": "Пример песни без файла",
-      "language": "ru",
-      "category": "Поклонение",
-      "tags": [
-        "пример",
-        "локально"
-      ],
-      "sourceType": "local_video",
-      "mediaUrl": "",
-      "fileName": "",
-      "youtubeUrl": "",
-      "isOfflineReady": false,
-      "createdAt": "2026-05-24T00:00:00.000Z",
-      "updatedAt": "2026-05-24T00:00:00.000Z"
-    },
     {
       "id": "Vh4Dl_fzYN",
       "title": "Бог пришел и умер за меня",
@@ -5052,193 +5034,26 @@
       "isOfflineReady": true,
       "createdAt": "2026-05-30T17:13:05.899Z",
       "updatedAt": "2026-05-30T17:13:05.899Z"
+    },
+    {
+      "id": "sample-song",
+      "title": "Пример песни без файла",
+      "language": "ru",
+      "category": "Поклонение",
+      "tags": [
+        "пример",
+        "локально"
+      ],
+      "sourceType": "local_video",
+      "mediaUrl": "",
+      "fileName": "",
+      "youtubeUrl": "",
+      "isOfflineReady": false,
+      "createdAt": "2026-05-24T00:00:00.000Z",
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     }
   ],
   "announcements": [
-    {
-      "id": "Zsy799cK1z",
-      "title": "Время свидетельств",
-      "titleEn": "Time of Testimonies",
-      "body": "Поделитесь кратко тем, что совершил Господь в вашей жизни.\n«Придите, послушайте, все боящиеся Бога, и я возвещу вам, что сотворил Он для души моей». — Псалом 65:16",
-      "bodyEn": "Share briefly what God has done in your life.\n“Come and hear, all you who fear God; let me tell you what he has done for me.” — Psalm 66:16",
-      "lang": "ru",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-06-08T12:39:51.938Z"
-    },
-    {
-      "id": "rNv4Xy6cT6",
-      "title": "С Днём рождения!",
-      "titleEn": "Happy Birthday!",
-      "body": "Поздравляем, [имя]! Пусть Господь обильно благословит новый год твоей жизни.\n«Да благословит тебя Господь и сохранит тебя!» — Числа 6:24",
-      "bodyEn": "Happy Birthday, [name]! May the Lord richly bless this new year of your life.\n“The Lord bless you and keep you.” — Numbers 6:24",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-06-08T12:25:45.472Z"
-    },
-    {
-      "id": "oBtxHUjYiN",
-      "title": "Прославим Господа пением",
-      "titleEn": "Let Us Praise the Lord in Song",
-      "body": "Сольное прославление.\n«Воспойте Господу новую песнь; воспойте Господу, вся земля». — Псалом 95:1",
-      "bodyEn": "A song of worship.\n“Sing to the Lord a new song; sing to the Lord, all the earth.” — Psalm 96:1",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-06-08T12:25:36.663Z"
-    },
-    {
-      "id": "M1DLtQ5oiv",
-      "title": "Время свидетельств",
-      "titleEn": "Time of Testimonies",
-      "body": "Поделитесь кратко тем, что совершил Господь в вашей жизни.\n«Придите, послушайте, все боящиеся Бога, и я возвещу вам, что сотворил Он для души моей». — Псалом 65:16",
-      "bodyEn": "Share briefly what God has done in your life.\n“Come and hear, all you who fear God; let me tell you what he has done for me.” — Psalm 66:16",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-06-08T12:25:25.464Z"
-    },
-    {
-      "id": "kDU94ilYma",
-      "title": "Live-перевод",
-      "titleEn": "Live translation",
-      "body": "Для перевода проповеди отсканируйте QR-код и выберите язык.",
-      "bodyEn": "To listen to the sermon translation, scan the QR code and choose your language.",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-06-08T12:25:14.765Z"
-    },
-    {
-      "id": "FBb1LKf4o3",
-      "title": "Время свидетельств",
-      "titleEn": "Time of Testimonies",
-      "body": "Поделитесь кратко тем, что совершил Господь в вашей жизни.\n«Придите, послушайте, все боящиеся Бога, и я возвещу вам, что сотворил Он для души моей». — Псалом 65:16",
-      "bodyEn": "Share briefly what God has done in your life.\n“Come and hear, all you who fear God; let me tell you what he has done for me.” — Psalm 66:16",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-06-08T12:07:31.256Z"
-    },
-    {
-      "id": "BiUGdYfD53",
-      "title": "Live translation",
-      "body": "Для перевода проповеди отсканируйте QR-код и выберите язык.",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-05-25T10:12:39.559Z"
-    },
-    {
-      "id": "MlVqgh9TXV",
-      "title": "Пожертвование",
-      "body": "Спасибо за вашу поддержку служения.\nВы можете сделать пожертвование, отсканировав QR-код.",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-05-25T10:12:28.333Z"
-    },
-    {
-      "id": "VstPk0MWLz",
-      "title": "Добро пожаловать!",
-      "body": "Мы рады видеть вас на служении. После служения будем рады познакомиться с вами.",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-05-25T10:12:19.520Z"
-    },
-    {
-      "id": "Wk6HKdKGnC",
-      "title": "После служения",
-      "titleEn": "After the service",
-      "body": "Оставайтесь на общение и чай после служения.",
-      "bodyEn": "Please stay for fellowship and tea after the service.",
-      "lang": "both",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-06-14T11:35:41.542Z"
-    },
-    {
-      "id": "yu3MLwOX3h",
-      "title": "Общая фотография",
-      "titleEn": "Group photo",
-      "body": "Приглашаем всех сделать общую фотографию на память.",
-      "bodyEn": "We invite everyone to take a group photo as a memory.",
-      "lang": "both",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-06-14T11:33:17.075Z"
-    },
-    {
-      "id": "h7ur_5VLzQ",
-      "title": "Пожертвование",
-      "titleEn": "Offering",
-      "body": "Спасибо за вашу поддержку служения.\nПожертвование можно положить в бокс.",
-      "bodyEn": "Thank you for supporting the ministry.\nYou can place your offering in the box.",
-      "lang": "both",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-06-14T11:32:00.621Z"
-    },
-    {
-      "id": "-fSV65uqYV",
-      "title": "Время молитвы",
-      "titleEn": "Time of Prayer",
-      "body": "Будем вместе искать лица Божьего в молитве.\n«Ищите лица Моего». И буду искать лица Твоего, Господи. — Псалом 26:8",
-      "bodyEn": "Let us seek the face of God together in prayer.\n“Seek my face.” Your face, Lord, I will seek. — Psalm 27:8",
-      "lang": "both",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-06-14T11:26:01.504Z"
-    },
-    {
-      "id": "mKJpcUMNJq",
-      "title": "Прославим Господа пением",
-      "titleEn": "Let Us Praise the Lord in Song",
-      "body": "Сольное прославление.\n«Воспойте Господу новую песнь; воспойте Господу, вся земля». — Псалом 95:1",
-      "bodyEn": "A song of worship.\n“Sing to the Lord a new song; sing to the Lord, all the earth.” — Psalm 96:1",
-      "lang": "both",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-06-14T10:07:17.764Z"
-    },
-    {
-      "id": "X_0LNthmVr",
-      "title": "Время свидетельств",
-      "titleEn": "Time of Testimonies",
-      "body": "Поделитесь кратко тем, что совершил Господь в вашей жизни.\n«Придите, послушайте, все боящиеся Бога, и я возвещу вам, что сотворил Он для души моей». — Псалом 65:16",
-      "bodyEn": "Share briefly what God has done in your life.\n“Come and hear, all you who fear God; let me tell you what he has done for me.” — Psalm 66:16",
-      "lang": "both",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-06-14T09:45:39.851Z"
-    },
-    {
-      "id": "Fri2N-v_P8",
-      "title": "Добро пожаловать!",
-      "titleEn": "Welcome!",
-      "body": "Мы рады видеть вас на служении. После служения будем рады познакомиться с вами.",
-      "bodyEn": "We are glad to see you at the service. After the service, we would love to meet you.",
-      "lang": "both",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-06-14T09:09:09.344Z"
-    },
-    {
-      "id": "_VAdbgpB8X",
-      "title": "Время свидетельств",
-      "titleEn": "Time of Testimonies",
-      "body": "Поделитесь кратко тем, что совершил Господь в вашей жизни.\n«Придите, послушайте, все боящиеся Бога, и я возвещу вам, что сотворил Он для души моей». — Псалом 65:16",
-      "bodyEn": "Share briefly what God has done in your life.\n“Come and hear, all you who fear God; let me tell you what he has done for me.” — Psalm 66:16",
-      "lang": "ru",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-06-14T08:51:22.719Z"
-    },
-    {
-      "id": "qmP7W_Lq1I",
-      "title": "Добро пожаловать!",
-      "titleEn": "Welcome!",
-      "body": "Мы рады видеть вас на служении. После служения будем рады познакомиться с вами.",
-      "bodyEn": "We are glad to see you at the service. After the service, we would love to meet you.",
-      "lang": "ru",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-06-14T08:51:10.391Z"
-    },
     {
       "id": "Fn-yuPCaB_",
       "title": "Общая фотография",
@@ -5378,46 +5193,34 @@
       "qrUrl": "",
       "qrDataUrl": "",
       "createdAt": "2026-05-30T17:29:30.007Z"
+    },
+    {
+      "id": "BiUGdYfD53",
+      "title": "Live translation",
+      "body": "Для перевода проповеди отсканируйте QR-код и выберите язык.",
+      "qrUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-05-25T10:12:39.559Z"
+    },
+    {
+      "id": "MlVqgh9TXV",
+      "title": "Пожертвование",
+      "body": "Спасибо за вашу поддержку служения.\nВы можете сделать пожертвование, отсканировав QR-код.",
+      "qrUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-05-25T10:12:28.333Z"
+    },
+    {
+      "id": "VstPk0MWLz",
+      "title": "Добро пожаловать!",
+      "body": "Мы рады видеть вас на служении. После служения будем рады познакомиться с вами.",
+      "qrUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-05-25T10:12:19.520Z"
     }
   ],
   "translationLinks": [],
-  "translationProviders": [
-    {
-      "id": "captionkit",
-      "name": "CaptionKit",
-      "audienceUrl": "https://captionkit.io/c/word-of-god",
-      "screenEmbedUrl": "https://captionkit.io/f/word-of-god?fontSize=10",
-      "languages": "English, Srpski",
-      "audienceInstructions": "Scan the QR code to read or listen to the live translation in your language.\nFor audio, please use headphones.",
-      "rtmpUrl": "",
-      "rtmpKey": ""
-    },
-    {
-      "id": "glossa",
-      "name": "Glossa",
-      "audienceUrl": "https://glossa.live/services/934aae72-9b38-45f0-a85f-233d4b1af7f2",
-      "screenEmbedUrl": "https://glossa.live/embed/934aae72-9b38-45f0-a85f-233d4b1af7f2?bg=000000&color=ffffff&font-size=64px&align=center",
-      "languages": "English, Srpski",
-      "audienceInstructions": "Scan the QR code to read or listen to the live translation in your language.\nFor audio, please use headphones.",
-      "rtmpUrl": "rtmp://stream.glossa.live:1935/live",
-      "rtmpKey": ""
-    }
-  ],
-  "activeTranslationProviderId": "captionkit",
   "mediaImages": [
-    {
-      "id": "2YenJ_eTk6",
-      "title": "1.png",
-      "category": "Заставки",
-      "tags": [],
-      "mediaUrl": "/media/images/1779706235071-1.png",
-      "fileName": "1779706235071-1.png",
-      "originalFileName": "1.png",
-      "mimeType": "image/png",
-      "sizeBytes": 57262,
-      "createdAt": "2026-05-25T10:50:35.073Z",
-      "updatedAt": "2026-05-25T10:50:35.073Z"
-    },
     {
       "id": "VzUJ4Ghhlh",
       "title": "IMG_2670.jpeg",
@@ -5574,6 +5377,19 @@
       "sizeBytes": 1705523,
       "createdAt": "2026-05-30T18:22:42.877880Z",
       "updatedAt": "2026-05-30T18:22:42.877880Z"
+    },
+    {
+      "id": "2YenJ_eTk6",
+      "title": "1.png",
+      "category": "Заставки",
+      "tags": [],
+      "mediaUrl": "/media/images/1779706235071-1.png",
+      "fileName": "1779706235071-1.png",
+      "originalFileName": "1.png",
+      "mimeType": "image/png",
+      "sizeBytes": 57262,
+      "createdAt": "2026-05-25T10:50:35.073Z",
+      "updatedAt": "2026-05-25T10:50:35.073Z"
     }
   ],
   "audioTracks": [
@@ -13295,23 +13111,30 @@
   ],
   "activePlanIndex": 0,
   "screenState": {
-    "mode": "song_video",
+    "mode": "bible",
     "payload": {
-      "title": "Christian Music Playlist 2025 Best Worship Songs Praise and Worship Non Stop Playlist",
-      "subtitle": "Word of God Crossroads Budva",
-      "language": "en",
-      "serviceText": "Служение скоро начнется",
-      "imageUrl": "",
-      "imageFit": "cover",
-      "overlay": true,
-      "textAlign": "center",
-      "showChurchName": true,
-      "songId": "YKC6n_2QgR",
-      "category": "Поклонение",
-      "mediaUrl": "/media/videos/1780161177061-141-Christian-Music-Playlist-2025-Best-Worship-Songs-_-Praise-and-Worship-Non-Stop-P.mp4",
-      "isOfflineReady": true
+      "reference": "Иоанна 7:37-38",
+      "blocks": [
+        {
+          "translationId": "ru_synodal",
+          "language": "ru",
+          "name": "Синодальный перевод",
+          "shortName": "Синодальный",
+          "reference": "Иоанна 7:37-38",
+          "text": "37. В последний же великий день праздника стоял Иисус и возгласил, говоря: кто жаждет, иди ко Мне и пей.\n38. Кто верует в Меня, у того, как сказано в Писании, из чрева потекут реки воды живой.",
+          "missing": false
+        }
+      ],
+      "text": "Синодальный:\n37. В последний же великий день праздника стоял Иисус и возгласил, говоря: кто жаждет, иди ко Мне и пей.\n38. Кто верует в Меня, у того, как сказано в Писании, из чрева потекут реки воды живой.",
+      "language": "ru",
+      "translation": "Синодальный",
+      "primaryTranslation": "ru_synodal",
+      "selectedTranslations": [
+        "ru_synodal"
+      ],
+      "scriptureWeight": "low"
     },
     "updatedBy": "admin",
-    "updatedAt": "2026-06-14T11:40:56.982Z"
+    "updatedAt": "2026-06-07T12:25:19.736Z"
   }
 }

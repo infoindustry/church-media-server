@@ -14,28 +14,15 @@
       "showChurchName": true
     },
     "bible": {
+<<<<<<< Updated upstream
+      "scriptureWeight": "medium",
+=======
       "scriptureWeight": "low",
+>>>>>>> Stashed changes
       "fontScale": 1
     }
   },
   "songs": [
-    {
-      "id": "sample-song",
-      "title": "Пример песни без файла",
-      "language": "ru",
-      "category": "Поклонение",
-      "tags": [
-        "пример",
-        "локально"
-      ],
-      "sourceType": "local_video",
-      "mediaUrl": "",
-      "fileName": "",
-      "youtubeUrl": "",
-      "isOfflineReady": false,
-      "createdAt": "2026-05-24T00:00:00.000Z",
-      "updatedAt": "2026-05-24T00:00:00.000Z"
-    },
     {
       "id": "Vh4Dl_fzYN",
       "title": "Бог пришел и умер за меня",
@@ -5052,95 +5039,30 @@
       "isOfflineReady": true,
       "createdAt": "2026-05-30T17:13:05.899Z",
       "updatedAt": "2026-05-30T17:13:05.899Z"
+    },
+    {
+      "id": "sample-song",
+      "title": "Пример песни без файла",
+      "language": "ru",
+      "category": "Поклонение",
+      "tags": [
+        "пример",
+        "локально"
+      ],
+      "sourceType": "local_video",
+      "mediaUrl": "",
+      "fileName": "",
+      "youtubeUrl": "",
+      "isOfflineReady": false,
+      "createdAt": "2026-05-24T00:00:00.000Z",
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     }
   ],
   "announcements": [
     {
+<<<<<<< Updated upstream
       "id": "Zsy799cK1z",
-      "title": "Время свидетельств",
-      "titleEn": "Time of Testimonies",
-      "body": "Поделитесь кратко тем, что совершил Господь в вашей жизни.\n«Придите, послушайте, все боящиеся Бога, и я возвещу вам, что сотворил Он для души моей». — Псалом 65:16",
-      "bodyEn": "Share briefly what God has done in your life.\n“Come and hear, all you who fear God; let me tell you what he has done for me.” — Psalm 66:16",
-      "lang": "ru",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-06-08T12:39:51.938Z"
-    },
-    {
-      "id": "rNv4Xy6cT6",
-      "title": "С Днём рождения!",
-      "titleEn": "Happy Birthday!",
-      "body": "Поздравляем, [имя]! Пусть Господь обильно благословит новый год твоей жизни.\n«Да благословит тебя Господь и сохранит тебя!» — Числа 6:24",
-      "bodyEn": "Happy Birthday, [name]! May the Lord richly bless this new year of your life.\n“The Lord bless you and keep you.” — Numbers 6:24",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-06-08T12:25:45.472Z"
-    },
-    {
-      "id": "oBtxHUjYiN",
-      "title": "Прославим Господа пением",
-      "titleEn": "Let Us Praise the Lord in Song",
-      "body": "Сольное прославление.\n«Воспойте Господу новую песнь; воспойте Господу, вся земля». — Псалом 95:1",
-      "bodyEn": "A song of worship.\n“Sing to the Lord a new song; sing to the Lord, all the earth.” — Psalm 96:1",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-06-08T12:25:36.663Z"
-    },
-    {
-      "id": "M1DLtQ5oiv",
-      "title": "Время свидетельств",
-      "titleEn": "Time of Testimonies",
-      "body": "Поделитесь кратко тем, что совершил Господь в вашей жизни.\n«Придите, послушайте, все боящиеся Бога, и я возвещу вам, что сотворил Он для души моей». — Псалом 65:16",
-      "bodyEn": "Share briefly what God has done in your life.\n“Come and hear, all you who fear God; let me tell you what he has done for me.” — Psalm 66:16",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-06-08T12:25:25.464Z"
-    },
-    {
-      "id": "kDU94ilYma",
-      "title": "Live-перевод",
-      "titleEn": "Live translation",
-      "body": "Для перевода проповеди отсканируйте QR-код и выберите язык.",
-      "bodyEn": "To listen to the sermon translation, scan the QR code and choose your language.",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-06-08T12:25:14.765Z"
-    },
-    {
-      "id": "FBb1LKf4o3",
-      "title": "Время свидетельств",
-      "titleEn": "Time of Testimonies",
-      "body": "Поделитесь кратко тем, что совершил Господь в вашей жизни.\n«Придите, послушайте, все боящиеся Бога, и я возвещу вам, что сотворил Он для души моей». — Псалом 65:16",
-      "bodyEn": "Share briefly what God has done in your life.\n“Come and hear, all you who fear God; let me tell you what he has done for me.” — Psalm 66:16",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-06-08T12:07:31.256Z"
-    },
-    {
-      "id": "BiUGdYfD53",
-      "title": "Live translation",
-      "body": "Для перевода проповеди отсканируйте QR-код и выберите язык.",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-05-25T10:12:39.559Z"
-    },
-    {
-      "id": "MlVqgh9TXV",
-      "title": "Пожертвование",
-      "body": "Спасибо за вашу поддержку служения.\nВы можете сделать пожертвование, отсканировав QR-код.",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-05-25T10:12:28.333Z"
-    },
-    {
-      "id": "VstPk0MWLz",
-      "title": "Добро пожаловать!",
-      "body": "Мы рады видеть вас на служении. После служения будем рады познакомиться с вами.",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-05-25T10:12:19.520Z"
-    },
-    {
+=======
       "id": "Wk6HKdKGnC",
       "title": "После служения",
       "titleEn": "After the service",
@@ -5219,6 +5141,7 @@
     },
     {
       "id": "_VAdbgpB8X",
+>>>>>>> Stashed changes
       "title": "Время свидетельств",
       "titleEn": "Time of Testimonies",
       "body": "Поделитесь кратко тем, что совершил Господь в вашей жизни.\n«Придите, послушайте, все боящиеся Бога, и я возвещу вам, что сотворил Он для души моей». — Псалом 65:16",
@@ -5226,6 +5149,59 @@
       "lang": "ru",
       "qrUrl": "",
       "qrDataUrl": "",
+<<<<<<< Updated upstream
+      "createdAt": "2026-06-08T12:39:51.938Z"
+    },
+    {
+      "id": "rNv4Xy6cT6",
+      "title": "С Днём рождения!",
+      "titleEn": "Happy Birthday!",
+      "body": "Поздравляем, [имя]! Пусть Господь обильно благословит новый год твоей жизни.\n«Да благословит тебя Господь и сохранит тебя!» — Числа 6:24",
+      "bodyEn": "Happy Birthday, [name]! May the Lord richly bless this new year of your life.\n“The Lord bless you and keep you.” — Numbers 6:24",
+      "qrUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-06-08T12:25:45.472Z"
+    },
+    {
+      "id": "oBtxHUjYiN",
+      "title": "Прославим Господа пением",
+      "titleEn": "Let Us Praise the Lord in Song",
+      "body": "Сольное прославление.\n«Воспойте Господу новую песнь; воспойте Господу, вся земля». — Псалом 95:1",
+      "bodyEn": "A song of worship.\n“Sing to the Lord a new song; sing to the Lord, all the earth.” — Psalm 96:1",
+      "qrUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-06-08T12:25:36.663Z"
+    },
+    {
+      "id": "M1DLtQ5oiv",
+      "title": "Время свидетельств",
+      "titleEn": "Time of Testimonies",
+      "body": "Поделитесь кратко тем, что совершил Господь в вашей жизни.\n«Придите, послушайте, все боящиеся Бога, и я возвещу вам, что сотворил Он для души моей». — Псалом 65:16",
+      "bodyEn": "Share briefly what God has done in your life.\n“Come and hear, all you who fear God; let me tell you what he has done for me.” — Psalm 66:16",
+      "qrUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-06-08T12:25:25.464Z"
+    },
+    {
+      "id": "kDU94ilYma",
+      "title": "Live-перевод",
+      "titleEn": "Live translation",
+      "body": "Для перевода проповеди отсканируйте QR-код и выберите язык.",
+      "bodyEn": "To listen to the sermon translation, scan the QR code and choose your language.",
+      "qrUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-06-08T12:25:14.765Z"
+    },
+    {
+      "id": "FBb1LKf4o3",
+      "title": "Время свидетельств",
+      "titleEn": "Time of Testimonies",
+      "body": "Поделитесь кратко тем, что совершил Господь в вашей жизни.\n«Придите, послушайте, все боящиеся Бога, и я возвещу вам, что сотворил Он для души моей». — Псалом 65:16",
+      "bodyEn": "Share briefly what God has done in your life.\n“Come and hear, all you who fear God; let me tell you what he has done for me.” — Psalm 66:16",
+      "qrUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-06-08T12:07:31.256Z"
+=======
       "createdAt": "2026-06-14T08:51:22.719Z"
     },
     {
@@ -5378,6 +5354,31 @@
       "qrUrl": "",
       "qrDataUrl": "",
       "createdAt": "2026-05-30T17:29:30.007Z"
+>>>>>>> Stashed changes
+    },
+    {
+      "id": "BiUGdYfD53",
+      "title": "Live translation",
+      "body": "Для перевода проповеди отсканируйте QR-код и выберите язык.",
+      "qrUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-05-25T10:12:39.559Z"
+    },
+    {
+      "id": "MlVqgh9TXV",
+      "title": "Пожертвование",
+      "body": "Спасибо за вашу поддержку служения.\nВы можете сделать пожертвование, отсканировав QR-код.",
+      "qrUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-05-25T10:12:28.333Z"
+    },
+    {
+      "id": "VstPk0MWLz",
+      "title": "Добро пожаловать!",
+      "body": "Мы рады видеть вас на служении. После служения будем рады познакомиться с вами.",
+      "qrUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-05-25T10:12:19.520Z"
     }
   ],
   "translationLinks": [],
@@ -5386,7 +5387,11 @@
       "id": "captionkit",
       "name": "CaptionKit",
       "audienceUrl": "https://captionkit.io/c/word-of-god",
+<<<<<<< Updated upstream
+      "screenEmbedUrl": "https://captionkit.io/f/word-of-god/l/en-US?fontSize=10",
+=======
       "screenEmbedUrl": "https://captionkit.io/f/word-of-god?fontSize=10",
+>>>>>>> Stashed changes
       "languages": "English, Srpski",
       "audienceInstructions": "Scan the QR code to read or listen to the live translation in your language.\nFor audio, please use headphones.",
       "rtmpUrl": "",
@@ -5403,21 +5408,12 @@
       "rtmpKey": ""
     }
   ],
+<<<<<<< Updated upstream
+  "activeTranslationProviderId": "glossa",
+=======
   "activeTranslationProviderId": "captionkit",
+>>>>>>> Stashed changes
   "mediaImages": [
-    {
-      "id": "2YenJ_eTk6",
-      "title": "1.png",
-      "category": "Заставки",
-      "tags": [],
-      "mediaUrl": "/media/images/1779706235071-1.png",
-      "fileName": "1779706235071-1.png",
-      "originalFileName": "1.png",
-      "mimeType": "image/png",
-      "sizeBytes": 57262,
-      "createdAt": "2026-05-25T10:50:35.073Z",
-      "updatedAt": "2026-05-25T10:50:35.073Z"
-    },
     {
       "id": "VzUJ4Ghhlh",
       "title": "IMG_2670.jpeg",
@@ -5574,8 +5570,41 @@
       "sizeBytes": 1705523,
       "createdAt": "2026-05-30T18:22:42.877880Z",
       "updatedAt": "2026-05-30T18:22:42.877880Z"
+    },
+    {
+      "id": "2YenJ_eTk6",
+      "title": "1.png",
+      "category": "Заставки",
+      "tags": [],
+      "mediaUrl": "/media/images/1779706235071-1.png",
+      "fileName": "1779706235071-1.png",
+      "originalFileName": "1.png",
+      "mimeType": "image/png",
+      "sizeBytes": 57262,
+      "createdAt": "2026-05-25T10:50:35.073Z",
+      "updatedAt": "2026-05-25T10:50:35.073Z"
     }
   ],
+<<<<<<< Updated upstream
+  "audioTracks": [],
+  "servicePlan": [],
+  "activePlanIndex": -1,
+  "screenState": {
+    "mode": "welcome",
+    "payload": {
+      "title": "Добро пожаловать",
+      "subtitle": "Word of God Crossroads Budva",
+      "language": "en",
+      "serviceText": "Служение скоро начнется",
+      "imageUrl": "",
+      "imageFit": "cover",
+      "overlay": true,
+      "textAlign": "center",
+      "showChurchName": true
+    },
+    "updatedBy": "admin",
+    "updatedAt": "2026-06-08T13:28:06.288Z"
+=======
   "audioTracks": [
     {
       "id": "qQvDUg3-Tv",
@@ -13297,21 +13326,15 @@
   "screenState": {
     "mode": "song_video",
     "payload": {
-      "title": "Christian Music Playlist 2025 Best Worship Songs Praise and Worship Non Stop Playlist",
-      "subtitle": "Word of God Crossroads Budva",
-      "language": "en",
-      "serviceText": "Служение скоро начнется",
-      "imageUrl": "",
-      "imageFit": "cover",
-      "overlay": true,
-      "textAlign": "center",
-      "showChurchName": true,
       "songId": "YKC6n_2QgR",
+      "title": "Christian Music Playlist 2025 Best Worship Songs Praise and Worship Non Stop Playlist",
+      "language": "en",
       "category": "Поклонение",
       "mediaUrl": "/media/videos/1780161177061-141-Christian-Music-Playlist-2025-Best-Worship-Songs-_-Praise-and-Worship-Non-Stop-P.mp4",
       "isOfflineReady": true
     },
     "updatedBy": "admin",
     "updatedAt": "2026-06-14T11:40:56.982Z"
+>>>>>>> Stashed changes
   }
 }

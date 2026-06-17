@@ -91,8 +91,8 @@ async function syncItem({ baseUrl, token, deviceId, item, readStore, writeStore,
     fs.mkdirSync(path.join(mediaDir, folder), { recursive: true });
 
     const originalName = item.originalFileName || `${item.title || 'media'}${fallbackExtension(item)}`;
-    const fileName = safeFileName(originalName);
-    targetPath = path.join(mediaDir, folder, fileName);
+    const { fileName, targetPath: uniquePath } = uniqueTargetPath(path.join(mediaDir, folder), safeFileName(originalName));
+    targetPath = uniquePath;
     await downloadToFile(item.downloadUrl, targetPath);
     const record = registerLocalMedia({
       item,
@@ -232,6 +232,22 @@ async function downloadToFile(url, targetPath) {
     throw new Error(`Download failed: ${response.status} ${response.statusText}`);
   }
   await pipeline(Readable.fromWeb(response.body), fs.createWriteStream(targetPath, { flags: 'wx' }));
+}
+
+function uniqueTargetPath(folderPath, preferredName) {
+  const ext = path.extname(preferredName);
+  const base = path.basename(preferredName, ext);
+  let fileName = preferredName;
+  let targetPath = path.join(folderPath, fileName);
+  let counter = 1;
+
+  while (fs.existsSync(targetPath)) {
+    fileName = `${base}-${counter}${ext}`;
+    targetPath = path.join(folderPath, fileName);
+    counter += 1;
+  }
+
+  return { fileName, targetPath };
 }
 
 async function apiJson(url, { token, method = 'GET', body } = {}) {
