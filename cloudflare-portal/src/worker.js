@@ -63,6 +63,7 @@ async function route(request, env, ctx) {
     return requirePortal(request, env, () => deleteItem(env, id));
   }
 
+  if (path === '/api/device/config' && request.method === 'GET') return requireDevice(request, env, () => deviceConfig(env));
   if (path === '/api/device/heartbeat' && request.method === 'POST') return requireDevice(request, env, () => heartbeat(request, env));
   if (path === '/api/device/pending' && request.method === 'GET') return requireDevice(request, env, () => devicePending(request, env));
   if (path.match(/^\/api\/device\/items\/[^/]+\/started$/) && request.method === 'POST') {
@@ -236,6 +237,15 @@ async function deleteItem(env, id) {
       WHERE id = ?`
   ).bind(updatedAt, updatedAt, id).run();
   return json({ ok: true });
+}
+
+// Hand the authenticated mini PC its API keys so they never live in git.
+// Keys are stored as Worker secrets (wrangler secret put OPENAI_API_KEY / GEMINI_API_KEY).
+function deviceConfig(env) {
+  return json({
+    openaiApiKey: env.OPENAI_API_KEY || '',
+    geminiApiKey: env.GEMINI_API_KEY || ''
+  });
 }
 
 async function heartbeat(request, env) {
