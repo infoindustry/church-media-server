@@ -1404,8 +1404,8 @@ function LiveTranslationPanel({ action }) {
     <div className="card live-translation-card">
       <div className="card-title-row">
         <div>
-          <h2>Своё решение · OpenAI (субтитры)</h2>
-          <p>Перевод проповеди в реальном времени через OpenAI. Звук берётся на мини-ПК, субтитры идут на ТВ и на телефоны по локальной сети. Прихожанин сам выбирает язык на телефоне.</p>
+          <h2>Своё решение · OpenAI / Gemini (субтитры)</h2>
+          <p>Перевод проповеди в реальном времени через OpenAI или Gemini Live. Звук берётся на мини-ПК, субтитры идут на ТВ и на телефоны по локальной сети. Прихожанин сам выбирает язык на телефоне.</p>
         </div>
         <span className={cx('badge', running ? 'ok' : 'warn')}>{running ? `идёт · ${state.engine}` : 'остановлен'}</span>
       </div>
@@ -1414,6 +1414,7 @@ function LiveTranslationPanel({ action }) {
           <select value={engine} onChange={e => setEngine(e.target.value)} disabled={running}>
             <option value="stub">Заглушка (тест без интернета)</option>
             <option value="openai">OpenAI Realtime</option>
+            <option value="gemini">Gemini Live Translate</option>
           </select>
         </label>
         <label>Язык субтитров на ТВ
@@ -1422,7 +1423,8 @@ function LiveTranslationPanel({ action }) {
           </select>
         </label>
         <div className="live-tr-key">
-          {state && (state.hasApiKey ? <span className="badge ok">ключ OpenAI есть</span> : <span className="badge warn">нет OPENAI_API_KEY</span>)}
+          {state && engine === 'gemini' && (state.hasGeminiKey ? <span className="badge ok">ключ Gemini есть</span> : <span className="badge warn">нет GEMINI_API_KEY</span>)}
+          {state && engine !== 'gemini' && (state.hasApiKey ? <span className="badge ok">ключ OpenAI есть</span> : <span className="badge warn">нет OPENAI_API_KEY</span>)}
         </div>
       </div>
       <div className="button-row">
@@ -2535,6 +2537,7 @@ function TranslationSourceApp() {
             <select value={engine} onChange={e => setEngine(e.target.value)} disabled={running}>
               <option value="stub">Заглушка (тест без интернета)</option>
               <option value="openai">OpenAI Realtime</option>
+              <option value="gemini">Gemini Live Translate</option>
             </select>
           </label>
           <label>Язык для ТВ
@@ -2544,6 +2547,7 @@ function TranslationSourceApp() {
           </label>
         </div>
         {engine === 'openai' && state && !state.hasApiKey && <p className="source-error">OPENAI_API_KEY не задан в .env на сервере — OpenAI-движок не запустится.</p>}
+        {engine === 'gemini' && state && !state.hasGeminiKey && <p className="source-error">GEMINI_API_KEY не задан в .env на сервере — Gemini-движок не запустится.</p>}
         <div className="button-row">
           {!running
             ? <button className="primary" onClick={() => startRun().catch(e => setError(e.message))}><Play size={18} /> Запустить перевод</button>

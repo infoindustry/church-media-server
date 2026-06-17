@@ -1674,7 +1674,7 @@ app.get('/api/checkup', (req, res) => {
 const translationHub = new TranslationHub();
 
 app.get('/api/translation/live/state', (req, res) => {
-  res.json({ ...translationHub.status(), hasApiKey: Boolean(process.env.OPENAI_API_KEY), lanUrls: getLanUrls(PORT) });
+  res.json({ ...translationHub.status(), hasApiKey: Boolean(process.env.OPENAI_API_KEY), hasGeminiKey: Boolean(process.env.GEMINI_API_KEY), lanUrls: getLanUrls(PORT) });
 });
 
 app.post('/api/translation/live/start', (req, res) => {
