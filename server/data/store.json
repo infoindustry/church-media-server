@@ -12,6 +12,10 @@
       "overlay": true,
       "textAlign": "center",
       "showChurchName": true
+    },
+    "bible": {
+      "scriptureWeight": "medium",
+      "fontScale": 1
     }
   },
   "songs": [
@@ -34,6 +38,67 @@
     }
   ],
   "announcements": [
+    {
+      "id": "Zsy799cK1z",
+      "title": "Время свидетельств",
+      "titleEn": "Time of Testimonies",
+      "body": "Поделитесь кратко тем, что совершил Господь в вашей жизни.\n«Придите, послушайте, все боящиеся Бога, и я возвещу вам, что сотворил Он для души моей». — Псалом 65:16",
+      "bodyEn": "Share briefly what God has done in your life.\n“Come and hear, all you who fear God; let me tell you what he has done for me.” — Psalm 66:16",
+      "lang": "ru",
+      "qrUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-06-08T12:39:51.938Z"
+    },
+    {
+      "id": "rNv4Xy6cT6",
+      "title": "С Днём рождения!",
+      "titleEn": "Happy Birthday!",
+      "body": "Поздравляем, [имя]! Пусть Господь обильно благословит новый год твоей жизни.\n«Да благословит тебя Господь и сохранит тебя!» — Числа 6:24",
+      "bodyEn": "Happy Birthday, [name]! May the Lord richly bless this new year of your life.\n“The Lord bless you and keep you.” — Numbers 6:24",
+      "qrUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-06-08T12:25:45.472Z"
+    },
+    {
+      "id": "oBtxHUjYiN",
+      "title": "Прославим Господа пением",
+      "titleEn": "Let Us Praise the Lord in Song",
+      "body": "Сольное прославление.\n«Воспойте Господу новую песнь; воспойте Господу, вся земля». — Псалом 95:1",
+      "bodyEn": "A song of worship.\n“Sing to the Lord a new song; sing to the Lord, all the earth.” — Psalm 96:1",
+      "qrUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-06-08T12:25:36.663Z"
+    },
+    {
+      "id": "M1DLtQ5oiv",
+      "title": "Время свидетельств",
+      "titleEn": "Time of Testimonies",
+      "body": "Поделитесь кратко тем, что совершил Господь в вашей жизни.\n«Придите, послушайте, все боящиеся Бога, и я возвещу вам, что сотворил Он для души моей». — Псалом 65:16",
+      "bodyEn": "Share briefly what God has done in your life.\n“Come and hear, all you who fear God; let me tell you what he has done for me.” — Psalm 66:16",
+      "qrUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-06-08T12:25:25.464Z"
+    },
+    {
+      "id": "kDU94ilYma",
+      "title": "Live-перевод",
+      "titleEn": "Live translation",
+      "body": "Для перевода проповеди отсканируйте QR-код и выберите язык.",
+      "bodyEn": "To listen to the sermon translation, scan the QR code and choose your language.",
+      "qrUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-06-08T12:25:14.765Z"
+    },
+    {
+      "id": "FBb1LKf4o3",
+      "title": "Время свидетельств",
+      "titleEn": "Time of Testimonies",
+      "body": "Поделитесь кратко тем, что совершил Господь в вашей жизни.\n«Придите, послушайте, все боящиеся Бога, и я возвещу вам, что сотворил Он для души моей». — Псалом 65:16",
+      "bodyEn": "Share briefly what God has done in your life.\n“Come and hear, all you who fear God; let me tell you what he has done for me.” — Psalm 66:16",
+      "qrUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-06-08T12:07:31.256Z"
+    },
     {
       "id": "BiUGdYfD53",
       "title": "Live translation",
@@ -60,6 +125,29 @@
     }
   ],
   "translationLinks": [],
+  "translationProviders": [
+    {
+      "id": "captionkit",
+      "name": "CaptionKit",
+      "audienceUrl": "https://captionkit.io/c/word-of-god",
+      "screenEmbedUrl": "https://captionkit.io/f/word-of-god/l/en-US?fontSize=10",
+      "languages": "English, Srpski",
+      "audienceInstructions": "Scan the QR code to read or listen to the live translation in your language.\nFor audio, please use headphones.",
+      "rtmpUrl": "",
+      "rtmpKey": ""
+    },
+    {
+      "id": "glossa",
+      "name": "Glossa",
+      "audienceUrl": "https://glossa.live/services/934aae72-9b38-45f0-a85f-233d4b1af7f2",
+      "screenEmbedUrl": "https://glossa.live/embed/934aae72-9b38-45f0-a85f-233d4b1af7f2?bg=000000&color=ffffff&font-size=64px&align=center",
+      "languages": "English, Srpski",
+      "audienceInstructions": "Scan the QR code to read or listen to the live translation in your language.\nFor audio, please use headphones.",
+      "rtmpUrl": "rtmp://stream.glossa.live:1935/live",
+      "rtmpKey": ""
+    }
+  ],
+  "activeTranslationProviderId": "glossa",
   "mediaImages": [
     {
       "id": "2YenJ_eTk6",
@@ -79,39 +167,19 @@
   "servicePlan": [],
   "activePlanIndex": -1,
   "screenState": {
-    "mode": "bible",
+    "mode": "welcome",
     "payload": {
-      "reference": "Евреям 4:6-7",
-      "blocks": [
-        {
-          "translationId": "ru_synodal",
-          "language": "ru",
-          "name": "Синодальный перевод",
-          "shortName": "Синодальный",
-          "reference": "Евреям 4:6-7",
-          "text": "6. Итак, как некоторым остается войти в него, а те, которым прежде возвещено, не вошли в него за непокорность,\n7. то еще определяет некоторый день, «ныне», говоря через Давида, после столь долгого времени, как выше сказано: «ныне, когда услышите глас Его, не ожесточите сердец ваших».",
-          "missing": false
-        },
-        {
-          "translationId": "en_kjv",
-          "language": "en",
-          "name": "King James Version",
-          "shortName": "KJV",
-          "reference": "Евреям 4:6-7",
-          "text": "6. Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief:\n7. Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.",
-          "missing": false
-        }
-      ],
-      "text": "Синодальный:\n6. Итак, как некоторым остается войти в него, а те, которым прежде возвещено, не вошли в него за непокорность,\n7. то еще определяет некоторый день, «ныне», говоря через Давида, после столь долгого времени, как выше сказано: «ныне, когда услышите глас Его, не ожесточите сердец ваших».\n\nKJV:\n6. Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief:\n7. Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.",
-      "language": "ru",
-      "translation": "Синодальный",
-      "primaryTranslation": "ru_synodal",
-      "selectedTranslations": [
-        "ru_synodal",
-        "en_kjv"
-      ]
+      "title": "Добро пожаловать",
+      "subtitle": "Word of God Crossroads Budva",
+      "language": "en",
+      "serviceText": "Служение скоро начнется",
+      "imageUrl": "",
+      "imageFit": "cover",
+      "overlay": true,
+      "textAlign": "center",
+      "showChurchName": true
     },
     "updatedBy": "admin",
-    "updatedAt": "2026-05-25T10:53:53.540Z"
+    "updatedAt": "2026-06-08T13:28:06.288Z"
   }
 }

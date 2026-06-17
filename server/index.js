@@ -4,10 +4,12 @@ import multer from 'multer';
 import path from 'path';
 import fs from 'fs';
 import { fileURLToPath } from 'url';
+import { execFile } from 'child_process';
 import { nanoid } from 'nanoid';
 import QRCode from 'qrcode';
 import http from 'http';
 import { TranslationHub, attachTranslation, sanitizeLang, getLanUrls } from './translation.js';
+import { startCloudSync } from './cloud-sync.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -45,6 +47,7 @@ fs.mkdirSync(MEDIA_DIR, { recursive: true });
 fs.mkdirSync(path.join(MEDIA_DIR, 'videos'), { recursive: true });
 fs.mkdirSync(path.join(MEDIA_DIR, 'images'), { recursive: true });
 fs.mkdirSync(path.join(MEDIA_DIR, 'audio'), { recursive: true });
+fs.mkdirSync(path.join(MEDIA_DIR, 'thumbs'), { recursive: true });
 fs.mkdirSync(path.join(ROOT, 'vendor', 'bibles'), { recursive: true });
 fs.mkdirSync(path.join(ROOT, 'vendor', 'bibles', 'raw'), { recursive: true });
 fs.mkdirSync(path.join(ROOT, 'vendor', 'bibles', 'normalized'), { recursive: true });
@@ -71,13 +74,34 @@ const defaultStore = {
   },
   songs: [],
   announcements: [],
+  externalLinks: [
+    {
+      id: 'etsy-faithcuts',
+      title: 'FaithCuts · Etsy',
+      url: 'https://www.etsy.com/shop/FaithCuts',
+      category: 'Магазин',
+      notes: 'Демонстрация магазина',
+      createdAt: new Date().toISOString(),
+      updatedAt: new Date().toISOString()
+    },
+    {
+      id: 'kotmilo-language',
+      title: 'Kotmilo',
+      url: 'https://kotmilo.top',
+      category: 'Изучение языка',
+      notes: 'Программа изучения языка',
+      createdAt: new Date().toISOString(),
+      updatedAt: new Date().toISOString()
+    }
+  ],
+  prayerRequests: [],
   translationLinks: [],
   translationProviders: [
     {
       id: 'captionkit',
       name: 'CaptionKit',
       audienceUrl: 'https://captionkit.io/c/word-of-god',
-      screenEmbedUrl: 'https://captionkit.io/f/word-of-god?fontSize=10',
+      screenEmbedUrl: 'https://captionkit.io/f/word-of-god/l/en-US?fontSize=10',
       languages: 'English, Srpski',
       audienceInstructions: 'Scan the QR code to read or listen to the live translation in your language.\nFor audio, please use headphones.',
       rtmpUrl: '',
@@ -125,6 +149,8 @@ function normalizeStore(store) {
     },
     songs: Array.isArray(store?.songs) ? store.songs : [],
     announcements: Array.isArray(store?.announcements) ? store.announcements : [],
+    externalLinks: Array.isArray(store?.externalLinks) ? store.externalLinks : defaultStore.externalLinks,
+    prayerRequests: Array.isArray(store?.prayerRequests) ? store.prayerRequests : [],
     translationLinks: Array.isArray(store?.translationLinks) ? store.translationLinks : [],
     translationProviders: Array.isArray(store?.translationProviders) ? store.translationProviders : defaultStore.translationProviders,
     activeTranslationProviderId: store?.activeTranslationProviderId ?? defaultStore.activeTranslationProviderId,
@@ -191,6 +217,45 @@ function localMediaExists(mediaUrl) {
   if (!mediaUrl) return false;
   const relative = mediaUrl.replace('/media/', '');
   return fs.existsSync(path.join(MEDIA_DIR, relative));
+}
+
+const THUMBS_DIR = path.join(MEDIA_DIR, 'thumbs');
+const thumbInFlight = new Map();
+
+// Extract a single representative frame from a local video into a cached JPG.
+// Resolves to the thumb path, or null if there is no source file / ffmpeg fails.
+function ensureVideoThumb(song) {
+  const fileName = song?.fileName;
+  if (!fileName) return Promise.resolve(null);
+  const videoPath = path.join(MEDIA_DIR, 'videos', fileName);
+  if (!fs.existsSync(videoPath)) return Promise.resolve(null);
+  const thumbPath = path.join(THUMBS_DIR, `${song.id}.jpg`);
+  if (fs.existsSync(thumbPath)) return Promise.resolve(thumbPath);
+  if (thumbInFlight.has(song.id)) return thumbInFlight.get(song.id);
+
+  const job = new Promise((resolve) => {
+    // -ss before -i = fast input seek; grab ~1s in to skip black fade-in.
+    execFile('ffmpeg', [
+      '-ss', '1', '-i', videoPath,
+      '-frames:v', '1', '-vf', 'scale=320:-2', '-q:v', '5',
+      '-y', thumbPath
+    ], { timeout: 20000 }, (err) => {
+      if (err && !fs.existsSync(thumbPath)) {
+        // Retry from the very first frame for videos shorter than 1s.
+        execFile('ffmpeg', [
+          '-i', videoPath, '-frames:v', '1', '-vf', 'scale=320:-2', '-q:v', '5',
+          '-y', thumbPath
+        ], { timeout: 20000 }, (err2) => {
+          resolve(err2 && !fs.existsSync(thumbPath) ? null : thumbPath);
+        });
+        return;
+      }
+      resolve(thumbPath);
+    });
+  }).finally(() => thumbInFlight.delete(song.id));
+
+  thumbInFlight.set(song.id, job);
+  return job;
 }
 
 
@@ -664,6 +729,21 @@ app.get('/api/songs', (req, res) => {
   res.json(songs.sort((a, b) => String(a.title).localeCompare(String(b.title), 'ru')));
 });
 
+// Lazy thumbnail for a local-video song: a cached first frame of the file.
+app.get('/api/songs/:id/thumbnail', async (req, res) => {
+  const store = readStore();
+  const song = (store.songs || []).find(s => s.id === req.params.id);
+  if (!song) return res.status(404).end();
+  try {
+    const thumbPath = await ensureVideoThumb(song);
+    if (!thumbPath) return res.status(404).end();
+    res.set('Cache-Control', 'public, max-age=86400');
+    res.sendFile(thumbPath);
+  } catch {
+    res.status(500).end();
+  }
+});
+
 app.post('/api/songs', upload.single('video'), (req, res) => {
   const store = readStore();
   const file = req.file;
@@ -705,6 +785,7 @@ app.delete('/api/songs/:id', (req, res) => {
   store.songs = store.songs.filter(s => s.id !== req.params.id);
   store.servicePlan = store.servicePlan.filter(item => !(item.type === 'song' && item.payload?.songId === song.id));
   writeStore(store);
+  fs.promises.rm(path.join(THUMBS_DIR, `${song.id}.jpg`), { force: true }).catch(() => {});
   res.json({ ok: true });
 });
 
@@ -979,8 +1060,80 @@ function buildTranslationCaptionPayload(provider) {
     providerId: provider.id,
     title: provider.name || 'Live translation',
     url: provider.screenEmbedUrl || '',
-    languages: provider.languages || ''
+    languages: provider.languages || '',
+    captionFontSize: getCaptionFontSize(provider.screenEmbedUrl),
+    captionLanguage: getCaptionLanguage(provider.screenEmbedUrl)
   };
+}
+
+function getCaptionFontSize(url) {
+  if (!url) return 10;
+  try {
+    const parsed = new URL(url);
+    const raw = parsed.searchParams.get('fontSize') || parsed.searchParams.get('font-size') || '';
+    const match = String(raw).match(/\d+(?:\.\d+)?/);
+    const value = match ? Number(match[0]) : 10;
+    return normalizeCaptionFontSize(value);
+  } catch {
+    return 10;
+  }
+}
+
+function normalizeCaptionFontSize(value) {
+  const num = Number(value);
+  if (!Number.isFinite(num)) return 10;
+  return Math.min(120, Math.max(6, Math.round(num)));
+}
+
+function setCaptionFontSize(url, value) {
+  const size = normalizeCaptionFontSize(value);
+  if (!url) return { url, size };
+  try {
+    const parsed = new URL(url);
+    if (parsed.searchParams.has('font-size')) {
+      parsed.searchParams.set('font-size', `${size}px`);
+    } else {
+      parsed.searchParams.set('fontSize', String(size));
+    }
+    return { url: parsed.toString(), size };
+  } catch {
+    return { url, size };
+  }
+}
+
+function normalizeCaptionLanguage(value) {
+  const lang = String(value || '').trim();
+  return /^[a-z]{2,3}(?:-[A-Za-z]{2,4})?$/.test(lang) ? lang : 'en-US';
+}
+
+function getCaptionLanguage(url) {
+  if (!url) return 'en-US';
+  try {
+    const parts = new URL(url).pathname.split('/').filter(Boolean);
+    const index = parts.indexOf('l');
+    return normalizeCaptionLanguage(index !== -1 ? parts[index + 1] : 'en-US');
+  } catch {
+    return 'en-US';
+  }
+}
+
+function setCaptionLanguage(url, value) {
+  const language = normalizeCaptionLanguage(value);
+  if (!url) return { url, language };
+  try {
+    const parsed = new URL(url);
+    const parts = parsed.pathname.split('/').filter(Boolean);
+    const index = parts.indexOf('l');
+    if (index === -1) {
+      parts.push('l', language);
+    } else {
+      parts[index + 1] = language;
+    }
+    parsed.pathname = `/${parts.map(encodeURIComponent).join('/')}`;
+    return { url: parsed.toString(), language };
+  } catch {
+    return { url, language };
+  }
 }
 
 app.get('/api/translation/providers', (req, res) => {
@@ -1015,6 +1168,56 @@ app.put('/api/translation/providers/:id', (req, res) => {
   }
   writeStore(store);
   res.json(provider);
+});
+
+app.post('/api/translation/providers/:id/caption-font-size', (req, res) => {
+  const store = readStore();
+  const provider = findTranslationProvider(store, req.params.id);
+  if (!provider) return res.status(404).json({ error: 'Сервис не найден' });
+  if (!provider.screenEmbedUrl) return res.status(400).json({ error: 'У сервиса не задана ссылка субтитров для экрана' });
+  const { url, size } = setCaptionFontSize(provider.screenEmbedUrl, req.body?.fontSize);
+  provider.screenEmbedUrl = url;
+  provider.updatedAt = now();
+
+  const isLiveCaption = store.screenState?.mode === 'translation_caption'
+    && store.screenState?.payload?.providerId === provider.id;
+  if (isLiveCaption) {
+    store.screenState = {
+      mode: 'translation_caption',
+      payload: buildTranslationCaptionPayload(provider),
+      updatedBy: 'admin',
+      updatedAt: now()
+    };
+  }
+
+  writeStore(store);
+  if (isLiveCaption) broadcast({ type: 'state', state: store.screenState });
+  res.json({ provider, fontSize: size, screenState: isLiveCaption ? store.screenState : null });
+});
+
+app.post('/api/translation/providers/:id/caption-language', (req, res) => {
+  const store = readStore();
+  const provider = findTranslationProvider(store, req.params.id);
+  if (!provider) return res.status(404).json({ error: 'Сервис не найден' });
+  if (!provider.screenEmbedUrl) return res.status(400).json({ error: 'У сервиса не задана ссылка субтитров для экрана' });
+  const { url, language } = setCaptionLanguage(provider.screenEmbedUrl, req.body?.language);
+  provider.screenEmbedUrl = url;
+  provider.updatedAt = now();
+
+  const isLiveCaption = store.screenState?.mode === 'translation_caption'
+    && store.screenState?.payload?.providerId === provider.id;
+  if (isLiveCaption) {
+    store.screenState = {
+      mode: 'translation_caption',
+      payload: buildTranslationCaptionPayload(provider),
+      updatedBy: 'admin',
+      updatedAt: now()
+    };
+  }
+
+  writeStore(store);
+  if (isLiveCaption) broadcast({ type: 'state', state: store.screenState });
+  res.json({ provider, language, screenState: isLiveCaption ? store.screenState : null });
 });
 
 app.delete('/api/translation/providers/:id', (req, res) => {
@@ -1075,7 +1278,7 @@ app.post('/api/translation/providers/:id/add-caption-to-plan', (req, res) => {
 });
 
 app.post('/api/announcement/show', async (req, res) => {
-  const { title, titleEn, body, bodyEn, qrUrl } = req.body;
+  const { title, titleEn, body, bodyEn, qrUrl, qrImageUrl } = req.body;
   let qrDataUrl = '';
   if (qrUrl) qrDataUrl = await QRCode.toDataURL(qrUrl, { margin: 1, width: 640 });
   const payload = {
@@ -1085,6 +1288,7 @@ app.post('/api/announcement/show', async (req, res) => {
     bodyEn: bodyEn || '',
     lang: ['ru', 'en', 'both'].includes(req.body?.lang) ? req.body.lang : 'both',
     qrUrl: qrUrl || '',
+    qrImageUrl: qrImageUrl || '',
     qrDataUrl
   };
   const store = readStore();
@@ -1094,7 +1298,7 @@ app.post('/api/announcement/show', async (req, res) => {
 });
 
 app.post('/api/announcement/add-to-plan', async (req, res) => {
-  const { title, titleEn, body, bodyEn, qrUrl } = req.body;
+  const { title, titleEn, body, bodyEn, qrUrl, qrImageUrl } = req.body;
   let qrDataUrl = '';
   if (qrUrl) qrDataUrl = await QRCode.toDataURL(qrUrl, { margin: 1, width: 640 });
   const payload = {
@@ -1104,6 +1308,7 @@ app.post('/api/announcement/add-to-plan', async (req, res) => {
     bodyEn: bodyEn || '',
     lang: ['ru', 'en', 'both'].includes(req.body?.lang) ? req.body.lang : 'both',
     qrUrl: qrUrl || '',
+    qrImageUrl: qrImageUrl || '',
     qrDataUrl
   };
   const store = readStore();
@@ -1115,6 +1320,114 @@ app.post('/api/announcement/add-to-plan', async (req, res) => {
 
 app.get('/api/announcements', (req, res) => {
   res.json(readStore().announcements || []);
+});
+
+app.get('/api/external-links', (req, res) => {
+  const store = readStore();
+  res.json((store.externalLinks || []).sort((a, b) => String(a.title).localeCompare(String(b.title), 'ru')));
+});
+
+app.post('/api/external-links', (req, res) => {
+  const url = String(req.body?.url || '').trim();
+  if (!/^https?:\/\//i.test(url)) return res.status(400).json({ error: 'URL должен начинаться с http:// или https://' });
+  const store = readStore();
+  const createdAt = now();
+  const link = {
+    id: nanoid(10),
+    title: req.body?.title || url,
+    url,
+    category: req.body?.category || 'Ссылка',
+    notes: req.body?.notes || '',
+    createdAt,
+    updatedAt: createdAt
+  };
+  store.externalLinks = [link, ...(store.externalLinks || [])];
+  writeStore(store);
+  res.status(201).json(link);
+});
+
+app.put('/api/external-links/:id', (req, res) => {
+  const store = readStore();
+  const index = (store.externalLinks || []).findIndex(link => link.id === req.params.id);
+  if (index === -1) return res.status(404).json({ error: 'External link not found' });
+  const next = { ...store.externalLinks[index] };
+  for (const field of ['title', 'category', 'notes']) {
+    if (req.body?.[field] !== undefined) next[field] = req.body[field];
+  }
+  if (req.body?.url !== undefined) {
+    const url = String(req.body.url || '').trim();
+    if (!/^https?:\/\//i.test(url)) return res.status(400).json({ error: 'URL должен начинаться с http:// или https://' });
+    next.url = url;
+  }
+  next.updatedAt = now();
+  store.externalLinks[index] = next;
+  writeStore(store);
+  res.json(next);
+});
+
+app.delete('/api/external-links/:id', (req, res) => {
+  const store = readStore();
+  const before = (store.externalLinks || []).length;
+  store.externalLinks = (store.externalLinks || []).filter(link => link.id !== req.params.id);
+  store.servicePlan = (store.servicePlan || []).filter(item => !(item.type === 'external_board' && item.payload?.externalLinkId === req.params.id));
+  writeStore(store);
+  res.json({ ok: before !== store.externalLinks.length });
+});
+
+app.post('/api/external-links/:id/show', (req, res) => {
+  const store = readStore();
+  const link = (store.externalLinks || []).find(item => item.id === req.params.id);
+  if (!link) return res.status(404).json({ error: 'External link not found' });
+  res.json(updateScreenState('external_board', { externalLinkId: link.id, title: link.title, url: link.url, category: link.category }));
+});
+
+app.post('/api/external-links/:id/add-to-plan', (req, res) => {
+  const store = readStore();
+  const link = (store.externalLinks || []).find(item => item.id === req.params.id);
+  if (!link) return res.status(404).json({ error: 'External link not found' });
+  const payload = { externalLinkId: link.id, title: link.title, url: link.url, category: link.category };
+  const item = makePlanItem({ type: 'external_board', title: link.title, payload });
+  store.servicePlan.push(item);
+  writeStore(store);
+  res.status(201).json({ item, servicePlan: store.servicePlan });
+});
+
+app.get('/api/prayer-requests', (req, res) => {
+  res.json(readStore().prayerRequests || []);
+});
+
+app.post('/api/prayer-requests/show', (req, res) => {
+  const payload = {
+    title: req.body?.title || 'Молитвенные нужды',
+    titleEn: req.body?.titleEn || 'Prayer Requests',
+    body: req.body?.body || '',
+    bodyEn: req.body?.bodyEn || '',
+    lang: ['ru', 'en', 'both'].includes(req.body?.lang) ? req.body.lang : 'both',
+    kind: 'prayer_request'
+  };
+  const store = readStore();
+  const request = { id: nanoid(10), ...payload, createdAt: now() };
+  store.prayerRequests = [request, ...(store.prayerRequests || []).slice(0, 49)];
+  writeStore(store);
+  res.json(updateScreenState('announcement', payload));
+});
+
+app.post('/api/prayer-requests/add-to-plan', (req, res) => {
+  const payload = {
+    title: req.body?.title || 'Молитвенные нужды',
+    titleEn: req.body?.titleEn || 'Prayer Requests',
+    body: req.body?.body || '',
+    bodyEn: req.body?.bodyEn || '',
+    lang: ['ru', 'en', 'both'].includes(req.body?.lang) ? req.body.lang : 'both',
+    kind: 'prayer_request'
+  };
+  const store = readStore();
+  const request = { id: nanoid(10), ...payload, createdAt: now() };
+  store.prayerRequests = [request, ...(store.prayerRequests || []).slice(0, 49)];
+  const item = makePlanItem({ type: 'announcement', title: payload.title, payload });
+  store.servicePlan.push(item);
+  writeStore(store);
+  res.status(201).json({ item, servicePlan: store.servicePlan });
 });
 
 
@@ -1432,4 +1745,5 @@ server.listen(PORT, '0.0.0.0', () => {
   console.log(`Admin:  http://localhost:${PORT}/admin`);
   console.log(`Screen: http://localhost:${PORT}/screen/main`);
   console.log(`Translate source: http://localhost:${PORT}/translate/source`);
+  startCloudSync({ readStore, writeStore, mediaDir: MEDIA_DIR, now, safeFileName });
 });

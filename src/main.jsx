@@ -5,7 +5,7 @@ import {
   Square, RotateCcw, Search, Upload, Wifi, AlertTriangle, CheckCircle2,
   Video, Radio, Home, Trash2, ClipboardList, SkipForward, SkipBack,
   ListPlus, ArrowUp, ArrowDown, Plus, ExternalLink, Image, Images, Headphones, Volume2,
-  GraduationCap, Clapperboard, Globe2, UsersRound
+  GraduationCap, Clapperboard, Globe2, UsersRound, Star, Lock, Unlock
 } from 'lucide-react';
 import './styles.css';
 import { supportedLanguages, getLanguageLabel } from './translationLanguages';
@@ -140,6 +140,8 @@ function AdminApp() {
     ['bible', BookOpen, 'Писание'],
     ['translation', QrCode, 'Перевод'],
     ['announcement', Megaphone, 'Объявления'],
+    ['prayer-requests', BookOpen, 'Молитва'],
+    ['external-links', ExternalLink, 'Ссылки'],
     ['missions', Globe2, 'Миссии'],
     ['media', Images, 'Картинки'],
     ['checkup', Wifi, 'Проверка']
@@ -195,6 +197,8 @@ function AdminApp() {
         {tab === 'bible' && <BiblePanel action={action} state={state} />}
         {tab === 'translation' && <TranslationPanel action={action} />}
         {tab === 'announcement' && <AnnouncementPanel action={action} />}
+        {tab === 'prayer-requests' && <PrayerRequestsPanel action={action} />}
+        {tab === 'external-links' && <ExternalLinksPanel action={action} refreshPlan={refreshPlan} />}
         {tab === 'missions' && <MissionBoardPanel action={action} />}
         {tab === 'media' && <MediaPanel action={action} />}
         {tab === 'checkup' && <CheckupPanel />}
@@ -215,7 +219,7 @@ function describeState(state) {
   if (state.mode === 'translation_caption') return `Субтитры перевода: ${p.title || p.url}`;
   if (state.mode === 'translation_live') return `Live субтитры: ${p.lang || ''}`;
   if (state.mode === 'announcement') return `Объявление: ${p.title || ''}`;
-  if (state.mode === 'external_board') return `Миссии: ${p.title || p.url || ''}`;
+  if (state.mode === 'external_board') return `Внешняя ссылка: ${p.title || p.url || ''}`;
   if (state.mode === 'image') return `Картинка: ${p.title || ''}`;
   if (state.mode === 'slideshow') return `Слайдшоу: ${p.title || ''} (${p.images?.length || 0})`;
   if (state.mode === 'blank') return p.title || p.subtitle ? `Заставка: ${p.title || p.subtitle}` : 'Черный экран';
@@ -224,7 +228,7 @@ function describeState(state) {
 
 function typeLabel(type) {
   return {
-    welcome: 'Приветствие', song: 'Песня', song_video: 'Песня', audio: 'Фонограмма', audio_track: 'Фонограмма', youtube_audio: 'YouTube audio', youtube: 'YouTube', bible: 'Писание', translation_qr: 'QR перевода', translation_caption: 'Субтитры', translation_live: 'Live субтитры', announcement: 'Объявление', external_board: 'Миссии', image: 'Картинка', slideshow: 'Слайдшоу', blank: 'Blank', loading: 'Загрузка'
+    welcome: 'Приветствие', song: 'Песня', song_video: 'Песня', audio: 'Фонограмма', audio_track: 'Фонограмма', youtube_audio: 'YouTube audio', youtube: 'YouTube', bible: 'Писание', translation_qr: 'QR перевода', translation_caption: 'Субтитры', translation_live: 'Live субтитры', announcement: 'Объявление', external_board: 'Ссылка', image: 'Картинка', slideshow: 'Слайдшоу', blank: 'Blank', loading: 'Загрузка'
   }[type] || type;
 }
 
@@ -375,6 +379,54 @@ function LivePanel({ state, plan, action }) {
 }
 
 function ServicePlanPanel({ plan, refreshPlan, action }) {
+  const [editMode, setEditMode] = useState(false);
+  const planTemplates = [
+    {
+      id: 'sunday',
+      label: 'Воскресенье',
+      items: [
+        welcomePlanItem('Приветствие'),
+        announcementPlanItem('Прославление', 'Worship', 'Приготовим сердца к прославлению Господа.\n«Войду в дом Твой по множеству милости Твоей». — Псалом 5:8', 'Let us prepare our hearts to worship the Lord.\n“I will come into thy house in the multitude of thy mercy.” — Psalm 5:7'),
+        announcementPlanItem('Пожертвование', 'Offering', 'Спасибо за вашу поддержку служения.\nПожертвование можно положить в бокс.', 'Thank you for supporting the ministry.\nYou can place your offering in the box.'),
+        announcementPlanItem('Писание и проповедь', 'Scripture and Sermon', 'Приготовим сердца к слышанию Слова Божьего.\n«Слово Твое — светильник ноге моей и свет стезе моей». — Псалом 118:105', 'Let us prepare our hearts to hear the Word of God.\n“Thy word is a lamp unto my feet, and a light unto my path.” — Psalm 119:105'),
+        announcementPlanItem('Время молитвы', 'Time of Prayer', 'Будем вместе искать лица Божьего в молитве.\n«Ищите лица Моего». И буду искать лица Твоего, Господи. — Псалом 26:8', 'Let us seek the face of God together in prayer.\n“Seek my face.” Your face, Lord, I will seek. — Psalm 27:8'),
+        announcementPlanItem('Приглашаем к столу', 'You Are Invited to the Table', 'После служения приглашаем всех к совместному чаепитию и общению.\n«Преломляя по домам хлеб, принимали пищу в веселии и простоте сердца». — Деяния 2:46', 'After the service, everyone is invited for tea and fellowship.\n“They broke bread from house to house, and did eat their meat with gladness and singleness of heart.” — Acts 2:46'),
+        blankPlanItem()
+      ]
+    },
+    {
+      id: 'communion',
+      label: 'Причастие',
+      items: [
+        welcomePlanItem('Приветствие'),
+        announcementPlanItem('Причастие', 'Communion', 'Будем вспоминать смерть и воскресение Господа Иисуса Христа.\n«Сие творите в Мое воспоминание». — 1 Коринфянам 11:24', 'We remember the death and resurrection of the Lord Jesus Christ.\n“Do this in remembrance of me.” — 1 Corinthians 11:24'),
+        blankPlanItem()
+      ]
+    },
+    {
+      id: 'prayer',
+      label: 'Молитвенное',
+      items: [
+        welcomePlanItem('Приветствие'),
+        announcementPlanItem('Время молитвы', 'Time of Prayer', 'Будем вместе искать лица Божьего в молитве.\n«Ищите лица Моего». И буду искать лица Твоего, Господи. — Псалом 26:8', 'Let us seek the face of God together in prayer.\n“Seek my face.” Your face, Lord, I will seek. — Psalm 27:8'),
+        announcementPlanItem('Молитва за исцеление', 'Prayer for Healing', 'Если вы нуждаетесь в исцелении, служители готовы помолиться с вами.\n«Молитва веры исцелит болящего, и восставит его Господь». — Иакова 5:15', 'If you need healing, our ministry team is ready to pray with you.\n“The prayer of faith shall save the sick, and the Lord shall raise him up.” — James 5:15'),
+        announcementPlanItem('Молитва за нужды', 'Prayer for Needs', 'Если у вас есть нужда, мы готовы помолиться вместе с вами.\n«Открывайте свои желания пред Богом в молитве и прошении с благодарением». — Филиппийцам 4:6', 'If you have a need, we are ready to pray with you.\n“In every thing by prayer and supplication with thanksgiving let your requests be made known unto God.” — Philippians 4:6'),
+        blankPlanItem()
+      ]
+    },
+    {
+      id: 'baptism',
+      label: 'Крещение',
+      items: [
+        welcomePlanItem('Приветствие'),
+        announcementPlanItem('Водное крещение', 'Water Baptism', 'Сегодня мы радуемся вместе с теми, кто свидетельствует о своей вере через водное крещение.\n«Покайтесь, и да крестится каждый из вас во имя Иисуса Христа». — Деяния 2:38', 'Today we rejoice with those who are declaring their faith through water baptism.\n“Repent, and be baptized every one of you in the name of Jesus Christ.” — Acts 2:38'),
+        announcementPlanItem('Приветствуем крещаемого', 'Welcoming the Baptism Candidate', 'Сегодня мы радуемся вместе с тем, кто свидетельствует о своей вере через водное крещение.\n«Итак, кто во Христе, тот новая тварь; древнее прошло, теперь всё новое». — 2 Коринфянам 5:17', 'Today we rejoice with the one who is declaring their faith through water baptism.\n“If any man be in Christ, he is a new creature.” — 2 Corinthians 5:17'),
+        announcementPlanItem('Приглашаем к столу', 'You Are Invited to the Table', 'После служения приглашаем всех к совместному чаепитию и общению.', 'After the service, everyone is invited for tea and fellowship.'),
+        blankPlanItem()
+      ]
+    }
+  ];
+
   async function remove(id) {
     await api(`/api/service-plan/items/${id}`, { method: 'DELETE' });
     await refreshPlan();
@@ -392,17 +444,48 @@ function ServicePlanPanel({ plan, refreshPlan, action }) {
     await api('/api/service-plan/items', postJson({ type: 'blank', title: 'Черный экран', payload: { title: '', subtitle: '' } }));
     await refreshPlan();
   }
+  async function addTemplate(template, clearBefore = false) {
+    if (clearBefore) {
+      if (!confirm(`Очистить текущий план и создать шаблон "${template.label}"?`)) return;
+      await api('/api/service-plan/clear', { method: 'POST' });
+    }
+    await action(`Шаблон "${template.label}" добавлен`, async () => {
+      for (const item of template.items) {
+        await api('/api/service-plan/items', postJson(item));
+      }
+    });
+    await refreshPlan();
+  }
   return (
     <section className="grid two">
       <div className="card">
         <div className="card-title-row">
           <div><h2>План служения</h2><p>Заранее собери порядок: песни, Писание, QR, объявления.</p></div>
-          <button className="danger" onClick={clear}><Trash2 size={17} /> Очистить</button>
+          <div className="plan-head-actions">
+            <button className={cx('icon-btn', editMode && 'primary')} onClick={() => setEditMode(v => !v)} title={editMode ? 'Заблокировать план (скрыть удаление)' : 'Редактировать план (показать удаление)'}>
+              {editMode ? <Unlock size={17} /> : <Lock size={17} />} {editMode ? 'Редактирование' : 'Редактировать план'}
+            </button>
+            {editMode && <button className="danger" onClick={clear}><Trash2 size={17} /> Очистить</button>}
+          </div>
         </div>
         <div className="stack">
           <button className="big-action" onClick={() => action('Следующий пункт', () => api('/api/service-plan/next', { method: 'POST' }))}><SkipForward /> Показать следующий пункт</button>
           <button className="big-action" onClick={() => action('Предыдущий пункт', () => api('/api/service-plan/previous', { method: 'POST' }))}><SkipBack /> Показать предыдущий пункт</button>
           <button className="big-action" onClick={addBlank}><Moon /> Добавить blank в план</button>
+        </div>
+        <div className="template-actions">
+          <h3>Шаблоны плана</h3>
+          <div className="template-grid">
+            {planTemplates.map(template => (
+              <div className="template-item" key={template.id}>
+                <strong>{template.label}</strong>
+                <div>
+                  <button onClick={() => addTemplate(template, false)}><ListPlus size={16} /> Добавить</button>
+                  <button className="danger" onClick={() => addTemplate(template, true)}><ClipboardList size={16} /> Новый</button>
+                </div>
+              </div>
+            ))}
+          </div>
         </div>
       </div>
       <div className="card">
@@ -420,7 +503,7 @@ function ServicePlanPanel({ plan, refreshPlan, action }) {
                 <button className="primary" onClick={() => action('Пункт показан', () => api(`/api/service-plan/items/${item.id}/show`, { method: 'POST' }))}><Monitor size={17} /> На ТВ</button>
                 <button className="icon-btn" onClick={() => move(item.id, 'up')}><ArrowUp size={17} /></button>
                 <button className="icon-btn" onClick={() => move(item.id, 'down')}><ArrowDown size={17} /></button>
-                <button className="icon-btn danger" onClick={() => remove(item.id)}><Trash2 size={17} /></button>
+                {editMode && <button className="icon-btn danger" onClick={() => remove(item.id)}><Trash2 size={17} /></button>}
               </div>
             </article>
           ))}
@@ -430,11 +513,43 @@ function ServicePlanPanel({ plan, refreshPlan, action }) {
   );
 }
 
+function welcomePlanItem(title) {
+  return { type: 'welcome', title, payload: {} };
+}
+
+function blankPlanItem() {
+  return { type: 'blank', title: 'Черный экран', payload: { title: '', subtitle: '' } };
+}
+
+function announcementPlanItem(title, titleEn, body, bodyEn) {
+  return {
+    type: 'announcement',
+    title,
+    payload: { title, titleEn, body, bodyEn, lang: 'both', qrUrl: '', qrDataUrl: '' }
+  };
+}
+
+function youtubeThumb(url) {
+  const m = String(url || '').match(/(?:youtu\.be\/|v=|\/embed\/|\/shorts\/)([A-Za-z0-9_-]{11})/);
+  return m ? `https://img.youtube.com/vi/${m[1]}/mqdefault.jpg` : '';
+}
+
+function SongThumb({ song }) {
+  const [failed, setFailed] = useState(false);
+  const src = song.fileName ? `/api/songs/${song.id}/thumbnail` : youtubeThumb(song.youtubeUrl);
+  if (!src || failed) {
+    return <div className="song-thumb song-thumb-empty"><Music size={20} /></div>;
+  }
+  return <img className="song-thumb" src={src} alt="" loading="lazy" onError={() => setFailed(true)} />;
+}
+
 function SongsPanel({ action, refreshPlan }) {
   const [songs, setSongs] = useState([]);
   const [q, setQ] = useState('');
   const [language, setLanguage] = useState('');
   const [category, setCategory] = useState('');
+  const [quickFilter, setQuickFilter] = useState('all');
+  const [sortMode, setSortMode] = useState('title');
   const [loading, setLoading] = useState(false);
   const [selected, setSelected] = useState([]);
   const [form, setForm] = useState({ title: '', language: 'ru', category: 'Поклонение', tags: '', youtubeUrl: '' });
@@ -471,19 +586,33 @@ function SongsPanel({ action, refreshPlan }) {
 
   const filteredSongs = useMemo(() => {
     const words = q.trim().toLowerCase().split(/\s+/).filter(Boolean);
-    return songCatalog.filter(song => {
+    const recentCutoff = Date.now() - 14 * 24 * 60 * 60 * 1000;
+    const filtered = songCatalog.filter(song => {
       if (language && String(song.language || '').toLowerCase() !== language.toLowerCase()) return false;
       if (category && String(song.category || '') !== category) return false;
+      if (quickFilter === 'recent' && new Date(song.createdAt || 0).getTime() < recentCutoff) return false;
+      if (quickFilter === 'cloud' && !song.cloudItemId && song.sourceType !== 'cloud_upload') return false;
+      if (quickFilter === 'youtube' && !song.youtubeUrl) return false;
+      if (quickFilter === 'offline' && !song.isOfflineReady) return false;
+      if (quickFilter === 'favorite' && !song.favorite) return false;
       if (!words.length) return true;
       const text = [song.title, song.language, song.category, song.originalFileName, ...(song.tags || [])].join(' ').toLowerCase();
       return words.every(word => text.includes(word));
     });
-  }, [songCatalog, q, language, category]);
+    return filtered.sort((a, b) => {
+      if (sortMode === 'newest') return new Date(b.createdAt || 0) - new Date(a.createdAt || 0);
+      if (sortMode === 'recently-updated') return new Date(b.updatedAt || b.createdAt || 0) - new Date(a.updatedAt || a.createdAt || 0);
+      if (sortMode === 'category') return String(a.category || '').localeCompare(String(b.category || ''), 'ru') || String(a.title || '').localeCompare(String(b.title || ''), 'ru');
+      return String(a.title || '').localeCompare(String(b.title || ''), 'ru');
+    });
+  }, [songCatalog, q, language, category, quickFilter, sortMode]);
 
   function resetFilters() {
     setQ('');
     setLanguage('');
     setCategory('');
+    setQuickFilter('all');
+    setSortMode('title');
   }
 
   function toggleSong(id) {
@@ -536,6 +665,15 @@ function SongsPanel({ action, refreshPlan }) {
     await refreshPlan();
   }
 
+  async function toggleFavorite(song) {
+    await api(`/api/songs/${song.id}`, {
+      method: 'PUT',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ favorite: !song.favorite })
+    });
+    await load();
+  }
+
   return (
     <section className="grid two">
       <div className="stack">
@@ -569,6 +707,28 @@ function SongsPanel({ action, refreshPlan }) {
                 {categories.map(([value, count]) => <option value={value} key={value}>{value} ({count})</option>)}
               </select>
             </label>
+            <label>Сортировка
+              <select value={sortMode} onChange={e => setSortMode(e.target.value)}>
+                <option value="title">По названию</option>
+                <option value="newest">Сначала новые</option>
+                <option value="recently-updated">Недавно измененные</option>
+                <option value="category">По теме</option>
+              </select>
+            </label>
+          </div>
+          <div className="filter-chips">
+            {[
+              ['all', 'Все'],
+              ['recent', 'Недавние'],
+              ['cloud', 'Из облака'],
+              ['offline', 'Офлайн'],
+              ['youtube', 'YouTube'],
+              ['favorite', 'Избранное']
+            ].map(([value, label]) => (
+              <button className={cx(quickFilter === value && 'active')} onClick={() => setQuickFilter(value)} key={value}>
+                {label}
+              </button>
+            ))}
           </div>
           <div className="filter-chips">
             {languages.slice(0, 8).map(([value, count]) => (
@@ -640,6 +800,7 @@ function SongsPanel({ action, refreshPlan }) {
             <article className={cx('song-item', selected.includes(song.id) && 'selected-item')} key={song.id}>
               <div className="song-select-line">
                 <input type="checkbox" checked={selected.includes(song.id)} onChange={() => toggleSong(song.id)} />
+                <SongThumb song={song} />
                 <div>
                   <h3>{song.title}</h3>
                   <p>{song.language} · {song.category} · {(song.tags || []).join(', ')}</p>
@@ -649,6 +810,7 @@ function SongsPanel({ action, refreshPlan }) {
               <div className="song-actions wrap-actions">
                 <button className="primary" onClick={() => action('Песня показана', () => api(`/api/songs/${song.id}/show`, { method: 'POST' }))}><Video size={17} /> На ТВ</button>
                 <button onClick={() => action('Песня добавлена в план', () => api(`/api/songs/${song.id}/add-to-plan`, { method: 'POST' }))}><ListPlus size={17} /> В план</button>
+                <button className={cx('icon-btn', song.favorite && 'favorite-on')} onClick={() => action(song.favorite ? 'Убрано из избранного' : 'Добавлено в избранное', () => toggleFavorite(song))}><Star size={17} /></button>
                 <button className="icon-btn danger" onClick={() => remove(song.id)}><Trash2 size={17} /></button>
               </div>
             </article>
@@ -1289,6 +1451,20 @@ const EMPTY_TRANSLATION_DRAFT = {
   rtmpKey: ''
 };
 
+const CAPTION_LANGUAGE_OPTIONS = [
+  { code: 'en-US', label: 'English' },
+  { code: 'sr', label: 'Srpski' },
+  { code: 'bs', label: 'Bosanski' },
+  { code: 'ru', label: 'Русский' },
+  { code: 'uk', label: 'Українська' },
+  { code: 'de', label: 'Deutsch' },
+  { code: 'fr', label: 'Français' },
+  { code: 'es', label: 'Español' },
+  { code: 'pt', label: 'Português' },
+  { code: 'pl', label: 'Polski' },
+  { code: 'nl', label: 'Dutch' }
+];
+
 function TranslationPanel({ action }) {
   const [providers, setProviders] = useState([]);
   const [activeId, setActiveId] = useState('');
@@ -1329,6 +1505,38 @@ function TranslationPanel({ action }) {
     await load();
   }
 
+  function getCaptionFontSize(url) {
+    try {
+      const parsed = new URL(url);
+      const raw = parsed.searchParams.get('fontSize') || parsed.searchParams.get('font-size') || '10';
+      const match = String(raw).match(/\d+(?:\.\d+)?/);
+      return match ? Number(match[0]) : 10;
+    } catch {
+      return 10;
+    }
+  }
+
+  function getCaptionLanguage(url) {
+    try {
+      const parts = new URL(url).pathname.split('/').filter(Boolean);
+      const index = parts.indexOf('l');
+      return index !== -1 && parts[index + 1] ? parts[index + 1] : 'en-US';
+    } catch {
+      return 'en-US';
+    }
+  }
+
+  async function changeCaptionFont(provider, fontSize) {
+    const safeSize = Math.min(120, Math.max(6, Math.round(Number(fontSize) || 10)));
+    await api(`/api/translation/providers/${provider.id}/caption-font-size`, postJson({ fontSize: safeSize }));
+    await load();
+  }
+
+  async function changeCaptionLanguage(provider, language) {
+    await api(`/api/translation/providers/${provider.id}/caption-language`, postJson({ language }));
+    await load();
+  }
+
   return (
     <div className="stack">
       <LiveTranslationPanel action={action} />
@@ -1345,6 +1553,8 @@ function TranslationPanel({ action }) {
           <div className="song-list">
             {providers.map(p => {
               const isActive = p.id === activeId;
+              const captionFontSize = getCaptionFontSize(p.screenEmbedUrl);
+              const captionLanguage = getCaptionLanguage(p.screenEmbedUrl);
               return (
                 <article className={cx('song-item', 'provider-item', isActive && 'active-plan-item')} key={p.id}>
                   <div>
@@ -1355,6 +1565,33 @@ function TranslationPanel({ action }) {
                       <span className={cx('badge', p.screenEmbedUrl ? 'ok' : 'warn')}>{p.screenEmbedUrl ? 'субтитры ✓' : 'нет субтитров'}</span>
                       {p.rtmpUrl && <span className="badge">RTMP</span>}
                     </div>
+                    {p.screenEmbedUrl && (
+                      <div className="caption-control-stack">
+                        <div className="caption-language-controls">
+                          <label>Язык субтитров
+                            <select
+                              value={captionLanguage}
+                              onChange={e => action('Язык субтитров изменен', () => changeCaptionLanguage(p, e.target.value))}
+                            >
+                              {CAPTION_LANGUAGE_OPTIONS.map(option => (
+                                <option key={option.code} value={option.code}>{option.label} · {option.code}</option>
+                              ))}
+                            </select>
+                          </label>
+                        </div>
+                        <div className="caption-font-controls">
+                          <div>
+                            <strong>Шрифт субтитров</strong>
+                            <span>{captionFontSize}px</span>
+                          </div>
+                          <div className="caption-font-buttons">
+                            <button type="button" className="icon-btn" onClick={() => action('Шрифт субтитров уменьшен', () => changeCaptionFont(p, captionFontSize - 2))}>A−</button>
+                            <button type="button" className="icon-btn" onClick={() => action('Шрифт субтитров увеличен', () => changeCaptionFont(p, captionFontSize + 2))}>A+</button>
+                            <button type="button" onClick={() => action('Шрифт субтитров сброшен', () => changeCaptionFont(p, p.id === 'glossa' ? 64 : 10))}>Сброс</button>
+                          </div>
+                        </div>
+                      </div>
+                    )}
                   </div>
                   <div className="song-actions wrap-actions">
                     <button className="primary" disabled={!p.audienceUrl} onClick={() => action('QR на телефоны показан', () => api(`/api/translation/providers/${p.id}/show-qr`, { method: 'POST' }))}><QrCode size={17} /> QR на телефоны</button>
@@ -1386,7 +1623,7 @@ function TranslationPanel({ action }) {
               <input value={draft.audienceUrl} onChange={e => setDraft({ ...draft, audienceUrl: e.target.value })} placeholder="https://captionkit.io/c/word-of-god" />
             </label>
             <label>Ссылка субтитров для экрана (iframe)
-              <input value={draft.screenEmbedUrl} onChange={e => setDraft({ ...draft, screenEmbedUrl: e.target.value })} placeholder="https://captionkit.io/f/word-of-god?fontSize=10" />
+              <input value={draft.screenEmbedUrl} onChange={e => setDraft({ ...draft, screenEmbedUrl: e.target.value })} placeholder="https://captionkit.io/f/word-of-god/l/en-US?fontSize=10" />
             </label>
             <label>Языки<input value={draft.languages} onChange={e => setDraft({ ...draft, languages: e.target.value })} placeholder="English, Srpski" /></label>
             <label>Английское объявление на QR-экране<textarea rows="3" value={draft.audienceInstructions} onChange={e => setDraft({ ...draft, audienceInstructions: e.target.value })} /></label>
@@ -1408,11 +1645,12 @@ function TranslationPanel({ action }) {
 
 function AnnouncementPanel({ action }) {
   const donationPreset = {
-    title: 'Пожертвование',
-    titleEn: 'Offering',
-    body: 'Спасибо за вашу поддержку служения.\nПожертвование можно положить в бокс.',
-    bodyEn: 'Thank you for supporting the ministry.\nYou can place your offering in the box.',
-    qrUrl: ''
+    title: 'Поддержите наше служение',
+    titleEn: 'Support Our Ministry',
+    body: 'Спасибо за вашу поддержку служения.\nВаше участие помогает нам служить людям и распространять Евангелие.',
+    bodyEn: 'Thank you for supporting our ministry.\nYour generosity helps us serve people and share the Gospel.',
+    qrUrl: '',
+    qrImageUrl: '/buymecoffee.png'
   };
   const welcomePreset = {
     title: 'Добро пожаловать!',
@@ -1442,13 +1680,16 @@ function AnnouncementPanel({ action }) {
     bodyEn: 'We invite everyone to take a group photo as a memory.',
     qrUrl: ''
   };
-  const testimonyPreset = {
-    title: 'Время свидетельств',
-    titleEn: 'Time of Testimonies',
-    body: 'Поделитесь кратко тем, что совершил Господь в вашей жизни.\n«Придите, послушайте, все боящиеся Бога, и я возвещу вам, что сотворил Он для души моей». — Псалом 65:16',
-    bodyEn: 'Share briefly what God has done in your life.\n“Come and hear, all you who fear God; let me tell you what he has done for me.” — Psalm 66:16',
-    qrUrl: ''
-  };
+  function makeTestimonyPreset(name) {
+    const person = String(name || '').trim();
+    return {
+      title: person ? `Свидетельство · ${person}` : 'Время свидетельств',
+      titleEn: person ? `Testimony · ${person}` : 'Time of Testimonies',
+      body: `${person ? `${person} делится свидетельством.\n` : 'Поделитесь кратко тем, что совершил Господь в вашей жизни.\n'}«Придите, послушайте, все боящиеся Бога, и я возвещу вам, что сотворил Он для души моей». — Псалом 65:16`,
+      bodyEn: `${person ? `${person} is sharing a testimony.\n` : 'Share briefly what God has done in your life.\n'}“Come and hear, all you who fear God; let me tell you what he has done for me.” — Psalm 66:16`,
+      qrUrl: ''
+    };
+  }
   const prayerPreset = {
     title: 'Время молитвы',
     titleEn: 'Time of Prayer',
@@ -1456,20 +1697,30 @@ function AnnouncementPanel({ action }) {
     bodyEn: 'Let us seek the face of God together in prayer.\n“Seek my face.” Your face, Lord, I will seek. — Psalm 27:8',
     qrUrl: ''
   };
-  const soloPraisePreset = {
-    title: 'Прославим Господа пением',
-    titleEn: 'Let Us Praise the Lord in Song',
-    body: 'Сольное прославление.\n«Воспойте Господу новую песнь; воспойте Господу, вся земля». — Псалом 95:1',
-    bodyEn: 'A song of worship.\n“Sing to the Lord a new song; sing to the Lord, all the earth.” — Psalm 96:1',
-    qrUrl: ''
-  };
-  const birthdayPreset = {
-    title: 'С Днём рождения!',
-    titleEn: 'Happy Birthday!',
-    body: 'Поздравляем, [имя]! Пусть Господь обильно благословит новый год твоей жизни.\n«Да благословит тебя Господь и сохранит тебя!» — Числа 6:24',
-    bodyEn: 'Happy Birthday, [name]! May the Lord richly bless this new year of your life.\n“The Lord bless you and keep you.” — Numbers 6:24',
-    qrUrl: ''
-  };
+  function makeSoloPraisePreset(name, songTitle) {
+    const person = String(name || '').trim();
+    const song = String(songTitle || '').trim();
+    const detailRu = [person, song && `«${song}»`].filter(Boolean).join(' · ');
+    const detailEn = [person, song && `“${song}”`].filter(Boolean).join(' · ');
+    return {
+      title: detailRu ? `Прославление · ${detailRu}` : 'Прославим Господа пением',
+      titleEn: detailEn ? `Worship Song · ${detailEn}` : 'Let Us Praise the Lord in Song',
+      body: `${detailRu ? 'Сольное прославление.\n' : 'Сольное прославление.\n'}«Воспойте Господу новую песнь; воспойте Господу, вся земля». — Псалом 95:1`,
+      bodyEn: `${detailEn ? 'A song of worship.\n' : 'A song of worship.\n'}“Sing to the Lord a new song; sing to the Lord, all the earth.” — Psalm 96:1`,
+      qrUrl: ''
+    };
+  }
+  function makeBirthdayPreset(name) {
+    const ruName = String(name || '').trim() || '[имя]';
+    const enName = ruName === '[имя]' ? '[name]' : ruName;
+    return {
+      title: 'С Днём рождения!',
+      titleEn: 'Happy Birthday!',
+      body: `Поздравляем, ${ruName}! Пусть Господь обильно благословит новый год твоей жизни.\n«Да благословит тебя Господь и сохранит тебя!» — Числа 6:24`,
+      bodyEn: `Happy Birthday, ${enName}! May the Lord richly bless this new year of your life.\n“The Lord bless you and keep you.” — Numbers 6:24`,
+      qrUrl: ''
+    };
+  }
   const childrenPraisePreset = {
     title: 'Пустите детей приходить ко Мне',
     titleEn: 'Let the Little Children Come to Me',
@@ -1477,9 +1728,91 @@ function AnnouncementPanel({ action }) {
     bodyEn: 'The children praise the Lord with song and verse.\n“Let the little children come to me, and do not hinder them, for the kingdom of heaven belongs to such as these.” — Matthew 19:14',
     qrUrl: ''
   };
+  const healingPrayerPreset = {
+    title: 'Молитва за исцеление',
+    titleEn: 'Prayer for Healing',
+    body: 'Если вы нуждаетесь в исцелении, служители готовы помолиться с вами.\n«Молитва веры исцелит болящего, и восставит его Господь». — Иакова 5:15',
+    bodyEn: 'If you need healing, our ministry team is ready to pray with you.\n“The prayer of faith shall save the sick, and the Lord shall raise him up.” — James 5:15',
+    qrUrl: ''
+  };
+  const communionPreset = {
+    title: 'Причастие',
+    titleEn: 'Communion',
+    body: 'Будем вспоминать смерть и воскресение Господа Иисуса Христа.\n«Сие творите в Мое воспоминание». — 1 Коринфянам 11:24',
+    bodyEn: 'We remember the death and resurrection of the Lord Jesus Christ.\n“Do this in remembrance of me.” — 1 Corinthians 11:24',
+    qrUrl: ''
+  };
+  const holySpiritBaptismPreset = {
+    title: 'Молитва за крещение Духом Святым',
+    titleEn: 'Prayer for the Baptism in the Holy Spirit',
+    body: 'Приглашаем всех, кто желает исполниться Духом Святым, выйти для молитвы.\n«Вы примете силу, когда сойдет на вас Дух Святой». — Деяния 1:8',
+    bodyEn: 'Everyone who desires to be filled with the Holy Spirit is invited to come forward for prayer.\n“You shall receive power, after that the Holy Ghost is come upon you.” — Acts 1:8',
+    qrUrl: ''
+  };
+  const teaTablePreset = {
+    title: 'Приглашаем к столу',
+    titleEn: 'You Are Invited to the Table',
+    body: 'После служения приглашаем всех к совместному чаепитию и общению.\n«Преломляя по домам хлеб, принимали пищу в веселии и простоте сердца». — Деяния 2:46',
+    bodyEn: 'After the service, everyone is invited for tea and fellowship.\n“They broke bread from house to house, and did eat their meat with gladness and singleness of heart.” — Acts 2:46',
+    qrUrl: ''
+  };
+  const salvationCallPreset = {
+    title: 'Призыв к покаянию',
+    titleEn: 'Invitation to Repentance',
+    body: 'Если вы хотите примириться с Богом, мы приглашаем вас выйти для молитвы.\n«Покайтесь и обратитесь, чтобы загладились грехи ваши». — Деяния 3:19',
+    bodyEn: 'If you want to be reconciled with God, we invite you to come forward for prayer.\n“Repent ye therefore, and be converted, that your sins may be blotted out.” — Acts 3:19',
+    qrUrl: ''
+  };
+  const waterBaptismPreset = {
+    title: 'Водное крещение',
+    titleEn: 'Water Baptism',
+    body: 'Если вы хотите принять водное крещение, подойдите к служителям после служения.\n«Покайтесь, и да крестится каждый из вас во имя Иисуса Христа». — Деяния 2:38',
+    bodyEn: 'If you want to be baptized in water, please speak with the ministry team after the service.\n“Repent, and be baptized every one of you in the name of Jesus Christ.” — Acts 2:38',
+    qrUrl: ''
+  };
+  const needsPrayerPreset = {
+    title: 'Молитва за нужды',
+    titleEn: 'Prayer for Needs',
+    body: 'Если у вас есть нужда, мы готовы помолиться вместе с вами.\n«Открывайте свои желания пред Богом в молитве и прошении с благодарением». — Филиппийцам 4:6',
+    bodyEn: 'If you have a need, we are ready to pray with you.\n“In every thing by prayer and supplication with thanksgiving let your requests be made known unto God.” — Philippians 4:6',
+    qrUrl: ''
+  };
+  function makeChildrenBlessingPreset(name) {
+    const child = String(name || '').trim();
+    return {
+      title: child ? `Благословение · ${child}` : 'Благословение детей',
+      titleEn: child ? `Blessing · ${child}` : 'Blessing the Children',
+      body: `${child ? `Приглашаем ${child} и семью для молитвы благословения.\n` : 'Приглашаем родителей с детьми для молитвы благословения.\n'}«И, обняв их, возложил руки на них и благословил их». — Марка 10:16`,
+      bodyEn: `${child ? `${child} and family are invited forward for a prayer of blessing.\n` : 'Parents and children are invited forward for a prayer of blessing.\n'}“He took them up in his arms, put his hands upon them, and blessed them.” — Mark 10:16`,
+      qrUrl: ''
+    };
+  }
+  function makeBaptismWelcomePreset(name) {
+    const person = String(name || '').trim();
+    return {
+      title: person ? `Приветствуем крещаемого · ${person}` : 'Приветствуем крещаемого',
+      titleEn: person ? `Welcoming the Baptism Candidate · ${person}` : 'Welcoming the Baptism Candidate',
+      body: `Сегодня мы радуемся вместе с ${person || 'тем, кто свидетельствует о своей вере'} через водное крещение.\n«Итак, кто во Христе, тот новая тварь; древнее прошло, теперь всё новое». — 2 Коринфянам 5:17`,
+      bodyEn: `Today we rejoice with ${person || 'the one who is declaring their faith'} through water baptism.\n“If any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.” — 2 Corinthians 5:17`,
+      qrUrl: ''
+    };
+  }
+  const missionsPrayerPreset = {
+    title: 'Молитва за народы',
+    titleEn: 'Prayer for the Nations',
+    body: 'Будем молиться за народы, миссионеров и распространение Евангелия.\n«Идите, научите все народы». — Матфея 28:19',
+    bodyEn: 'Let us pray for the nations, missionaries, and the spread of the Gospel.\n“Go ye therefore, and teach all nations.” — Matthew 28:19',
+    qrUrl: ''
+  };
   const [form, setForm] = useState(welcomePreset);
   const [items, setItems] = useState([]);
   const [lang, setLang] = useState('both');
+  const [birthdayName, setBirthdayName] = useState('');
+  const [baptismName, setBaptismName] = useState('');
+  const [childName, setChildName] = useState('');
+  const [testimonyName, setTestimonyName] = useState('');
+  const [soloName, setSoloName] = useState('');
+  const [soloSongTitle, setSoloSongTitle] = useState('');
 
   async function load() {
     setItems(await api('/api/announcements'));
@@ -1506,11 +1839,44 @@ function AnnouncementPanel({ action }) {
           <button onClick={() => setForm(translationPreset)}>Перевод</button>
           <button onClick={() => setForm(fellowshipPreset)}>Общение</button>
           <button onClick={() => setForm(photoPreset)}>Фото</button>
-          <button onClick={() => setForm(testimonyPreset)}>Свидетельства</button>
+          <button onClick={() => setForm(makeTestimonyPreset(testimonyName))}>Свидетельства</button>
           <button onClick={() => setForm(prayerPreset)}>Молитва</button>
-          <button onClick={() => setForm(soloPraisePreset)}>Сольное пение</button>
-          <button onClick={() => setForm(birthdayPreset)}>День рождения</button>
+          <button onClick={() => setForm(makeSoloPraisePreset(soloName, soloSongTitle))}>Сольное пение</button>
+          <button onClick={() => setForm(makeBirthdayPreset(birthdayName))}>День рождения</button>
           <button onClick={() => setForm(childrenPraisePreset)}>Дети славят</button>
+          <button onClick={() => setForm(healingPrayerPreset)}>Исцеление</button>
+          <button onClick={() => setForm(communionPreset)}>Причастие</button>
+          <button onClick={() => setForm(holySpiritBaptismPreset)}>Крещение Духом</button>
+          <button onClick={() => setForm(teaTablePreset)}>Чаепитие</button>
+          <button onClick={() => setForm(salvationCallPreset)}>Покаяние</button>
+          <button onClick={() => setForm(waterBaptismPreset)}>Водное крещение</button>
+          <button onClick={() => setForm(makeBaptismWelcomePreset(baptismName))}>Крещаемый</button>
+          <button onClick={() => setForm(needsPrayerPreset)}>Нужды</button>
+          <button onClick={() => setForm(makeChildrenBlessingPreset(childName))}>Благословение детей</button>
+          <button onClick={() => setForm(missionsPrayerPreset)}>Миссии</button>
+        </div>
+        <div className="quick-name-grid">
+          <label>Имя для поздравления
+            <input value={birthdayName} onChange={e => setBirthdayName(e.target.value)} placeholder="Например: Мария" />
+            <button type="button" onClick={() => setForm(makeBirthdayPreset(birthdayName))}>День рождения</button>
+          </label>
+          <label>Крещаемый
+            <input value={baptismName} onChange={e => setBaptismName(e.target.value)} placeholder="Например: Давид" />
+            <button type="button" onClick={() => setForm(makeBaptismWelcomePreset(baptismName))}>Крещаемый</button>
+          </label>
+          <label>Ребенок / семья
+            <input value={childName} onChange={e => setChildName(e.target.value)} placeholder="Например: семья Ивановых" />
+            <button type="button" onClick={() => setForm(makeChildrenBlessingPreset(childName))}>Благословение</button>
+          </label>
+          <label>Свидетельство
+            <input value={testimonyName} onChange={e => setTestimonyName(e.target.value)} placeholder="Имя человека" />
+            <button type="button" onClick={() => setForm(makeTestimonyPreset(testimonyName))}>Свидетельство</button>
+          </label>
+          <label>Сольное пение
+            <input value={soloName} onChange={e => setSoloName(e.target.value)} placeholder="Имя" />
+            <input value={soloSongTitle} onChange={e => setSoloSongTitle(e.target.value)} placeholder="Название песни" />
+            <button type="button" onClick={() => setForm(makeSoloPraisePreset(soloName, soloSongTitle))}>Сольное пение</button>
+          </label>
         </div>
         <div className="lang-toggle">
           <span>Язык на экране:</span>
@@ -1562,6 +1928,161 @@ function AnnouncementPanel({ action }) {
   );
 }
 
+
+function ExternalLinksPanel({ action, refreshPlan }) {
+  const [links, setLinks] = useState([]);
+  const [form, setForm] = useState({ title: '', url: '', category: 'Ссылка', notes: '' });
+  const [loading, setLoading] = useState(false);
+
+  async function load() {
+    setLoading(true);
+    try { setLinks(await api('/api/external-links')); }
+    finally { setLoading(false); }
+  }
+
+  useEffect(() => { load(); }, []);
+
+  async function submit(e) {
+    e.preventDefault();
+    await api('/api/external-links', postJson(form));
+    setForm({ title: '', url: '', category: 'Ссылка', notes: '' });
+    await load();
+  }
+
+  async function remove(id) {
+    if (!confirm('Удалить внешнюю ссылку?')) return;
+    await api(`/api/external-links/${id}`, { method: 'DELETE' });
+    await load();
+    await refreshPlan();
+  }
+
+  return (
+    <section className="grid two">
+      <div className="card">
+        <h2>Внешние ссылки</h2>
+        <p>Храни сайты, которые иногда нужно показать на ТВ: магазин, языковую программу, формы, страницы служения.</p>
+        <div className="preset-grid">
+          <button onClick={() => setForm({ title: 'FaithCuts · Etsy', url: 'https://www.etsy.com/shop/FaithCuts', category: 'Магазин', notes: 'Демонстрация магазина' })}>FaithCuts</button>
+          <button onClick={() => setForm({ title: 'Kotmilo', url: 'https://kotmilo.top', category: 'Изучение языка', notes: 'Программа изучения языка' })}>Kotmilo</button>
+        </div>
+        <form className="form" onSubmit={submit}>
+          <label>Название<input value={form.title} onChange={e => setForm({ ...form, title: e.target.value })} placeholder="Название для экрана" /></label>
+          <label>URL<input value={form.url} onChange={e => setForm({ ...form, url: e.target.value })} placeholder="https://..." /></label>
+          <div className="form-row">
+            <label>Категория<input value={form.category} onChange={e => setForm({ ...form, category: e.target.value })} /></label>
+            <label>Заметка<input value={form.notes} onChange={e => setForm({ ...form, notes: e.target.value })} /></label>
+          </div>
+          <button className="primary" type="submit"><Plus size={18} /> Сохранить ссылку</button>
+        </form>
+        <p className="hint">Некоторые сайты запрещают открытие внутри iframe. Если на ТВ пусто, открой ссылку напрямую на mini PC или используй другой режим показа.</p>
+      </div>
+
+      <div className="card">
+        <div className="card-title-row">
+          <h2>Сохраненные ссылки</h2>
+          <button onClick={load}><RotateCcw size={17} /> Обновить</button>
+        </div>
+        <div className="song-list">
+          {loading && <p>Загрузка...</p>}
+          {!loading && !links.length && <p>Пока нет ссылок.</p>}
+          {links.map(link => (
+            <article className="song-item" key={link.id}>
+              <div>
+                <h3>{link.title}</h3>
+                <p>{link.category} · {link.url}</p>
+                {link.notes && <p className="muted-text">{link.notes}</p>}
+              </div>
+              <div className="song-actions wrap-actions">
+                <button className="primary" onClick={() => action('Ссылка показана', () => api(`/api/external-links/${link.id}/show`, { method: 'POST' }))}><Monitor size={17} /> На ТВ</button>
+                <button onClick={() => action('Ссылка добавлена в план', () => api(`/api/external-links/${link.id}/add-to-plan`, { method: 'POST' }).then(refreshPlan))}><ListPlus size={17} /> В план</button>
+                <button className="icon-btn danger" onClick={() => remove(link.id)}><Trash2 size={17} /></button>
+              </div>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function PrayerRequestsPanel({ action }) {
+  const [items, setItems] = useState([]);
+  const [lang, setLang] = useState('both');
+  const [form, setForm] = useState({
+    title: 'Молитвенные нужды',
+    titleEn: 'Prayer Requests',
+    body: 'Будем молиться вместе:\n• \n• \n• ',
+    bodyEn: 'Let us pray together:\n• \n• \n• '
+  });
+
+  async function load() {
+    setItems(await api('/api/prayer-requests'));
+  }
+
+  useEffect(() => { load(); }, []);
+
+  async function show() {
+    await action('Молитвенные нужды показаны', () => api('/api/prayer-requests/show', postJson({ ...form, lang })));
+    await load();
+  }
+
+  async function addToPlan() {
+    await action('Молитвенные нужды добавлены в план', () => api('/api/prayer-requests/add-to-plan', postJson({ ...form, lang })));
+    await load();
+  }
+
+  return (
+    <section className="grid two">
+      <div className="card">
+        <h2>Молитвенные нужды</h2>
+        <p>Выводи на экран нужды на русском, английском или сразу на двух языках.</p>
+        <div className="lang-toggle">
+          <span>Язык на экране:</span>
+          {[['both', 'Оба'], ['ru', 'Русский'], ['en', 'English']].map(([value, label]) => (
+            <button key={value} type="button" className={cx(lang === value && 'active')} onClick={() => setLang(value)}>{label}</button>
+          ))}
+        </div>
+        <form className="form" onSubmit={e => e.preventDefault()}>
+          <div className="form-row">
+            <label>Заголовок RU<input value={form.title} onChange={e => setForm({ ...form, title: e.target.value })} /></label>
+            <label>Заголовок EN<input value={form.titleEn} onChange={e => setForm({ ...form, titleEn: e.target.value })} /></label>
+          </div>
+          <div className="form-row">
+            <label>Нужды RU<textarea rows="9" value={form.body} onChange={e => setForm({ ...form, body: e.target.value })} /></label>
+            <label>Needs EN<textarea rows="9" value={form.bodyEn} onChange={e => setForm({ ...form, bodyEn: e.target.value })} /></label>
+          </div>
+          <div className="button-row">
+            <button className="primary" onClick={show}><Megaphone size={18} /> Показать на ТВ</button>
+            <button onClick={addToPlan}><ListPlus size={18} /> Добавить в план</button>
+          </div>
+        </form>
+      </div>
+
+      <div className="card">
+        <div className="card-title-row">
+          <h2>Последние нужды</h2>
+          <button onClick={load}><RotateCcw size={17} /> Обновить</button>
+        </div>
+        <div className="song-list">
+          {!items.length && <p>Пока нет сохраненных молитвенных нужд.</p>}
+          {items.map(item => (
+            <article className="song-item" key={item.id}>
+              <div>
+                <h3>{item.title}{item.titleEn ? ` / ${item.titleEn}` : ''}</h3>
+                <p>{item.body}</p>
+                {item.bodyEn && <p className="muted-text">{item.bodyEn}</p>}
+              </div>
+              <div className="song-actions wrap-actions">
+                <button className="primary" onClick={() => action('Молитвенные нужды показаны', () => api('/api/screen/state', postJson({ mode: 'announcement', payload: item })))}><Monitor size={17} /> На ТВ</button>
+                <button onClick={() => action('Молитвенные нужды добавлены в план', () => api('/api/service-plan/items', postJson({ type: 'announcement', title: item.title, payload: item })))}><ListPlus size={17} /> В план</button>
+              </div>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+}
 
 function MissionBoardPanel({ action }) {
   async function showLink(link) {
@@ -2097,7 +2618,8 @@ function AnnouncementScreen({ payload }) {
   const showRu = lang === 'ru' || lang === 'both';
   const showEn = (lang === 'en' || lang === 'both') && hasEnglish;
   const bilingual = showRu && showEn;
-  const hasQr = Boolean(payload.qrDataUrl);
+  const qrSrc = payload.qrImageUrl || payload.qrDataUrl;
+  const hasQr = Boolean(qrSrc);
   return (
     <section className={cx('screen-center announcement-screen', bilingual ? 'bilingual-announcement' : 'single-announcement', !hasQr && 'no-qr')}>
       <div className="announcement-copy">
@@ -2114,7 +2636,7 @@ function AnnouncementScreen({ payload }) {
           </div>
         )}
       </div>
-      {hasQr && <img src={payload.qrDataUrl} alt="QR" />}
+      {hasQr && <img src={qrSrc} alt="QR" />}
     </section>
   );
 }
