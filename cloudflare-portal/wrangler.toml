@@ -35,3 +35,4 @@ DOWNLOAD_URL_TTL_SECONDS = "900"
 # API keys handed to the mini PC via GET /api/device/config (device-token auth):
 # wrangler secret put OPENAI_API_KEY
 # wrangler secret put GEMINI_API_KEY
+# wrangler secret put CAPTIONKIT_API_KEY

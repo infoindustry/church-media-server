@@ -240,11 +240,12 @@ async function deleteItem(env, id) {
 }
 
 // Hand the authenticated mini PC its API keys so they never live in git.
-// Keys are stored as Worker secrets (wrangler secret put OPENAI_API_KEY / GEMINI_API_KEY).
+// Keys are stored as Worker secrets (wrangler secret put OPENAI_API_KEY / GEMINI_API_KEY / CAPTIONKIT_API_KEY).
 function deviceConfig(env) {
   return json({
     openaiApiKey: env.OPENAI_API_KEY || '',
-    geminiApiKey: env.GEMINI_API_KEY || ''
+    geminiApiKey: env.GEMINI_API_KEY || '',
+    captionKitApiKey: env.CAPTIONKIT_API_KEY || ''
   });
 }
 
