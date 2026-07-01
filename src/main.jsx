@@ -74,6 +74,77 @@ function isLearningMedia(item) {
   return LEARNING_SECTIONS.some(section => matchesMediaSection(item, section.prefixes));
 }
 
+function isChordToken(token) {
+  return /^(?:[A-H][#b♭♯]?(?:(?:maj|min|dim|aug|sus|add|m)?\d*)?(?:\/[A-H][#b♭♯]?)?|N\.?C\.?)$/i.test(String(token || '').trim());
+}
+
+function stripChordLine(rawLine) {
+  let line = String(rawLine || '')
+    .replace(/\[([^\]]+)\]/g, (match, token) => isChordToken(token) ? '' : match)
+    .replace(/\{([^}]+)\}/g, (match, token) => isChordToken(token) ? '' : match)
+    .replace(/\/{2,}/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  const chordProbe = line
+    .replace(/^\.+/, '')
+    .replace(/[|:]+/g, ' ')
+    .trim();
+  if (chordProbe) {
+    const tokens = chordProbe.split(/\s+/).filter(Boolean);
+    if (tokens.length && tokens.every(isChordToken)) return '';
+  }
+
+  return line.replace(/^\.+\s*/, '').trim();
+}
+
+function clampNumber(value, min, max, fallback) {
+  const number = Number(value);
+  if (!Number.isFinite(number)) return fallback;
+  return Math.max(min, Math.min(max, number));
+}
+
+function getLyricsParagraphs(payload = {}) {
+  if (Array.isArray(payload.lyricsParagraphs) && payload.lyricsParagraphs.length) {
+    return payload.lyricsParagraphs
+      .map(block => ({ lines: Array.isArray(block.lines) ? block.lines.map(stripChordLine).filter(Boolean) : [] }))
+      .filter(block => block.lines.length);
+  }
+
+  if (Array.isArray(payload.lyricsSlides)) {
+    const paragraphs = [];
+    for (const slide of payload.lyricsSlides) {
+      const lines = Array.isArray(slide.lines) ? slide.lines.map(stripChordLine).filter(Boolean) : [];
+      if (!lines.length) continue;
+      const label = String(slide.label || '');
+      const previous = paragraphs[paragraphs.length - 1];
+      if (label && previous?.label === label) previous.lines.push(...lines);
+      else paragraphs.push({ label, lines });
+    }
+    return paragraphs.map(({ lines }) => ({ lines }));
+  }
+
+  return [];
+}
+
+function getLyricsFontSize(payload = {}) {
+  return clampNumber(payload.lyricsFontSize, 34, 96, 64);
+}
+
+function getLyricsParagraphsPerSlide(payload = {}) {
+  return clampNumber(payload.lyricsParagraphsPerSlide, 1, 4, 1);
+}
+
+function getLyricsPages(payload = {}) {
+  const paragraphs = getLyricsParagraphs(payload);
+  const perSlide = getLyricsParagraphsPerSlide(payload);
+  const pages = [];
+  for (let i = 0; i < paragraphs.length; i += perSlide) {
+    pages.push({ paragraphs: paragraphs.slice(i, i + perSlide) });
+  }
+  return pages;
+}
+
 function App() {
   const path = window.location.pathname;
   if (path.startsWith('/screen')) return <ScreenApp />;
@@ -115,6 +186,11 @@ function AdminApp() {
     }
   }
 
+  async function lyricsCommand(command, payload = {}) {
+    await api('/api/screen/command', postJson({ command, payload }));
+    await refreshState();
+  }
+
   useEffect(() => {
     refreshState();
     refreshPlan();
@@ -146,6 +222,26 @@ function AdminApp() {
     ['media', Images, 'Картинки'],
     ['checkup', Wifi, 'Проверка']
   ];
+
+  const liveLyrics = useMemo(() => {
+    const payload = state?.payload || {};
+    if (state?.mode !== 'audio_track') return null;
+    const paragraphs = getLyricsParagraphs(payload);
+    if (!paragraphs.length) return null;
+    const pages = getLyricsPages(payload);
+    const index = clampNumber(payload.lyricsSlideIndex, 0, Math.max(0, pages.length - 1), 0);
+    const perSlide = getLyricsParagraphsPerSlide(payload);
+    return {
+      payload,
+      paragraphs,
+      pages,
+      index,
+      current: pages[index],
+      next: pages[index + 1],
+      fontSize: getLyricsFontSize(payload),
+      perSlide
+    };
+  }, [state]);
 
   return (
     <div className="admin-shell">
@@ -179,6 +275,64 @@ function AdminApp() {
             <button className="primary" onClick={() => action('Следующий пункт', () => api('/api/service-plan/next', { method: 'POST' }))}><SkipForward size={18} /> Следующий</button>
             <button className="danger" onClick={() => action('Blank', () => api('/api/blank', postJson({ payload: { title: '', subtitle: '' } })))}><Moon size={18} /> Blank</button>
           </div>
+          {liveLyrics && (
+            <div className="live-lyrics-control">
+              <div className="live-lyrics-head">
+                <div>
+                  <div className="eyebrow">Слова фонограммы</div>
+                  <h3>{liveLyrics.payload.title || liveLyrics.payload.lyricsTitle || 'Фонограмма'}</h3>
+                  <p>{liveLyrics.index + 1} / {liveLyrics.pages.length} на экране</p>
+                </div>
+                <div className="button-row compact">
+                  <button onClick={() => action('Слова: назад', () => lyricsCommand('lyrics-prev'))}><SkipBack size={17} /> Назад</button>
+                  <button className="primary" onClick={() => action('Слова: вперед', () => lyricsCommand('lyrics-next'))}><SkipForward size={17} /> Вперёд</button>
+                </div>
+              </div>
+              <div className="lyrics-layout-controls">
+                <label>Размер текста
+                  <input type="range" min="34" max="96" value={liveLyrics.fontSize} onChange={e => lyricsCommand('lyrics-options', { lyricsFontSize: Number(e.target.value) })} />
+                  <span>{liveLyrics.fontSize}px</span>
+                </label>
+                <label>Абзацев на ТВ
+                  <input type="number" min="1" max="4" value={liveLyrics.perSlide} onChange={e => lyricsCommand('lyrics-options', { lyricsParagraphsPerSlide: Number(e.target.value) })} />
+                </label>
+              </div>
+              <div className="lyrics-preview-grid">
+                <div>
+                  <strong>Сейчас</strong>
+                  <div className="lyrics-preview active">
+                    {liveLyrics.current?.paragraphs.map((paragraph, index) => (
+                      <p key={index}>{paragraph.lines.join(' ')}</p>
+                    ))}
+                  </div>
+                </div>
+                <div>
+                  <strong>Следующее</strong>
+                  <div className="lyrics-preview">
+                    {liveLyrics.next?.paragraphs?.length
+                      ? liveLyrics.next.paragraphs.map((paragraph, index) => <p key={index}>{paragraph.lines.join(' ')}</p>)
+                      : <p>Конец песни</p>}
+                  </div>
+                </div>
+              </div>
+              <div className="lyrics-all">
+                {liveLyrics.paragraphs.map((paragraph, index) => {
+                  const pageIndex = Math.floor(index / liveLyrics.perSlide);
+                  const active = pageIndex === liveLyrics.index;
+                  return (
+                    <button
+                      key={index}
+                      className={cx(active && 'active')}
+                      onClick={() => action(`Слова: блок ${pageIndex + 1}`, () => lyricsCommand('lyrics-set', { lyricsSlideIndex: pageIndex }))}
+                    >
+                      <span>{index + 1}</span>
+                      <p>{paragraph.lines.join(' ')}</p>
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+          )}
         </section>
 
         <nav className="tabbar">
@@ -2989,39 +3143,27 @@ function SlideshowScreen({ payload }) {
 
 
 function AudioTrackScreen({ payload, mediaRef }) {
-  const slides = Array.isArray(payload.lyricsSlides) ? payload.lyricsSlides : [];
-  const [slideIndex, setSlideIndex] = useState(0);
+  const pages = useMemo(() => getLyricsPages(payload), [payload]);
+  const slideIndex = clampNumber(payload.lyricsSlideIndex, 0, Math.max(0, pages.length - 1), 0);
+  const fontSize = getLyricsFontSize(payload);
 
-  useEffect(() => { setSlideIndex(0); }, [payload.audioId, payload.mediaUrl]);
-
-  useEffect(() => {
-    if (!slides.length) return undefined;
-    function onCommand(event) {
-      const command = event.detail?.command;
-      if (command === 'lyrics-next') setSlideIndex(index => Math.min(slides.length - 1, index + 1));
-      if (command === 'lyrics-prev') setSlideIndex(index => Math.max(0, index - 1));
-    }
-    window.addEventListener('screen-command', onCommand);
-    return () => window.removeEventListener('screen-command', onCommand);
-  }, [slides.length]);
-
-  if (slides.length) {
-    const slide = slides[Math.min(slideIndex, slides.length - 1)] || slides[0];
+  if (pages.length) {
+    const slide = pages[slideIndex] || pages[0];
     return (
-      <section className="audio-lyrics-screen">
+      <section className="audio-lyrics-screen" style={{ '--lyrics-font-size': `${fontSize}px` }}>
         <audio key={payload.mediaUrl} ref={mediaRef} src={payload.mediaUrl} autoPlay playsInline />
         <div className="audio-lyrics-topline">
           <span>{payload.title || payload.lyricsTitle || 'Фонограмма'}</span>
-          <span>{slideIndex + 1} / {slides.length}</span>
+          <span>{slideIndex + 1} / {pages.length}</span>
         </div>
         <div className="audio-lyrics-slide">
-          {slide.label && <div className="audio-lyrics-label">{slide.label}</div>}
           <div className="audio-lyrics-lines">
-            {slide.lines.map((line, index) => <p key={index}>{line}</p>)}
+            {slide.paragraphs.map((paragraph, paragraphIndex) => (
+              <div className="audio-lyrics-paragraph" key={paragraphIndex}>
+                {paragraph.lines.map((line, lineIndex) => <p key={lineIndex}>{line}</p>)}
+              </div>
+            ))}
           </div>
-        </div>
-        <div className="audio-lyrics-footer">
-          {payload.isOfflineReady ? 'Локальный MP3' : 'Онлайн MP3'} · ручное листание из admin
         </div>
       </section>
     );

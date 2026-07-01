@@ -319,16 +319,37 @@ function walkFiles(rootDir) {
   return files;
 }
 
-function buildWorshipLeaderLyricsSlides(lyrics) {
-  const slides = [];
-  let label = '';
+function isChordToken(token) {
+  return /^(?:[A-H][#b♭♯]?(?:(?:maj|min|dim|aug|sus|add|m)?\d*)?(?:\/[A-H][#b♭♯]?)?|N\.?C\.?)$/i.test(String(token || '').trim());
+}
+
+function stripWorshipLeaderChords(rawLine) {
+  let line = String(rawLine || '')
+    .replace(/\[([^\]]+)\]/g, (match, token) => isChordToken(token) ? '' : match)
+    .replace(/\{([^}]+)\}/g, (match, token) => isChordToken(token) ? '' : match)
+    .replace(/\/{2,}/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  const chordProbe = line
+    .replace(/^\.+/, '')
+    .replace(/[|:]+/g, ' ')
+    .trim();
+  if (chordProbe) {
+    const tokens = chordProbe.split(/\s+/).filter(Boolean);
+    if (tokens.length && tokens.every(isChordToken)) return '';
+  }
+
+  return line.replace(/^\.+\s*/, '').trim();
+}
+
+function buildWorshipLeaderLyricsParagraphs(lyrics) {
+  const paragraphs = [];
   let lines = [];
 
-  function pushChunks() {
+  function pushParagraph() {
     const cleanLines = lines.map(line => line.trim()).filter(Boolean);
-    for (let i = 0; i < cleanLines.length; i += 6) {
-      slides.push({ label, lines: cleanLines.slice(i, i + 6) });
-    }
+    if (cleanLines.length) paragraphs.push({ lines: cleanLines });
     lines = [];
   }
 
@@ -336,18 +357,22 @@ function buildWorshipLeaderLyricsSlides(lyrics) {
     const line = rawLine.trim();
     const section = line.match(/^\[([^\]]+)\]\s*$/);
     if (section) {
-      pushChunks();
-      label = section[1];
+      pushParagraph();
       continue;
     }
     if (!line) {
-      pushChunks();
+      pushParagraph();
       continue;
     }
-    lines.push(line);
+    const lyricLine = stripWorshipLeaderChords(line);
+    if (lyricLine) lines.push(lyricLine);
   }
-  pushChunks();
-  return slides.filter(slide => slide.lines.length);
+  pushParagraph();
+  return paragraphs;
+}
+
+function buildWorshipLeaderLyricsSlides(lyrics) {
+  return buildWorshipLeaderLyricsParagraphs(lyrics).map(paragraph => ({ label: '', lines: paragraph.lines }));
 }
 
 function loadWorshipLeaderLyricsIndex() {
@@ -360,6 +385,7 @@ function loadWorshipLeaderLyricsIndex() {
       const xml = fs.readFileSync(filePath, 'utf8');
       const lyrics = extractXmlTag(xml, 'lyrics');
       if (!lyrics) continue;
+      const paragraphs = buildWorshipLeaderLyricsParagraphs(lyrics);
       const slides = buildWorshipLeaderLyricsSlides(lyrics);
       if (!slides.length) continue;
       bySongId.set(idMatch[1], {
@@ -370,6 +396,7 @@ function loadWorshipLeaderLyricsIndex() {
         author: extractXmlTag(xml, 'author'),
         key: extractXmlTag(xml, 'key'),
         lyrics,
+        paragraphs,
         slides,
         sourceFile: path.relative(ROOT, filePath)
       });
@@ -437,6 +464,7 @@ function worshipLeaderTrackFromRow(row, options = {}) {
   };
   if (options.includeLyrics && lyrics) {
     track.lyricsTitle = lyrics.title || row.title || '';
+    track.lyricsParagraphs = lyrics.paragraphs;
     track.lyricsSlides = lyrics.slides;
     track.lyricsMeta = {
       hymnNumber: lyrics.hymnNumber,
@@ -463,8 +491,12 @@ function audioTrackScreenPayload(track, extra = {}) {
     duration: track.duration,
     worshipLeaderCategories: track.worshipLeaderCategories,
     lyricsTitle: track.lyricsTitle,
+    lyricsParagraphs: track.lyricsParagraphs,
     lyricsSlides: track.lyricsSlides,
     lyricsMeta: track.lyricsMeta,
+    lyricsSlideIndex: 0,
+    lyricsParagraphsPerSlide: 1,
+    lyricsFontSize: 64,
     autoAdvanceLyrics: track.autoAdvanceLyrics,
     ...extra
   };
@@ -920,6 +952,63 @@ function updateScreenState(mode, payload, updatedBy = 'admin') {
   return store.screenState;
 }
 
+function clampNumber(value, min, max, fallback) {
+  const number = Number(value);
+  if (!Number.isFinite(number)) return fallback;
+  return Math.max(min, Math.min(max, number));
+}
+
+function lyricsParagraphsFromPayload(payload = {}) {
+  if (Array.isArray(payload.lyricsParagraphs) && payload.lyricsParagraphs.length) {
+    return payload.lyricsParagraphs
+      .map(paragraph => ({ lines: Array.isArray(paragraph.lines) ? paragraph.lines.map(stripWorshipLeaderChords).filter(Boolean) : [] }))
+      .filter(paragraph => paragraph.lines.length);
+  }
+  if (Array.isArray(payload.lyricsSlides)) {
+    const paragraphs = [];
+    for (const slide of payload.lyricsSlides) {
+      const lines = Array.isArray(slide.lines) ? slide.lines.map(stripWorshipLeaderChords).filter(Boolean) : [];
+      if (!lines.length) continue;
+      const label = String(slide.label || '');
+      const previous = paragraphs[paragraphs.length - 1];
+      if (label && previous?.label === label) previous.lines.push(...lines);
+      else paragraphs.push({ label, lines });
+    }
+    return paragraphs.map(({ lines }) => ({ lines }));
+  }
+  return [];
+}
+
+function updateLyricsScreenCommand(command, commandPayload = {}) {
+  const store = readStore();
+  const state = store.screenState || {};
+  if (state.mode !== 'audio_track') return null;
+  const paragraphs = lyricsParagraphsFromPayload(state.payload);
+  if (!paragraphs.length) return null;
+
+  const payload = { ...(state.payload || {}) };
+  const paragraphCount = clampNumber(commandPayload.lyricsParagraphsPerSlide ?? payload.lyricsParagraphsPerSlide, 1, 4, 1);
+  const pageCount = Math.max(1, Math.ceil(paragraphs.length / paragraphCount));
+  let index = clampNumber(payload.lyricsSlideIndex, 0, pageCount - 1, 0);
+
+  if (command === 'lyrics-next') index = Math.min(pageCount - 1, index + 1);
+  if (command === 'lyrics-prev') index = Math.max(0, index - 1);
+  if (command === 'lyrics-set') index = clampNumber(commandPayload.lyricsSlideIndex, 0, pageCount - 1, index);
+  if (command === 'lyrics-options') {
+    payload.lyricsParagraphsPerSlide = paragraphCount;
+    payload.lyricsFontSize = clampNumber(commandPayload.lyricsFontSize ?? payload.lyricsFontSize, 34, 96, 64);
+    index = clampNumber(commandPayload.lyricsSlideIndex ?? index, 0, pageCount - 1, index);
+  }
+
+  payload.lyricsSlideIndex = index;
+  payload.lyricsParagraphsPerSlide = paragraphCount;
+  payload.lyricsFontSize = clampNumber(payload.lyricsFontSize, 34, 96, 64);
+  store.screenState = { ...state, payload, updatedBy: 'admin', updatedAt: now() };
+  writeStore(store);
+  broadcast({ type: 'state', state: store.screenState });
+  return store.screenState;
+}
+
 function makePlanItem(input) {
   return {
     id: nanoid(10),
@@ -1032,6 +1121,10 @@ app.get('/api/screen/stream', (req, res) => {
 app.post('/api/screen/command', (req, res) => {
   const { command, payload } = req.body;
   if (!command) return res.status(400).json({ error: 'command is required' });
+  if (String(command).startsWith('lyrics-')) {
+    const state = updateLyricsScreenCommand(command, payload || {});
+    if (state) return res.json({ ok: true, state });
+  }
   const event = { type: 'command', command, payload: payload || {}, at: now() };
   broadcast(event);
   res.json({ ok: true, event });
