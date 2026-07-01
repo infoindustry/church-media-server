@@ -5,7 +5,7 @@ import {
   Square, RotateCcw, Search, Upload, Wifi, AlertTriangle, CheckCircle2,
   Video, Radio, Home, Trash2, ClipboardList, SkipForward, SkipBack,
   ListPlus, ArrowUp, ArrowDown, Plus, ExternalLink, Image, Images, Headphones, Volume2,
-  GraduationCap, Clapperboard, Globe2, UsersRound, Star, Lock, Unlock
+  GraduationCap, Clapperboard, Globe2, UsersRound, Star, Lock, Unlock, Folder
 } from 'lucide-react';
 import './styles.css';
 import { supportedLanguages, getLanguageLabel } from './translationLanguages';
@@ -145,6 +145,68 @@ function getLyricsPages(payload = {}) {
   return pages;
 }
 
+function audioStatusLabel(status) {
+  const value = status?.status || 'unknown';
+  if (value === 'ready') return 'Звук готов';
+  if (value === 'playing') return 'Играет';
+  if (value === 'blocked') return 'Браузер заблокировал звук';
+  if (value === 'loading') return 'Загружается MP3';
+  if (value === 'paused') return 'Пауза';
+  if (value === 'error') return 'Ошибка аудио';
+  if (value === 'no-audio') return 'На ТВ нет аудио';
+  return 'Статус звука неизвестен';
+}
+
+function audioStatusTone(status) {
+  const value = status?.status || 'unknown';
+  if (value === 'ready' || value === 'playing') return 'ok';
+  if (value === 'blocked' || value === 'error') return 'danger';
+  if (value === 'loading') return 'warn';
+  return 'muted';
+}
+
+async function reportScreenAudioStatus(status) {
+  try {
+    await fetch('/api/screen/audio-status', postJson(status));
+  } catch {}
+}
+
+function getMediaStatus(media, status, error) {
+  return {
+    status,
+    message: error?.message || '',
+    errorName: error?.name || '',
+    mediaUrl: media?.currentSrc || media?.src || '',
+    currentTime: media?.currentTime || 0,
+    duration: Number.isFinite(media?.duration) ? media.duration : 0,
+    paused: Boolean(media?.paused),
+    muted: Boolean(media?.muted),
+    readyState: media?.readyState || 0,
+    userActivation: Boolean(navigator.userActivation?.hasBeenActive)
+  };
+}
+
+async function tryPlayMedia(media, reason = 'play') {
+  if (!media) {
+    await reportScreenAudioStatus({ status: 'no-audio', message: 'На экране сейчас нет audio/video элемента.' });
+    return false;
+  }
+  await reportScreenAudioStatus(getMediaStatus(media, 'loading'));
+  try {
+    await media.play();
+    await reportScreenAudioStatus(getMediaStatus(media, media.paused ? 'paused' : 'playing'));
+    return true;
+  } catch (error) {
+    const blocked = error?.name === 'NotAllowedError';
+    await reportScreenAudioStatus(getMediaStatus(
+      media,
+      blocked ? 'blocked' : 'error',
+      blocked ? new Error('Нужно один раз нажать на экран ТВ, чтобы браузер разрешил звук.') : error
+    ));
+    return false;
+  }
+}
+
 function App() {
   const path = window.location.pathname;
   if (path.startsWith('/screen')) return <ScreenApp />;
@@ -156,12 +218,17 @@ function App() {
 function AdminApp() {
   const [tab, setTab] = useState('live');
   const [state, setState] = useState(null);
+  const [audioStatus, setAudioStatus] = useState(null);
   const [settings, setSettings] = useState(null);
   const [plan, setPlan] = useState({ servicePlan: [], activePlanIndex: -1 });
   const [notice, setNotice] = useState('');
 
   async function refreshState() {
     setState(await api('/api/screen/state'));
+  }
+
+  async function refreshAudioStatus() {
+    setAudioStatus(await api('/api/screen/audio-status'));
   }
 
   async function refreshPlan() {
@@ -193,6 +260,7 @@ function AdminApp() {
 
   useEffect(() => {
     refreshState();
+    refreshAudioStatus().catch(() => {});
     refreshPlan();
     refreshSettings();
     const es = new EventSource('/api/screen/stream');
@@ -200,6 +268,7 @@ function AdminApp() {
       try {
         const data = JSON.parse(event.data);
         if (data.type === 'state') setState(data.state);
+        if (data.type === 'audio-status') setAudioStatus(data.status);
       } catch {}
     };
     return () => es.close();
@@ -269,11 +338,23 @@ function AdminApp() {
             <button onClick={() => action('Медиа: play', () => api('/api/screen/command', postJson({ command: 'play' })))}><Play size={18} /> Play</button>
             <button onClick={() => action('Медиа: pause', () => api('/api/screen/command', postJson({ command: 'pause' })))}><Pause size={18} /> Pause</button>
             <button onClick={() => action('Медиа: stop', () => api('/api/screen/command', postJson({ command: 'stop' })))}><Square size={18} /> Stop</button>
+            <button onClick={() => action('Старт звука на ТВ отправлен', () => api('/api/screen/command', postJson({ command: 'audio-check' })))}><Volume2 size={18} /> Старт звука на ТВ</button>
             <button onClick={() => action('Слова: назад', () => api('/api/screen/command', postJson({ command: 'lyrics-prev' })))}><SkipBack size={18} /> Слова</button>
             <button onClick={() => action('Слова: вперед', () => api('/api/screen/command', postJson({ command: 'lyrics-next' })))}><SkipForward size={18} /> Слова</button>
             <button onClick={() => action('Назад по плану', () => api('/api/service-plan/previous', { method: 'POST' }))}><SkipBack size={18} /> Назад</button>
             <button className="primary" onClick={() => action('Следующий пункт', () => api('/api/service-plan/next', { method: 'POST' }))}><SkipForward size={18} /> Следующий</button>
             <button className="danger" onClick={() => action('Blank', () => api('/api/blank', postJson({ payload: { title: '', subtitle: '' } })))}><Moon size={18} /> Blank</button>
+          </div>
+          <div className={cx('audio-status-panel', audioStatusTone(audioStatus))}>
+            <div>
+              <strong>{audioStatusLabel(audioStatus)}</strong>
+              <p>
+                {audioStatus?.status === 'blocked'
+                  ? 'На мини-ПК нужно один раз кликнуть по окну ТВ-экрана. В зал ничего не выводится.'
+                  : (audioStatus?.message || audioStatus?.title || 'Нажми “Старт звука на ТВ”, когда на ТВ включена фонограмма.')}
+              </p>
+            </div>
+            <span>{audioStatus?.updatedAt ? new Date(audioStatus.updatedAt).toLocaleTimeString() : '—'}</span>
           </div>
           {liveLyrics && (
             <div className="live-lyrics-control">
@@ -1142,12 +1223,21 @@ function AudioPanel({ action, refreshPlan }) {
   const [tracks, setTracks] = useState([]);
   const [q, setQ] = useState('');
   const [file, setFile] = useState(null);
-  const [form, setForm] = useState({ title: '', language: 'ru', category: 'Фонограммы', tags: '' });
+  const [form, setForm] = useState({ title: '', language: 'ru', category: 'Фонограммы', tags: '', folder: '' });
+  const [previewTrack, setPreviewTrack] = useState(null);
   const [loading, setLoading] = useState(false);
+  const [audioFolder, setAudioFolder] = useState('');
+  const [audioFavoriteOnly, setAudioFavoriteOnly] = useState(false);
+  const [audioUnfiledOnly, setAudioUnfiledOnly] = useState(false);
+  const [audioFolders, setAudioFolders] = useState([]);
+  const [newFolderName, setNewFolderName] = useState('');
   const [wlQ, setWlQ] = useState('');
   const [wlLanguage, setWlLanguage] = useState('ru');
   const [wlType, setWlType] = useState('');
   const [wlCategory, setWlCategory] = useState('');
+  const [wlFolder, setWlFolder] = useState('');
+  const [wlFavoriteOnly, setWlFavoriteOnly] = useState(false);
+  const [wlUnfiledOnly, setWlUnfiledOnly] = useState(false);
   const [wlCategories, setWlCategories] = useState([]);
   const [wlResult, setWlResult] = useState({ total: 0, items: [] });
   const [wlLoading, setWlLoading] = useState(false);
@@ -1155,17 +1245,41 @@ function AudioPanel({ action, refreshPlan }) {
 
   async function load() {
     setLoading(true);
-    try { setTracks(await api(`/api/audio-tracks?q=${encodeURIComponent(q)}`)); }
-    finally { setLoading(false); }
+    try {
+      const params = new URLSearchParams({ q });
+      if (audioFolder) params.set('folder', audioFolder);
+      if (audioFavoriteOnly) params.set('favorite', '1');
+      if (audioUnfiledOnly) params.set('unfiled', '1');
+      const [items] = await Promise.all([
+        api(`/api/audio-tracks?${params}`),
+        new Promise(resolve => setTimeout(resolve, 250))
+      ]);
+      setTracks(items);
+    } finally {
+      setLoading(false);
+    }
   }
 
-  useEffect(() => { load(); }, []);
+  async function loadAudioFolders() {
+    const data = await api('/api/audio-folders');
+    setAudioFolders(data.folders || []);
+  }
+
+  useEffect(() => { load(); loadAudioFolders().catch(() => {}); }, []);
+  useEffect(() => { load(); }, [audioFolder, audioFavoriteOnly, audioUnfiledOnly]);
 
   async function loadWorshipLeader() {
     setWlLoading(true);
     try {
       const params = new URLSearchParams({ q: wlQ, language: wlLanguage, type: wlType, category: wlCategory, limit: '80' });
-      setWlResult(await api(`/api/worshipleader/audio?${params}`));
+      if (wlFolder) params.set('folder', wlFolder);
+      if (wlFavoriteOnly) params.set('favorite', '1');
+      if (wlUnfiledOnly) params.set('unfiled', '1');
+      const [result] = await Promise.all([
+        api(`/api/worshipleader/audio?${params}`),
+        new Promise(resolve => setTimeout(resolve, 250))
+      ]);
+      setWlResult(result);
     } finally {
       setWlLoading(false);
     }
@@ -1181,6 +1295,7 @@ function AudioPanel({ action, refreshPlan }) {
 
   useEffect(() => { loadWorshipLeader(); loadWorshipLeaderCategories().catch(() => {}); }, []);
   useEffect(() => { loadWorshipLeaderCategories().catch(() => {}); }, [wlLanguage, wlType]);
+  useEffect(() => { loadWorshipLeader(); }, [wlFolder, wlFavoriteOnly, wlUnfiledOnly]);
 
   useEffect(() => {
     if (!wlJob || ['done', 'failed', 'cancelled'].includes(wlJob.status)) return;
@@ -1201,6 +1316,26 @@ function AudioPanel({ action, refreshPlan }) {
     setWlJob(job);
   }
 
+  async function createAudioFolder() {
+    const name = newFolderName.trim();
+    if (!name) return;
+    const data = await api('/api/audio-folders', postJson({ name }));
+    setAudioFolders(data.folders || []);
+    setNewFolderName('');
+  }
+
+  async function updateLocalTrack(track, patch) {
+    const next = await api(`/api/audio-tracks/${track.id}`, { method: 'PATCH', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(patch) });
+    setTracks(prev => prev.map(item => item.id === next.id ? next : item));
+    await loadAudioFolders();
+  }
+
+  async function updateWorshipLeaderTrack(track, patch) {
+    const data = await api(`/api/worshipleader/audio/${track.id}/prefs`, { method: 'PUT', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(patch) });
+    setWlResult(prev => ({ ...prev, items: (prev.items || []).map(item => item.id === track.id ? data.track : item) }));
+    await loadAudioFolders();
+  }
+
   async function submit(e) {
     e.preventDefault();
     if (!file) return alert('Выбери MP3/WAV/OGG/M4A файл');
@@ -1208,9 +1343,10 @@ function AudioPanel({ action, refreshPlan }) {
     Object.entries(form).forEach(([k, v]) => fd.append(k, v));
     fd.append('audio', file);
     await api('/api/audio-tracks', { method: 'POST', body: fd });
-    setForm({ title: '', language: 'ru', category: 'Фонограммы', tags: '' });
+    setForm({ title: '', language: 'ru', category: 'Фонограммы', tags: '', folder: form.folder });
     setFile(null);
     await load();
+    await loadAudioFolders();
   }
 
   async function remove(id) {
@@ -1219,6 +1355,10 @@ function AudioPanel({ action, refreshPlan }) {
     await load();
     await refreshPlan();
   }
+
+  const playableTracks = tracks.filter(track => track.mediaUrl);
+  const worshipLeaderItems = (wlResult.items || []).filter(track => track.mediaUrl || track.remoteUrl);
+  const previewSrc = previewTrack?.mediaUrl || previewTrack?.remoteUrl || '';
 
   return (
     <section className="grid two">
@@ -1229,23 +1369,61 @@ function AudioPanel({ action, refreshPlan }) {
           <div className="search-row">
             <Search size={18} />
             <input value={q} onChange={e => setQ(e.target.value)} onKeyDown={e => e.key === 'Enter' && load()} placeholder="Поиск по названию, языку, тегам" />
-            <button onClick={load}>Найти</button>
+            <button onClick={load} disabled={loading}>{loading ? 'Ищу...' : 'Найти'}</button>
+          </div>
+          <div className="audio-folder-tools">
+            <div className="filter-chips category-chips">
+              <button className={cx(!audioFolder && !audioFavoriteOnly && !audioUnfiledOnly && 'active')} onClick={() => { setAudioFolder(''); setAudioFavoriteOnly(false); setAudioUnfiledOnly(false); }}>Все</button>
+              <button className={cx(audioFavoriteOnly && 'active')} onClick={() => { setAudioFavoriteOnly(v => !v); setAudioUnfiledOnly(false); }}>★ Избранное</button>
+              <button className={cx(audioUnfiledOnly && 'active')} onClick={() => { setAudioUnfiledOnly(v => !v); setAudioFolder(''); }}>Без папки</button>
+              {audioFolders.map(folder => (
+                <button key={folder} className={cx(audioFolder === folder && 'active')} onClick={() => { setAudioFolder(audioFolder === folder ? '' : folder); setAudioUnfiledOnly(false); }}>
+                  <Folder size={15} /> {folder}
+                </button>
+              ))}
+            </div>
+            <div className="folder-create-row">
+              <input value={newFolderName} onChange={e => setNewFolderName(e.target.value)} onKeyDown={e => e.key === 'Enter' && createAudioFolder()} placeholder="Новая папка" />
+              <button onClick={createAudioFolder}><Plus size={16} /> Создать</button>
+            </div>
           </div>
         </div>
 
-        <div className="card">
-          <h2>Добавить фонограмму</h2>
+        <details className="card collapsible-tool">
+          <summary>
+            <span>Добавить фонограмму</span>
+            <small>Открыть</small>
+          </summary>
           <form className="form" onSubmit={submit}>
             <label>Название<input value={form.title} onChange={e => setForm({ ...form, title: e.target.value })} placeholder="Название песни / минусовки" /></label>
             <div className="form-row">
               <label>Язык<input value={form.language} onChange={e => setForm({ ...form, language: e.target.value })} placeholder="ru" /></label>
               <label>Категория<input value={form.category} onChange={e => setForm({ ...form, category: e.target.value })} /></label>
             </div>
+            <label>Папка
+              <input list="audio-folder-options" value={form.folder} onChange={e => setForm({ ...form, folder: e.target.value })} placeholder="Например: Гости / Поклонение / Минусовки" />
+            </label>
+            <datalist id="audio-folder-options">
+              {audioFolders.map(folder => <option key={folder} value={folder} />)}
+            </datalist>
             <label>Теги<input value={form.tags} onChange={e => setForm({ ...form, tags: e.target.value })} placeholder="гость, минус, поклонение" /></label>
             <label className="file-input"><Upload size={18} /> <span>{file ? file.name : 'Выбрать MP3/WAV/OGG/M4A'}</span><input type="file" accept="audio/*,.mp3,.wav,.ogg,.m4a,.aac,.flac,.webm" onChange={e => setFile(e.target.files?.[0] || null)} /></label>
             <button className="primary" type="submit"><Upload size={18} /> Добавить фонограмму</button>
           </form>
-        </div>
+        </details>
+
+        {previewSrc && (
+          <div className="card audio-preview-card">
+            <div className="card-title-row compact">
+              <div>
+                <h2>Прослушивание</h2>
+                <p>{previewTrack.title}</p>
+              </div>
+              <button className="icon-btn" onClick={() => setPreviewTrack(null)}><Square size={17} /></button>
+            </div>
+            <audio key={previewSrc} src={previewSrc} controls autoPlay />
+          </div>
+        )}
 
         <div className="card">
           <div className="card-title-row compact">
@@ -1253,7 +1431,7 @@ function AudioPanel({ action, refreshPlan }) {
               <h2>Worship Leader MP3</h2>
               <p>Внешний источник MP3. В рабочий каталог не смешивается: можно включить, добавить в план или скачать найденные файлы локально.</p>
             </div>
-            <span className="result-count">{wlLoading ? '...' : wlResult.total}</span>
+            <span className="result-count">{wlLoading ? '...' : worshipLeaderItems.length}</span>
           </div>
           <div className="song-search-grid learning-search-grid">
             <label className="song-search-main">
@@ -1281,9 +1459,19 @@ function AudioPanel({ action, refreshPlan }) {
                 {wlCategories.map(item => <option key={item.name} value={item.name}>{item.name} ({item.count})</option>)}
               </select>
             </label>
+            <label>Папка
+              <select value={wlFolder} onChange={e => { setWlFolder(e.target.value); if (e.target.value) setWlUnfiledOnly(false); }}>
+                <option value="">Все папки</option>
+                {audioFolders.map(folder => <option key={folder} value={folder}>{folder}</option>)}
+              </select>
+            </label>
+          </div>
+          <div className="filter-chips category-chips">
+            <button className={cx(wlFavoriteOnly && 'active')} onClick={() => setWlFavoriteOnly(v => !v)}>★ Избранное</button>
+            <button className={cx(wlUnfiledOnly && 'active')} onClick={() => { setWlUnfiledOnly(v => !v); setWlFolder(''); }}>Без папки</button>
           </div>
           <div className="button-row">
-            <button onClick={() => { loadWorshipLeader(); loadWorshipLeaderCategories().catch(() => {}); }}><Search size={17} /> Найти</button>
+            <button disabled={wlLoading} onClick={() => { loadWorshipLeader(); loadWorshipLeaderCategories().catch(() => {}); }}><Search size={17} /> {wlLoading ? 'Ищу MP3...' : 'Найти'}</button>
             <button onClick={() => downloadWorshipLeader(80)}><Upload size={17} /> Скачать 80</button>
             <button className="primary" onClick={() => downloadWorshipLeader(0)}><Upload size={17} /> Скачать найденные</button>
           </div>
@@ -1297,8 +1485,8 @@ function AudioPanel({ action, refreshPlan }) {
             </div>
           )}
           <div className="song-list compact-list">
-            {wlResult.items.map(track => (
-              <article className="song-item" key={track.id}>
+            {worshipLeaderItems.map(track => (
+              <article className="song-item audio-item" key={track.id}>
                 <div className="song-select-line">
                   <Headphones size={22} />
                   <div>
@@ -1309,12 +1497,23 @@ function AudioPanel({ action, refreshPlan }) {
                     <span className={cx('badge', track.hasLyrics ? 'ok' : 'warn')}>{track.hasLyrics ? 'Слова есть' : 'Без слов'}</span>
                   </div>
                 </div>
-                <div className="song-actions wrap-actions">
-                  <button className="primary" onClick={() => action('Worship Leader MP3 включен', () => api(`/api/worshipleader/audio/${track.id}/show`, { method: 'POST' }))}><Volume2 size={17} /> На ТВ</button>
-                  <button onClick={() => action('Worship Leader MP3 добавлен в план', () => api(`/api/worshipleader/audio/${track.id}/add-to-plan`, { method: 'POST' }))}><ListPlus size={17} /> В план</button>
+                <div className="song-actions wrap-actions audio-actions">
+                  <div className="audio-meta-actions">
+                    <button className={cx('icon-btn', track.favorite && 'favorite-on')} onClick={() => updateWorshipLeaderTrack(track, { favorite: !track.favorite })} title="Избранное"><Star size={17} /></button>
+                    <select className="inline-folder-select" value={track.folder || ''} onChange={e => updateWorshipLeaderTrack(track, { folder: e.target.value })}>
+                      <option value="">Без папки</option>
+                      {audioFolders.map(folder => <option key={folder} value={folder}>{folder}</option>)}
+                    </select>
+                  </div>
+                  <div className="audio-main-actions">
+                    <button onClick={() => setPreviewTrack(track)}><Play size={17} /> Прослушать</button>
+                    <button className="primary" onClick={() => action('Worship Leader MP3 включен', () => api(`/api/worshipleader/audio/${track.id}/show`, { method: 'POST' }))}><Volume2 size={17} /> На ТВ</button>
+                    <button onClick={() => action('Worship Leader MP3 добавлен в план', () => api(`/api/worshipleader/audio/${track.id}/add-to-plan`, { method: 'POST' }))}><ListPlus size={17} /> В план</button>
+                  </div>
                 </div>
               </article>
             ))}
+            {!wlLoading && worshipLeaderItems.length === 0 && <p>MP3 по фильтрам не найдены.</p>}
           </div>
         </div>
       </div>
@@ -1322,11 +1521,11 @@ function AudioPanel({ action, refreshPlan }) {
       <div className="card">
         <div className="card-title-row">
           <h2>Фонограммы</h2>
-          <span>{loading ? '...' : tracks.length}</span>
+          <span>{loading ? 'Ищу...' : playableTracks.length}</span>
         </div>
         <div className="song-list">
-          {tracks.map(track => (
-            <article className="song-item" key={track.id}>
+          {playableTracks.map(track => (
+            <article className="song-item audio-item" key={track.id}>
               <div className="song-select-line">
                 <Volume2 size={22} />
                 <div>
@@ -1335,14 +1534,23 @@ function AudioPanel({ action, refreshPlan }) {
                   <span className="badge ok">Готово офлайн · audio</span>
                 </div>
               </div>
-              <div className="song-actions wrap-actions">
-                <button className="primary" onClick={() => action('Фонограмма включена', () => api(`/api/audio-tracks/${track.id}/show`, { method: 'POST' }))}><Volume2 size={17} /> На ТВ</button>
-                <button onClick={() => action('Фонограмма добавлена в план', () => api(`/api/audio-tracks/${track.id}/add-to-plan`, { method: 'POST' }))}><ListPlus size={17} /> В план</button>
-                <button className="icon-btn danger" onClick={() => remove(track.id)}><Trash2 size={17} /></button>
+              <div className="song-actions wrap-actions audio-actions">
+                <div className="audio-meta-actions">
+                  <button className={cx('icon-btn', track.favorite && 'favorite-on')} onClick={() => updateLocalTrack(track, { favorite: !track.favorite })} title="Избранное"><Star size={17} /></button>
+                  <select className="inline-folder-select" value={track.folder || ''} onChange={e => updateLocalTrack(track, { folder: e.target.value })}>
+                    <option value="">Без папки</option>
+                    {audioFolders.map(folder => <option key={folder} value={folder}>{folder}</option>)}
+                  </select>
+                </div>
+                <div className="audio-main-actions">
+                  <button onClick={() => setPreviewTrack(track)}><Play size={17} /> Прослушать</button>
+                  <button className="primary" onClick={() => action('Фонограмма включена', () => api(`/api/audio-tracks/${track.id}/show`, { method: 'POST' }))}><Volume2 size={17} /> На ТВ</button>
+                  <button onClick={() => action('Фонограмма добавлена в план', () => api(`/api/audio-tracks/${track.id}/add-to-plan`, { method: 'POST' }))}><ListPlus size={17} /> В план</button>
+                </div>
               </div>
             </article>
           ))}
-          {tracks.length === 0 && <p>Пока нет фонограмм. Загрузи первый MP3 или WAV.</p>}
+          {playableTracks.length === 0 && <p>Пока нет фонограмм с MP3/аудиофайлом.</p>}
         </div>
       </div>
     </section>
@@ -2746,6 +2954,18 @@ function ScreenApp() {
     return () => es.close();
   }, []);
 
+  useEffect(() => {
+    function unlockAudio() {
+      if (mediaRef.current) tryPlayMedia(mediaRef.current, 'screen-click');
+    }
+    window.addEventListener('pointerdown', unlockAudio);
+    window.addEventListener('keydown', unlockAudio);
+    return () => {
+      window.removeEventListener('pointerdown', unlockAudio);
+      window.removeEventListener('keydown', unlockAudio);
+    };
+  }, []);
+
   const payload = state?.payload || {};
 
   return (
@@ -2770,12 +2990,25 @@ function ScreenApp() {
   );
 }
 
-function handleCommand(command, media) {
-  if (!media) return;
-  if (command === 'play') media.play().catch(() => {});
-  if (command === 'pause') media.pause();
-  if (command === 'stop') { media.pause(); media.currentTime = 0; }
-  if (command === 'restart') { media.currentTime = 0; media.play().catch(() => {}); }
+async function handleCommand(command, media) {
+  if (!media) {
+    if (command === 'audio-check') await reportScreenAudioStatus({ status: 'no-audio', message: 'На ТВ сейчас нет фонограммы.' });
+    return;
+  }
+  if (command === 'play' || command === 'audio-check') await tryPlayMedia(media, command);
+  if (command === 'pause') {
+    media.pause();
+    await reportScreenAudioStatus(getMediaStatus(media, 'paused'));
+  }
+  if (command === 'stop') {
+    media.pause();
+    media.currentTime = 0;
+    await reportScreenAudioStatus(getMediaStatus(media, 'paused'));
+  }
+  if (command === 'restart') {
+    media.currentTime = 0;
+    await tryPlayMedia(media, command);
+  }
 }
 
 
@@ -3146,6 +3379,30 @@ function AudioTrackScreen({ payload, mediaRef }) {
   const pages = useMemo(() => getLyricsPages(payload), [payload]);
   const slideIndex = clampNumber(payload.lyricsSlideIndex, 0, Math.max(0, pages.length - 1), 0);
   const fontSize = getLyricsFontSize(payload);
+
+  useEffect(() => {
+    const media = mediaRef.current;
+    if (!media || !payload.mediaUrl) return undefined;
+    reportScreenAudioStatus({ status: 'loading', title: payload.title, mediaUrl: payload.mediaUrl });
+    const onPlaying = () => reportScreenAudioStatus(getMediaStatus(media, 'playing'));
+    const onCanPlay = () => reportScreenAudioStatus(getMediaStatus(media, media.paused ? 'ready' : 'playing'));
+    const onWaiting = () => reportScreenAudioStatus(getMediaStatus(media, 'loading'));
+    const onPause = () => reportScreenAudioStatus(getMediaStatus(media, 'paused'));
+    const onError = () => reportScreenAudioStatus(getMediaStatus(media, 'error', media.error || new Error('Не удалось загрузить MP3.')));
+    media.addEventListener('playing', onPlaying);
+    media.addEventListener('canplay', onCanPlay);
+    media.addEventListener('waiting', onWaiting);
+    media.addEventListener('pause', onPause);
+    media.addEventListener('error', onError);
+    tryPlayMedia(media, 'audio-track-mount');
+    return () => {
+      media.removeEventListener('playing', onPlaying);
+      media.removeEventListener('canplay', onCanPlay);
+      media.removeEventListener('waiting', onWaiting);
+      media.removeEventListener('pause', onPause);
+      media.removeEventListener('error', onError);
+    };
+  }, [payload.mediaUrl, payload.title, mediaRef]);
 
   if (pages.length) {
     const slide = pages[slideIndex] || pages[0];

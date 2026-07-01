@@ -126,11 +126,18 @@ const defaultStore = {
   activeTranslationProviderId: 'captionkit',
   mediaImages: [],
   audioTracks: [],
+  audioFolders: [],
+  worshipLeaderAudioPrefs: {},
   servicePlan: [],
   activePlanIndex: -1,
   screenState: {
     mode: 'welcome',
     payload: { title: 'Добро пожаловать', subtitle: 'Word of God Crossroads Budva', serviceText: 'Служение скоро начнется', language: 'ru', showChurchName: true },
+    updatedAt: new Date().toISOString()
+  },
+  screenAudioStatus: {
+    status: 'unknown',
+    message: 'Статус звука ещё не получен.',
     updatedAt: new Date().toISOString()
   }
 };
@@ -161,9 +168,12 @@ function normalizeStore(store) {
     activeTranslationProviderId: store?.activeTranslationProviderId ?? defaultStore.activeTranslationProviderId,
     mediaImages: Array.isArray(store?.mediaImages) ? store.mediaImages : [],
     audioTracks: Array.isArray(store?.audioTracks) ? store.audioTracks : [],
+    audioFolders: Array.isArray(store?.audioFolders) ? store.audioFolders.filter(Boolean) : [],
+    worshipLeaderAudioPrefs: store?.worshipLeaderAudioPrefs && typeof store.worshipLeaderAudioPrefs === 'object' ? store.worshipLeaderAudioPrefs : {},
     servicePlan: Array.isArray(store?.servicePlan) ? store.servicePlan : [],
     activePlanIndex: Number.isInteger(store?.activePlanIndex) ? store.activePlanIndex : -1,
-    screenState: store?.screenState || defaultStore.screenState
+    screenState: store?.screenState || defaultStore.screenState,
+    screenAudioStatus: store?.screenAudioStatus || defaultStore.screenAudioStatus
   };
 }
 
@@ -183,6 +193,50 @@ function writeStore(store) {
 
 function now() {
   return new Date().toISOString();
+}
+
+function normalizeAudioFolder(value) {
+  return String(value || '').trim().replace(/\s+/g, ' ').slice(0, 60);
+}
+
+function ensureAudioFolder(store, folder) {
+  const clean = normalizeAudioFolder(folder);
+  if (!clean) return '';
+  const folders = Array.isArray(store.audioFolders) ? store.audioFolders.map(normalizeAudioFolder).filter(Boolean) : [];
+  if (!folders.some(item => item.toLowerCase() === clean.toLowerCase())) folders.push(clean);
+  store.audioFolders = folders.sort((a, b) => a.localeCompare(b, 'ru'));
+  return clean;
+}
+
+function getWorshipLeaderAudioPrefs(store, id) {
+  return (store.worshipLeaderAudioPrefs || {})[id] || {};
+}
+
+function setWorshipLeaderAudioPrefs(store, id, patch = {}) {
+  store.worshipLeaderAudioPrefs = store.worshipLeaderAudioPrefs || {};
+  const current = store.worshipLeaderAudioPrefs[id] || {};
+  const next = {
+    ...current,
+    updatedAt: now()
+  };
+  if (patch.favorite !== undefined) next.favorite = Boolean(patch.favorite);
+  if (patch.folder !== undefined) next.folder = ensureAudioFolder(store, patch.folder);
+  if (!next.favorite && !next.folder) delete store.worshipLeaderAudioPrefs[id];
+  else store.worshipLeaderAudioPrefs[id] = next;
+  return store.worshipLeaderAudioPrefs[id] || { favorite: false, folder: '' };
+}
+
+function getAudioFolders(store) {
+  const folders = new Set((store.audioFolders || []).map(normalizeAudioFolder).filter(Boolean));
+  for (const track of store.audioTracks || []) {
+    const folder = normalizeAudioFolder(track.folder);
+    if (folder) folders.add(folder);
+  }
+  for (const prefs of Object.values(store.worshipLeaderAudioPrefs || {})) {
+    const folder = normalizeAudioFolder(prefs?.folder);
+    if (folder) folders.add(folder);
+  }
+  return [...folders].sort((a, b) => a.localeCompare(b, 'ru'));
 }
 
 function normalizeScriptureWeight(value) {
@@ -228,6 +282,11 @@ function localMediaExists(mediaUrl) {
 let worshipLeaderAudioCache = { mtimeMs: 0, rows: [] };
 let worshipLeaderLyricsCache = null;
 const worshipLeaderDownloadJobs = new Map();
+let screenAudioStatus = {
+  status: 'unknown',
+  message: 'Статус звука ещё не получен.',
+  updatedAt: now()
+};
 
 function parseCsvLine(line) {
   const values = [];
@@ -436,6 +495,8 @@ function loadWorshipLeaderAudio() {
 }
 
 function worshipLeaderTrackFromRow(row, options = {}) {
+  const store = options.store || readStore();
+  const prefs = getWorshipLeaderAudioPrefs(store, row.id);
   const isInstrumental = row.type === 'instmp3';
   const local = worshipLeaderLocalAudio(row);
   const hasLocal = fs.existsSync(local.fullPath);
@@ -455,6 +516,8 @@ function worshipLeaderTrackFromRow(row, options = {}) {
     sourceType: 'worshipleader_mp3',
     worshipLeaderSongId: row.song_id,
     worshipLeaderAudioType: row.type,
+    favorite: Boolean(prefs.favorite),
+    folder: prefs.folder || '',
     sourceUrl: `https://songs.worshipleaderapp.com/#songinfo?song_id=${row.song_id}&set_id=`,
     duration: row.duration,
     hasLyrics: Boolean(lyrics),
@@ -952,6 +1015,25 @@ function updateScreenState(mode, payload, updatedBy = 'admin') {
   return store.screenState;
 }
 
+function updateScreenAudioStatus(input = {}) {
+  screenAudioStatus = {
+    status: input.status || 'unknown',
+    message: input.message || '',
+    title: input.title || readStore().screenState?.payload?.title || '',
+    mediaUrl: input.mediaUrl || readStore().screenState?.payload?.mediaUrl || '',
+    currentTime: Number(input.currentTime) || 0,
+    duration: Number(input.duration) || 0,
+    paused: Boolean(input.paused),
+    muted: Boolean(input.muted),
+    readyState: Number(input.readyState) || 0,
+    errorName: input.errorName || '',
+    userActivation: Boolean(input.userActivation),
+    updatedAt: now()
+  };
+  broadcast({ type: 'audio-status', status: screenAudioStatus });
+  return screenAudioStatus;
+}
+
 function clampNumber(value, min, max, fallback) {
   const number = Number(value);
   if (!Number.isFinite(number)) return fallback;
@@ -1096,6 +1178,14 @@ app.get('/api/screen/state', (req, res) => {
   res.json(readStore().screenState);
 });
 
+app.get('/api/screen/audio-status', (req, res) => {
+  res.json(screenAudioStatus);
+});
+
+app.post('/api/screen/audio-status', (req, res) => {
+  res.json(updateScreenAudioStatus(req.body || {}));
+});
+
 app.post('/api/screen/state', (req, res) => {
   const { mode, payload } = req.body;
   if (!mode) return res.status(400).json({ error: 'mode is required' });
@@ -1111,6 +1201,7 @@ app.get('/api/screen/stream', (req, res) => {
   });
   clients.add(res);
   sendSse(res, { type: 'state', state: readStore().screenState });
+  sendSse(res, { type: 'audio-status', status: screenAudioStatus });
   const ping = setInterval(() => sendSse(res, { type: 'ping', time: now() }), 25000);
   req.on('close', () => {
     clearInterval(ping);
@@ -1454,10 +1545,16 @@ app.post('/api/service-plan/add-songs-bulk', (req, res) => {
 
 app.get('/api/worshipleader/audio', (req, res) => {
   const limit = Math.min(250, Math.max(1, Number(req.query.limit) || 80));
-  const rows = filterWorshipLeaderRows(req.query);
+  const store = readStore();
+  let rows = filterWorshipLeaderRows(req.query);
+  const folder = normalizeAudioFolder(req.query.folder);
+  const favoriteOnly = req.query.favorite === '1' || req.query.favorite === 'true';
+  if (favoriteOnly) rows = rows.filter(row => Boolean(getWorshipLeaderAudioPrefs(store, row.id).favorite));
+  if (folder) rows = rows.filter(row => normalizeAudioFolder(getWorshipLeaderAudioPrefs(store, row.id).folder).toLowerCase() === folder.toLowerCase());
+  if (req.query.unfiled === '1' || req.query.unfiled === 'true') rows = rows.filter(row => !normalizeAudioFolder(getWorshipLeaderAudioPrefs(store, row.id).folder));
   res.json({
     total: rows.length,
-    items: rows.slice(0, limit).map(row => worshipLeaderTrackFromRow(row))
+    items: rows.slice(0, limit).map(row => worshipLeaderTrackFromRow(row, { store }))
   });
 });
 
@@ -1534,12 +1631,40 @@ app.post('/api/worshipleader/audio/:id/add-to-plan', (req, res) => {
   res.status(201).json({ item, servicePlan: store.servicePlan });
 });
 
+app.put('/api/worshipleader/audio/:id/prefs', (req, res) => {
+  const row = loadWorshipLeaderAudio().find(item => item.id === req.params.id);
+  if (!row) return res.status(404).json({ error: 'Worship Leader audio not found' });
+  const store = readStore();
+  const prefs = setWorshipLeaderAudioPrefs(store, req.params.id, req.body || {});
+  writeStore(store);
+  res.json({ prefs, track: worshipLeaderTrackFromRow(row, { store }) });
+});
+
+app.get('/api/audio-folders', (req, res) => {
+  const store = readStore();
+  res.json({ folders: getAudioFolders(store) });
+});
+
+app.post('/api/audio-folders', (req, res) => {
+  const store = readStore();
+  const folder = ensureAudioFolder(store, req.body?.name);
+  if (!folder) return res.status(400).json({ error: 'Folder name is required' });
+  writeStore(store);
+  res.status(201).json({ folder, folders: getAudioFolders(store) });
+});
+
 
 app.get('/api/audio-tracks', (req, res) => {
   const store = readStore();
   const q = String(req.query.q || '').trim().toLowerCase();
+  const folder = normalizeAudioFolder(req.query.folder);
+  const favoriteOnly = req.query.favorite === '1' || req.query.favorite === 'true';
+  const unfiledOnly = req.query.unfiled === '1' || req.query.unfiled === 'true';
   let tracks = store.audioTracks || [];
   if (q) tracks = tracks.filter(track => [track.title, track.category, track.language, ...(track.tags || [])].join(' ').toLowerCase().includes(q));
+  if (favoriteOnly) tracks = tracks.filter(track => Boolean(track.favorite));
+  if (folder) tracks = tracks.filter(track => normalizeAudioFolder(track.folder).toLowerCase() === folder.toLowerCase());
+  if (unfiledOnly) tracks = tracks.filter(track => !normalizeAudioFolder(track.folder));
   res.json(tracks.sort((a, b) => String(a.title).localeCompare(String(b.title), 'ru')));
 });
 
@@ -1555,6 +1680,8 @@ app.post('/api/audio-tracks', uploadAudio.single('audio'), (req, res) => {
     language: req.body.language || 'ru',
     category: req.body.category || 'Фонограммы',
     tags,
+    folder: ensureAudioFolder(store, req.body.folder),
+    favorite: false,
     mediaUrl: `/media/audio/${file.filename}`,
     fileName: file.filename,
     originalFileName: file.originalname,
@@ -1566,6 +1693,17 @@ app.post('/api/audio-tracks', uploadAudio.single('audio'), (req, res) => {
   store.audioTracks = [track, ...(store.audioTracks || [])];
   writeStore(store);
   res.status(201).json(track);
+});
+
+app.patch('/api/audio-tracks/:id', (req, res) => {
+  const store = readStore();
+  const track = store.audioTracks.find(a => a.id === req.params.id);
+  if (!track) return res.status(404).json({ error: 'Audio track not found' });
+  if (req.body?.favorite !== undefined) track.favorite = Boolean(req.body.favorite);
+  if (req.body?.folder !== undefined) track.folder = ensureAudioFolder(store, req.body.folder);
+  track.updatedAt = now();
+  writeStore(store);
+  res.json(track);
 });
 
 app.delete('/api/audio-tracks/:id', (req, res) => {
