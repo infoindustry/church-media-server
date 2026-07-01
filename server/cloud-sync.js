@@ -69,6 +69,10 @@ async function refreshDeviceConfig({ baseUrl, token }) {
     process.env.GEMINI_API_KEY = config.geminiApiKey;
     console.log('Gemini translation key loaded from Cloudflare.');
   }
+  if (!process.env.CAPTIONKIT_API_KEY && config.captionKitApiKey) {
+    process.env.CAPTIONKIT_API_KEY = config.captionKitApiKey;
+    console.log('CaptionKit key loaded from Cloudflare.');
+  }
 }
 
 async function syncItem({ baseUrl, token, deviceId, item, readStore, writeStore, mediaDir, now, safeFileName }) {

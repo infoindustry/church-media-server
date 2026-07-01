@@ -8,6 +8,7 @@ import { execFile } from 'child_process';
 import { nanoid } from 'nanoid';
 import QRCode from 'qrcode';
 import http from 'http';
+import crypto from 'crypto';
 import { TranslationHub, attachTranslation, sanitizeLang, getLanUrls } from './translation.js';
 import { startCloudSync } from './cloud-sync.js';
 
@@ -41,12 +42,16 @@ const DATA_DIR = path.join(__dirname, 'data');
 const MEDIA_DIR = path.join(__dirname, 'media');
 const STORE_PATH = path.join(DATA_DIR, 'store.json');
 const PORT = process.env.PORT || 4000;
+const OPENAI_IMAGE_MODEL = process.env.OPENAI_IMAGE_MODEL || 'gpt-image-2';
+const WORSHIPLEADER_MP3_CSV = path.join(ROOT, 'vendor', 'worshipleader', 'mp3-links.csv');
+const WORSHIPLEADER_OPENSONG_DIR = path.join(ROOT, 'vendor', 'worshipleader', 'opensong');
 
 fs.mkdirSync(DATA_DIR, { recursive: true });
 fs.mkdirSync(MEDIA_DIR, { recursive: true });
 fs.mkdirSync(path.join(MEDIA_DIR, 'videos'), { recursive: true });
 fs.mkdirSync(path.join(MEDIA_DIR, 'images'), { recursive: true });
 fs.mkdirSync(path.join(MEDIA_DIR, 'audio'), { recursive: true });
+fs.mkdirSync(path.join(MEDIA_DIR, 'audio', 'worshipleader'), { recursive: true });
 fs.mkdirSync(path.join(MEDIA_DIR, 'thumbs'), { recursive: true });
 fs.mkdirSync(path.join(ROOT, 'vendor', 'bibles'), { recursive: true });
 fs.mkdirSync(path.join(ROOT, 'vendor', 'bibles', 'raw'), { recursive: true });
@@ -215,8 +220,310 @@ function safeFileName(originalName) {
 
 function localMediaExists(mediaUrl) {
   if (!mediaUrl) return false;
+  if (/^https?:\/\//i.test(mediaUrl)) return true;
   const relative = mediaUrl.replace('/media/', '');
   return fs.existsSync(path.join(MEDIA_DIR, relative));
+}
+
+let worshipLeaderAudioCache = { mtimeMs: 0, rows: [] };
+let worshipLeaderLyricsCache = null;
+const worshipLeaderDownloadJobs = new Map();
+
+function parseCsvLine(line) {
+  const values = [];
+  let current = '';
+  let quoted = false;
+  for (let i = 0; i < line.length; i += 1) {
+    const char = line[i];
+    if (char === '"') {
+      if (quoted && line[i + 1] === '"') {
+        current += '"';
+        i += 1;
+      } else {
+        quoted = !quoted;
+      }
+    } else if (char === ',' && !quoted) {
+      values.push(current);
+      current = '';
+    } else {
+      current += char;
+    }
+  }
+  values.push(current);
+  return values;
+}
+
+function stableWorshipLeaderAudioId(row) {
+  return `wl-${row.song_id}-${row.type}-${crypto.createHash('sha1').update(row.path || '').digest('hex').slice(0, 12)}`;
+}
+
+function safeWorshipLeaderFilePart(value) {
+  return String(value || '')
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^\p{L}\p{N}_-]+/gu, '-')
+    .replace(/-+/g, '-')
+    .replace(/^-|-$/g, '')
+    .slice(0, 70) || 'track';
+}
+
+function worshipLeaderLocalAudio(row) {
+  const hash = crypto.createHash('sha1').update(row.path || '').digest('hex').slice(0, 12);
+  const language = safeWorshipLeaderFilePart(row.lang || 'unknown');
+  const type = safeWorshipLeaderFilePart(row.type || 'mp3');
+  const title = safeWorshipLeaderFilePart(row.title || row.song_id || 'track');
+  const fileName = `${row.song_id}-${hash}-${title}.mp3`;
+  const relativePath = path.join('audio', 'worshipleader', language, type, fileName);
+  const fullPath = path.join(MEDIA_DIR, relativePath);
+  return {
+    fullPath,
+    relativePath,
+    mediaUrl: `/media/${relativePath.split(path.sep).join('/')}`
+  };
+}
+
+function parseWorshipLeaderCategories(value) {
+  return [...new Set(String(value || '')
+    .split(';')
+    .map(item => item.trim())
+    .filter(Boolean))];
+}
+
+function decodeXmlText(value) {
+  return String(value || '')
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+    .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'")
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>');
+}
+
+function extractXmlTag(xml, tag) {
+  const match = String(xml || '').match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, 'i'));
+  return match ? decodeXmlText(match[1]).trim() : '';
+}
+
+function walkFiles(rootDir) {
+  if (!fs.existsSync(rootDir)) return [];
+  const files = [];
+  const stack = [rootDir];
+  while (stack.length) {
+    const dir = stack.pop();
+    for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+      const fullPath = path.join(dir, entry.name);
+      if (entry.isDirectory()) stack.push(fullPath);
+      if (entry.isFile() && entry.name !== '.gitkeep') files.push(fullPath);
+    }
+  }
+  return files;
+}
+
+function buildWorshipLeaderLyricsSlides(lyrics) {
+  const slides = [];
+  let label = '';
+  let lines = [];
+
+  function pushChunks() {
+    const cleanLines = lines.map(line => line.trim()).filter(Boolean);
+    for (let i = 0; i < cleanLines.length; i += 6) {
+      slides.push({ label, lines: cleanLines.slice(i, i + 6) });
+    }
+    lines = [];
+  }
+
+  for (const rawLine of String(lyrics || '').replace(/\r/g, '').split('\n')) {
+    const line = rawLine.trim();
+    const section = line.match(/^\[([^\]]+)\]\s*$/);
+    if (section) {
+      pushChunks();
+      label = section[1];
+      continue;
+    }
+    if (!line) {
+      pushChunks();
+      continue;
+    }
+    lines.push(line);
+  }
+  pushChunks();
+  return slides.filter(slide => slide.lines.length);
+}
+
+function loadWorshipLeaderLyricsIndex() {
+  if (worshipLeaderLyricsCache) return worshipLeaderLyricsCache;
+  const bySongId = new Map();
+  for (const filePath of walkFiles(WORSHIPLEADER_OPENSONG_DIR)) {
+    const idMatch = path.basename(filePath).match(/\bi(\d+)\b/i);
+    if (!idMatch || bySongId.has(idMatch[1])) continue;
+    try {
+      const xml = fs.readFileSync(filePath, 'utf8');
+      const lyrics = extractXmlTag(xml, 'lyrics');
+      if (!lyrics) continue;
+      const slides = buildWorshipLeaderLyricsSlides(lyrics);
+      if (!slides.length) continue;
+      bySongId.set(idMatch[1], {
+        songId: idMatch[1],
+        title: extractXmlTag(xml, 'title'),
+        hymnNumber: extractXmlTag(xml, 'hymn_number'),
+        aka: extractXmlTag(xml, 'aka'),
+        author: extractXmlTag(xml, 'author'),
+        key: extractXmlTag(xml, 'key'),
+        lyrics,
+        slides,
+        sourceFile: path.relative(ROOT, filePath)
+      });
+    } catch (error) {
+      console.warn(`Cannot read Worship Leader lyrics ${filePath}:`, error.message);
+    }
+  }
+  worshipLeaderLyricsCache = bySongId;
+  return bySongId;
+}
+
+function getWorshipLeaderLyrics(songId) {
+  if (!songId) return null;
+  return loadWorshipLeaderLyricsIndex().get(String(songId)) || null;
+}
+
+function loadWorshipLeaderAudio() {
+  if (!fs.existsSync(WORSHIPLEADER_MP3_CSV)) return [];
+  const stat = fs.statSync(WORSHIPLEADER_MP3_CSV);
+  if (worshipLeaderAudioCache.rows.length && worshipLeaderAudioCache.mtimeMs === stat.mtimeMs) {
+    return worshipLeaderAudioCache.rows;
+  }
+  const lines = fs.readFileSync(WORSHIPLEADER_MP3_CSV, 'utf8').split(/\r?\n/).filter(Boolean);
+  const header = parseCsvLine(lines.shift() || '');
+  const rows = lines.map(line => {
+    const values = parseCsvLine(line);
+    const row = Object.fromEntries(header.map((key, index) => [key, values[index] || '']));
+    return {
+      ...row,
+      categories: parseWorshipLeaderCategories(row.categories),
+      id: stableWorshipLeaderAudioId(row),
+      duration: Number(row.duration) || 0
+    };
+  }).filter(row => row.song_id && row.path && /^https?:\/\//i.test(row.path));
+  worshipLeaderAudioCache = { mtimeMs: stat.mtimeMs, rows };
+  return rows;
+}
+
+function worshipLeaderTrackFromRow(row, options = {}) {
+  const isInstrumental = row.type === 'instmp3';
+  const local = worshipLeaderLocalAudio(row);
+  const hasLocal = fs.existsSync(local.fullPath);
+  const lyrics = getWorshipLeaderLyrics(row.song_id);
+  const track = {
+    id: row.id,
+    title: `${row.title || `Worship Leader ${row.song_id}`}${isInstrumental ? ' · instrumental' : ''}`,
+    language: row.lang || '',
+    category: isInstrumental ? 'Worship Leader / Instrumental MP3' : 'Worship Leader / Vocal MP3',
+    worshipLeaderCategories: row.categories || [],
+    tags: ['worshipleader', row.type, row.quality, ...(row.categories || [])].filter(Boolean),
+    mediaUrl: hasLocal ? local.mediaUrl : row.path,
+    remoteUrl: row.path,
+    fileName: hasLocal ? path.basename(local.fullPath) : '',
+    originalFileName: row.path,
+    mimeType: 'audio/mpeg',
+    sourceType: 'worshipleader_mp3',
+    worshipLeaderSongId: row.song_id,
+    worshipLeaderAudioType: row.type,
+    sourceUrl: `https://songs.worshipleaderapp.com/#songinfo?song_id=${row.song_id}&set_id=`,
+    duration: row.duration,
+    hasLyrics: Boolean(lyrics),
+    isOfflineReady: hasLocal,
+    createdAt: now(),
+    updatedAt: now()
+  };
+  if (options.includeLyrics && lyrics) {
+    track.lyricsTitle = lyrics.title || row.title || '';
+    track.lyricsSlides = lyrics.slides;
+    track.lyricsMeta = {
+      hymnNumber: lyrics.hymnNumber,
+      aka: lyrics.aka,
+      author: lyrics.author,
+      key: lyrics.key,
+      sourceFile: lyrics.sourceFile
+    };
+    track.autoAdvanceLyrics = true;
+  }
+  return track;
+}
+
+function audioTrackScreenPayload(track, extra = {}) {
+  return {
+    audioId: track.id,
+    title: track.title,
+    language: track.language,
+    category: track.category,
+    mediaUrl: track.mediaUrl,
+    isOfflineReady: Boolean(track.isOfflineReady),
+    sourceType: track.sourceType,
+    sourceUrl: track.sourceUrl,
+    duration: track.duration,
+    worshipLeaderCategories: track.worshipLeaderCategories,
+    lyricsTitle: track.lyricsTitle,
+    lyricsSlides: track.lyricsSlides,
+    lyricsMeta: track.lyricsMeta,
+    autoAdvanceLyrics: track.autoAdvanceLyrics,
+    ...extra
+  };
+}
+
+function filterWorshipLeaderRows(query = {}) {
+  const q = String(query.q || '').trim().toLowerCase();
+  const language = String(query.language || '').trim().toLowerCase();
+  const type = String(query.type || '').trim().toLowerCase();
+  const category = String(query.category || '').trim().toLowerCase();
+  let rows = loadWorshipLeaderAudio();
+  if (language) rows = rows.filter(row => String(row.lang || '').toLowerCase() === language);
+  if (type) rows = rows.filter(row => String(row.type || '').toLowerCase() === type);
+  if (category) rows = rows.filter(row => (row.categories || []).some(item => item.toLowerCase() === category));
+  if (q) {
+    const words = q.split(/\s+/).filter(Boolean);
+    rows = rows.filter(row => {
+      const text = [row.title, row.song_id, row.lang, row.type, row.quality, row.path, ...(row.categories || [])].join(' ').toLowerCase();
+      return words.every(word => text.includes(word));
+    });
+  }
+  return rows.sort((a, b) => String(a.title || '').localeCompare(String(b.title || ''), 'ru'));
+}
+
+async function downloadWorshipLeaderRow(row, job) {
+  const local = worshipLeaderLocalAudio(row);
+  if (fs.existsSync(local.fullPath)) {
+    job.skipped += 1;
+    return;
+  }
+  fs.mkdirSync(path.dirname(local.fullPath), { recursive: true });
+  const partPath = `${local.fullPath}.part`;
+  const response = await fetch(row.path);
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  const arrayBuffer = await response.arrayBuffer();
+  fs.writeFileSync(partPath, Buffer.from(arrayBuffer));
+  fs.renameSync(partPath, local.fullPath);
+  job.downloaded += 1;
+}
+
+async function runWorshipLeaderDownloadJob(job) {
+  job.status = 'running';
+  for (const row of job.rows) {
+    if (job.cancelled) break;
+    job.current = { song_id: row.song_id, title: row.title, type: row.type, lang: row.lang };
+    try {
+      await downloadWorshipLeaderRow(row, job);
+    } catch (error) {
+      job.failed += 1;
+      job.errors.push({ song_id: row.song_id, title: row.title, path: row.path, error: error.message });
+      if (job.errors.length > 20) job.errors.shift();
+    } finally {
+      job.completed += 1;
+      job.updatedAt = now();
+    }
+  }
+  job.status = job.cancelled ? 'cancelled' : 'done';
+  job.current = null;
+  job.updatedAt = now();
 }
 
 const THUMBS_DIR = path.join(MEDIA_DIR, 'thumbs');
@@ -383,6 +690,77 @@ function lookupBible(reference, translationIds) {
   return { ok: true, reference: parsed.normalizedReference, parsed, translations: available, blocks };
 }
 
+function bibleReferenceFromKey(key) {
+  const data = loadBibleData();
+  const [slug, chapterRaw, verseRaw] = String(key || '').split('.');
+  const book = (data.books || []).find(item => item.slug === slug);
+  if (!book || !chapterRaw || !verseRaw) return null;
+  const chapter = Number(chapterRaw);
+  const verse = Number(verseRaw);
+  return {
+    book,
+    chapter,
+    verse,
+    reference: `${book.ru || book.en} ${chapter}:${verse}`
+  };
+}
+
+function searchBibleText(query, translationIds, options = {}) {
+  const data = loadBibleData();
+  const q = normalizeBibleText(query);
+  if (q.length < 2) return { ok: false, error: 'Введите хотя бы 2 символа для поиска.' };
+
+  const words = q.split(' ').filter(Boolean);
+  const available = data.translations || [];
+  const selectedIds = Array.isArray(translationIds) && translationIds.length
+    ? translationIds.filter(id => data.verses?.[id])
+    : ['ru_synodal'];
+  const safeLimit = Math.min(50, Math.max(1, Number(options.limit) || 20));
+  const bookOrder = new Map((data.books || []).map((book, index) => [book.slug, index]));
+  const results = [];
+
+  for (const id of selectedIds) {
+    const translation = available.find(item => item.id === id);
+    const verses = data.verses?.[id] || {};
+    for (const [key, text] of Object.entries(verses)) {
+      const normalized = normalizeBibleText(text);
+      const exact = normalized.includes(q);
+      if (!exact && !words.every(word => normalized.includes(word))) continue;
+      const reference = bibleReferenceFromKey(key);
+      if (!reference) continue;
+      results.push({
+        key,
+        reference: reference.reference,
+        bookSlug: reference.book.slug,
+        chapter: reference.chapter,
+        verse: reference.verse,
+        translationId: id,
+        language: translation?.language || '',
+        shortName: translation?.shortName || translation?.name || id,
+        text,
+        exact
+      });
+    }
+  }
+
+  results.sort((a, b) => {
+    if (a.exact !== b.exact) return a.exact ? -1 : 1;
+    const bookDiff = (bookOrder.get(a.bookSlug) ?? 999) - (bookOrder.get(b.bookSlug) ?? 999);
+    if (bookDiff) return bookDiff;
+    if (a.chapter !== b.chapter) return a.chapter - b.chapter;
+    if (a.verse !== b.verse) return a.verse - b.verse;
+    return a.translationId.localeCompare(b.translationId);
+  });
+
+  return {
+    ok: true,
+    query,
+    normalizedQuery: q,
+    total: results.length,
+    items: results.slice(0, safeLimit)
+  };
+}
+
 function getYouTubeEmbedUrl(url) {
   if (!url) return '';
   try {
@@ -425,6 +803,92 @@ function audioFileFilter(req, file, cb) {
 function imageFileFilter(req, file, cb) {
   const ok = ['image/jpeg', 'image/png', 'image/webp', 'image/gif', 'image/svg+xml'].includes(file.mimetype);
   cb(ok ? null : new Error('Only image files are allowed'), ok);
+}
+
+function normalizeOpenAiImageOption(value, allowed, fallback) {
+  return allowed.includes(value) ? value : fallback;
+}
+
+async function generateOpenAiImage({ prompt, title, category, tags, size, quality, outputFormat }) {
+  const apiKey = process.env.OPENAI_API_KEY;
+  if (!apiKey) {
+    const error = new Error('OPENAI_API_KEY не задан в .env на сервере.');
+    error.status = 400;
+    throw error;
+  }
+
+  const cleanPrompt = String(prompt || '').trim();
+  if (cleanPrompt.length < 8) {
+    const error = new Error('Промпт слишком короткий. Опиши, какую заставку или иллюстрацию нужно создать.');
+    error.status = 400;
+    throw error;
+  }
+
+  const safeSize = normalizeOpenAiImageOption(size, ['1024x1024', '1024x1536', '1536x1024', 'auto'], '1536x1024');
+  const safeQuality = normalizeOpenAiImageOption(quality, ['low', 'medium', 'high', 'auto'], 'medium');
+  const safeFormat = normalizeOpenAiImageOption(outputFormat, ['png', 'webp', 'jpeg'], 'webp');
+  const fullPrompt = [
+    'Create a polished church service screen visual.',
+    'No readable text, no captions, no logos, no watermark unless explicitly requested.',
+    'Make it suitable as a sermon background or worship illustration on a large TV screen.',
+    cleanPrompt
+  ].join('\n');
+
+  const response = await fetch('https://api.openai.com/v1/images/generations', {
+    method: 'POST',
+    headers: {
+      Authorization: `Bearer ${apiKey}`,
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      model: OPENAI_IMAGE_MODEL,
+      prompt: fullPrompt,
+      size: safeSize,
+      quality: safeQuality,
+      output_format: safeFormat,
+      n: 1
+    })
+  });
+
+  const data = await response.json().catch(() => ({}));
+  if (!response.ok) {
+    const error = new Error(data?.error?.message || `OpenAI image generation failed: ${response.status}`);
+    error.status = response.status;
+    throw error;
+  }
+
+  const b64 = data?.data?.[0]?.b64_json;
+  if (!b64) {
+    const error = new Error('OpenAI не вернул изображение в ответе.');
+    error.status = 502;
+    throw error;
+  }
+
+  const buffer = Buffer.from(b64, 'base64');
+  const ext = safeFormat === 'jpeg' ? 'jpg' : safeFormat;
+  const fileName = safeFileName(`${title || 'ai-generated-image'}.${ext}`);
+  const fullPath = path.join(MEDIA_DIR, 'images', fileName);
+  fs.writeFileSync(fullPath, buffer);
+
+  const createdAt = now();
+  return {
+    id: nanoid(10),
+    title: title || 'AI generated image',
+    category: category || 'AI заставки',
+    tags: [...new Set(['ai', 'openai', ...String(tags || '').split(',').map(t => t.trim()).filter(Boolean)])],
+    mediaUrl: `/media/images/${fileName}`,
+    fileName,
+    originalFileName: fileName,
+    mimeType: `image/${safeFormat === 'jpg' ? 'jpeg' : safeFormat}`,
+    sizeBytes: buffer.length,
+    sourceType: 'openai_image',
+    prompt: cleanPrompt,
+    model: OPENAI_IMAGE_MODEL,
+    generationOptions: { size: safeSize, quality: safeQuality, outputFormat: safeFormat },
+    revisedPrompt: data?.data?.[0]?.revised_prompt || '',
+    createdAt,
+    updatedAt: createdAt
+  };
 }
 
 const upload = multer({ storage: videoStorage, limits: { fileSize: 4 * 1024 * 1024 * 1024 } });
@@ -501,7 +965,7 @@ function stateFromPlanItem(item, store) {
     if (!track) return { mode: 'message', payload: { title: item.title, body: 'Фонограмма не найдена в каталоге.' } };
     return {
       mode: 'audio_track',
-      payload: { audioId: track.id, title: track.title, language: track.language, category: track.category, mediaUrl: track.mediaUrl, isOfflineReady: Boolean(track.isOfflineReady), fromPlanItemId: item.id }
+      payload: audioTrackScreenPayload(track, { fromPlanItemId: item.id })
     };
   }
 
@@ -668,6 +1132,17 @@ app.get('/api/bible/lookup', (req, res) => {
     .map(v => v.trim())
     .filter(Boolean);
   const result = lookupBible(reference, translations);
+  if (!result.ok) return res.status(400).json(result);
+  res.json(result);
+});
+
+app.get('/api/bible/search', (req, res) => {
+  const q = String(req.query.q || '');
+  const translations = String(req.query.translations || '')
+    .split(',')
+    .map(v => v.trim())
+    .filter(Boolean);
+  const result = searchBibleText(q, translations, { limit: req.query.limit });
   if (!result.ok) return res.status(400).json(result);
   res.json(result);
 });
@@ -882,6 +1357,88 @@ app.post('/api/service-plan/add-songs-bulk', (req, res) => {
   }
   writeStore(store);
   res.status(201).json({ added, servicePlan: store.servicePlan, activePlanIndex: store.activePlanIndex });
+});
+
+app.get('/api/worshipleader/audio', (req, res) => {
+  const limit = Math.min(250, Math.max(1, Number(req.query.limit) || 80));
+  const rows = filterWorshipLeaderRows(req.query);
+  res.json({
+    total: rows.length,
+    items: rows.slice(0, limit).map(row => worshipLeaderTrackFromRow(row))
+  });
+});
+
+app.get('/api/worshipleader/categories', (req, res) => {
+  const rows = filterWorshipLeaderRows({ ...req.query, category: '' });
+  const counts = new Map();
+  for (const row of rows) {
+    for (const category of row.categories || []) {
+      counts.set(category, (counts.get(category) || 0) + 1);
+    }
+  }
+  const items = [...counts.entries()]
+    .map(([name, count]) => ({ name, count }))
+    .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
+  res.json({ total: items.length, items });
+});
+
+app.post('/api/worshipleader/audio/download', (req, res) => {
+  const rows = filterWorshipLeaderRows(req.body || {});
+  const limit = Number(req.body?.limit) || 0;
+  const selected = limit > 0 ? rows.slice(0, Math.min(limit, rows.length)) : rows;
+  if (!selected.length) return res.status(400).json({ error: 'No Worship Leader MP3 rows match this filter' });
+  const job = {
+    id: nanoid(10),
+    status: 'queued',
+    total: selected.length,
+    completed: 0,
+    downloaded: 0,
+    skipped: 0,
+    failed: 0,
+    errors: [],
+    current: null,
+    rows: selected,
+    filter: {
+      q: req.body?.q || '',
+      language: req.body?.language || '',
+      type: req.body?.type || '',
+      category: req.body?.category || '',
+      limit
+    },
+    createdAt: now(),
+    updatedAt: now()
+  };
+  worshipLeaderDownloadJobs.set(job.id, job);
+  runWorshipLeaderDownloadJob(job).catch(error => {
+    job.status = 'failed';
+    job.errors.push({ error: error.message });
+    job.updatedAt = now();
+  });
+  res.status(202).json({ ...job, rows: undefined });
+});
+
+app.get('/api/worshipleader/audio/download/:id', (req, res) => {
+  const job = worshipLeaderDownloadJobs.get(req.params.id);
+  if (!job) return res.status(404).json({ error: 'Download job not found' });
+  res.json({ ...job, rows: undefined });
+});
+
+app.post('/api/worshipleader/audio/:id/show', (req, res) => {
+  const row = loadWorshipLeaderAudio().find(item => item.id === req.params.id);
+  if (!row) return res.status(404).json({ error: 'Worship Leader audio not found' });
+  const track = worshipLeaderTrackFromRow(row, { includeLyrics: true });
+  res.json(updateScreenState('audio_track', audioTrackScreenPayload(track)));
+});
+
+app.post('/api/worshipleader/audio/:id/add-to-plan', (req, res) => {
+  const row = loadWorshipLeaderAudio().find(item => item.id === req.params.id);
+  if (!row) return res.status(404).json({ error: 'Worship Leader audio not found' });
+  const store = readStore();
+  const track = worshipLeaderTrackFromRow(row, { includeLyrics: true });
+  const item = makePlanItem({ type: 'audio', title: track.title, payload: { audioId: track.id, track } });
+  store.servicePlan.push(item);
+  writeStore(store);
+  res.status(201).json({ item, servicePlan: store.servicePlan });
 });
 
 
@@ -1136,9 +1693,83 @@ function setCaptionLanguage(url, value) {
   }
 }
 
+const CAPTIONKIT_SIGNAL_EVENTS = new Set([
+  'captions:stream:start',
+  'captions:stream:stop',
+  'captions:stream:clear',
+  'captions:pending:on',
+  'captions:pending:off',
+  'captions:visibility:hide',
+  'captions:visibility:show',
+  'language:select'
+]);
+
+const CAPTIONKIT_LANGUAGE_CODES = new Set([
+  'en', 'en-US', 'en-AU', 'en-GB', 'en-NZ',
+  'bg', 'cs', 'da', 'nl', 'fr', 'fr-CA', 'de', 'de-CH',
+  'el', 'hi', 'hu', 'id', 'it', 'ja', 'ko', 'lt', 'ms', 'no',
+  'pl', 'pt', 'pt-BR', 'ro', 'ru', 'es', 'es-419', 'sv', 'th',
+  'tr', 'uk', 'vi', 'zh', 'zh-TW', 'zh-HK'
+]);
+
+function getCaptionKitApiKey() {
+  return process.env.CAPTIONKIT_API_KEY || process.env.CAPTION_KIT_API_KEY || '';
+}
+
+async function sendCaptionKitSignal(event, value) {
+  const apiKey = getCaptionKitApiKey();
+  if (!apiKey) {
+    const error = new Error('CAPTIONKIT_API_KEY не задан в .env на мини-ПК.');
+    error.status = 400;
+    throw error;
+  }
+
+  if (!CAPTIONKIT_SIGNAL_EVENTS.has(event)) {
+    const error = new Error('Неизвестный CaptionKit signal.');
+    error.status = 400;
+    throw error;
+  }
+
+  const body = { event };
+  if (event === 'language:select') {
+    const language = String(value || '').trim();
+    if (!CAPTIONKIT_LANGUAGE_CODES.has(language)) {
+      const error = new Error('Для language:select нужен поддерживаемый CaptionKit language code.');
+      error.status = 400;
+      throw error;
+    }
+    body.value = language;
+  }
+
+  const response = await fetch('https://api.captionkit.io/v2/signal', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'X-API-Key': apiKey
+    },
+    body: JSON.stringify(body)
+  });
+
+  const text = await response.text();
+  let data = null;
+  try { data = text ? JSON.parse(text) : null; } catch {}
+
+  if (!response.ok) {
+    const error = new Error(data?.error || data?.message || text || `CaptionKit signal failed: ${response.status}`);
+    error.status = response.status;
+    throw error;
+  }
+
+  return { ok: true, event, value: body.value || '', response: data || text || null };
+}
+
 app.get('/api/translation/providers', (req, res) => {
   const store = readStore();
-  res.json({ providers: store.translationProviders || [], activeId: store.activeTranslationProviderId || '' });
+  res.json({
+    providers: store.translationProviders || [],
+    activeId: store.activeTranslationProviderId || '',
+    captionKitSignals: { hasApiKey: Boolean(getCaptionKitApiKey()) }
+  });
 });
 
 app.post('/api/translation/providers', (req, res) => {
@@ -1168,6 +1799,14 @@ app.put('/api/translation/providers/:id', (req, res) => {
   }
   writeStore(store);
   res.json(provider);
+});
+
+app.post('/api/translation/captionkit/signal', async (req, res) => {
+  try {
+    res.json(await sendCaptionKitSignal(req.body?.event, req.body?.value));
+  } catch (error) {
+    res.status(error.status || 500).json({ error: error.message || 'CaptionKit signal failed' });
+  }
 });
 
 app.post('/api/translation/providers/:id/caption-font-size', (req, res) => {
@@ -1459,6 +2098,18 @@ app.post('/api/images', uploadImage.single('image'), (req, res) => {
   res.status(201).json(image);
 });
 
+app.post('/api/images/generate', async (req, res) => {
+  try {
+    const store = readStore();
+    const image = await generateOpenAiImage(req.body || {});
+    store.mediaImages = [image, ...(store.mediaImages || [])];
+    writeStore(store);
+    res.status(201).json(image);
+  } catch (error) {
+    res.status(error.status || 500).json({ error: error.message || 'Не удалось сгенерировать картинку' });
+  }
+});
+
 app.delete('/api/images/:id', (req, res) => {
   const store = readStore();
   const image = (store.mediaImages || []).find(i => i.id === req.params.id);
@@ -1632,8 +2283,9 @@ app.get('/api/checkup', (req, res) => {
       if (song.youtubeUrl && !song.mediaUrl) planWarnings.push({ index: index + 1, title: song.title, reason: 'Только YouTube: требуется интернет и возможна реклама' });
     }
     if (item.type === 'audio') {
-      const track = store.audioTracks.find(a => a.id === item.payload?.audioId);
+      const track = store.audioTracks.find(a => a.id === item.payload?.audioId) || item.payload?.track;
       if (!track) planWarnings.push({ index: index + 1, title: item.title, reason: 'Фонограмма удалена из каталога' });
+      else if (/^https?:\/\//i.test(track.mediaUrl || '')) planWarnings.push({ index: index + 1, title: track.title, reason: 'Онлайн MP3: требуется интернет' });
       else if (!localMediaExists(track.mediaUrl)) planWarnings.push({ index: index + 1, title: track.title, reason: 'Аудиофайл не найден' });
     }
     if (item.type === 'translation_qr' && item.payload?.url?.startsWith('http')) {

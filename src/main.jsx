@@ -173,6 +173,8 @@ function AdminApp() {
             <button onClick={() => action('Медиа: play', () => api('/api/screen/command', postJson({ command: 'play' })))}><Play size={18} /> Play</button>
             <button onClick={() => action('Медиа: pause', () => api('/api/screen/command', postJson({ command: 'pause' })))}><Pause size={18} /> Pause</button>
             <button onClick={() => action('Медиа: stop', () => api('/api/screen/command', postJson({ command: 'stop' })))}><Square size={18} /> Stop</button>
+            <button onClick={() => action('Слова: назад', () => api('/api/screen/command', postJson({ command: 'lyrics-prev' })))}><SkipBack size={18} /> Слова</button>
+            <button onClick={() => action('Слова: вперед', () => api('/api/screen/command', postJson({ command: 'lyrics-next' })))}><SkipForward size={18} /> Слова</button>
             <button onClick={() => action('Назад по плану', () => api('/api/service-plan/previous', { method: 'POST' }))}><SkipBack size={18} /> Назад</button>
             <button className="primary" onClick={() => action('Следующий пункт', () => api('/api/service-plan/next', { method: 'POST' }))}><SkipForward size={18} /> Следующий</button>
             <button className="danger" onClick={() => action('Blank', () => api('/api/blank', postJson({ payload: { title: '', subtitle: '' } })))}><Moon size={18} /> Blank</button>
@@ -988,6 +990,14 @@ function AudioPanel({ action, refreshPlan }) {
   const [file, setFile] = useState(null);
   const [form, setForm] = useState({ title: '', language: 'ru', category: 'Фонограммы', tags: '' });
   const [loading, setLoading] = useState(false);
+  const [wlQ, setWlQ] = useState('');
+  const [wlLanguage, setWlLanguage] = useState('ru');
+  const [wlType, setWlType] = useState('');
+  const [wlCategory, setWlCategory] = useState('');
+  const [wlCategories, setWlCategories] = useState([]);
+  const [wlResult, setWlResult] = useState({ total: 0, items: [] });
+  const [wlLoading, setWlLoading] = useState(false);
+  const [wlJob, setWlJob] = useState(null);
 
   async function load() {
     setLoading(true);
@@ -996,6 +1006,46 @@ function AudioPanel({ action, refreshPlan }) {
   }
 
   useEffect(() => { load(); }, []);
+
+  async function loadWorshipLeader() {
+    setWlLoading(true);
+    try {
+      const params = new URLSearchParams({ q: wlQ, language: wlLanguage, type: wlType, category: wlCategory, limit: '80' });
+      setWlResult(await api(`/api/worshipleader/audio?${params}`));
+    } finally {
+      setWlLoading(false);
+    }
+  }
+
+  async function loadWorshipLeaderCategories() {
+    const params = new URLSearchParams({ q: wlQ, language: wlLanguage, type: wlType });
+    const data = await api(`/api/worshipleader/categories?${params}`);
+    const items = data.items || [];
+    setWlCategories(items);
+    if (wlCategory && !items.some(item => item.name === wlCategory)) setWlCategory('');
+  }
+
+  useEffect(() => { loadWorshipLeader(); loadWorshipLeaderCategories().catch(() => {}); }, []);
+  useEffect(() => { loadWorshipLeaderCategories().catch(() => {}); }, [wlLanguage, wlType]);
+
+  useEffect(() => {
+    if (!wlJob || ['done', 'failed', 'cancelled'].includes(wlJob.status)) return;
+    const timer = setInterval(async () => {
+      try { setWlJob(await api(`/api/worshipleader/audio/download/${wlJob.id}`)); } catch {}
+    }, 1500);
+    return () => clearInterval(timer);
+  }, [wlJob]);
+
+  async function downloadWorshipLeader(limit = 0) {
+    const job = await api('/api/worshipleader/audio/download', postJson({
+      q: wlQ,
+      language: wlLanguage,
+      type: wlType,
+      category: wlCategory,
+      limit
+    }));
+    setWlJob(job);
+  }
 
   async function submit(e) {
     e.preventDefault();
@@ -1041,6 +1091,77 @@ function AudioPanel({ action, refreshPlan }) {
             <label className="file-input"><Upload size={18} /> <span>{file ? file.name : 'Выбрать MP3/WAV/OGG/M4A'}</span><input type="file" accept="audio/*,.mp3,.wav,.ogg,.m4a,.aac,.flac,.webm" onChange={e => setFile(e.target.files?.[0] || null)} /></label>
             <button className="primary" type="submit"><Upload size={18} /> Добавить фонограмму</button>
           </form>
+        </div>
+
+        <div className="card">
+          <div className="card-title-row compact">
+            <div>
+              <h2>Worship Leader MP3</h2>
+              <p>Внешний источник MP3. В рабочий каталог не смешивается: можно включить, добавить в план или скачать найденные файлы локально.</p>
+            </div>
+            <span className="result-count">{wlLoading ? '...' : wlResult.total}</span>
+          </div>
+          <div className="song-search-grid learning-search-grid">
+            <label className="song-search-main">
+              <Search size={20} />
+              <input value={wlQ} onChange={e => setWlQ(e.target.value)} onKeyDown={e => e.key === 'Enter' && loadWorshipLeader()} placeholder="Название или ID песни" />
+            </label>
+            <label>Язык
+              <select value={wlLanguage} onChange={e => setWlLanguage(e.target.value)}>
+                <option value="">Все</option>
+                <option value="ru">ru</option>
+                <option value="en">en</option>
+                <option value="uk">uk</option>
+              </select>
+            </label>
+            <label>Тип
+              <select value={wlType} onChange={e => setWlType(e.target.value)}>
+                <option value="">Все MP3</option>
+                <option value="mp3">Вокал</option>
+                <option value="instmp3">Инструментал</option>
+              </select>
+            </label>
+            <label>Категория
+              <select value={wlCategory} onChange={e => setWlCategory(e.target.value)}>
+                <option value="">Все категории</option>
+                {wlCategories.map(item => <option key={item.name} value={item.name}>{item.name} ({item.count})</option>)}
+              </select>
+            </label>
+          </div>
+          <div className="button-row">
+            <button onClick={() => { loadWorshipLeader(); loadWorshipLeaderCategories().catch(() => {}); }}><Search size={17} /> Найти</button>
+            <button onClick={() => downloadWorshipLeader(80)}><Upload size={17} /> Скачать 80</button>
+            <button className="primary" onClick={() => downloadWorshipLeader(0)}><Upload size={17} /> Скачать найденные</button>
+          </div>
+          {wlJob && (
+            <div className="download-status">
+              <strong>{wlJob.status}</strong>
+              <span>{wlJob.completed} / {wlJob.total}</span>
+              <span>скачано: {wlJob.downloaded}</span>
+              <span>уже было: {wlJob.skipped}</span>
+              <span>ошибок: {wlJob.failed}</span>
+            </div>
+          )}
+          <div className="song-list compact-list">
+            {wlResult.items.map(track => (
+              <article className="song-item" key={track.id}>
+                <div className="song-select-line">
+                  <Headphones size={22} />
+                  <div>
+                    <h3>{track.title}</h3>
+                    <p>{track.language} · {track.category} · {track.duration ? `${track.duration}s` : 'MP3'}</p>
+                    {track.worshipLeaderCategories?.length > 0 && <p>{track.worshipLeaderCategories.slice(0, 5).join(' · ')}</p>}
+                    <span className={cx('badge', track.isOfflineReady ? 'ok' : 'warn')}>{track.isOfflineReady ? 'Локально' : 'Онлайн MP3'}</span>
+                    <span className={cx('badge', track.hasLyrics ? 'ok' : 'warn')}>{track.hasLyrics ? 'Слова есть' : 'Без слов'}</span>
+                  </div>
+                </div>
+                <div className="song-actions wrap-actions">
+                  <button className="primary" onClick={() => action('Worship Leader MP3 включен', () => api(`/api/worshipleader/audio/${track.id}/show`, { method: 'POST' }))}><Volume2 size={17} /> На ТВ</button>
+                  <button onClick={() => action('Worship Leader MP3 добавлен в план', () => api(`/api/worshipleader/audio/${track.id}/add-to-plan`, { method: 'POST' }))}><ListPlus size={17} /> В план</button>
+                </div>
+              </article>
+            ))}
+          </div>
         </div>
       </div>
 
@@ -1091,6 +1212,9 @@ function BiblePanel({ action, state }) {
   const bibleLive = state?.mode === 'bible';
   const [preview, setPreview] = useState(null);
   const [loading, setLoading] = useState(false);
+  const [quickSearch, setQuickSearch] = useState('');
+  const [quickResults, setQuickResults] = useState(null);
+  const [quickLoading, setQuickLoading] = useState(false);
   const [manualMode, setManualMode] = useState(false);
   const [bookSlug, setBookSlug] = useState('john');
   const [chapter, setChapter] = useState(7);
@@ -1151,6 +1275,24 @@ function BiblePanel({ action, state }) {
     } finally {
       setLoading(false);
     }
+  }
+
+  async function searchBible(e) {
+    e?.preventDefault();
+    const q = quickSearch.trim();
+    if (q.length < 2) return;
+    setQuickLoading(true);
+    try {
+      const qs = new URLSearchParams({ q, translations: selected.join(','), limit: '20' });
+      setQuickResults(await api(`/api/bible/search?${qs.toString()}`));
+    } finally {
+      setQuickLoading(false);
+    }
+  }
+
+  async function useSearchResult(result) {
+    setReference(result.reference);
+    await lookup(selected, result.reference);
   }
 
   function toggleTranslation(id) {
@@ -1256,6 +1398,41 @@ function BiblePanel({ action, state }) {
         </div>
         <button onClick={() => setManualMode(true)}>Ручной ввод</button>
       </div>
+
+      <form className="bible-quick-search" onSubmit={searchBible}>
+        <label className="song-search-main">
+          <Search size={20} />
+          <input
+            value={quickSearch}
+            onChange={e => setQuickSearch(e.target.value)}
+            placeholder="Быстро найти: любовь, живая вода, не бойся..."
+          />
+        </label>
+        <button type="submit"><Search size={17} /> {quickLoading ? 'Ищу...' : 'Найти'}</button>
+      </form>
+
+      {quickResults && (
+        <div className="bible-search-results">
+          <div className="card-title-row compact">
+            <h3>Найдено: {quickResults.total}</h3>
+            <span>показано {quickResults.items?.length || 0}</span>
+          </div>
+          {(quickResults.items || []).map(result => (
+            <article className="bible-search-result" key={`${result.translationId}-${result.key}`}>
+              <div>
+                <div className="scripture-translation-title">{result.reference} · {result.shortName}</div>
+                <p>{result.text}</p>
+              </div>
+              <div className="song-actions wrap-actions">
+                <button type="button" onClick={() => useSearchResult(result).catch(err => alert(err.message))}>Предпросмотр</button>
+                <button className="primary" type="button" onClick={() => action('Писание показано', () => api('/api/bible/show-reference', postJson({ reference: result.reference, translations: selected, scriptureWeight, fontScale })))}><BookOpen size={17} /> На ТВ</button>
+                <button type="button" onClick={() => action('Писание добавлено в план', () => api('/api/bible/add-reference-to-plan', postJson({ reference: result.reference, translations: selected, scriptureWeight, fontScale })))}><ListPlus size={17} /> В план</button>
+              </div>
+            </article>
+          ))}
+          {quickResults.items?.length === 0 && <p>Ничего не найдено в выбранных переводах.</p>}
+        </div>
+      )}
 
       <div className="bible-selector-panel">
         <div className="form-row three-cols">
@@ -1467,11 +1644,59 @@ const CAPTION_LANGUAGE_OPTIONS = [
   { code: 'nl', label: 'Dutch' }
 ];
 
+const CAPTIONKIT_SIGNAL_LANGUAGES = [
+  ['en', 'English'], ['en-US', 'English (US)'], ['en-AU', 'English (AU)'], ['en-GB', 'English (GB)'], ['en-NZ', 'English (NZ)'],
+  ['ru', 'Russian'], ['uk', 'Ukrainian'], ['sr', 'Serbian (screen URL only)'],
+  ['es', 'Spanish'], ['es-419', 'Spanish (Latin America)'], ['fr', 'French'], ['fr-CA', 'French (Canada)'],
+  ['de', 'German'], ['de-CH', 'German (Switzerland)'], ['it', 'Italian'], ['pt', 'Portuguese'], ['pt-BR', 'Portuguese (Brazil)'],
+  ['pl', 'Polish'], ['ro', 'Romanian'], ['nl', 'Dutch'], ['tr', 'Turkish'], ['zh', 'Chinese Simplified'], ['zh-TW', 'Chinese Traditional']
+].filter(([code]) => code !== 'sr');
+
+function CaptionKitSignalsPanel({ action, signals, onRefresh }) {
+  const [language, setLanguage] = useState('en-US');
+
+  async function send(event, value = '') {
+    await action(`CaptionKit: ${event}`, () => api('/api/translation/captionkit/signal', postJson({ event, value })));
+    await onRefresh?.();
+  }
+
+  return (
+    <div className="card captionkit-signals-card">
+      <div className="card-title-row compact">
+        <div>
+          <h2>CaptionKit Signals</h2>
+          <p>На мини-ПК открой CaptionKit Dashboard, включи кнопку 📡 Signals, а здесь управляй стартом, видимостью и языком с телефона.</p>
+        </div>
+        <span className={cx('badge', signals?.hasApiKey ? 'ok' : 'warn')}>{signals?.hasApiKey ? 'CAPTIONKIT_API_KEY есть' : 'нет CAPTIONKIT_API_KEY'}</span>
+      </div>
+      <div className="captionkit-signal-grid">
+        <button className="primary" disabled={!signals?.hasApiKey} onClick={() => send('captions:stream:start')}><Play size={18} /> Start</button>
+        <button className="danger" disabled={!signals?.hasApiKey} onClick={() => send('captions:stream:stop')}><Square size={18} /> Stop</button>
+        <button disabled={!signals?.hasApiKey} onClick={() => send('captions:stream:clear')}><Trash2 size={18} /> Clear</button>
+        <button disabled={!signals?.hasApiKey} onClick={() => send('captions:pending:on')}>Starting soon</button>
+        <button disabled={!signals?.hasApiKey} onClick={() => send('captions:pending:off')}>Pending off</button>
+        <button disabled={!signals?.hasApiKey} onClick={() => send('captions:visibility:hide')}>Hide</button>
+        <button disabled={!signals?.hasApiKey} onClick={() => send('captions:visibility:show')}>Show</button>
+      </div>
+      <div className="captionkit-language-row">
+        <label>Язык распознавания
+          <select value={language} onChange={e => setLanguage(e.target.value)} disabled={!signals?.hasApiKey}>
+            {CAPTIONKIT_SIGNAL_LANGUAGES.map(([code, label]) => <option key={code} value={code}>{label} · {code}</option>)}
+          </select>
+        </label>
+        <button className="primary" disabled={!signals?.hasApiKey} onClick={() => send('language:select', language)}>Set language</button>
+      </div>
+      {!signals?.hasApiKey && <p className="hint">Добавь `CAPTIONKIT_API_KEY=...` в `.env` на мини-ПК и перезапусти сервер. Сам ключ в браузер не отправляется.</p>}
+    </div>
+  );
+}
+
 function TranslationPanel({ action }) {
   const [providers, setProviders] = useState([]);
   const [activeId, setActiveId] = useState('');
   const [draft, setDraft] = useState(null);
   const [loading, setLoading] = useState(false);
+  const [captionKitSignals, setCaptionKitSignals] = useState({ hasApiKey: false });
 
   async function load() {
     setLoading(true);
@@ -1479,6 +1704,7 @@ function TranslationPanel({ action }) {
       const data = await api('/api/translation/providers');
       setProviders(data.providers || []);
       setActiveId(data.activeId || '');
+      setCaptionKitSignals(data.captionKitSignals || { hasApiKey: false });
     } finally {
       setLoading(false);
     }
@@ -1542,6 +1768,7 @@ function TranslationPanel({ action }) {
   return (
     <div className="stack">
       <LiveTranslationPanel action={action} />
+      <CaptionKitSignalsPanel action={action} signals={captionKitSignals} onRefresh={load} />
     <section className="grid two">
       <div className="stack">
         <div className="card">
@@ -2136,6 +2363,16 @@ function MediaPanel({ action }) {
   const [selected, setSelected] = useState([]);
   const [file, setFile] = useState(null);
   const [form, setForm] = useState({ title: '', category: 'Заставки', tags: '' });
+  const [aiForm, setAiForm] = useState({
+    title: 'Заставка к проповеди',
+    category: 'AI заставки',
+    tags: 'sermon',
+    prompt: '',
+    size: '1536x1024',
+    quality: 'medium',
+    outputFormat: 'webp'
+  });
+  const [generatingImage, setGeneratingImage] = useState(false);
   const [slide, setSlide] = useState({ title: 'Слайдшоу перед служением', intervalSeconds: 6, fit: 'cover' });
 
   async function load() {
@@ -2159,6 +2396,21 @@ function MediaPanel({ action }) {
     setFile(null);
     setForm({ title: '', category: 'Заставки', tags: '' });
     await load();
+  }
+
+  async function generateImage(e) {
+    e.preventDefault();
+    if (!aiForm.prompt.trim()) return alert('Напиши промпт для картинки');
+    setGeneratingImage(true);
+    try {
+      await action('AI-картинка сгенерирована', async () => {
+        await api('/api/images/generate', postJson(aiForm));
+        await load();
+      });
+      setAiForm(prev => ({ ...prev, prompt: '' }));
+    } finally {
+      setGeneratingImage(false);
+    }
   }
 
   async function deleteImage(id) {
@@ -2193,6 +2445,59 @@ function MediaPanel({ action }) {
         </form>
 
         <div className="divider" />
+        <form className="form ai-image-form" onSubmit={generateImage}>
+          <div className="card-title-row compact">
+            <div>
+              <h3>AI-заставка</h3>
+              <p>Сгенерируй иллюстрацию к проповеди или фоновую заставку и сразу сохрани в медиатеку.</p>
+            </div>
+            <span className="badge warn">OpenAI</span>
+          </div>
+          <label>Промпт
+            <textarea
+              rows="5"
+              value={aiForm.prompt}
+              onChange={e => setAiForm({ ...aiForm, prompt: e.target.value })}
+              placeholder="Например: спокойная иллюстрация к проповеди о живой воде, мягкий свет, река, раскрытая Библия, современный церковный экран, без текста"
+            />
+          </label>
+          <div className="form-row">
+            <label>Название<input value={aiForm.title} onChange={e => setAiForm({ ...aiForm, title: e.target.value })} /></label>
+            <label>Категория<input value={aiForm.category} onChange={e => setAiForm({ ...aiForm, category: e.target.value })} /></label>
+          </div>
+          <div className="form-row three-cols">
+            <label>Размер
+              <select value={aiForm.size} onChange={e => setAiForm({ ...aiForm, size: e.target.value })}>
+                <option value="1536x1024">ТВ горизонтальная</option>
+                <option value="1024x1024">Квадрат</option>
+                <option value="1024x1536">Вертикальная</option>
+                <option value="auto">Авто</option>
+              </select>
+            </label>
+            <label>Качество
+              <select value={aiForm.quality} onChange={e => setAiForm({ ...aiForm, quality: e.target.value })}>
+                <option value="medium">Среднее</option>
+                <option value="low">Быстро/дешевле</option>
+                <option value="high">Высокое</option>
+                <option value="auto">Авто</option>
+              </select>
+            </label>
+            <label>Формат
+              <select value={aiForm.outputFormat} onChange={e => setAiForm({ ...aiForm, outputFormat: e.target.value })}>
+                <option value="webp">WebP</option>
+                <option value="png">PNG</option>
+                <option value="jpeg">JPEG</option>
+              </select>
+            </label>
+          </div>
+          <label>Теги<input value={aiForm.tags} onChange={e => setAiForm({ ...aiForm, tags: e.target.value })} placeholder="sermon, easter, youth" /></label>
+          <button className="primary" type="submit" disabled={generatingImage}>
+            <Image size={18} /> {generatingImage ? 'Генерирую...' : 'Сгенерировать картинку'}
+          </button>
+          <p className="hint">Нужен `OPENAI_API_KEY` на сервере. Лучше просить “без текста”, чтобы не получить кривые буквы на заставке.</p>
+        </form>
+
+        <div className="divider" />
         <h3>Слайдшоу из выбранных</h3>
         <div className="form">
           <label>Название слайдшоу<input value={slide.title} onChange={e => setSlide({ ...slide, title: e.target.value })} /></label>
@@ -2221,10 +2526,11 @@ function MediaPanel({ action }) {
                 <img src={img.mediaUrl} alt={img.title} />
                 <span>{selected.includes(img.id) ? '✓ выбрано' : 'выбрать'}</span>
               </button>
-              <div className="media-body">
-                <h3>{img.title}</h3>
-                <p>{img.category}</p>
-                <div className="song-actions wrap-actions">
+                <div className="media-body">
+                  <h3>{img.title}</h3>
+                  <p>{img.category}</p>
+                  {img.sourceType === 'openai_image' && <span className="badge warn">AI · {img.model || 'OpenAI'}</span>}
+                  <div className="song-actions wrap-actions">
                   <button className="primary" onClick={() => action('Картинка показана', () => api(`/api/images/${img.id}/show`, postJson({ fit: 'cover' })))}><Monitor size={17} /> На ТВ</button>
                   <button onClick={() => action('Картинка добавлена в план', () => api(`/api/images/${img.id}/add-to-plan`, postJson({ fit: 'cover' })))}><ListPlus size={17} /> В план</button>
                   <button className="danger" onClick={() => deleteImage(img.id)}><Trash2 size={17} /></button>
@@ -2277,7 +2583,10 @@ function ScreenApp() {
       try {
         const data = JSON.parse(event.data);
         if (data.type === 'state') setState(data.state);
-        if (data.type === 'command') handleCommand(data.command, mediaRef.current);
+        if (data.type === 'command') {
+          window.dispatchEvent(new CustomEvent('screen-command', { detail: data }));
+          handleCommand(data.command, mediaRef.current);
+        }
       } catch {}
     };
     return () => es.close();
@@ -2680,13 +2989,51 @@ function SlideshowScreen({ payload }) {
 
 
 function AudioTrackScreen({ payload, mediaRef }) {
+  const slides = Array.isArray(payload.lyricsSlides) ? payload.lyricsSlides : [];
+  const [slideIndex, setSlideIndex] = useState(0);
+
+  useEffect(() => { setSlideIndex(0); }, [payload.audioId, payload.mediaUrl]);
+
+  useEffect(() => {
+    if (!slides.length) return undefined;
+    function onCommand(event) {
+      const command = event.detail?.command;
+      if (command === 'lyrics-next') setSlideIndex(index => Math.min(slides.length - 1, index + 1));
+      if (command === 'lyrics-prev') setSlideIndex(index => Math.max(0, index - 1));
+    }
+    window.addEventListener('screen-command', onCommand);
+    return () => window.removeEventListener('screen-command', onCommand);
+  }, [slides.length]);
+
+  if (slides.length) {
+    const slide = slides[Math.min(slideIndex, slides.length - 1)] || slides[0];
+    return (
+      <section className="audio-lyrics-screen">
+        <audio key={payload.mediaUrl} ref={mediaRef} src={payload.mediaUrl} autoPlay playsInline />
+        <div className="audio-lyrics-topline">
+          <span>{payload.title || payload.lyricsTitle || 'Фонограмма'}</span>
+          <span>{slideIndex + 1} / {slides.length}</span>
+        </div>
+        <div className="audio-lyrics-slide">
+          {slide.label && <div className="audio-lyrics-label">{slide.label}</div>}
+          <div className="audio-lyrics-lines">
+            {slide.lines.map((line, index) => <p key={index}>{line}</p>)}
+          </div>
+        </div>
+        <div className="audio-lyrics-footer">
+          {payload.isOfflineReady ? 'Локальный MP3' : 'Онлайн MP3'} · ручное листание из admin
+        </div>
+      </section>
+    );
+  }
+
   return (
     <section className="screen-center audio-screen">
       <div className="audio-orb"><Volume2 size={64} /></div>
       <h1>{payload.title || 'Фонограмма'}</h1>
       <p>{payload.category || 'Audio'} {payload.language ? `· ${payload.language}` : ''}</p>
       <audio key={payload.mediaUrl} ref={mediaRef} src={payload.mediaUrl} autoPlay playsInline />
-      <div className="audio-hint">Локальный аудиофайл · офлайн-режим</div>
+      <div className="audio-hint">{payload.isOfflineReady ? 'Локальный аудиофайл · офлайн-режим' : 'Онлайн MP3 · нужен интернет'}</div>
     </section>
   );
 }
