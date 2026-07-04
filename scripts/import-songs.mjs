@@ -10,7 +10,13 @@ const ROOT = path.resolve(__dirname, '..');
 const STORE_PATH = path.join(ROOT, 'server', 'data', 'store.json');
 const VIDEOS_DIR = path.join(ROOT, 'server', 'media', 'videos');
 const AUDIO_DIR = path.join(ROOT, 'server', 'media', 'audio');
-const SONGS_DIR = process.env.SONGS_DIR || path.join(ROOT, 'import-songs');
+const DEFAULT_SONG_DIRS = [
+  path.join(ROOT, 'import-songs'),
+  path.join(ROOT, 'vendor', 'worshipleader', 'opensong')
+];
+const SONG_DIRS = process.env.SONGS_DIR
+  ? process.env.SONGS_DIR.split(path.delimiter).map(dir => path.resolve(dir)).filter(Boolean)
+  : DEFAULT_SONG_DIRS;
 
 const VIDEO_EXT = new Set(['.mp4', '.mov', '.mkv', '.webm', '.m4v', '.avi']);
 const AUDIO_EXT = new Set(['.mp3', '.wav', '.ogg', '.m4a', '.aac', '.flac', '.webm']);
@@ -214,7 +220,7 @@ function metadataFor(relativePath, isAudio) {
 function main() {
   fs.mkdirSync(VIDEOS_DIR, { recursive: true });
   fs.mkdirSync(AUDIO_DIR, { recursive: true });
-  fs.mkdirSync(SONGS_DIR, { recursive: true });
+  for (const dir of SONG_DIRS) fs.mkdirSync(dir, { recursive: true });
 
   if (!fs.existsSync(STORE_PATH)) {
     throw new Error(`Не найден ${STORE_PATH}. Запустите сервер хотя бы один раз.`);
@@ -227,17 +233,17 @@ function main() {
   const alreadySongs = new Set(store.songs.map(s => s.originalFileName).filter(Boolean));
   const alreadyAudio = new Set(store.audioTracks.map(a => a.originalFileName).filter(Boolean));
 
-  const files = walkFiles(SONGS_DIR)
+  const files = SONG_DIRS.flatMap(sourceDir => walkFiles(sourceDir)
     .map(fullPath => ({
       fullPath,
-      relativePath: path.relative(SONGS_DIR, fullPath),
+      relativePath: path.relative(sourceDir, fullPath),
       ext: path.extname(fullPath).toLowerCase()
-    }))
+    })))
     .filter(file => VIDEO_EXT.has(file.ext) || AUDIO_EXT.has(file.ext))
     .sort((a, b) => a.relativePath.localeCompare(b.relativePath, 'ru'));
 
   if (!files.length) {
-    console.log(`Нет видео или аудио в папке: ${SONGS_DIR}`);
+    console.log(`Нет видео или аудио в папках: ${SONG_DIRS.join(', ')}`);
     console.log('Положите туда mp4/mp3-файлы и запустите снова.');
     return;
   }

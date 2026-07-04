@@ -25,7 +25,7 @@ button:disabled { cursor: not-allowed; opacity: .58; }
 .plan-head-actions { display: flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
 .live-card { margin-bottom: 14px; }
 .quick-actions { display: grid; grid-template-columns: repeat(5, minmax(0,1fr)); gap: 10px; margin-top: 16px; }
-.quick-actions button, .big-action, .primary, .search-row button, .card-title-row button, .song-actions button, .bible-quick-search button { display: inline-flex; align-items: center; justify-content: center; gap: 8px; padding: 13px 14px; border-radius: 16px; background: #e2e8f0; color: #0f172a; font-weight: 850; }
+.quick-actions button, .big-action, .primary, .search-row button, .card-title-row button, .song-actions button, .song-actions .download-btn, .bible-quick-search button { display: inline-flex; align-items: center; justify-content: center; gap: 8px; padding: 13px 14px; border-radius: 16px; background: #e2e8f0; color: #0f172a; font-weight: 850; }
 .primary { background: #2563eb !important; color: white !important; }
 .danger { background: #fee2e2 !important; color: #991b1b !important; }
 .icon-btn { width: 44px; height: 44px; border-radius: 16px; display: inline-flex; align-items: center; justify-content: center; background: #e2e8f0; }
@@ -122,7 +122,7 @@ button:disabled { cursor: not-allowed; opacity: .58; }
   .form-row { grid-template-columns: 1fr; }
   .song-item { flex-direction: column; }
   .song-actions { justify-content: stretch; }
-  .song-actions button { flex: 1; }
+  .song-actions button, .song-actions .download-btn { flex: 1; }
   .bilingual-announcement .announcement-copy { grid-template-columns: 1fr; text-align: center; }
   .announcement-english { padding-left: 0; padding-top: 22px; border-left: 0; border-top: 3px solid #ffffff2e; }
 }
@@ -151,7 +151,8 @@ button:disabled { cursor: not-allowed; opacity: .58; }
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 10px;
 }
-.audio-main-actions button {
+.audio-main-actions button,
+.audio-main-actions .download-btn {
   min-width: 0;
   min-height: 46px;
   white-space: nowrap !important;
@@ -494,7 +495,7 @@ button:disabled { cursor: not-allowed; opacity: .58; }
   .mission-grid { grid-template-columns: 1fr; }
   .song-item { width: 100%; max-width: 100%; }
   .song-actions { width: 100%; }
-  .song-actions button { min-width: 0; white-space: normal; overflow-wrap: anywhere; }
+  .song-actions button, .song-actions .download-btn { min-width: 0; white-space: normal; overflow-wrap: anywhere; }
   .audio-item { padding: 14px; gap: 14px; }
   .audio-meta-actions {
     grid-template-columns: 52px minmax(0, 1fr);
@@ -510,7 +511,8 @@ button:disabled { cursor: not-allowed; opacity: .58; }
   .audio-main-actions {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
-  .audio-main-actions button {
+  .audio-main-actions button,
+  .audio-main-actions .download-btn {
     min-height: 50px;
     padding: 11px 10px;
     font-size: 15px;

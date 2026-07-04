@@ -5,7 +5,7 @@ import {
   Square, RotateCcw, Search, Upload, Wifi, AlertTriangle, CheckCircle2,
   Video, Radio, Home, Trash2, ClipboardList, SkipForward, SkipBack,
   ListPlus, ArrowUp, ArrowDown, Plus, ExternalLink, Image, Images, Headphones, Volume2,
-  GraduationCap, Clapperboard, Globe2, UsersRound, Star, Lock, Unlock, Folder
+  GraduationCap, Clapperboard, Globe2, UsersRound, Star, Lock, Unlock, Folder, Download
 } from 'lucide-react';
 import './styles.css';
 import { supportedLanguages, getLanguageLabel } from './translationLanguages';
@@ -1546,6 +1546,7 @@ function AudioPanel({ action, refreshPlan }) {
                   <button onClick={() => setPreviewTrack(track)}><Play size={17} /> Прослушать</button>
                   <button className="primary" onClick={() => action('Фонограмма включена', () => api(`/api/audio-tracks/${track.id}/show`, { method: 'POST' }))}><Volume2 size={17} /> На ТВ</button>
                   <button onClick={() => action('Фонограмма добавлена в план', () => api(`/api/audio-tracks/${track.id}/add-to-plan`, { method: 'POST' }))}><ListPlus size={17} /> В план</button>
+                  {track.mediaUrl && <a className="download-btn" href={track.mediaUrl} download={track.originalFileName || track.fileName || `${track.title || 'audio'}.mp3`}><Download size={17} /> MP3</a>}
                 </div>
               </div>
             </article>
