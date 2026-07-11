@@ -2109,11 +2109,21 @@ function TranslationPanel({ action }) {
 
   function getCaptionLanguage(url) {
     try {
-      const parts = new URL(url).pathname.split('/').filter(Boolean);
+      const parsed = new URL(url);
+      if (parsed.hostname === 'glossa.live') return 'en-US';
+      const parts = parsed.pathname.split('/').filter(Boolean);
       const index = parts.indexOf('l');
       return index !== -1 && parts[index + 1] ? parts[index + 1] : 'en-US';
     } catch {
       return 'en-US';
+    }
+  }
+
+  function isGlossaProvider(provider) {
+    try {
+      return provider.id === 'glossa' || new URL(provider.screenEmbedUrl).hostname === 'glossa.live';
+    } catch {
+      return provider.id === 'glossa';
     }
   }
 
@@ -2147,6 +2157,7 @@ function TranslationPanel({ action }) {
               const isActive = p.id === activeId;
               const captionFontSize = getCaptionFontSize(p.screenEmbedUrl);
               const captionLanguage = getCaptionLanguage(p.screenEmbedUrl);
+              const isGlossa = isGlossaProvider(p);
               return (
                 <article className={cx('song-item', 'provider-item', isActive && 'active-plan-item')} key={p.id}>
                   <div>
@@ -2159,7 +2170,7 @@ function TranslationPanel({ action }) {
                     </div>
                     {p.screenEmbedUrl && (
                       <div className="caption-control-stack">
-                        <div className="caption-language-controls">
+                        {!isGlossa && <div className="caption-language-controls">
                           <label>Язык субтитров
                             <select
                               value={captionLanguage}
@@ -2170,8 +2181,8 @@ function TranslationPanel({ action }) {
                               ))}
                             </select>
                           </label>
-                        </div>
-                        <div className="caption-font-controls">
+                        </div>}
+                        {!isGlossa && <div className="caption-font-controls">
                           <div>
                             <strong>Шрифт субтитров</strong>
                             <span>{captionFontSize}px</span>
@@ -2181,7 +2192,8 @@ function TranslationPanel({ action }) {
                             <button type="button" className="icon-btn" onClick={() => action('Шрифт субтитров увеличен', () => changeCaptionFont(p, captionFontSize + 2))}>A+</button>
                             <button type="button" onClick={() => action('Шрифт субтитров сброшен', () => changeCaptionFont(p, p.id === 'glossa' ? 64 : 10))}>Сброс</button>
                           </div>
-                        </div>
+                        </div>}
+                        {isGlossa && <p className="hint">Glossa iframe keeps Church Media control. Glossa embed is for ProPresenter or direct browser sources.</p>}
                       </div>
                     )}
                   </div>
@@ -3104,6 +3116,9 @@ function TranslationScreen({ payload }) {
 function TranslationCaptionScreen({ payload }) {
   if (!payload.url) {
     return <MessageScreen payload={{ title: payload.title || 'Перевод', body: 'У сервиса не задана ссылка субтитров для экрана.' }} />;
+  }
+  if (payload.openMode === 'direct') {
+    return <MessageScreen payload={{ title: payload.title || 'Live translation', body: `Glossa direct link: ${payload.url}` }} />;
   }
   return (
     <section className="translation-caption-screen">

@@ -15,7 +15,7 @@
     },
     "bible": {
       "scriptureWeight": "low",
-      "fontScale": 1.3
+      "fontScale": 1.4
     }
   },
   "songs": [
@@ -5477,6 +5477,54 @@
   ],
   "announcements": [
     {
+      "id": "OMCftHzTNO",
+      "title": "Время свидетельств",
+      "titleEn": "Time of Testimonies",
+      "body": "Поделитесь кратко тем, что совершил Господь в вашей жизни.\n«Придите, послушайте, все боящиеся Бога, и я возвещу вам, что сотворил Он для души моей». — Псалом 65:16",
+      "bodyEn": "Share briefly what God has done in your life.\n“Come and hear, all you who fear God; let me tell you what he has done for me.” — Psalm 66:16",
+      "lang": "both",
+      "qrUrl": "",
+      "qrImageUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-07-11T19:24:25.094Z"
+    },
+    {
+      "id": "DR4FVBv7Ih",
+      "title": "Общая фотография",
+      "titleEn": "Group photo",
+      "body": "Приглашаем всех сделать общую фотографию на память.",
+      "bodyEn": "We invite everyone to take a group photo as a memory.",
+      "lang": "ru",
+      "qrUrl": "",
+      "qrImageUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-07-05T11:12:22.771Z"
+    },
+    {
+      "id": "qI3Khtvj1W",
+      "title": "Поддержите наше служение",
+      "titleEn": "Support Our Ministry",
+      "body": "Спасибо за вашу поддержку служения.\nВаше участие помогает нам служить людям и распространять Евангелие.",
+      "bodyEn": "Thank you for supporting our ministry.\nYour generosity helps us serve people and share the Gospel.",
+      "lang": "ru",
+      "qrUrl": "",
+      "qrImageUrl": "/buymecoffee.png",
+      "qrDataUrl": "",
+      "createdAt": "2026-07-05T11:11:58.898Z"
+    },
+    {
+      "id": "aW88oYfK5E",
+      "title": "Время свидетельств",
+      "titleEn": "Time of Testimonies",
+      "body": "Поделитесь кратко тем, что совершил Господь в вашей жизни.\n«Придите, послушайте, все боящиеся Бога, и я возвещу вам, что сотворил Он для души моей». — Псалом 65:16",
+      "bodyEn": "Share briefly what God has done in your life.\n“Come and hear, all you who fear God; let me tell you what he has done for me.” — Psalm 66:16",
+      "lang": "ru",
+      "qrUrl": "",
+      "qrImageUrl": "",
+      "qrDataUrl": "",
+      "createdAt": "2026-07-05T09:30:27.221Z"
+    },
+    {
       "id": "L_Pv1F9d3M",
       "title": "Общая фотография",
       "titleEn": "Group photo",
@@ -5971,38 +6019,6 @@
       "qrUrl": "",
       "qrDataUrl": "",
       "createdAt": "2026-05-30T18:01:00.961Z"
-    },
-    {
-      "id": "-C9REYG7F_",
-      "title": "Пожертвование",
-      "body": "Спасибо за вашу поддержку служения.\nВы можете сделать пожертвование, отсканировав QR-код.",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-05-30T17:29:41.219Z"
-    },
-    {
-      "id": "utEuzEIV_w",
-      "title": "После служения",
-      "body": "Оставайтесь на общение и чай после служения.",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-05-30T17:29:35.807Z"
-    },
-    {
-      "id": "c6XBn6qO5-",
-      "title": "Добро пожаловать!",
-      "body": "Мы рады видеть вас на служении. После служения будем рады познакомиться с вами.",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-05-30T17:29:30.208Z"
-    },
-    {
-      "id": "YtZErOPjOV",
-      "title": "Добро пожаловать!",
-      "body": "Мы рады видеть вас на служении. После служения будем рады познакомиться с вами.",
-      "qrUrl": "",
-      "qrDataUrl": "",
-      "createdAt": "2026-05-30T17:29:30.007Z"
     }
   ],
   "externalLinks": [
@@ -6073,26 +6089,155 @@
       "id": "captionkit",
       "name": "CaptionKit",
       "audienceUrl": "https://captionkit.io/c/word-of-god",
-      "screenEmbedUrl": "https://captionkit.io/f/word-of-god?fontSize=12",
+      "screenEmbedUrl": "https://captionkit.io/f/word-of-god/l/nl?fontSize=12",
       "languages": "English, Srpski",
       "audienceInstructions": "Scan the QR code to read or listen to the live translation in your language.\nFor audio, please use headphones.",
       "rtmpUrl": "",
       "rtmpKey": "",
-      "updatedAt": "2026-06-17T20:10:13.566Z"
+      "updatedAt": "2026-07-11T19:14:24.255Z"
     },
     {
       "id": "glossa",
-      "name": "Glossa",
+      "name": "Glossa iframe",
       "audienceUrl": "https://glossa.live/services/934aae72-9b38-45f0-a85f-233d4b1af7f2",
-      "screenEmbedUrl": "https://glossa.live/embed/934aae72-9b38-45f0-a85f-233d4b1af7f2?bg=000000&color=ffffff&font-size=64px&align=center",
+      "screenEmbedUrl": "https://glossa.live/iframe/934aae72-9b38-45f0-a85f-233d4b1af7f2",
       "languages": "English, Srpski",
       "audienceInstructions": "Scan the QR code to read or listen to the live translation in your language.\nFor audio, please use headphones.",
       "rtmpUrl": "rtmp://stream.glossa.live:1935/live",
-      "rtmpKey": ""
+      "rtmpKey": "glossa_OTM0YWFlNzItOWIzOC00NWYwLWE4NWYtMjMzZDRiMWFmN2YyOnJ1",
+      "updatedAt": "2026-07-11T19:43:07.599Z"
+    },
+    {
+      "id": "glossa-embed",
+      "name": "Glossa embed · ProPresenter/direct",
+      "audienceUrl": "https://glossa.live/services/934aae72-9b38-45f0-a85f-233d4b1af7f2",
+      "screenEmbedUrl": "https://glossa.live/embed/934aae72-9b38-45f0-a85f-233d4b1af7f2",
+      "languages": "English, Srpski",
+      "audienceInstructions": "Scan the QR code to read or listen to the live translation in your language.\nFor audio, please use headphones.",
+      "rtmpUrl": "rtmp://stream.glossa.live:1935/live",
+      "rtmpKey": "glossa_OTM0YWFlNzItOWIzOC00NWYwLWE4NWYtMjMzZDRiMWFmN2YyOnJ1",
+      "updatedAt": "2026-07-11T19:43:07.599Z"
     }
   ],
-  "activeTranslationProviderId": "captionkit",
+  "activeTranslationProviderId": "glossa",
   "mediaImages": [
+    {
+      "id": "ypPat8qS5e",
+      "title": "IMG_2954.jpeg",
+      "category": "Заставки",
+      "tags": [],
+      "mediaUrl": "/media/images/1783250106688-IMG_2954.jpeg",
+      "fileName": "1783250106688-IMG_2954.jpeg",
+      "originalFileName": "IMG_2954.jpeg",
+      "mimeType": "image/jpeg",
+      "sizeBytes": 5798186,
+      "createdAt": "2026-07-05T11:15:08.443Z",
+      "updatedAt": "2026-07-05T11:15:08.443Z"
+    },
+    {
+      "id": "eR74yUn1w8",
+      "title": "Заставка к проповеди",
+      "category": "AI заставки",
+      "tags": [
+        "ai",
+        "openai",
+        "sermon"
+      ],
+      "mediaUrl": "/media/images/1783248475823-Заставка-к-проповеди.webp",
+      "fileName": "1783248475823-Заставка-к-проповеди.webp",
+      "originalFileName": "1783248475823-Заставка-к-проповеди.webp",
+      "mimeType": "image/webp",
+      "sizeBytes": 1410470,
+      "sourceType": "openai_image",
+      "prompt": "Причастие",
+      "model": "gpt-image-2",
+      "generationOptions": {
+        "size": "1536x1024",
+        "quality": "medium",
+        "outputFormat": "webp"
+      },
+      "revisedPrompt": "",
+      "createdAt": "2026-07-05T10:47:55.824Z",
+      "updatedAt": "2026-07-05T10:47:55.824Z"
+    },
+    {
+      "id": "nqygQqjDRh",
+      "title": "Заставка к проповеди",
+      "category": "AI заставки",
+      "tags": [
+        "ai",
+        "openai",
+        "sermon"
+      ],
+      "mediaUrl": "/media/images/1783245860216-Заставка-к-проповеди.webp",
+      "fileName": "1783245860216-Заставка-к-проповеди.webp",
+      "originalFileName": "1783245860216-Заставка-к-проповеди.webp",
+      "mimeType": "image/webp",
+      "sizeBytes": 1560080,
+      "sourceType": "openai_image",
+      "prompt": "Камень Божий будь камнем заставка",
+      "model": "gpt-image-2",
+      "generationOptions": {
+        "size": "1536x1024",
+        "quality": "medium",
+        "outputFormat": "webp"
+      },
+      "revisedPrompt": "",
+      "createdAt": "2026-07-05T10:04:20.224Z",
+      "updatedAt": "2026-07-05T10:04:20.224Z"
+    },
+    {
+      "id": "cAaC_Rxd2_",
+      "title": "Заставка к проповеди",
+      "category": "AI заставки",
+      "tags": [
+        "ai",
+        "openai",
+        "sermon"
+      ],
+      "mediaUrl": "/media/images/1783245783704-Заставка-к-проповеди.webp",
+      "fileName": "1783245783704-Заставка-к-проповеди.webp",
+      "originalFileName": "1783245783704-Заставка-к-проповеди.webp",
+      "mimeType": "image/webp",
+      "sizeBytes": 1903462,
+      "sourceType": "openai_image",
+      "prompt": "Камни живые устройте из себя дом",
+      "model": "gpt-image-2",
+      "generationOptions": {
+        "size": "1536x1024",
+        "quality": "medium",
+        "outputFormat": "webp"
+      },
+      "revisedPrompt": "",
+      "createdAt": "2026-07-05T10:03:03.706Z",
+      "updatedAt": "2026-07-05T10:03:03.706Z"
+    },
+    {
+      "id": "g38VcjyoNV",
+      "title": "Заставка к проповеди",
+      "category": "AI заставки",
+      "tags": [
+        "ai",
+        "openai",
+        "sermon"
+      ],
+      "mediaUrl": "/media/images/1783245646951-Заставка-к-проповеди.webp",
+      "fileName": "1783245646951-Заставка-к-проповеди.webp",
+      "originalFileName": "1783245646951-Заставка-к-проповеди.webp",
+      "mimeType": "image/webp",
+      "sizeBytes": 1495864,
+      "sourceType": "openai_image",
+      "prompt": "В благословении ли ты для других? Картинка для проповеди",
+      "model": "gpt-image-2",
+      "generationOptions": {
+        "size": "1536x1024",
+        "quality": "medium",
+        "outputFormat": "webp"
+      },
+      "revisedPrompt": "",
+      "createdAt": "2026-07-05T10:00:46.953Z",
+      "updatedAt": "2026-07-05T10:00:46.953Z"
+    },
     {
       "id": "KddOupsq-I",
       "title": "IMG_2802.jpeg",
@@ -6265,6 +6410,40 @@
     }
   ],
   "audioTracks": [
+    {
+      "id": "Bh0AWy5xcT",
+      "title": "Плакал Бог минус",
+      "language": "ru",
+      "category": "Поклонение",
+      "tags": [
+        "Сольное"
+      ],
+      "fileName": "1783241078956-Патмос-Чернигов-Плакал-Бог-минус-fonki-pro.mp3",
+      "originalFileName": "Патмос Чернигов – Плакал Бог (минус) - fonki.pro.mp3",
+      "mimeType": "audio/mpeg",
+      "cloudItemId": "3a92ff94-fab7-4766-adda-84b53d9f15d1",
+      "isOfflineReady": true,
+      "createdAt": "2026-07-05T08:45:37.485Z",
+      "updatedAt": "2026-07-05T08:45:37.485Z",
+      "mediaUrl": "/media/audio/1783241078956-Патмос-Чернигов-Плакал-Бог-минус-fonki-pro.mp3"
+    },
+    {
+      "id": "VjrECN1zpT",
+      "title": "Плакал Бог",
+      "language": "ru",
+      "category": "Поклонение",
+      "tags": [
+        "Срльное"
+      ],
+      "fileName": "1783241053495-Патмос-Чернигов-Плакал-Бог-минус-fonki-pro.mp3",
+      "originalFileName": "Патмос Чернигов – Плакал Бог (минус) - fonki.pro.mp3",
+      "mimeType": "audio/mpeg",
+      "cloudItemId": "f1c94d0d-8886-4146-9a81-6dc43c01ef0c",
+      "isOfflineReady": true,
+      "createdAt": "2026-07-05T08:44:38.411Z",
+      "updatedAt": "2026-07-05T08:44:38.411Z",
+      "mediaUrl": "/media/audio/1783241053495-Патмос-Чернигов-Плакал-Бог-минус-fonki-pro.mp3"
+    },
     {
       "id": "qQvDUg3-Tv",
       "title": "ЕЗЕР - Пой Господу, вся земля",
@@ -13972,21 +14151,60 @@
         "songId": "A-X3MlWAFF"
       },
       "createdAt": "2026-06-28T15:25:28.770Z"
+    },
+    {
+      "id": "UuEAJF9EJ_",
+      "type": "song",
+      "title": "- Боже, я молюсь за Україну",
+      "payload": {
+        "songId": "vlOSundYWG"
+      },
+      "createdAt": "2026-07-05T08:55:04.980Z"
+    },
+    {
+      "id": "o1S1sTvemE",
+      "type": "bible",
+      "title": "1 Петра 2:4-5",
+      "payload": {
+        "reference": "1 Петра 2:4-5",
+        "blocks": [
+          {
+            "translationId": "ru_synodal",
+            "language": "ru",
+            "name": "Синодальный перевод",
+            "shortName": "Синодальный",
+            "reference": "1 Петра 2:4-5",
+            "text": "4. Приступая к Нему, камню живому, человеками отверженному, но Богом избранному, драгоценному,\n5. и сами, как живые камни, устрояйте из себя дом духовный, священство святое, чтобы приносить духовные жертвы, благоприятные Богу Иисусом Христом.",
+            "missing": false
+          }
+        ],
+        "text": "Синодальный:\n4. Приступая к Нему, камню живому, человеками отверженному, но Богом избранному, драгоценному,\n5. и сами, как живые камни, устрояйте из себя дом духовный, священство святое, чтобы приносить духовные жертвы, благоприятные Богу Иисусом Христом.",
+        "language": "ru",
+        "translation": "Синодальный",
+        "primaryTranslation": "ru_synodal",
+        "selectedTranslations": [
+          "ru_synodal"
+        ],
+        "scriptureWeight": "low",
+        "fontScale": 1.1
+      },
+      "createdAt": "2026-07-05T10:06:33.143Z"
     }
   ],
   "activePlanIndex": 1,
   "screenState": {
-    "mode": "song_video",
+    "mode": "translation_caption",
     "payload": {
-      "songId": "vlOSundYWG",
-      "title": "- Боже, я молюсь за Україну",
-      "language": "ua",
-      "category": "Поклонение",
-      "mediaUrl": "/media/videos/1780161185145-183-Боже-я-молюсь-за-Украіну-mp4.mp4",
-      "isOfflineReady": true
+      "captionFontSize": 10,
+      "captionLanguage": "en-US",
+      "providerId": "glossa",
+      "openMode": "iframe",
+      "languages": "English, Srpski",
+      "title": "Glossa iframe",
+      "url": "https://glossa.live/iframe/934aae72-9b38-45f0-a85f-233d4b1af7f2"
     },
     "updatedBy": "admin",
-    "updatedAt": "2026-07-04T18:22:32.535Z"
+    "updatedAt": "2026-07-11T20:03:17.402Z"
   },
   "screenAudioStatus": {
     "status": "unknown",

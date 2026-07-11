@@ -114,16 +114,26 @@ const defaultStore = {
     },
     {
       id: 'glossa',
-      name: 'Glossa',
+      name: 'Glossa iframe',
       audienceUrl: 'https://glossa.live/services/934aae72-9b38-45f0-a85f-233d4b1af7f2',
-      screenEmbedUrl: 'https://glossa.live/embed/934aae72-9b38-45f0-a85f-233d4b1af7f2?bg=000000&color=ffffff&font-size=64px&align=center',
+      screenEmbedUrl: 'https://glossa.live/iframe/934aae72-9b38-45f0-a85f-233d4b1af7f2',
+      languages: 'English, Srpski',
+      audienceInstructions: 'Scan the QR code to read or listen to the live translation in your language.\nFor audio, please use headphones.',
+      rtmpUrl: 'rtmp://stream.glossa.live:1935/live',
+      rtmpKey: ''
+    },
+    {
+      id: 'glossa-embed',
+      name: 'Glossa embed · ProPresenter/direct',
+      audienceUrl: 'https://glossa.live/services/934aae72-9b38-45f0-a85f-233d4b1af7f2',
+      screenEmbedUrl: 'https://glossa.live/embed/934aae72-9b38-45f0-a85f-233d4b1af7f2',
       languages: 'English, Srpski',
       audienceInstructions: 'Scan the QR code to read or listen to the live translation in your language.\nFor audio, please use headphones.',
       rtmpUrl: 'rtmp://stream.glossa.live:1935/live',
       rtmpKey: ''
     }
   ],
-  activeTranslationProviderId: 'captionkit',
+  activeTranslationProviderId: 'glossa',
   mediaImages: [],
   audioTracks: [],
   audioFolders: [],
@@ -1844,14 +1854,36 @@ async function buildTranslationQrPayload(provider) {
 }
 
 function buildTranslationCaptionPayload(provider) {
+  const screenEmbedUrl = normalizeCaptionScreenEmbedUrl(provider.screenEmbedUrl);
+  const openMode = getCaptionOpenMode(screenEmbedUrl);
   return {
     providerId: provider.id,
     title: provider.name || 'Live translation',
-    url: provider.screenEmbedUrl || '',
+    url: screenEmbedUrl || '',
+    openMode,
     languages: provider.languages || '',
-    captionFontSize: getCaptionFontSize(provider.screenEmbedUrl),
-    captionLanguage: getCaptionLanguage(provider.screenEmbedUrl)
+    captionFontSize: getCaptionFontSize(screenEmbedUrl),
+    captionLanguage: getCaptionLanguage(screenEmbedUrl)
   };
+}
+
+function getCaptionOpenMode(url) {
+  return 'iframe';
+}
+
+function normalizeCaptionScreenEmbedUrl(url) {
+  if (!url) return '';
+  try {
+    const parsed = new URL(url);
+    if (parsed.hostname !== 'glossa.live') return parsed.toString();
+    const parts = parsed.pathname.split('/').filter(Boolean);
+    const view = parts[0] === 'embed' ? 'embed' : 'iframe';
+    const serviceId = parts[1] || parts[0] || '';
+    if (!serviceId) return parsed.toString();
+    return `https://glossa.live/${view}/${encodeURIComponent(serviceId)}`;
+  } catch {
+    return url;
+  }
 }
 
 function getCaptionFontSize(url) {
@@ -1878,6 +1910,9 @@ function setCaptionFontSize(url, value) {
   if (!url) return { url, size };
   try {
     const parsed = new URL(url);
+    if (parsed.hostname === 'glossa.live') {
+      return { url: normalizeCaptionScreenEmbedUrl(url), size };
+    }
     if (parsed.searchParams.has('font-size')) {
       parsed.searchParams.set('font-size', `${size}px`);
     } else {
@@ -1897,7 +1932,9 @@ function normalizeCaptionLanguage(value) {
 function getCaptionLanguage(url) {
   if (!url) return 'en-US';
   try {
-    const parts = new URL(url).pathname.split('/').filter(Boolean);
+    const parsed = new URL(url);
+    if (parsed.hostname === 'glossa.live') return 'en-US';
+    const parts = parsed.pathname.split('/').filter(Boolean);
     const index = parts.indexOf('l');
     return normalizeCaptionLanguage(index !== -1 ? parts[index + 1] : 'en-US');
   } catch {
@@ -1910,6 +1947,9 @@ function setCaptionLanguage(url, value) {
   if (!url) return { url, language };
   try {
     const parsed = new URL(url);
+    if (parsed.hostname === 'glossa.live') {
+      return { url: normalizeCaptionScreenEmbedUrl(url), language };
+    }
     const parts = parsed.pathname.split('/').filter(Boolean);
     const index = parts.indexOf('l');
     if (index === -1) {
