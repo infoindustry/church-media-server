@@ -1111,6 +1111,36 @@ function makePlanItem(input) {
   };
 }
 
+function escapeWifiQrValue(value) {
+  return String(value || '').replace(/([\\;,":])/g, '\\$1');
+}
+
+function normalizeWifiSecurity(value) {
+  return ['WPA', 'WEP', 'nopass'].includes(value) ? value : 'WPA';
+}
+
+async function buildWifiPayload(input = {}) {
+  const ssid = String(input.ssid || 'Word of God').trim() || 'Word of God';
+  const security = normalizeWifiSecurity(input.security || 'WPA');
+  const password = String(input.password ?? '56382006');
+  const wifiQrText = security === 'nopass'
+    ? `WIFI:T:nopass;S:${escapeWifiQrValue(ssid)};H:false;;`
+    : `WIFI:T:${security};S:${escapeWifiQrValue(ssid)};P:${escapeWifiQrValue(password)};H:false;;`;
+  const qrDataUrl = await QRCode.toDataURL(wifiQrText, { margin: 1, width: 760 });
+  return {
+    ssid,
+    password,
+    security,
+    standard: String(input.standard || 'Wi-Fi 4 (802.11n)').trim() || 'Wi-Fi 4 (802.11n)',
+    title: input.title || 'Подключитесь к Wi-Fi',
+    titleEn: input.titleEn || 'Connect to Wi-Fi',
+    body: input.body || 'Отсканируйте QR-код или подключитесь вручную.',
+    bodyEn: input.bodyEn || 'Scan the QR code or connect manually.',
+    lang: ['ru', 'en', 'both'].includes(input.lang) ? input.lang : 'both',
+    qrDataUrl
+  };
+}
+
 function stateFromPlanItem(item, store) {
   if (!item) return null;
   const payload = item.payload || {};
@@ -1154,6 +1184,7 @@ function stateFromPlanItem(item, store) {
   if (item.type === 'translation_qr') return { mode: 'translation_qr', payload: { ...payload, fromPlanItemId: item.id } };
   if (item.type === 'translation_caption') return { mode: 'translation_caption', payload: { ...payload, fromPlanItemId: item.id } };
   if (item.type === 'announcement') return { mode: 'announcement', payload: { ...payload, fromPlanItemId: item.id } };
+  if (item.type === 'wifi') return { mode: 'wifi', payload: { ...payload, fromPlanItemId: item.id } };
   if (item.type === 'external_board') return { mode: 'external_board', payload: { ...payload, fromPlanItemId: item.id } };
   if (item.type === 'image') return { mode: 'image', payload: { ...payload, fromPlanItemId: item.id } };
   if (item.type === 'slideshow') return { mode: 'slideshow', payload: { ...payload, fromPlanItemId: item.id } };
@@ -1234,6 +1265,20 @@ app.post('/api/screen/command', (req, res) => {
 app.post('/api/blank', (req, res) => {
   const state = updateScreenState('blank', req.body?.payload || { title: 'Добро пожаловать', subtitle: '' });
   res.json(state);
+});
+
+app.post('/api/wifi/show', async (req, res) => {
+  const payload = await buildWifiPayload(req.body || {});
+  res.json(updateScreenState('wifi', payload));
+});
+
+app.post('/api/wifi/add-to-plan', async (req, res) => {
+  const payload = await buildWifiPayload(req.body || {});
+  const store = readStore();
+  const item = makePlanItem({ type: 'wifi', title: `Wi-Fi · ${payload.ssid}`, payload });
+  store.servicePlan.push(item);
+  writeStore(store);
+  res.status(201).json({ item, servicePlan: store.servicePlan });
 });
 
 
@@ -1880,7 +1925,8 @@ function normalizeCaptionScreenEmbedUrl(url) {
     const view = parts[0] === 'embed' ? 'embed' : 'iframe';
     const serviceId = parts[1] || parts[0] || '';
     if (!serviceId) return parsed.toString();
-    return `https://glossa.live/${view}/${encodeURIComponent(serviceId)}`;
+    parsed.pathname = `/${view}/${encodeURIComponent(serviceId)}`;
+    return parsed.toString();
   } catch {
     return url;
   }
@@ -1926,14 +1972,14 @@ function setCaptionFontSize(url, value) {
 
 function normalizeCaptionLanguage(value) {
   const lang = String(value || '').trim();
-  return /^[a-z]{2,3}(?:-[A-Za-z]{2,4})?$/.test(lang) ? lang : 'en-US';
+  return /^[a-z]{2,3}(?:[-_][A-Za-z]{2,4})?$/.test(lang) ? lang : 'en-US';
 }
 
 function getCaptionLanguage(url) {
   if (!url) return 'en-US';
   try {
     const parsed = new URL(url);
-    if (parsed.hostname === 'glossa.live') return 'en-US';
+    if (parsed.hostname === 'glossa.live') return normalizeCaptionLanguage(parsed.searchParams.get('lang') || 'en-US');
     const parts = parsed.pathname.split('/').filter(Boolean);
     const index = parts.indexOf('l');
     return normalizeCaptionLanguage(index !== -1 ? parts[index + 1] : 'en-US');
@@ -1948,7 +1994,8 @@ function setCaptionLanguage(url, value) {
   try {
     const parsed = new URL(url);
     if (parsed.hostname === 'glossa.live') {
-      return { url: normalizeCaptionScreenEmbedUrl(url), language };
+      parsed.searchParams.set('lang', language);
+      return { url: normalizeCaptionScreenEmbedUrl(parsed.toString()), language };
     }
     const parts = parsed.pathname.split('/').filter(Boolean);
     const index = parts.indexOf('l');

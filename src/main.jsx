@@ -64,6 +64,18 @@ const BIBLE_WEIGHT_OPTIONS = [
   { id: 'high', label: 'Big' }
 ];
 
+const DEFAULT_WIFI = {
+  ssid: 'Word of God',
+  password: '56382006',
+  security: 'WPA',
+  standard: 'Wi-Fi 4 (802.11n)',
+  lang: 'both',
+  title: 'Подключитесь к Wi-Fi',
+  titleEn: 'Connect to Wi-Fi',
+  body: 'Отсканируйте QR-код или подключитесь вручную.',
+  bodyEn: 'Scan the QR code or connect manually.'
+};
+
 function matchesMediaSection(item, prefixes) {
   const category = String(item.category || '');
   const original = String(item.originalFileName || '');
@@ -285,6 +297,7 @@ function AdminApp() {
     ['bible', BookOpen, 'Писание'],
     ['translation', QrCode, 'Перевод'],
     ['announcement', Megaphone, 'Объявления'],
+    ['wifi', Wifi, 'Wi-Fi'],
     ['prayer-requests', BookOpen, 'Молитва'],
     ['external-links', ExternalLink, 'Ссылки'],
     ['missions', Globe2, 'Миссии'],
@@ -434,6 +447,7 @@ function AdminApp() {
         {tab === 'bible' && <BiblePanel action={action} state={state} />}
         {tab === 'translation' && <TranslationPanel action={action} />}
         {tab === 'announcement' && <AnnouncementPanel action={action} />}
+        {tab === 'wifi' && <WifiPanel action={action} />}
         {tab === 'prayer-requests' && <PrayerRequestsPanel action={action} />}
         {tab === 'external-links' && <ExternalLinksPanel action={action} refreshPlan={refreshPlan} />}
         {tab === 'missions' && <MissionBoardPanel action={action} />}
@@ -456,6 +470,7 @@ function describeState(state) {
   if (state.mode === 'translation_caption') return `Субтитры перевода: ${p.title || p.url}`;
   if (state.mode === 'translation_live') return `Live субтитры: ${p.lang || ''}`;
   if (state.mode === 'announcement') return `Объявление: ${p.title || ''}`;
+  if (state.mode === 'wifi') return `Wi-Fi: ${p.ssid || ''}`;
   if (state.mode === 'external_board') return `Внешняя ссылка: ${p.title || p.url || ''}`;
   if (state.mode === 'image') return `Картинка: ${p.title || ''}`;
   if (state.mode === 'slideshow') return `Слайдшоу: ${p.title || ''} (${p.images?.length || 0})`;
@@ -465,7 +480,7 @@ function describeState(state) {
 
 function typeLabel(type) {
   return {
-    welcome: 'Приветствие', song: 'Песня', song_video: 'Песня', audio: 'Фонограмма', audio_track: 'Фонограмма', youtube_audio: 'YouTube audio', youtube: 'YouTube', bible: 'Писание', translation_qr: 'QR перевода', translation_caption: 'Субтитры', translation_live: 'Live субтитры', announcement: 'Объявление', external_board: 'Ссылка', image: 'Картинка', slideshow: 'Слайдшоу', blank: 'Blank', loading: 'Загрузка'
+    welcome: 'Приветствие', song: 'Песня', song_video: 'Песня', audio: 'Фонограмма', audio_track: 'Фонограмма', youtube_audio: 'YouTube audio', youtube: 'YouTube', bible: 'Писание', translation_qr: 'QR перевода', translation_caption: 'Субтитры', translation_live: 'Live субтитры', announcement: 'Объявление', wifi: 'Wi-Fi', external_board: 'Ссылка', image: 'Картинка', slideshow: 'Слайдшоу', blank: 'Blank', loading: 'Загрузка'
   }[type] || type;
 }
 
@@ -1995,6 +2010,7 @@ const EMPTY_TRANSLATION_DRAFT = {
 
 const CAPTION_LANGUAGE_OPTIONS = [
   { code: 'en-US', label: 'English' },
+  { code: 'nl_NL', label: 'Dutch / Nederlands' },
   { code: 'sr', label: 'Srpski' },
   { code: 'bs', label: 'Bosanski' },
   { code: 'ru', label: 'Русский' },
@@ -2110,7 +2126,7 @@ function TranslationPanel({ action }) {
   function getCaptionLanguage(url) {
     try {
       const parsed = new URL(url);
-      if (parsed.hostname === 'glossa.live') return 'en-US';
+      if (parsed.hostname === 'glossa.live') return parsed.searchParams.get('lang') || 'en-US';
       const parts = parsed.pathname.split('/').filter(Boolean);
       const index = parts.indexOf('l');
       return index !== -1 && parts[index + 1] ? parts[index + 1] : 'en-US';
@@ -2170,7 +2186,7 @@ function TranslationPanel({ action }) {
                     </div>
                     {p.screenEmbedUrl && (
                       <div className="caption-control-stack">
-                        {!isGlossa && <div className="caption-language-controls">
+                        <div className="caption-language-controls">
                           <label>Язык субтитров
                             <select
                               value={captionLanguage}
@@ -2181,7 +2197,7 @@ function TranslationPanel({ action }) {
                               ))}
                             </select>
                           </label>
-                        </div>}
+                        </div>
                         {!isGlossa && <div className="caption-font-controls">
                           <div>
                             <strong>Шрифт субтитров</strong>
@@ -2193,7 +2209,7 @@ function TranslationPanel({ action }) {
                             <button type="button" onClick={() => action('Шрифт субтитров сброшен', () => changeCaptionFont(p, p.id === 'glossa' ? 64 : 10))}>Сброс</button>
                           </div>
                         </div>}
-                        {isGlossa && <p className="hint">Glossa iframe keeps Church Media control. Glossa embed is for ProPresenter or direct browser sources.</p>}
+                        {isGlossa && <p className="hint">Glossa embed uses the lang URL parameter, for example ?lang=nl_NL.</p>}
                       </div>
                     )}
                   </div>
@@ -2244,6 +2260,71 @@ function TranslationPanel({ action }) {
       </div>
     </section>
     </div>
+  );
+}
+
+function WifiPanel({ action }) {
+  const [form, setForm] = useState({ ...DEFAULT_WIFI });
+  const lang = ['ru', 'en', 'both'].includes(form.lang) ? form.lang : 'both';
+
+  async function showWifi() {
+    await action('Wi-Fi показан на ТВ', () => api('/api/wifi/show', postJson({ ...form, lang })));
+  }
+
+  async function addWifiToPlan() {
+    await action('Wi-Fi добавлен в план', () => api('/api/wifi/add-to-plan', postJson({ ...form, lang })));
+  }
+
+  return (
+    <section className="grid two">
+      <div className="card">
+        <h2>Wi-Fi для гостей</h2>
+        <p>Готовый экран для подключения к церковной сети. QR-код откроет подключение на телефоне, а рядом будет пароль для ручного ввода.</p>
+        <div className="lang-toggle">
+          <span>Язык на экране:</span>
+          {[['both', 'Оба'], ['ru', 'Русский'], ['en', 'English']].map(([value, label]) => (
+            <button key={value} type="button" className={cx(lang === value && 'active')} onClick={() => setForm({ ...form, lang: value })}>{label}</button>
+          ))}
+        </div>
+        <form className="form" onSubmit={e => e.preventDefault()}>
+          <div className="form-row">
+            <label>Название сети<input value={form.ssid} onChange={e => setForm({ ...form, ssid: e.target.value })} /></label>
+            <label>Пароль<input value={form.password} onChange={e => setForm({ ...form, password: e.target.value })} /></label>
+          </div>
+          <div className="form-row">
+            <label>Защита
+              <select value={form.security} onChange={e => setForm({ ...form, security: e.target.value })}>
+                <option value="WPA">WPA/WPA2</option>
+                <option value="WEP">WEP</option>
+                <option value="nopass">Без пароля</option>
+              </select>
+            </label>
+            <span></span>
+          </div>
+          <div className="form-row">
+            <label>Заголовок RU<input value={form.title} onChange={e => setForm({ ...form, title: e.target.value })} /></label>
+            <label>Заголовок EN<input value={form.titleEn} onChange={e => setForm({ ...form, titleEn: e.target.value })} /></label>
+          </div>
+          <div className="form-row">
+            <label>Текст RU<textarea rows="4" value={form.body} onChange={e => setForm({ ...form, body: e.target.value })} /></label>
+            <label>Текст EN<textarea rows="4" value={form.bodyEn} onChange={e => setForm({ ...form, bodyEn: e.target.value })} /></label>
+          </div>
+          <div className="button-row">
+            <button className="primary" onClick={showWifi}><Wifi size={18} /> Показать на ТВ</button>
+            <button onClick={addWifiToPlan}><ListPlus size={18} /> Добавить в план</button>
+          </div>
+        </form>
+      </div>
+      <div className="card wifi-preview-card">
+        <h2>Как будет выглядеть</h2>
+        <div className="wifi-admin-preview">
+          <Wifi size={34} />
+          <strong>{form.ssid || 'Word of God'}</strong>
+          <code>{form.password || '56382006'}</code>
+          <p>{lang === 'en' ? form.bodyEn : lang === 'ru' ? form.body : `${form.body}\n${form.bodyEn}`}</p>
+        </div>
+      </div>
+    </section>
   );
 }
 
@@ -2992,6 +3073,7 @@ function ScreenApp() {
       {state.mode === 'translation_caption' && <TranslationCaptionScreen payload={payload} />}
       {state.mode === 'translation_live' && <TranslationLiveScreen payload={payload} />}
       {state.mode === 'announcement' && <AnnouncementScreen payload={payload} />}
+      {state.mode === 'wifi' && <WifiScreen payload={payload} />}
       {state.mode === 'external_board' && <ExternalBoardScreen payload={payload} />}
       {state.mode === 'image' && <ImageScreen payload={payload} />}
       {state.mode === 'slideshow' && <SlideshowScreen payload={payload} />}
@@ -3353,6 +3435,52 @@ function AnnouncementScreen({ payload }) {
         )}
       </div>
       {hasQr && <img src={qrSrc} alt="QR" />}
+    </section>
+  );
+}
+
+function WifiScreen({ payload }) {
+  const hasEnglish = Boolean(payload.titleEn || payload.bodyEn);
+  const lang = ['ru', 'en', 'both'].includes(payload.lang) ? payload.lang : (hasEnglish ? 'both' : 'ru');
+  const showRu = lang === 'ru' || lang === 'both';
+  const showEn = (lang === 'en' || lang === 'both') && hasEnglish;
+  const bilingual = showRu && showEn;
+  const password = payload.security === 'nopass' ? 'No password' : payload.password;
+  const labels = lang === 'ru'
+    ? { network: 'Сеть', password: 'Пароль' }
+    : lang === 'en'
+      ? { network: 'Network', password: 'Password' }
+      : { network: 'Wi-Fi', password: 'Password / Пароль' };
+
+  return (
+    <section className={cx('screen-center wifi-screen', bilingual ? 'bilingual-wifi' : 'single-wifi')}>
+      <div className="wifi-copy">
+        {showRu && (
+          <div className="wifi-lang-block">
+            <h1>{payload.title || 'Подключитесь к Wi-Fi'}</h1>
+            {payload.body && <p>{payload.body}</p>}
+          </div>
+        )}
+        {showEn && (
+          <div className="wifi-lang-block wifi-english">
+            {bilingual ? <h2>{payload.titleEn || 'Connect to Wi-Fi'}</h2> : <h1>{payload.titleEn || 'Connect to Wi-Fi'}</h1>}
+            {payload.bodyEn && <p>{payload.bodyEn}</p>}
+          </div>
+        )}
+      </div>
+      <div className="wifi-join-layout">
+        {payload.qrDataUrl && <img src={payload.qrDataUrl} alt="Wi-Fi QR" />}
+        <div className="wifi-credentials">
+          <div>
+            <span>{labels.network}</span>
+            <strong>{payload.ssid || 'Word of God'}</strong>
+          </div>
+          <div>
+            <span>{labels.password}</span>
+            <strong>{password || '56382006'}</strong>
+          </div>
+        </div>
+      </div>
     </section>
   );
 }
