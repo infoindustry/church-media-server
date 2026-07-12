@@ -1995,7 +1995,13 @@ function LiveTranslationPanel({ action }) {
       </div>
       <div className="live-tr-status">
         <span className={cx('badge', captureOk ? 'ok' : 'warn')}>
-          {captureOk ? `Soundcraft: звук идёт · ${audioAge.toFixed(1)} с` : capture.connected ? 'Soundcraft подключён, но звука нет' : 'Источник Soundcraft не подключён'}
+          {!running
+            ? 'Soundcraft готов · подключится при запуске'
+            : captureOk
+              ? `Soundcraft: звук идёт · ${audioAge.toFixed(1)} с`
+              : capture.connected
+                ? 'Soundcraft подключён, ожидается речь'
+                : capture.error || 'Подключение Soundcraft…'}
         </span>
         <span className="badge">Уровень: {Math.round((capture.audioLevel || 0) * 100)}%</span>
         {capture.lastTranscriptAt && <span className="badge">Последний перевод: {Math.round((Date.now() - capture.lastTranscriptAt) / 1000)} с назад</span>}
