@@ -10,6 +10,7 @@ import QRCode from 'qrcode';
 import http from 'http';
 import crypto from 'crypto';
 import { TranslationHub, attachTranslation, sanitizeLang, getLanUrls } from './translation.js';
+import { SoundcraftCapture } from './soundcraft-capture.js';
 import { startCloudSync } from './cloud-sync.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -2642,6 +2643,7 @@ app.get('/api/checkup', (req, res) => {
 
 // ---- Live translation (our own OpenAI engine) ----
 const translationHub = new TranslationHub();
+const soundcraftCapture = new SoundcraftCapture(translationHub);
 
 app.get('/api/translation/live/state', (req, res) => {
   res.json({ ...translationHub.status(), hasApiKey: Boolean(process.env.OPENAI_API_KEY), hasGeminiKey: Boolean(process.env.GEMINI_API_KEY), lanUrls: getLanUrls(PORT) });
@@ -2649,10 +2651,12 @@ app.get('/api/translation/live/state', (req, res) => {
 
 app.post('/api/translation/live/start', (req, res) => {
   const state = translationHub.start({ engine: req.body?.engine, displayLang: req.body?.displayLang });
+  soundcraftCapture.start();
   res.json(state);
 });
 
 app.post('/api/translation/live/stop', (req, res) => {
+  soundcraftCapture.stop();
   res.json(translationHub.stop());
 });
 

@@ -206,6 +206,13 @@ export class TranslationHub {
     this.buffers = new Map();    // lang -> rolling subtitle text
     this.langStatus = new Map(); // lang -> last status string
     this.subscribers = new Set();
+    this.captureClients = new Set();
+    this.lastAudioAt = 0;
+    this.audioLevel = 0;
+    this.audioPeak = 0;
+    this.audioChunks = 0;
+    this.lastTranscriptAt = 0;
+    this.captureError = '';
   }
 
   status() {
@@ -213,6 +220,16 @@ export class TranslationHub {
       running: this.running,
       engine: this.engineKind,
       displayLang: this.displayLang,
+      capture: {
+        connected: this.captureClients.size > 0,
+        clients: this.captureClients.size,
+        lastAudioAt: this.lastAudioAt || null,
+        audioLevel: this.audioLevel,
+        audioPeak: this.audioPeak,
+        audioChunks: this.audioChunks,
+        lastTranscriptAt: this.lastTranscriptAt || null
+        , error: this.captureError || null
+      },
       languages: [...this.sessions.keys()].map(lang => ({ lang, status: this.langStatus.get(lang) || 'connecting' }))
     };
   }
@@ -254,6 +271,7 @@ export class TranslationHub {
   }
 
   onTranscript(lang, delta) {
+    this.lastTranscriptAt = Date.now();
     let text = (this.buffers.get(lang) || '') + delta;
     if (text.length > MAX_BUFFER_CHARS) text = text.slice(-MAX_BUFFER_CHARS);
     this.buffers.set(lang, text);
@@ -262,7 +280,38 @@ export class TranslationHub {
 
   appendAudio(base64) {
     if (!this.running) return;
+    const pcm = Buffer.from(base64, 'base64');
+    let sum = 0;
+    let peak = 0;
+    const samples = pcm.length >> 1;
+    for (let i = 0; i < samples; i++) {
+      const value = Math.abs(pcm.readInt16LE(i * 2)) / 32768;
+      sum += value * value;
+      if (value > peak) peak = value;
+    }
+    this.audioLevel = samples ? Math.sqrt(sum / samples) : 0;
+    this.audioPeak = peak;
+    this.lastAudioAt = Date.now();
+    this.audioChunks++;
     for (const session of this.sessions.values()) session.appendAudio(base64);
+  }
+
+  captureConnected(ws) {
+    this.captureClients.add(ws);
+    this.captureError = '';
+    this.broadcastStatus();
+  }
+
+  captureDisconnected(ws) {
+    this.captureClients.delete(ws);
+    this.audioLevel = 0;
+    this.audioPeak = 0;
+    this.broadcastStatus();
+  }
+
+  setCaptureError(message) {
+    this.captureError = String(message || 'Ошибка источника звука');
+    this.broadcastStatus();
   }
 
   addSubscriber(res) {
@@ -294,6 +343,7 @@ export function attachTranslation(server, hub) {
     try { pathname = new URL(req.url, 'http://localhost').pathname; } catch {}
     if (pathname === '/translate/ingest') {
       wss.handleUpgrade(req, socket, head, (ws) => {
+        hub.captureConnected(ws);
         ws.on('message', (msg) => {
           const text = msg.toString();
           if (text.charCodeAt(0) === 123) { // '{'
@@ -302,6 +352,8 @@ export function attachTranslation(server, hub) {
             hub.appendAudio(text);
           }
         });
+        ws.on('close', () => hub.captureDisconnected(ws));
+        ws.on('error', () => hub.captureDisconnected(ws));
       });
     } else {
       socket.destroy();

@@ -1955,6 +1955,9 @@ function LiveTranslationPanel({ action }) {
   useEffect(() => { refresh(); const t = setInterval(refresh, 5000); return () => clearInterval(t); }, []);
 
   const running = state?.running;
+  const capture = state?.capture || {};
+  const audioAge = capture.lastAudioAt ? Math.max(0, (Date.now() - capture.lastAudioAt) / 1000) : null;
+  const captureOk = capture.connected && audioAge !== null && audioAge < 3;
   return (
     <div className="card live-translation-card">
       <div className="card-title-row">
@@ -1991,6 +1994,11 @@ function LiveTranslationPanel({ action }) {
         <button onClick={() => action('QR на телефоны', () => api('/api/translation/live/show-qr', { method: 'POST' }))}><QrCode size={18} /> QR на телефоны</button>
       </div>
       <div className="live-tr-status">
+        <span className={cx('badge', captureOk ? 'ok' : 'warn')}>
+          {captureOk ? `Soundcraft: звук идёт · ${audioAge.toFixed(1)} с` : capture.connected ? 'Soundcraft подключён, но звука нет' : 'Источник Soundcraft не подключён'}
+        </span>
+        <span className="badge">Уровень: {Math.round((capture.audioLevel || 0) * 100)}%</span>
+        {capture.lastTranscriptAt && <span className="badge">Последний перевод: {Math.round((Date.now() - capture.lastTranscriptAt) / 1000)} с назад</span>}
         {(state?.languages || []).map(l => <span className="badge" key={l.lang}>{getLanguageLabel(l.lang)}: {l.status}</span>)}
         {state?.lanUrls?.length > 0 && <p className="hint">Телефоны в LAN открывают: {state.lanUrls.map(u => `${u}/translate`).join('   ·   ')}</p>}
       </div>
@@ -3270,6 +3278,8 @@ function TranslationSourceApp() {
   const [displayLang, setDisplayLang] = useState('en');
   const [capturing, setCapturing] = useState(false);
   const [error, setError] = useState('');
+  const [devices, setDevices] = useState([]);
+  const [deviceId, setDeviceId] = useState('');
   const captureRef = useRef(null);
   const { text } = useLiveSubtitles(displayLang);
 
@@ -3277,6 +3287,15 @@ function TranslationSourceApp() {
     try { setState(await api('/api/translation/live/state')); } catch {}
   }
   useEffect(() => { refresh(); const t = setInterval(refresh, 4000); return () => clearInterval(t); }, []);
+
+  async function loadDevices() {
+    const list = await navigator.mediaDevices.enumerateDevices();
+    const inputs = list.filter(d => d.kind === 'audioinput');
+    setDevices(inputs);
+    const soundcraft = inputs.find(d => /soundcraft|notepad/i.test(d.label));
+    if (!deviceId && soundcraft) setDeviceId(soundcraft.deviceId);
+  }
+  useEffect(() => { loadDevices().catch(() => {}); }, []);
 
   async function startRun() {
     await api('/api/translation/live/start', postJson({ engine, displayLang }));
@@ -3291,13 +3310,19 @@ function TranslationSourceApp() {
   async function startCapture() {
     try {
       setError('');
-      const stream = await navigator.mediaDevices.getUserMedia({ audio: { channelCount: 1, echoCancellation: false, noiseSuppression: false } });
+      const stream = await navigator.mediaDevices.getUserMedia({ audio: { deviceId: deviceId ? { exact: deviceId } : undefined, channelCount: 1, echoCancellation: false, noiseSuppression: false, autoGainControl: false } });
+      await loadDevices();
       const ctx = new AudioContext({ sampleRate: 24000 });
       await ctx.audioWorklet.addModule('/pcm-capture-worklet.js');
       const source = ctx.createMediaStreamSource(stream);
       const node = new AudioWorkletNode(ctx, 'pcm-capture');
       const wsUrl = (location.protocol === 'https:' ? 'wss://' : 'ws://') + location.host + '/translate/ingest';
       const ws = new WebSocket(wsUrl);
+      await new Promise((resolve, reject) => {
+        ws.onopen = resolve;
+        ws.onerror = () => reject(new Error('Не удалось подключить источник звука к серверу'));
+      });
+      ws.onclose = () => { setCapturing(false); setError('Связь источника звука с сервером прервана'); };
       node.port.onmessage = (e) => { if (ws.readyState === WebSocket.OPEN) ws.send(floatToBase64Pcm16(e.data)); };
       source.connect(node);
       const sink = ctx.createGain();
@@ -3327,6 +3352,12 @@ function TranslationSourceApp() {
       <p className="hint">Открой эту страницу на мини-ПК. Микрофон/линия отправляется в OpenAI, перевод идёт на ТВ и телефоны по локальной сети.</p>
       <div className="source-card">
         <div className="form-row">
+          <label>Источник звука
+            <select value={deviceId} onChange={e => setDeviceId(e.target.value)} disabled={capturing}>
+              <option value="">Устройство Windows по умолчанию</option>
+              {devices.map(d => <option key={d.deviceId} value={d.deviceId}>{d.label || `Аудиовход ${devices.indexOf(d) + 1}`}</option>)}
+            </select>
+          </label>
           <label>Движок
             <select value={engine} onChange={e => setEngine(e.target.value)} disabled={running}>
               <option value="stub">Заглушка (тест без интернета)</option>
