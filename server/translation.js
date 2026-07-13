@@ -1,18 +1,6 @@
 // Live translation hub: captures source audio (PCM16 24kHz) over WebSocket,
 // feeds one realtime session per target language, and fans translated
 // subtitles out to the TV and audience phones over SSE.
-//
-// Engines behind one interface:
-//   - 'stub'   : no network; emits placeholder words so the whole pipeline
-//                (capture -> hub -> SSE -> screens) can be verified offline.
-//   - 'openai' : OpenAI Realtime Translate (gpt-realtime-translate), one
-//                WebSocket session per language. Needs OPENAI_API_KEY + internet.
-//   - 'gemini' : Gemini Live Translate (gemini-3.5-live-translate-preview), one
-//                WebSocket session per language. Needs GEMINI_API_KEY + internet.
-//
-// All sessions speak the same EventEmitter contract: 'transcript' ({ delta }),
-// 'status' (string), 'closed'. Capture feeds PCM16 mono 24kHz base64 chunks;
-// the Gemini session resamples to the 16kHz it requires.
 
 import { WebSocketServer, WebSocket } from 'ws';
 import { EventEmitter } from 'events';
@@ -20,20 +8,25 @@ import os from 'os';
 
 const OPENAI_MODEL = process.env.OPENAI_REALTIME_MODEL || 'gpt-realtime-translate';
 const GEMINI_MODEL = process.env.GEMINI_REALTIME_MODEL || 'gemini-3.5-live-translate-preview';
-const MAX_BUFFER_CHARS = 1600; // how much rolling subtitle text we keep per language
+const MAX_BUFFER_CHARS = 1600;
+const AUDIO_CHUNK_MS = 100;
+const MAX_QUEUED_AUDIO_MS = Number(process.env.TRANSLATION_MAX_QUEUE_MS || 5000);
+const MAX_QUEUED_CHUNKS = Math.max(1, Math.ceil(MAX_QUEUED_AUDIO_MS / AUDIO_CHUNK_MS));
+const RECONNECT_BASE_MS = Number(process.env.TRANSLATION_RECONNECT_BASE_MS || 1000);
+const RECONNECT_MAX_MS = Number(process.env.TRANSLATION_RECONNECT_MAX_MS || 15000);
+const FAILOVER_AFTER_ATTEMPTS = Number(process.env.TRANSLATION_FAILOVER_ATTEMPTS || 3);
+const AUDIO_STALE_MS = Number(process.env.TRANSLATION_AUDIO_STALE_MS || 3000);
+const TRANSCRIPT_STALE_MS = Number(process.env.TRANSLATION_TRANSCRIPT_STALE_MS || 20000);
 
-// App language codes are mostly BCP-47 already; only a few need a region/script.
 function toBcp47(lang) {
   const map = { zh: 'zh-Hans', pt: 'pt-BR' };
   return map[lang] || lang;
 }
 
-// Capture sends PCM16 mono @24kHz; Gemini Live Translate requires 16kHz.
-// Linear-interpolate down (ratio 3:2) and re-encode to base64.
 function downsamplePcm16Base64(base64, inRate = 24000, outRate = 16000) {
   if (inRate === outRate) return base64;
   const inBuf = Buffer.from(base64, 'base64');
-  const inLen = inBuf.length >> 1; // 16-bit samples
+  const inLen = inBuf.length >> 1;
   const outLen = Math.floor(inLen * outRate / inRate);
   const out = Buffer.allocUnsafe(outLen * 2);
   const ratio = inRate / outRate;
@@ -63,7 +56,35 @@ export function getLanUrls(port) {
   return urls;
 }
 
-// ---- per-language sessions ----
+class QueuedSession extends EventEmitter {
+  constructor(lang) {
+    super();
+    this.lang = lang;
+    this.ready = false;
+    this.closedByUser = false;
+    this.queue = [];
+    this.ws = null;
+  }
+  enqueue(base64) {
+    this.queue.push(base64);
+    if (this.queue.length > MAX_QUEUED_CHUNKS) this.queue.splice(0, this.queue.length - MAX_QUEUED_CHUNKS);
+  }
+  flush() {
+    const chunks = this.queue;
+    this.queue = [];
+    for (const chunk of chunks) this._send(chunk);
+  }
+  appendAudio(base64) {
+    if (this.ready) this._send(base64);
+    else this.enqueue(base64);
+  }
+  close() {
+    this.closedByUser = true;
+    this.ready = false;
+    this.queue = [];
+    try { if (this.ws) this.ws.close(); } catch {}
+  }
+}
 
 class StubSession extends EventEmitter {
   constructor(lang) {
@@ -72,28 +93,28 @@ class StubSession extends EventEmitter {
     this.open = true;
     const words = ['[stub]', lang.toUpperCase(), 'live', 'subtitle', 'pipeline', 'works', '·'];
     let i = 0;
+    queueMicrotask(() => this.emit('status', 'open'));
     this.timer = setInterval(() => {
-      if (!this.open) return;
-      this.emit('transcript', { delta: words[i++ % words.length] + ' ' });
+      if (this.open) this.emit('transcript', { delta: words[i++ % words.length] + ' ' });
     }, 1000);
   }
   appendAudio() {}
   close() {
+    if (!this.open) return;
     this.open = false;
     clearInterval(this.timer);
-    this.emit('closed');
+    this.emit('closed', { intentional: true });
   }
 }
 
-class OpenAISession extends EventEmitter {
+class OpenAISession extends QueuedSession {
   constructor(lang, apiKey) {
-    super();
-    this.lang = lang;
-    this.ready = false;
-    this.queue = [];
+    super(lang);
     if (!apiKey) {
-      // Surface the misconfiguration on the next tick so callers can listen.
-      setTimeout(() => this.emit('status', 'error: OPENAI_API_KEY is not set'), 0);
+      queueMicrotask(() => {
+        this.emit('status', 'error: OPENAI_API_KEY is not set');
+        this.emit('closed', { intentional: false, reason: 'missing_api_key' });
+      });
       return;
     }
     this.ws = new WebSocket(`wss://api.openai.com/v1/realtime/translations?model=${OPENAI_MODEL}`, {
@@ -102,8 +123,7 @@ class OpenAISession extends EventEmitter {
     this.ws.on('open', () => {
       this.ws.send(JSON.stringify({ type: 'session.update', session: { audio: { output: { language: lang } } } }));
       this.ready = true;
-      for (const chunk of this.queue) this._send(chunk);
-      this.queue = [];
+      this.flush();
       this.emit('status', 'open');
     });
     this.ws.on('message', (data) => {
@@ -111,38 +131,30 @@ class OpenAISession extends EventEmitter {
       try { ev = JSON.parse(data.toString()); } catch { return; }
       if (ev.type === 'session.output_transcript.delta' && ev.delta) this.emit('transcript', { delta: ev.delta });
       else if (ev.type === 'error' || ev.error) this.emit('status', 'error: ' + (ev.error?.message || 'unknown'));
-      else if (ev.type === 'session.closed') this.close();
     });
     this.ws.on('error', (err) => this.emit('status', 'error: ' + err.message));
-    this.ws.on('close', () => { this.ready = false; this.emit('closed'); });
+    this.ws.on('close', () => {
+      this.ready = false;
+      this.emit('closed', { intentional: this.closedByUser, reason: 'socket_closed' });
+    });
   }
   _send(base64) {
-    try { this.ws.send(JSON.stringify({ type: 'session.input_audio_buffer.append', audio: base64 })); } catch {}
-  }
-  appendAudio(base64) {
-    if (this.ready) this._send(base64);
-    else if (this.queue.length < 400) this.queue.push(base64);
-  }
-  close() {
     try {
-      if (this.ws && this.ws.readyState === WebSocket.OPEN) this.ws.send(JSON.stringify({ type: 'session.close' }));
-      if (this.ws) this.ws.close();
+      if (this.ws?.readyState === WebSocket.OPEN) this.ws.send(JSON.stringify({ type: 'session.input_audio_buffer.append', audio: base64 }));
     } catch {}
-    this.emit('closed');
   }
 }
 
-class GeminiSession extends EventEmitter {
+class GeminiSession extends QueuedSession {
   constructor(lang, apiKey) {
-    super();
-    this.lang = lang;
-    this.ready = false;
-    this.queue = [];
+    super(lang);
     if (!apiKey) {
-      setTimeout(() => this.emit('status', 'error: GEMINI_API_KEY is not set'), 0);
+      queueMicrotask(() => {
+        this.emit('status', 'error: GEMINI_API_KEY is not set');
+        this.emit('closed', { intentional: false, reason: 'missing_api_key' });
+      });
       return;
     }
-    // v1alpha endpoint: the live-translate model is a preview feature.
     const url = `wss://generativelanguage.googleapis.com/ws/google.ai.generativelanguage.v1alpha.GenerativeService.BidiGenerateContent?key=${apiKey}`;
     this.ws = new WebSocket(url);
     this.ws.on('open', () => {
@@ -163,48 +175,58 @@ class GeminiSession extends EventEmitter {
       try { ev = JSON.parse(data.toString()); } catch { return; }
       if (ev.setupComplete) {
         this.ready = true;
-        for (const chunk of this.queue) this._send(chunk);
-        this.queue = [];
+        this.flush();
         this.emit('status', 'open');
         return;
       }
-      const content = ev.serverContent;
-      // We only surface translated text as subtitles; the audio parts (modelTurn)
-      // are required by the model but intentionally dropped here.
-      const text = content?.outputTranscription?.text;
+      const text = ev.serverContent?.outputTranscription?.text;
       if (text) this.emit('transcript', { delta: text });
       if (ev.error) this.emit('status', 'error: ' + (ev.error.message || 'unknown'));
     });
     this.ws.on('error', (err) => this.emit('status', 'error: ' + err.message));
-    this.ws.on('close', () => { this.ready = false; this.emit('closed'); });
+    this.ws.on('close', () => {
+      this.ready = false;
+      this.emit('closed', { intentional: this.closedByUser, reason: 'socket_closed' });
+    });
   }
   _send(base64) {
     try {
-      this.ws.send(JSON.stringify({
-        realtimeInput: { audio: { data: downsamplePcm16Base64(base64), mimeType: 'audio/pcm;rate=16000' } }
-      }));
+      if (this.ws?.readyState === WebSocket.OPEN) {
+        this.ws.send(JSON.stringify({
+          realtimeInput: { audio: { data: downsamplePcm16Base64(base64), mimeType: 'audio/pcm;rate=16000' } }
+        }));
+      }
     } catch {}
-  }
-  appendAudio(base64) {
-    if (this.ready) this._send(base64);
-    else if (this.queue.length < 400) this.queue.push(base64);
-  }
-  close() {
-    try { if (this.ws) this.ws.close(); } catch {}
-    this.emit('closed');
   }
 }
 
-// ---- hub ----
+function hasEngineKey(engine) {
+  if (engine === 'openai') return Boolean(process.env.OPENAI_API_KEY);
+  if (engine === 'gemini') return Boolean(process.env.GEMINI_API_KEY);
+  return true;
+}
+
+function alternateEngine(engine) {
+  if (engine === 'openai' && hasEngineKey('gemini')) return 'gemini';
+  if (engine === 'gemini' && hasEngineKey('openai')) return 'openai';
+  return engine;
+}
+
+function createSession(engine, lang) {
+  if (engine === 'openai') return new OpenAISession(lang, process.env.OPENAI_API_KEY);
+  if (engine === 'gemini') return new GeminiSession(lang, process.env.GEMINI_API_KEY);
+  return new StubSession(lang);
+}
 
 export class TranslationHub {
   constructor() {
     this.running = false;
     this.engineKind = 'stub';
     this.displayLang = 'en';
-    this.sessions = new Map();   // lang -> session
-    this.buffers = new Map();    // lang -> rolling subtitle text
-    this.langStatus = new Map(); // lang -> last status string
+    this.sessions = new Map();
+    this.sessionMeta = new Map();
+    this.buffers = new Map();
+    this.langStatus = new Map();
     this.subscribers = new Set();
     this.captureClients = new Set();
     this.lastAudioAt = 0;
@@ -213,13 +235,45 @@ export class TranslationHub {
     this.audioChunks = 0;
     this.lastTranscriptAt = 0;
     this.captureError = '';
+    this.healthTimer = setInterval(() => this.broadcastStatus(), 2000);
+    this.healthTimer.unref?.();
   }
 
   status() {
+    const now = Date.now();
+    const audioFresh = this.running && this.captureClients.size > 0 && this.lastAudioAt > 0 && now - this.lastAudioAt <= AUDIO_STALE_MS;
+    const transcriptFresh = this.running && this.lastTranscriptAt > 0 && now - this.lastTranscriptAt <= TRANSCRIPT_STALE_MS;
+    const languages = [...this.sessionMeta.entries()].map(([lang, meta]) => ({
+      lang,
+      status: this.langStatus.get(lang) || 'connecting',
+      engine: meta.engine,
+      preferredEngine: meta.preferredEngine,
+      reconnectAttempts: meta.attempts,
+      nextRetryAt: meta.nextRetryAt || null
+    }));
+    const languageError = languages.some(item => String(item.status).startsWith('error') || item.status === 'reconnecting');
+    let severity = 'ok';
+    let alert = '';
+    if (this.running && !this.captureClients.size) {
+      severity = 'error';
+      alert = 'Источник звука не подключён.';
+    } else if (this.running && this.lastAudioAt && !audioFresh) {
+      severity = 'error';
+      alert = 'Звук перестал поступать в перевод.';
+    } else if (this.running && languageError) {
+      severity = 'error';
+      alert = 'Облачный перевод потерял соединение и переподключается.';
+    } else if (this.running && this.lastAudioAt && !transcriptFresh) {
+      severity = 'warning';
+      alert = 'Звук поступает, но перевод давно не обновлялся.';
+    }
     return {
       running: this.running,
       engine: this.engineKind,
       displayLang: this.displayLang,
+      severity,
+      alert,
+      health: { audioFresh, transcriptFresh, checkedAt: now },
       capture: {
         connected: this.captureClients.size > 0,
         clients: this.captureClients.size,
@@ -227,10 +281,10 @@ export class TranslationHub {
         audioLevel: this.audioLevel,
         audioPeak: this.audioPeak,
         audioChunks: this.audioChunks,
-        lastTranscriptAt: this.lastTranscriptAt || null
-        , error: this.captureError || null
+        lastTranscriptAt: this.lastTranscriptAt || null,
+        error: this.captureError || null
       },
-      languages: [...this.sessions.keys()].map(lang => ({ lang, status: this.langStatus.get(lang) || 'connecting' }))
+      languages
     };
   }
 
@@ -239,34 +293,83 @@ export class TranslationHub {
     this.engineKind = ['openai', 'gemini'].includes(engine) ? engine : 'stub';
     this.displayLang = sanitizeLang(displayLang) || 'en';
     this.running = true;
+    this.lastTranscriptAt = 0;
     this.ensureLanguage(this.displayLang);
     this.broadcastStatus();
     return this.status();
   }
 
   stop() {
+    this.running = false;
+    for (const meta of this.sessionMeta.values()) clearTimeout(meta.retryTimer);
     for (const session of this.sessions.values()) session.close();
     this.sessions.clear();
+    this.sessionMeta.clear();
     this.buffers.clear();
     this.langStatus.clear();
-    this.running = false;
     this.broadcastStatus();
     return this.status();
   }
 
   ensureLanguage(langRaw) {
     const lang = sanitizeLang(langRaw);
-    if (!lang || !this.running || this.sessions.has(lang)) return;
-    let session;
-    if (this.engineKind === 'openai') session = new OpenAISession(lang, process.env.OPENAI_API_KEY);
-    else if (this.engineKind === 'gemini') session = new GeminiSession(lang, process.env.GEMINI_API_KEY);
-    else session = new StubSession(lang);
+    if (!lang || !this.running || this.sessionMeta.has(lang)) return;
     this.buffers.set(lang, '');
-    this.langStatus.set(lang, this.engineKind === 'stub' ? 'open' : 'connecting');
-    session.on('transcript', ({ delta }) => this.onTranscript(lang, delta));
-    session.on('status', (st) => { this.langStatus.set(lang, st); this.broadcastStatus(); });
-    session.on('closed', () => {});
+    this.sessionMeta.set(lang, { preferredEngine: this.engineKind, engine: this.engineKind, attempts: 0, generation: 0, retryTimer: null, nextRetryAt: 0 });
+    this.openLanguageSession(lang);
+  }
+
+  openLanguageSession(lang) {
+    const meta = this.sessionMeta.get(lang);
+    if (!meta || !this.running) return;
+    clearTimeout(meta.retryTimer);
+    meta.retryTimer = null;
+    meta.nextRetryAt = 0;
+    meta.generation += 1;
+    const generation = meta.generation;
+    const session = createSession(meta.engine, lang);
+    const previous = this.sessions.get(lang);
+    if (previous && previous !== session) previous.close();
     this.sessions.set(lang, session);
+    this.langStatus.set(lang, meta.engine === 'stub' ? 'open' : 'connecting');
+    session.on('transcript', ({ delta }) => {
+      if (this.sessionMeta.get(lang)?.generation !== generation) return;
+      meta.attempts = 0;
+      this.onTranscript(lang, delta);
+    });
+    session.on('status', (st) => {
+      if (this.sessionMeta.get(lang)?.generation !== generation) return;
+      this.langStatus.set(lang, st);
+      if (st === 'open') meta.attempts = 0;
+      this.broadcastStatus();
+    });
+    session.on('closed', ({ intentional } = {}) => {
+      if (this.sessionMeta.get(lang)?.generation !== generation || intentional || !this.running) return;
+      this.scheduleReconnect(lang);
+    });
+    this.broadcastStatus();
+  }
+
+  scheduleReconnect(lang) {
+    const meta = this.sessionMeta.get(lang);
+    if (!meta || !this.running || meta.retryTimer) return;
+    meta.attempts += 1;
+    if (meta.attempts >= FAILOVER_AFTER_ATTEMPTS) {
+      const fallback = alternateEngine(meta.engine);
+      if (fallback !== meta.engine) {
+        meta.engine = fallback;
+        meta.attempts = 0;
+        this.langStatus.set(lang, `failover: ${fallback}`);
+      }
+    }
+    const delay = Math.min(RECONNECT_MAX_MS, RECONNECT_BASE_MS * (2 ** Math.max(0, meta.attempts - 1)));
+    meta.nextRetryAt = Date.now() + delay;
+    this.langStatus.set(lang, 'reconnecting');
+    meta.retryTimer = setTimeout(() => {
+      meta.retryTimer = null;
+      meta.nextRetryAt = 0;
+      this.openLanguageSession(lang);
+    }, delay);
     this.broadcastStatus();
   }
 
@@ -276,6 +379,7 @@ export class TranslationHub {
     if (text.length > MAX_BUFFER_CHARS) text = text.slice(-MAX_BUFFER_CHARS);
     this.buffers.set(lang, text);
     this.broadcast({ type: 'transcript', lang, delta, text });
+    this.broadcastStatus();
   }
 
   appendAudio(base64) {
@@ -316,7 +420,6 @@ export class TranslationHub {
 
   addSubscriber(res) {
     this.subscribers.add(res);
-    // Replay current state so a late joiner sees existing subtitles immediately.
     this.sendTo(res, { type: 'status', ...this.status() });
     for (const [lang, text] of this.buffers) this.sendTo(res, { type: 'transcript', lang, delta: '', text });
     res.on('close', () => this.subscribers.delete(res));
@@ -335,7 +438,6 @@ export class TranslationHub {
   }
 }
 
-// Attach the audio-ingest WebSocket endpoint to the HTTP server.
 export function attachTranslation(server, hub) {
   const wss = new WebSocketServer({ noServer: true });
   server.on('upgrade', (req, socket, head) => {
@@ -346,7 +448,7 @@ export function attachTranslation(server, hub) {
         hub.captureConnected(ws);
         ws.on('message', (msg) => {
           const text = msg.toString();
-          if (text.charCodeAt(0) === 123) { // '{'
+          if (text.charCodeAt(0) === 123) {
             try { const json = JSON.parse(text); if (json.audio) hub.appendAudio(json.audio); } catch {}
           } else {
             hub.appendAudio(text);
