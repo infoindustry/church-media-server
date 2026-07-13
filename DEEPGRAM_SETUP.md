@@ -1,6 +1,6 @@
 # Deepgram text translation pipeline
 
-The new `deepgram` engine keeps the existing OpenAI Realtime and Gemini modes unchanged.
+The `deepgram` engine keeps the existing OpenAI Realtime and Gemini modes unchanged.
 
 Pipeline:
 
@@ -31,11 +31,22 @@ DEEPGRAM_FLUSH_MS=900
 
 ## Mini-PC local setup
 
-Add the values to the `.env` file next to `package.json`, restart the server, then open:
+Add the values to the `.env` file next to `package.json`, restart the server, then open the existing admin interface:
 
 ```text
-http://MINI-PC-IP:4000/deepgram-translation.html
+http://MINI-PC-IP:4000/admin
 ```
+
+Open **Перевод**, choose **Deepgram STT + OpenAI Text** in the same engine selector used for OpenAI and Gemini, choose the source language, and press **Запустить**.
+
+The same card shows:
+
+- Deepgram connection state
+- STT model
+- OpenAI text translation model
+- pending translation queue
+- the latest recognized source phrase
+- Soundcraft audio health and target-language status
 
 ## Cloudflare Worker secret
 
@@ -62,14 +73,5 @@ Important: the Worker `/api/device/config` response must expose the secret to an
 ```
 
 The current `church-media-server` repository contains the mini-PC client, but not the Cloudflare Worker source that implements `/api/device/config`. Until that Worker is updated, also put `DEEPGRAM_API_KEY` in the mini-PC `.env` file.
-
-## Operation
-
-1. Open `/deepgram-translation.html` from the phone.
-2. Choose the first subtitle language.
-3. Press **Запустить**.
-4. Add more target languages with their language code if needed.
-5. Watch Deepgram source transcription and per-language translation status.
-6. Use **Субтитры на ТВ** or **QR гостям**.
 
 Deepgram interim results are shown for microphone monitoring. Only finalized utterances are sent to OpenAI for translation, which prevents unstable partial text from generating repeated translation requests.
