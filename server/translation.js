@@ -1,6 +1,6 @@
 // Live translation hub: captures source audio (PCM16 24kHz) over WebSocket,
-// feeds one realtime session per target language, and fans translated
-// subtitles out to the TV and audience phones over SSE.
+// feeds realtime translation engines, and fans translated subtitles out to
+// the TV and audience phones over SSE.
 
 import { WebSocketServer, WebSocket } from 'ws';
 import { EventEmitter } from 'events';
@@ -8,6 +8,9 @@ import os from 'os';
 
 const OPENAI_MODEL = process.env.OPENAI_REALTIME_MODEL || 'gpt-realtime-translate';
 const GEMINI_MODEL = process.env.GEMINI_REALTIME_MODEL || 'gemini-3.5-live-translate-preview';
+const OPENAI_TEXT_MODEL = process.env.OPENAI_TEXT_TRANSLATION_MODEL || 'gpt-4.1-mini';
+const DEEPGRAM_MODEL = process.env.DEEPGRAM_STT_MODEL || 'nova-3';
+const DEEPGRAM_SOURCE_LANGUAGE = process.env.DEEPGRAM_SOURCE_LANGUAGE || 'ru';
 const MAX_BUFFER_CHARS = 1600;
 const AUDIO_CHUNK_MS = 100;
 const MAX_QUEUED_AUDIO_MS = Number(process.env.TRANSLATION_MAX_QUEUE_MS || 5000);
@@ -17,6 +20,9 @@ const RECONNECT_MAX_MS = Number(process.env.TRANSLATION_RECONNECT_MAX_MS || 1500
 const FAILOVER_AFTER_ATTEMPTS = Number(process.env.TRANSLATION_FAILOVER_ATTEMPTS || 3);
 const AUDIO_STALE_MS = Number(process.env.TRANSLATION_AUDIO_STALE_MS || 3000);
 const TRANSCRIPT_STALE_MS = Number(process.env.TRANSLATION_TRANSCRIPT_STALE_MS || 20000);
+const DEEPGRAM_ENDPOINTING_MS = Number(process.env.DEEPGRAM_ENDPOINTING_MS || 600);
+const DEEPGRAM_UTTERANCE_END_MS = Number(process.env.DEEPGRAM_UTTERANCE_END_MS || 1200);
+const DEEPGRAM_FLUSH_MS = Number(process.env.DEEPGRAM_FLUSH_MS || 900);
 
 function toBcp47(lang) {
   const map = { zh: 'zh-Hans', pt: 'pt-BR' };
@@ -42,7 +48,7 @@ function downsamplePcm16Base64(base64, inRate = 24000, outRate = 16000) {
 }
 
 export function sanitizeLang(code) {
-  return String(code || '').toLowerCase().replace(/[^a-z-]/g, '').slice(0, 8);
+  return String(code || '').toLowerCase().replace(/[^a-z-]/g, '').slice(0, 12);
 }
 
 export function getLanUrls(port) {
@@ -200,9 +206,104 @@ class GeminiSession extends QueuedSession {
   }
 }
 
+class DeepgramSession extends QueuedSession {
+  constructor(sourceLang, apiKey) {
+    super(sourceLang);
+    this.pendingFinal = [];
+    this.flushTimer = null;
+    this.keepAliveTimer = null;
+    if (!apiKey) {
+      queueMicrotask(() => {
+        this.emit('status', 'error: DEEPGRAM_API_KEY is not set');
+        this.emit('closed', { intentional: false, reason: 'missing_api_key' });
+      });
+      return;
+    }
+
+    const query = new URLSearchParams({
+      model: DEEPGRAM_MODEL,
+      language: sourceLang,
+      encoding: 'linear16',
+      sample_rate: '24000',
+      channels: '1',
+      interim_results: 'true',
+      smart_format: 'true',
+      punctuate: 'true',
+      endpointing: String(DEEPGRAM_ENDPOINTING_MS),
+      utterance_end_ms: String(DEEPGRAM_UTTERANCE_END_MS)
+    });
+    this.ws = new WebSocket(`wss://api.deepgram.com/v1/listen?${query}`, {
+      headers: { Authorization: `Token ${apiKey}` }
+    });
+    this.ws.on('open', () => {
+      this.ready = true;
+      this.flush();
+      this.emit('status', 'open');
+      this.keepAliveTimer = setInterval(() => {
+        try {
+          if (this.ws?.readyState === WebSocket.OPEN) this.ws.send(JSON.stringify({ type: 'KeepAlive' }));
+        } catch {}
+      }, 8000);
+      this.keepAliveTimer.unref?.();
+    });
+    this.ws.on('message', (data) => this.handleMessage(data));
+    this.ws.on('error', (err) => this.emit('status', 'error: ' + err.message));
+    this.ws.on('close', () => {
+      this.ready = false;
+      clearInterval(this.keepAliveTimer);
+      clearTimeout(this.flushTimer);
+      this.emit('closed', { intentional: this.closedByUser, reason: 'socket_closed' });
+    });
+  }
+
+  handleMessage(data) {
+    let ev;
+    try { ev = JSON.parse(data.toString()); } catch { return; }
+    if (ev.type === 'Metadata') return;
+    if (ev.type === 'UtteranceEnd') {
+      this.flushUtterance();
+      return;
+    }
+    if (ev.type !== 'Results') return;
+    const transcript = String(ev.channel?.alternatives?.[0]?.transcript || '').trim();
+    if (!transcript) return;
+    this.emit('interim', { text: transcript, isFinal: Boolean(ev.is_final), speechFinal: Boolean(ev.speech_final) });
+    if (!ev.is_final) return;
+    this.pendingFinal.push(transcript);
+    clearTimeout(this.flushTimer);
+    if (ev.speech_final) this.flushUtterance();
+    else this.flushTimer = setTimeout(() => this.flushUtterance(), DEEPGRAM_FLUSH_MS);
+  }
+
+  flushUtterance() {
+    clearTimeout(this.flushTimer);
+    this.flushTimer = null;
+    const text = this.pendingFinal.join(' ').replace(/\s+/g, ' ').trim();
+    this.pendingFinal = [];
+    if (text) this.emit('utterance', { text });
+  }
+
+  _send(base64) {
+    try {
+      if (this.ws?.readyState === WebSocket.OPEN) this.ws.send(Buffer.from(base64, 'base64'));
+    } catch {}
+  }
+
+  close() {
+    this.flushUtterance();
+    clearInterval(this.keepAliveTimer);
+    clearTimeout(this.flushTimer);
+    try {
+      if (this.ws?.readyState === WebSocket.OPEN) this.ws.send(JSON.stringify({ type: 'CloseStream' }));
+    } catch {}
+    super.close();
+  }
+}
+
 function hasEngineKey(engine) {
   if (engine === 'openai') return Boolean(process.env.OPENAI_API_KEY);
   if (engine === 'gemini') return Boolean(process.env.GEMINI_API_KEY);
+  if (engine === 'deepgram') return Boolean(process.env.DEEPGRAM_API_KEY && process.env.OPENAI_API_KEY);
   return true;
 }
 
@@ -218,11 +319,63 @@ function createSession(engine, lang) {
   return new StubSession(lang);
 }
 
+function extractResponseText(payload) {
+  if (typeof payload?.output_text === 'string') return payload.output_text;
+  const parts = [];
+  for (const item of payload?.output || []) {
+    for (const content of item?.content || []) {
+      if (typeof content?.text === 'string') parts.push(content.text);
+    }
+  }
+  return parts.join('\n');
+}
+
+function parseJsonObject(text) {
+  const clean = String(text || '').trim().replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/, '');
+  const start = clean.indexOf('{');
+  const end = clean.lastIndexOf('}');
+  if (start === -1 || end === -1 || end <= start) throw new Error('Translator returned invalid JSON');
+  return JSON.parse(clean.slice(start, end + 1));
+}
+
+async function translateTextWithOpenAI({ sourceText, sourceLang, targetLangs }) {
+  const apiKey = process.env.OPENAI_API_KEY;
+  if (!apiKey) throw new Error('OPENAI_API_KEY is not set');
+  const targets = targetLangs.filter(lang => lang !== sourceLang);
+  const result = {};
+  if (targetLangs.includes(sourceLang)) result[sourceLang] = sourceText;
+  if (!targets.length) return result;
+
+  const response = await fetch('https://api.openai.com/v1/responses', {
+    method: 'POST',
+    headers: {
+      Authorization: `Bearer ${apiKey}`,
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      model: OPENAI_TEXT_MODEL,
+      instructions: 'You are a live church interpreter. Translate faithfully and naturally. Preserve Bible names and meaning. Do not add explanations. Return only one valid JSON object whose keys are exactly the requested target language codes.',
+      input: `Source language: ${sourceLang}\nTarget language codes: ${targets.join(', ')}\nText:\n${sourceText}`,
+      max_output_tokens: 1200
+    })
+  });
+  const payload = await response.json().catch(() => ({}));
+  if (!response.ok) throw new Error(payload?.error?.message || `OpenAI text translation failed: ${response.status}`);
+  const translated = parseJsonObject(extractResponseText(payload));
+  for (const lang of targets) {
+    const value = String(translated?.[lang] || '').trim();
+    if (!value) throw new Error(`Translator omitted language ${lang}`);
+    result[lang] = value;
+  }
+  return result;
+}
+
 export class TranslationHub {
   constructor() {
     this.running = false;
     this.engineKind = 'stub';
     this.displayLang = 'en';
+    this.sourceLang = sanitizeLang(DEEPGRAM_SOURCE_LANGUAGE) || 'ru';
     this.sessions = new Map();
     this.sessionMeta = new Map();
     this.buffers = new Map();
@@ -234,7 +387,17 @@ export class TranslationHub {
     this.audioPeak = 0;
     this.audioChunks = 0;
     this.lastTranscriptAt = 0;
+    this.lastSourceTranscriptAt = 0;
+    this.lastSourceText = '';
     this.captureError = '';
+    this.deepgramSession = null;
+    this.deepgramAttempts = 0;
+    this.deepgramRetryTimer = null;
+    this.deepgramNextRetryAt = 0;
+    this.deepgramGeneration = 0;
+    this.deepgramStatus = 'closed';
+    this.pendingTranslations = 0;
+    this.translationChain = Promise.resolve();
     this.healthTimer = setInterval(() => this.broadcastStatus(), 2000);
     this.healthTimer.unref?.();
   }
@@ -243,14 +406,16 @@ export class TranslationHub {
     const now = Date.now();
     const audioFresh = this.running && this.captureClients.size > 0 && this.lastAudioAt > 0 && now - this.lastAudioAt <= AUDIO_STALE_MS;
     const transcriptFresh = this.running && this.lastTranscriptAt > 0 && now - this.lastTranscriptAt <= TRANSCRIPT_STALE_MS;
-    const languages = [...this.sessionMeta.entries()].map(([lang, meta]) => ({
-      lang,
-      status: this.langStatus.get(lang) || 'connecting',
-      engine: meta.engine,
-      preferredEngine: meta.preferredEngine,
-      reconnectAttempts: meta.attempts,
-      nextRetryAt: meta.nextRetryAt || null
-    }));
+    const languages = this.engineKind === 'deepgram'
+      ? [...this.buffers.keys()].map(lang => ({ lang, status: this.langStatus.get(lang) || 'waiting', engine: 'deepgram+openai-text', preferredEngine: 'deepgram', reconnectAttempts: this.deepgramAttempts, nextRetryAt: this.deepgramNextRetryAt || null }))
+      : [...this.sessionMeta.entries()].map(([lang, meta]) => ({
+          lang,
+          status: this.langStatus.get(lang) || 'connecting',
+          engine: meta.engine,
+          preferredEngine: meta.preferredEngine,
+          reconnectAttempts: meta.attempts,
+          nextRetryAt: meta.nextRetryAt || null
+        }));
     const languageError = languages.some(item => String(item.status).startsWith('error') || item.status === 'reconnecting');
     let severity = 'ok';
     let alert = '';
@@ -260,7 +425,7 @@ export class TranslationHub {
     } else if (this.running && this.lastAudioAt && !audioFresh) {
       severity = 'error';
       alert = 'Звук перестал поступать в перевод.';
-    } else if (this.running && languageError) {
+    } else if (this.running && (languageError || (this.engineKind === 'deepgram' && this.deepgramStatus !== 'open'))) {
       severity = 'error';
       alert = 'Облачный перевод потерял соединение и переподключается.';
     } else if (this.running && this.lastAudioAt && !transcriptFresh) {
@@ -271,9 +436,20 @@ export class TranslationHub {
       running: this.running,
       engine: this.engineKind,
       displayLang: this.displayLang,
+      sourceLang: this.sourceLang,
       severity,
       alert,
       health: { audioFresh, transcriptFresh, checkedAt: now },
+      pipeline: this.engineKind === 'deepgram' ? {
+        stt: 'deepgram',
+        sttModel: DEEPGRAM_MODEL,
+        sttStatus: this.deepgramStatus,
+        translator: 'openai',
+        translationModel: OPENAI_TEXT_MODEL,
+        pendingTranslations: this.pendingTranslations,
+        lastSourceTranscriptAt: this.lastSourceTranscriptAt || null,
+        lastSourceText: this.lastSourceText || ''
+      } : null,
       capture: {
         connected: this.captureClients.size > 0,
         clients: this.captureClients.size,
@@ -288,33 +464,50 @@ export class TranslationHub {
     };
   }
 
-  start({ engine, displayLang } = {}) {
+  start({ engine, displayLang, sourceLang } = {}) {
     if (this.running) this.stop();
-    this.engineKind = ['openai', 'gemini'].includes(engine) ? engine : 'stub';
+    this.engineKind = ['openai', 'gemini', 'deepgram'].includes(engine) ? engine : 'stub';
     this.displayLang = sanitizeLang(displayLang) || 'en';
+    this.sourceLang = sanitizeLang(sourceLang) || sanitizeLang(DEEPGRAM_SOURCE_LANGUAGE) || 'ru';
     this.running = true;
     this.lastTranscriptAt = 0;
+    this.lastSourceTranscriptAt = 0;
+    this.lastSourceText = '';
     this.ensureLanguage(this.displayLang);
+    if (this.engineKind === 'deepgram') this.openDeepgramSession();
     this.broadcastStatus();
     return this.status();
   }
 
   stop() {
     this.running = false;
+    clearTimeout(this.deepgramRetryTimer);
+    this.deepgramRetryTimer = null;
+    this.deepgramNextRetryAt = 0;
+    this.deepgramGeneration += 1;
+    if (this.deepgramSession) this.deepgramSession.close();
+    this.deepgramSession = null;
+    this.deepgramStatus = 'closed';
     for (const meta of this.sessionMeta.values()) clearTimeout(meta.retryTimer);
     for (const session of this.sessions.values()) session.close();
     this.sessions.clear();
     this.sessionMeta.clear();
     this.buffers.clear();
     this.langStatus.clear();
+    this.pendingTranslations = 0;
     this.broadcastStatus();
     return this.status();
   }
 
   ensureLanguage(langRaw) {
     const lang = sanitizeLang(langRaw);
-    if (!lang || !this.running || this.sessionMeta.has(lang)) return;
+    if (!lang || !this.running || this.buffers.has(lang)) return;
     this.buffers.set(lang, '');
+    if (this.engineKind === 'deepgram') {
+      this.langStatus.set(lang, this.deepgramStatus === 'open' ? 'open' : 'waiting');
+      this.broadcastStatus();
+      return;
+    }
     this.sessionMeta.set(lang, { preferredEngine: this.engineKind, engine: this.engineKind, attempts: 0, generation: 0, retryTimer: null, nextRetryAt: 0 });
     this.openLanguageSession(lang);
   }
@@ -373,6 +566,88 @@ export class TranslationHub {
     this.broadcastStatus();
   }
 
+  openDeepgramSession() {
+    if (!this.running || this.engineKind !== 'deepgram') return;
+    clearTimeout(this.deepgramRetryTimer);
+    this.deepgramRetryTimer = null;
+    this.deepgramNextRetryAt = 0;
+    this.deepgramGeneration += 1;
+    const generation = this.deepgramGeneration;
+    const session = new DeepgramSession(this.sourceLang, process.env.DEEPGRAM_API_KEY);
+    const previous = this.deepgramSession;
+    if (previous && previous !== session) previous.close();
+    this.deepgramSession = session;
+    this.deepgramStatus = 'connecting';
+    for (const lang of this.buffers.keys()) this.langStatus.set(lang, 'waiting');
+
+    session.on('status', (status) => {
+      if (this.deepgramGeneration !== generation) return;
+      this.deepgramStatus = status;
+      if (status === 'open') {
+        this.deepgramAttempts = 0;
+        for (const lang of this.buffers.keys()) this.langStatus.set(lang, 'open');
+      }
+      this.broadcastStatus();
+    });
+    session.on('interim', ({ text, isFinal }) => {
+      if (this.deepgramGeneration !== generation) return;
+      this.broadcast({ type: 'source-transcript', text, final: isFinal, lang: this.sourceLang });
+    });
+    session.on('utterance', ({ text }) => {
+      if (this.deepgramGeneration !== generation || !text) return;
+      this.lastSourceTranscriptAt = Date.now();
+      this.lastSourceText = text;
+      this.broadcast({ type: 'source-transcript', text, final: true, lang: this.sourceLang });
+      this.queueTextTranslation(text);
+    });
+    session.on('closed', ({ intentional } = {}) => {
+      if (this.deepgramGeneration !== generation || intentional || !this.running) return;
+      this.scheduleDeepgramReconnect();
+    });
+    this.broadcastStatus();
+  }
+
+  scheduleDeepgramReconnect() {
+    if (!this.running || this.engineKind !== 'deepgram' || this.deepgramRetryTimer) return;
+    this.deepgramAttempts += 1;
+    const delay = Math.min(RECONNECT_MAX_MS, RECONNECT_BASE_MS * (2 ** Math.max(0, this.deepgramAttempts - 1)));
+    this.deepgramNextRetryAt = Date.now() + delay;
+    this.deepgramStatus = 'reconnecting';
+    for (const lang of this.buffers.keys()) this.langStatus.set(lang, 'reconnecting');
+    this.deepgramRetryTimer = setTimeout(() => {
+      this.deepgramRetryTimer = null;
+      this.deepgramNextRetryAt = 0;
+      this.openDeepgramSession();
+    }, delay);
+    this.broadcastStatus();
+  }
+
+  queueTextTranslation(sourceText) {
+    const targetLangs = [...this.buffers.keys()];
+    if (!targetLangs.length) return;
+    this.pendingTranslations += 1;
+    for (const lang of targetLangs) this.langStatus.set(lang, 'translating');
+    this.broadcastStatus();
+    this.translationChain = this.translationChain
+      .then(async () => {
+        const translated = await translateTextWithOpenAI({ sourceText, sourceLang: this.sourceLang, targetLangs });
+        if (!this.running || this.engineKind !== 'deepgram') return;
+        for (const lang of targetLangs) {
+          const text = String(translated[lang] || '').trim();
+          if (text) this.onTranscript(lang, text + ' ');
+          this.langStatus.set(lang, 'open');
+        }
+      })
+      .catch((error) => {
+        if (!this.running || this.engineKind !== 'deepgram') return;
+        for (const lang of targetLangs) this.langStatus.set(lang, `error: ${error.message}`);
+      })
+      .finally(() => {
+        this.pendingTranslations = Math.max(0, this.pendingTranslations - 1);
+        this.broadcastStatus();
+      });
+  }
+
   onTranscript(lang, delta) {
     this.lastTranscriptAt = Date.now();
     let text = (this.buffers.get(lang) || '') + delta;
@@ -397,7 +672,8 @@ export class TranslationHub {
     this.audioPeak = peak;
     this.lastAudioAt = Date.now();
     this.audioChunks++;
-    for (const session of this.sessions.values()) session.appendAudio(base64);
+    if (this.engineKind === 'deepgram') this.deepgramSession?.appendAudio(base64);
+    else for (const session of this.sessions.values()) session.appendAudio(base64);
   }
 
   captureConnected(ws) {
