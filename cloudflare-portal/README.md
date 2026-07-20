@@ -4,10 +4,10 @@ Cloudflare-only transfer portal for the church mini PC.
 
 The portal is intentionally a temporary mailbox:
 
-1. Users upload MP4/MP3 files through a password-protected page.
+1. Users upload MP4/MP3 files or prepare an ordered sermon slide package through a password-protected page.
 2. Browser uploads directly to private R2 using a short-lived signed URL.
 3. D1 stores metadata and the `pending` queue.
-4. The mini PC polls the Worker, downloads pending files, registers them locally, then marks them `synced`.
+4. The mini PC polls the Worker, downloads pending files or complete sermon packages, registers them locally, then marks them `synced`.
 5. After `synced`, the Worker deletes the R2 object.
 6. A daily Cron Trigger cleans up stale uploaded objects if a device never downloads them.
 
@@ -33,6 +33,21 @@ If the database already existed before the "add to plan" option, also run:
 ```bash
 npm run db:migrate:plan-fields:remote
 ```
+
+For an existing deployment, add sermon package storage before deploying the updated Worker:
+
+```bash
+npm run db:migrate:sermons:remote
+```
+
+## Remote sermon workflow
+
+1. Open **«Подготовить проповедь»** in the portal.
+2. Select multiple JPG/PNG/WebP slides.
+3. Move slides up or down to set the final order.
+4. Optionally enable **«Сразу добавить проповедь в план mini PC»** and choose the beginning or end of the plan.
+5. Upload the package. The portal keeps it in D1 + private R2 until the mini PC comes online.
+6. The mini PC downloads every slide, creates one local sermon, preserves the order, optionally adds one sermon item to the service plan, and then asks the Worker to remove the temporary R2 objects.
 
 Set secrets:
 

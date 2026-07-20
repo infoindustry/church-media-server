@@ -136,6 +136,7 @@ const defaultStore = {
   ],
   activeTranslationProviderId: 'glossa',
   mediaImages: [],
+  sermons: [],
   audioTracks: [],
   audioFolders: [],
   worshipLeaderAudioPrefs: {},
@@ -178,6 +179,7 @@ function normalizeStore(store) {
     translationProviders: Array.isArray(store?.translationProviders) ? store.translationProviders : defaultStore.translationProviders,
     activeTranslationProviderId: store?.activeTranslationProviderId ?? defaultStore.activeTranslationProviderId,
     mediaImages: Array.isArray(store?.mediaImages) ? store.mediaImages : [],
+    sermons: Array.isArray(store?.sermons) ? store.sermons : [],
     audioTracks: Array.isArray(store?.audioTracks) ? store.audioTracks : [],
     audioFolders: Array.isArray(store?.audioFolders) ? store.audioFolders.filter(Boolean) : [],
     worshipLeaderAudioPrefs: store?.worshipLeaderAudioPrefs && typeof store.worshipLeaderAudioPrefs === 'object' ? store.worshipLeaderAudioPrefs : {},
@@ -1102,6 +1104,18 @@ function updateLyricsScreenCommand(command, commandPayload = {}) {
   return store.screenState;
 }
 
+function updateSermonSlide({ offset = 0, slideIndex } = {}) {
+  const store = readStore();
+  if (store.screenState?.mode !== 'sermon') return null;
+  const payload = { ...(store.screenState.payload || {}) };
+  const lastIndex = Math.max(0, (payload.images?.length || 1) - 1);
+  payload.slideIndex = clampNumber(slideIndex ?? ((payload.slideIndex || 0) + offset), 0, lastIndex, 0);
+  store.screenState = { ...store.screenState, payload, updatedBy: 'admin', updatedAt: now() };
+  writeStore(store);
+  broadcast({ type: 'state', state: store.screenState });
+  return store.screenState;
+}
+
 function makePlanItem(input) {
   return {
     id: nanoid(10),
@@ -1189,6 +1203,14 @@ function stateFromPlanItem(item, store) {
   if (item.type === 'external_board') return { mode: 'external_board', payload: { ...payload, fromPlanItemId: item.id } };
   if (item.type === 'image') return { mode: 'image', payload: { ...payload, fromPlanItemId: item.id } };
   if (item.type === 'slideshow') return { mode: 'slideshow', payload: { ...payload, fromPlanItemId: item.id } };
+  if (item.type === 'sermon') {
+    const sermon = store.sermons.find(entry => entry.id === payload.sermonId) || payload.sermon;
+    if (!sermon?.images?.length) return { mode: 'message', payload: { title: item.title, body: 'В проповеди нет слайдов.' } };
+    return {
+      mode: 'sermon',
+      payload: { ...sermon, slideIndex: 0, fromPlanItemId: item.id }
+    };
+  }
   if (item.type === 'welcome') return { mode: 'welcome', payload: { ...(store.settings?.welcome || {}), ...payload, fromPlanItemId: item.id } };
   if (item.type === 'blank') return { mode: 'blank', payload: payload || { title: '', subtitle: '' } };
   return { mode: 'message', payload: { title: item.title, body: payload.body || '' } };
@@ -1232,6 +1254,24 @@ app.post('/api/screen/state', (req, res) => {
   const { mode, payload } = req.body;
   if (!mode) return res.status(400).json({ error: 'mode is required' });
   res.json(updateScreenState(mode, payload || {}));
+});
+
+app.post('/api/sermon/next', (req, res) => {
+  const state = updateSermonSlide({ offset: 1 });
+  if (!state) return res.status(400).json({ error: 'На ТВ сейчас нет проповеди' });
+  res.json(state);
+});
+
+app.post('/api/sermon/previous', (req, res) => {
+  const state = updateSermonSlide({ offset: -1 });
+  if (!state) return res.status(400).json({ error: 'На ТВ сейчас нет проповеди' });
+  res.json(state);
+});
+
+app.post('/api/sermon/set', (req, res) => {
+  const state = updateSermonSlide({ slideIndex: req.body?.slideIndex });
+  if (!state) return res.status(400).json({ error: 'На ТВ сейчас нет проповеди' });
+  res.json(state);
 });
 
 app.get('/api/screen/stream', (req, res) => {
@@ -2434,7 +2474,23 @@ app.delete('/api/images/:id', (req, res) => {
   const image = (store.mediaImages || []).find(i => i.id === req.params.id);
   if (!image) return res.status(404).json({ error: 'Image not found' });
   store.mediaImages = store.mediaImages.filter(i => i.id !== req.params.id);
-  store.servicePlan = store.servicePlan.filter(item => !(item.type === 'image' && item.payload?.imageId === image.id));
+  store.sermons = (store.sermons || []).map(sermon => ({
+    ...sermon,
+    images: (sermon.images || []).filter(item => item.id !== image.id),
+    updatedAt: now()
+  }));
+  store.servicePlan = store.servicePlan
+    .filter(item => !(item.type === 'image' && item.payload?.imageId === image.id))
+    .map(item => {
+      if (item.type !== 'sermon' || !item.payload?.sermon?.images) return item;
+      return {
+        ...item,
+        payload: {
+          ...item.payload,
+          sermon: { ...item.payload.sermon, images: item.payload.sermon.images.filter(entry => entry.id !== image.id) }
+        }
+      };
+    });
   writeStore(store);
   res.json({ ok: true });
 });
@@ -2467,6 +2523,76 @@ function resolveImagesByIds(store, imageIds) {
   const ids = Array.isArray(imageIds) ? imageIds : [];
   return ids.map(id => (store.mediaImages || []).find(i => i.id === id)).filter(Boolean);
 }
+
+function sermonFromInput(store, input = {}, existing = {}) {
+  const images = resolveImagesByIds(store, input.imageIds);
+  if (!images.length) return null;
+  const timestamp = now();
+  return {
+    ...existing,
+    id: existing.id || nanoid(10),
+    title: String(input.title || existing.title || 'Новая проповедь').trim() || 'Новая проповедь',
+    fit: input.fit === 'cover' ? 'cover' : 'contain',
+    images: images.map(image => ({ id: image.id, title: image.title, mediaUrl: image.mediaUrl })),
+    createdAt: existing.createdAt || timestamp,
+    updatedAt: timestamp
+  };
+}
+
+app.get('/api/sermons', (req, res) => {
+  const store = readStore();
+  res.json((store.sermons || []).sort((a, b) => String(b.updatedAt).localeCompare(String(a.updatedAt))));
+});
+
+app.post('/api/sermons', (req, res) => {
+  const store = readStore();
+  const sermon = sermonFromInput(store, req.body || {});
+  if (!sermon) return res.status(400).json({ error: 'Добавьте хотя бы один слайд' });
+  store.sermons = [sermon, ...(store.sermons || [])];
+  writeStore(store);
+  res.status(201).json(sermon);
+});
+
+app.put('/api/sermons/:id', (req, res) => {
+  const store = readStore();
+  const index = (store.sermons || []).findIndex(item => item.id === req.params.id);
+  if (index === -1) return res.status(404).json({ error: 'Проповедь не найдена' });
+  const sermon = sermonFromInput(store, req.body || {}, store.sermons[index]);
+  if (!sermon) return res.status(400).json({ error: 'Добавьте хотя бы один слайд' });
+  store.sermons[index] = sermon;
+  store.servicePlan = store.servicePlan.map(item => item.type === 'sermon' && item.payload?.sermonId === sermon.id
+    ? { ...item, title: sermon.title, payload: { ...item.payload, sermon } }
+    : item);
+  writeStore(store);
+  res.json(sermon);
+});
+
+app.delete('/api/sermons/:id', (req, res) => {
+  const store = readStore();
+  const before = (store.sermons || []).length;
+  const removedPlanIndex = store.servicePlan.findIndex(item => item.type === 'sermon' && item.payload?.sermonId === req.params.id);
+  store.sermons = (store.sermons || []).filter(item => item.id !== req.params.id);
+  store.servicePlan = store.servicePlan.filter(item => !(item.type === 'sermon' && item.payload?.sermonId === req.params.id));
+  if (removedPlanIndex !== -1 && store.activePlanIndex >= removedPlanIndex) store.activePlanIndex = Math.max(-1, store.activePlanIndex - 1);
+  writeStore(store);
+  res.json({ ok: before !== store.sermons.length });
+});
+
+app.post('/api/sermons/:id/show', (req, res) => {
+  const sermon = (readStore().sermons || []).find(item => item.id === req.params.id);
+  if (!sermon) return res.status(404).json({ error: 'Проповедь не найдена' });
+  res.json(updateScreenState('sermon', { ...sermon, slideIndex: 0 }));
+});
+
+app.post('/api/sermons/:id/add-to-plan', (req, res) => {
+  const store = readStore();
+  const sermon = (store.sermons || []).find(entry => entry.id === req.params.id);
+  if (!sermon) return res.status(404).json({ error: 'Проповедь не найдена' });
+  const item = makePlanItem({ type: 'sermon', title: sermon.title, payload: { sermonId: sermon.id, sermon } });
+  store.servicePlan.push(item);
+  writeStore(store);
+  res.status(201).json({ item, servicePlan: store.servicePlan });
+});
 
 app.post('/api/slideshow/show', (req, res) => {
   const store = readStore();
@@ -2515,7 +2641,33 @@ app.post('/api/announcements/:id/add-to-plan', (req, res) => {
 
 app.get('/api/service-plan', (req, res) => {
   const store = readStore();
-  res.json({ servicePlan: store.servicePlan, activePlanIndex: store.activePlanIndex });
+  const servicePlan = store.servicePlan.map(item => {
+    const payload = item.payload || {};
+    let resolvedPayload = payload;
+    let preview = null;
+    if (item.type === 'image') preview = { kind: 'image', url: payload.mediaUrl };
+    if (item.type === 'slideshow') preview = { kind: 'image', url: payload.images?.[0]?.mediaUrl, count: payload.images?.length || 0 };
+    if (item.type === 'sermon') {
+      const sermon = store.sermons.find(entry => entry.id === payload.sermonId) || payload.sermon;
+      if (sermon) resolvedPayload = { ...payload, sermon };
+      preview = { kind: 'image', url: sermon?.images?.[0]?.mediaUrl, count: sermon?.images?.length || 0 };
+    }
+    if (item.type === 'song') {
+      const song = store.songs.find(entry => entry.id === payload.songId) || payload.song;
+      if (song?.mediaUrl && song?.id) preview = { kind: 'image', url: `/api/songs/${song.id}/thumbnail` };
+      else if (song?.mediaUrl) preview = { kind: 'video', url: song.mediaUrl };
+      else if (song?.title) preview = { kind: 'text', text: song.title };
+    }
+    if (item.type === 'audio') {
+      const track = store.audioTracks.find(entry => entry.id === payload.audioId) || payload.track;
+      const firstLines = track?.lyricsParagraphs?.[0]?.lines || track?.lyricsSlides?.[0]?.lines;
+      if (firstLines?.length) preview = { kind: 'text', text: firstLines.join(' ') };
+    }
+    if (item.type === 'bible') preview = { kind: 'text', text: payload.reference || payload.text || '' };
+    if (item.type === 'announcement') preview = { kind: 'text', text: payload.body || payload.title || '' };
+    return preview || resolvedPayload !== payload ? { ...item, payload: resolvedPayload, ...(preview ? { preview } : {}) } : item;
+  });
+  res.json({ servicePlan, activePlanIndex: store.activePlanIndex });
 });
 
 app.post('/api/service-plan/items', (req, res) => {
@@ -2546,23 +2698,39 @@ app.delete('/api/service-plan/items/:id', (req, res) => {
 });
 
 app.post('/api/service-plan/items/:id/move', (req, res) => {
-  const { direction } = req.body;
+  const { direction, targetIndex } = req.body;
   const store = readStore();
   const index = store.servicePlan.findIndex(item => item.id === req.params.id);
   if (index === -1) return res.status(404).json({ error: 'Plan item not found' });
-  const target = direction === 'up' ? index - 1 : index + 1;
+  const requestedTarget = Number(targetIndex);
+  const target = Number.isInteger(requestedTarget)
+    ? Math.max(0, Math.min(requestedTarget, store.servicePlan.length - 1))
+    : (direction === 'up' ? index - 1 : index + 1);
   if (target < 0 || target >= store.servicePlan.length) return res.json({ servicePlan: store.servicePlan, activePlanIndex: store.activePlanIndex });
+  const activeItemId = store.servicePlan[store.activePlanIndex]?.id;
   const copy = [...store.servicePlan];
-  [copy[index], copy[target]] = [copy[target], copy[index]];
+  const [movedItem] = copy.splice(index, 1);
+  copy.splice(target, 0, movedItem);
   store.servicePlan = copy;
-  if (store.activePlanIndex === index) store.activePlanIndex = target;
-  else if (store.activePlanIndex === target) store.activePlanIndex = index;
+  store.activePlanIndex = activeItemId ? store.servicePlan.findIndex(item => item.id === activeItemId) : -1;
   writeStore(store);
   res.json({ servicePlan: store.servicePlan, activePlanIndex: store.activePlanIndex });
 });
 
 app.post('/api/service-plan/next', (req, res) => {
   const store = readStore();
+  const activeItem = store.servicePlan[store.activePlanIndex];
+  const screenPayload = store.screenState?.payload || {};
+  if (activeItem?.type === 'sermon' && store.screenState?.mode === 'sermon' && screenPayload.fromPlanItemId === activeItem.id) {
+    const lastIndex = Math.max(0, (screenPayload.images?.length || 1) - 1);
+    const slideIndex = clampNumber(screenPayload.slideIndex, 0, lastIndex, 0);
+    if (slideIndex < lastIndex) {
+      store.screenState = { ...store.screenState, payload: { ...screenPayload, slideIndex: slideIndex + 1 }, updatedAt: now() };
+      writeStore(store);
+      broadcast({ type: 'state', state: store.screenState });
+      return res.json({ item: activeItem, index: store.activePlanIndex, state: store.screenState, servicePlan: store.servicePlan });
+    }
+  }
   const result = showPlanIndex(store.activePlanIndex + 1);
   if (result.error) return res.status(result.status || 400).json({ error: result.error });
   res.json(result);
@@ -2570,6 +2738,18 @@ app.post('/api/service-plan/next', (req, res) => {
 
 app.post('/api/service-plan/previous', (req, res) => {
   const store = readStore();
+  const activeItem = store.servicePlan[store.activePlanIndex];
+  const screenPayload = store.screenState?.payload || {};
+  if (activeItem?.type === 'sermon' && store.screenState?.mode === 'sermon' && screenPayload.fromPlanItemId === activeItem.id) {
+    const lastIndex = Math.max(0, (screenPayload.images?.length || 1) - 1);
+    const slideIndex = clampNumber(screenPayload.slideIndex, 0, lastIndex, 0);
+    if (slideIndex > 0) {
+      store.screenState = { ...store.screenState, payload: { ...screenPayload, slideIndex: slideIndex - 1 }, updatedAt: now() };
+      writeStore(store);
+      broadcast({ type: 'state', state: store.screenState });
+      return res.json({ item: activeItem, index: store.activePlanIndex, state: store.screenState, servicePlan: store.servicePlan });
+    }
+  }
   const result = showPlanIndex(store.activePlanIndex <= 0 ? 0 : store.activePlanIndex - 1);
   if (result.error) return res.status(result.status || 400).json({ error: result.error });
   res.json(result);
@@ -2622,6 +2802,16 @@ app.get('/api/checkup', (req, res) => {
     if (item.type === 'slideshow') {
       for (const img of item.payload?.images || []) {
         if (img.mediaUrl && !localMediaExists(img.mediaUrl)) planWarnings.push({ index: index + 1, title: img.title || item.title, reason: 'Картинка слайдшоу не найдена' });
+      }
+    }
+    if (item.type === 'sermon') {
+      const sermon = (store.sermons || []).find(entry => entry.id === item.payload?.sermonId) || item.payload?.sermon;
+      if (!sermon) planWarnings.push({ index: index + 1, title: item.title, reason: 'Проповедь удалена' });
+      else if (!sermon.images?.length) planWarnings.push({ index: index + 1, title: item.title, reason: 'В проповеди нет слайдов' });
+      else {
+        for (const image of sermon.images) {
+          if (image.mediaUrl && !localMediaExists(image.mediaUrl)) planWarnings.push({ index: index + 1, title: image.title || item.title, reason: 'Слайд проповеди не найден' });
+        }
       }
     }
   }

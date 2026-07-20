@@ -53,10 +53,15 @@ async function route(request, env, ctx) {
   if (path === '/api/me' && request.method === 'GET') return requirePortal(request, env, async () => json({ ok: true }));
   if (path === '/api/items' && request.method === 'GET') return requirePortal(request, env, () => listItems(env));
   if (path === '/api/uploads/create' && request.method === 'POST') return requirePortal(request, env, () => createUpload(request, env));
+  if (path === '/api/sermons/create' && request.method === 'POST') return requirePortal(request, env, () => createSermonPackage(request, env));
   if (path === '/api/youtube' && request.method === 'POST') return requirePortal(request, env, () => createYouTubeItem(request, env));
   if (path.match(/^\/api\/uploads\/[^/]+\/complete$/) && request.method === 'POST') {
     const id = path.split('/')[3];
     return requirePortal(request, env, () => completeUpload(env, id));
+  }
+  if (path.match(/^\/api\/sermons\/[^/]+\/complete$/) && request.method === 'POST') {
+    const id = path.split('/')[3];
+    return requirePortal(request, env, () => completeSermonPackage(env, id));
   }
   if (path.match(/^\/api\/items\/[^/]+$/) && request.method === 'DELETE') {
     const id = path.split('/')[3];
@@ -127,6 +132,14 @@ async function listItems(env) {
       ORDER BY created_at DESC
       LIMIT 200`
   ).all();
+  const sermonRows = await env.DB.prepare(
+    `SELECT id, title, fit, slides_json, size_bytes, add_to_plan, plan_position, status, error,
+            created_at, uploaded_at, download_started_at, synced_at, synced_by, deleted_at
+       FROM sermon_packages
+      WHERE deleted_at IS NULL
+      ORDER BY created_at DESC
+      LIMIT 100`
+  ).all();
   const devices = await env.DB.prepare(
     `SELECT id, name, last_seen_at, current_version, updated_at
        FROM devices
@@ -135,13 +148,84 @@ async function listItems(env) {
   ).all();
   const nowMs = Date.now();
   return json({
-    items: (rows.results || []).map(normalizeItem),
+    items: [
+      ...(rows.results || []).map(normalizeItem),
+      ...(sermonRows.results || []).map(normalizeSermonItem)
+    ].sort((a, b) => String(b.createdAt).localeCompare(String(a.createdAt))).slice(0, 200),
     devices: (devices.results || []).map(device => ({
       ...device,
       online: nowMs - new Date(device.last_seen_at).getTime() < 45000
     })),
     time: nowIso()
   });
+}
+
+async function createSermonPackage(request, env) {
+  const body = await readJson(request);
+  const inputSlides = Array.isArray(body.slides) ? body.slides.slice(0, 100) : [];
+  if (!inputSlides.length) return json({ error: 'Добавьте хотя бы один слайд' }, 400);
+  const invalidSlideIndex = inputSlides.findIndex(input => !isImageFile(input.mimeType, input.fileName));
+  if (invalidSlideIndex !== -1) return json({ error: `Слайд ${invalidSlideIndex + 1}: поддерживаются только изображения` }, 400);
+  const id = crypto.randomUUID();
+  const createdAt = nowIso();
+  const slides = inputSlides.map((input, index) => {
+    const fileName = cleanFileName(input.fileName || `slide-${index + 1}.jpg`);
+    return {
+      id: crypto.randomUUID(),
+      order: index,
+      title: cleanText(input.title) || fileName.replace(/\.[^.]+$/, ''),
+      originalFileName: fileName,
+      mimeType: cleanText(input.mimeType),
+      sizeBytes: Math.max(0, Number(input.sizeBytes || 0)),
+      r2Key: `incoming/sermons/${createdAt.slice(0, 10)}/${id}/${String(index + 1).padStart(3, '0')}-${fileName}`
+    };
+  });
+  const totalSize = slides.reduce((sum, slide) => sum + slide.sizeBytes, 0);
+  await env.DB.prepare(
+    `INSERT INTO sermon_packages
+      (id, title, fit, slides_json, size_bytes, add_to_plan, plan_position, status, created_at, updated_at)
+     VALUES (?, ?, ?, ?, ?, ?, ?, 'uploading', ?, ?)`
+  ).bind(
+    id,
+    cleanText(body.title) || 'Новая проповедь',
+    body.fit === 'cover' ? 'cover' : 'contain',
+    JSON.stringify(slides),
+    totalSize,
+    body.addToPlan ? 1 : 0,
+    normalizePlanPosition(body.planPosition),
+    createdAt,
+    createdAt
+  ).run();
+  const uploadSlides = [];
+  for (const slide of slides) {
+    uploadSlides.push({
+      id: slide.id,
+      order: slide.order,
+      uploadUrl: await presignR2(env, 'PUT', slide.r2Key, numberEnv(env.UPLOAD_URL_TTL_SECONDS, 900))
+    });
+  }
+  return json({ id, slides: uploadSlides, expiresIn: numberEnv(env.UPLOAD_URL_TTL_SECONDS, 900) }, 201);
+}
+
+async function completeSermonPackage(env, id) {
+  const row = await env.DB.prepare(`SELECT * FROM sermon_packages WHERE id = ? AND deleted_at IS NULL`).bind(id).first();
+  if (!row) return json({ error: 'Проповедь не найдена' }, 404);
+  const slides = safeJsonArray(row.slides_json);
+  if (!slides.length) return json({ error: 'В проповеди нет слайдов' }, 400);
+  let totalSize = 0;
+  for (const [index, slide] of slides.entries()) {
+    const object = await env.MEDIA_BUCKET.head(slide.r2Key);
+    if (!object) return json({ error: `Слайд ${index + 1} не найден в R2` }, 409);
+    slide.sizeBytes = object.size || slide.sizeBytes || 0;
+    totalSize += slide.sizeBytes;
+  }
+  const updatedAt = nowIso();
+  await env.DB.prepare(
+    `UPDATE sermon_packages
+        SET status = 'pending', slides_json = ?, size_bytes = ?, uploaded_at = ?, updated_at = ?, error = ''
+      WHERE id = ?`
+  ).bind(JSON.stringify(slides), totalSize, updatedAt, updatedAt, id).run();
+  return json({ ok: true });
 }
 
 async function createUpload(request, env) {
@@ -228,7 +312,19 @@ async function completeUpload(env, id) {
 
 async function deleteItem(env, id) {
   const item = await findItem(env, id);
-  if (!item) return json({ error: 'Item not found' }, 404);
+  if (!item) {
+    const sermon = await env.DB.prepare(`SELECT * FROM sermon_packages WHERE id = ? AND deleted_at IS NULL`).bind(id).first();
+    if (!sermon) return json({ error: 'Item not found' }, 404);
+    const updatedAt = nowIso();
+    const slides = safeJsonArray(sermon.slides_json);
+    if (sermon.status !== 'synced') await deleteSermonObjects(env, slides);
+    await env.DB.prepare(
+      `UPDATE sermon_packages
+          SET deleted_at = ?, updated_at = ?, status = CASE WHEN status = 'synced' THEN status ELSE 'deleted' END
+        WHERE id = ?`
+    ).bind(updatedAt, updatedAt, id).run();
+    return json({ ok: true });
+  }
   const updatedAt = nowIso();
   if (item.r2_key && item.status !== 'synced') await env.MEDIA_BUCKET.delete(item.r2_key);
   await env.DB.prepare(
@@ -267,10 +363,14 @@ async function heartbeat(request, env) {
        updated_at = excluded.updated_at`
   ).bind(deviceId, name, now, version, ip, now, now).run();
   const pending = await env.DB.prepare(
-    `SELECT COUNT(*) AS count
-       FROM media_items
-      WHERE deleted_at IS NULL
-        AND (status = 'pending' OR (status = 'downloading' AND julianday(download_started_at) < julianday('now', '-15 minutes')))`
+    `SELECT
+      (SELECT COUNT(*) FROM media_items
+        WHERE deleted_at IS NULL
+          AND (status = 'pending' OR (status = 'downloading' AND julianday(download_started_at) < julianday('now', '-15 minutes'))))
+      +
+      (SELECT COUNT(*) FROM sermon_packages
+        WHERE deleted_at IS NULL
+          AND (status = 'pending' OR (status = 'downloading' AND julianday(download_started_at) < julianday('now', '-15 minutes')))) AS count`
   ).first();
   return json({ ok: true, deviceId, time: now, pendingCount: pending?.count || 0 });
 }
@@ -286,6 +386,14 @@ async function devicePending(request, env) {
       ORDER BY created_at ASC
       LIMIT ?`
   ).bind(limit).all();
+  const sermonRows = await env.DB.prepare(
+    `SELECT id, title, fit, slides_json, size_bytes, add_to_plan, plan_position, status, created_at
+       FROM sermon_packages
+      WHERE deleted_at IS NULL
+        AND (status = 'pending' OR (status = 'downloading' AND julianday(download_started_at) < julianday('now', '-15 minutes')))
+      ORDER BY created_at ASC
+      LIMIT ?`
+  ).bind(limit).all();
   const items = [];
   for (const row of rows.results || []) {
     items.push({
@@ -293,13 +401,25 @@ async function devicePending(request, env) {
       downloadUrl: row.r2_key ? await presignR2(env, 'GET', row.r2_key, numberEnv(env.DOWNLOAD_URL_TTL_SECONDS, 900)) : ''
     });
   }
-  return json({ items, time: nowIso() });
+  for (const row of sermonRows.results || []) {
+    const sermon = normalizeSermonItem(row);
+    const slides = [];
+    for (const slide of sermon.slides) {
+      slides.push({
+        ...slide,
+        downloadUrl: slide.r2Key ? await presignR2(env, 'GET', slide.r2Key, numberEnv(env.DOWNLOAD_URL_TTL_SECONDS, 900)) : ''
+      });
+    }
+    items.push({ ...sermon, slides });
+  }
+  items.sort((a, b) => String(a.createdAt).localeCompare(String(b.createdAt)));
+  return json({ items: items.slice(0, limit), time: nowIso() });
 }
 
 async function markDownloadStarted(request, env, id) {
   const body = await readJson(request);
   const now = nowIso();
-  await env.DB.prepare(
+  const mediaResult = await env.DB.prepare(
     `UPDATE media_items
         SET status = 'downloading',
             download_started_at = ?,
@@ -308,37 +428,56 @@ async function markDownloadStarted(request, env, id) {
             error = ''
       WHERE id = ? AND status IN ('pending', 'failed', 'downloading')`
   ).bind(now, cleanText(body.deviceId) || 'mini-pc', now, id).run();
+  if (!mediaResult.meta?.changes) {
+    await env.DB.prepare(
+      `UPDATE sermon_packages
+          SET status = 'downloading', download_started_at = ?, synced_by = ?, updated_at = ?, error = ''
+        WHERE id = ? AND status IN ('pending', 'failed', 'downloading')`
+    ).bind(now, cleanText(body.deviceId) || 'mini-pc', now, id).run();
+  }
   return json({ ok: true });
 }
 
 async function markSynced(request, env, ctx, id) {
   const body = await readJson(request);
   const item = await findItem(env, id);
-  if (!item) return json({ error: 'Item not found' }, 404);
   const now = nowIso();
+  if (item) {
+    await env.DB.prepare(
+      `UPDATE media_items
+          SET status = 'synced', synced_at = ?, synced_by = ?, updated_at = ?, error = ''
+        WHERE id = ?`
+    ).bind(now, cleanText(body.deviceId) || 'mini-pc', now, id).run();
+    if (item.r2_key) ctx.waitUntil(env.MEDIA_BUCKET.delete(item.r2_key));
+    return json({ ok: true, deletedFromR2: Boolean(item.r2_key) });
+  }
+  const sermon = await env.DB.prepare(`SELECT * FROM sermon_packages WHERE id = ? AND deleted_at IS NULL`).bind(id).first();
+  if (!sermon) return json({ error: 'Item not found' }, 404);
   await env.DB.prepare(
-    `UPDATE media_items
-        SET status = 'synced',
-            synced_at = ?,
-            synced_by = ?,
-            updated_at = ?,
-            error = ''
+    `UPDATE sermon_packages
+        SET status = 'synced', synced_at = ?, synced_by = ?, updated_at = ?, error = ''
       WHERE id = ?`
   ).bind(now, cleanText(body.deviceId) || 'mini-pc', now, id).run();
-  if (item.r2_key) ctx.waitUntil(env.MEDIA_BUCKET.delete(item.r2_key));
-  return json({ ok: true, deletedFromR2: Boolean(item.r2_key) });
+  const slides = safeJsonArray(sermon.slides_json);
+  ctx.waitUntil(deleteSermonObjects(env, slides));
+  return json({ ok: true, deletedFromR2: slides.length > 0 });
 }
 
 async function markFailed(request, env, id) {
   const body = await readJson(request);
   const now = nowIso();
-  await env.DB.prepare(
+  const mediaResult = await env.DB.prepare(
     `UPDATE media_items
         SET status = 'failed',
             error = ?,
             updated_at = ?
       WHERE id = ?`
   ).bind(cleanText(body.error).slice(0, 1000), now, id).run();
+  if (!mediaResult.meta?.changes) {
+    await env.DB.prepare(
+      `UPDATE sermon_packages SET status = 'failed', error = ?, updated_at = ? WHERE id = ?`
+    ).bind(cleanText(body.error).slice(0, 1000), now, id).run();
+  }
   return json({ ok: true });
 }
 
@@ -370,6 +509,28 @@ function normalizeItem(row) {
   };
 }
 
+function normalizeSermonItem(row) {
+  const slides = safeJsonArray(row.slides_json).sort((a, b) => Number(a.order || 0) - Number(b.order || 0));
+  return {
+    id: row.id,
+    kind: 'sermon',
+    title: row.title,
+    fit: row.fit === 'cover' ? 'cover' : 'contain',
+    slides,
+    slideCount: slides.length,
+    sizeBytes: row.size_bytes,
+    addToPlan: Boolean(row.add_to_plan),
+    planPosition: row.plan_position || 'end',
+    status: row.status,
+    error: row.error,
+    createdAt: row.created_at,
+    uploadedAt: row.uploaded_at,
+    downloadStartedAt: row.download_started_at,
+    syncedAt: row.synced_at,
+    syncedBy: row.synced_by
+  };
+}
+
 function inferKind(kind, mimeType, fileName) {
   const requested = cleanText(kind).toLowerCase();
   if (['video', 'audio', 'youtube'].includes(requested)) return requested;
@@ -379,6 +540,11 @@ function inferKind(kind, mimeType, fileName) {
   const ext = fileExtension(fileName).toLowerCase();
   if (['.mp3', '.wav', '.ogg', '.m4a', '.aac', '.flac', '.webm'].includes(ext)) return 'audio';
   return 'video';
+}
+
+function isImageFile(mimeType, fileName) {
+  if (cleanText(mimeType).toLowerCase().startsWith('image/')) return true;
+  return ['.jpg', '.jpeg', '.png', '.webp', '.gif', '.svg'].includes(fileExtension(fileName));
 }
 
 function normalizeTags(value) {
@@ -428,10 +594,40 @@ async function cleanupStaleObjects(env) {
       console.error(JSON.stringify({ level: 'warn', message: 'cleanup_failed', id: row.id, error: error.message }));
     }
   }
+  const sermonRows = await env.DB.prepare(
+    `SELECT id, slides_json, status
+       FROM sermon_packages
+      WHERE deleted_at IS NULL
+        AND (
+          status IN ('uploading', 'failed', 'deleted', 'synced')
+          OR (status IN ('pending', 'downloading') AND julianday(created_at) < julianday('now', '-30 days'))
+        )
+        AND julianday(updated_at) < julianday('now', '-7 days')
+      LIMIT 50`
+  ).all();
+  for (const row of sermonRows.results || []) {
+    try {
+      const slides = safeJsonArray(row.slides_json);
+      await deleteSermonObjects(env, slides);
+      await env.DB.prepare(
+        `UPDATE sermon_packages
+            SET deleted_at = COALESCE(deleted_at, ?), updated_at = ?,
+                status = CASE WHEN status = 'synced' THEN status ELSE 'expired' END
+          WHERE id = ?`
+      ).bind(now, now, row.id).run();
+    } catch (error) {
+      console.error(JSON.stringify({ level: 'warn', message: 'sermon_cleanup_failed', id: row.id, error: error.message }));
+    }
+  }
 }
 
 function cleanText(value) {
   return String(value || '').replace(/\s+/g, ' ').trim();
+}
+
+async function deleteSermonObjects(env, slides) {
+  const keys = (slides || []).map(slide => slide.r2Key).filter(Boolean);
+  if (keys.length) await env.MEDIA_BUCKET.delete(keys);
 }
 
 function cleanFileName(value) {
@@ -667,6 +863,14 @@ function portalHtml() {
     p { color: var(--muted); margin: 6px 0 0; line-height: 1.5; }
     .layout { display: grid; grid-template-columns: minmax(320px, 430px) 1fr; gap: 18px; align-items: start; }
     .panel { background: var(--panel); border: 1px solid var(--border); border-radius: 8px; box-shadow: var(--shadow); padding: 18px; }
+    .sermon-workspace { margin-bottom: 18px; padding: 24px; }
+    .sermon-workspace-head { display: flex; align-items: end; justify-content: space-between; gap: 18px; margin-bottom: 20px; }
+    .sermon-workspace-head h2 { font-size: 24px; margin-bottom: 5px; }
+    .sermon-builder { display: grid; grid-template-columns: minmax(260px, 330px) minmax(0, 1fr); gap: 24px; align-items: start; }
+    .sermon-controls { display: grid; gap: 12px; position: sticky; top: 18px; }
+    .sermon-canvas { min-width: 0; padding: 14px; border: 1px solid var(--border); border-radius: 12px; background: #f4f7f5; }
+    .sermon-canvas-head { display: flex; justify-content: space-between; gap: 12px; align-items: center; margin-bottom: 12px; }
+    .sermon-canvas-head strong { font-size: 15px; }
     .stack { display: grid; gap: 18px; }
     .form { display: grid; gap: 12px; }
     label { display: grid; gap: 6px; color: #3d4a45; font-size: 13px; font-weight: 650; }
@@ -703,13 +907,37 @@ function portalHtml() {
     .muted { color: var(--muted); font-size: 12px; }
     .progress { height: 8px; background: #e8eeeb; border-radius: 999px; overflow: hidden; }
     .progress > span { display: block; height: 100%; background: var(--accent); width: 0%; transition: width 160ms ease; }
+    .slide-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+    .slide-row { position: relative; display: flex; flex-direction: column; gap: 10px; min-width: 0; padding: 11px; border: 1px solid var(--border); border-radius: 12px; background: #fff; cursor: grab; transition: opacity .15s ease, transform .15s ease, border-color .15s ease, box-shadow .15s ease; }
+    .slide-row:active { cursor: grabbing; }
+    .slide-row.dragging { opacity: .42; transform: scale(.98); }
+    .slide-row.drag-target { border-color: var(--accent); box-shadow: 0 0 0 4px rgba(15, 118, 110, .16); }
+    .slide-number { position: absolute; z-index: 3; top: 18px; left: 18px; display: grid; place-items: center; min-width: 34px; height: 34px; padding: 0 7px; border-radius: 999px; background: #dcefeb; color: var(--accent-strong); font-weight: 850; box-shadow: 0 3px 12px rgba(0,0,0,.16); }
+    .slide-drag-handle { position: absolute; z-index: 3; top: 18px; right: 18px; padding: 7px 10px; border-radius: 999px; background: rgba(0,0,0,.72); color: #fff; font-size: 11px; font-weight: 800; pointer-events: none; }
+    .slide-thumb-button { display: block; width: 100%; min-height: 0; padding: 0; overflow: hidden; border-radius: 9px; border: 1px solid #cfd8d4; background: #101715; }
+    .slide-thumb { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: contain; background: #101715; }
+    .slide-copy { display: flex; align-items: center; justify-content: space-between; gap: 12px; width: 100%; min-width: 0; padding: 1px 2px; }
+    .slide-copy .item-title { min-width: 0; margin: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 14px; }
+    .slide-copy .muted { flex: 0 0 auto; white-space: nowrap; }
+    .slide-actions { display: grid; grid-template-columns: repeat(3, 1fr); gap: 7px; }
+    .slide-actions button { min-height: 34px; padding: 6px 9px; }
+    .preview-modal { position: fixed; z-index: 100; inset: 0; display: grid; place-items: center; padding: 24px; background: rgba(5, 12, 10, .88); }
+    .preview-modal-card { position: relative; width: min(1100px, 100%); display: grid; gap: 10px; }
+    .preview-modal img { display: block; width: 100%; max-height: 82vh; object-fit: contain; border-radius: 10px; background: #000; }
+    .preview-modal strong { color: #fff; text-align: center; overflow-wrap: anywhere; }
+    .preview-close { position: absolute; z-index: 2; top: 12px; right: 12px; width: 44px; height: 44px; padding: 0; border: 0; border-radius: 999px; background: rgba(0,0,0,.72); color: #fff; font-size: 25px; }
     .hidden { display: none !important; }
     .empty { padding: 28px; text-align: center; color: var(--muted); }
+    @media (min-width: 1450px) {
+      .slide-list { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    }
     @media (max-width: 900px) {
       .shell { padding: 18px; }
       header { align-items: flex-start; flex-direction: column; }
       .layout { grid-template-columns: 1fr; }
       .row { grid-template-columns: 1fr; }
+      .sermon-builder { grid-template-columns: 1fr; }
+      .sermon-controls { position: static; }
     }
     @media (max-width: 720px) {
       body { background: #fff; }
@@ -767,6 +995,17 @@ function portalHtml() {
       td:nth-child(6) button { width: 100%; min-height: 42px; }
       .item-title { overflow-wrap: anywhere; }
       .muted { overflow-wrap: anywhere; }
+      .sermon-workspace { padding: 14px; }
+      .sermon-workspace-head { align-items: flex-start; flex-direction: column; }
+      .sermon-workspace-head h2 { font-size: 20px; }
+      .sermon-canvas { padding: 10px; }
+      .slide-list { grid-template-columns: 1fr; }
+      .slide-row { gap: 8px; }
+      .slide-thumb-button { width: 100%; }
+      .slide-copy { align-items: flex-start; flex-direction: column; gap: 3px; }
+      .slide-copy .item-title { width: 100%; }
+      .slide-actions button { min-width: 48px; }
+      .preview-modal { padding: 10px; }
     }
     @media (max-width: 420px) {
       .shell { padding: 8px; }
@@ -780,7 +1019,7 @@ function portalHtml() {
   <main class="shell">
     <section id="login" class="panel login hidden">
       <h1>Church Media Portal</h1>
-      <p>Введите пароль, чтобы загрузить песни для mini PC.</p>
+      <p>Введите пароль, чтобы отправить песни или готовую проповедь на mini PC.</p>
       <form id="loginForm" class="form" style="margin-top: 18px">
         <label>Пароль портала<input id="password" type="password" autocomplete="current-password" required /></label>
         <button class="primary" type="submit">Войти</button>
@@ -792,13 +1031,44 @@ function portalHtml() {
       <header>
         <div>
           <h1>Church Media Portal</h1>
-          <p>Временная передача MP4/MP3 на церковный mini PC.</p>
+          <p>Песни, фонограммы и готовые проповеди для церковного mini PC.</p>
         </div>
         <div class="button-row">
           <button id="refreshBtn">Обновить</button>
           <button id="logoutBtn">Выйти</button>
         </div>
       </header>
+
+      <section class="panel sermon-workspace">
+        <div class="sermon-workspace-head">
+          <div>
+            <h2>Подготовить проповедь</h2>
+            <p>Выберите готовые слайды, визуально расставьте их по порядку и отправьте одним пакетом.</p>
+          </div>
+          <span class="badge">Полноширинный редактор</span>
+        </div>
+        <form id="sermonForm" class="sermon-builder">
+          <div class="sermon-controls">
+            <label>Слайды<input id="sermonFiles" type="file" accept="image/*,.jpg,.jpeg,.png,.webp" multiple /></label>
+            <label>Название<input id="sermonTitle" placeholder="Например: Живая надежда" required /></label>
+            <label>Отображение
+              <select id="sermonFit"><option value="contain">Вместить целиком</option><option value="cover">Заполнить экран</option></select>
+            </label>
+            <label class="checkline"><input id="sermonAddToPlan" type="checkbox" /> Сразу добавить проповедь в план mini PC</label>
+            <label>Позиция в плане
+              <select id="sermonPlanPosition"><option value="end">В конец плана</option><option value="start">В начало плана</option></select>
+            </label>
+            <button id="sermonUploadBtn" class="primary" type="submit" disabled>Отправить проповедь</button>
+            <div class="progress hidden" id="sermonProgress"><span></span></div>
+            <p id="sermonStatus" class="muted">Добавьте слайды в нужной последовательности.</p>
+          </div>
+          <div class="sermon-canvas">
+            <div class="sermon-canvas-head"><strong>Последовательность слайдов · перетащите карточку мышкой</strong><span id="sermonSlideCount" class="badge">0 слайдов</span></div>
+            <div id="sermonSlideList" class="slide-list"></div>
+            <div id="sermonSlideEmpty" class="empty">Выберите изображения — здесь появится большая визуальная раскладка проповеди.</div>
+          </div>
+        </form>
+      </section>
 
       <div class="layout">
         <div class="stack">
@@ -868,6 +1138,13 @@ function portalHtml() {
       </div>
     </section>
   </main>
+  <div id="slidePreviewModal" class="preview-modal hidden" role="dialog" aria-modal="true" aria-label="Предпросмотр слайда">
+    <div class="preview-modal-card">
+      <button id="slidePreviewClose" class="preview-close" type="button" aria-label="Закрыть">×</button>
+      <img id="slidePreviewImage" alt="Предпросмотр слайда" />
+      <strong id="slidePreviewTitle"></strong>
+    </div>
+  </div>
 
   <script>
     const login = document.getElementById('login');
@@ -878,6 +1155,13 @@ function portalHtml() {
     const uploadForm = document.getElementById('uploadForm');
     const progress = document.getElementById('progress');
     const progressBar = progress.querySelector('span');
+    const sermonForm = document.getElementById('sermonForm');
+    const sermonSlideList = document.getElementById('sermonSlideList');
+    const sermonProgress = document.getElementById('sermonProgress');
+    const sermonProgressBar = sermonProgress.querySelector('span');
+    let sermonFiles = [];
+    let draggedSermonIndex = -1;
+    const sermonPreviewUrls = new Map();
 
     async function api(path, options = {}) {
       const response = await fetch(path, options);
@@ -919,13 +1203,13 @@ function portalHtml() {
     }
 
     function renderItems(items) {
-      count.textContent = items.length + ' файлов';
+      count.textContent = items.length + ' материалов';
       empty.classList.toggle('hidden', items.length !== 0);
       itemsBody.innerHTML = items.map(item => {
         const status = statusBadge(item.status, item.error);
         return '<tr>' +
-          '<td><div class="item-title">' + escapeHtml(item.title) + '</div><div class="muted">' + escapeHtml(item.originalFileName || '') + '</div><div class="muted">' + escapeHtml([item.language, item.category, (item.tags || []).join(', ')].filter(Boolean).join(' · ')) + '</div></td>' +
-          '<td>' + escapeHtml(item.kind) + '</td>' +
+          '<td><div class="item-title">' + escapeHtml(item.title) + '</div><div class="muted">' + escapeHtml(item.kind === 'sermon' ? ((item.slideCount || 0) + ' слайдов') : (item.originalFileName || '')) + '</div><div class="muted">' + escapeHtml([item.language, item.category, (item.tags || []).join(', ')].filter(Boolean).join(' · ')) + '</div></td>' +
+          '<td>' + escapeHtml(item.kind === 'sermon' ? 'проповедь' : item.kind) + '</td>' +
           '<td>' + formatSize(item.sizeBytes || 0) + '</td>' +
           '<td>' + status + (item.addToPlan ? '<div class="muted">+ в план · ' + escapeHtml(item.planPosition === 'start' ? 'начало' : 'конец') + '</div>' : '') + '</td>' +
           '<td><div class="muted">создан ' + formatDate(item.createdAt) + '</div>' + (item.syncedAt ? '<div class="muted">скачан ' + formatDate(item.syncedAt) + '</div>' : '') + '</td>' +
@@ -983,19 +1267,180 @@ function portalHtml() {
       }
     });
 
-    function putFile(url, file) {
+    function putFile(url, file, onProgress) {
       return new Promise((resolve, reject) => {
         const xhr = new XMLHttpRequest();
         xhr.open('PUT', url);
         if (file.type) xhr.setRequestHeader('content-type', file.type);
         xhr.upload.onprogress = (event) => {
-          if (event.lengthComputable) progressBar.style.width = Math.round((event.loaded / event.total) * 100) + '%';
+          if (event.lengthComputable) {
+            const percent = Math.round((event.loaded / event.total) * 100);
+            if (onProgress) onProgress(percent);
+            else progressBar.style.width = percent + '%';
+          }
         };
         xhr.onload = () => xhr.status >= 200 && xhr.status < 300 ? resolve() : reject(new Error('R2 upload failed: ' + xhr.status));
         xhr.onerror = () => reject(new Error('Network error during upload'));
         xhr.send(file);
       });
     }
+
+    document.getElementById('sermonFiles').addEventListener('change', (event) => {
+      sermonFiles = [...sermonFiles, ...Array.from(event.target.files || []).filter(file => file.type.startsWith('image/'))];
+      event.target.value = '';
+      renderSermonFiles();
+    });
+
+    sermonSlideList.addEventListener('click', (event) => {
+      const previewIndex = Number(event.target?.dataset?.slidePreview);
+      if (Number.isInteger(previewIndex) && sermonFiles[previewIndex]) {
+        openSermonPreview(previewIndex);
+        return;
+      }
+      const index = Number(event.target?.dataset?.slideIndex);
+      const action = event.target?.dataset?.slideAction;
+      if (!Number.isInteger(index) || !action) return;
+      if (action === 'remove') {
+        revokeSermonPreview(sermonFiles[index]);
+        sermonFiles.splice(index, 1);
+      }
+      if (action === 'up' && index > 0) [sermonFiles[index - 1], sermonFiles[index]] = [sermonFiles[index], sermonFiles[index - 1]];
+      if (action === 'down' && index < sermonFiles.length - 1) [sermonFiles[index + 1], sermonFiles[index]] = [sermonFiles[index], sermonFiles[index + 1]];
+      renderSermonFiles();
+    });
+
+    sermonSlideList.addEventListener('dragstart', (event) => {
+      const card = event.target.closest('[data-slide-card]');
+      if (!card) return;
+      draggedSermonIndex = Number(card.dataset.slideCard);
+      card.classList.add('dragging');
+      event.dataTransfer.effectAllowed = 'move';
+      event.dataTransfer.setData('text/plain', String(draggedSermonIndex));
+    });
+
+    sermonSlideList.addEventListener('dragover', (event) => {
+      if (draggedSermonIndex < 0) return;
+      const card = event.target.closest('[data-slide-card]');
+      if (!card || Number(card.dataset.slideCard) === draggedSermonIndex) return;
+      event.preventDefault();
+      event.dataTransfer.dropEffect = 'move';
+      sermonSlideList.querySelectorAll('.drag-target').forEach(item => item.classList.remove('drag-target'));
+      card.classList.add('drag-target');
+    });
+
+    sermonSlideList.addEventListener('drop', (event) => {
+      const card = event.target.closest('[data-slide-card]');
+      const targetIndex = card ? Number(card.dataset.slideCard) : -1;
+      event.preventDefault();
+      if (draggedSermonIndex < 0 || targetIndex < 0 || targetIndex === draggedSermonIndex) return clearSermonDragState();
+      const [movedFile] = sermonFiles.splice(draggedSermonIndex, 1);
+      sermonFiles.splice(targetIndex, 0, movedFile);
+      clearSermonDragState();
+      renderSermonFiles();
+    });
+
+    sermonSlideList.addEventListener('dragend', clearSermonDragState);
+
+    function clearSermonDragState() {
+      draggedSermonIndex = -1;
+      sermonSlideList.querySelectorAll('.dragging, .drag-target').forEach(item => item.classList.remove('dragging', 'drag-target'));
+    }
+
+    function renderSermonFiles() {
+      document.getElementById('sermonUploadBtn').disabled = sermonFiles.length === 0;
+      document.getElementById('sermonSlideCount').textContent = sermonFiles.length + (sermonFiles.length === 1 ? ' слайд' : ' слайдов');
+      document.getElementById('sermonSlideEmpty').classList.toggle('hidden', sermonFiles.length !== 0);
+      sermonSlideList.innerHTML = sermonFiles.map((file, index) =>
+        '<div class="slide-row" draggable="true" data-slide-card="' + index + '"><span class="slide-number">' + (index + 1) + '</span><span class="slide-drag-handle">⋮⋮ Перетащить</span>' +
+        '<button class="slide-thumb-button" type="button" data-slide-preview="' + index + '" title="Открыть крупный предпросмотр"><img class="slide-thumb" src="' + escapeHtml(sermonPreviewUrl(file)) + '" alt="Слайд ' + (index + 1) + '" data-slide-preview="' + index + '" /></button>' +
+        '<div class="slide-copy"><div class="item-title">' + escapeHtml(file.name) + '</div><div class="muted">Слайд ' + (index + 1) + ' · ' + formatSize(file.size) + '</div></div>' +
+        '<div class="slide-actions">' +
+        '<button type="button" data-slide-action="up" data-slide-index="' + index + '"' + (index === 0 ? ' disabled' : '') + '>↑</button>' +
+        '<button type="button" data-slide-action="down" data-slide-index="' + index + '"' + (index === sermonFiles.length - 1 ? ' disabled' : '') + '>↓</button>' +
+        '<button type="button" class="danger" data-slide-action="remove" data-slide-index="' + index + '">×</button>' +
+        '</div></div>'
+      ).join('');
+    }
+
+    function sermonPreviewUrl(file) {
+      if (!sermonPreviewUrls.has(file)) sermonPreviewUrls.set(file, URL.createObjectURL(file));
+      return sermonPreviewUrls.get(file);
+    }
+
+    function revokeSermonPreview(file) {
+      const url = sermonPreviewUrls.get(file);
+      if (url) URL.revokeObjectURL(url);
+      sermonPreviewUrls.delete(file);
+    }
+
+    function openSermonPreview(index) {
+      const file = sermonFiles[index];
+      if (!file) return;
+      document.getElementById('slidePreviewImage').src = sermonPreviewUrl(file);
+      document.getElementById('slidePreviewTitle').textContent = (index + 1) + '. ' + file.name;
+      document.getElementById('slidePreviewModal').classList.remove('hidden');
+    }
+
+    function closeSermonPreview() {
+      document.getElementById('slidePreviewModal').classList.add('hidden');
+      document.getElementById('slidePreviewImage').removeAttribute('src');
+    }
+
+    document.getElementById('slidePreviewClose').addEventListener('click', closeSermonPreview);
+    document.getElementById('slidePreviewModal').addEventListener('click', event => {
+      if (event.target.id === 'slidePreviewModal') closeSermonPreview();
+    });
+    document.addEventListener('keydown', event => {
+      if (event.key === 'Escape') closeSermonPreview();
+    });
+    window.addEventListener('beforeunload', () => {
+      for (const url of sermonPreviewUrls.values()) URL.revokeObjectURL(url);
+    });
+
+    sermonForm.addEventListener('submit', async (event) => {
+      event.preventDefault();
+      if (!sermonFiles.length) return;
+      const uploadButton = document.getElementById('sermonUploadBtn');
+      const status = document.getElementById('sermonStatus');
+      uploadButton.disabled = true;
+      sermonProgress.classList.remove('hidden');
+      sermonProgressBar.style.width = '0%';
+      status.textContent = 'Готовлю пакет проповеди...';
+      try {
+        const created = await api('/api/sermons/create', {
+          method: 'POST',
+          headers: { 'content-type': 'application/json' },
+          body: JSON.stringify({
+            title: document.getElementById('sermonTitle').value,
+            fit: document.getElementById('sermonFit').value,
+            addToPlan: document.getElementById('sermonAddToPlan').checked,
+            planPosition: document.getElementById('sermonPlanPosition').value,
+            slides: sermonFiles.map(file => ({ fileName: file.name, title: file.name.replace(/\.[^.]+$/, ''), mimeType: file.type, sizeBytes: file.size }))
+          })
+        });
+        for (const [index, upload] of created.slides.entries()) {
+          const file = sermonFiles[index];
+          status.textContent = 'Загружаю слайд ' + (index + 1) + ' из ' + sermonFiles.length + '...';
+          await putFile(upload.uploadUrl, file, percent => {
+            const overall = Math.round(((index + percent / 100) / sermonFiles.length) * 100);
+            sermonProgressBar.style.width = overall + '%';
+          });
+        }
+        await api('/api/sermons/' + created.id + '/complete', { method: 'POST' });
+        for (const file of sermonFiles) revokeSermonPreview(file);
+        sermonFiles = [];
+        sermonForm.reset();
+        renderSermonFiles();
+        sermonProgressBar.style.width = '100%';
+        status.textContent = 'Проповедь в очереди. Mini PC скачает все слайды при включении.';
+        await load();
+      } catch (error) {
+        if (error.message === 'unauthorized') return boot();
+        status.textContent = error.message;
+      } finally {
+        uploadButton.disabled = sermonFiles.length === 0;
+      }
+    });
 
     document.getElementById('loginForm').addEventListener('submit', async (event) => {
       event.preventDefault();

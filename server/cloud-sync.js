@@ -6,6 +6,7 @@ import { nanoid } from 'nanoid';
 
 const VIDEO_EXT = new Set(['.mp4', '.mov', '.mkv', '.webm', '.m4v', '.avi']);
 const AUDIO_EXT = new Set(['.mp3', '.wav', '.ogg', '.m4a', '.aac', '.flac', '.webm']);
+const IMAGE_EXT = new Set(['.jpg', '.jpeg', '.png', '.webp', '.gif', '.svg']);
 
 export function startCloudSync({ readStore, writeStore, mediaDir, now, safeFileName }) {
   const baseUrl = String(process.env.CLOUD_SYNC_URL || '').replace(/\/+$/, '');
@@ -86,6 +87,29 @@ async function syncItem({ baseUrl, token, deviceId, item, readStore, writeStore,
 
   let targetPath = '';
   try {
+    if (item.kind === 'sermon') {
+      const existingStore = readStore();
+      const existing = (existingStore.sermons || []).find(sermon => sermon.cloudItemId === item.id);
+      if (existing) {
+        maybeAddSermonToPlan(existingStore, item, existing, now);
+        writeStore(existingStore);
+        await apiJson(`${baseUrl}/api/device/items/${item.id}/synced`, {
+          token,
+          method: 'POST',
+          body: { deviceId, localId: existing.id }
+        });
+        return;
+      }
+      const result = await downloadAndRegisterSermon({ item, mediaDir, now, safeFileName, readStore, writeStore });
+      await apiJson(`${baseUrl}/api/device/items/${item.id}/synced`, {
+        token,
+        method: 'POST',
+        body: { deviceId, localId: result.id }
+      });
+      console.log(`Cloud sermon synced: ${result.title} (${result.images.length} slides)`);
+      return;
+    }
+
     if (item.kind === 'youtube') {
       const record = registerLocalMedia({
         item,
@@ -137,6 +161,66 @@ async function syncItem({ baseUrl, token, deviceId, item, readStore, writeStore,
       method: 'POST',
       body: { deviceId, error: error.message }
     }).catch(() => {});
+    throw error;
+  }
+}
+
+async function downloadAndRegisterSermon({ item, mediaDir, now, safeFileName, readStore, writeStore }) {
+  const slides = Array.isArray(item.slides) ? item.slides : [];
+  if (!slides.length) throw new Error('Cloud sermon has no slides');
+  const imageDir = path.join(mediaDir, 'images');
+  fs.mkdirSync(imageDir, { recursive: true });
+  const downloaded = [];
+
+  try {
+    for (const [index, slide] of slides.entries()) {
+      if (!slide.downloadUrl) throw new Error(`Sermon slide ${index + 1} has no download URL`);
+      const originalName = slide.originalFileName || slide.fileName || `slide-${index + 1}${imageExtension(slide)}`;
+      const preferredName = safeFileName(`${String(index + 1).padStart(3, '0')}-${originalName}`);
+      const target = uniqueTargetPath(imageDir, preferredName);
+      await downloadToFile(slide.downloadUrl, target.targetPath);
+      downloaded.push({
+        id: nanoid(10),
+        title: slide.title || originalName.replace(/\.[^.]+$/, ''),
+        mediaUrl: `/media/images/${target.fileName}`,
+        fileName: target.fileName,
+        originalFileName: originalName,
+        mimeType: slide.mimeType || '',
+        sizeBytes: Number(slide.sizeBytes || 0),
+        targetPath: target.targetPath
+      });
+    }
+
+    const store = readStore();
+    const createdAt = now();
+    const mediaImages = downloaded.map(image => ({
+      ...image,
+      targetPath: undefined,
+      category: 'Проповеди',
+      tags: ['sermon'],
+      sourceType: 'cloud_sermon',
+      cloudItemId: item.id,
+      createdAt,
+      updatedAt: createdAt
+    }));
+    const sermon = {
+      id: nanoid(10),
+      title: item.title || 'Проповедь',
+      fit: item.fit === 'cover' ? 'cover' : 'contain',
+      cloudItemId: item.id,
+      images: mediaImages.map(image => ({ id: image.id, title: image.title, mediaUrl: image.mediaUrl })),
+      createdAt,
+      updatedAt: createdAt
+    };
+    store.mediaImages = [...mediaImages, ...(store.mediaImages || [])];
+    store.sermons = [sermon, ...(store.sermons || [])];
+    maybeAddSermonToPlan(store, item, sermon, now);
+    writeStore(store);
+    return sermon;
+  } catch (error) {
+    for (const image of downloaded) {
+      try { if (fs.existsSync(image.targetPath)) fs.unlinkSync(image.targetPath); } catch {}
+    }
     throw error;
   }
 }
@@ -245,6 +329,25 @@ function maybeAddToPlan(store, item, record, type, now) {
   }
 }
 
+function maybeAddSermonToPlan(store, item, sermon, now) {
+  if (!item.addToPlan || !sermon?.id) return;
+  store.servicePlan = Array.isArray(store.servicePlan) ? store.servicePlan : [];
+  if (store.servicePlan.some(planItem => planItem.payload?.cloudItemId === item.id)) return;
+  const planItem = {
+    id: nanoid(10),
+    type: 'sermon',
+    title: sermon.title || item.title || 'Проповедь',
+    payload: { sermonId: sermon.id, sermon, cloudItemId: item.id },
+    createdAt: now()
+  };
+  if (item.planPosition === 'start') {
+    store.servicePlan.unshift(planItem);
+    if (Number.isInteger(store.activePlanIndex) && store.activePlanIndex >= 0) store.activePlanIndex += 1;
+  } else {
+    store.servicePlan.push(planItem);
+  }
+}
+
 async function downloadToFile(url, targetPath) {
   const response = await fetch(url);
   if (!response.ok || !response.body) {
@@ -291,4 +394,15 @@ function fallbackExtension(item) {
   const ext = path.extname(item.originalFileName || '').toLowerCase();
   if (VIDEO_EXT.has(ext) || AUDIO_EXT.has(ext)) return ext;
   return item.kind === 'audio' ? '.mp3' : '.mp4';
+}
+
+function imageExtension(slide) {
+  const ext = path.extname(slide.originalFileName || slide.fileName || '').toLowerCase();
+  if (IMAGE_EXT.has(ext)) return ext;
+  const mime = String(slide.mimeType || '').toLowerCase();
+  if (mime.includes('png')) return '.png';
+  if (mime.includes('webp')) return '.webp';
+  if (mime.includes('gif')) return '.gif';
+  if (mime.includes('svg')) return '.svg';
+  return '.jpg';
 }

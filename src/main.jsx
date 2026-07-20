@@ -301,6 +301,7 @@ function AdminApp() {
     ['prayer-requests', BookOpen, 'Молитва'],
     ['external-links', ExternalLink, 'Ссылки'],
     ['missions', Globe2, 'Миссии'],
+    ['sermons', BookOpen, 'Проповеди'],
     ['media', Images, 'Картинки'],
     ['checkup', Wifi, 'Проверка']
   ];
@@ -354,6 +355,8 @@ function AdminApp() {
             <button onClick={() => action('Старт звука на ТВ отправлен', () => api('/api/screen/command', postJson({ command: 'audio-check' })))}><Volume2 size={18} /> Старт звука на ТВ</button>
             <button onClick={() => action('Слова: назад', () => api('/api/screen/command', postJson({ command: 'lyrics-prev' })))}><SkipBack size={18} /> Слова</button>
             <button onClick={() => action('Слова: вперед', () => api('/api/screen/command', postJson({ command: 'lyrics-next' })))}><SkipForward size={18} /> Слова</button>
+            {state?.mode === 'sermon' && <button onClick={() => action('Слайд назад', () => api('/api/sermon/previous', { method: 'POST' }))}><SkipBack size={18} /> Слайд</button>}
+            {state?.mode === 'sermon' && <button className="primary" onClick={() => action('Слайд вперёд', () => api('/api/sermon/next', { method: 'POST' }))}><SkipForward size={18} /> Слайд</button>}
             <button onClick={() => action('Назад по плану', () => api('/api/service-plan/previous', { method: 'POST' }))}><SkipBack size={18} /> Назад</button>
             <button className="primary" onClick={() => action('Следующий пункт', () => api('/api/service-plan/next', { method: 'POST' }))}><SkipForward size={18} /> Следующий</button>
             <button className="danger" onClick={() => action('Blank', () => api('/api/blank', postJson({ payload: { title: '', subtitle: '' } })))}><Moon size={18} /> Blank</button>
@@ -439,7 +442,7 @@ function AdminApp() {
 
         {tab === 'live' && <LivePanel state={state} plan={plan} action={action} />}
         {tab === 'welcome' && <WelcomePanel action={action} refreshSettings={refreshSettings} />}
-        {tab === 'plan' && <ServicePlanPanel plan={plan} refreshPlan={refreshPlan} action={action} />}
+        {tab === 'plan' && <ServicePlanPanel plan={plan} state={state} refreshPlan={refreshPlan} action={action} />}
         {tab === 'songs' && <SongsPanel action={action} refreshPlan={refreshPlan} />}
         {tab === 'audio' && <AudioPanel action={action} refreshPlan={refreshPlan} />}
         {tab === 'bibleka' && <LearningVideosPanel section={LEARNING_SECTIONS[0]} action={action} refreshPlan={refreshPlan} />}
@@ -451,6 +454,7 @@ function AdminApp() {
         {tab === 'prayer-requests' && <PrayerRequestsPanel action={action} />}
         {tab === 'external-links' && <ExternalLinksPanel action={action} refreshPlan={refreshPlan} />}
         {tab === 'missions' && <MissionBoardPanel action={action} />}
+        {tab === 'sermons' && <SermonsPanel action={action} refreshPlan={refreshPlan} />}
         {tab === 'media' && <MediaPanel action={action} />}
         {tab === 'checkup' && <CheckupPanel />}
       </main>
@@ -474,13 +478,14 @@ function describeState(state) {
   if (state.mode === 'external_board') return `Внешняя ссылка: ${p.title || p.url || ''}`;
   if (state.mode === 'image') return `Картинка: ${p.title || ''}`;
   if (state.mode === 'slideshow') return `Слайдшоу: ${p.title || ''} (${p.images?.length || 0})`;
+  if (state.mode === 'sermon') return `Проповедь: ${p.title || ''} · слайд ${(p.slideIndex || 0) + 1} из ${p.images?.length || 0}`;
   if (state.mode === 'blank') return p.title || p.subtitle ? `Заставка: ${p.title || p.subtitle}` : 'Черный экран';
   return state.mode;
 }
 
 function typeLabel(type) {
   return {
-    welcome: 'Приветствие', song: 'Песня', song_video: 'Песня', audio: 'Фонограмма', audio_track: 'Фонограмма', youtube_audio: 'YouTube audio', youtube: 'YouTube', bible: 'Писание', translation_qr: 'QR перевода', translation_caption: 'Субтитры', translation_live: 'Live субтитры', announcement: 'Объявление', wifi: 'Wi-Fi', external_board: 'Ссылка', image: 'Картинка', slideshow: 'Слайдшоу', blank: 'Blank', loading: 'Загрузка'
+    welcome: 'Приветствие', song: 'Песня', song_video: 'Песня', audio: 'Фонограмма', audio_track: 'Фонограмма', youtube_audio: 'YouTube audio', youtube: 'YouTube', bible: 'Писание', translation_qr: 'QR перевода', translation_caption: 'Субтитры', translation_live: 'Live субтитры', announcement: 'Объявление', wifi: 'Wi-Fi', external_board: 'Ссылка', image: 'Картинка', slideshow: 'Слайдшоу', sermon: 'Проповедь', blank: 'Blank', loading: 'Загрузка'
   }[type] || type;
 }
 
@@ -630,8 +635,9 @@ function LivePanel({ state, plan, action }) {
   );
 }
 
-function ServicePlanPanel({ plan, refreshPlan, action }) {
+function ServicePlanPanel({ plan, state, refreshPlan, action }) {
   const [editMode, setEditMode] = useState(false);
+  const [draggedItemId, setDraggedItemId] = useState('');
   const planTemplates = [
     {
       id: 'sunday',
@@ -687,6 +693,18 @@ function ServicePlanPanel({ plan, refreshPlan, action }) {
     await api(`/api/service-plan/items/${id}/move`, postJson({ direction }));
     await refreshPlan();
   }
+  async function moveTo(id, targetIndex) {
+    if (!id) return;
+    await api(`/api/service-plan/items/${id}/move`, postJson({ targetIndex }));
+    setDraggedItemId('');
+    await refreshPlan();
+  }
+  async function showSermonSlide(item, slideIndex) {
+    if (state?.mode !== 'sermon' || state?.payload?.fromPlanItemId !== item.id) {
+      await api(`/api/service-plan/items/${item.id}/show`, { method: 'POST' });
+    }
+    await api('/api/sermon/set', postJson({ slideIndex }));
+  }
   async function clear() {
     if (!confirm('Очистить план служения?')) return;
     await api('/api/service-plan/clear', { method: 'POST' });
@@ -712,7 +730,7 @@ function ServicePlanPanel({ plan, refreshPlan, action }) {
     <section className="grid two">
       <div className="card">
         <div className="card-title-row">
-          <div><h2>План служения</h2><p>Заранее собери порядок: песни, Писание, QR, объявления.</p></div>
+          <div><h2>План служения</h2><p>Заранее собери порядок. Проповедь добавляется одним пунктом со всеми слайдами.</p></div>
           <div className="plan-head-actions">
             <button className={cx('icon-btn', editMode && 'primary')} onClick={() => setEditMode(v => !v)} title={editMode ? 'Заблокировать план (скрыть удаление)' : 'Редактировать план (показать удаление)'}>
               {editMode ? <Unlock size={17} /> : <Lock size={17} />} {editMode ? 'Редактирование' : 'Редактировать план'}
@@ -745,16 +763,32 @@ function ServicePlanPanel({ plan, refreshPlan, action }) {
         <div className="song-list">
           {plan.servicePlan?.length === 0 && <p>План пустой. Добавляй песни из каталога или Писание/QR из соответствующих разделов.</p>}
           {plan.servicePlan?.map((item, index) => (
-            <article className={cx('song-item', index === plan.activePlanIndex && 'active-plan-item')} key={item.id}>
-              <div>
+            <article
+              className={cx('song-item', 'plan-item-card', index === plan.activePlanIndex && 'active-plan-item', draggedItemId === item.id && 'dragging')}
+              key={item.id}
+              draggable={editMode}
+              onDragStart={() => setDraggedItemId(item.id)}
+              onDragEnd={() => setDraggedItemId('')}
+              onDragOver={event => { if (editMode) event.preventDefault(); }}
+              onDrop={event => { event.preventDefault(); moveTo(draggedItemId, index); }}
+            >
+              <PlanItemPreview item={item} />
+              <div className="plan-item-copy">
                 <h3>{index + 1}. {item.title}</h3>
-                <p>{typeLabel(item.type)} {index === plan.activePlanIndex ? '· сейчас на плане' : ''}</p>
+                <p>{typeLabel(item.type)} {item.preview?.count ? `· ${item.preview.count} слайдов` : ''} {index === plan.activePlanIndex ? '· сейчас на плане' : ''}</p>
                 <span className="badge ok">{typeLabel(item.type)}</span>
+                {item.type === 'sermon' && (
+                  <PlanSermonSlides
+                    item={item}
+                    state={state}
+                    onShowSlide={slideIndex => action(`Слайд ${slideIndex + 1} показан`, () => showSermonSlide(item, slideIndex))}
+                  />
+                )}
               </div>
               <div className="song-actions wrap-actions">
                 <button className="primary" onClick={() => action('Пункт показан', () => api(`/api/service-plan/items/${item.id}/show`, { method: 'POST' }))}><Monitor size={17} /> На ТВ</button>
-                <button className="icon-btn" onClick={() => move(item.id, 'up')}><ArrowUp size={17} /></button>
-                <button className="icon-btn" onClick={() => move(item.id, 'down')}><ArrowDown size={17} /></button>
+                <button className="icon-btn" disabled={index === 0} onClick={() => move(item.id, 'up')} title="Поднять"><ArrowUp size={17} /></button>
+                <button className="icon-btn" disabled={index === plan.servicePlan.length - 1} onClick={() => move(item.id, 'down')} title="Опустить"><ArrowDown size={17} /></button>
                 {editMode && <button className="icon-btn danger" onClick={() => remove(item.id)}><Trash2 size={17} /></button>}
               </div>
             </article>
@@ -762,6 +796,48 @@ function ServicePlanPanel({ plan, refreshPlan, action }) {
         </div>
       </div>
     </section>
+  );
+}
+
+function PlanItemPreview({ item }) {
+  const preview = item.preview;
+  if (!preview) return <div className="plan-preview plan-preview-placeholder"><ClipboardList size={24} /></div>;
+  if (preview.kind === 'video') {
+    return <video className="plan-preview" src={preview.url} muted preload="metadata" aria-label={`Предпросмотр ${item.title}`} />;
+  }
+  if (preview.kind === 'image' && preview.url) {
+    return <img className="plan-preview" src={preview.url} alt={`Предпросмотр: ${item.title}`} loading="lazy" />;
+  }
+  return <div className="plan-preview plan-preview-text">{preview.text || item.title}</div>;
+}
+
+function PlanSermonSlides({ item, state, onShowSlide }) {
+  const images = item.payload?.sermon?.images || [];
+  const isLive = state?.mode === 'sermon' && state?.payload?.fromPlanItemId === item.id;
+  const currentIndex = isLive ? clampNumber(state.payload?.slideIndex, 0, Math.max(0, images.length - 1), 0) : -1;
+  if (!images.length) return null;
+  return (
+    <div className="plan-sermon-slides">
+      <div className="plan-sermon-status">
+        <strong>{isLive ? `Сейчас: слайд ${currentIndex + 1}` : 'Слайды проповеди'}</strong>
+        <span>{isLive && currentIndex < images.length - 1 ? `Дальше: слайд ${currentIndex + 2}` : `${images.length} всего`}</span>
+      </div>
+      <div className="plan-sermon-strip">
+        {images.map((image, index) => (
+          <button
+            className={cx('plan-sermon-thumb', index === currentIndex && 'current', isLive && index === currentIndex + 1 && 'next')}
+            key={image.id || `${image.mediaUrl}-${index}`}
+            onClick={() => onShowSlide(index)}
+            title={`Показать слайд ${index + 1}`}
+          >
+            <img src={image.mediaUrl} alt={`Слайд ${index + 1}: ${image.title || item.title}`} loading="lazy" />
+            <span>{index + 1}</span>
+            {index === currentIndex && <em>сейчас</em>}
+            {isLive && index === currentIndex + 1 && <em>дальше</em>}
+          </button>
+        ))}
+      </div>
+    </div>
   );
 }
 
@@ -2828,6 +2904,173 @@ function MissionBoardPanel({ action }) {
 }
 
 
+function SermonsPanel({ action, refreshPlan }) {
+  const [images, setImages] = useState([]);
+  const [sermons, setSermons] = useState([]);
+  const [editingId, setEditingId] = useState('');
+  const [title, setTitle] = useState('Новая проповедь');
+  const [fit, setFit] = useState('contain');
+  const [slideIds, setSlideIds] = useState([]);
+  const [uploading, setUploading] = useState(false);
+
+  async function load() {
+    const [nextImages, nextSermons] = await Promise.all([api('/api/images'), api('/api/sermons')]);
+    setImages(nextImages);
+    setSermons(nextSermons);
+  }
+
+  useEffect(() => { load(); }, []);
+
+  const imageById = useMemo(() => new Map(images.map(image => [image.id, image])), [images]);
+  const selectedSlides = slideIds.map(id => imageById.get(id)).filter(Boolean);
+
+  function resetEditor() {
+    setEditingId('');
+    setTitle('Новая проповедь');
+    setFit('contain');
+    setSlideIds([]);
+  }
+
+  function editSermon(sermon) {
+    setEditingId(sermon.id);
+    setTitle(sermon.title);
+    setFit(sermon.fit || 'contain');
+    setSlideIds((sermon.images || []).map(image => image.id));
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  function addSlide(id) {
+    setSlideIds(previous => previous.includes(id) ? previous : [...previous, id]);
+  }
+
+  function moveSlide(index, offset) {
+    setSlideIds(previous => {
+      const target = index + offset;
+      if (target < 0 || target >= previous.length) return previous;
+      const next = [...previous];
+      [next[index], next[target]] = [next[target], next[index]];
+      return next;
+    });
+  }
+
+  async function uploadSlides(event) {
+    const files = Array.from(event.target.files || []);
+    if (!files.length) return;
+    setUploading(true);
+    try {
+      const uploadedIds = [];
+      for (const file of files) {
+        const data = new FormData();
+        data.append('image', file);
+        data.append('title', file.name.replace(/\.[^.]+$/, ''));
+        data.append('category', 'Проповеди');
+        data.append('tags', 'sermon');
+        const image = await api('/api/images', { method: 'POST', body: data });
+        uploadedIds.push(image.id);
+      }
+      await load();
+      setSlideIds(previous => [...previous, ...uploadedIds.filter(id => !previous.includes(id))]);
+    } catch (error) {
+      alert(error.message);
+    } finally {
+      setUploading(false);
+      event.target.value = '';
+    }
+  }
+
+  async function saveSermon() {
+    if (!slideIds.length) return alert('Добавь хотя бы один слайд');
+    const path = editingId ? `/api/sermons/${editingId}` : '/api/sermons';
+    const method = editingId ? 'PUT' : 'POST';
+    await api(path, { ...postJson({ title, fit, imageIds: slideIds }), method });
+    resetEditor();
+    await load();
+    await refreshPlan();
+  }
+
+  async function deleteSermon(id) {
+    if (!confirm('Удалить проповедь? Она также исчезнет из плана. Сами картинки останутся в медиатеке.')) return;
+    await api(`/api/sermons/${id}`, { method: 'DELETE' });
+    if (editingId === id) resetEditor();
+    await load();
+    await refreshPlan();
+  }
+
+  return (
+    <section className="sermons-layout">
+      <div className="card">
+        <div className="card-title-row">
+          <div><h2>{editingId ? 'Редактирование проповеди' : 'Подготовить проповедь'}</h2><p>Загрузи или выбери слайды и расставь их в нужном порядке.</p></div>
+          {editingId && <button onClick={resetEditor}><Plus size={17} /> Новая</button>}
+        </div>
+        <div className="form">
+          <label>Название<input value={title} onChange={event => setTitle(event.target.value)} placeholder="Например: Живая надежда" /></label>
+          <div className="form-row">
+            <label>Отображение<select value={fit} onChange={event => setFit(event.target.value)}><option value="contain">Вместить целиком</option><option value="cover">Заполнить экран</option></select></label>
+            <label className="file-input"><Upload size={18} /> {uploading ? 'Загрузка…' : 'Загрузить несколько слайдов'}<input type="file" accept="image/*" multiple disabled={uploading} onChange={uploadSlides} /></label>
+          </div>
+        </div>
+
+        <div className="sermon-slide-list">
+          {!selectedSlides.length && <p className="empty-slides">Слайдов пока нет. Загрузите файлы или добавьте картинки из медиатеки ниже.</p>}
+          {selectedSlides.map((image, index) => (
+            <article className="sermon-slide-row" key={image.id}>
+              <span className="slide-number">{index + 1}</span>
+              <img src={image.mediaUrl} alt={image.title} />
+              <div><strong>{image.title}</strong><small>Слайд {index + 1} из {selectedSlides.length}</small></div>
+              <div className="slide-order-actions">
+                <button className="icon-btn" disabled={index === 0} onClick={() => moveSlide(index, -1)} title="Поднять"><ArrowUp size={17} /></button>
+                <button className="icon-btn" disabled={index === selectedSlides.length - 1} onClick={() => moveSlide(index, 1)} title="Опустить"><ArrowDown size={17} /></button>
+                <button className="icon-btn danger" onClick={() => setSlideIds(previous => previous.filter(id => id !== image.id))} title="Убрать"><Trash2 size={17} /></button>
+              </div>
+            </article>
+          ))}
+        </div>
+        <button className="primary sermon-save" onClick={() => action(editingId ? 'Проповедь обновлена' : 'Проповедь сохранена', saveSermon)} disabled={!slideIds.length}>
+          <CheckCircle2 size={18} /> {editingId ? 'Сохранить изменения' : 'Сохранить проповедь'}
+        </button>
+      </div>
+
+      <div className="card">
+        <h2>Готовые проповеди</h2>
+        <div className="sermon-library">
+          {!sermons.length && <p>Сохранённых проповедей пока нет.</p>}
+          {sermons.map(sermon => (
+            <article className="sermon-card" key={sermon.id}>
+              <div className="sermon-card-preview">
+                {(sermon.images || []).slice(0, 3).map(image => <img key={image.id} src={image.mediaUrl} alt="" loading="lazy" />)}
+              </div>
+              <div><h3>{sermon.title}</h3><p>{sermon.images?.length || 0} слайдов</p></div>
+              <div className="button-row compact">
+                <button className="primary" onClick={() => action('Проповедь показана', () => api(`/api/sermons/${sermon.id}/show`, { method: 'POST' }))}><Monitor size={17} /> На ТВ</button>
+                <button onClick={() => action('Проповедь добавлена в план', () => api(`/api/sermons/${sermon.id}/add-to-plan`, { method: 'POST' }))}><ListPlus size={17} /> В план</button>
+                <button onClick={() => editSermon(sermon)}><ArrowUp size={17} /> Изменить</button>
+                <button className="danger" onClick={() => deleteSermon(sermon.id)}><Trash2 size={17} /></button>
+              </div>
+            </article>
+          ))}
+        </div>
+
+        <div className="divider" />
+        <h2>Медиатека слайдов</h2>
+        <p>Нажимай по картинкам в том порядке, в котором они должны идти.</p>
+        <div className="sermon-image-picker">
+          {images.map(image => {
+            const selectedIndex = slideIds.indexOf(image.id);
+            return (
+              <button className={cx('sermon-image-option', selectedIndex >= 0 && 'selected')} key={image.id} onClick={() => addSlide(image.id)} disabled={selectedIndex >= 0}>
+                <img src={image.mediaUrl} alt={image.title} loading="lazy" />
+                <span>{selectedIndex >= 0 ? `${selectedIndex + 1}` : '+'}</span>
+                <strong>{image.title}</strong>
+              </button>
+            );
+          })}
+        </div>
+      </div>
+    </section>
+  );
+}
+
 function MediaPanel({ action }) {
   const [images, setImages] = useState([]);
   const [selected, setSelected] = useState([]);
@@ -3091,6 +3334,7 @@ function ScreenApp() {
       {state.mode === 'external_board' && <ExternalBoardScreen payload={payload} />}
       {state.mode === 'image' && <ImageScreen payload={payload} />}
       {state.mode === 'slideshow' && <SlideshowScreen payload={payload} />}
+      {state.mode === 'sermon' && <SermonScreen payload={payload} />}
       {state.mode === 'youtube' && <YouTubeScreen payload={payload} />}
       {state.mode === 'youtube_audio' && <YouTubeAudioScreen payload={payload} />}
       {state.mode === 'audio_track' && <AudioTrackScreen payload={payload} mediaRef={mediaRef} />}
@@ -3551,6 +3795,19 @@ function SlideshowScreen({ payload }) {
         <span>{payload.title || 'Слайдшоу'}</span>
         <span>{index + 1} / {images.length}</span>
       </div>
+    </section>
+  );
+}
+
+function SermonScreen({ payload }) {
+  const images = payload.images || [];
+  const index = clampNumber(payload.slideIndex, 0, Math.max(0, images.length - 1), 0);
+  const current = images[index];
+  if (!current) return <MessageScreen payload={{ title: payload.title || 'Проповедь', body: 'Нет слайдов для показа.' }} />;
+  return (
+    <section className="image-screen sermon-screen">
+      <img key={current.mediaUrl} src={current.mediaUrl} alt={current.title || `Слайд ${index + 1}`} className={cx('screen-image', payload.fit === 'contain' && 'contain')} />
+      <div className="sermon-counter">{index + 1} / {images.length}</div>
     </section>
   );
 }
