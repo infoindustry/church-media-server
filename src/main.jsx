@@ -454,7 +454,7 @@ function AdminApp() {
         {tab === 'prayer-requests' && <PrayerRequestsPanel action={action} />}
         {tab === 'external-links' && <ExternalLinksPanel action={action} refreshPlan={refreshPlan} />}
         {tab === 'missions' && <MissionBoardPanel action={action} />}
-        {tab === 'sermons' && <SermonsPanel action={action} refreshPlan={refreshPlan} />}
+        {tab === 'sermons' && <SermonsPanel action={action} refreshPlan={refreshPlan} state={state} />}
         {tab === 'media' && <MediaPanel action={action} />}
         {tab === 'checkup' && <CheckupPanel />}
       </main>
@@ -2904,7 +2904,7 @@ function MissionBoardPanel({ action }) {
 }
 
 
-function SermonsPanel({ action, refreshPlan }) {
+function SermonsPanel({ action, refreshPlan, state }) {
   const [images, setImages] = useState([]);
   const [sermons, setSermons] = useState([]);
   const [editingId, setEditingId] = useState('');
@@ -2996,6 +2996,12 @@ function SermonsPanel({ action, refreshPlan }) {
     await refreshPlan();
   }
 
+  async function changeSermonFit(sermon, fit) {
+    await api(`/api/sermons/${sermon.id}/fit`, postJson({ fit }));
+    await load();
+    await refreshPlan();
+  }
+
   return (
     <section className="sermons-layout">
       <div className="card">
@@ -3006,7 +3012,7 @@ function SermonsPanel({ action, refreshPlan }) {
         <div className="form">
           <label>Название<input value={title} onChange={event => setTitle(event.target.value)} placeholder="Например: Живая надежда" /></label>
           <div className="form-row">
-            <label>Отображение<select value={fit} onChange={event => setFit(event.target.value)}><option value="contain">Вместить целиком</option><option value="cover">Заполнить экран</option></select></label>
+          <label>Отображение<select value={fit} onChange={event => setFit(event.target.value)}><option value="contain">Вместить целиком</option><option value="safe">С полями</option><option value="cover">Заполнить экран</option></select></label>
             <label className="file-input"><Upload size={18} /> {uploading ? 'Загрузка…' : 'Загрузить несколько слайдов'}<input type="file" accept="image/*" multiple disabled={uploading} onChange={uploadSlides} /></label>
           </div>
         </div>
@@ -3035,12 +3041,27 @@ function SermonsPanel({ action, refreshPlan }) {
         <h2>Готовые проповеди</h2>
         <div className="sermon-library">
           {!sermons.length && <p>Сохранённых проповедей пока нет.</p>}
-          {sermons.map(sermon => (
-            <article className="sermon-card" key={sermon.id}>
+          {sermons.map(sermon => {
+            const isLive = state?.mode === 'sermon' && state?.payload?.id === sermon.id;
+            const liveIndex = isLive ? clampNumber(state.payload.slideIndex, 0, Math.max(0, (sermon.images?.length || 1) - 1), 0) : 0;
+            return (
+            <article className={cx('sermon-card', isLive && 'live')} key={sermon.id}>
               <div className="sermon-card-preview">
                 {(sermon.images || []).slice(0, 3).map(image => <img key={image.id} src={image.mediaUrl} alt="" loading="lazy" />)}
               </div>
-              <div><h3>{sermon.title}</h3><p>{sermon.images?.length || 0} слайдов</p></div>
+              <div><h3>{sermon.title}</h3><p>{isLive ? `Сейчас на ТВ · слайд ${liveIndex + 1} из ${sermon.images?.length || 0}` : `${sermon.images?.length || 0} слайдов`}</p></div>
+              <div className="sermon-fit-toggle" aria-label="Отображение проповеди">
+                <button className={sermon.fit === 'contain' || !sermon.fit ? 'active' : ''} onClick={() => action('Слайды вписаны в экран', () => changeSermonFit(sermon, 'contain'))}>Вместить</button>
+                <button className={sermon.fit === 'safe' ? 'active' : ''} onClick={() => action('Слайды показаны с полями', () => changeSermonFit(sermon, 'safe'))}>С полями</button>
+                <button className={sermon.fit === 'cover' ? 'active' : ''} onClick={() => action('Слайды заполняют экран', () => changeSermonFit(sermon, 'cover'))}>Заполнить</button>
+              </div>
+              {isLive && (
+                <div className="sermon-live-controls">
+                  <button disabled={liveIndex === 0} onClick={() => action('Слайд назад', () => api('/api/sermon/previous', { method: 'POST' }))}><SkipBack size={18} /> Назад</button>
+                  <strong>{liveIndex + 1} / {sermon.images?.length || 0}</strong>
+                  <button className="primary" disabled={liveIndex >= (sermon.images?.length || 1) - 1} onClick={() => action('Слайд вперёд', () => api('/api/sermon/next', { method: 'POST' }))}>Вперёд <SkipForward size={18} /></button>
+                </div>
+              )}
               <div className="button-row compact">
                 <button className="primary" onClick={() => action('Проповедь показана', () => api(`/api/sermons/${sermon.id}/show`, { method: 'POST' }))}><Monitor size={17} /> На ТВ</button>
                 <button onClick={() => action('Проповедь добавлена в план', () => api(`/api/sermons/${sermon.id}/add-to-plan`, { method: 'POST' }))}><ListPlus size={17} /> В план</button>
@@ -3048,7 +3069,7 @@ function SermonsPanel({ action, refreshPlan }) {
                 <button className="danger" onClick={() => deleteSermon(sermon.id)}><Trash2 size={17} /></button>
               </div>
             </article>
-          ))}
+          )})}
         </div>
 
         <div className="divider" />
@@ -3806,7 +3827,7 @@ function SermonScreen({ payload }) {
   if (!current) return <MessageScreen payload={{ title: payload.title || 'Проповедь', body: 'Нет слайдов для показа.' }} />;
   return (
     <section className="image-screen sermon-screen">
-      <img key={current.mediaUrl} src={current.mediaUrl} alt={current.title || `Слайд ${index + 1}`} className={cx('screen-image', payload.fit === 'contain' && 'contain')} />
+      <img key={current.mediaUrl} src={current.mediaUrl} alt={current.title || `Слайд ${index + 1}`} className={cx('screen-image', (payload.fit === 'contain' || payload.fit === 'safe') && 'contain', payload.fit === 'safe' && 'safe')} />
       <div className="sermon-counter">{index + 1} / {images.length}</div>
     </section>
   );

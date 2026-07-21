@@ -366,11 +366,11 @@ async function heartbeat(request, env) {
     `SELECT
       (SELECT COUNT(*) FROM media_items
         WHERE deleted_at IS NULL
-          AND (status = 'pending' OR (status = 'downloading' AND julianday(download_started_at) < julianday('now', '-15 minutes'))))
+          AND (status IN ('pending', 'failed') OR (status = 'downloading' AND julianday(download_started_at) < julianday('now', '-15 minutes'))))
       +
       (SELECT COUNT(*) FROM sermon_packages
         WHERE deleted_at IS NULL
-          AND (status = 'pending' OR (status = 'downloading' AND julianday(download_started_at) < julianday('now', '-15 minutes')))) AS count`
+          AND (status IN ('pending', 'failed') OR (status = 'downloading' AND julianday(download_started_at) < julianday('now', '-15 minutes')))) AS count`
   ).first();
   return json({ ok: true, deviceId, time: now, pendingCount: pending?.count || 0 });
 }
@@ -382,7 +382,7 @@ async function devicePending(request, env) {
     `SELECT id, kind, title, language, category, tags_json, original_file_name, mime_type, size_bytes, r2_key, source_url, add_to_plan, plan_position, status, created_at
        FROM media_items
       WHERE deleted_at IS NULL
-        AND (status = 'pending' OR (status = 'downloading' AND julianday(download_started_at) < julianday('now', '-15 minutes')))
+        AND (status IN ('pending', 'failed') OR (status = 'downloading' AND julianday(download_started_at) < julianday('now', '-15 minutes')))
       ORDER BY created_at ASC
       LIMIT ?`
   ).bind(limit).all();
@@ -390,7 +390,7 @@ async function devicePending(request, env) {
     `SELECT id, title, fit, slides_json, size_bytes, add_to_plan, plan_position, status, created_at
        FROM sermon_packages
       WHERE deleted_at IS NULL
-        AND (status = 'pending' OR (status = 'downloading' AND julianday(download_started_at) < julianday('now', '-15 minutes')))
+        AND (status IN ('pending', 'failed') OR (status = 'downloading' AND julianday(download_started_at) < julianday('now', '-15 minutes')))
       ORDER BY created_at ASC
       LIMIT ?`
   ).bind(limit).all();

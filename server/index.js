@@ -2532,7 +2532,7 @@ function sermonFromInput(store, input = {}, existing = {}) {
     ...existing,
     id: existing.id || nanoid(10),
     title: String(input.title || existing.title || 'Новая проповедь').trim() || 'Новая проповедь',
-    fit: input.fit === 'cover' ? 'cover' : 'contain',
+    fit: input.fit === 'cover' ? 'cover' : (input.fit === 'safe' ? 'safe' : 'contain'),
     images: images.map(image => ({ id: image.id, title: image.title, mediaUrl: image.mediaUrl })),
     createdAt: existing.createdAt || timestamp,
     updatedAt: timestamp
@@ -2565,6 +2565,31 @@ app.put('/api/sermons/:id', (req, res) => {
     : item);
   writeStore(store);
   res.json(sermon);
+});
+
+app.post('/api/sermons/:id/fit', (req, res) => {
+  const store = readStore();
+  const index = (store.sermons || []).findIndex(item => item.id === req.params.id);
+  if (index === -1) return res.status(404).json({ error: 'Проповедь не найдена' });
+  const fit = req.body?.fit === 'cover' ? 'cover' : (req.body?.fit === 'safe' ? 'safe' : 'contain');
+  const sermon = { ...store.sermons[index], fit, updatedAt: now() };
+  store.sermons[index] = sermon;
+  store.servicePlan = store.servicePlan.map(item => item.type === 'sermon' && item.payload?.sermonId === sermon.id
+    ? { ...item, payload: { ...item.payload, sermon } }
+    : item);
+  if (store.screenState?.mode === 'sermon' && store.screenState.payload?.id === sermon.id) {
+    store.screenState = {
+      ...store.screenState,
+      payload: { ...store.screenState.payload, fit },
+      updatedBy: 'admin',
+      updatedAt: now()
+    };
+  }
+  writeStore(store);
+  if (store.screenState?.mode === 'sermon' && store.screenState.payload?.id === sermon.id) {
+    broadcast({ type: 'state', state: store.screenState });
+  }
+  res.json({ sermon, screenState: store.screenState });
 });
 
 app.delete('/api/sermons/:id', (req, res) => {
