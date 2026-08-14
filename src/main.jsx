@@ -2022,6 +2022,11 @@ function FontScaleSlider({ value, onChange, live }) {
   );
 }
 
+const LIVE_CONTROL_LANGUAGE_CODES = ['en', 'sr', 'ru', 'uk', 'bs', 'hr', 'de', 'pl', 'fr', 'es'];
+const liveControlLanguages = LIVE_CONTROL_LANGUAGE_CODES
+  .map(code => supportedLanguages.find(language => language.code === code))
+  .filter(Boolean);
+
 function LiveTranslationPanel({ action }) {
   const [state, setState] = useState(null);
   const [engine, setEngine] = useState('stub');
@@ -2053,7 +2058,7 @@ function LiveTranslationPanel({ action }) {
         </label>
         <label>Язык субтитров на ТВ
           <select value={displayLang} onChange={e => setDisplayLang(e.target.value)}>
-            {supportedLanguages.map(l => <option key={l.code} value={l.code}>{l.flag} {l.name}</option>)}
+            {liveControlLanguages.map(l => <option key={l.code} value={l.code}>{l.name}</option>)}
           </select>
         </label>
         <div className="live-tr-key">
@@ -2161,6 +2166,7 @@ function CaptionKitSignalsPanel({ action, signals, onRefresh }) {
 }
 
 function TranslationPanel({ action }) {
+  const [view, setView] = useState('');
   const [providers, setProviders] = useState([]);
   const [activeId, setActiveId] = useState('');
   const [draft, setDraft] = useState(null);
@@ -2179,7 +2185,9 @@ function TranslationPanel({ action }) {
     }
   }
 
-  useEffect(() => { load(); }, []);
+  useEffect(() => {
+    if (view === 'services' || view === 'captionkit') load();
+  }, [view]);
 
   async function activate(id) {
     await api(`/api/translation/providers/${id}/activate`, { method: 'POST' });
@@ -2246,9 +2254,25 @@ function TranslationPanel({ action }) {
 
   return (
     <div className="stack">
-      <LiveTranslationPanel action={action} />
-      <CaptionKitSignalsPanel action={action} signals={captionKitSignals} onRefresh={load} />
-    <section className="grid two">
+      <div className="card translation-menu-card">
+        <div className="card-title-row compact">
+          <div>
+            <h2>Перевод</h2>
+            <p>Открой только нужный раздел. Остальные инструменты не будут загружаться и замедлять телефон.</p>
+          </div>
+          {view && <button type="button" onClick={() => setView('')}>Закрыть раздел</button>}
+        </div>
+        <div className="translation-tool-menu">
+          <button type="button" className={cx(view === 'services' && 'primary')} onClick={() => setView('services')}><QrCode size={20} /> Сервисы и QR</button>
+          <button type="button" className={cx(view === 'live' && 'primary')} onClick={() => setView('live')}><Radio size={20} /> Live-перевод</button>
+          <button type="button" className={cx(view === 'captionkit' && 'primary')} onClick={() => setView('captionkit')}><Megaphone size={20} /> CaptionKit</button>
+        </div>
+      </div>
+
+      {!view && <div className="card translation-menu-placeholder"><p>Выбери нужный инструмент выше.</p></div>}
+      {view === 'live' && <LiveTranslationPanel action={action} />}
+      {view === 'captionkit' && <CaptionKitSignalsPanel action={action} signals={captionKitSignals} onRefresh={load} />}
+      {view === 'services' && <section className="grid two">
       <div className="stack">
         <div className="card">
           <div className="card-title-row compact">
@@ -2348,7 +2372,7 @@ function TranslationPanel({ action }) {
         )}
         <p className="hint">QR-экран и экран-субтитры — это два отдельных пункта. Покажи QR, дай людям просканировать, затем включи субтитры — на экране пойдут слова проповедника.</p>
       </div>
-    </section>
+      </section>}
     </div>
   );
 }
